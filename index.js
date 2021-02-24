@@ -10,7 +10,7 @@ async function main() {
         sem = process.argv[3]
     }
     else {
-        let { y, s } = (await fetchYearSem()).courseDescriptionData
+        let { y, s } = (await fetchYearSem()).current
         year = y
         sem = s
     }
