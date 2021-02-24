@@ -98,22 +98,32 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             syllabusLinks: parseSyllabusLinks($($(this).children('td')[20]).children('a')),
         })
     }).toArray()
-    console.log('[fetch] courseDescription')
+    console.log('[fetch] course description')
     courseData = await Promise.all(courseData.map(async x => {
-        let courseDescriptionData = await fetchCourseDescription(x.courseDescriptionLink)
-        console.log(`[fetch] courseDescription ${courseDescriptionData.name.zh} done.`)
-        return { ...courseDescriptionData, ...x }
+        try {
+            let courseDescriptionData = await fetchCourseDescription(x.courseDescriptionLink)
+            console.log(`[fetch] course description ${courseDescriptionData.name.zh} done.`)
+            return { ...courseDescriptionData, ...x }
+        }
+        catch (e) {
+            console.log(`[error][fetch] course description ${x.name.zh} error.`)
+        }
     }));
 
     console.log('[fetch] syllabus')
 
     await Promise.all(courseData.map(async x => {
-        let res = []
-        for (let syllabusLink of x.syllabusLinks) {
-            res.push(await fetchSyllabus(syllabusLink))
+        try {
+            let res = []
+            for (let syllabusLink of x.syllabusLinks) {
+                res.push(await fetchSyllabus(syllabusLink))
+            }
+            console.log(`[fetch] syllabus ${x.name.zh} done.`)
+            jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res)
         }
-        console.log(`[fetch] syllabus ${x.name.zh} done.`)
-        jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res)
+        catch (e) {
+            console.log(`[error][fetch] syllabus ${x.name.zh} error.`)
+        }
     }));
 
     console.log(`[fetch] all done.`)

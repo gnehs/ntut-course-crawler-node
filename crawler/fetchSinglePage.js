@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const axios = require('axios').default;
 const iconv = require('iconv-lite');
 const axiosRetry = require('axios-retry');
-axiosRetry(axios, { retries: 3 });
+axiosRetry(axios, { retries: 10, shouldResetTimeout: true });
 async function fetchSinglePage(url) {
     const resp = await axios.request({
         method: 'GET',
