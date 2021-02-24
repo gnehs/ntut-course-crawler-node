@@ -1,10 +1,9 @@
-const puppeteer = require("puppeteer");
+const { fetchSinglePage } = require('./fetchSinglePage')
+const jsonfile = require('jsonfile');
 const fs = require('fs');
 async function main() {
-    let browser = await puppeteer.launch()
     let url = 'https://aps.ntut.edu.tw/course/tw/QueryCurrPage.jsp'
-    let $ = await fetchSinglePage(browser, url)
-    await browser.close()
+    let $ = await fetchSinglePage(url)
 
     let result = { years: {}, current: { year: 0, sem: 0 } }
     $('select[name="year"] option')
