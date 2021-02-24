@@ -30,7 +30,7 @@ jobs:
     - name: Install npm packages
       run: npm install
     - name: fetch current data
-      run: node ./crawler/fetchYearSem.js
+      run: node getYears.js
   FetchData:
     needs: fetchYears
     runs-on: ubuntu-latest
