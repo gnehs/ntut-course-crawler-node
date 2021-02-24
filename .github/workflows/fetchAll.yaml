@@ -8,7 +8,7 @@ on:
     - cron:  '* * 1 * *'
 
 jobs:
-  fetchYears:
+  FetchYears:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
@@ -31,7 +31,7 @@ jobs:
       run: npm install
     - name: fetch current data
       run: node ./crawler/fetchYearSem.js
-  fetchYearData:
+  FetchData:
     needs: fetchYears
     runs-on: ubuntu-latest
     strategy:
@@ -62,8 +62,8 @@ jobs:
         name: ${{ matrix.years }}
         path: ./dist/${{ matrix.years }}/
         retention-days: 2
-  addMainJson:
-    needs: fetchYearData
+  Deploy:
+    needs: FetchData
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

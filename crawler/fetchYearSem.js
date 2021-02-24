@@ -14,7 +14,7 @@ async function main() {
         year: $('select[name="year"] option:selected').text(),
         sem: $('select[name="sem"] option:selected').text() == '上學期' ? 1 : 2
     }
-    console.log('::set-output name=matrix::', Object.keys(result.years))
+    console.log('::set-output name=matrix::', JSON.stringify(Object.keys(result.years)))
     fs.mkdirSync(`./dist/`, { recursive: true });
     jsonfile.writeFileSync(`./dist/main.json`, result.years)
     return result
