@@ -30,6 +30,7 @@ jobs:
     - name: Install npm packages
       run: npm install
     - name: fetch current data
+      id: set-matrix
       run: node getYears.js
   FetchData:
     needs: fetchYears
