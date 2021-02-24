@@ -106,7 +106,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             return { ...courseDescriptionData, ...x }
         }
         catch (e) {
-            console.log(`[error][fetch] course description ${x.name.zh} error.`)
+            console.log(`[error][fetch] course description ${courseDescriptionData.name.zh} error.`)
         }
     }));
 
