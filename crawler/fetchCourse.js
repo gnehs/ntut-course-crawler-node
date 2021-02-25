@@ -98,11 +98,16 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             syllabusLinks: parseSyllabusLinks($($(this).children('td')[20]).children('a')),
         })
     }).toArray()
+
+    let coursesDone
+
     console.log('[fetch] course description')
-    courseData = await Promise.all(courseData.map(async (x, i) => {
+    coursesDone = 0
+    courseData = await Promise.all(courseData.map(async x => {
         try {
             let courseDescriptionData = await fetchCourseDescription(x.courseDescriptionLink)
-            console.log(`[fetch] course description (${i}/${courseData.length}) ${courseDescriptionData.name.zh} done.`)
+            coursesDone++
+            console.log(`[fetch] course description (${coursesDone}/${courseData.length}) ${courseDescriptionData.name.zh} done.`)
             return { ...courseDescriptionData, ...x }
         }
         catch (e) {
@@ -111,14 +116,15 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
     }));
 
     console.log('[fetch] syllabus')
-
-    await Promise.all(courseData.map(async (x, i)  => {
+    coursesDone = 0
+    await Promise.all(courseData.map(async x => {
         try {
             let res = []
             for (let syllabusLink of x.syllabusLinks) {
                 res.push(await fetchSyllabus(syllabusLink))
             }
-            console.log(`[fetch] syllabus (${i}/${courseData.length}) ${x.name.zh} done.`)
+            coursesDone++
+            console.log(`[fetch] syllabus (${coursesDone}/${courseData.length}) ${x.name.zh} done.`)
             jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res)
         }
         catch (e) {
