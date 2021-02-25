@@ -36,7 +36,9 @@ jobs:
     needs: fetchYears
     runs-on: ubuntu-latest
     strategy:
-      matrix: ${{fromJson(needs.fetchYears.outputs.matrix)}}
+      matrix: 
+        years: ${{fromJson(needs.fetchYears.outputs.matrix)}}
+        m: ['日間部', '進修部', '研究所(日間部、進修部、週末碩士班)']
     steps: 
     - uses: actions/checkout@v2
       with:
@@ -54,18 +56,18 @@ jobs:
           ${{ runner.os }}-node-
     - name: Install npm packages
       run: npm install
-    - name: Fetch data (${{ matrix.years }}) Sem:1
+    - name: Fetch data ${{ matrix.m }} ${{ matrix.years }} - 1 
       run: node index.js ${{ matrix.years }} 1
-    - name: Fetch data (${{ matrix.years }}) Sem:2
+    - name: Fetch data ${{ matrix.m }} ${{ matrix.years }} - 2
       run: node index.js ${{ matrix.years }} 2
     - uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.years }}
+        name: ${{ matrix.m }}${{ matrix.years }}
         path: ./dist/${{ matrix.years }}/
         retention-days: 2
   Deploy:
     needs: FetchData
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
     steps:
     - uses: actions/checkout@v2
     - uses: actions/download-artifact@v2

@@ -27,7 +27,7 @@ async function getResp(url, retry = 0) {
     catch (e) {
         if (retry < 10) {
             retry += 1
-            await delay(1000 * retry);
+            await delay(1000 * retry * retry);
             return getResp(url, retry)
         } else {
             console.log(`[error] ${url}`)
