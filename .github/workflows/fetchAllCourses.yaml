@@ -37,8 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix: 
-        years: ${{fromJson(needs.fetchYears.outputs.matrix)}}
-        m: [0,1,2]
+        years: ${{fromJson(needs.fetchYears.outputs.matrix)}} 
     steps: 
     - uses: actions/checkout@v2
       with:
@@ -56,10 +55,10 @@ jobs:
           ${{ runner.os }}-node-
     - name: Install npm packages
       run: npm install
-    - name: Fetch data ${{ matrix.m }} ${{ matrix.years }} - 1 
-      run: node fetchCourse.js ${{ matrix.m }} ${{ matrix.years }} 1
-    - name: Fetch data ${{ matrix.m }} ${{ matrix.years }} - 2
-      run: node fetchCourse.js ${{ matrix.m }} ${{ matrix.years }} 2
+    - name: Fetch data ${{ matrix.years }} - 1 
+      run: node fetchCourse.js ${{ matrix.years }} 1
+    - name: Fetch data ${{ matrix.years }} - 2
+      run: node fetchCourse.js ${{ matrix.years }} 2
     - uses: actions/upload-artifact@v2
       with:
         name: ${{ matrix.years }}

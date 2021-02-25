@@ -107,11 +107,11 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
         try {
             let courseDescriptionData = await fetchCourseDescription(x.courseDescriptionLink)
             coursesDone++
-            console.log(`[fetch] course description (${coursesDone}/${courseData.length}) ${courseDescriptionData.name.zh} done.`)
+            console.log(`[fetch] course description (${coursesDone}/${courseData.length}) ${matricKey} - ${courseDescriptionData.name.zh} done.`)
             return { ...courseDescriptionData, ...x }
         }
         catch (e) {
-            console.log(`[error][fetch] course description ${courseDescriptionData.name.zh} error.`)
+            console.log(`[error][fetch] course description ${matricKey} - ${courseDescriptionData.name.zh} error.`)
         }
     }));
 
@@ -124,11 +124,11 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
                 res.push(await fetchSyllabus(syllabusLink))
             }
             coursesDone++
-            console.log(`[fetch] syllabus (${coursesDone}/${courseData.length}) ${x.name.zh} done.`)
+            console.log(`[fetch] syllabus (${coursesDone}/${courseData.length}) ${matricKey} - ${x.name.zh} done.`)
             jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res)
         }
         catch (e) {
-            console.log(`[error][fetch] syllabus ${x.name.zh} error.`)
+            console.log(`[error][fetch] syllabus ${matricKey} - ${x.name.zh} error.`)
         }
     }));
 

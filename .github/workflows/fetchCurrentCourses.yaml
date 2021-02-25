@@ -9,10 +9,7 @@ on:
 
 jobs:
   FetchCurrent: 
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:  
-        m: [0,1,2]
+    runs-on: ubuntu-latest 
     steps:
     - uses: actions/checkout@v2
       with:
@@ -31,23 +28,7 @@ jobs:
     - name: Install npm packages
       run: npm install
     - name: fetch course data
-      run: node fetchCourse.js ${{ matrix.m }}
-    - uses: actions/upload-artifact@v2
-      with:
-        name: ${{ matrix.years }}
-        path: ./dist/${{ matrix.years }}/
-        retention-days: 2 
-  Deploy: 
-    needs: FetchCurrent
-    runs-on: ubuntu-latest 
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/download-artifact@v2
-      with:
-        path: ./dist/
-    - name: Show All years
-      run: ls -R
-      working-directory: ./dist/
+      run: node fetchCourse.js
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
