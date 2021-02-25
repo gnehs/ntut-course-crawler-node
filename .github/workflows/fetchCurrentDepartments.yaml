@@ -30,9 +30,8 @@ jobs:
     - name: Fetch department data 
       run: node fetchDepartment.js  
     - uses: actions/upload-artifact@v2
-      with:
-        name: ${{ matrix.years }}-department
-        path: ./dist/${{ matrix.years }}/
+      with: 
+        path: ./dist/
         retention-days: 2
   Deploy: 
     needs: FetchDepartment
