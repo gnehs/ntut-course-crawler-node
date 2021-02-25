@@ -1,0 +1,83 @@
+name: fetchAll
+
+on:
+  push:
+    branches:
+      - 蹦蹦
+  schedule:
+    - cron:  '* * 1 * *'
+
+jobs:
+  FetchYears:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+    - name: Setup Node
+      uses: actions/setup-node@v2-beta
+      with:
+        node-version: '12.x'
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - name: Install npm packages
+      run: npm install
+    - name: fetch current data
+      id: set-matrix
+      run: node getYears.js 
+  FetchDepartment:
+    needs: fetchYears
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: 
+        years: ${{fromJson(needs.fetchYears.outputs.matrix)}} 
+    steps: 
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+    - name: Setup Node
+      uses: actions/setup-node@v2-beta
+      with:
+        node-version: '12.x'
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - name: Install npm packages
+      run: npm install
+    - name: Fetch department data ${{ matrix.years }} - 1 
+      run: node fetchDepartment.js ${{ matrix.years }} 1
+    - name: Fetch department data ${{ matrix.years }} - 2
+      run: node fetchDepartment.js ${{ matrix.years }} 2
+    - uses: actions/upload-artifact@v2
+      with:
+        name: ${{ matrix.years }}-department
+        path: ./dist/${{ matrix.years }}/
+        retention-days: 2
+  Deploy:
+    needs: FetchDepartment
+    runs-on: ubuntu-latest 
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/download-artifact@v2
+      with:
+        path: ./dist/
+    - name: Show All years
+      run: ls -R
+      working-directory: ./dist/
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: dist
+        keep_files: true

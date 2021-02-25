@@ -57,16 +57,16 @@ jobs:
     - name: Install npm packages
       run: npm install
     - name: Fetch data ${{ matrix.m }} ${{ matrix.years }} - 1 
-      run: node index.js ${{ matrix.years }} 1
+      run: node fetchCourse.js ${{ matrix.m }} ${{ matrix.years }} 1
     - name: Fetch data ${{ matrix.m }} ${{ matrix.years }} - 2
-      run: node index.js ${{ matrix.years }} 2
+      run: node fetchCourse.js ${{ matrix.m }} ${{ matrix.years }} 2
     - uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.m }}${{ matrix.years }}
+        name: ${{ matrix.years }}-${{ matrix.m }}
         path: ./dist/${{ matrix.years }}/
-        retention-days: 2
+        retention-days: 2 
   Deploy:
-    needs: FetchData
+    needs: [FetchData,FetchDepartment]
     runs-on: ubuntu-latest 
     steps:
     - uses: actions/checkout@v2

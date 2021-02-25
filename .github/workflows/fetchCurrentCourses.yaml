@@ -1,0 +1,56 @@
+name: fetchCurrent
+
+on:
+  push:
+    branches:
+      - 蹦蹦
+  schedule:
+    - cron:  '0 0 */1 * *'
+
+jobs:
+  FetchCurrent: 
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:  
+        m: ['日間部', '進修部', '研究所(日間部、進修部、週末碩士班)']
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+    - name: Setup Node
+      uses: actions/setup-node@v2-beta
+      with:
+        node-version: '12.x'
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - name: Install npm packages
+      run: npm install
+    - name: fetch course data
+      run: node fetchCourse.js ${{ matrix.m }}
+    - uses: actions/upload-artifact@v2
+      with:
+        name: ${{ matrix.m }}${{ matrix.years }}
+        path: ./dist/${{ matrix.years }}/
+        retention-days: 2 
+  Deploy: 
+    needs: FetchCurrent
+    runs-on: ubuntu-latest 
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/download-artifact@v2
+      with:
+        path: ./dist/
+    - name: Show All years
+      run: ls -R
+      working-directory: ./dist/
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: dist
+        keep_files: true 

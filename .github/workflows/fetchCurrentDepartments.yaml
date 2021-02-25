@@ -7,13 +7,10 @@ on:
   schedule:
     - cron:  '0 0 */1 * *'
 
-jobs:
-  fetchCurrent: 
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:  
-        m: ['日間部', '進修部', '研究所(日間部、進修部、週末碩士班)']
-    steps:
+jobs: 
+  FetchDepartment: 
+    runs-on: ubuntu-latest 
+    steps: 
     - uses: actions/checkout@v2
       with:
         submodules: true
@@ -30,15 +27,15 @@ jobs:
           ${{ runner.os }}-node-
     - name: Install npm packages
       run: npm install
-    - name: fetch current data
-      run: node index.js
+    - name: Fetch department data 
+      run: node fetchDepartment.js  
     - uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.m }}${{ matrix.years }}
+        name: ${{ matrix.years }}-department
         path: ./dist/${{ matrix.years }}/
         retention-days: 2
-  Deploy:
-    needs: fetchCurrent
+  Deploy: 
+    needs: FetchDepartment
     runs-on: ubuntu-latest 
     steps:
     - uses: actions/checkout@v2
