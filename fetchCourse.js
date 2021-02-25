@@ -11,9 +11,9 @@ async function main() {
         sem = s
     }
     await Promise.all([
-        await fetchCourse('日間部', year, sem),
-        await fetchCourse('進修部', year, sem),
-        await fetchCourse('研究所(日間部、進修部、週末碩士班)', year, sem)
+        fetchCourse('日間部', year, sem),
+        fetchCourse('進修部', year, sem),
+        fetchCourse('研究所(日間部、進修部、週末碩士班)', year, sem)
     ]);
 }
 main()
