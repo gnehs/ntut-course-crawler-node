@@ -62,7 +62,7 @@ jobs:
       run: node fetchCourse.js ${{ matrix.m }} ${{ matrix.years }} 2
     - uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.years }}-${{ matrix.m }}
+        name: ${{ matrix.years }}
         path: ./dist/${{ matrix.years }}/
         retention-days: 2 
   Deploy:
