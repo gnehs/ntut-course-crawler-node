@@ -28,22 +28,7 @@ jobs:
     - name: Install npm packages
       run: npm install
     - name: Fetch department data 
-      run: node fetchDepartment.js  
-    - uses: actions/upload-artifact@v2
-      with: 
-        path: ./dist/
-        retention-days: 2
-  Deploy: 
-    needs: FetchDepartment
-    runs-on: ubuntu-latest 
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/download-artifact@v2
-      with:
-        path: ./dist/
-    - name: Show All years
-      run: ls -R
-      working-directory: ./dist/
+      run: node fetchDepartment.js
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
