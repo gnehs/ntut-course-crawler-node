@@ -12,6 +12,6 @@ async function main() {
         year = y
         sem = s
     }
-    await fetchCourse(m, year, sem)
+    await fetchCourse(['日間部', '進修部', '研究所(日間部、進修部、週末碩士班)'][m], year, sem)
 }
 main()
