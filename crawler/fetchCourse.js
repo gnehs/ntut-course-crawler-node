@@ -119,7 +119,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
 
     console.log(`[fetch] ${matricKey} syllabus`)
     coursesDone = 0
-    for (let x of courseData) {
+    for (let x of result) {
         try {
             let res = []
             for (let syllabusLink of x.syllabusLinks) {
