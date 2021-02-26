@@ -2,7 +2,7 @@
 const fetchYearSem = require('./crawler/fetchYearSem');
 const { fetchCourse } = require('./crawler/fetchCourse');
 
-async function main() {
+(async () => {
     let year = process.argv[2] || null,
         sem = process.argv[3] || null
     if (!year || !sem) {
@@ -16,5 +16,4 @@ async function main() {
         fetchCourse('研究所(日間部、進修部、週末碩士班)', year, sem)
     ]);
     console.log('All done!')
-}
-main()
+})();

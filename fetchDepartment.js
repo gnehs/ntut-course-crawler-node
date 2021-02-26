@@ -2,7 +2,7 @@
 const fetchYearSem = require('./crawler/fetchYearSem');
 const { fetchDepartment } = require('./crawler/fetchDepartment');
 
-async function main() {
+(async () => {
     let
         year = process.argv[2] || null,
         sem = process.argv[3] || null
@@ -13,5 +13,4 @@ async function main() {
     }
     await fetchDepartment(year, sem)
     console.log('All done!')
-}
-main()
+})();

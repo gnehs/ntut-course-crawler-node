@@ -101,9 +101,9 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
 
     let coursesDone
 
-    console.log('[fetch] course description')
+    console.log(`[fetch] ${matricKey} course description`)
     coursesDone = 0
-    courseData = await Promise.all(courseData.map(async x => {
+    for (let x of courseData) {
         try {
             let courseDescriptionData = await fetchCourseDescription(x.courseDescriptionLink)
             coursesDone++
@@ -113,11 +113,11 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
         catch (e) {
             console.log(`[error][fetch] course description ${matricKey} - ${courseDescriptionData.name.zh} error.`)
         }
-    }));
+    }
 
-    console.log('[fetch] syllabus')
+    console.log(`[fetch] ${matricKey} syllabus`)
     coursesDone = 0
-    await Promise.all(courseData.map(async x => {
+    for (let x of courseData) {
         try {
             let res = []
             for (let syllabusLink of x.syllabusLinks) {
@@ -130,7 +130,8 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
         catch (e) {
             console.log(`[error][fetch] syllabus ${matricKey} - ${x.name.zh} error.`)
         }
-    }));
+    }
+
 
     console.log(`[fetch] ${matricKey} done.`)
     jsonfile.writeFileSync(`./dist/${year}/${sem}/${matricKey == '日間部' ? 'main' : matricKey}.json`, courseData)
