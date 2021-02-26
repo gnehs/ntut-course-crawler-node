@@ -132,9 +132,8 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
         }
     }));
 
-    console.log(`[fetch] all done.`)
+    console.log(`[fetch] ${matricKey} done.`)
     jsonfile.writeFileSync(`./dist/${year}/${sem}/${matricKey == '日間部' ? 'main' : matricKey}.json`, courseData)
-    console.log('All done!')
 }
 
 module.exports = { fetchCourse };

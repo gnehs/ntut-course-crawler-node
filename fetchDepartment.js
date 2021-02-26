@@ -12,5 +12,6 @@ async function main() {
         sem = s
     }
     await fetchDepartment(year, sem)
+    console.log('All done!')
 }
 main()

@@ -15,5 +15,6 @@ async function main() {
         fetchCourse('進修部', year, sem),
         fetchCourse('研究所(日間部、進修部、週末碩士班)', year, sem)
     ]);
+    console.log('All done!')
 }
 main()
