@@ -20,10 +20,13 @@ async function fetchDepartment(year = 109, sem = 2) {
     let $ = await fetchSinglePage(url)
 
     let res = []
-    for (let department of $('a')) {
+    let departments = $('a')
+    let progress = 0
+    for (let department of departments) {
         let name = $(department).text()
         let href = $(department).attr('href')
-        console.log(`[fetch] 正在取得 ${name}`)
+        progress++
+        console.log(`[fetch] 正在取得 (${progress}/${departments.length}) ${name}`)
         res.push({
             name,
             href,
