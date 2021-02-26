@@ -111,7 +111,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             result.push({ ...courseDescriptionData, ...x })
         }
         catch (e) {
-            console.log(`[error][fetch] course description ${matricKey} - ${courseDescriptionData.name.zh} error.`)
+            console.log(`[error][fetch] course description error.`, e)
         }
     }
     console.log(`[fetch] ${matricKey == '日間部' ? 'main' : matricKey}.json saved.`)
@@ -130,7 +130,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res)
         }
         catch (e) {
-            console.log(`[error][fetch] syllabus ${matricKey} - ${x.name.zh} error.`)
+            console.log(`[error][fetch] syllabus error.`, e)
         }
     }
 
