@@ -1,2 +1,25 @@
 # ntut-course-crawler-node
-ntut-course-crawler node version
+這裡是 Node.js 版本的北科課程系統爬蟲。
+
+## 北科課程好朋友
+https://gnehs.github.io/ntut-course-web/
+
+## 關於
+https://gnehs.github.io/ntut-course-web/about
+
+## API 文件
+https://gnehs.github.io/ntut-course-web/api
+
+## 資料
+你可以切換到 `gh-pages` 分支查看或下載抓取的資料
+
+## 如何使用
+- install Node.js
+- clone repo
+- `cd ./path/ntut-course-crawler-node`
+- `npm i`
+- `node fetchAll.js` or `node fetchCourse.js`
+
+## 提醒
+- 課程網站若抓取過快很容易被封鎖，因此本爬蟲有限制同一時間抓取頁面數量，可自行調整。
+- 我抓二十年的資料花了大概兩天，所以你要抓的話自己加油喔！
