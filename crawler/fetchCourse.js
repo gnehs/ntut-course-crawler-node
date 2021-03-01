@@ -19,6 +19,9 @@ async function fetchCourseDescription(url = 'Curr.jsp?format=-2&code=1400037') {
             en: $('body > table > tbody > tr:nth-child(4) > td').text().trim().replace(globalRegexParse, '')
         }
     }
+    if (res.name.en == 'Nil') {
+        res.name = { zh: '', en: '' }
+    }
     return res
 }
 async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=287585&code=12003') {
@@ -69,10 +72,14 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
         }
         function parseTime(timeString) {
             let splitedArray = timeString.replace(/\n|^ | $|　/g, '').split(' ')
-            return splitedArray[0] != '' ? splitedArray : []
+            return splitedArray.filter(x => x.length)
         }
         return ({
             id: $($(this).children('td')[0]).text().replace(globalRegexParse, ''),
+            name: {
+                zh: $($(this).children('td')[1]).text().replace(globalRegexParse, ''),
+                en: null
+            },
             stage: $($(this).children('td')[2]).text().replace(globalRegexParse, ''),
             credit: $($(this).children('td')[3]).text().replace(globalRegexParse, ''),
             hours: $($(this).children('td')[4]).text().replace(globalRegexParse, ''),
@@ -108,6 +115,8 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             let courseDescriptionData = await fetchCourseDescription(x.courseDescriptionLink)
             coursesDone++
             console.log(`[fetch] course description (${coursesDone}/${courseData.length}) ${matricKey} - ${courseDescriptionData.name.zh} done.`)
+            x.name.en = courseDescriptionData.name.en
+            delete courseDescriptionData.name
             result.push({ ...courseDescriptionData, ...x })
         }
         catch (e) {
