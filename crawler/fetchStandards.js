@@ -8,8 +8,9 @@ async function main() {
         years.push($(yr).attr('href').match(/\&year=(.+)$/)[1])
     }
     // 儲存各年份課程標準
-    for (let yr in years) {
-        await parseYear(yr)
+    for (let yr of years) {
+        console.log(yr)
+        //await parseYear(yr)
     }
     jsonfile.writeFileSync(`./dist/standards.json`, years)
 }
@@ -82,5 +83,4 @@ async function parseDeaprtment(url = 'https://aps.ntut.edu.tw/course/tw/Cprog.js
     result.rules = result.rules ? result.rules.split('<br>').map(x => x.replace(/(.+)\.|\n/g, '')) : null
     return result
 }
-module.exports = main;
-parseYear(109) 
+module.exports = main; 
