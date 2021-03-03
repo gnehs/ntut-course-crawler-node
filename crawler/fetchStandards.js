@@ -9,8 +9,7 @@ async function main() {
     }
     // 儲存各年份課程標準
     for (let yr of years) {
-        console.log(yr)
-        //await parseYear(yr)
+        await parseYear(yr)
     }
     jsonfile.writeFileSync(`./dist/standards.json`, years)
 }
