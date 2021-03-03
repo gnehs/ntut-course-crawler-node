@@ -22,7 +22,7 @@ async function parseYear(year) {
         let title = $(martic).text()
         let url = $(martic).attr('href').replace('.', '')
         url = `https://aps.ntut.edu.tw/course/tw/${url}`
-        console.log('[fetch]', title)
+        console.log('[fetch]', year, title)
         result[title] = await parseSystem(url)
     }
     jsonfile.writeFileSync(`./dist/${year}/standard.json`, result)
@@ -52,7 +52,6 @@ async function parseSystem(url = 'https://aps.ntut.edu.tw/course/tw/Cprog.jsp?fo
         let departmentUrl = $(tr).find('a').attr('href').replace('.', '')
         departmentUrl = `https://aps.ntut.edu.tw/course/tw${departmentUrl}`
         let departmentTitle = getChildText($, tr, 0)
-        console.log('[fetch]', departmentTitle)
         result[departmentTitle] = {
             credits,
             ...(await parseDeaprtment(departmentUrl))
