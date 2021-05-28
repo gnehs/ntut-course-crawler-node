@@ -1,5 +1,5 @@
 # ntut-course-crawler-node
-這裡是 Node.js 版本的北科課程系統爬蟲。
+這裡是北科課程系統的網頁爬蟲。
 
 ## 北科課程好朋友
 https://gnehs.github.io/ntut-course-web/
