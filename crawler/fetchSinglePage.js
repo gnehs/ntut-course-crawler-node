@@ -17,13 +17,12 @@ async function fetchSinglePage(url) {
 }
 async function getResp(url, retry = 0) {
     try {
-        const resp = await axios.request({
+        return await axios.request({
             method: 'GET',
             url,
             responseType: 'arraybuffer',
             reponseEncoding: 'binary'
         })
-        return resp
     }
     catch (e) {
         if (retry < 10) {

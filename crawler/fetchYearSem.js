@@ -6,7 +6,8 @@ async function main() {
     let $ = await fetchSinglePage(url)
 
     let result = {
-        years: {}, current: {
+        years: {},
+        current: {
             year: $('select[name="year"] option:selected').text(),
             sem: $('select[name="sem"] option:selected').text() == '上學期' ? 1 : 2
         }
