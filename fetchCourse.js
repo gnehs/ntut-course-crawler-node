@@ -6,10 +6,11 @@ const { fetchCourse } = require('./crawler/fetchCourse');
     let year = process.argv[2] || null,
         sem = process.argv[3] || null
     if (!year || !sem) {
-        let { y, s } = (await fetchYearSem()).current
-        year = y
-        sem = s
+        let { current } = await fetchYearSem()
+        year = current.year
+        sem = current.sem
     }
+    console.log(`[fetch] ${year} ${sem}`)
     await Promise.all([
         fetchCourse('日間部', year, sem),
         fetchCourse('進修部', year, sem),
