@@ -7,9 +7,9 @@ const { fetchDepartment } = require('./crawler/fetchDepartment');
         year = process.argv[2] || null,
         sem = process.argv[3] || null
     if (!year || !sem) {
-        let { y, s } = (await fetchYearSem()).current
-        year = y
-        sem = s
+        let { current } = await fetchYearSem()
+        year = current.year
+        sem = current.sem
     }
     await fetchDepartment(year, sem)
     console.log('All done!')
