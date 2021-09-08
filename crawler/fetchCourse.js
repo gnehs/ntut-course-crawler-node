@@ -49,8 +49,7 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=292267&code=11710') {
             covidDatas = covidDatas.map(x => x == ' ' || x == '' ? null : x)
 
             let covid19 = {
-                // if lv2
-                lv2Method: remarks.match(/<b>●上課方式：<\/b>(.+)\n/)[1],
+                // if lv2 
                 lv2Description: covidDatas[0],
                 courseScoreMethod: covidDatas[1],
                 // If distance learning or triage is implemented at the beginning of the semester
@@ -58,6 +57,11 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=292267&code=11710') {
                 courseURL: covidDatas[3],
                 contactInfo: covidDatas[4],
                 additionalInfo: covidDatas[5],
+            }
+            try {
+                covid19.lv2Method = remarks.match(/<b>●上課方式：<\/b>(.+)\n/)[1]
+            } catch (e) {
+
             }
             res.covid19 = covid19
         }
