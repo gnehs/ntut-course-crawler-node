@@ -24,9 +24,9 @@ async function fetchCourseDescription(url = 'Curr.jsp?format=-2&code=1400037') {
     }
     return res
 }
-async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=287585&code=12003') {
+async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=292267&code=11710') {
     let $ = await fetchSinglePage('https://aps.ntut.edu.tw/course/tw/' + url)
-    return ({
+    let res = {
         name: $('body > p:nth-child(3) > table > tbody > tr:nth-child(1) > th:nth-child(2)').text(),
         email: $('body > p:nth-child(3) > table > tbody > tr:nth-child(2) > th:nth-child(2)').text().trim().replace(globalRegexParse, ''),
         latestUpdate: $('body > p:nth-child(3) > table > tbody > tr:nth-child(3) > th:nth-child(2)').text(),
@@ -35,8 +35,38 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=287585&code=12003') {
         scorePolicy: $('body > p:nth-child(3) > table > tbody > tr:nth-child(6) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
         materials: $('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
         foreignLanguageTextbooks: !!$('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td').text().match(/使用外文原文書：是/),
-        remarks: $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")
-    })
+    }
+    // get remarks
+    let remarksText = $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').text()
+    if (remarksText != '') {
+        if (remarksText.match('\n本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式')) {
+            let remarks = $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")
+
+            let covidDatas = []
+            $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td > div').each(function (index, element) {
+                covidDatas.push($(element).html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"));
+            });
+            covidDatas = covidDatas.map(x => x == ' ' || x == '' ? null : x)
+
+            let covid19 = {
+                // if lv2
+                lv2Method: remarks.match(/<b>●上課方式：<\/b>(.+)\n/)[1],
+                lv2Description: covidDatas[0],
+                courseScoreMethod: covidDatas[1],
+                // If distance learning or triage is implemented at the beginning of the semester
+                courseInfo: covidDatas[2],
+                courseURL: covidDatas[3],
+                contactInfo: covidDatas[4],
+                additionalInfo: covidDatas[5],
+            }
+            res.covid19 = covid19
+        }
+        else {
+            res.remarks = $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")
+        }
+
+    }
+    return res
 }
 
 async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
