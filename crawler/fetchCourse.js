@@ -35,6 +35,7 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=287585&code=12003') {
         scorePolicy: $('body > p:nth-child(3) > table > tbody > tr:nth-child(6) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
         materials: $('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
         foreignLanguageTextbooks: !!$('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td').text().match(/使用外文原文書：是/),
+        remarks: $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")
     })
 }
 
