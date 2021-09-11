@@ -2,13 +2,13 @@
 這裡是北科課程系統的網頁爬蟲。
 
 ## 北科課程好朋友
-https://gnehs.github.io/ntut-course-web/
+https://ntut-course.gnehs.net/
 
 ## 關於
-https://gnehs.github.io/ntut-course-web/about
+https://ntut-course.gnehs.net/about
 
 ## API 文件
-https://gnehs.github.io/ntut-course-web/api
+https://ntut-course.gnehs.net/api
 
 ## 資料
 你可以切換到 `gh-pages` 分支查看或下載抓取的資料
