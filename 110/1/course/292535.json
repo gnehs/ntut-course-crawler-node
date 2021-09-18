@@ -1,1 +1,21 @@
-[{"name":"李昭賢","email":"chlee@ntut.edu.tw","latestUpdate":"2021-09-06 14:50:56","objective":"本課程將以C高階程式語言作為主要教學內容，首先從C基本語法開始，包含：常數(Constant)與變數(Variable)表示法、運算子(Operator)、保留字(Keyword)與程式基本結構...等，然後介紹C基本控制結構，如：選擇(Selection)、迴圈(Loop)，再來說明陣列(Array)、指標(Pointer)之使用，以及函式(Function)制定、遞迴(Recursion)使用、字串(String)處理、檔案(File)處理...等，最後介紹在C語法進階資料型態，如：Structure、Union與Enum，除此之外，亦介紹程式設計中基礎排序演算法，如：氣泡排序(Bubble Sorting)與選擇排序(Selection Sorting)。\n\n1.　　修課學生可從本課程熟悉C基本語法。\n2.　　修課學生可從本課程學習C程式設計之實作。\n3.　　修課學生可從本課程練習基礎排序演算法。","schedule":"1. Introduction\n2. First C Program – Hello World\n3. Keywords、Declaration、Data Type、Basic I/O\n4. Expression、Operators\n5. Selection\n6. Loop – While &amp; Do-While\n7. Loop – For\n8. Array\n9. Midterm Exam.\n10. Sorting\n11. Pointer\n12. Function\n13. Recursion\n14. String Handling\n15. File Handling\n16. Structure\n17. Union、Enum\n18. Final Exam","scorePolicy":"平常成績(出席率)：10%\n上機練習：30%\n期中、末皆上機考：60%\n \n作業遲交或未遵守繳交規定，一律以0分計算","materials":"&lt;參考用書&gt;\n看圖學C語言(附範例光碟), 陳會安, 全華出版, 2016\n學會 C 語言 - 從不懂，到玩上手！圖控邏輯加強版, 陳會安, 旗標出版, 2018\nC HOW TO PROGRAM (8/E), DEITEL, Pearson (全華代理), 2016\nC程式設計藝術(8/E),  全華研究室, 全華出版, 2018","foreignLanguageTextbooks":false,"covid19":{"lv2Description":null,"courseScoreMethod":"若二級(含)以下警戒：期中考(第9周)、期末考(第18周)以到校、限時、分梯之上機考\n若三級(含)以上警戒：期中考(第9周)、期末考(第18周)以遠距、限時、視訊之上機考","courseInfo":"(1)加退選課期間，尚未選課成功之同學，若未達人數上限，請直接網路加選；若人數已達上限，故不開放加選。\n\n(2)第一周，將採用線上影片說明課程(連結稍後公告如下)，之後將會正式上課，不再另行介紹課程內容。\n\n(3)依據防疫規定，由於實體分流造成可進入教室人數過低，第二周之後，以遠距上課為主，將使用Google Meet視訊上課(務必有Camera &amp; Microphone)，若沒辦法在上課時間使用Camera或Microphone，將會影響學期成績\n\n(4)考試將採上機考，考量公平性，若二級(含)以下警戒，仍須到校參加上機考；若三級(含)以上警戒，才會遠距考試，但內容將會大幅提升難度確保公平性。\n\n(5)所有教材以及課程公告一律使用北科i學園進行分享，請密切注意相關公告","courseURL":"第一週：課程介紹 適逢放假，將透過錄影說明，請自行參考(網址後續會公告於此)\n9/27(第二週)起將會正式上課，不再介紹課程","contactInfo":"Email：chlee@mail.ntut.edu.tw\n研究室分機：2288\nOffice Hours：Monday 9:00-12:00；Wednesday 9:00-12:00","additionalInfo":null,"lv2Method":"遠距上課"}}]
+[
+  {
+    "name": "李昭賢",
+    "email": "chlee@ntut.edu.tw",
+    "latestUpdate": "2021-09-18 20:06:33",
+    "objective": "本課程將以C高階程式語言作為主要教學內容，首先從C基本語法開始，包含：常數(Constant)與變數(Variable)表示法、運算子(Operator)、保留字(Keyword)與程式基本結構...等，然後介紹C基本控制結構，如：選擇(Selection)、迴圈(Loop)，再來說明陣列(Array)、指標(Pointer)之使用，以及函式(Function)制定、遞迴(Recursion)使用、字串(String)處理、檔案(File)處理...等，最後介紹在C語法進階資料型態，如：Structure、Union與Enum，除此之外，亦介紹程式設計中基礎排序演算法，如：氣泡排序(Bubble Sorting)與選擇排序(Selection Sorting)。\n\n1.　　修課學生可從本課程熟悉C基本語法。\n2.　　修課學生可從本課程學習C程式設計之實作。\n3.　　修課學生可從本課程練習基礎排序演算法。",
+    "schedule": "1. Introduction\n2. First C Program – Hello World\n3. Keywords、Declaration、Data Type、Basic I/O\n4. Expression、Operators\n5. Selection\n6. Loop – While &amp; Do-While\n7. Loop – For\n8. Array\n9. Midterm Exam.\n10. Sorting\n11. Pointer\n12. Function\n13. Recursion\n14. String Handling\n15. File Handling\n16. Structure\n17. Union、Enum\n18. Final Exam",
+    "scorePolicy": "平常成績(出席率)：10%\n上機練習：30%\n期中、末皆上機考：60%\n \n作業遲交或未遵守繳交規定，一律以0分計算",
+    "materials": "&lt;參考用書&gt;\n看圖學C語言(附範例光碟), 陳會安, 全華出版, 2016\n學會 C 語言 - 從不懂，到玩上手！圖控邏輯加強版, 陳會安, 旗標出版, 2018\nC HOW TO PROGRAM (8/E), DEITEL, Pearson (全華代理), 2016\nC程式設計藝術(8/E),  全華研究室, 全華出版, 2018",
+    "foreignLanguageTextbooks": false,
+    "covid19": {
+      "lv2Description": null,
+      "courseScoreMethod": "若二級(含)以下警戒：期中考(第9周)、期末考(第18周)以到校、限時、分梯之上機考\n若三級(含)以上警戒：期中考(第9周)、期末考(第18周)以遠距、限時、視訊之上機考",
+      "courseInfo": "(1)加退選課期間，尚未選課成功之同學，若未達人數上限，請直接網路加選；若人數已達上限，故不開放加選。\n\n(2)第一周，將採用線上影片說明課程(連結稍後公告如下)，之後將會正式上課，不再另行介紹課程內容。\n\n(3)依據防疫規定，由於實體分流造成可進入教室人數過低，第二周之後，以遠距上課為主，將使用Google Meet視訊上課(務必有Camera &amp; Microphone)，若沒辦法在上課時間使用Camera或Microphone，將會影響學期成績\n\n(4)考試將採上機考，考量公平性，若二級(含)以下警戒，仍須到校參加上機考；若三級(含)以上警戒，才會遠距考試，但內容將會大幅提升難度確保公平性。\n\n(5)所有教材以及課程公告一律使用北科i學園進行分享，請密切注意相關公告",
+      "courseURL": "第一週：課程介紹 適逢放假，將透過錄影說明，請自行參考(https://youtu.be/ye2_ZntfO3g)\n9/27(第二週)起將會正式上課，不再介紹課程",
+      "contactInfo": "Email：chlee@mail.ntut.edu.tw\n研究室分機：2288\nOffice Hours：Monday 9:00-12:00；Wednesday 9:00-12:00",
+      "additionalInfo": null,
+      "lv2Method": "遠距上課"
+    }
+  }
+]

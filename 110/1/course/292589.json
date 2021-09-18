@@ -1,1 +1,40 @@
-[{"name":"田方治","email":"fctien@ntut.edu.tw","latestUpdate":"2021-09-04 15:24:36","objective":"前半學期將介紹 python 語言之基本撰寫，內容同樣包括: 基本輸入輸出，流程控制、函數等相關內容，將使用 python 3.6 (以上)\n\n後半學期介紹 VBA 語言基本資料處理的概念， 包含基本輸入與輸出、程式的流程控制、函數的應用等指令之撰寫、程式之編輯、編譯、聯絡與程式之執行，並發展一套應用程式。","schedule":"介紹VBA語言基本資料處理的概念，包含:\n基本輸入與輸出\n程式的流程控制\n函數的應用等指令之撰寫\n程式之編輯、編譯、聯絡\n程式之執行\nVBE 工作環境\nClass &amp; Object \n巨集的錄製\nUser Form 之設計\n其他\nPython 部分:\nLecture 1 - Installation\nLecture 2 - Introduction to Python &amp;  Naming convention\nLecture 3 - IDLE &amp; vs code\nLecture 4 - Basics - Variable and Expression\nLecture 5 - Data Type I、II、III\nLecture 6- Flow Chart\nLecture 7- Logic Control 1、2、3\nLecture 8- Function 1、2、3\nLecture 9 - Local vs Global Variables","scorePolicy":"Homework*5　　　　       (35%)\nTerm project*1　　　　(15%)\nExamination*3　　　　(50%)\n課外reading　　　　　　(  5%)","materials":"Excel VBA與巨集程式設計, Jelen &amp; Syrstad著, 廖文秀譯 (博碩文化)\nbyte-of-python","foreignLanguageTextbooks":false,"covid19":{"lv2Description":null,"courseScoreMethod":"課程連結: https://meet.google.com/tqp-izpk-xfh\n第一周: 課程說明、分組，請全員到課，建立 line 群組 (教材分送方式及臨時聯繫方式)\n第五周: 第一次小考 (全員到課)\n第九周: 期中考 (全員到課)","courseInfo":"Google meet:  https://meet.google.com/tqp-izpk-xfh","courseURL":"Google meet: https://meet.google.com/tqp-izpk-xfh","contactInfo":"科研大樓 1125，分機:2343\nEmail: fctien@ntut.edu.tw","additionalInfo":"無","lv2Method":"遠距上課"}},{"name":"陳協慶","email":"cyutchen@ms28.hinet.net","latestUpdate":"2021-09-14 16:45:37","objective":"本課程介紹VBA語言的基本應用，內容包含基本輸入與輸出、程式的流程控制、函數與程序的基本架構、使用者定義之視窗介面、程式之編輯、除錯、與程式之執行。\nThis course introduces the basic application of VBA language. The course contents include basic input and output, program flow control, structure of functions and subroutines, user-defined interface, program editing, debugging, and execution.","schedule":"#1   Excel及VBA開發環境簡介\n#2   巨集程式錄製與修改\n#3   範圍參照\n#4   自訂函數撰寫\n#5   運算子與基本輸入輸出\n#6   流程控制 (For, Do迴圈)\n#7   流程控制 (If, Select)\n#8   Exam 1\n#9   流程控制 (For Each迴圈)\n#10 自訂表單 I\n#11 自訂表單 II\n#12 陣列\n#13 Exam 2, 字串與文字檔處理\n#14 Turbo C/ DEV簡介\n#15 變數與資料型態基本語法\n#16 基本輸入輸出與流程控制\n#17 專題分組報告\n#18 Final Exam","scorePolicy":"作業+專題：40%\n期中考(I, II)：20 % x 2\n期末考：20 %","materials":"Bill Jelen, Tracy Syrstad，Excel VBA 與巨集程式設計，博碩文化，廖文秀譯","foreignLanguageTextbooks":false,"covid19":{"lv2Description":"採用混成式授課，依學號單、雙分週輪流允許部分學生以自願方式到校上課，不願到校上課者採線上MS Teams同步上課（但老師保留要求特定同學到校上課的權利）。上課過程以全都錄錄影，提供課後非同步學習。 ","courseScoreMethod":"在符合防疫規範的前提下採用期中考、期末考採實體紙筆測驗。否則採取線上測驗。","courseInfo":"上課時間：依學校排課規定實施\n上課方式：採混成方式授課（第一次上課採遠距）\n學生是否須到校上課：同學依學號單/雙數，可選擇於單/雙週到校上課，或以遠距同步上課\n上課地點：依學校排定教室\n教材提供方式或平台：北科i學園PLUS","courseURL":"https://teams.microsoft.com/l/channel/19%3a0zguJDhjlGtEFaKxdQENU_cTbQvvgmjTMoyVB140FQ81%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=ab47b753-bc0d-47b3-81c6-1ce2fed005a4&amp;tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218","contactInfo":"Zuvio課程代號：73523220","additionalInfo":null,"lv2Method":"分流上課"}}]
+[
+  {
+    "name": "田方治",
+    "email": "fctien@ntut.edu.tw",
+    "latestUpdate": "2021-09-04 15:24:36",
+    "objective": "前半學期將介紹 python 語言之基本撰寫，內容同樣包括: 基本輸入輸出，流程控制、函數等相關內容，將使用 python 3.6 (以上)\n\n後半學期介紹 VBA 語言基本資料處理的概念， 包含基本輸入與輸出、程式的流程控制、函數的應用等指令之撰寫、程式之編輯、編譯、聯絡與程式之執行，並發展一套應用程式。",
+    "schedule": "介紹VBA語言基本資料處理的概念，包含:\n基本輸入與輸出\n程式的流程控制\n函數的應用等指令之撰寫\n程式之編輯、編譯、聯絡\n程式之執行\nVBE 工作環境\nClass &amp; Object \n巨集的錄製\nUser Form 之設計\n其他\nPython 部分:\nLecture 1 - Installation\nLecture 2 - Introduction to Python &amp;  Naming convention\nLecture 3 - IDLE &amp; vs code\nLecture 4 - Basics - Variable and Expression\nLecture 5 - Data Type I、II、III\nLecture 6- Flow Chart\nLecture 7- Logic Control 1、2、3\nLecture 8- Function 1、2、3\nLecture 9 - Local vs Global Variables",
+    "scorePolicy": "Homework*5　　　　       (35%)\nTerm project*1　　　　(15%)\nExamination*3　　　　(50%)\n課外reading　　　　　　(  5%)",
+    "materials": "Excel VBA與巨集程式設計, Jelen &amp; Syrstad著, 廖文秀譯 (博碩文化)\nbyte-of-python",
+    "foreignLanguageTextbooks": false,
+    "covid19": {
+      "lv2Description": null,
+      "courseScoreMethod": "課程連結: https://meet.google.com/tqp-izpk-xfh\n第一周: 課程說明、分組，請全員到課，建立 line 群組 (教材分送方式及臨時聯繫方式)\n第五周: 第一次小考 (全員到課)\n第九周: 期中考 (全員到課)",
+      "courseInfo": "Google meet:  https://meet.google.com/tqp-izpk-xfh",
+      "courseURL": "Google meet: https://meet.google.com/tqp-izpk-xfh",
+      "contactInfo": "科研大樓 1125，分機:2343\nEmail: fctien@ntut.edu.tw",
+      "additionalInfo": "無",
+      "lv2Method": "遠距上課"
+    }
+  },
+  {
+    "name": "陳協慶",
+    "email": "cyutchen@ms28.hinet.net",
+    "latestUpdate": "2021-09-14 16:45:37",
+    "objective": "本課程介紹VBA語言的基本應用，內容包含基本輸入與輸出、程式的流程控制、函數與程序的基本架構、使用者定義之視窗介面、程式之編輯、除錯、與程式之執行。\nThis course introduces the basic application of VBA language. The course contents include basic input and output, program flow control, structure of functions and subroutines, user-defined interface, program editing, debugging, and execution.",
+    "schedule": "#1   Excel及VBA開發環境簡介\n#2   巨集程式錄製與修改\n#3   範圍參照\n#4   自訂函數撰寫\n#5   運算子與基本輸入輸出\n#6   流程控制 (For, Do迴圈)\n#7   流程控制 (If, Select)\n#8   Exam 1\n#9   流程控制 (For Each迴圈)\n#10 自訂表單 I\n#11 自訂表單 II\n#12 陣列\n#13 Exam 2, 字串與文字檔處理\n#14 Turbo C/ DEV簡介\n#15 變數與資料型態基本語法\n#16 基本輸入輸出與流程控制\n#17 專題分組報告\n#18 Final Exam",
+    "scorePolicy": "作業+專題：40%\n期中考(I, II)：20 % x 2\n期末考：20 %",
+    "materials": "Bill Jelen, Tracy Syrstad，Excel VBA 與巨集程式設計，博碩文化，廖文秀譯",
+    "foreignLanguageTextbooks": false,
+    "covid19": {
+      "lv2Description": "採用混成式授課，依學號單、雙分週輪流允許部分學生以自願方式到校上課，不願到校上課者採線上MS Teams同步上課（但老師保留要求特定同學到校上課的權利）。上課過程以全都錄錄影，提供課後非同步學習。 ",
+      "courseScoreMethod": "在符合防疫規範的前提下採用期中考、期末考採實體紙筆測驗。否則採取線上測驗。",
+      "courseInfo": "上課時間：依學校排課規定實施\n上課方式：採混成方式授課（第一次上課採遠距）\n學生是否須到校上課：同學依學號單/雙數，可選擇於單/雙週到校上課，或以遠距同步上課\n上課地點：依學校排定教室\n教材提供方式或平台：北科i學園PLUS",
+      "courseURL": "https://teams.microsoft.com/l/channel/19%3a0zguJDhjlGtEFaKxdQENU_cTbQvvgmjTMoyVB140FQ81%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=ab47b753-bc0d-47b3-81c6-1ce2fed005a4&amp;tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
+      "contactInfo": "Zuvio課程代號：73523220",
+      "additionalInfo": null,
+      "lv2Method": "分流上課"
+    }
+  }
+]

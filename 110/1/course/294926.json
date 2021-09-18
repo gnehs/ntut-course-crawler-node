@@ -1,1 +1,21 @@
-[{"name":"葉奕良","email":"ylyeh@ntut.edu.tw","latestUpdate":"2021-09-13 10:57:44","objective":"Z-轉換、取樣資料系統、等效於連續函數的數位濾波器設計、使用轉換技術設計數位控制系統、使用狀態空間設計數位控制系統、電腦控制。\nZ-Transform, Sampled-Data Systems, Discrete Equivalents to Continuous Transfer Functions: The Digital Filter, Design of Digital Control Systems Using Transform Techniques, Design of Digital Control Systems Using State-Space Methods, Application and Practice of Digital Control, Case Study.","schedule":"Week 1. Preparation week\nWeek 2. Introduction\nWeek 3. System discretization\nWeek 4. Z-transform\nWeek 5. Discrete-time transfer function\nWeek 6. Stability, frequency response analysis\nWeek 7-8. A/D and D/A converters, sampling theorem, aliasing\nWeek 9. Midterm Examination\nWeek 10-11.  Controller discretization\nWeek 12-13.  Transfer function control design\nWeek 14-15.  Controllability and state-space control design\nWeek 16-17.  Observability and observer design\nWeek 18. Final Examination","scorePolicy":"Homework 30%\nMidterm 30%\nFinal 40%","materials":"自編課程講義\n\n參考書目：\n\n[1] K. Ogata, \"Discrete-time control systems\", Prentice-Hall, Inc., 1995.\n[2]  K. J. Åström and B. Wittenmark, \"Computer-controlled systems: theory and design\", Courier Corporation, 2013.\n[3]  G. F. Franklin, J. D. Powell, and M. L. Workman, \"Digital control of dynamic systems\", MA: Addison-wesley, 1998.","foreignLanguageTextbooks":true,"covid19":{"lv2Description":null,"courseScoreMethod":"作業以線上方式繳交\n\n在符合防疫規範前提下，保留學生到校進行實體測驗的可能","courseInfo":"請修課同學於第一次上課前完成課程加選，並於本學期第一次上課時間至i學園收看課程說明。","courseURL":"https://istudy.ntut.edu.tw/learn/index.php","contactInfo":"email: ylyeh@ntut.edu.tw","additionalInfo":null,"lv2Method":"遠距上課"}}]
+[
+  {
+    "name": "葉奕良",
+    "email": "ylyeh@ntut.edu.tw",
+    "latestUpdate": "2021-09-13 10:57:44",
+    "objective": "Z-轉換、取樣資料系統、等效於連續函數的數位濾波器設計、使用轉換技術設計數位控制系統、使用狀態空間設計數位控制系統、電腦控制。\nZ-Transform, Sampled-Data Systems, Discrete Equivalents to Continuous Transfer Functions: The Digital Filter, Design of Digital Control Systems Using Transform Techniques, Design of Digital Control Systems Using State-Space Methods, Application and Practice of Digital Control, Case Study.",
+    "schedule": "Week 1. Preparation week\nWeek 2. Introduction\nWeek 3. System discretization\nWeek 4. Z-transform\nWeek 5. Discrete-time transfer function\nWeek 6. Stability, frequency response analysis\nWeek 7-8. A/D and D/A converters, sampling theorem, aliasing\nWeek 9. Midterm Examination\nWeek 10-11.  Controller discretization\nWeek 12-13.  Transfer function control design\nWeek 14-15.  Controllability and state-space control design\nWeek 16-17.  Observability and observer design\nWeek 18. Final Examination",
+    "scorePolicy": "Homework 30%\nMidterm 30%\nFinal 40%",
+    "materials": "自編課程講義\n\n參考書目：\n\n[1] K. Ogata, \"Discrete-time control systems\", Prentice-Hall, Inc., 1995.\n[2]  K. J. Åström and B. Wittenmark, \"Computer-controlled systems: theory and design\", Courier Corporation, 2013.\n[3]  G. F. Franklin, J. D. Powell, and M. L. Workman, \"Digital control of dynamic systems\", MA: Addison-wesley, 1998.",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": null,
+      "courseScoreMethod": "作業以線上方式繳交\n\n在符合防疫規範前提下，保留學生到校進行實體測驗的可能",
+      "courseInfo": "請修課同學於第一次上課前完成課程加選，並於本學期第一次上課時間至i學園收看課程說明。",
+      "courseURL": "https://istudy.ntut.edu.tw/learn/index.php",
+      "contactInfo": "email: ylyeh@ntut.edu.tw",
+      "additionalInfo": null,
+      "lv2Method": "遠距上課"
+    }
+  }
+]

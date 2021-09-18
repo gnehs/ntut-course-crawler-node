@@ -1,1 +1,21 @@
-[{"name":"高立人","email":"ljkau@ntut.edu.tw","latestUpdate":"2021-09-06 18:29:18","objective":"本課程主要係介紹資料壓縮的原理以及當前幾項重要的壓縮標準。\n本課程內容將涵蓋以下主題\n01. 霍夫曼編碼\n02. 算數編碼\n03. 純量量化與向量量化\n04. 線性預測與預測編碼法\n05. 轉換編碼\n06. 分頻編碼法\n07. 小波編碼法\n08. 字典模式編碼法\n09. 主題探討","schedule":"00. 資料壓縮背景與原理（第1週）\n01. 霍夫曼編碼（第2週，第3週）\n02. 算數編碼（第4週，第5週，第6週，第7週）\n03. 純量量化與向量量化（第8週，第9週）\n04. 線性預測與預測編碼法（第10週，第11週）\nMidterm Exam.（第12週）\n05. 轉換編碼（第13週，第14週）\n06. 小波編碼法（第15週，第16週）\n08. 字典模式編碼法（第17週）\n09. Project presentation（第18週）","scorePolicy":"Homeworks:30%\nMidterm:40%\nFinal Project and Report:30%","materials":"Textbook:\nIntroduction to Data Compression, 3rd Edition, by Khalid Sayood, Morgan Kaufmann, 2005.\n代理商：東華書局\n聯絡人：儲方 先生\n電話：（02）2331-7856 或 0988-202210\n\nReferences:\n[1] Elements of Information Theory, Thomas and Cover\n[2] Vector Quantization and Signal Compression, Gersho and Gray\n[3] Digital Coding of Waveforms, Jayant and Noll","foreignLanguageTextbooks":true,"covid19":{"lv2Description":null,"courseScoreMethod":"二級: 採網路上傳作業（含程式碼） + 遠距期中紙筆測驗 + 遠距期末報告\n一級: 採網路上傳作業（含程式碼） + 實體期中紙筆測驗 + 實體期末報告","courseInfo":"課程網址：https://myweb.ntut.edu.tw/~ljkau\n資料壓縮課程Line群組：https://line.me/R/ti/g/MagQ0sM-bw","courseURL":"01.使用Google Meet上課（錄影），請同學使用臺北科大配發之Google電子郵件信箱帳號加入課程。\n02.Google Meet課程連結：https://meet.google.com/rza-jved-ezo\n03.電子所與職電子所之課程代碼相同。","contactInfo":"老師Email: ljkau@mail.ntut.edu.tw\n老師分機：2242（研究室：綜合科館311-1）\n助教分機：2211（助教：張耀中、陳駿凱、陳宥安；綜合科館107-1）\n助理分機：2211（助理：趙筠小姐；綜合科館107-1）\n資料壓縮課程Line群組：https://line.me/R/ti/g/MagQ0sM-bw","additionalInfo":null,"lv2Method":"遠距上課"}}]
+[
+  {
+    "name": "高立人",
+    "email": "ljkau@ntut.edu.tw",
+    "latestUpdate": "2021-09-06 18:29:18",
+    "objective": "本課程主要係介紹資料壓縮的原理以及當前幾項重要的壓縮標準。\n本課程內容將涵蓋以下主題\n01. 霍夫曼編碼\n02. 算數編碼\n03. 純量量化與向量量化\n04. 線性預測與預測編碼法\n05. 轉換編碼\n06. 分頻編碼法\n07. 小波編碼法\n08. 字典模式編碼法\n09. 主題探討",
+    "schedule": "00. 資料壓縮背景與原理（第1週）\n01. 霍夫曼編碼（第2週，第3週）\n02. 算數編碼（第4週，第5週，第6週，第7週）\n03. 純量量化與向量量化（第8週，第9週）\n04. 線性預測與預測編碼法（第10週，第11週）\nMidterm Exam.（第12週）\n05. 轉換編碼（第13週，第14週）\n06. 小波編碼法（第15週，第16週）\n08. 字典模式編碼法（第17週）\n09. Project presentation（第18週）",
+    "scorePolicy": "Homeworks:30%\nMidterm:40%\nFinal Project and Report:30%",
+    "materials": "Textbook:\nIntroduction to Data Compression, 3rd Edition, by Khalid Sayood, Morgan Kaufmann, 2005.\n代理商：東華書局\n聯絡人：儲方 先生\n電話：（02）2331-7856 或 0988-202210\n\nReferences:\n[1] Elements of Information Theory, Thomas and Cover\n[2] Vector Quantization and Signal Compression, Gersho and Gray\n[3] Digital Coding of Waveforms, Jayant and Noll",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": null,
+      "courseScoreMethod": "二級: 採網路上傳作業（含程式碼） + 遠距期中紙筆測驗 + 遠距期末報告\n一級: 採網路上傳作業（含程式碼） + 實體期中紙筆測驗 + 實體期末報告",
+      "courseInfo": "課程網址：https://myweb.ntut.edu.tw/~ljkau\n資料壓縮課程Line群組：https://line.me/R/ti/g/MagQ0sM-bw",
+      "courseURL": "01.使用Google Meet上課（錄影），請同學使用臺北科大配發之Google電子郵件信箱帳號加入課程。\n02.Google Meet課程連結：https://meet.google.com/rza-jved-ezo\n03.電子所與職電子所之課程代碼相同。",
+      "contactInfo": "老師Email: ljkau@mail.ntut.edu.tw\n老師分機：2242（研究室：綜合科館311-1）\n助教分機：2211（助教：張耀中、陳駿凱、陳宥安；綜合科館107-1）\n助理分機：2211（助理：趙筠小姐；綜合科館107-1）\n資料壓縮課程Line群組：https://line.me/R/ti/g/MagQ0sM-bw",
+      "additionalInfo": null,
+      "lv2Method": "遠距上課"
+    }
+  }
+]

@@ -1,1 +1,21 @@
-[{"name":"王正豪","email":"jhwang@ntut.edu.tw","latestUpdate":"2021-09-01 15:05:17","objective":"本課程為大學部的巨量資料分析導論基礎課程，主要介紹資料前處理、資料探勘概念、關聯分析、分類、分群、平行化程式設計、分散式計算、以及實際分析平台工具如: MapReduce, Spark等。除了基本概念的介紹外，透過程式練習以及期末專題，能讓學生深入理解巨量資料分析的基本原理以及實際工具的運用。","schedule":"Part I: Data mining concepts (8 wks)\n1. Introduction to big data &amp; preprocessing (1wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (2 wks)\n\nMidterm exam (1 wk)\n\nPart II: Distributed platforms &amp; Parallel programming (6 wks)\n1. Introduction to distributed platforms: Hadoop &amp; Spark  (1 wk)\n2. Parallel programming paradigm &amp; concepts (1 wk)\n3. MapReduce programming: pairs &amp; stripes, relational algebra (2 wks)\n4. More examples: matrix multiplication, similarity (2 wks)\n\nTerm project presentation (3 wks)","scorePolicy":"Homework assignments and programming exercises: ~40%\nMid-term exam: ~25-30%\nTerm project and presentation: ~30-35%","materials":"Textbooks:\n1.  Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n2. Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer.\nMorgan &amp; Claypool Publishers, 2010.\n\nReferences:\n1. Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman, Jeff Ullman, 2nd edition, Cambridge University Press, 2014.\n2. Recent academic papers, tutorials, and slides.","foreignLanguageTextbooks":true,"covid19":{"lv2Description":null,"courseScoreMethod":"程式及作業~40%, 期中考~25%, 期末專題~35%.\n期中考採遠距open-book測驗。\n期末專題遠距線上報告，並線上繳交報告電子檔。","courseInfo":"加退選課期間尚未選課成功之同學，請與教師約時間簽核。\n遠距教學期間，學生在原規定上課時間，透過Microsoft Teams 加入線上即時教學，不需到校，教材提供方式以及課程動態調整通知將公布在北科i學園+課程網頁，以及教師個人課程網頁: https://myweb.ntut.edu.tw/~jhwang/BDA/","courseURL":"將於北科i學園+課程網頁，以及教師個人課程網頁公布: https://myweb.ntut.edu.tw/~jhwang/BDA/","contactInfo":"遠距教學時可透過 e-mail、教師個人課程網頁聯絡老師，如需線上諮詢，可透過線上通訊軟體，或另約時間。","additionalInfo":"請見: https://myweb.ntut.edu.tw/~jhwang/BDA/","lv2Method":"遠距上課"}}]
+[
+  {
+    "name": "王正豪",
+    "email": "jhwang@ntut.edu.tw",
+    "latestUpdate": "2021-09-01 15:05:17",
+    "objective": "本課程為大學部的巨量資料分析導論基礎課程，主要介紹資料前處理、資料探勘概念、關聯分析、分類、分群、平行化程式設計、分散式計算、以及實際分析平台工具如: MapReduce, Spark等。除了基本概念的介紹外，透過程式練習以及期末專題，能讓學生深入理解巨量資料分析的基本原理以及實際工具的運用。",
+    "schedule": "Part I: Data mining concepts (8 wks)\n1. Introduction to big data &amp; preprocessing (1wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (2 wks)\n\nMidterm exam (1 wk)\n\nPart II: Distributed platforms &amp; Parallel programming (6 wks)\n1. Introduction to distributed platforms: Hadoop &amp; Spark  (1 wk)\n2. Parallel programming paradigm &amp; concepts (1 wk)\n3. MapReduce programming: pairs &amp; stripes, relational algebra (2 wks)\n4. More examples: matrix multiplication, similarity (2 wks)\n\nTerm project presentation (3 wks)",
+    "scorePolicy": "Homework assignments and programming exercises: ~40%\nMid-term exam: ~25-30%\nTerm project and presentation: ~30-35%",
+    "materials": "Textbooks:\n1.  Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n2. Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer.\nMorgan &amp; Claypool Publishers, 2010.\n\nReferences:\n1. Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman, Jeff Ullman, 2nd edition, Cambridge University Press, 2014.\n2. Recent academic papers, tutorials, and slides.",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": null,
+      "courseScoreMethod": "程式及作業~40%, 期中考~25%, 期末專題~35%.\n期中考採遠距open-book測驗。\n期末專題遠距線上報告，並線上繳交報告電子檔。",
+      "courseInfo": "加退選課期間尚未選課成功之同學，請與教師約時間簽核。\n遠距教學期間，學生在原規定上課時間，透過Microsoft Teams 加入線上即時教學，不需到校，教材提供方式以及課程動態調整通知將公布在北科i學園+課程網頁，以及教師個人課程網頁: https://myweb.ntut.edu.tw/~jhwang/BDA/",
+      "courseURL": "將於北科i學園+課程網頁，以及教師個人課程網頁公布: https://myweb.ntut.edu.tw/~jhwang/BDA/",
+      "contactInfo": "遠距教學時可透過 e-mail、教師個人課程網頁聯絡老師，如需線上諮詢，可透過線上通訊軟體，或另約時間。",
+      "additionalInfo": "請見: https://myweb.ntut.edu.tw/~jhwang/BDA/",
+      "lv2Method": "遠距上課"
+    }
+  }
+]

@@ -1,1 +1,21 @@
-[{"name":"蕭榮修","email":"rshsiao@ntut.edu.tw","latestUpdate":"2021-08-31 17:35:49","objective":"瞭解程式語言所常用之各種資結構，１.抽象資料類別及運算複雜度之概念，２.靜態結構及其儲存法，３.遞迴、堆疊、前序、中序、後序運算式，４.佇列，５.串列、鏈結串列，６.樹、二元樹、平衡樹、堆積，７.圖形，８.排序，９.搜尋、雜湊。\nThis course is mainly aimed at introducing the data  structures commonly used in programming languages, including: (1) the concept of ADT (abstract data type) and computational complexity, (2) static structures and their storage representations , (3) recursion, stacks, and prefix, infix, and posfix expressions, (4) queues, (5) lists and linked lists, (6) trees, binary trees, height balanced trees, and heaps,  (7) graphs, (8) soring, and (9) searching and hashing.","schedule":"1. Introduction\n2. Programming Methodologies \n3. Memory Management\n4. Stacks_1\n5. Stacks_2 \n6. Queues\n7. Linked Lists_1\n8. Linked Lists_2\n9. Mid-term Exam (期中考)\n10. Sorting Techniques_1\n11. Sorting Techniques_2\n12. Searching and Hashing\n13. Trees_1\n14. Trees_2\n15. Trees_3\n16. Graphs_1\n17. Graphs_2\n18. Final Exam (期末考)","scorePolicy":"Grading:\n   10% Attendance and Quizzes\n   30% Assignments\n   30% Mid-term Exam\n   30% Final Exam","materials":"Textbook:  Vinu V. Das, Principles of Data Structures Using C and C++, New Age International (P) Ltd., Publishers, 2006.\nReference books:\n1. Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed, Fundamentals of Data Structures in C, 2nd Edition, Silicon Press, 2008. (ISBN 9780929306407)","foreignLanguageTextbooks":true,"covid19":{"lv2Description":null,"courseScoreMethod":"1. 期中與期末測驗包含：Take home, In class兩部分。(佔分比例另訂)\n2. 實體授課時於教室舉行；遠距教學時In class於線上舉行。","courseInfo":"1. 如果學期初就實施遠距教學時，第一堂課老師會到教室，與班代及外班選修同學處理上課相關事宜。並以Microsoft Teams上課、北科i網路學園PLUS錄製上課內容，同學可於課後自行觀看課程錄影。\n2. 教材提供：北科i網路學園PLUS。","courseURL":"Microsoft Teams: [NTUT-Sync]110-1_294613_資料結構\n團隊代碼：w94o7u7\n網路連結：https://teams.microsoft.com/l/channel/19%3aVqnOFOEILivM66KJhaJw2ZcdRkojB_AYh5Bde-mbzAM1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=3e6ad44f-1ed4-4588-8c8f-fce91bc96ba6&amp;tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218","contactInfo":"1. 訓四子三同學以班代為聯絡窗口，透過line群組或email聯繫。\n2. 外班選修同學以Email: rshsiao@ntut.edu.tw 聯繫。","additionalInfo":"規劃中","lv2Method":"遠距上課"}}]
+[
+  {
+    "name": "蕭榮修",
+    "email": "rshsiao@ntut.edu.tw",
+    "latestUpdate": "2021-08-31 17:35:49",
+    "objective": "瞭解程式語言所常用之各種資結構，１.抽象資料類別及運算複雜度之概念，２.靜態結構及其儲存法，３.遞迴、堆疊、前序、中序、後序運算式，４.佇列，５.串列、鏈結串列，６.樹、二元樹、平衡樹、堆積，７.圖形，８.排序，９.搜尋、雜湊。\nThis course is mainly aimed at introducing the data  structures commonly used in programming languages, including: (1) the concept of ADT (abstract data type) and computational complexity, (2) static structures and their storage representations , (3) recursion, stacks, and prefix, infix, and posfix expressions, (4) queues, (5) lists and linked lists, (6) trees, binary trees, height balanced trees, and heaps,  (7) graphs, (8) soring, and (9) searching and hashing.",
+    "schedule": "1. Introduction\n2. Programming Methodologies \n3. Memory Management\n4. Stacks_1\n5. Stacks_2 \n6. Queues\n7. Linked Lists_1\n8. Linked Lists_2\n9. Mid-term Exam (期中考)\n10. Sorting Techniques_1\n11. Sorting Techniques_2\n12. Searching and Hashing\n13. Trees_1\n14. Trees_2\n15. Trees_3\n16. Graphs_1\n17. Graphs_2\n18. Final Exam (期末考)",
+    "scorePolicy": "Grading:\n   10% Attendance and Quizzes\n   30% Assignments\n   30% Mid-term Exam\n   30% Final Exam",
+    "materials": "Textbook:  Vinu V. Das, Principles of Data Structures Using C and C++, New Age International (P) Ltd., Publishers, 2006.\nReference books:\n1. Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed, Fundamentals of Data Structures in C, 2nd Edition, Silicon Press, 2008. (ISBN 9780929306407)",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": null,
+      "courseScoreMethod": "1. 期中與期末測驗包含：Take home, In class兩部分。(佔分比例另訂)\n2. 實體授課時於教室舉行；遠距教學時In class於線上舉行。",
+      "courseInfo": "1. 如果學期初就實施遠距教學時，第一堂課老師會到教室，與班代及外班選修同學處理上課相關事宜。並以Microsoft Teams上課、北科i網路學園PLUS錄製上課內容，同學可於課後自行觀看課程錄影。\n2. 教材提供：北科i網路學園PLUS。",
+      "courseURL": "Microsoft Teams: [NTUT-Sync]110-1_294613_資料結構\n團隊代碼：w94o7u7\n網路連結：https://teams.microsoft.com/l/channel/19%3aVqnOFOEILivM66KJhaJw2ZcdRkojB_AYh5Bde-mbzAM1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=3e6ad44f-1ed4-4588-8c8f-fce91bc96ba6&amp;tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
+      "contactInfo": "1. 訓四子三同學以班代為聯絡窗口，透過line群組或email聯繫。\n2. 外班選修同學以Email: rshsiao@ntut.edu.tw 聯繫。",
+      "additionalInfo": "規劃中",
+      "lv2Method": "遠距上課"
+    }
+  }
+]
