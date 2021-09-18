@@ -11,7 +11,7 @@ async function main() {
     for (let yr of years) {
         await parseYear(yr)
     }
-    jsonfile.writeFileSync(`./dist/standards.json`, years)
+    jsonfile.writeFileSync(`./dist/standards.json`, years, { spaces: 2, EOL: '\r\n' })
 }
 async function parseYear(year) {
     fs.mkdirSync(`./dist/${year}/`, { recursive: true });
@@ -25,7 +25,7 @@ async function parseYear(year) {
         console.log('[fetch]', year, title)
         result[title] = await parseSystem(url)
     }
-    jsonfile.writeFileSync(`./dist/${year}/standard.json`, result)
+    jsonfile.writeFileSync(`./dist/${year}/standard.json`, result, { spaces: 2, EOL: '\r\n' })
 }
 function getChildText($, tr, i) {
     return $($(tr).children('td')[i]).text().replace(/\n| /g, '')
@@ -81,4 +81,4 @@ async function parseDeaprtment(url = 'https://aps.ntut.edu.tw/course/tw/Cprog.js
     result.rules = result.rules ? result.rules.split('<br>').map(x => x.replace(/(.+)\.|\n/g, '')) : null
     return result
 }
-module.exports = main; 
+module.exports = main;

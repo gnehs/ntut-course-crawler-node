@@ -159,7 +159,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
         }
     }
     console.log(`[fetch] ${matricKey == '日間部' ? 'main' : matricKey}.json saved.`)
-    jsonfile.writeFileSync(`./dist/${year}/${sem}/${matricKey == '日間部' ? 'main' : matricKey}.json`, result)
+    jsonfile.writeFileSync(`./dist/${year}/${sem}/${matricKey == '日間部' ? 'main' : matricKey}.json`, result, { spaces: 2, EOL: '\r\n' })
 
     console.log(`[fetch] ${matricKey} syllabus`)
     coursesDone = 0
@@ -171,7 +171,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             }
             coursesDone++
             console.log(`[fetch] syllabus (${coursesDone}/${courseData.length}) ${matricKey} - ${x.name.zh} done.`)
-            jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res)
+            jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res, { spaces: 2, EOL: '\r\n' })
         }
         catch (e) {
             console.log(`[error][fetch] syllabus error.`, e)

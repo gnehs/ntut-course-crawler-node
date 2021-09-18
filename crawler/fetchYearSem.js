@@ -24,7 +24,7 @@ async function main() {
             }
         })
     fs.mkdirSync(`./dist/`, { recursive: true });
-    jsonfile.writeFileSync(`./dist/main.json`, result.years)
+    jsonfile.writeFileSync(`./dist/main.json`, result.years, { spaces: 2, EOL: '\r\n' })
     return result
 }
 module.exports = main;

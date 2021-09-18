@@ -34,6 +34,6 @@ async function fetchDepartment(year = 109, sem = 2) {
         })
     }
     fs.mkdirSync(`./dist/${year}/${sem}/`, { recursive: true });
-    jsonfile.writeFileSync(`./dist/${year}/${sem}/department.json`, res)
+    jsonfile.writeFileSync(`./dist/${year}/${sem}/department.json`, res, { spaces: 2, EOL: '\r\n' })
 }
 module.exports = { fetchDepartment };
