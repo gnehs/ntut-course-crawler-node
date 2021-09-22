@@ -4,7 +4,7 @@ const fs = require('fs')
 const iconv = require('iconv-lite');
 const axios = require('axios').default;
 const axiosRetry = require('axios-retry');
-const pangu = require('pangu').spacing;
+const pangu = require('./tools/pangu').spacing;
 const globalRegexParse = /\n|^ | $/g
 axiosRetry(axios, { retries: 3 });
 async function fetchCourseDescription(url = 'Curr.jsp?format=-2&code=1400037') {

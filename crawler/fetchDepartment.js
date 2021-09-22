@@ -1,6 +1,6 @@
 const { fetchSinglePage } = require('./fetchSinglePage')
 const jsonfile = require('jsonfile');
-const pangu = require('pangu').spacing;
+const pangu = require('./tools/pangu').spacing;
 const fs = require('fs');
 async function fetchClass(url) {
     let $ = await fetchSinglePage('https://aps.ntut.edu.tw/course/tw/' + url)

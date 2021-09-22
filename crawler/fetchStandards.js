@@ -1,7 +1,7 @@
 const { fetchSinglePage } = require('./fetchSinglePage')
 const jsonfile = require('jsonfile');
 const fs = require('fs');
-const pangu = require('pangu').spacing;
+const pangu = require('./tools/pangu').spacing;
 async function main() {
     let $ = await fetchSinglePage('https://aps.ntut.edu.tw/course/tw/Cprog.jsp?format=-1')
     let years = []
