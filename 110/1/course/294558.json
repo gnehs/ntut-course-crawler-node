@@ -3,18 +3,18 @@
     "name": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
     "latestUpdate": "2021-09-17 16:01:22",
-    "objective": "課程涵蓋網路與通訊的基礎和最新發展。內容包括:機率和排隊系統；行動無線傳播；通道編碼與錯誤控制(WiFi的FCS，LTE/4G的turbo code/ARQ+CRC)；細胞式概念(為何基地台要很多個)；MAC層協定(WiFi的CSMA/CA，乙太網路的CSMA/CD)；FDMA/TDMA/CDMA/OFDM(1-4G的主要技術)；通道分配(有限頻譜/功率資源如何分配給各基地台)。",
+    "objective": "課程涵蓋網路與通訊的基礎和最新發展。內容包括：機率和排隊系統；行動無線傳播；通道編碼與錯誤控制 (WiFi 的 FCS，LTE/4G 的 turbo code/ARQ+CRC)；細胞式概念 (為何基地台要很多個)；MAC 層協定 (WiFi 的 CSMA/CA，乙太網路的 CSMA/CD)；FDMA/TDMA/CDMA/OFDM (1-4G 的主要技術)；通道分配 (有限頻譜 / 功率資源如何分配給各基地台)。",
     "schedule": "1.　　Introduction\n2.　　Probability, Statistics, and Traffic Theories\n3.　　Mobile Radio Propagation\n4.　　Channel Coding and Error Control (FCS in WiFi, turbo codes/ARQ+CRC in LTE/4G)\n5.　　Cellular Concept\n6.　　Multiple Radio Access (MAC protocols: CSMA/CA for WiFi, CSMA/CD for Ethernet)\n7.　　Multiple Division Techniques (FDMA/TDMA/CDMA/OFDM)\n8.　　Channel Allocations (e.g. queueing system with priority for handoff calls)",
-    "scorePolicy": "小考 25% \n大考 (2次) 50%\n課程參與 25%",
-    "materials": "1. 曾恕銘編譯  無線通訊系統概論:行動通訊與網路, 東華書局, 4/e, 2016\n2. D. P. Agrawal and Q. Zeng, Introduction to Wireless and Mobile Systems, CENGAGE learning, 4/e, 2014",
+    "scorePolicy": "小考 25% \n大考 (2 次) 50%\n課程參與 25%",
+    "materials": "1. 曾恕銘編譯  無線通訊系統概論：行動通訊與網路，東華書局，4/e, 2016\n2. D. P. Agrawal and Q. Zeng, Introduction to Wireless and Mobile Systems, CENGAGE learning, 4/e, 2014",
     "foreignLanguageTextbooks": false,
     "covid19": {
       "lv2Description": null,
       "courseScoreMethod": "大考分兩梯次在表定上課教室進行實體考試，或線上進行，視疫情而定",
-      "courseInfo": "本教學大綱與進度表備註\n北科i學園PLUS課程公告 講義 課程影片",
+      "courseInfo": "本教學大綱與進度表備註\n北科 i 學園 PLUS 課程公告 講義 課程影片",
       "courseURL": "上課時間開始時，連結至 (其他時間無作用)\nhttps://meet.google.com/rqf-wqsk-zka\n(本學期固定 第一周起 沒有選到課但想加選的學生也能連入)",
-      "contactInfo": "研究室分機2216\nemail: shuming@ntut.edu.tw",
-      "additionalInfo": "1. 第一週遠距上課，上課時google meets 同步講述此學期課程內容與教學實施方式，約1小時\n2. 第二週起遠距授課方式採「同步+非同步混成」教學: 課前觀看北科i學園PLUS課程教學影片約3小時+上課時google meets同步重點講解線上點名與互動討論，約1-1.5小時。",
+      "contactInfo": "研究室分機 2216\nemail: shuming@ntut.edu.tw",
+      "additionalInfo": "1. 第一週遠距上課，上課時 google meets 同步講述此學期課程內容與教學實施方式，約 1 小時\n2. 第二週起遠距授課方式採「同步 + 非同步混成」教學：課前觀看北科 i 學園 PLUS 課程教學影片約 3 小時 + 上課時 google meets 同步重點講解線上點名與互動討論，約 1-1.5 小時。",
       "lv2Method": "遠距上課"
     }
   }

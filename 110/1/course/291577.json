@@ -3,17 +3,17 @@
     "name": "田方治",
     "email": "fctien@ntut.edu.tw",
     "latestUpdate": "2021-09-04 15:11:52",
-    "objective": "本課程介紹機器人技術，程式，與應用各類基礎。其中包括機器人動作分析與控制、機器人程式語言、機器人運動學、夾爪與末端效應器之運用。 教學目標為教導工業機器人之基本之知識及機器視覺，並配合 Delta Scara、Universal Robot R5、Yaskawa 6軸手臂等實際操作，並加入 Arduino套件(Pi-4, Jetson Nano)、 3D繪圖與列印 ，使學生對現有工業機器人、相關工業感應器(sensor)、驅動器等有所基礎之認識，並具備團隊合作及實際操作之能力\n (建議自備 arduino package)\n\nThis is an introduction course of Industrial Robot.  The course is designed principally to provide the Followings topics:\n1. fundamentals of robot technology, programming; and applications,\n2. robot motion ,analysis and control\n3. robot cell design and control \n4. assembly and inspection\n5. Robot Vision\n6. Safety, training ,maintenance, and quality",
+    "objective": "本課程介紹機器人技術，程式，與應用各類基礎。其中包括機器人動作分析與控制、機器人程式語言、機器人運動學、夾爪與末端效應器之運用。 教學目標為教導工業機器人之基本之知識及機器視覺，並配合 Delta Scara、Universal Robot R5、Yaskawa 6 軸手臂等實際操作，並加入 Arduino 套件 (Pi-4, Jetson Nano)、 3D 繪圖與列印 ，使學生對現有工業機器人、相關工業感應器 (sensor)、驅動器等有所基礎之認識，並具備團隊合作及實際操作之能力\n (建議自備 arduino package)\n\nThis is an introduction course of Industrial Robot.  The course is designed principally to provide the Followings topics:\n1. fundamentals of robot technology, programming; and applications,\n2. robot motion ,analysis and control\n3. robot cell design and control \n4. assembly and inspection\n5. Robot Vision\n6. Safety, training ,maintenance, and quality",
     "schedule": "Week 1: Introduction\nWeek 2:  Review of C and python \nWeek 3: Introduction to Robotics\nWeek 4:  Machine Vision 1  &amp; Arduino #1\nWeek 5:  Machine Vision 2  &amp; Arduino #2\nWeek 6:  Machine Vision 3  &amp; Arduino #3\nWeek 7:  Machine Vision 6  &amp; Arduino #6\nWeek 8:  Machine Vision 7  &amp; Arduino #7\nWeek 9:  Machine Vision 8  &amp; Arduino #8\nWeek 10: Test 1\nWeek 11: Machine Vision 9  &amp; Arduino #9\nWeek 12: DROE - Delta SCARA\nWeek 13: UR5\nWeek 14: Yashagawa\nWeek 15: Robot Geometry\nWeek 16: Machine Vision 10  &amp; Arduino #10\nWeek 17: Test 2\nWeek 18: Project and Class competition",
-    "scorePolicy": "Robot HW &amp; in-class practice 　　        30%\n　　Arduino Lab &amp; Machine Vision　　20%\n　　期中考(I)　　　　　　　　        15 % \n　　Book Reading　　　　　　　　        5%\n　　Term Competition (大學)　　　　15%\n　　Term Project (Team) - Competition　　　　　　20%\n共 105%",
-    "materials": "個人教材 \nIndustrial Robot (McGraw Hill //教科書*工業機器人》ISBN:9578967 (Most updated version). 新月書局代理 (Most updated version)，Groover etc.\neBook: Robot Modeling and Control, Mark W. Spong, Seth Hutchinson, and M. Vidyasagar, JOHN WILEY &amp; SONS, INC.\n智慧興機器人– 技術與應用，莊謙本 等，全華書局",
+    "scorePolicy": "Robot HW &amp; in-class practice 　　        30%\n　　Arduino Lab &amp; Machine Vision　　20%\n　　期中考 (I)　　　　　　　　        15 % \n　　Book Reading　　　　　　　　        5%\n　　Term Competition (大學)　　　　15%\n　　Term Project (Team) - Competition　　　　　　20%\n共 105%",
+    "materials": "個人教材 \nIndustrial Robot (McGraw Hill // 教科書 * 工業機器人》ISBN:9578967 (Most updated version). 新月書局代理 (Most updated version)，Groover etc.\neBook: Robot Modeling and Control, Mark W. Spong, Seth Hutchinson, and M. Vidyasagar, JOHN WILEY &amp; SONS, INC.\n智慧興機器人– 技術與應用，莊謙本 等，全華書局",
     "foreignLanguageTextbooks": false,
     "covid19": {
-      "lv2Description": "因課程中包含許多實作內容，故將以分流上課方式進行，\n第一周: 全員到課: 分組、分流規劃(依人數、組別)，本課程低於30人，故預計 15 人分流上課，、建立 line 群組 (同時開啟 google meet 課程連結)\n第17周:上機考試，全員到課\n地18周: 競賽，全員到課 ",
-      "courseScoreMethod": "第一周: 全員到課，分組、分流上課分配\n第17周:上機考試 (全員到課，分 2 間教室考試)\n地18周: 競賽，實作demo (全員到課)",
+      "lv2Description": "因課程中包含許多實作內容，故將以分流上課方式進行，\n第一周：全員到課：分組、分流規劃 (依人數、組別)，本課程低於 30 人，故預計 15 人分流上課，、建立 line 群組 (同時開啟 google meet 課程連結)\n第 17 周：上機考試，全員到課\n地 18 周：競賽，全員到課 ",
+      "courseScoreMethod": "第一周：全員到課，分組、分流上課分配\n第 17 周：上機考試 (全員到課，分 2 間教室考試)\n地 18 周：競賽，實作 demo (全員到課)",
       "courseInfo": "將以 line 群組通知動態調整",
       "courseURL": "https://meet.google.com/pwu-amgf-sgm",
-      "contactInfo": "科研大樓 1125   分機:2343\nEmail: fctien@ntut.edu.tw",
+      "contactInfo": "科研大樓 1125   分機：2343\nEmail: fctien@ntut.edu.tw",
       "additionalInfo": "無",
       "lv2Method": "分流上課"
     }
