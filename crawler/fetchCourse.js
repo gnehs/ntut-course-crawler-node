@@ -110,8 +110,12 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             let splitedArray = timeString.replace(/\n|^ | $|　/g, '').split(' ')
             return splitedArray.filter(x => x.length)
         }
-        let notes = pangu($($(this).children('td')[21]).text().replace(globalRegexParse, ''))
-        if (notes.length <= 1) notes = ''
+        let notes = $($(this).children('td')[21]).text().replace(globalRegexParse, '')
+
+        if (notes) {
+            notes = pangu(notes)
+            if (notes.length == 1) notes = ''
+        }
         return ({
             id: $($(this).children('td')[0]).text().replace(globalRegexParse, ''),
             name: {
