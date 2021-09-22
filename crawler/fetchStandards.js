@@ -1,6 +1,7 @@
 const { fetchSinglePage } = require('./fetchSinglePage')
 const jsonfile = require('jsonfile');
 const fs = require('fs');
+const pangu = require('pangu').spacing;
 async function main() {
     let $ = await fetchSinglePage('https://aps.ntut.edu.tw/course/tw/Cprog.jsp?format=-1')
     let years = []
@@ -77,7 +78,7 @@ async function parseDeaprtment(url = 'https://aps.ntut.edu.tw/course/tw/Cprog.js
             stage: getChildText($, tr, 7),
         })
     }
-    result.rules = $('body > table:nth-child(9) > tbody > tr > td > font').html()
+    result.rules = pangu($('body > table:nth-child(9) > tbody > tr > td > font').html())
     result.rules = result.rules ? result.rules.split('<br>').map(x => x.replace(/(.+)\.|\n/g, '')) : null
     return result
 }

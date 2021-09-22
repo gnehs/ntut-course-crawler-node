@@ -4,6 +4,7 @@ const fs = require('fs')
 const iconv = require('iconv-lite');
 const axios = require('axios').default;
 const axiosRetry = require('axios-retry');
+const pangu = require('pangu').spacing;
 const globalRegexParse = /\n|^ | $/g
 axiosRetry(axios, { retries: 3 });
 async function fetchCourseDescription(url = 'Curr.jsp?format=-2&code=1400037') {
@@ -11,11 +12,11 @@ async function fetchCourseDescription(url = 'Curr.jsp?format=-2&code=1400037') {
     let res = {
         code: $('body > table > tbody > tr:nth-child(2) > td:nth-child(1)').text().trim().replace(globalRegexParse, ''),
         name: {
-            zh: $('body > table > tbody > tr:nth-child(2) > td:nth-child(2)').text().trim().replace(globalRegexParse, ''),
+            zh: pangu($('body > table > tbody > tr:nth-child(2) > td:nth-child(2)').text().trim().replace(globalRegexParse, '')),
             en: $('body > table > tbody > tr:nth-child(2) > td:nth-child(3)').text().trim().replace(globalRegexParse, ''),
         },
         description: {
-            zh: $('body > table > tbody > tr:nth-child(3) > td').text().trim().replace(globalRegexParse, ''),
+            zh: pangu($('body > table > tbody > tr:nth-child(3) > td').text().trim().replace(globalRegexParse, '')),
             en: $('body > table > tbody > tr:nth-child(4) > td').text().trim().replace(globalRegexParse, '')
         }
     }
@@ -30,10 +31,10 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=292267&code=11710') {
         name: $('body > p:nth-child(3) > table > tbody > tr:nth-child(1) > th:nth-child(2)').text(),
         email: $('body > p:nth-child(3) > table > tbody > tr:nth-child(2) > th:nth-child(2)').text().trim().replace(globalRegexParse, ''),
         latestUpdate: $('body > p:nth-child(3) > table > tbody > tr:nth-child(3) > th:nth-child(2)').text(),
-        objective: $('body > p:nth-child(3) > table > tbody > tr:nth-child(4) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
-        schedule: $('body > p:nth-child(3) > table > tbody > tr:nth-child(5) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
-        scorePolicy: $('body > p:nth-child(3) > table > tbody > tr:nth-child(6) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
-        materials: $('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"),
+        objective: pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(4) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")),
+        schedule: pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(5) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")),
+        scorePolicy: pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(6) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")),
+        materials: pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")),
         foreignLanguageTextbooks: !!$('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td').text().match(/使用外文原文書：是/),
     }
     // get remarks
@@ -50,23 +51,23 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=292267&code=11710') {
 
             let covid19 = {
                 // if lv2 
-                lv2Description: covidDatas[0],
-                courseScoreMethod: covidDatas[1],
+                lv2Description: pangu(covidDatas[0]),
+                courseScoreMethod: pangu(covidDatas[1]),
                 // If distance learning or triage is implemented at the beginning of the semester
-                courseInfo: covidDatas[2],
-                courseURL: covidDatas[3],
-                contactInfo: covidDatas[4],
-                additionalInfo: covidDatas[5],
+                courseInfo: pangu(covidDatas[2]),
+                courseURL: pangu(covidDatas[3]),
+                contactInfo: pangu(covidDatas[4]),
+                additionalInfo: pangu(covidDatas[5]),
             }
             try {
-                covid19.lv2Method = remarks.match(/<b>●上課方式：<\/b>(.+)\n/)[1]
+                covid19.lv2Method = pangu(remarks.match(/<b>●上課方式：<\/b>(.+)\n/)[1])
             } catch (e) {
 
             }
             res.covid19 = covid19
         }
         else {
-            res.remarks = $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")
+            res.remarks = pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"))
         }
 
     }
@@ -109,10 +110,12 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             let splitedArray = timeString.replace(/\n|^ | $|　/g, '').split(' ')
             return splitedArray.filter(x => x.length)
         }
+        let notes = pangu($($(this).children('td')[21]).text().replace(globalRegexParse, ''))
+        if (notes.length <= 1) notes = ''
         return ({
             id: $($(this).children('td')[0]).text().replace(globalRegexParse, ''),
             name: {
-                zh: $($(this).children('td')[1]).text().replace(globalRegexParse, ''),
+                zh: pangu($($(this).children('td')[1]).text().replace(globalRegexParse, '')),
                 en: null
             },
             stage: $($(this).children('td')[2]).text().replace(globalRegexParse, ''),
@@ -135,7 +138,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
             peopleWithdraw: $($(this).children('td')[17]).text().replace(globalRegexParse, ''),
             ta: parseLinks($($(this).children('td')[18]).children('a')),
             language: $($(this).children('td')[19]).text().replace(globalRegexParse, ''),
-            notes: $($(this).children('td')[21]).text().replace(globalRegexParse, ''),
+            notes,
             courseDescriptionLink: $($(this).children('td')[1]).children('a').attr('href'),
             syllabusLinks: parseSyllabusLinks($($(this).children('td')[20]).children('a')),
         })

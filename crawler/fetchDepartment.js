@@ -1,5 +1,6 @@
 const { fetchSinglePage } = require('./fetchSinglePage')
 const jsonfile = require('jsonfile');
+const pangu = require('pangu').spacing;
 const fs = require('fs');
 async function fetchClass(url) {
     let $ = await fetchSinglePage('https://aps.ntut.edu.tw/course/tw/' + url)
@@ -23,7 +24,7 @@ async function fetchDepartment(year = 109, sem = 2) {
     let departments = $('a')
     let progress = 0
     for (let department of departments) {
-        let name = $(department).text()
+        let name = pangu($(department).text())
         let href = $(department).attr('href')
         progress++
         console.log(`[fetch] 正在取得 (${progress}/${departments.length}) ${name}`)
