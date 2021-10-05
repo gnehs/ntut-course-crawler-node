@@ -1,21 +1,21 @@
 [
   {
-    "name": "古碧源",
-    "email": "ku@ee.ntut.edu.tw",
-    "latestUpdate": "2021-09-17 17:07:48",
-    "objective": "Course Title:Electronics and Electronics Lab.\nDescription:\n1. Introduction to bench instruments : oscilloscope, function generator, power supply, digital multimeter.\n2. Diode circuits : voltage-current characteristics, rectification, filtering, limiting and clamping, and zener diode.\n3. Operational amplifier circuits : inverting and non-inverting, arithmetic circuit, voltage follower, integration and differentiation, instrument amplification.\n4. Transistor: voltage-current characteristics, voltage transfer characteristic, biasing, various amplifier configurations.\n5. Frequency response of amplifiers, multi-stage and cascade amplifiers, differential amplifiers, feedback amplifiers, power amplifiers.",
-    "schedule": "Week01~03: Course description and Instruments function introduction.\nWeek04~06: Diode Circuits\nWeek07~08: Operational Amplifier Circuits\nWeek09      : Mid-term exam\nWeek10~12: Op-Amp application circuits\nWeek13~15: Bipolar Junction Transistor Characteristics\nWeek16~17: Transistor Amplifier Circuits\nWeek18: Final Exam",
-    "scorePolicy": "Experimental Results : 60 %\nMid-term and Final exams : 30 %\nAttendance : 10 %",
-    "materials": "The instructor will prepare experiment handouts in English for all experiments that suits your Electronics class. The handouts will be passed out at the beginning of each experiment. However, the students should study related materials in the textbook of their Electronics course.",
+    "name": "鍾孟雲",
+    "email": "alexmychung@gmail.com",
+    "latestUpdate": "2021-10-04 17:19:54",
+    "objective": "Course Title: Electronics Lab.\nDescription: Introduction to Electronic Instruments and Operational Training Basic Instruments and the Knowledge of electronic parts. The properties, feedback concepts, characteristics and circuits of the Diode; Chopper circuit and clamp circuit; BJT transistor and amplifier circuit; FET transistor and amplifier circuit; Class A, Class B amplifier.",
+    "schedule": "Week 1. 　　N/A\nWeek 2. 　　N/A\nWeek 3. 　　Introduction of laboratory equipment and equipment, training of electronic equipment operation\nWeek 4. 　　Diode characteristics\nWeek 5. 　　Diode rectifier circuit\nWeek 6. 　　Characteristics and applications of the diode\nWeek 7. 　　Wayne Bridge Oscillator\nWeek 8. 　　IC 555 astable oscillator\nWeek 9. 　　Mid-term. Take a week off.\nWeek 10. Characteristics of bipolar junction transistor (BJT)\nWeek 11. Switch of bipolar junction transistor (BJT)\nWeek 12. Bipolar junction transistor (BJT) bias circuit\nWeek 13. Integrator and Differentiator\nWeek 14. Field Effect Transistor (FET) Characteristics and Bias Voltage\nWeek 15. Field Effect Transistor (FET) Amplifier\nWeek 16. High frequency response of amplifier\nWeek 17. Theme reports \nWeek 18. Final exam including written test and circuit implementation\nThe course will be adjusted according to the progress.",
+    "scorePolicy": "Mid-term exams: 0%\nFinal exams: 30%\nAttendance: 20%\nExperimental Results: 30%\nTheme Reports: 20%",
+    "materials": "The instructor will prepare experiment handouts in English for all experiments that suits the class. The handouts will be passed out at the beginning of each experiment. The students should study related materials in the textbook of their Electronics course. The followings are the reference text books.\n電子學實驗 (上)，第九版，陳瓊興編著，全華出版\n電子學實驗 (下)，第八版，陳瓊興編著，全華出版",
     "foreignLanguageTextbooks": false,
     "covid19": {
-      "lv2Description": "The laboratory has 24 benches, and can have students work in sufficient social distance from each other. So experiments are still done in the laboratory in case of COVID-19 Level 2 Alert. In the worst case of Level 3 Alert the instructor will perform experiment in the laboratory and students attend the class on-line. Then students send their reports by emails for grading. ",
-      "courseScoreMethod": "All experiment reports should be prepared electronically, and submit to the instructor by emails to present spreading of COVID virus. In the case of Level 1 and Level 2 Alert students will fill in their mid-term and final exams in paper.",
-      "courseInfo": "Please join the class on Google Meet for the first week. After the first week the instructor will decide whether have students come to the laboratory due to the small enrollment of this course.",
-      "courseURL": "meet.google.com/vny-oovs-bzr",
-      "contactInfo": "All students can find contact info of the instructor in the Department of Electrical Engineering official website.",
-      "additionalInfo": "Please be prepared to attend the first week classes until noon. The instructor will give a full 3-hour instructions on bench instruments. Believe me, you do not want to miss any one class, or you will not be able to catch up with the class.",
-      "lv2Method": "分流上課"
+      "lv2Description": null,
+      "courseScoreMethod": "COVID-19 Alert Level 2\nThe laboratory has 24 benches, and can have students work in sufficient social distance from each other. So, experiments are still done in the laboratory. The Evaluation and grading policy will be the same above.\n\nCOVID-19 Alert Level 3 (or above)\nThe instructor will do on-line teaching and students attend the class on-line. The students will fill in their final exams online by google sheet. The Evaluation and grading policy will be the followings.\nMid-term exams: 0%\nFinal exams: 15%\nAttendance: 40%\nExperimental Results: 25%\nTheme Reports: 20%",
+      "courseInfo": "Please join the class on Google Meet at the class time if school needs remote class, otherwise, please come to the lab to do the experiment. The link is in the following. For the other things need to ask, please email the instructor.\nmychung@ntut.edu.tw",
+      "courseURL": "Google Meet\nLink: https://meet.google.com/egd-mhkp-zrq \nCode: egd-mhkp-zrq",
+      "contactInfo": "Office: Integrated Technology Complex Building lab 313\nExtension: 2144\ne-mail：mychung@ntut.edu.tw。\nOffice Hours: Wednesday afternoon from 13:00~15:00",
+      "additionalInfo": "For online lectures, students are asked to log in using the school’s google mailbox. During the exam, the camera needs to be shot on the computer screen and desktop. And you need to prepare blank A4 paper by yourself.",
+      "lv2Method": "遠距上課"
     }
   }
 ]
