@@ -1807,7 +1807,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "共同 303A 教室",
+    "notes": "共同 303A 教室【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4916626",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=289598&code=24275"
@@ -2798,9 +2798,9 @@
     },
     "classroom": [
       {
-        "name": "三教409(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=1&code=57",
-        "code": "57"
+        "name": "三教303(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=1&code=46",
+        "code": "46"
       }
     ],
     "people": "19",
@@ -4596,7 +4596,7 @@
         "code": "490"
       }
     ],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7442,7 +7442,7 @@
         "code": "67"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7558,7 +7558,7 @@
         "code": "497"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8259,7 +8259,7 @@
         "code": "264"
       }
     ],
-    "people": "131",
+    "people": "130",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12441,6 +12441,7 @@
     "notes": "◎碩士班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=293643&code=12095",
       "ShowSyllabus.jsp?snum=293643&code=11106"
     ]
   },
@@ -19401,7 +19402,7 @@
         "code": "490"
       }
     ],
-    "people": "47",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19454,7 +19455,7 @@
         "code": "264"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21023,7 +21024,7 @@
         "code": "429"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -21740,7 +21741,7 @@
         "code": "139"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23039,7 +23040,7 @@
         "code": "543"
       }
     ],
-    "people": "19",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26065,7 +26066,7 @@
         "code": "30"
       }
     ],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26547,7 +26548,13 @@
         "2"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓231e",
+        "link": "Croom.jsp?format=-3&year=110&sem=1&code=468",
+        "code": "468"
+      }
+    ],
     "people": "82",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27531,9 +27538,9 @@
     },
     "classroom": [
       {
-        "name": "土木5F_1",
-        "link": "Croom.jsp?format=-3&year=110&sem=1&code=263",
-        "code": "263"
+        "name": "土木1F_2",
+        "link": "Croom.jsp?format=-3&year=110&sem=1&code=257",
+        "code": "257"
       }
     ],
     "people": "37",
@@ -28772,7 +28779,7 @@
         "code": "51"
       }
     ],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -29713,7 +29720,7 @@
         "code": "117"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -33516,7 +33523,7 @@
         "code": "528"
       }
     ],
-    "people": "44",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -33988,7 +33995,7 @@
         "code": "336"
       }
     ],
-    "people": "54",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -34810,11 +34817,11 @@
         "code": "158"
       }
     ],
-    "people": "4",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "◎【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405193",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=299256&code=11968"
@@ -36194,7 +36201,7 @@
         "code": "543"
       }
     ],
-    "people": "7",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
