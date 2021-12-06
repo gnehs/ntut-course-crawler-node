@@ -65,8 +65,8 @@ async function parseDeaprtment(url = 'https://aps.ntut.edu.tw/course/tw/Cprog.js
     let result = {
         courses: [], rules: []
     }
-    let trs = $('body > table:nth-child(5) > tbody > tr')
-    $('body > table:nth-child(5) > tbody > tr:first-child').remove()
+    $('body > table:nth-child(5) tr:first-child').remove()
+    let trs = $('body > table:nth-child(5) tr')
     for (let tr of trs) {
         result.courses.push({
             year: getChildText($, tr, 0),
