@@ -1,0 +1,12 @@
+[
+  {
+    "name": "楊勝明",
+    "email": "smyang@ntut.edu.tw",
+    "latestUpdate": "2021-12-27 13:22:51",
+    "objective": "The objectives of this course is to learn practical control schemes and controller design methods for DC and AC electric machines through simulations. Matlab/Simulink software is used as the simulation tools. In the beginning classes, DC machine controls are studied. Then, various simulation projects for the control of permanent magnetic synchronous machines (PMSM) are studied. These topics include: controller design, estimators, digital control, pulse width modulation (PWM), and direct torque control. In each lab, theoretical background is introduced first, then followed by a simulation project.",
+    "schedule": "1. Introduction of Matlab/Simulink, DC Motor model, current control (lab1)\n2. Current control loop tuning, wavetest, time response, frequency response, and bandwidth (lab2)\n3. Velocity and position control loop tuning, anti-windup of the velocity controller (lab3)\n4. PMSM motor model and V/H control (lab4)\n5. V/H control with power compensation (lab5)\n6. PMSM current and velocity control (lab6)\n7. Digital position control (lab7)\n8. Digital position control with velocity estimator (lab8)\n9. Mid-term exam.\n10. Disturbance torque and motor inertia estimation (lab9)\n11. Digital PMSM control with DC-AC Inverter (SPWM) (lab10)\n12. SPWM, SVPWM and DPWM1 (FFT) (lab11)\n13. Field weakening control, voltage limitation (lab12)\n14. Close-loop stator flux and position estimation (lab13)\n15. Sensorless vector control with stator flux and position estimator (lab14)\n16. Direct torque control (lab15)\n17. Final exam.\n18. Review",
+    "scorePolicy": "Lab: 40% (For each Lab, Completion 20%, Lab. Report 20%)\nMid-term exam: 30%\nFinal exam: 30%",
+    "materials": "1. NTUT 108-1 class note: 永磁同步電動機之原理與應用.\n2. Control System Design Guide, 3th Editions, George Ellis, Elsevier-Academic Press.\n3. Observers in Control Systems, George Ellis, Elsevier-Academic Press, 2010.\n4. 控制系統設計與模擬 - 使用 Matlab/Simulink, 李宜達，全華圖書，2011.",
+    "foreignLanguageTextbooks": true
+  }
+]
