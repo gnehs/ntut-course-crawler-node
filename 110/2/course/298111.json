@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "尤正吉",
+    "email": "oil@ntut.edu.tw",
+    "latestUpdate": "2021-12-29 12:45:36",
+    "objective": "這是一門和「車輛動力學」相關之應用性課程，主要係論述懸吊機構之幾何特徵如何影響車輛的動態行為。內容包括利用機構學之自由度分析歸納出所有懸吊系統的種類、利用瞬心法分析懸吊機構之幾何特徵和車輛轉向特性 (轉向不足、轉向過度) 的關係、及利用平面 Closure Equation 及空間 Suspension Derivative 等解析方式找出車身和輪胎之相對運動。\n    接著利用靜力學的概念分析路面作用於輪胎上的力量 (縱向力、轉彎力和荷重) 如何藉由懸吊機構傳遞至車身，以及懸吊機構的設計對於輪胎荷重變化的影響等。最後則說明如何利用電腦輔助工程分析軟體 (Adams-Car，華創、中華和國瑞汽車使用之軟體) 進行懸吊系統的分析和改良設計 。",
+    "schedule": "1.Development Trend of Suspension Systems\n2.Degree of Freedom, Classification of Suspension Systems\n3.Geometry Characteristic of Independent Suspension\n4.Geometry Characteristic of Nun-Independent Suspension\n5.Anti Effect\n6.Steering Geometry\n7.Steering System, Compliance\n8.Midterm \n9.Wheel Load \n10.Ride and Roll Stiffness\n11-14.Computer Aided Analysis of Suspension System (ADAMS)\n15.Planar Kinematic Analysis\n16.Spatial Kinematic Analysis\n17.Static Equilibrium Analysis\n18.Final &amp; Presentation",
+    "scorePolicy": "Miterm 40%, Final 30%,  Project 30%",
+    "materials": "1. W. F. Milliken, and D. L. Milliken, Race Car Vehicle Dynamics, 1995, pp. 579-728 (Ch.16-19), 833-839 (Ch.23).\n2. T. D. Gillespie, Fundamentals of Vehicle Dynamics, 2nd Edition, 1992, pp. 237-307 (Ch.7-8).\n3. ADAMS Users Manual, Version 2014.",
+    "foreignLanguageTextbooks": true
+  }
+]

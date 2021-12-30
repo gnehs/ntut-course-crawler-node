@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "柯明村",
+    "email": "mtke@ntut.edu.tw",
+    "latestUpdate": "2021-12-29 11:59:20",
+    "objective": "本課程主要包含四部份，分別為基本有限差分法、流體力學與熱傳方程式的有限差分法應用、有限體積法、格點產生法。\nThis course comprises four parts. Part one is fundamentals of finite-difference methods. Part 2 is the application of finite-difference methods to the equations of fluid mechanics and heat transfer. Part 3 is finite-volume method. Part 4 is grid generation.",
+    "schedule": "1       Introduction to CFD\n\n2　　The Equations of CFD\n  Governing equations of fluid flow and heat transfer\n  Conservative form of the governing equations of fluid flow\n  Differential and integral form of the general transport equations\n  Classification of physical behaviour\n  Classification method for simple partial differential equations\n\n3　　Turbulence and its Modelling----Refer: FLUENT UG Chap.10 and Powerpoint\n   Characteristics of simple turbulent flows\n   Turbulence models\nMixing length model　　                 The k-ε models\nReynolds stress equation models  Algebraic stress equation models\nSome recent advances\n\n4　　The Solution Methods----Refer: FLUENT UG Chap.5, Chap.22\n　　Grids—Structured, Unstructured\n　　Discritization Methods—Finite Difference Method and Finite Volume Method\n　　Pressure-Velocity Coupling—SIMPLE, SIMPLER, SIMPLEC, PISO\n\n5　　Boundary Conditions----Refer: FLUENT UG Chap.6\n　　Inlet　　　　                                Outlet\n　　Wall boundary conditions　　　　Constant pressure\n　　Periodic or cyclic　　　　\n6　　The Finite Volume Method for Convection-Diffusion Problems\n　　The central differencing scheme\n　　Properties of discretisation schemes\nConservativeness, Boundedness and Transportiveness\n　　The upwind scheme　　　　        The hybrid scheme\n　　The power-law scheme　　　　Higher order schemes\n　　Other higher order schemes　　Unsteady flows\n7　　Solution algorithms for pressure-velocity coupling flows\n　　The staggered grid　　　　        The momentum equations\n　　The SIMPLE algorithm　　　　Assembly of a complete method\n　　The SIMPLER algorithm　　　　The SIMPLEC algorithm\n　　The PISO algorithm　　　　        The hybrid scheme\n8　　Engineering Examples",
+    "scorePolicy": "平時成績：點名未到一次扣 5 分\nFinal Exam. 6/21 (一)   ----- 50% \nPresentation　　   ------------- 20%　　\nTechnical Report　　--------- 30%",
+    "materials": "H. K. Versteeg and W. Malalasekera, An introduction to computational fluid dynamics-The finite volume method, Longman Scientific &amp; Technical.\nReferences: \nJ.  C.  Tannehill,  D.  A.  Anderson  and  R.  H.  Pletcher,Computational  Fluid\nMechanics and Heat Transfer, 2nd Ed., Taylor&amp;Francis.",
+    "foreignLanguageTextbooks": true
+  }
+]

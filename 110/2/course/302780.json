@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "柯俊宏",
+    "email": "Maning_98@yahoo.com",
+    "latestUpdate": "2021-12-29 10:19:24",
+    "objective": "This is a course on the practical aspects of optimization methodology, with a major focus on using the most popular CAE techniques ANSYS and stratagems relevant to engineering applications arising in design, operations, and analysis. Attention is given primarily to techniques applicable to problems in continuous variables that involve real-valued constraint functions and a single real-valued objective function. \n\nIn short, we will teach not only the concept and applications of engineering optimization; but also how to use it along with ANSYS to develop some very practical models under specific constrains, such as optimal design of a dental implant.",
+    "schedule": "1. Introduction to Optimization 2/23\n2. Introduction to ANSYS 3/2\n3. Functions of a Single Variable 3/9\n4. Functions of Several Variables 3/16\n5. Finite Element Analysis using ANSYS 3/23\n6. Linear Programming 3/30\n7. Create a Dental Implant using ANSYS 4/6\n8. Mid-Term Exam 4/13\n9. Constrained Optimality Criteria 4/20\n10. ANSYS Stress Analysis of the Implant 4/27\n11. Transformation Methods 5/4\n12. Optimal Design of the Implant using ANSYS I 5/11\n13. Constrained Direct Search 5/18\n14. Optimal Design of the Implant using ANSYS II 5/25\n15. Optimal Design of the Implant using ANSYS III 6/1\n16. Optimal Design of the Implant using ANSYS IV 6/8\n17. Optimal Design of Others using ANSYS 6/15\n18. Final Exam 6/22",
+    "scorePolicy": "1. Mid-term Exam: 筆試         30%\n2. 最佳化成果設計                  30%  \n3. 論文寫作發表                      30%\n4. 出席率與平常成績               10%",
+    "materials": "Engineering Optimization Methods and Applications\n\nG.V. Reklaitis\nA. Ravindran\nK.M. Ragsdell",
+    "foreignLanguageTextbooks": true
+  }
+]
