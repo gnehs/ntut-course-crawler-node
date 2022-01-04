@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "王謹誠",
+    "email": "chincwang@ntut.edu.tw",
+    "latestUpdate": "2022-01-03 17:56:43",
+    "objective": "本課程的目的是教授基本和先進的解決方案技術，包括精確和近似的方法，以解決廣泛的傳導傳熱問題。 其中包括多維穩態和暫態分析，重點是與傳熱相關的基礎物理學和基礎數學。因此，本課程將通過各種形式的控制傳熱方程的形式化求解技術來強調能量平衡和邊界條件的概念。\nThe goal of this course is to teach basic and advanced solution techniques, including exact and approximate approaches, for a wide range of conduction heat transfer problems. Included are both multidimensional steady state and transient analyses, with emphasis on the fundamental physics and underlying mathematics associated with heat transfer. Accordingly, this course will stress the concepts of energy balance and boundary conditions with a wide range of formal solution techniques for solution of governing heat transfer equations.",
+    "schedule": "第 01 週 CFD basics and ANSYS Fluent Introduction\n第 02 週 Review of Heat Transfer\n第 03 週 Heat Conduction Fundamentals\n第 04 週 The Separation of Variables in the Rectangular Coordinate System\n第 05 週 The Separation of Variables in the Cylindrical Coordinate System\n第 06 週 The Separation of Variables in the Cylindrical Coordinate System\n第 07 週 The Separation of Variables in the Spherical Coordinate System\n第 08 週 The Separation of Variables in the Spherical Coordinate System\n第 09 週 Midterm 期中報告\n第 10 週 The Use of Duhamel's Theorem  \n第 11 週 The Use of Green's Function \n第 12 週 The Use of Laplace Transform \n第 13 週 The Use of Laplace Transform \n第 14 週 Phase Change Problems\n第 15 週 Phase Change Problems\n第 16 週 Approximate Analytic Methods\n第 17 週 Approximate Analytic Methods\n第 18 週 Final 期末考",
+    "scorePolicy": "出席 Attendance  20%\n作業 Homeworks 50%\n期末考 Final  30%",
+    "materials": "Heat Conduction, D.W. Hahn and M.N. Ozisik, 3rd Edition, Wiley, 2012, ISBN 0470902930.",
+    "foreignLanguageTextbooks": true
+  }
+]

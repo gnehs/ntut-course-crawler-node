@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "葉賜旭",
+    "email": "ssyeh@ntut.edu.tw",
+    "latestUpdate": "2022-01-03 16:40:02",
+    "objective": "本課程主要說明如何應用自動控制理論與概念於機電一體化控制系統的實務設計；課程內容包括：傳動機構、致動器、感測器、控制器等機電一體化控制系統的關鍵部份與整合方式。本課程並且使用 LabVIEW 進行控制系統實務設計與模擬，使得同學們可體會控制系統的實務設計與應用，培養與建立機電一體化控制系統分析與設計之基礎能力。",
+    "schedule": "1. Introduction\n2. Machines and Drivetrains\n3. Actuators: Electrical Drives\n4. Sensors: Physical Sensors\n5. Controllers: Design of Control Systems\n6. LabVIEW Simulation",
+    "scorePolicy": "第一次測驗：30%\n第二次測驗：35%\n期末考：35%",
+    "materials": "Mechatronic Systems: Fundamentals, R. Isermann, SPRINGER.\nAutomatic Control Systems, B. C. Kuo and F. Golnaraghi, WILEY, 8th ed.\nhttp://tech.deltamoocx.net/course/view/courseInfo/138",
+    "foreignLanguageTextbooks": true
+  }
+]

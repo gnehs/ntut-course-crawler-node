@@ -42,13 +42,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3003085",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300348&code=11363"
+    ]
   },
   {
     "code": "3003085",
@@ -93,7 +95,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -146,7 +148,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -210,7 +212,7 @@
         "code": "288"
       }
     ],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -263,7 +265,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -316,7 +318,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -369,7 +371,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -428,7 +430,7 @@
         "code": "288"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -481,13 +483,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": ", 計中教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704055",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300398&code=23467"
+    ]
   },
   {
     "code": "3705008",
@@ -520,19 +524,25 @@
     ],
     "time": {
       "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "6",
-        "7",
-        "8"
+      "mon": [
+        "9",
+        "A",
+        "B"
       ],
+      "tue": [],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "0",
+    "classroom": [
+      {
+        "name": "共同313(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=155",
+        "code": "155"
+      }
+    ],
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -583,7 +593,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -634,7 +644,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -685,7 +695,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -736,7 +746,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -787,7 +797,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -876,7 +886,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -927,7 +937,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -985,13 +995,14 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "材料實驗 (B02)/ 熱工實驗 (綜科 428)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3002017",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300436&code=12310",
       "ShowSyllabus.jsp?snum=300436&code=12080"
     ]
   },
@@ -1082,7 +1093,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1133,7 +1144,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1189,14 +1200,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "材料實驗 (B02)/ 熱工實驗 (綜科 428)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3002017",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=300443&code=12043"
+      "ShowSyllabus.jsp?snum=300443&code=12043",
+      "ShowSyllabus.jsp?snum=300443&code=11363"
     ]
   },
   {
@@ -1242,13 +1254,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300450&code=11980"
+    ]
   },
   {
     "code": "3103021",
@@ -1293,7 +1307,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1346,7 +1360,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1405,7 +1419,7 @@
         "code": "210"
       }
     ],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1458,7 +1472,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1515,7 +1529,7 @@
         "code": "196"
       }
     ],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1574,7 +1588,7 @@
         "code": "209"
       }
     ],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1677,7 +1691,7 @@
         "code": "287"
       }
     ],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1736,7 +1750,7 @@
         "code": "291"
       }
     ],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1795,7 +1809,7 @@
         "code": "353"
       }
     ],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1847,7 +1861,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1898,7 +1912,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1989,7 +2003,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -2040,7 +2054,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -2092,7 +2106,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2145,7 +2159,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2240,7 +2254,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2292,7 +2306,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2350,7 +2364,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2401,7 +2415,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2452,7 +2466,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2510,7 +2524,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2612,7 +2626,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2668,7 +2682,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2949,7 +2963,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2996,7 +3010,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3053,7 +3067,7 @@
         "code": "207"
       }
     ],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3106,7 +3120,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3159,13 +3173,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3113307",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300579&code=11009"
+    ]
   },
   {
     "code": "1003002",
@@ -3397,7 +3413,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3451,7 +3467,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3510,7 +3526,7 @@
         "code": "292"
       }
     ],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3563,7 +3579,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3614,7 +3630,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3667,7 +3683,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3720,7 +3736,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3773,7 +3789,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3826,7 +3842,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3877,7 +3893,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3974,7 +3990,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4027,7 +4043,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4084,7 +4100,7 @@
         "code": "353"
       }
     ],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4319,8 +4335,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "0",
+    "classroom": [
+      {
+        "name": "共同312(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=154",
+        "code": "154"
+      }
+    ],
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -4373,7 +4395,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -4426,7 +4448,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4479,7 +4501,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4532,7 +4554,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4635,7 +4657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4685,7 +4707,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4737,7 +4759,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4791,7 +4813,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4849,7 +4871,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4899,7 +4921,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4955,7 +4977,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5006,7 +5028,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5101,7 +5123,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5154,7 +5176,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5207,7 +5229,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5260,7 +5282,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5357,7 +5379,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5410,7 +5432,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5461,7 +5483,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5696,7 +5718,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5749,13 +5771,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300662&code=24211"
+    ]
   },
   {
     "code": "AB02017",
@@ -5798,7 +5822,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5851,13 +5875,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300664&code=24062"
+    ]
   },
   {
     "code": "AB03023",
@@ -5902,7 +5928,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5952,7 +5978,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6004,7 +6030,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6057,7 +6083,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6115,7 +6141,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6168,7 +6194,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -6221,13 +6247,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105203",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300708&code=11009"
+    ]
   },
   {
     "code": "3106004",
@@ -6272,13 +6300,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3106004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300709&code=10585"
+    ]
   },
   {
     "code": "3115009",
@@ -6323,13 +6353,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3115009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300710&code=10473"
+    ]
   },
   {
     "code": "3605001",
@@ -6373,7 +6405,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6426,7 +6458,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6532,7 +6564,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6585,7 +6617,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6638,7 +6670,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6688,7 +6720,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6741,7 +6773,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6794,7 +6826,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6845,7 +6877,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6897,13 +6929,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300856&code=11937"
+    ]
   },
   {
     "code": "4406152",
@@ -6948,7 +6982,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7001,7 +7035,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7060,7 +7094,7 @@
         "code": "156"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7112,7 +7146,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7165,13 +7199,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505207",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300889&code=11083"
+    ]
   },
   {
     "code": "4505308",
@@ -7216,7 +7252,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7267,7 +7303,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7320,7 +7356,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7373,7 +7409,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7429,7 +7465,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7473,7 +7509,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7523,7 +7559,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7573,7 +7609,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7623,7 +7659,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7675,7 +7711,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7727,13 +7763,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "共同 302",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906555",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300932&code=11049"
+    ]
   },
   {
     "code": "4906569",
@@ -7777,7 +7815,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7833,7 +7871,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7889,7 +7927,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7945,7 +7983,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7997,7 +8035,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8053,7 +8091,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8105,7 +8143,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8155,7 +8193,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8259,7 +8297,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8365,7 +8403,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8405,18 +8443,19 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [],
+      "tue": [
+        "C",
+        "D"
+      ],
       "wed": [
-        "A",
-        "B",
-        "C"
+        "D"
       ],
       "thu": [],
       "fri": [],
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8531,7 +8570,9 @@
     "language": "　",
     "notes": "建築三、建築四與職建都所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201437",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=300988&code=12144"
+    ]
   },
   {
     "code": "5201440",
@@ -8576,7 +8617,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8629,7 +8670,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8843,7 +8884,9 @@
     "language": "　",
     "notes": "日、職建都所與博班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235417",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301020&code=12235"
+    ]
   },
   {
     "code": "5415220",
@@ -8882,7 +8925,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8933,7 +8976,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8985,7 +9028,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9035,7 +9078,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9088,7 +9131,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9144,14 +9187,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705102",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=301079&code=11429"
+      "ShowSyllabus.jsp?snum=301079&code=11429",
+      "ShowSyllabus.jsp?snum=301079&code=24001"
     ]
   },
   {
@@ -9197,7 +9241,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9249,13 +9293,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "新聘老師 1；設計 106",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5806003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301119&code=11540"
+    ]
   },
   {
     "code": "5807030",
@@ -9300,7 +9346,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9353,7 +9399,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9414,7 +9460,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9469,7 +9515,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9525,7 +9571,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9577,7 +9623,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9630,13 +9676,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301231&code=11449"
+    ]
   },
   {
     "code": "6105025",
@@ -9687,7 +9735,7 @@
         "code": "157"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9742,7 +9790,7 @@
         "code": "87"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9801,7 +9849,7 @@
         "code": "87"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9860,7 +9908,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9913,7 +9961,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9972,7 +10020,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10024,7 +10072,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10129,7 +10177,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10182,13 +10230,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405112",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301322&code=11931"
+    ]
   },
   {
     "code": "A405153",
@@ -10337,7 +10387,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10400,7 +10450,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10504,7 +10554,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10571,14 +10621,15 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "B-1 班 碩一必修 (個案寫作或論文寫作 2 選 1)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205028",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=301366&code=11225"
+      "ShowSyllabus.jsp?snum=301366&code=11225",
+      "ShowSyllabus.jsp?snum=301366&code=11537"
     ]
   },
   {
@@ -10628,13 +10679,14 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "B 班 碩一 109 級起必修 (個案寫作或論文寫作 2 選 1)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205028",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301497&code=11537",
       "ShowSyllabus.jsp?snum=301497&code=12173"
     ]
   },
@@ -10686,7 +10738,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10753,7 +10805,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10821,7 +10873,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10892,7 +10944,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10900,6 +10952,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=301522&code=10821",
+      "ShowSyllabus.jsp?snum=301522&code=21251",
       "ShowSyllabus.jsp?snum=301522&code=11401"
     ]
   },
@@ -10966,14 +11019,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=301523&code=10662"
+      "ShowSyllabus.jsp?snum=301523&code=10662",
+      "ShowSyllabus.jsp?snum=301523&code=11440"
     ]
   },
   {
@@ -11044,13 +11098,14 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301526&code=11985",
       "ShowSyllabus.jsp?snum=301526&code=12173",
       "ShowSyllabus.jsp?snum=301526&code=12148"
     ]
@@ -11118,7 +11173,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11196,7 +11251,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11262,13 +11317,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301529&code=10938"
+    ]
   },
   {
     "code": "C225017",
@@ -11333,7 +11390,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11406,13 +11463,14 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301531&code=11985",
       "ShowSyllabus.jsp?snum=301531&code=11396",
       "ShowSyllabus.jsp?snum=301531&code=12173"
     ]
@@ -11480,7 +11538,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11550,7 +11608,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11820,7 +11878,9 @@
     "language": "　",
     "notes": "二 / AB",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3001011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301538&code=11944"
+    ]
   },
   {
     "code": "1400027",
@@ -11865,13 +11925,15 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "六 / 567",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301544&code=23249"
+    ]
   },
   {
     "code": "1404003",
@@ -11915,7 +11977,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11968,7 +12030,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12021,7 +12083,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12080,7 +12142,7 @@
         "code": "291"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12230,7 +12292,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12371,7 +12433,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12424,7 +12486,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -12477,7 +12539,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12529,7 +12591,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12571,16 +12633,22 @@
       "mon": [],
       "tue": [],
       "wed": [
-        "7",
         "8",
-        "9"
+        "9",
+        "A"
       ],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "0",
+    "classroom": [
+      {
+        "name": "共同413(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=157",
+        "code": "157"
+      }
+    ],
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12627,7 +12695,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12729,7 +12797,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12781,7 +12849,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12882,14 +12950,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3861203",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=301568&code=24341"
+      "ShowSyllabus.jsp?snum=301568&code=24341",
+      "ShowSyllabus.jsp?snum=301568&code=11788"
     ]
   },
   {
@@ -12936,7 +13005,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12988,7 +13057,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13047,7 +13116,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13100,7 +13169,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13150,7 +13219,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13200,7 +13269,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13251,7 +13320,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13304,7 +13373,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13354,7 +13423,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13451,13 +13520,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "四 / 567",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301583&code=20447"
+    ]
   },
   {
     "code": "1401041",
@@ -13502,7 +13573,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13553,7 +13624,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13606,7 +13677,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13963,7 +14034,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14104,7 +14175,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14155,7 +14226,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14206,7 +14277,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14259,64 +14330,14 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB01024",
-    "syllabusLinks": []
-  },
-  {
-    "code": "1400037",
-    "description": {
-      "zh": "本課主旨在培養學生職場英語文溝通能力，如提案、企劃案提寫、時事討論、公司產品行銷、書信寫作，希冀能夠藉由本課程之修習，加強學生進入職場前的競爭力。",
-      "en": "This course is designed to provide students with a firm foundation in business communication skills. Students will learn how to present a proposal, start a discussion, and promote company products in English. It is hoped that by the end of this course, students are equipped with sufficient knowledge of general and business English."
-    },
-    "id": "301627",
-    "name": {
-      "zh": "職場英文溝通",
-      "en": "English Communication in Workplace"
-    },
-    "stage": "1",
-    "credit": "0.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職專業職場英文(大)",
-        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2285",
-        "code": "2285"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林煜善",
-        "link": "Teach.jsp?format=-3&year=110&sem=2&code=12003",
-        "code": "12003"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "A",
-        "B"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "四 / AB",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400037",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=301627&code=12003"
+      "ShowSyllabus.jsp?snum=301611&code=23725"
     ]
   },
   {
@@ -14626,13 +14647,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "日職合開；人數上限各 7；設計 207",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5807034",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301673&code=11540"
+    ]
   },
   {
     "code": "5825114",
@@ -14677,7 +14700,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14729,7 +14752,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14783,7 +14806,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14836,7 +14859,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14999,7 +15022,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15050,7 +15073,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15158,7 +15181,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15216,7 +15239,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15318,7 +15341,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15370,7 +15393,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15421,7 +15444,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15472,7 +15495,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15531,7 +15554,7 @@
         "code": "508"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -15584,7 +15607,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15641,7 +15664,7 @@
         "code": "50"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15692,7 +15715,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15749,7 +15772,7 @@
         "code": "157"
       }
     ],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15802,7 +15825,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15861,7 +15884,7 @@
         "code": "401"
       }
     ],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15912,7 +15935,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15976,7 +15999,7 @@
         "code": "170"
       }
     ],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16027,7 +16050,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16080,7 +16103,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16131,7 +16154,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16184,13 +16207,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403054",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302083&code=12236"
+    ]
   },
   {
     "code": "3604121",
@@ -16245,7 +16270,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16303,7 +16328,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16367,7 +16392,7 @@
         "code": "353"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16420,7 +16445,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16473,7 +16498,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16526,7 +16551,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16585,7 +16610,7 @@
         "code": "292"
       }
     ],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16638,11 +16663,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "電機三甲乙丙和訓四子三合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603082",
     "syllabusLinks": []
   },
@@ -16695,7 +16720,7 @@
         "code": "292"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16746,7 +16771,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16799,7 +16824,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16852,7 +16877,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16905,7 +16930,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16958,7 +16983,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17062,7 +17087,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17118,7 +17143,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17182,7 +17207,7 @@
         "code": "57"
       }
     ],
-    "people": "0",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17246,7 +17271,7 @@
         "code": "154"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17303,7 +17328,7 @@
         "code": "108"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17356,7 +17381,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17412,7 +17437,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17676,7 +17701,9 @@
     "language": "　",
     "notes": "108 (含) 前：法治核心；109：社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410088",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302339&code=24295"
+    ]
   },
   {
     "code": "1416004",
@@ -18290,7 +18317,9 @@
     "language": "　",
     "notes": "108 (含) 前：社哲核心；109：社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302351&code=23919"
+    ]
   },
   {
     "code": "1410082",
@@ -18439,7 +18468,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -18495,7 +18524,9 @@
     "language": "　",
     "notes": "社哲向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410205",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302357&code=23202"
+    ]
   },
   {
     "code": "3722009",
@@ -18546,7 +18577,7 @@
         "code": "157"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19542,7 +19573,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19598,7 +19629,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19649,7 +19680,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19702,7 +19733,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19807,7 +19838,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19860,7 +19891,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19913,7 +19944,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19964,7 +19995,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20028,7 +20059,7 @@
         "code": "353"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20080,7 +20111,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20133,7 +20164,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -20186,7 +20217,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20239,13 +20270,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3104011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302578&code=10473"
+    ]
   },
   {
     "code": "4005100",
@@ -20295,7 +20328,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20348,7 +20381,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20399,7 +20432,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20452,7 +20485,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20503,7 +20536,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20554,7 +20587,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20607,7 +20640,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20665,7 +20698,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20723,7 +20756,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20779,7 +20812,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20835,7 +20868,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20888,13 +20921,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
     "notes": "中文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3733005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302672&code=23467"
+    ]
   },
   {
     "code": "5705506",
@@ -20939,13 +20974,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705506",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302693&code=10361"
+    ]
   },
   {
     "code": "3004036",
@@ -20990,7 +21027,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21047,7 +21084,7 @@
         "code": "401"
       }
     ],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21100,7 +21137,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21215,7 +21252,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21279,7 +21316,7 @@
         "code": "154"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21332,7 +21369,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21385,7 +21422,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21431,7 +21468,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21496,7 +21533,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21568,7 +21605,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "85",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21629,7 +21666,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21691,7 +21728,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21742,7 +21779,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21810,7 +21847,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21870,7 +21907,7 @@
         "code": "156"
       }
     ],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21933,7 +21970,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21993,7 +22030,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22052,7 +22089,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22111,7 +22148,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22172,7 +22209,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22236,14 +22273,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=302915&code=11573"
+      "ShowSyllabus.jsp?snum=302915&code=11573",
+      "ShowSyllabus.jsp?snum=302915&code=11440"
     ]
   },
   {
@@ -22289,13 +22327,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "資財三甲和三乙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302917&code=24339"
+    ]
   },
   {
     "code": "4404021",
@@ -22340,7 +22380,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22391,7 +22431,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22441,7 +22481,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22539,7 +22579,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22592,7 +22632,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22645,12 +22685,62 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705492",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB03054",
+    "description": {
+      "zh": "本課程主要研討科技管理，內容包括：（1）導論（2）技術資源與能力（3）技術創新（4）技術策略（5）科技規劃（6）績效評估（7）科技發展倫理（8）智慧財產權。",
+      "en": "The course mainly discusses following topics：（1）introduction, （2）technological resource and capability, （3）technological innovation,（4）strategy of technology（5）technology planning, （6）measuring performance, （7）technology development ethics, （8）intellectual property rights."
+    },
+    "id": "302976",
+    "name": {
+      "zh": "科技管理",
+      "en": "Technology Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2394",
+        "code": "2394"
+      },
+      {
+        "name": "資財三乙",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2518",
+        "code": "2518"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "35",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "資財三四乙合開，陳國樑",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03054",
     "syllabusLinks": []
   },
   {
@@ -22704,10 +22794,117 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "資財三、四甲乙和資財所合開 / 科研 243",
+    "notes": "資財三、四甲乙和資財所合開 / 科研 243【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03055",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=302977&code=10662"
     ]
+  },
+  {
+    "code": "A405114",
+    "description": {
+      "zh": "本課程主要以公平交易法與營業秘密法之立法目的、沿革及發展趨勢為出發點，探討此二法律在規範對象、方法及競合等之差異；深入分析公平交易法與營業秘密法之內涵，進而個別探討公平交易法與營業秘密法等之智財權利行使的課題。",
+      "en": "This course majors in the purpose, evolution, and development trend of legislation on the Fair Trade Act and the Trade Secret Act, with an attempt to differentiate between the two Acts in respect of objects, approaches, and choice of law that the Acts apply to.  In this course, analyses are also made, in depth, on the essence of the Fair Trade Act and the Trade Secret Act, together with discussion, respectively, on implementation of Intellectual Property Rights involved in the Fair Trade Act and the Trade Secret Act."
+    },
+    "id": "302979",
+    "name": {
+      "zh": "營業秘密法與公平交易法專題研究",
+      "en": "Monographic Study on Trade Secret Act and Fair Trade Act"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2742",
+        "code": "2742"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李傑清",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=11150",
+        "code": "11150"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405114",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5707012",
+    "description": {
+      "zh": "本課程目的在提升學生在科技與服務創新的知識及了解其各種不同的特性本課程旨在討論服務業可能衍生的經營策略，尤其是與網際網路相關的各種新興的服務產業。",
+      "en": "This is an advanced course for Master students to enhance their theoretical foundation in Technology and Service Innovation. Issues involved are: Systematic View of Technology Innovation; Service Innovation; Service Management; New Service Development"
+    },
+    "id": "303024",
+    "name": {
+      "zh": "科技與服務創新",
+      "en": "Technology and Services Innovation"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2736",
+        "code": "2736"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂正欽",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=23585",
+        "code": "23585"
+      },
+      {
+        "name": "邱志洲",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=10936",
+        "code": "10936"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "4",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5707012",
+    "syllabusLinks": []
   }
 ]
