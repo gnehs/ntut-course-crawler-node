@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "黎文龍",
+    "email": "wlli@ntut.edu.tw",
+    "latestUpdate": "2022-01-04 17:09:41",
+    "objective": "先修課程：統計學基礎統計介紹、一因子、二因子、多因子實驗、完全隨機化法、隨機化區集法、拉丁方格法、及直交表、田口式品質工程。 \n\n一、先修課程：具一般基本統計觀念\n二、簡介：此課程將介紹各種實驗之設計及統計分析法，並應用至實務例題上。方法包括：單因子實驗，完全區集設計，多因子實驗，2k 因子實驗，部份因子實驗，變異數分析，迴歸分析，最佳化及田口的實驗設計。  \n三、教學目的與目標：本課程主要目的是以統計設計之實驗，提供解決工程問題的正確方法，同時也藉有效率地實驗規劃、執行與分析、決策，以建立一有效的系統模型。因此，本課程提供學生具有「自行建構有效的實驗模型與分析」能力之學習目標",
+    "schedule": "五、課程內容：\n(1) Statistics Fundamentals for Engineering – 簡略之複習 \n　　專有名詞與用語\n　　機率分佈、 sampling、t-Test、F-Test, etc. \n        Weibull distribution &amp; Reliability \n　　Test and hypotheses \n　　Tools: MS Excel (Analysis Toolpak) &amp; MATLAB \n(2) 單 / 多因子之實驗設計與 ANOVA\n　　General introduction and Steps of DOE\n　　One-way ANOVA (單因子設計)\n　　Two-way ANOVA (雙因子設計)\n　　DOE with multi-variates (optional) \n(3) 區集之實驗設計 (Blocking in DOE)\n　　Complete Blocking \n　　Incomplete Blocking \n(4) Latin Squares (optional)\n(5) Factorial Designs &amp; ANOVA\n　　2k Full\n　　Fractional \n(6) Regression Analyses\n　　Linear/nonlinear, cftool \n　　Response Surfaces (optional) \n(7) Robust Design: Taguchi’s method (田口法)\n　　cf. PPTs and handouts \n(8) Nested Designs \n(9) Monte Carlo Simulation (蒙地卡羅模擬法，optional)\n(10) Application Examples and Discussions",
+    "scorePolicy": "(1)　　學期成績評定：作業 HW/Projects: 40%、期中考: 30%、期末考: 30%。 \n(2)　　HW 請在課程網頁自行下載，全學期約 9~10 個 HWs，不接受任何遲交的作業。\n(3)  需要自行準備 NB。 \n(4)　　課程網站：教務處 iSchool。",
+    "materials": "(1) 課本：\nDesign and Analysis of Experiments, D.C. Montgomery, Wiley (最新版為佳) 上課使用原文版，有中文譯本 (高立)，但內容、公式等錯誤較多須小心，仍建議用原文版。\n(2) 參考書目: \n1. 統計基礎：一般機率與統計、工程統計類之書籍。 \n2. Any Taguchi’s, e.g., Taguchi Techniques for quality engineering, P.J. Ross, McGraw-Hill. \n3. 田口法：工程設計與模擬 (第十章)，黎文龍，東華書局。 \n4. Optimizing engineering designs, J. Krottmaier, McGraw-Hill.  \n5. Matlab/Mathematica 之曲面繪圖、及曲線擬合功能或參考書等。 \n6. MS EXCEL.",
+    "foreignLanguageTextbooks": true
+  }
+]
