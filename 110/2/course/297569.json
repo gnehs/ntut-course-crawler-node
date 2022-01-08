@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "譚巽言",
+    "email": "sytan@ntut.edu.tw",
+    "latestUpdate": "2022-01-07 11:37:30",
+    "objective": "本課程介紹 X86, 8051 單晶片，ARM CPU 及以 ARM CPU 為核心之微算機系統。內容包含：X86, 8051 單晶片，ARM CPU 介紹，ARM CPU 指令集，SRAM、DRAM、及 Flash Memory 之介紹，時序圖之閱讀，記憶體及 I/O 解碼，串列 I/O 及並列 I/O 之介紹，計時及計數器之使用，震盪器介紹，A/D 及 D/A 轉換，中斷之使用，及應用實例之介紹。",
+    "schedule": "Week 1  課程介紹\nWeek 2    X86 指令介紹\nWeek 3    X86 組合語言程式設計\nWeek 4    X86 定模式、程式範例探討\nWeek 5    8051 指令介紹\nWeek 6    8051 組合語言程式設計\nWeek 7    8051 定模式、程式範例探討\nWeek 8    CPU 硬體架構介紹\nWeek 9    期中考試\nWeek 10  記憶體元件與介面介紹\nWeek 11  記憶體位址編排及解碼\nWeek 12  I/O 基本結構與介面\nWeek 13  I/O 位址編排及解碼\nWeek 14  計時及計數器之使用\nWeek 15  應用實例介紹\nWeek 16  ARM 指令介紹\nWeek 17  ARM 硬體架構介紹\nWeek 18  期末考試",
+    "scorePolicy": "期中考試 30%\n期末考試 30%\n作業 40%",
+    "materials": "講義及投影片\n\n參考書籍：\n林銘波  微算機原理與應用 第四版 全華書局\n林銘波、林姝廷  8051 微算機原理與應用 全華書局\n吳鴻璋  微處理機應用 -- 8051/8052 基本原理與應用 第二版 滄海書局\n蔡朝洋  單晶片微電腦 8051/8951 原理與應用 全華書局\n林銘波、林姝廷  微算機基本原理與應用 MCS-51 嵌入式微算機系統軟體與硬體 第三版 全華書局\n許孟超、翁任輝  8051 單晶片原理與實務 新文京\nARM System-on-Chip Architecture By Steve Furber",
+    "foreignLanguageTextbooks": false
+  }
+]

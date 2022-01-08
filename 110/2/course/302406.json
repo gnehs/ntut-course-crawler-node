@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "譚巽言",
+    "email": "sytan@ntut.edu.tw",
+    "latestUpdate": "2022-01-07 12:14:47",
+    "objective": "1. 簡介；\n2. 組合邏輯系統設計；\n3. 標準組合邏輯模組；\n4. 算術組合模組與網路；\n5. 順序邏輯系統設計；\n6. 標準順序邏輯模組；\n7. RTL 系統；\n8. 資料及控制子系統；\n9. 微處理器設計。\n10. 數位系統設計之原則與方法；\n11. ASM (Algorithm StateMachine) Chart 之應用與序向邏輯方法：傳統式合成法、多工器控制法、One-Hot 法、ROM-Based 法；\n12. ASIC 所需之基本 SSI/MSI 元件；\n13. 使用 SSI/MSI 基本元件解決邏輯問題；\n14. 採用數位系統設計之原理與方法，利用 ASIC 之基本元件，再配合基本閘設計 ALU、CPU 控制器、中斷控制器、DMA 控制器等 IC 元件；\n15.Bit-Slice 計算機設計；\n16. 微程式設計；\n17.Hardwired CPU 設計。",
+    "schedule": "Week 1        Review of Logic Design Fundamentals\nWeek 2-3     Introduction to Verilog\nWeek 4-6     Design Examples Discussion\nWeek 7-8     Introduction to Programmable Logic Devices\nWeek 9        Middle term examination\nWeek 10-11 State Machine Charts and Microprogramming\nWeek 12-13 Floating-Point Arithmetic\nWeek 14-15 Additional Topics in Verilog\nWeek 16      Designing with Field Programmable Gate Arrays\nWeek 17      Design of a RISC Microprocessor\nWeek 18      Project Presentation",
+    "scorePolicy": "Middle term Examinations: 30%\nFinal term Examinations/Project: 40%\nHomework/Quizzes: 30%",
+    "materials": "References:\n1. Charles Roth, Lizy Kurian John, and Byeong Kil Lee, Digital Systems Design Using Verilog, International Edition, 2016, Cengage Learning.\n2. M. Morris Mano, Charles R. Kime, and Tom Martin, Logic and Computer Design Fundamentals, 5th Edition, 2016, Pearson Prentice Hall.",
+    "foreignLanguageTextbooks": true
+  }
+]
