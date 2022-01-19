@@ -1608,7 +1608,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓640",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=485",
+        "code": "485"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1660,7 +1666,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=497",
+        "code": "497"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1841,7 +1853,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓441",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=504",
+        "code": "504"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1952,7 +1970,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=491",
+        "code": "491"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2010,7 +2034,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2068,13 +2098,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教309(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=50",
-        "code": "50"
-      }
-    ],
+    "classroom": [],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3584,65 +3608,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406152",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=298113&code=12239"
-    ]
-  },
-  {
-    "code": "4406205",
-    "description": {
-      "zh": "本課程內容著重於車輛網路技術之介紹、整合應用與未來發展，如現在車輛各嵌入式控制之機電整合次系統間的控制資訊，車輛與車輛間的駕駛與運動資訊傳遞，車輛與公共交通管理基礎系統訊息溝通，及車輛與雲端之連結與訊息傳遞，最後這方面的應用可說無遠弗屆，諸如生活資訊交流 (物聯網)、車輛健康與維修等資訊之交換及統計分析 (大數據)、駕駛健康與緊急事件之處理 (智能照顧體系)、智能型導航，及因應正在發展中的移動式分享經濟模式發展所需之資訊交換。",
-      "en": "This course will focus on the importance role of integrated application of information communication, which may interchange in between the car as a lot of subsystems made by embedded microcontrollers, occur in between a vehicle to another's(V2V, Vehicle to vehicle information for driving), vehicle to the public traffic infrastructure(the traffic management system of mega-city of highway) or vehicle to Cloud(all kinds of services can be integrated into, for example, living information, car repairing interactive information, driver health monitor, emergency event, smart navigation or many kinds of emerging and sharing  manipulation system for future travelling and motion."
-    },
-    "id": "298115",
-    "name": {
-      "zh": "車輛網路技術與應用",
-      "en": "Technologies and Applications of Car Network"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "車輛所",
-        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2692",
-        "code": "2692"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蔡國隆",
-        "link": "Teach.jsp?format=-3&year=110&sem=2&code=10908",
-        "code": "10908"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "2",
-        "3",
-        "4"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同411(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=383",
-        "code": "383"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "電腦教室【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406205",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=298115&code=10908"
     ]
   },
   {
@@ -5733,7 +5698,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "英語授課",
+    "notes": "英語授課；創創與經管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705050",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=298342&code=11429"
@@ -10231,6 +10196,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=110&sem=2&code=2717",
         "code": "2717"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2721",
+        "code": "2721"
       }
     ],
     "teacher": [
@@ -10264,7 +10234,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI",
+    "notes": "IMBA&IMFI & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805128",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=298838&code=11429"
@@ -12263,6 +12233,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=110&sem=2&code=2717",
         "code": "2717"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2721",
+        "code": "2721"
       }
     ],
     "teacher": [
@@ -12295,7 +12270,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI",
+    "notes": "IMBA&IMFI & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05015",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=299026&code=12101",
@@ -19973,7 +19948,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27772,13 +27753,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教308(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=49",
-        "code": "49"
-      }
-    ],
+    "classroom": [],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29345,7 +29320,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29477,7 +29458,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓441",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=504",
+        "code": "504"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29598,7 +29585,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=497",
+        "code": "497"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29774,7 +29767,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓441",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=504",
+        "code": "504"
+      }
+    ],
     "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30210,7 +30209,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "創創與經管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705049",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=302685&code=11429"
@@ -31336,7 +31335,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒401 (e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=553",
+        "code": "553"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32489,6 +32494,7 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302912&code=11505",
       "ShowSyllabus.jsp?snum=302912&code=10821",
       "ShowSyllabus.jsp?snum=302912&code=11396"
     ]
@@ -32553,6 +32559,7 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302915&code=11505",
       "ShowSyllabus.jsp?snum=302915&code=11573",
       "ShowSyllabus.jsp?snum=302915&code=11440"
     ]
@@ -33023,6 +33030,11 @@
     },
     "classroom": [
       {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=490",
+        "code": "490"
+      },
+      {
         "name": "科研大樓243e",
         "link": "Croom.jsp?format=-3&year=110&sem=2&code=462",
         "code": "462"
@@ -33355,7 +33367,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒403 (e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=555",
+        "code": "555"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33420,7 +33438,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA04056",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=303002&code=11505"
+    ]
   },
   {
     "code": "5707012",
@@ -34076,5 +34096,55 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=303220&code=11786"
     ]
+  },
+  {
+    "code": "A405211",
+    "description": {
+      "zh": "本課程之目的為使學生了解現今專利權授予上較具爭議之課題。透過案例閱讀與討論，除使學生明白專利熱門議題外，也了解未來專利之發展趨勢。",
+      "en": "The course provides some important issues, including animal and plant patents, traditional knowledge and genetic resources, computer software, business methods, as well as some recent cases, such as Apple sued HTC."
+    },
+    "id": "303252",
+    "name": {
+      "zh": "專利法案例分析",
+      "en": "Case Analysis on Patent Law"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2742",
+        "code": "2742"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "郭宏杉",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=11609",
+        "code": "11609"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "C",
+        "D"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405211",
+    "syllabusLinks": []
   }
 ]
