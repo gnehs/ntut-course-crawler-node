@@ -2,11 +2,12 @@
   {
     "name": "張陽郎",
     "email": "ylchang@ntut.edu.tw",
-    "latestUpdate": "2021-12-30 04:49:33",
+    "latestUpdate": "2022-01-21 21:17:27",
     "objective": "人工智慧 (Artificial Intelligence) 正以現在進行式，廣泛應用於大眾日常生活，改善人類生產力，影響我們文明價值。人工智慧領域中，最核心的技術就是深度學習 (Deep Learning, DL)，它是從機械學習 (Machine Learning, ML) 的基本概念，延伸到深度神經網路 (Deep Neural Network, DNN) 的原理和應用技術，具自動地萃取特徵的功能，是當今科技界最熱門的研究項目。本課程介紹深度學習的基礎概念、數學模型演算法，與工程實作原理，瞭解深度學習與 TensorFlow 開源框架 (Open Source Framework) 的關鍵實作技術。課程建置 TensorFlow 運作框架環境，利用精簡程式碼及模型描述文件，設計一個完整的神經網路系統，進而深入淺出進行深度學習技術的實作與應用。本課程涵蓋原理介紹及實作實習，包含: 1.) 機械學習、深度學習及神經網路原理介紹，2.) TensorFlow 框架特性及安裝實習，3.) 常用的數學模型演算法 CNN、RNN、及 RBM 實作，4.) 強化學習介紹，5.) 深度學習應用範例實習。",
     "schedule": "第 1 週：課堂和評量說明\n第 2 週：機器學習是什麼 & amp; 實驗 1\n第 3 週：深度學習是什麼 & amp; 實驗 2\n第 4 週：TensorFlow 介紹 & amp; 環境安裝\n第 5 週：TensorFlow 常用運算子與函數\n第 6 週：前饋神經網路\n第 7 週：手寫板功能 & amp; 實驗\n第 8 週：卷積神經網路 (上)\n第 9 週：卷積神經網路 (下)&amp; 實驗\n第 10 週：深度學習的綜合問題\n第 11 週：循環神經網路 & amp; 實驗\n第 12 週：深度殘差網路 & amp; 實驗\n第 13 週：受限玻爾茲曼機\n第 14 週：強化學習 & amp; 實驗\n第 15 週：對抗學習 & amp; 實驗\n第 16 週：人臉識別 & amp; 實驗\n第 17 週：風格轉移 & amp; 實驗\n第 18 週：期末考",
     "scorePolicy": "課堂實驗 (70%)\n研讀報告 (10%)\n期末考 (20%)",
     "materials": "白話深度學習與 TensorFlow, 高揚，峰，ISBN：9789864767946",
-    "foreignLanguageTextbooks": false
+    "foreignLanguageTextbooks": false,
+    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\"> 本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n● 上課方式： 遠距上課 採分流上課。\n● 評量標準，採線上出席紀錄與報告書評量。\n● 上課方試：遠距教學 Google Meet (開學後建立)\n● 訊息通知教材提供平台：FB (開學後建立)\n● 加退選及諮詢課程管道：ylchang@ntut.edu.tw</div>"
   }
 ]

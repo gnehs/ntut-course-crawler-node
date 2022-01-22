@@ -2,11 +2,12 @@
   {
     "name": "黃柏鈞",
     "email": "pchuang.19840320@gmail.com",
-    "latestUpdate": "2021-12-25 23:52:38",
+    "latestUpdate": "2022-01-21 16:57:48",
     "objective": "This course offers a broad introduction to computer programming and object-oriented programming. The major programming language focused will be C++, one of the \"big 3\" programming languages according to the TIOBE survey in Dec. 2017. We shall also cover essential data structures, e.g., linked list and binary search trees, modern development tools, e.g., Make, Subversion, Git, and unit testing tools, object-oriented programing paradigms, design patterns, and refactoring. How to plan a real-world-level project shall also be discussed. From this course, students can expect to be equipped with essential know-hows for computer programming and object-oriented programming, both of which are indispensable in the foreseeable future.",
     "schedule": "Week 1. Introduction\nWeek 2. Basic language facilities; strings, vectors, and arrays\nWeek 3. Expressions and statements; iteration and recursion\nWeek 4. Functions and macros; structures, unions, and classes\nWeek 5. The C++ standard template library (STL) (I)\nWeek 6. The C++ standard template library (STL) (II)\nWeek 7. Advanced classes: copy control, operator overloading, inheritance, polymorphism, and more.\nWeek 8. Midterm examination (上機考)\nWeek 9. Design patterns (I): GoF patterns\nWeek 10. Design patterns (II): GoF patterns\nWeek 11. Design patterns (III): small memory patterns\nWeek 12. Design patterns (IV): small memory patterns\nWeek 13. Large-scale programming in C++\nWeek 14. Refactoring (I)\nWeek 15. Refactoring (II)\nWeek 16. Refactoring to patterns\nWeek 17. What's new in C++11 and C++17\nWeek 18. Semester project open demo (期末專題程式公開展示)",
     "scorePolicy": "In-class participation 20%\nHomework assignment 25%\nMidterm exam 25%\nFinal exam 30%",
-    "materials": "＊Textbook: \nBjarne Stroustrup, The C++ Programming Language, 4th Edition, Pearson, 2015.\n＊Reference books:\nScott Meyers, Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14, 1st Edition, O'Reilly, 2014.",
-    "foreignLanguageTextbooks": true
+    "materials": "* Textbook: \nBjarne Stroustrup, The C++ Programming Language, 4th Edition, Pearson, 2015.\n* Reference books:\nScott Meyers, Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14, 1st Edition, O'Reilly, 2014.",
+    "foreignLanguageTextbooks": true,
+    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\">* Due to Covid-19 pandemic, we'd announce if the lectures will be given remotely. The default is face-to-face lectures.\n* Google Meet link: https://meet.google.com/ckr-rsjc-nbv</div>"
   }
 ]

@@ -2,11 +2,12 @@
   {
     "name": "林鼎然",
     "email": "tinglan@ntut.edu.tw",
-    "latestUpdate": "2021-12-21 16:27:04",
+    "latestUpdate": "2022-01-22 08:43:16",
     "objective": "[注意！這門課結合了程式設計實現以及理論；甚至這門課更加高度依賴程式設計能力。寫程式的技巧是你在這門課會學到的主要技能，也是你要得高分的關鍵。所以如果你要修這門課，請確認你喜歡、或喜歡學寫程式]\n\n[注意！每周都有程式作業！]\n\n在網路上的視訊傳輸量佔據了超過一半的總頻寬 (原因來自於大量的移動用戶需求以及相關網路服務，如 Youtube) 因此將視訊壓縮到低位元率並保持良好的視訊品質便成了非常重要的一個課題。本課程介紹影像壓縮的概論以及視訊在通道錯誤下的應映機制。在課程的最後學生會了解視訊壓縮的概念，並且有機會將所學的知識用來改進標準的視訊編碼器.",
     "schedule": "週次　　單元主題\n1. 　　[課程介紹]\n2. 　　Image format, Image quality\n3. 　　Discrete Cosine Transform (DCT) \n4.　　Discrete Cosine Transform (DCT) \n5.　　Vector quantization and DCT for correlated data compression\n6.　　Codebook design\n7.　　JPEG:DCT, zonal coding, threshold coding, JPEG:Zigzag, huffman coding in JPEG\n8.　　[期中考上機考]\n9.　　[學校期中考周]\n10.　　MPEG (I)\n11. 　　MPEG (II)\n12.　　H.264 (I) \n13. 　　H.264 (II) \n14. 　　H.264 (III) \n15. 　　Multi-View Coding (MVC)\n16. 　　[學生期末上台報告]\n17. 　　[期末考上機考]\n18. 　　[學校期末考周]",
     "scorePolicy": "期中考上機考 30%\n學生期末上台報告 20% \n期末考上機考 30%\n其他 (線上活動 / 作業等…) 20%",
     "materials": "[主要教材] 自備教材\n[參考教材]\nIain E. Richardson, The H.264 Advanced Video Compression Standard, 2010, Wiley, 2\nRafael C. Gonzalez and Richard E. Woods, Digital Image Processing, 2007, Prentice Hall, 3",
-    "foreignLanguageTextbooks": true
+    "foreignLanguageTextbooks": true,
+    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\">In case of epidemic condition, the class policy will be announced in https://istudy.ntut.edu.tw/. Email your name and ID number to me at tinglan@ntut.edu.tw for more info.</div>"
   }
 ]
