@@ -370,7 +370,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科211",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=506",
+        "code": "506"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1385,7 +1391,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=211",
+        "code": "211"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5084,7 +5096,8 @@
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3862229",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=300635&code=11505"
+      "ShowSyllabus.jsp?snum=300635&code=11505",
+      "ShowSyllabus.jsp?snum=300635&code=24342"
     ]
   },
   {
@@ -10919,6 +10932,11 @@
         "name": "耿慶瑞",
         "link": "Teach.jsp?format=-3&year=110&sem=2&code=10938",
         "code": "10938"
+      },
+      {
+        "name": "黃思明",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=24418",
+        "code": "24418"
       }
     ],
     "time": {
@@ -11014,7 +11032,8 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215008",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=301521&code=10632"
+      "ShowSyllabus.jsp?snum=301521&code=10632",
+      "ShowSyllabus.jsp?snum=301521&code=24272"
     ]
   },
   {
@@ -13165,7 +13184,9 @@
     "language": "　",
     "notes": "設計館 301 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3861215",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301569&code=24167"
+    ]
   },
   {
     "code": "3861216",
@@ -17913,7 +17934,9 @@
     "language": "　",
     "notes": "108 (含) 前：社哲向度；109：社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410192",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302337&code=22262"
+    ]
   },
   {
     "code": "1410145",
@@ -19277,9 +19300,9 @@
     ],
     "teacher": [
       {
-        "name": "楊平遠",
-        "link": "Teach.jsp?format=-3&year=110&sem=2&code=23807",
-        "code": "23807"
+        "name": "林碧雲",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=23373",
+        "code": "23373"
       }
     ],
     "time": {
@@ -19299,11 +19322,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "社會向度",
+    "notes": "社會向度，1/27 調整為林碧雲老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410044",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=302365&code=23807"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1410053",
@@ -22063,6 +22084,16 @@
         "name": "張文華",
         "link": "Teach.jsp?format=-3&year=110&sem=2&code=10418",
         "code": "10418"
+      },
+      {
+        "name": "張振興",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=24419",
+        "code": "24419"
+      },
+      {
+        "name": "陳德中",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=24420",
+        "code": "24420"
       }
     ],
     "time": {
