@@ -2,11 +2,12 @@
   {
     "name": "陳碩漢",
     "email": "shchen@csie.ntut.edu.tw",
-    "latestUpdate": "2022-01-04 19:08:25",
+    "latestUpdate": "2022-01-30 23:28:12",
     "objective": "本課程將深入介紹檔案系統與儲存系統之作用原理，課程主軸將涵蓋 1. 輸出 / 輸入設備 2. 磁碟陣列與資料可靠性 3. 檔案系統基礎與設計原理 4. 分散式檔案系統 5. 新興儲存裝置 與 6. 鍵值儲存系統。修習本課程之學生將須要具備下列基礎知識，包含作業系統、C 語言以及基礎 Linux 指令。同時，本課程也將依照課程進展介紹最新的新興儲存裝置、檔案系統與儲存系統之相關研究以及大數據管理等議題。\nThis course will detail the working principles and design philosophy of file and storage systems and with prime focus on (1) I/O Devices, (2) RAID and Data Integrity, (3) File system Basics and Designs, (4) Distributed File System, (5) Emerging Storage Devices, (6) Key Value Stores. Please be noted that the knowledge of Operating System, C language, and the use of basic Linux command are required before taking this course. Depending on the current research trends, the course also discusses the latest applied storage topics, especially related to scalable and dependable big data management.",
     "schedule": "Progress is subject to changes due to holidays or any other incidents. Notably, the following schedule is subject to changes. We might have a lecture from industry to join us. Further announcement will be made at the first week.\n\n1.　　I/O Devices (1 weeks)\n2.　　RAID and Data Integrity (1 week)\n3.　　File System Basics (2 weeks)\n4.　　File System Designs (2 weeks)\n5.　　Distributed File Systems (1 week)\n6.　　Midterm (1 week)\n7.　　Flash Memory (2 weeks)\n8.　　Next-generation Hard Disk Drives (1 week)\n9.　　Persistent Memory (1 week)\n10.　　Key-Value Stores (1 week)\n11.　　Literature Survey Presentation\n12.　　Final (1 week)",
     "scorePolicy": "1.　　Students are encouraged to discuss with each other. But if you intentionally commit plagiarism, you will probably fail the assignment or the course.\n2.　　There will be a midterm exam, a final exam, two group project assignments, and a group survey presentation.\n3.　　Midterm -&gt; 30%, Project assignments -&gt; 40%, Survey presentation -&gt; 30%.",
     "materials": "Operating Systems: Three Easy Pieces Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau",
-    "foreignLanguageTextbooks": true
+    "foreignLanguageTextbooks": true,
+    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\">Find Links for online classes here. https://shuohanchen.com/before-taking-my-courses/</div>"
   }
 ]
