@@ -2,11 +2,12 @@
   {
     "name": "蕭耀榮",
     "email": "yshiao@ntut.edu.tw",
-    "latestUpdate": "2021-12-29 09:18:48",
+    "latestUpdate": "2022-02-12 00:09:57",
     "objective": "This course will teach the knowledge-based control methods, mainly focuses on Fuzzy logic control and Gray system (and neural network if time is available).  The Fuzzy method includes Fuzzy Logic theory and Fuzzy Logic Control.  \nFrom this course, students can understand Fuzzy theory and can apply FLC and Grey in mechanical, electrical, or vehicle systems.  The topics covered in this lecture include: fuzzy set, membership function, fuzzification / defuzzification, fuzzy reasoning and inference, FLC design, FLC applications, grey theory, grey prediction, gray modeling, and grey control (and neural-network if time is available).  This lecture needs all students to do a 2- or 3-person team project to design and implement a fuzzy logic control to a real system.  Before the core lessons, a review of system dynamics will be provided.",
     "schedule": "week　　course content\n1　　Introduction and Fuzzy logic\n2　　review of control system dynamics\n3　　Fuzzy sets / Fuzzy relations term project announce\n4　　Fuzzy graphs and arithmetic Fuzzy rules\n5　　workshop I - membership function\n6　　Fuzzy implications\n7　　Fuzzy approximate reasoning / Fuzzy logic and probability\n8　　workshop II - LabVIEW programming I\n9　　workshop III - LabVIEW programming II / Signals and DAQ\n10　　Fuzzy logic control\n11　　Design of Fuzzy controller\n12　　Design of Fuzzy controller\n13　　workshop IV – tuning controller\n14　　writing Exam\n15　　Fuzzy PID control / TSK fuzzy control\n16　　grey theory\n17　　project presentation and demonstration\n18　　project discussion\n*  might be adjusted according to student learning situation",
     "scorePolicy": "midterm exam: 35%\nproject reports, demonstration and presentation: 50%\nworkshop 10%\nclass performance: 5%\n*  might be adjusted according to student learning situation",
     "materials": "textbook: \nA Course in Fuzzy Systems and Control, by Li-Xin Wang, published by Prentice Hall\n\nreference book: \n1. Fuzzy Logic with Engineering Applications, by Timothy Ross\n2. class notes",
-    "foreignLanguageTextbooks": true
+    "foreignLanguageTextbooks": true,
+    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\">If the pandemic situation is warning stage 3, according to NTUT instructions, this courses will be conducted as distance learning during those days.  The hyperlink of distance learning is: meet.google.com/rae-fzim-ndy</div>"
   }
 ]
