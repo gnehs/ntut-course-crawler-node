@@ -1541,7 +1541,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "綜科 422",
+    "notes": "* 綜科 422",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103063",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=300455&code=10661"
@@ -1653,7 +1653,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "綜科 216",
+    "notes": "* 綜科 216",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103091",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=300458&code=10505"
@@ -1712,7 +1712,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "綜科 417",
+    "notes": "* 綜科 417",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103099",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=300459&code=11162"
@@ -3180,7 +3180,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "專案計算機",
+    "notes": "◎專案計算機",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3102041",
     "syllabusLinks": []
   },
@@ -3237,7 +3237,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "綜科 414",
+    "notes": "* 綜科 414",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3102901",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=300577&code=12085"
@@ -6547,7 +6547,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "日、職電機所和電資外生所合開 / PBL 或視教 1 樓",
+    "notes": "◎日、職電機所和電資外生所合開 / PBL 或視教 1 樓",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105187",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=300707&code=23883"
@@ -7947,7 +7947,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9518,7 +9524,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9569,7 +9581,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9623,9 +9641,9 @@
     },
     "classroom": [
       {
-        "name": "三教509(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=66",
-        "code": "66"
+        "name": "二教301(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=26",
+        "code": "26"
       }
     ],
     "people": "8",
@@ -9878,6 +9896,7 @@
     "notes": "新聘老師 1；設計 106",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5806003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301119&code=12345",
       "ShowSyllabus.jsp?snum=301119&code=11540"
     ]
   },
@@ -10828,9 +10847,9 @@
     },
     "classroom": [
       {
-        "name": "三教406(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=54",
-        "code": "54"
+        "name": "六教224(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=422",
+        "code": "422"
       }
     ],
     "people": "12",
@@ -10885,7 +10904,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同514",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=550",
+        "code": "550"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10937,7 +10962,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同513",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=158",
+        "code": "158"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10990,7 +11021,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓427e",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=548",
+        "code": "548"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11053,7 +11090,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排進修部三教 311 (e) 室，限本系生修，上限 20 人",
+    "notes": "請排進修部三教 311 (e) 室，限本系生修，上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=301343&code=11393"
@@ -11304,7 +11341,13 @@
         "3"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17170,7 +17213,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17179,59 +17228,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425218",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=302077&code=11732"
-    ]
-  },
-  {
-    "code": "5426603",
-    "description": {
-      "zh": "本課程針對幼稚園、國小、與國中階段的英語師資而設計，在教材與教法的搭配上提供學理的引介與實務上的訓練。本課程設計考量這些階段學生之身心發展程度與興趣，將屬於兒童與青少年文學範疇的文本（例如：希臘神話、哈利波特系列、波西傑克森系列等等）作創意運用，幫助老師們擷取並改編合宜的教材，經由活潑的教學活動（包括：改編戲劇演出、繪本製作、歌唱舞蹈等等），提高學生的英語能力，也在培養他們體察文化差異的深層素養。",
-      "en": "Designed for kindergarten, elementary school, and junior high school English teacher, this course aims to provide practical training and theories in teaching materials and pedagogy. Students of this course will also learn to adapt children and teenager literary works such as Greek mythology, the Harry Potter series, and the Posey Jackson series into materials suitable for students at the above-specified age groups. Possible learning activities such as role-play, picture books, dancing/singing will also be explored as methods to both develop students' English proficiency and cultural awareness."
-    },
-    "id": "302079",
-    "name": {
-      "zh": "兒童文學融入英語教學",
-      "en": "Children's Literature and English Language Teaching"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職英文所",
-        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2734",
-        "code": "2734"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "施欣文",
-        "link": "Teach.jsp?format=-3&year=110&sem=2&code=11589",
-        "code": "11589"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "A",
-        "B",
-        "C"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5426603",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=302079&code=11589"
     ]
   },
   {
@@ -22661,7 +22657,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23079,7 +23081,13 @@
         "3"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24094,7 +24102,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同513",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=158",
+        "code": "158"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24158,7 +24172,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "控制組新聘",
+    "notes": "◎控制組新聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105036",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=302942&code=12338"
@@ -24437,7 +24451,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同513",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=158",
+        "code": "158"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24788,7 +24808,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同513",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=158",
+        "code": "158"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],

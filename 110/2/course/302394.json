@@ -1,13 +1,1 @@
-[
-  {
-    "name": "楊勝明",
-    "email": "smyang@ntut.edu.tw",
-    "latestUpdate": "2022-01-25 09:54:05",
-    "objective": "The objectives of this course is to learn practical control schemes and controller design methods for DC and AC electric machines through simulations. Matlab/Simulink software is used as the simulation tools. In the beginning classes, DC machine controls are studied. Then, various simulation projects for the control of permanent magnetic synchronous machines (PMSM) are studied. These topics include: controller design, estimators, digital control, pulse width modulation (PWM), and direct torque control. In each lab, theoretical background is introduced first, then followed by a simulation project.",
-    "schedule": "1. Introduction of Matlab/Simulink, DC Motor model, current control (lab1)\n2. Wavetest, time response, frequency response, and bandwidth; position control (lab2)\n3. PMSM motor model and V/H control (lab3)\n4. PMSM current, velocity, and position control (lab4)\n5. Digital position control (lab5)\n6. Voltage limitation and integral windup (lab6)\n7. Position control with velocity estimator (lab7)\n8. Disturbance torque and motor inertia estimation (lab8)\n9. Mid-term exam.\n10. Digital PMSM control with DC-AC Inverter (SPWM) (lab9)\n11. Various PWM schemes, FFT calculation (lab10)\n12. Position estimation with extended back-EMF (lab11)\n13. Sensorless position control (lab12)\n14. Close-loop stator flux and position estimation (lab13)\n15. Sensorless vector control with stator flux and position estimator (lab14)\n16. Direct torque control (lab15)\n17. Modeling and control of Synchronous reluctance machine (lab16)\n18. Final exam.",
-    "scorePolicy": "Lab: 40% (Completion and Lab. Report)\nMid-term exam: 30%\nFinal exam: 30%",
-    "materials": "1. NTUT 2022 版 永磁同步電動機之原理與應用 class note.\n2. Control System Design Guide, 3th Editions, George Ellis, Elsevier-Academic Press.\n3. Observers in Control Systems, George Ellis, Elsevier-Academic Press, 2010.\n4. 控制系統設計與模擬 - 使用 Matlab/Simulink, 李宜達，全華圖書，2011.",
-    "foreignLanguageTextbooks": true,
-    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\"> 若開學時學校宣布所有上課須遠距教學時，本課程會使用 MS Teams 以遠距上課，教師諮商時間與聯絡方式請參考電機系網頁，課程的講義會放在 i 學園 Plus。</div>"
-  }
-]
+[]
