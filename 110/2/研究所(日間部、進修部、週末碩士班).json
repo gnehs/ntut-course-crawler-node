@@ -391,7 +391,7 @@
         "code": "214"
       }
     ],
-    "people": "39",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1056,7 +1056,7 @@
         "code": "51"
       }
     ],
-    "people": "35",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1606,7 +1606,7 @@
         "code": "490"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1851,7 +1851,7 @@
         "code": "490"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -4191,9 +4191,9 @@
     ],
     "teacher": [
       {
-        "name": "劉曉芬",
-        "link": "Teach.jsp?format=-3&year=110&sem=2&code=11040",
-        "code": "11040"
+        "name": "林志哲",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=11786",
+        "code": "11786"
       }
     ],
     "time": {
@@ -4222,7 +4222,7 @@
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=298144&code=11040"
+      "ShowSyllabus.jsp?snum=298144&code=11786"
     ]
   },
   {
@@ -4653,7 +4653,13 @@
         "code": "2694"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張仁家",
+        "link": "Teach.jsp?format=-3&year=110&sem=2&code=11049",
+        "code": "11049"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -4677,7 +4683,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "博碩課程，待聘",
+    "notes": "博碩課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906531",
     "syllabusLinks": []
   },
@@ -5025,7 +5031,9 @@
     "language": "　",
     "notes": "單號 （新聘老師）",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=298180&code=12353"
+    ]
   },
   {
     "code": "5105003",
@@ -5468,6 +5476,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221104",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=298212&code=12344",
       "ShowSyllabus.jsp?snum=298212&code=12144"
     ]
   },
@@ -6849,7 +6858,7 @@
         "code": "473"
       }
     ],
-    "people": "47",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6969,7 +6978,7 @@
         "code": "473"
       }
     ],
-    "people": "39",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7217,7 +7226,7 @@
         "code": "473"
       }
     ],
-    "people": "46",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -8322,7 +8331,9 @@
     "language": "　",
     "notes": "* 光電四和光電所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6503532",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=298634&code=24426"
+    ]
   },
   {
     "code": "6505005",
@@ -8912,7 +8923,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11059,9 +11076,9 @@
       "tue": [],
       "wed": [],
       "thu": [
-        "2",
-        "3",
-        "4"
+        "N",
+        "5",
+        "6"
       ],
       "fri": [],
       "sat": []
@@ -12076,9 +12093,9 @@
     },
     "classroom": [
       {
-        "name": "三教403(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=53",
-        "code": "53"
+        "name": "四教103(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=71",
+        "code": "71"
       }
     ],
     "people": "21",
@@ -12517,7 +12534,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12570,7 +12593,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教725(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=450",
+        "code": "450"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13090,7 +13119,7 @@
         "code": "490"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13289,7 +13318,7 @@
         "code": "548"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -18674,6 +18703,7 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215008",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301521&code=23585",
       "ShowSyllabus.jsp?snum=301521&code=10632",
       "ShowSyllabus.jsp?snum=301521&code=24272"
     ]
@@ -19087,7 +19117,9 @@
     "language": "　",
     "notes": "(群組 1) 經營與策略管理 (聯輔會) 台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215043",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301528&code=24394"
+    ]
   },
   {
     "code": "C225011",
@@ -19597,7 +19629,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "新聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815143",
     "syllabusLinks": []
   },
@@ -20649,7 +20681,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同312(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=154",
+        "code": "154"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24201,7 +24239,7 @@
         "code": "15"
       }
     ],
-    "people": "9",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -24898,7 +24936,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同312(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=154",
+        "code": "154"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -25638,9 +25682,9 @@
     },
     "classroom": [
       {
-        "name": "三教307(e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=48",
-        "code": "48"
+        "name": "三教504(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=61",
+        "code": "61"
       }
     ],
     "people": "22",
@@ -25892,7 +25936,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教305(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=30",
+        "code": "30"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -26137,9 +26187,9 @@
     },
     "classroom": [
       {
-        "name": "先鋒504 (e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=564",
-        "code": "564"
+        "name": "二教307(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=32",
+        "code": "32"
       }
     ],
     "people": "13",
@@ -28092,7 +28142,9 @@
     "language": "　",
     "notes": "新聘陳老師，全英授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5225432",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302208&code=12344"
+    ]
   },
   {
     "code": "4505205",
@@ -29515,7 +29567,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105149",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302394&code=24430"
+    ]
   },
   {
     "code": "3615050",
@@ -29566,9 +29620,9 @@
     },
     "classroom": [
       {
-        "name": "先鋒504 (e)",
-        "link": "Croom.jsp?format=-3&year=110&sem=2&code=564",
-        "code": "564"
+        "name": "科研1322e",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=476",
+        "code": "476"
       }
     ],
     "people": "31",
@@ -30157,7 +30211,7 @@
         "code": "64"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -30221,7 +30275,7 @@
         "code": "109"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -30792,7 +30846,7 @@
         "code": "490"
       }
     ],
-    "people": "41",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -31128,7 +31182,7 @@
         "code": "490"
       }
     ],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31180,7 +31234,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同312(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=154",
+        "code": "154"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31245,7 +31305,7 @@
         "code": "504"
       }
     ],
-    "people": "35",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -32779,7 +32839,7 @@
         "code": "277"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -32969,7 +33029,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同313(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=155",
+        "code": "155"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34852,7 +34918,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB06029",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=302980&code=11396"
+      "ShowSyllabus.jsp?snum=302980&code=11396",
+      "ShowSyllabus.jsp?snum=302980&code=23780"
     ]
   },
   {
@@ -35438,7 +35505,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同313(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=155",
+        "code": "155"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35504,7 +35577,9 @@
     "language": "　",
     "notes": "英語授課；人數上限 7",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5815003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=303195&code=12345"
+    ]
   },
   {
     "code": "5845202",

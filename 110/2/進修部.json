@@ -94,7 +94,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教303(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=28",
+        "code": "28"
+      }
+    ],
     "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2845,7 +2851,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教203(e)",
+        "link": "Croom.jsp?format=-3&year=110&sem=2&code=21",
+        "code": "21"
+      }
+    ],
     "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2988,7 +3000,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3437,7 +3449,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4400,7 +4412,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5894,7 +5906,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11630,6 +11642,7 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215008",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301521&code=23585",
       "ShowSyllabus.jsp?snum=301521&code=10632",
       "ShowSyllabus.jsp?snum=301521&code=24272"
     ]
@@ -12043,7 +12056,9 @@
     "language": "　",
     "notes": "(群組 1) 經營與策略管理 (聯輔會) 台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215043",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=301528&code=24394"
+    ]
   },
   {
     "code": "C225011",
@@ -13111,7 +13126,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14964,7 +14979,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15394,7 +15409,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15448,7 +15463,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15502,7 +15517,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -24407,7 +24422,9 @@
     "language": "　",
     "notes": "資財三四乙合開，陳國樑",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03054",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=302976&code=23152"
+    ]
   },
   {
     "code": "A405114",

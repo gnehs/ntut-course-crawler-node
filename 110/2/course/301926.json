@@ -2,12 +2,12 @@
   {
     "name": "黃敏彧",
     "email": "s0302151@gmail.com",
-    "latestUpdate": "2022-01-23 11:33:40",
+    "latestUpdate": "2022-02-15 16:24:07",
     "objective": "1.  平行概論 \n2.  GPU 平行計算技術\n3.  GPU-CUDA 介面 \n4.  基礎 CUDA 程式撰寫 \n5.  GPU-CUDA 硬體規劃 \n6.  進階 CUDA 程式撰寫\n7.   GPU-CUDA 最佳化 \n8.   GPU-CUDA 應用範例練習",
     "schedule": "第 1~2 周 簡述傳統序向運算架構之發展史\n第 3~7 周 簡述何謂平行運算架構及其發展史，解說平行運算的運作原理 &amp; \n撰寫第一支平行程式 (此為傳統的平行語法)\n第 8 周 介紹新的平行語法 CUDA 與其程式的編寫邏輯\n第 9 周 期中考周 (作業)\n第 10~12 周 利用平行語法 CUDA 來加速影像學中的運用 (使用 OpenCV)\n第 13 周 利用平行語法 CUDA 來加速 3D 圖像的運用 (使用 OpenGL)\n第 14~15 周 介紹平行語法 CUDA 的進階理論與撰寫方法\n第 16~17 周 期末專題實作\n第 18 周 期末專題報告\n註：上述課程進度均會視同學學習情況來調整",
     "scorePolicy": "課堂出席：10%\n課堂實作：40% (取 8 次)\n期中作業：20%\n期末專題報告：30%\n註：其餘規定會在第一堂課上宣布",
     "materials": "推薦書籍: cuda by example (可從 NVIDIA 公司官網費下載)",
     "foreignLanguageTextbooks": false,
-    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\"> 若因疫情爆發，需進行線上遠端教學，將使用學校所提供的 g-suite 來進行上課 </div>"
+    "remarks": "<div style=\"background:transparent;color: blue;font-size:12pt\"> 若因疫情爆發，需進行線上遠端教學，將使用學校所提供的 g-suite 來進行上課\n若有突發狀況，將於「北科 i 學員 plus - 課程公告」進行通知 </div>"
   }
 ]
