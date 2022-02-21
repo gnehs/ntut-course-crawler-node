@@ -179,7 +179,7 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
     for (let x of result) {
         try {
             let res = []
-            function f(x) {
+            async function f(x) {
                 res.push(await fetchSyllabus(x))
             }
             await asyncPool(5, x.syllabusLinks, f);
