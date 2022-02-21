@@ -5,6 +5,7 @@ const iconv = require('iconv-lite');
 const axios = require('axios').default;
 const axiosRetry = require('axios-retry');
 const pangu = require('./tools/pangu').spacing;
+const asyncPool = require('tiny-async-pool');
 const globalRegexParse = /\n|^ | $/g
 axiosRetry(axios, { retries: 3 });
 async function fetchCourseDescription(url = 'Curr.jsp?format=-2&code=1400037') {
@@ -178,9 +179,10 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
     for (let x of result) {
         try {
             let res = []
-            for (let syllabusLink of x.syllabusLinks) {
-                res.push(await fetchSyllabus(syllabusLink))
+            function f(x) {
+                res.push(await fetchSyllabus(x))
             }
+            await asyncPool(5, x.syllabusLinks, f);
             coursesDone++
             console.log(`[fetch] syllabus (${coursesDone}/${courseData.length}) ${matricKey} - ${x.name.zh} done.`)
             jsonfile.writeFileSync(`./dist/${year}/${sem}/course/${x.id}.json`, res, { spaces: 2, EOL: '\r\n' })
