@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest 
     strategy:
       matrix:  
-        department: ['日間部','進修部','研究所(日間部、進修部、週末碩士班)']
+        department: ['日間部','進修部','研究所\(日間部、進修部、週末碩士班\)']
     steps:
     - uses: actions/checkout@v2
       with:
