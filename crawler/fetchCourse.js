@@ -67,7 +67,12 @@ async function fetchSyllabus(url = 'ShowSyllabus.jsp?snum=292267&code=11710') {
             res.covid19 = covid19
         }
         else {
-            res.remarks = pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　"))
+            res.remarks = pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').html()
+                .replace(/<br\s*[\/]?>/gi, "\n")
+                .replace(/color=#ff0000/gi, '')
+                .replace(/color=#ff0000/g, '')
+                .replace(/background:transparent;color: blue;font-size:12pt/g, '')
+                .replace(/\t/gi, "　　"))
         }
 
     }
