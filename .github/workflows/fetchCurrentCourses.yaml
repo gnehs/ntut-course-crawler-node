@@ -10,6 +10,9 @@ on:
 jobs:
   FetchCurrent: 
     runs-on: ubuntu-latest 
+    strategy:
+      matrix:  
+        department: ['日間部','進修部','研究所(日間部、進修部、週末碩士班)']
     steps:
     - uses: actions/checkout@v2
       with:
@@ -28,7 +31,23 @@ jobs:
     - name: Install npm packages
       run: npm install
     - name: fetch course data
-      run: node fetchCourse.js
+      run: node fetchCourse.js ${{ matrix.department }} 
+    - uses: actions/upload-artifact@v2
+      with:
+        name: ${{ matrix.department }}
+        path: ./dist/
+        retention-days: 2 
+  Deploy:
+    needs: FetchCurrent
+    runs-on: ubuntu-latest 
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/download-artifact@v2
+      with:
+        path: ./dist/
+    - name: Show All years
+      run: ls -R
+      working-directory: ./dist/
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

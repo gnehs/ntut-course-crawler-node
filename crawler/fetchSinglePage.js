@@ -10,7 +10,7 @@ const delay = (s) => {
     });
 };
 async function fetchSinglePage(url) {
-    await delay(100 + Math.random() * 900);
+    await delay(100 + Math.random() * 400);
     const resp = await getResp(url)
     const html = iconv.decode((await resp.data), "big5");
     return cheerio.load(html);
