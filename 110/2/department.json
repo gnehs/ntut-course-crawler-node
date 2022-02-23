@@ -12,12 +12,20 @@
         "href": "Subj.jsp?format=-4&year=110&sem=2&code=2519"
       },
       {
+        "name": "跨校選課(大)－國立臺灣海洋大學",
+        "href": "Subj.jsp?format=-4&year=110&sem=2&code=2521"
+      },
+      {
         "name": "跨校選課(研)－國立臺北大學",
         "href": "Subj.jsp?format=-4&year=110&sem=2&code=2522"
       },
       {
         "name": "跨校選課(研)－臺北醫學大學",
         "href": "Subj.jsp?format=-4&year=110&sem=2&code=2523"
+      },
+      {
+        "name": "跨校選課(研)－國立臺灣海洋大學",
+        "href": "Subj.jsp?format=-4&year=110&sem=2&code=2524"
       }
     ]
   },
@@ -25,6 +33,10 @@
     "name": "進修部",
     "href": "Subj.jsp?format=-3&year=110&sem=2&code=05",
     "class": [
+      {
+        "name": "職跨校選課(大)",
+        "href": "Subj.jsp?format=-4&year=110&sem=2&code=483"
+      },
       {
         "name": "職專業職場英文(大)",
         "href": "Subj.jsp?format=-4&year=110&sem=2&code=2285"
