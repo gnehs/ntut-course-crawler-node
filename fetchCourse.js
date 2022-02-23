@@ -4,7 +4,8 @@ const { fetchCourse } = require('./crawler/fetchCourse');
 
 (async () => {
     let year, sem;
-    let department = process.argv[2] || null;
+    let departmentList = ['日間部', '進修部', '研究所(日間部、進修部、週末碩士班)'];
+    let department = departmentList[process.argv[2]] || null;
     if (!year || !sem) {
         let { current } = await fetchYearSem()
         year = current.year
