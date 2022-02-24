@@ -5,7 +5,7 @@ const axiosRetry = require('axios-retry');
 const pangu = require('./tools/pangu').spacing;
 const globalRegexParse = /\n|^ | $/g
 axiosRetry(axios, { retries: 3 });
-function fetchSyllabus(matricKey = '日間部', year = 109, sem = 2) {
+async function fetchSyllabus(matricKey = '日間部', year = 109, sem = 2) {
   let result
   try {
     result = jsonfile.readFileSync(`./dist/${year}/${sem}/${matricKey == '日間部' ? 'main' : matricKey}.json`)
