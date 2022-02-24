@@ -37,8 +37,38 @@ jobs:
         name: ${{ matrix.department }}
         path: ./dist/
         retention-days: 2 
-  Deploy:
+  FetchSyllabus:
     needs: FetchCurrent
+    runs-on: ubuntu-latest 
+    strategy:
+      matrix:  
+        department: [0,1,2]
+    steps: 
+    - uses: actions/checkout@v2
+    - uses: actions/download-artifact@v2
+      with:
+        name: ${{ matrix.department }}
+        path: ./dist/
+    - name: Setup Node
+      uses: actions/setup-node@v2-beta
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - name: Install npm packages
+      run: npm install
+    - name: fetch course data
+      run: node fetchSyllabus.js ${{ matrix.department }} 
+    - uses: actions/upload-artifact@v2
+      with:
+        name: ${{ matrix.department }}
+        path: ./dist/
+        retention-days: 2 
+  Deploy:
+    needs: [FetchCurrent, FetchSyllabus]
     runs-on: ubuntu-latest 
     steps:
     - uses: actions/checkout@v2
