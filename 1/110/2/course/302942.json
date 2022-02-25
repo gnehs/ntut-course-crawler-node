@@ -1,0 +1,13 @@
+[
+  {
+    "name": "黃琮昇",
+    "email": "cshuang@mail.ntut.edu.tw",
+    "latestUpdate": "2022-02-13 06:39:00",
+    "objective": "此課程在介紹 Optimal Control 的理論基礎與其應用﹐範圍從古典的早期發展到最新的進展都包括在內，其目的在使同學能具有最佳控制器設計能力。 內容包括：最佳化問題求解、線性二次調整器設計、線性二次高斯觀測器設計。此外，現代控制中常用的 loop shaping 及 loop transfer recovery 技術亦將在課程中介紹。預修課程 ： 線性控制系統 (可同時修)、工程數學\n1.　　Introduction.\n2.　　Mathematical preliminaries for optimal control.\n3.　　Classical linear quadratic optimal control, including regulation &amp; tracking control.\n4.　　Observer based optimal control (LQG control). \n5.　　Loop shaping and LTR control. \n This is a course designed for graduate students which will provide techniques that can help you to design an optimal controller for linear systems with a specific performance index. Concepts such as optimality condition, linear quadratic regulation (LQR), and linear quadratic gaussian (LQG) problem are introduced in the course. In addition, the course also includes the loop shaping concept and the loop transfer recovery (LTR) technique which are frequently used in the modern control.",
+    "schedule": "Week 1: Introduction\nWeek 2: One Dimension Search Method\nWeek 3: One Dimension Search Method, Gradient Methods\nWeek 4: Gradient Methods, Newton's Methods\nWeek 5: Conjugate Direction Methods\nWeek 6: Quasi-Newton Method\nWeek 7: Solving Linear Equations\nWeek 8: Introduction to Linear Programming\nWeek 9: Midterm exam\nWeek 10: Simplex Method\nWeek 11: Simplex Method, Duality\nWeek 12: Problems with equality Constraints\nWeek 13: Problems with Inequality Constraints\nWeek 14: Nonlinear Programming with Equality Constraints\nWeek 15: Quadratic Programming\nWeek 16: Dynamic Programming\nWeek 17: Convex Optimization Problems\nWeek 18: Final exam",
+    "scorePolicy": "Midterm Exam: 30%,\nFinal Exam: 35%,\nParticipation: 35%",
+    "materials": "Edwin K. P. Chong and Stanislaw H. Zak, \"An Introduction to Optimization,\" 4/e, John Wiley &amp; Sons, 2013.",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n      <b> 本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div style=\"\">In response to Covid-19, the teaching contents and the grading/assessments may be adjusted, and the course will be offered online. (The link will be posted in Taipei Tech i-School Plus)\n\nContact me via: cshuang @ntut.edu.tw.</div></b></b>"
+  }
+]

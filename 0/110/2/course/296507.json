@@ -1,0 +1,13 @@
+[
+  {
+    "name": "賴建宏",
+    "email": "laisan86@gmail.com",
+    "latestUpdate": "2022-02-16 11:18:36",
+    "objective": "瞭解微算機及介面設計之基本觀念與應用，內容包含：1. 微算機概論，2. 中央處理單元架構、程式規劃及記體模式，3. 微算機指令集及定址模式，4. 組合語言程式設計，5. 硬體介面概論，6. 記憶體介面 (ROM 及 RAM) 介面，7. 輸出入介面、中斷處理及直接記憶體存取，8. 微算機系統概述及發展系統簡介。\n1.Introduction to microcomputer\n2.Central processor unit \n3.Microprogramming set\n4.Assemblylanguage programming\n5.Interfacing circuits\n6.ROM/RAM interface\n7.I/O operations\n8.Interrupt and direct memory access",
+    "schedule": "Microcomputer Introduction\n The microcomputer development and programing history\n Our usual numbers, why we have binary system\n What are the various parts of our computer architecture currently doing\n How can we create an environment for developing programs purely in Verilog\nCentral processor unit and Microcode\n History\n Architecture\n The composition of each part\n  Arithmetic logic unit (ALU)\n  Register\n  Control unit (CU)\n  Microcode\nCentral processor unit and Assembly language\n Practice makes perfect\n  Tactical information\n  The ways to modeling\n Planning a 8 bits homebrew CPU : OK8(Behavior orientation)\n  The functions\n  I known it! But what we are going to do now?\n  Just the sample! You can have your own better ones\n Assembly language\n  Assembler\n  Macro\n  Directives\n CISC vs RISC\n SoC &amp; SiP\nINTERRUPT\n What’s interrupts?\n Hardware and software types\n The ways to implement interrupts\n How to synthesis the mechanism in Verilog\nMemory system\n Basic conceptions about usage\n Categories and Hierarchy\n Access Methods and Management strategy\n The development of modern memory\n Flash Memory",
+    "scorePolicy": "Midterm demonstration 40%\nFinal presentation 40%\nAttendance 20%",
+    "materials": "We have our own presentation files",
+    "foreignLanguageTextbooks": false,
+    "remarks": "\n      <b> 本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div style=\"\">If the COVID-19 pandemic does not permit, online classes will be taught using Microsoft Teams</div></b></b>"
+  }
+]
