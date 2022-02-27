@@ -2,11 +2,12 @@
   {
     "name": "蕭榮修",
     "email": "rshsiao@ntut.edu.tw",
-    "latestUpdate": "2021-12-24 18:08:54",
+    "latestUpdate": "2022-02-21 14:28:38",
     "objective": "介紹計算機演算法的設計與分析，內容包含了：函數成長，遞迴關係，排序及序列統計，基礎與進階資料結構，動態規劃，貪婪演算法，搜尋，圖形與幾何演算法，字串比對，NP-completeness, 近似演算法，及平行與分散式演算法.\nThis course gives a broad introduction about the design and analysis of computer algorithms. General topics to be covered include: growth of functions, recurrences, sorting and order statistics, fundamental and advanced data structures, dynamic programming, greedy algorithms, searching, graph and geometry algorithms, string matching, NP-completeness, approximation algorithms, parallel and distributed algorithms.",
     "schedule": "Calendar:\n1. Mathematical Foundations: Introduction\n2. Analyzing &amp; Designing Algorithms\n3. Growth of Functions\n4. Recurrences\n5. Heapsort\n6. Quicksort\n7. Sorting in Linear Time\n8. Medians and Order Statistics\n9. Mid-term Exam\n10. Greedy Algorithms\n11. Dynamic Programming_1\n12. Dynamic Programming_2\n13. Other Optimization Algorithms\n14. Elementary Graph Algorithms\n15. Minimum Spanning Trees\n16. Shortest Paths Algorithms\n17. NP-Completeness\n18. Final Exam",
-    "scorePolicy": "Grading:\n 10% Attendance\n 20% Assignments\n 30% Mid-term Exam (take home 40%, in class 60%)\n 40% Final Exam (take home 40%, in class 60%)",
+    "scorePolicy": "Grading:\n 10% Attendance\n 20% Assignments &amp; Quizzes\n 30% Mid-term Exam (take home 40%, in class 60%)\n 40% Final Exam (take home 40%, in class 60%)",
     "materials": "1. T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, Second Ed., The MIT Press, 2001. (開發)",
-    "foreignLanguageTextbooks": true
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n      <b> 本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div >1. 同學如有加退選簽核或課程問題請 email 給我 rshsiao@ntut.edu.tw，信件標題 [計算機演算法]_班級 (或隨班附讀)_名字。\n2. 本課程教材及鄉關資料將透過北科 i 學園 plus 或 Teams 公布。\n3. 本課程因應疫情可能會調整授課內容、授課方式、評分項目與配分比例。如果無法實體上課，預定使用 Teams 於原定上課時間遠距上課，細節將再另行公布。</div></b></b>"
   }
 ]
