@@ -73,7 +73,17 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/download-artifact@v2 
-      working-directory: ./dist/
+      with:
+        name: 0
+        path: ./dist/ 
+    - uses: actions/download-artifact@v2 
+      with:
+        name: 1
+        path: ./dist/ 
+    - uses: actions/download-artifact@v2 
+      with:
+        name: 2
+        path: ./dist/ 
     - name: Show All years
       run: ls -R
       working-directory: ./dist/
