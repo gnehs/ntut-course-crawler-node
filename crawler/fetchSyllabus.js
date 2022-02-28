@@ -81,6 +81,9 @@ async function fetchSyllabusData(url = 'ShowSyllabus.jsp?snum=292267&code=11710'
         .replace(/color=#ff0000/g, '')
         .replace(/style="(.+)"/gi, '')
         .replace(/\t/gi, "　　"))
+        // remove <b></b>
+        .replace(/<b>/gi, '')
+        .replace(/<\/b>/gi, '')
     }
 
   }
