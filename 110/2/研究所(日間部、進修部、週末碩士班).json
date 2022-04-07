@@ -621,7 +621,7 @@
       }
     ],
     "people": "45",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　",
     "notes": "",
@@ -2086,7 +2086,7 @@
       }
     ],
     "people": "26",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "英語",
     "notes": "工管所和管理博班合開",
@@ -14666,7 +14666,7 @@
       }
     ],
     "people": "9",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　",
     "notes": "日職合開",
@@ -23150,7 +23150,7 @@
       }
     ],
     "people": "5",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "英語",
     "notes": "請排光華 402 室，限 12 人，日碩 & 職碩 & 外碩 & 設計博合開",
@@ -29292,7 +29292,7 @@
       }
     ],
     "people": "8",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　",
     "notes": "博班必修",
@@ -30576,7 +30576,7 @@
       }
     ],
     "people": "36",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "英語",
     "notes": "IMBA&IMFI & 工管所 & 管理博班 & 資財所",
@@ -30981,7 +30981,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　",
     "notes": "工管四甲乙丙、工管所和管理博合開，計中教室",
@@ -34593,7 +34593,7 @@
       }
     ],
     "people": "3",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　",
     "notes": "大研合開",
@@ -35186,7 +35186,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "密集授課，至台積電，詳教學大綱【停開】",
+    "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C005006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=303207&code=11018"
@@ -35238,7 +35238,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "密集授課，至台積電，詳教學大綱【停開】",
+    "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C005007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=303208&code=12283"
@@ -38322,6 +38322,96 @@
     "ta": [],
     "language": "英語",
     "notes": "教師陳清春，MAF526 教室，限 5 人，限大四以上",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "303501",
+    "name": {
+      "zh": "物流系統之選址規劃與設計",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－國立臺灣海洋大學",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2524",
+        "code": "2524"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "6",
+        "7",
+        "8"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師鍾武噏，TEC503 教室，限 10 人，限大三以上",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "303508",
+    "name": {
+      "zh": "社會醫學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=110&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "9",
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師高美英，人社院 101 會議室，限 5 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
