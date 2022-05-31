@@ -1,0 +1,13 @@
+[
+  {
+    "name": "劉亮志",
+    "email": "lcliu@ntut.edu.tw",
+    "latestUpdate": "2022-05-30 14:41:14",
+    "objective": "本課程將教導學生解決衍生性商品評價、避險以及風險控管等問題的方法。這些方法會需要一些基礎的數學工具，例如微積分與統計，而這些工具大一、二的學生在過往的必修課程中已經習得。為了有效處理複雜的評價問題並與所介紹的基礎觀念連結，本課程將會教導學生如何利用兩種程式語言，C 和 Matlab，來進行計算，處理的問題也將包含 (1) 現金流現值的計算，(2) 利用牛頓法求解公司債持有報酬率，(3) 利用二分法計算 swap interest rate (4) 拔靴法求零息利率\n\n(This course will shed light on the methodology for evaluating derivatives, hedging and managing investment risk. The pricing algorithm will then be implemented in C language and Matlab. The problems that will be dealt with include the calculation of the present value of future cash flows, internal rates of returns via the bisection and Newton method,  \nand zero rate curves via the bootstrap method.)",
+    "schedule": "第 1 週   (9/15)  課程介紹和導論\n第 2 週   (9/22)   Dev-C++ &amp; Matlab 安裝；基本的 C &amp; Matlab 語法 \n第 3 週   (9/29)   Dev-C++ &amp; Matlab 安裝；基本的 C &amp; Matlab 語法 \n第 4 週   (10/6)   程式流程控制 (if /else structure and for/while loop)\n第 5 週   (10/13) 程式流程控制 (if /else structure and for/while loop)\n第 6 週   (10/20)  現金流評價、二分法 & amp; 牛頓法 (1)  \n第 7 週   (10/27)  現金流評價、二分法 & amp; 牛頓法 (2) \n第 8 週   (11/3)    陣列 (1)\n第 9 週   (11/10)  陣列 (2)  \n第 10 週 (11/17)  利率與債券評價 (1)                     \n第 11 週 (11/24)   利率與債券評價 (2) \n第 12 週 (12/1)    利率與債券評價 (3)\n第 13 週 (12/8)    利率與債券評價 (4)\n第 14 週 (12/15)  債券價格的敏感度與避險 (1)\n第 15 週 (12/22)  債券價格的敏感度與避險 (2)  \n第 16 週 (12/29)  債券價格的敏感度與避險 (3) \n第 17 週 (1/5)   學期考試 (Final exam)\n第 18 週 (1/12)    總複習、考試檢討 (Course review)",
+    "scorePolicy": "出席 (Attendance): 10%\n作業 (Homework):  40%\n學期考試 (Final-term): 40%\n小組報告 (In-class presentation): 10%",
+    "materials": "1. 葉倍宏，C&amp;C++ 程式設計，儒林\n2. 洪維恩，Matlab 程式設計 (第 2 版)，旗標\n3. 戴天時，C++ 財務程式設計，證券與期貨發展基金會\n4. 張焯然，財務工程與金融計算 - Matlab 的應用，證券與期貨發展基金會\n5. Options, Futures, and Other Derivatives, by J. C. Hull, 8TH Edition, Prentice Hall",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n       本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div > 本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n(https://meet.google.com/ipq-gomh-xam)</div>"
+  }
+]

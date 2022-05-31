@@ -1,0 +1,13 @@
+[
+  {
+    "name": "林懷恩",
+    "email": "linhe@ntut.edu.tw",
+    "latestUpdate": "2022-05-26 10:31:03",
+    "objective": "本課程旨在建立學生對於機械最佳化設計之基本概念，包含如何將設計問題的物理模型以數學模型形式建立目標函數，並依照給定限制條件求解目標函數之極值或最佳化值問題。課程內容共分為五個部分：(1) 最佳化設計中目標函數的數學分析基礎、(2) 常用之一維搜尋最佳化方法、(3) 無限制多維問題的最佳化方法、(4) 限制問題的最佳化方法、(5) 機械最佳化設計實例分析。\nThis course aims to establish the basic concept of mechanical optimization design for students, including how to establish the mathematical model of objective function from the physical model, and solve the problem by finding the extremum or the optimal value of the objective function according to the given constraints. The course content is divided into five parts: (1) Mathematical analysis basis of objective function in optimization design, (2) Commonly used one-dimensional optimization method, (3) Optimization method for unlimited multi-dimensional problem, (4) The optimization method of the restriction problem, (5) Example of the mechanical optimization design.",
+    "schedule": "第 1 週 \n09/14 課程內容簡介 \n第 2 週 \n09/21 概述：設計變數、目標函數、限制條件、最佳化設計的數學模型\n第 3 週 \n09/28 最佳化設計中目標函數的數學分析基礎：泰勒表示式、函數梯度\n第 4 週 \n10/05 最佳化設計中目標函數的數學分析基礎：函數方向導數的極值點存在條件、無限制目標函數的極值點存在條件\n第 5 週\n10/12 最佳化設計中目標函數的數學分析基礎：函數凸性、凸函數及凹函數之基本性質、目標函數的限制極值問題、Kuhn-Tucker 條件\n第 6 週\n10/19 最佳化設計的數值計算方法 - 迭代法及其收斂性、搜尋區間確定、外推法、進退法、切線法\n第 7 週\n10/26 常用之一維搜尋最佳化方法： 序列消去原理、Fibonacci 法與黃金分割法 (0.618 法)\n第 8 週\n11/02 常用之一維搜尋最佳化方法：二次插值法、平分法、格點法\n第 9 週\n11/09 期中考 Middle examination\n第 10 週\n11/16 無限制多維問題的最佳化方法：座標輪換法、加速步長法、最速下降法、牛頓法\n第 11 週\n11/23 無限制多維問題的最佳化方法：共軛梯度法、共軛方向法及 Powell 法\n第 12 週\n11/30 限制問題的最佳化方法：隨機試驗法、隨機方向搜尋法、復合形法\n第 13 週\n12/07 限制問題的最佳化方法：可行方向法、可變容差法\n第 14 週\n12/14 限制問題的最佳化方法：簡約梯度法、線性逼近法、消元法、拉格朗日乘數法\n第 15 週\n12/21 機械最佳化設計實例分析\n第 16 週\n12/28 機械最佳化設計實例分析\n第 17 週\n01/04 機械最佳化設計實例分析\n第 18 週\n01/11 期末考 Final exam",
+    "scorePolicy": "課程評分標準：\n1.　　Participation 出席成績 (10%)\n2.　　Homework 作業 (20%)\n3.　　Middle examination 期中考 (30%)\n4.　　Final examination 期末考 (40%)",
+    "materials": "參考書目\n1.　　劉惟信，機械最佳化設計，第二版，全華圖書，1990/02\n2.　　Garret N. Vanderplaas, Numerical Optimization Techniques for Engineering Design\", Mc-Hill International Editions",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n       本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div >1.　　本課程採實體授課。\n2.　　若遇不可抗力因素 (如疫情) 影響無法到校上課，將採遠距授課。\n3.　　遠距授課使用 googlemeet 進行教學，上課網址將公佈於網路學園，請同學留意相關資訊。\n4.　　評量方式：若表定考試日程遭遇不可抗力因素 (如疫情) 影響無法到校考試，本課程之考試將改為線上測驗。</div>"
+  }
+]
