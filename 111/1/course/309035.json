@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "楊元森",
+    "email": "ysyang@ntut.edu.tw",
+    "latestUpdate": "2022-05-31 14:58:31",
+    "objective": "本課程介紹科學和工程數值分析的理論，應用，和程式編撰，包括初步誤差分析、方程式求解、逼近法、微分方程、線性代數、線性和非線性回歸，與離散傅利葉變換。本課程著重於使用目前廣泛採用的數值分析開發環境與程式語言，並透過動手練習讓學生體驗數值分析技術在人工智能中的應用。 本課程學生應至少已完成微積分第一年的學生而設計。\nThis course introduces the theory, applications, and programming implementation of numerical analysis for science and engineering, including preliminary error analysis, solutions of equations, approximation, differential equations, linear algebra, linear and nonlinear regression, and discrete Fourier transform. Programming implementation is also intensed in the lectures using a current popular development environment for numerical analysis. The application of numerical analysis techniques on artificial intelligence is also introduced with hands-on exercises. This course is designed for engineering majors who have completed at least the first year of the calculus sequence.",
+    "schedule": "Week 1: Python Basics\nWeek 2: Basic Data Types and Data Structures\nWeek 3: Branching\nWeek 4: Iteration and Nested Loops\nWeek 5: Functions\nWeek 6: Recursion\nWeek 7: Basic Object-Oriented Programming\nWeek 8: Visualization and Plotting\nWeek 9: Midterm\nWeek 10: Linear Algebra and Systems of Equations\nWeek 11: Eigenvalues and Eigenvectors\nWeek 12: Interpolation \nWeek 13: Nonlinear Root Finding 1\nWeek 14: Nonlinear Root Finding 2\nWeek 15: Fourier Transform \nWeek 16: Introduction to Machine Learning 1\nWeek 17: Introduction to Machine Learning 2\nWeek 18: Presentations of Final Projects",
+    "scorePolicy": "1. Interactions, attendance, assistance, quiz (30% +/- 5%)\n2. Midterm (30% +/- 5%)\n3. Final Project (40% +/- 5%)",
+    "materials": "Python Programming and Numerical Methods: A Guide for Engineers and Scientists 1st Edition, ISBN-13: 978-0128195499",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n       本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div >Google meet: https://meet.google.com/yiu-jwqa-ckm</div>"
+  }
+]

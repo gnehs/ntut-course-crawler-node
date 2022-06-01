@@ -1689,6 +1689,11 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2811",
         "code": "2811"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -1716,7 +1721,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "工管所和管理博班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735006",
     "syllabusLinks": []
   },
@@ -1791,6 +1796,11 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2811",
         "code": "2811"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -1818,7 +1828,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "全英文",
+    "notes": "工管所和管理博班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735008",
     "syllabusLinks": []
   },
@@ -2177,7 +2187,9 @@
     "language": "　",
     "notes": "土木館 208",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205076",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306441&code=11734"
+    ]
   },
   {
     "code": "4205078",
@@ -2401,7 +2413,9 @@
     "language": "　",
     "notes": "土木館 201",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4215001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306451&code=10790"
+    ]
   },
   {
     "code": "4215004",
@@ -2751,7 +2765,9 @@
     "language": "　",
     "notes": "土木四甲乙和防災所合開 (研究所上限 9 人)/ 土木館 208",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236067",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306475&code=10918"
+    ]
   },
   {
     "code": "4236106",
@@ -3066,7 +3082,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406119",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306517&code=10992"
+    ]
   },
   {
     "code": "4505008",
@@ -3623,7 +3641,9 @@
     "language": "　",
     "notes": "電腦教室，碩班課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905731",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306575&code=11212"
+    ]
   },
   {
     "code": "4906155",
@@ -3907,7 +3927,9 @@
     "language": "　",
     "notes": "電腦教室，英文授課，博碩課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906739",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306593&code=11212"
+    ]
   },
   {
     "code": "5105001",
@@ -4397,7 +4419,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211106",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306630&code=12200",
-      "ShowSyllabus.jsp?snum=306630&code=10450"
+      "ShowSyllabus.jsp?snum=306630&code=10450",
+      "ShowSyllabus.jsp?snum=306630&code=12078"
     ]
   },
   {
@@ -4956,7 +4979,9 @@
     "language": "　",
     "notes": "建築四與建都所合開，全英授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211444",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306661&code=12078"
+    ]
   },
   {
     "code": "5235423",
@@ -5202,8 +5227,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課 / 哈佛講堂",
+    "language": "英語",
+    "notes": "哈佛講堂",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306754&code=12246"
@@ -5480,7 +5505,9 @@
     "language": "　",
     "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705343",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306767&code=11429"
+    ]
   },
   {
     "code": "5705402",
@@ -7055,7 +7082,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105055",
     "syllabusLinks": []
   },
@@ -7112,7 +7139,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "電腦教室，英語授課",
+    "notes": "電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105059",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306996&code=12275"
@@ -8257,7 +8284,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "EMI 網路預選限 80 人",
+    "notes": "EMI 網路預選限 80 人；核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307110&code=11726"
@@ -9463,7 +9490,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7925101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307196&code=11257"
+    ]
   },
   {
     "code": "7925124",
@@ -9565,7 +9594,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7925150",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307211&code=11170"
+    ]
   },
   {
     "code": "7925155",
@@ -9667,7 +9698,9 @@
     "language": "英語",
     "notes": "IMBA&IMFI & 經管所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307219&code=12171"
+    ]
   },
   {
     "code": "9805112",
@@ -9694,6 +9727,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2839",
         "code": "2839"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -9727,7 +9765,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI",
+    "notes": "IMBA&IMFI & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805112",
     "syllabusLinks": []
   },
@@ -9761,6 +9799,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2839",
         "code": "2839"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -9788,7 +9831,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "工管所和 IMBA&IMFI 合開全英文",
+    "notes": "工管所 & IMBA&IMFI & 管理博班合開，全英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805114",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307223&code=11435"
@@ -9824,6 +9867,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2839",
         "code": "2839"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -9857,7 +9905,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "工管所和 IMBA&IMFI 合開全英文",
+    "notes": "工管所 & IMBA&IMFI & 管理博班合開，全英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805118",
     "syllabusLinks": []
   },
@@ -9886,6 +9934,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2839",
         "code": "2839"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -9919,9 +9972,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI & 工管所",
+    "notes": "IMBA&IMFI & 工管所 & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805119",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307225&code=10821"
+    ]
   },
   {
     "code": "9805120",
@@ -9948,6 +10003,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2831",
         "code": "2831"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -9981,9 +10041,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI & 經管所",
+    "notes": "IMBA&IMFI & 經管所 & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805120",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307226&code=11429"
+    ]
   },
   {
     "code": "9805121",
@@ -10010,6 +10072,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2839",
         "code": "2839"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -10037,7 +10104,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI & 工管所",
+    "notes": "IMBA&IMFI & 工管所 & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805121",
     "syllabusLinks": []
   },
@@ -10066,6 +10133,11 @@
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2839",
         "code": "2839"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -10099,7 +10171,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI, 計中電腦教室",
+    "notes": "IMBA&IMFI & 管理博班，計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805131",
     "syllabusLinks": []
   },
@@ -10190,6 +10262,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2836",
         "code": "2836"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2844",
+        "code": "2844"
       }
     ],
     "teacher": [
@@ -10217,7 +10294,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "計中電腦教室，IMBA&IMFI & 資財所",
+    "notes": "計中電腦教室，IMBA&IMFI & 資財所 & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05001",
     "syllabusLinks": []
   },
@@ -13774,7 +13851,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905731",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308107&code=11212"
+    ]
   },
   {
     "code": "4906220",
@@ -16318,9 +16397,12 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308653&code=11429",
+      "ShowSyllabus.jsp?snum=308653&code=10821"
+    ]
   },
   {
     "code": "C235012",
@@ -16379,7 +16461,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235012",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308671&code=11982"
@@ -16467,9 +16549,12 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "碩一必修，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308672&code=11429",
+      "ShowSyllabus.jsp?snum=308672&code=10821"
+    ]
   },
   {
     "code": "C205003",
@@ -16533,7 +16618,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205003",
     "syllabusLinks": []
   },
@@ -16604,9 +16689,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308675&code=12171"
+    ]
   },
   {
     "code": "C205011",
@@ -16670,7 +16757,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": []
   },
@@ -16741,7 +16828,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": []
   },
@@ -16807,7 +16894,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215014",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308678&code=11400"
@@ -16885,7 +16972,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 1) 經營與策略管理 (聯輔會)，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215026",
     "syllabusLinks": []
   },
@@ -16951,7 +17038,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215027",
     "syllabusLinks": []
   },
@@ -17017,7 +17104,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215028",
     "syllabusLinks": []
   },
@@ -17083,7 +17170,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
     "syllabusLinks": []
   },
@@ -17154,7 +17241,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
     "syllabusLinks": []
   },
@@ -17220,7 +17307,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215044",
     "syllabusLinks": []
   },
@@ -17296,7 +17383,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": []
   },
@@ -17367,7 +17454,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225005",
     "syllabusLinks": []
   },
@@ -17443,7 +17530,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
     "syllabusLinks": []
   },
@@ -17514,9 +17601,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308691&code=10821"
+    ]
   },
   {
     "code": "C235012",
@@ -17585,11 +17674,82 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235012",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308692&code=11982"
     ]
+  },
+  {
+    "code": "C285002",
+    "description": {
+      "zh": "本課程的主旨在研討資訊管理的發展及新趨勢，內容包含資訊策略管理、資料庫管理、網路管理、電腦硬體技術、系統分析、軟體工程、管理資訊系統、決策支援系統、商業智慧、資訊倫理、資訊安全、知識管理、社會網絡等。",
+      "en": "The focus of this course is on research and discussion of the developments and novel trends of information management. The topics include information strategy management, database management, network management, computer hardware developments, system analysis, software engineering, management information systems, decision support systems, business intelligence, information ethics, information security, knowledge management, social networks, and so forth."
+    },
+    "id": "308693",
+    "name": {
+      "zh": "資訊管理",
+      "en": "Information Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2868",
+        "code": "2868"
+      },
+      {
+        "name": "資財EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2869",
+        "code": "2869"
+      },
+      {
+        "name": "工管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2875",
+        "code": "2875"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11396",
+        "code": "11396"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12173",
+        "code": "12173"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12148",
+        "code": "12148"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 7) 資訊管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
+    "syllabusLinks": []
   },
   {
     "code": "7805007",
@@ -18273,7 +18433,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105019",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308799&code=23808"
+    ]
   },
   {
     "code": "3105118",
@@ -18725,7 +18887,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "化學207",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=551",
+        "code": "551"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19551,7 +19719,9 @@
     "language": "　",
     "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308891&code=10993"
+    ]
   },
   {
     "code": "4505404",
@@ -20575,7 +20745,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "陳立衡 (新聘)/ 全英語 / 機電所和機械自動外生班合開",
+    "notes": "陳立衡 (新聘)/ 機電所和機械自動外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605032",
     "syllabusLinks": []
   },
@@ -20796,7 +20966,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 21 人 / 全英語 / 機電所和機械自動化班合開",
+    "notes": "限 21 人 / 機電所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007010",
     "syllabusLinks": []
   },
@@ -20852,8 +21022,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "限 25 人 / 中英",
+    "language": "中英雙語",
+    "notes": "限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007011",
     "syllabusLinks": []
   },
@@ -21561,7 +21731,9 @@
     "language": "英語",
     "notes": "IMBA&IMFI & 經管所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309020&code=11429"
+    ]
   },
   {
     "code": "9805003",
@@ -21617,7 +21789,9 @@
     "language": "英語",
     "notes": "IMBA&IMFI & 經管所 / 科研 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309025&code=12171"
+    ]
   },
   {
     "code": "AC06218",
@@ -22584,7 +22758,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 24 人 / 全英語 / 請教務處安排教室 / 機電所、製科所和機",
+    "notes": "限 24 人 / 請教務處安排教室 / 機電所、製科所和機",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005138",
     "syllabusLinks": []
   },
@@ -22643,7 +22817,9 @@
     "language": "　",
     "notes": "限 21 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005132",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309100&code=12080"
+    ]
   },
   {
     "code": "4005141",
@@ -22823,7 +22999,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 30 人 / 全英語 / 機電所和機械自動化班合開",
+    "notes": "限 30 人 / 機電所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605087",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309104&code=11087"
@@ -22892,7 +23068,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 21 人 / 全英語 / 機電所、製科所和機械自動化班合開",
+    "notes": "限 21 人 / 機電所、製科所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605021",
     "syllabusLinks": []
   },
@@ -23079,7 +23255,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 35 人 / 全英語 / 機電所和機械自動化班合開",
+    "notes": "限 35 人 / 機電所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309120&code=11584"
@@ -23259,6 +23435,7 @@
     "notes": "IMBA&IMFI， 趙莊敏老師 1 鐘點 楊神珠老師 2 鐘點",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805008",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309124&code=24272",
       "ShowSyllabus.jsp?snum=309124&code=11073"
     ]
   },
@@ -24337,7 +24514,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105065",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309160&code=11054"
@@ -24849,7 +25026,9 @@
     "language": "英語",
     "notes": "IMBA&IMFI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805139",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309182&code=24406"
+    ]
   },
   {
     "code": "5105059",
@@ -25791,7 +25970,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305051",
     "syllabusLinks": []
   },
@@ -25850,7 +26029,9 @@
     "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805130",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309234&code=21251"
+    ]
   },
   {
     "code": "5607003",
@@ -26392,7 +26573,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505602",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309260&code=24274"
+    ]
   },
   {
     "code": "4505208",
@@ -26542,7 +26725,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "化工205",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=400",
+        "code": "400"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -26658,7 +26847,9 @@
     "language": "　",
     "notes": "土木館 208; 請自行攜帶筆電；大研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309289&code=11397"
+    ]
   },
   {
     "code": "3615018",
@@ -26829,7 +27020,9 @@
     "language": "　",
     "notes": "電子三四甲乙與電子所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309332&code=11391"
+    ]
   },
   {
     "code": "3615050",
@@ -27812,7 +28005,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425217",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309376&code=11733"
+    ]
   },
   {
     "code": "6505006",
@@ -28232,7 +28427,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 50 人 / 全英語 / 一般教室 / 機電所、製科所和機械自動化",
+    "notes": "限 50 人 / 一般教室 / 機電所、製科所和機械自動化",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005026",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309499&code=12278"
@@ -28422,7 +28617,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "全英語 / 製科所必選課程之一 / 機電所、製科所和機械自動",
+    "notes": "製科所必選課程之一 / 機電所、製科所和機械自動",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006004",
     "syllabusLinks": []
   },
@@ -28489,7 +28684,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 26 人 / 全英語 / 製科所必選課程之一 / 製科所、機電所和",
+    "notes": "限 26 人 / 製科所必選課程之一 / 製科所、機電所和",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605089",
     "syllabusLinks": []
   },
@@ -28953,7 +29148,9 @@
     "language": "　",
     "notes": "碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309544&code=11212"
+    ]
   },
   {
     "code": "4907003",
@@ -29211,7 +29408,9 @@
     "language": "　",
     "notes": "英文授課  博碩課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906233",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309549&code=12142"
+    ]
   },
   {
     "code": "4906739",
@@ -29261,7 +29460,9 @@
     "language": "　",
     "notes": "共同 103A 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906739",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309550&code=11212"
+    ]
   },
   {
     "code": "AB06043",
@@ -29995,7 +30196,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 26 人 / 全英語 / 請教務處安排教室 / 製科所、機電所和機",
+    "notes": "限 26 人 / 請教務處安排教室 / 製科所、機電所和機",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605043",
     "syllabusLinks": []
   },
@@ -30262,7 +30463,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "日職合開",
+    "notes": "日職合開；不開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309708&code=11931"
@@ -30695,7 +30896,9 @@
     "language": "　",
     "notes": "英文授課  碩班課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309773&code=12142"
+    ]
   },
   {
     "code": "4207002",
@@ -30799,8 +31002,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課，\t經管三四和所合開",
+    "language": "英語",
+    "notes": "經管三四和所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705498",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309791&code=12246"
@@ -30908,7 +31111,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
     "syllabusLinks": []
   },
@@ -30964,7 +31167,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285023",
     "syllabusLinks": []
   },
@@ -31030,7 +31233,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": []
   },
@@ -31091,7 +31294,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
     "syllabusLinks": []
   },
@@ -31260,7 +31463,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "碩二必修，星期六 234，桃園集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": []
   },
@@ -31324,9 +31527,10 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "碩二必修，星期六 234，台北集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309852&code=11429",
       "ShowSyllabus.jsp?snum=309852&code=11400"
     ]
   },
@@ -31921,9 +32125,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309893&code=11429"
+    ]
   },
   {
     "code": "6007101",
@@ -32037,7 +32243,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": []
   },
@@ -32103,7 +32309,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理 & 經營策略實務，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
     "syllabusLinks": []
   },
@@ -32162,7 +32368,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705507",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310064&code=12171"
+    ]
   },
   {
     "code": "5705105",
@@ -32682,6 +32890,113 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705511",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB05108",
+    "description": {
+      "zh": "本課程之目標在於如何應用計量方法來進行財金議題之研究，課程內容包括縱斷面資料分析、橫斷面資料分析、追蹤資料分析、以及多變量時間序列分析等，讓學生掌握有助於分析經濟和金融數據的計量經濟學學習方法的知識，培養同學具有應用計量軟體進行分析研究的能力。",
+      "en": "The course is aimed to provide essential econometric methods and their application to research issues. Topics cover regression analysis using time-series data, cross-sectional data, and panel data. The multivariate time-series analysis is also introduced in the course. This course is designed to prepare students with knowledge of econometric methods that are useful for analyzing economic and financial data. Students will focus on learning econometric software skills in estimating and analyzing econometric models."
+    },
+    "id": "310202",
+    "name": {
+      "zh": "財金計量分析",
+      "en": "Econometric Analysis for Finance"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2836",
+        "code": "2836"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳煒朋",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11729",
+        "code": "11729"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05108",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4906737",
+    "description": {
+      "zh": "探討網路學習社群之相關原理，以及實務應用。內容包括有網路學習社群之理論基礎、優點、特性、限制、科技、媒體、環境、形成要素、成員角色與任務、線上討論與知識分享、成功因素、經營管理、實際案例、未來趨勢等。",
+      "en": "To explore advnced issues on Web-based learning community (WBCL)including WBCL theoretical fundamental, advantages, characteristics, limitations, technology, media, environment, formed factors, member roles and tasks, online discussion, successful factors, operation and management, practical cases, and future trrnds etc.."
+    },
+    "id": "310203",
+    "name": {
+      "zh": "網路學習社群專題研究",
+      "en": "Special Topic on Web-Based Learning Community"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2855",
+        "code": "2855"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "楊心怡",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11430",
+        "code": "11430"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同411(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=383",
+        "code": "383"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4906737",
     "syllabusLinks": []
   }
 ]
