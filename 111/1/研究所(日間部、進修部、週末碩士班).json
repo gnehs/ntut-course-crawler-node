@@ -1829,7 +1829,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "工管所和管理博班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735008",
     "syllabusLinks": [
@@ -2933,7 +2933,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306495&code=12285"
+    ]
   },
   {
     "code": "4405020",
@@ -4835,57 +4837,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "5211422",
-    "description": {
-      "zh": "",
-      "en": ""
-    },
-    "id": "306648",
-    "name": {
-      "zh": "台灣傳統建築專題",
-      "en": "Traditional architecture of Taiwan in Special Topics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "建都所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2818",
-        "code": "2818"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "張崑振",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11014",
-        "code": "11014"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "日職合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5211422",
-    "syllabusLinks": []
-  },
-  {
     "code": "5211443",
     "description": {
       "zh": "施工歷史可以被視為了解建築理論的關鍵基礎。按照慣例，建築學院提供建築歷史方面的研究方面，包括建築風格和哲學的發展，或者建築材料和建築技術的最新進展。此外，關於建築的理論辯論也更加關注哲學的討論，而不是物理建築的表現。但是，建築理論主要討論材料和建築系統的表示。因此，材料的構造方法實際上會極大地影響建築理論的解釋。因此，該課程可以分為兩個部分：首先，將回顧東西方世界的建設歷史以及現代時期。其次，將討論結構論和相對論的爭論。本課程的目的是發展與會學生的能力，使他們能夠回顧自己論點的要點，並運用適當的理論來支持或爭論他們對建築理論的理解。",
@@ -5294,8 +5245,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705102",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306761&code=11073"
@@ -5400,8 +5351,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課 / 和 IMBA 合開 / 科研 823",
+    "language": "英語",
+    "notes": "和 IMBA 合開 / 科研 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705269",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306764&code=12185"
@@ -5510,8 +5461,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705343",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306767&code=11429"
@@ -5791,8 +5742,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705504",
     "syllabusLinks": []
   },
@@ -8669,7 +8620,8 @@
     "notes": "(研究所) 網路預選限 40 人；大四化工所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305057",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=307135&code=11138"
+      "ShowSyllabus.jsp?snum=307135&code=11138",
+      "ShowSyllabus.jsp?snum=307135&code=21681"
     ]
   },
   {
@@ -9867,7 +9819,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "工管所 & IMBA&IMFI & 管理博班合開，全英文",
+    "notes": "工管所 & IMBA&IMFI & 管理博班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805114",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307223&code=11435"
@@ -10327,7 +10279,9 @@
     "language": "英語",
     "notes": "計中電腦教室，IMBA&IMFI & 資財所 & 管理博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307234&code=11396"
+    ]
   },
   {
     "code": "AS05004",
@@ -10977,7 +10931,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307280&code=11979"
+    ]
   },
   {
     "code": "AB05004",
@@ -11859,7 +11815,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C525001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307397&code=11427"
+    ]
   },
   {
     "code": "7407002",
@@ -12036,7 +11994,9 @@
     "language": "　",
     "notes": "博一選課，請依分組 & 共同討論上課時間",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=8507001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307442&code=12035"
+    ]
   },
   {
     "code": "5231416",
@@ -12154,7 +12114,9 @@
     "language": "　",
     "notes": "核心選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=8527017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307454&code=11004"
+    ]
   },
   {
     "code": "A000001",
@@ -14522,57 +14484,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "5211422",
-    "description": {
-      "zh": "",
-      "en": ""
-    },
-    "id": "308161",
-    "name": {
-      "zh": "台灣傳統建築專題",
-      "en": "Traditional architecture of Taiwan in Special Topics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職建都所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2857",
-        "code": "2857"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "張崑振",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11014",
-        "code": "11014"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "日職合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5211422",
-    "syllabusLinks": []
-  },
-  {
     "code": "5211434",
     "description": {
       "zh": "針對學生在建築設計及都市規劃基礎訓練之後，有異於前期以技術性思考，改以都市開發及宏觀政策及微觀個案財務之角度切入建築及都市開發之議題，以輔助學生建立都市開發與都市型態間關連性之整合概念。",
@@ -16600,7 +16511,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308672&code=11429",
-      "ShowSyllabus.jsp?snum=308672&code=10821"
+      "ShowSyllabus.jsp?snum=308672&code=10821",
+      "ShowSyllabus.jsp?snum=308672&code=10938"
     ]
   },
   {
@@ -16667,7 +16579,9 @@
     "language": "　",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308674&code=10938"
+    ]
   },
   {
     "code": "C205004",
@@ -17434,7 +17348,9 @@
     "language": "　",
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308686&code=12246"
+    ]
   },
   {
     "code": "C225005",
@@ -17653,7 +17569,8 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=308691&code=10821"
+      "ShowSyllabus.jsp?snum=308691&code=10821",
+      "ShowSyllabus.jsp?snum=308691&code=11396"
     ]
   },
   {
@@ -17798,7 +17715,9 @@
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308693&code=11396"
+    ]
   },
   {
     "code": "7805007",
@@ -19717,7 +19636,9 @@
     "language": "　",
     "notes": "博二選課，請依分組 & 共同討論上課時間",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=8507003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308883&code=12035"
+    ]
   },
   {
     "code": "4406101",
@@ -20276,7 +20197,9 @@
     "language": "　",
     "notes": "日職創新所與設計博合開；人數上限 8",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5807020",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308901&code=11004"
+    ]
   },
   {
     "code": "5807005",
@@ -20679,7 +20602,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 21 人 / 製科所必選課程之一",
+    "notes": "◎/ 限 21 人 / 製科所必選課程之一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005113",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308910&code=11840"
@@ -20738,7 +20661,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 30 人",
+    "notes": "◎/ 限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605057",
     "syllabusLinks": []
   },
@@ -20794,7 +20717,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "陳立衡 (新聘)/ 機電所和機械自動外生班合開",
+    "notes": "◎/ 陳立衡 (新聘)/ 機電所和機械自動外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605032",
     "syllabusLinks": []
   },
@@ -20845,7 +20768,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 40 人 / 二教 304",
+    "notes": "◎限 40 人 / 二教 304",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308950&code=11132"
@@ -21015,7 +20938,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 21 人 / 機電所和機械自動化班合開",
+    "notes": "◎/ 限 21 人 / 機電所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007010",
     "syllabusLinks": []
   },
@@ -21072,7 +20995,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "中英雙語",
-    "notes": "限 25 人",
+    "notes": "*/ 限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007011",
     "syllabusLinks": []
   },
@@ -21134,7 +21057,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 30 人 / 製科所必選課程之一 / 機電所和製科所合開",
+    "notes": "◎/ 限 30 人 / 製科所必選課程之一 / 機電所和製科所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605075",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308968&code=11363"
@@ -21187,7 +21110,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 30 人",
+    "notes": "◎/ 限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605020",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308970&code=11363"
@@ -21345,7 +21268,9 @@
     "language": "　",
     "notes": "日職碩與設計博合開；人數上限 8；設計 603",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5807020",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308974&code=11004"
+    ]
   },
   {
     "code": "5807005",
@@ -21619,7 +21544,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 21 人 / 全英語 / 材料實驗 (B02)",
+    "notes": "*/ 限 21 人 / 全英語 / 材料實驗 (B02)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005134",
     "syllabusLinks": []
   },
@@ -21678,7 +21603,9 @@
     "language": "　",
     "notes": "EMI 網路預選限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805051",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309012&code=21681"
+    ]
   },
   {
     "code": "AS05001",
@@ -21729,7 +21656,9 @@
     "language": "英語",
     "notes": "IMBA&IMFI & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309019&code=11396"
+    ]
   },
   {
     "code": "AS05002",
@@ -22097,7 +22026,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 20 人",
+    "notes": "◎/ 限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005014",
     "syllabusLinks": []
   },
@@ -22154,7 +22083,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 25 人",
+    "notes": "*/ 限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605027",
     "syllabusLinks": []
   },
@@ -22644,7 +22573,9 @@
     "language": "　",
     "notes": "資工所和人工智慧學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905190",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309080&code=11427"
+    ]
   },
   {
     "code": "7925137",
@@ -22807,7 +22738,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 24 人 / 請教務處安排教室 / 機電所、製科所和機",
+    "notes": "◎/ 限 24 人 / 請教務處安排教室 / 機電所、製科所和機",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005138",
     "syllabusLinks": []
   },
@@ -22864,7 +22795,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 21 人",
+    "notes": "◎/ 限 21 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005132",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309100&code=12080"
@@ -22922,7 +22853,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 50 人 / 機電所和製科所合開 / 請教務處安排教室",
+    "notes": "◎/ 限 50 人 / 機電所和製科所合開 / 請教務處安排教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005141",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309101&code=12036"
@@ -22986,9 +22917,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 40 人 / 機電所和製科所合開",
+    "notes": "◎/ 限 40 人 / 機電所和製科所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005924",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309103&code=11194"
+    ]
   },
   {
     "code": "5605087",
@@ -23048,7 +22981,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 30 人 / 機電所和機械自動化班合開",
+    "notes": "◎/ 限 30 人 / 機電所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605087",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309104&code=11087"
@@ -23117,7 +23050,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 21 人 / 機電所、製科所和機械自動化班合開",
+    "notes": "◎/ 限 21 人 / 機電所、製科所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605021",
     "syllabusLinks": []
   },
@@ -23184,7 +23117,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 50 人 / 全英語 / 機電所、製科所和機械自動化班合開",
+    "notes": "◎/ 限 50 人 / 全英語 / 機電所、製科所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605033",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309108&code=10581"
@@ -23304,7 +23237,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 35 人 / 機電所和機械自動化班合開",
+    "notes": "◎/ 限 35 人 / 機電所和機械自動化班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309120&code=11584"
@@ -24057,7 +23990,9 @@
     "language": "　",
     "notes": "土木館 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205065",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309147&code=11024"
+    ]
   },
   {
     "code": "4205062",
@@ -24120,6 +24055,7 @@
     "notes": "土木館 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205062",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309148&code=11024",
       "ShowSyllabus.jsp?snum=309148&code=11258"
     ]
   },
@@ -25557,7 +25493,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "阮于軒 (新聘)/ 限 30 人",
+    "notes": "◎/ 阮于軒 (新聘)/ 限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005136",
     "syllabusLinks": []
   },
@@ -26136,7 +26072,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "林正釧 (新聘)/ 限 30 人 / 機電所和製科所合開",
+    "notes": "◎/ 林正釧 (新聘)/ 限 30 人 / 機電所和製科所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5607003",
     "syllabusLinks": []
   },
@@ -27417,7 +27353,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3645023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309338&code=11467"
+    ]
   },
   {
     "code": "3645016",
@@ -27526,7 +27464,9 @@
     "language": "　",
     "notes": "電子三四甲乙、電子所和人工學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3625039",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309340&code=11056"
+    ]
   },
   {
     "code": "3615046",
@@ -27871,12 +27811,12 @@
     ],
     "time": {
       "sun": [],
-      "mon": [
+      "mon": [],
+      "tue": [
+        "5",
         "6",
-        "7",
-        "8"
+        "7"
       ],
-      "tue": [],
       "wed": [],
       "thu": [],
       "fri": [],
@@ -27884,9 +27824,9 @@
     },
     "classroom": [
       {
-        "name": "共同301_1",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=117",
-        "code": "117"
+        "name": "共同403",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=122",
+        "code": "122"
       }
     ],
     "people": "0",
@@ -28478,7 +28418,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 50 人 / 一般教室 / 機電所、製科所和機械自動化",
+    "notes": "◎/ 限 50 人 / 一般教室 / 機電所、製科所和機械自動化",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005026",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309499&code=12278"
@@ -28537,9 +28477,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 40 人 / 部分課程須自備筆電",
+    "notes": "◎/ 限 40 人 / 部分課程須自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309500&code=12283"
+    ]
   },
   {
     "code": "4005130",
@@ -28599,7 +28541,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 21 人 / 機電所和製科所合開",
+    "notes": "*/ 限 21 人 / 機電所和製科所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005130",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309501&code=12082"
@@ -28668,7 +28610,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "製科所必選課程之一 / 機電所、製科所和機械自動",
+    "notes": "◎/ 製科所必選課程之一 / 機電所、製科所和機械自動",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006004",
     "syllabusLinks": []
   },
@@ -28735,7 +28677,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 26 人 / 製科所必選課程之一 / 製科所、機電所和",
+    "notes": "◎/ 限 26 人 / 製科所必選課程之一 / 製科所、機電所和",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605089",
     "syllabusLinks": []
   },
@@ -28851,7 +28793,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 40 人",
+    "notes": "◎/ 限 40 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006001",
     "syllabusLinks": []
   },
@@ -30247,7 +30189,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 26 人 / 請教務處安排教室 / 製科所、機電所和機",
+    "notes": "◎/ 限 26 人 / 請教務處安排教室 / 製科所、機電所和機",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605043",
     "syllabusLinks": []
   },
@@ -30727,7 +30669,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 30 人",
+    "notes": "*/ 限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605059",
     "syllabusLinks": []
   },
@@ -31113,7 +31055,9 @@
     "language": "　",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309801&code=10662"
+    ]
   },
   {
     "code": "C285023",
@@ -31296,7 +31240,9 @@
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309804&code=11396"
+    ]
   },
   {
     "code": "6505028",
@@ -31747,6 +31693,7 @@
     "notes": "先鋒 602",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02005",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309867&code=12035",
       "ShowSyllabus.jsp?snum=309867&code=11584"
     ]
   },
@@ -32477,8 +32424,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705509",
     "syllabusLinks": []
   },
@@ -32734,7 +32681,9 @@
     "language": "　",
     "notes": "三甲三乙、碩合",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05107",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310189&code=10662"
+    ]
   },
   {
     "code": "AB06049",
@@ -33000,5 +32949,116 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906737",
     "syllabusLinks": []
+  },
+  {
+    "code": "7925110",
+    "description": {
+      "zh": "本課程依物理處理技術、化學處理技術、生化處理技術以及高溫處理技術等四個方向介紹處理的基本原理與方法。",
+      "en": "This class divide the mineral processing into four categories, i.e., physical process, chemical process, biochemical process, and high temperature process.  The basic principles and processing techniques that can be applied to the mineral processing will be discussed extensively."
+    },
+    "id": "310204",
+    "name": {
+      "zh": "高等資源處理學",
+      "en": "Advanced Mineral Processing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資源所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2830",
+        "code": "2830"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李韋皞",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12279",
+        "code": "12279"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6",
+        "7"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "英語授課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=7925110",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310204&code=12279"
+    ]
+  },
+  {
+    "code": "4005200",
+    "description": {
+      "zh": "雷射乃 20 世紀三大發明之一，醫用雷射更已廣泛地應用在各個醫學領域。本課程將涵蓋的範圍包括：1. 雷射基本原理；2. 雷射安全標準；3. 雷射與組織的作用關係；4. 雷射在醫學的各種應用；5. 雷射於牙周病的應用；6. 雷射於口腔外科的應用；7. 雷射應用於牙齒美白；8. 低能量雷射的各種應用；9. 雷射實機操作與臨床示範。",
+      "en": "The laser is one of the three major items invented in 20th century.  Medical laser applications have been widely used in many fields.  This lecture will cover: 1. Laser Physics; 2. Safety Standards; 3. Laser-Tissue-Interaction; 4. Laser in Medical Applications; 5. Laser in Periodontology; 6. Laser in Oral Surgery; 7. Laser Assisted Bleaching; 8. Low Level Laser Therapy; 9. Practical Hands-on and Live Patient Demonstration."
+    },
+    "id": "310221",
+    "name": {
+      "zh": "雷射醫學的基礎與臨床應用",
+      "en": "Fundamental and Clinical Laser Applications"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2812",
+        "code": "2812"
+      },
+      {
+        "name": "機械自動化外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2838",
+        "code": "2838"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "柯俊宏",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23140",
+        "code": "23140"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "◎/ 機電所和機械自動化合開，全英文，限 50 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005200",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310221&code=23140"
+    ]
   }
 ]
