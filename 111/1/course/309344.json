@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "高立人",
+    "email": "ljkau@ntut.edu.tw",
+    "latestUpdate": "2022-06-05 00:41:41",
+    "objective": "本課程主要係介紹資料壓縮的原理以及當前幾項重要的壓縮標準。\n本課程內容將涵蓋以下主題\n01. 霍夫曼編碼\n02. 算數編碼\n03. 純量量化與向量量化\n04. 線性預測與預測編碼法\n05. 轉換編碼\n06. 分頻編碼法\n07. 小波編碼法\n08. 字典模式編碼法\n09. 主題探討",
+    "schedule": "00. 資料壓縮背景與原理（第 1 週）\n01. 霍夫曼編碼（第 2 週，第 3 週）\n02. 算數編碼（第 4 週，第 5 週，第 6 週，第 7 週）\n03. 純量量化與向量量化（第 8 週，第 9 週）\n04. 線性預測與預測編碼法（第 10 週，第 11 週）\nMidterm Exam.（第 12 週）\n05. 轉換編碼（第 13 週，第 14 週）\n06. 小波編碼法（第 15 週，第 16 週）\n08. 字典模式編碼法（第 17 週）\n09. Project presentation（第 18 週）",
+    "scorePolicy": "Homeworks:30%\nMidterm:40%\nFinal Project and Report:30%",
+    "materials": "Textbook:\nIntroduction to Data Compression, 3rd Edition, by Khalid Sayood, Morgan Kaufmann, 2005.\n代理商：東華書局\n聯絡人：儲方 先生\n電話：（02）2331-7856 或 0988-202210\n\nReferences:\n[1] Elements of Information Theory, Thomas and Cover\n[2] Vector Quantization and Signal Compression, Gersho and Gray\n[3] Digital Coding of Waveforms, Jayant and Noll",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n       本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div > 因應疫情採非實體上課之教學措施：\n01. 使用 Microsoft Teams 或 Google Meet 授課\n使用工具軟體與會議代碼：公佈於課程資訊網\n\n02. 課程資訊網：https://myweb.ntut.edu.tw/~ljkau</div>"
+  }
+]
