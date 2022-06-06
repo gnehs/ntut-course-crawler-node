@@ -21,7 +21,8 @@ async function getResp(url, retry = 0) {
             method: 'GET',
             url,
             responseType: 'arraybuffer',
-            reponseEncoding: 'binary'
+            reponseEncoding: 'binary',
+            timeout: 10 * 60 * 1000, // 10 minutes
         })
     }
     catch (e) {

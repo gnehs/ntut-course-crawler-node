@@ -28,8 +28,6 @@ jobs:
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
-    - name: Connect to Cloudflare warp
-      run: sudo bash <(curl -fsSL git.io/warp.sh) proxy
     - name: Install npm packages
       run: npm install
     - name: fetch course data
