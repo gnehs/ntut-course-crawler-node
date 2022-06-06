@@ -1408,7 +1408,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103064",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307669&code=12303"
+    ]
   },
   {
     "code": "3102093",
@@ -1818,7 +1820,9 @@
     "language": "　",
     "notes": "* 綜科 306",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307686&code=10551"
+    ]
   },
   {
     "code": "3603006",
@@ -2395,7 +2399,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3703016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307722&code=11225"
+    ]
   },
   {
     "code": "3703070",
@@ -2498,7 +2504,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3723013",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307724&code=12348"
+    ]
   },
   {
     "code": "3703054",
@@ -2812,7 +2820,9 @@
     "language": "　",
     "notes": "設計館 B01",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3863115",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307738&code=24377"
+    ]
   },
   {
     "code": "3863120",
@@ -2862,7 +2872,9 @@
     "language": "　",
     "notes": "設計館 B01",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3863120",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307741&code=23707"
+    ]
   },
   {
     "code": "4403006",
@@ -3665,7 +3677,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3002011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307776&code=12202"
+    ]
   },
   {
     "code": "3002025",
@@ -5304,7 +5318,9 @@
     "language": "　",
     "notes": "共同科館電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402092",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307816&code=23301"
+    ]
   },
   {
     "code": "4403053",
@@ -8043,7 +8059,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308132&code=11981"
+    ]
   },
   {
     "code": "5105006",
@@ -8612,7 +8630,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415210",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308198&code=11171"
+    ]
   },
   {
     "code": "5425608",
@@ -8663,7 +8683,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425608",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308210&code=10465"
+    ]
   },
   {
     "code": "5605002",
@@ -8882,7 +8904,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705472",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308253&code=11224"
+    ]
   },
   {
     "code": "5705501",
@@ -8945,7 +8969,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=308254&code=12185"
+      "ShowSyllabus.jsp?snum=308254&code=12185",
+      "ShowSyllabus.jsp?snum=308254&code=11117"
     ]
   },
   {
@@ -9066,6 +9091,7 @@
     "notes": "碩一必修；設計 106",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5806002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308287&code=12345",
       "ShowSyllabus.jsp?snum=308287&code=11540"
     ]
   },
@@ -9673,12 +9699,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1402",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=570",
+        "code": "570"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "日職合開",
+    "language": "英語",
+    "notes": "日職合開，先鋒 1402",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405138",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308473&code=11665"
@@ -9725,12 +9757,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=569",
+        "code": "569"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "先鋒 1401",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405155",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308474&code=11609"
@@ -9898,6 +9936,7 @@
     "notes": "排三教 206, 限本系生",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05103",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308484&code=11334",
       "ShowSyllabus.jsp?snum=308484&code=11533"
     ]
   },
@@ -10003,7 +10042,9 @@
     "language": "　",
     "notes": "排三教 308 日職碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308487&code=11334"
+    ]
   },
   {
     "code": "AC05321",
@@ -10479,7 +10520,8 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205004",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=308675&code=12171"
+      "ShowSyllabus.jsp?snum=308675&code=12171",
+      "ShowSyllabus.jsp?snum=308675&code=11117"
     ]
   },
   {
@@ -11179,6 +11221,7 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308686&code=11429",
       "ShowSyllabus.jsp?snum=308686&code=12246"
     ]
   },
@@ -11251,7 +11294,9 @@
     "language": "　",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308687&code=11224"
+    ]
   },
   {
     "code": "C225021",
@@ -11546,7 +11591,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=308693&code=11396"
+      "ShowSyllabus.jsp?snum=308693&code=11396",
+      "ShowSyllabus.jsp?snum=308693&code=12148"
     ]
   },
   {
@@ -13285,7 +13331,9 @@
     "language": "　",
     "notes": "共同科館電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401092",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308734&code=23301"
+    ]
   },
   {
     "code": "4402010",
@@ -15583,7 +15631,9 @@
     "language": "　",
     "notes": "電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105044",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309128&code=11453"
+    ]
   },
   {
     "code": "6105087",
@@ -15749,6 +15799,65 @@
     ]
   },
   {
+    "code": "A405005",
+    "description": {
+      "zh": "本課程將探討 (1) 智財商業模式與智財交易 (2) 英美契約法 (3) 智財授權契約規範 (4) 授權程序與稽核 (5) 技術合作契約 (6) 智財合資契約及章程",
+      "en": "This course will illustrate the following issues: (1) IP Business Model and IP Transactions, (2) Anglo-American Contract Law,  (3) Definition,  Regulation, Types & Management of IP License,  (4)License Agreement Auditing for Licensing Business, (5)  Technical Cooperation Contract, (6) IP Joint Venture Contract and Articles of Association."
+    },
+    "id": "309170",
+    "name": {
+      "zh": "國際智權契約與技術移轉",
+      "en": "International IP Agreements & Technology License"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2865",
+        "code": "2865"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳匡正",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11931",
+        "code": "11931"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1402",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=570",
+        "code": "570"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "日職合開，先鋒 1402",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405005",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309170&code=11931"
+    ]
+  },
+  {
     "code": "A405153",
     "description": {
       "zh": "本課程旨在介紹專利檢索及專利地圖的觀念，課程包含以下兩部分：一、為什麼需要進行專利檢索以及如何有效率地找到相關前案，二、如何建構專利地圖及相關資訊的應用。",
@@ -15789,12 +15898,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=569",
+        "code": "569"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "先鋒 1401",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405153",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309179&code=11968"
@@ -15841,12 +15956,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1402",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=570",
+        "code": "570"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "碩二",
+    "notes": "碩二，先鋒 1402",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405182",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309204&code=11928"
@@ -18424,14 +18545,22 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=569",
+        "code": "569"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "先鋒 1401",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405113",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309706&code=11150"
+    ]
   },
   {
     "code": "3861118",
@@ -18980,7 +19109,9 @@
     "language": "　",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309802&code=11832"
+    ]
   },
   {
     "code": "C215041",
@@ -19046,7 +19177,9 @@
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309803&code=12148"
+    ]
   },
   {
     "code": "C235013",
@@ -19373,7 +19506,9 @@
     "language": "　",
     "notes": "創創向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309810&code=11609"
+    ]
   },
   {
     "code": "1410103",
@@ -19735,7 +19870,9 @@
     "language": "　",
     "notes": "創創向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309817&code=23330"
+    ]
   },
   {
     "code": "1416018",
@@ -19939,7 +20076,9 @@
     "language": "　",
     "notes": "創創向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309821&code=23330"
+    ]
   },
   {
     "code": "1410101",
@@ -20249,7 +20388,9 @@
     "language": "　",
     "notes": "創創向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309827&code=23330"
+    ]
   },
   {
     "code": "1410169",
@@ -20355,7 +20496,9 @@
     "language": "　",
     "notes": "碩二必修，星期六 234，桃園集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309851&code=12148"
+    ]
   },
   {
     "code": "C205030",

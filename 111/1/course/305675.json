@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "李曉祺",
+    "email": "hcli@mail.ntut.edu.tw",
+    "latestUpdate": "2022-06-05 15:57:16",
+    "objective": "本課程涵蓋以下主題：\n1. 數字的進制轉換以及二進制表示方式\n2. 布林代數式與函數\n3. 數位電路化簡技巧，如卡諾圖與製表法\n4. 組合邏輯電路，如：加法器 / 減法器、比較器、多工器、邊 / 解碼器\n5. 可編程邏輯電路，如：唯讀記憶體 / 可編程唯讀記憶體（ROM / PROM）、可編程邏輯電路（PLD）、可編程邏輯陣列（PLA）\n6. 順序邏輯電路，如：狀態機\n\nIntroduce the principles of digital logic. Topics includes:\n1. Number representation, number bases and base conversions, and binary codes\n2. Boolean algebra and functions\n3. Combinational design techniques: K-maps, tabulation method\n4. Combinational logic circuits: adders/subtractors, comparators, multiplexors/demultiplexors, and decoders/encoders\n5. Programmable logic circuits: read-only memory/programmable read-only memory (ROM/PROM), programmable logic devices (PLD), and programmable logic arrays (PLA)\n6. Sequential logic circuits: state machine",
+    "schedule": "Week 1: Introduction\nWeek 2-3: Boolean Algebra &amp; Logic Gates\nWeek 4: Minterm &amp; Maxterm expansions\nWeek 5: Karnaugh Maps\nWeek 6: Quine-McClusky Method\nWeek 7: Multi-Level Gate Circuits\nWeek 8: Combinational Circuit Design and Simulation Using Gates\nWeek 9: Midterm Exam\nWeek 10: Multiplexers, Decoders, and Programmable Logic Devices\nWeek 11-12: Latches and Flip-Flops\nWeek 13-14: Registers and Counters\nWeek 15: Analysis of Clocked Sequential Circuits\nWeek 16-17: Derivation of State Graphs and Tables\nWeek 18: Final Exam",
+    "scorePolicy": "Homework 20%\nMidterm 30%\nFinal 35%\nAttendance 10%\nParticipation 5%",
+    "materials": "Charles H. Roth, Jr. and Larry L. Kinney, Fundamentals of Logic Design, Cengage, 7th Edition, 2013..",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n       本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div > 本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)\n\n若因 COVID-19 疫情影響將提供 Microsoft teams 線上同步教學。</div>"
+  }
+]
