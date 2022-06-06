@@ -29,7 +29,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-node-
     - name: Connect to Cloudflare warp
-      run: bash <(curl -fsSL git.io/warp.sh) proxy
+      run: sudo bash <(curl -fsSL git.io/warp.sh) proxy
     - name: Install npm packages
       run: npm install
     - name: fetch course data
