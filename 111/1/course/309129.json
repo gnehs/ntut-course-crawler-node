@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "陳金聖",
+    "email": "saint@ntut.edu.tw",
+    "latestUpdate": "2022-06-06 12:02:11",
+    "objective": "本課程涵蓋嵌入式工業視覺系統完整的開發內容，從機器視覺系統流程與演算法設計、嵌入式系統實作、函式庫封裝、人機介面設計、工業相機取像及車牌辨識案例分析。\n其中包含: \n1. 工業用機器視覺演算法 / 系統開發，並提供相關設計概念。\n2. API 設計與封裝。\n3. 嵌入式系統軟體實作：樹莓派開發環境介紹與基本程式設計。\n4. 車牌辨識案例與設計流程介紹。\n\n* 無相關背景的同學可透過課程的介紹，快速了解何謂嵌入式工業視覺系統。\n* 同學可從無到有，實際開發一套完整的嵌入式視覺系統 (需自行撰寫程式)。\n* 透過案例分析來學習工業用視覺系統的實務設計經驗。\n* 先由 PC 端設計演算法、API 及開發應用軟體，再移植至樹莓派上執行。",
+    "schedule": "Week 1:　　課程大綱、進度及評量標準 (加退選)\nWeek 2:　　機器視覺系統架構簡介、應用案例與市場分析\nWeek 3:　　影像分割 - 門檻值決定 - 區域分割\nWeek 4:　　影像分割 – 程式撰寫\nWeek 5:　　特徵抽取\nWeek 6:　　特徵抽取 – 程式撰寫\nweek 7:　　影像圖樣分類 \nWeek 8:   影像圖樣分類 – 程式撰寫\nWeek 9:　　期中報告 – 車牌辨識 (PC) \nWeek 10:　　 嵌入式視覺系統介紹 – 發展趨勢、平台介紹 (FPGA Zynq)\nWeek 11:　　 API 設計 (C/C++) 簡介\nWeek 12: 樹莓派 API 設計 – 設計概念\nWeek 13:　　樹莓派 API 設計 – 影像處理函式庫 \nWeek 14:　　樹莓派 GUI 介面開發 – 工業相機應用開發\nWeek 15:　　深度學習案例討論 –車牌辨識\nWeek 16:　　深度學習程式撰寫 –車牌辨識 \nWeek 17: 業師專題演講\nWeek 18: 期末報告\n(樹莓派視覺系統實機展示 – 車牌辨識)",
+    "scorePolicy": "(1)　　作業 (Homework) : 40%\n(2)　　期中報告 (Mid-term Report): 20%\n(3)　　期末專題報告 (Final Project): 40%",
+    "materials": "(1)　　Industrial Image Processing - Visual Quality Control in Manufacturing 2nd Edition, Christian Demant、Bernd Streicher-Abel and Carsten Garnica, Springer, 2013.\n(2)　　實驗及補充講義 (將置於北科 i 學園供學生自行下載)",
+    "foreignLanguageTextbooks": true,
+    "remarks": "\n       本學期原則採實體授課方式；<b > 因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n\n      (<a href=\"https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\" target=\"_blank\">https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw</a>)\n\n\n      <div > 以 Microsoft Teams 或是 Google meet 線上遠距教學 </div>"
+  }
+]
