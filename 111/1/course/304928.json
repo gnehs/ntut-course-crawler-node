@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "\n  徐  灝",
+    "email": "hjplus.design@gmail.com",
+    "latestUpdate": "2022-06-16 10:57:38",
+    "objective": "建築設計工作流程基於電腦輔助設計（CAD - Computer Aided Design）的技術發展，已經從紙本作為資訊主要載體轉變成數位檔案的形式來交換資訊，而近年開始將資訊載體從 2D 線稿檔案置入 3D 幾何模型，促進了建築資訊模型（Building Information Modeling - BIM）的誕生與推動。\n在 BIM 的工作流程中，亦有使用參數設計（Parametric design）或演算式設計（AAD - Algorithms aided design）來輔助、執行更複雜的設計方案。\n\n本課程分為三部分：\n1.　　以 Rhino3D 為主軸，建立作為資訊載體的幾何模型，並培養學生藉由 Rhino3D 自由的造型能力來思考及分析設計問題，並透過該軟體產出設計方案並展現設計決策。\n2.　　基於 Rhino3D 提供之平台，搭配外掛 VisualARQ 將 Rhino3D 產出的幾何模型進行加工，以資訊模型導向的工作流程建立專案模型，並利用該模型加速設計圖說產出。\n3.　　基於 Rhino3D 環境，搭配 Grasshopper 進行基礎的參數設計練習。\n\nbase on CAD (Computer Aided Design) developed, the information carrier of architectural design workflow has changed from paper to digital file also from 2D drawing file to 3D geometry model in recent years, which was promoted BIM developed.\nHere also using Parametric design and AAD (Algorithms aided design) method in BIM’s workflow to execute more complex design options.\n\nthe Crouse has 3 part：\n1.　　base on Rhino3D to modeling and using on design issue analyzation, design decision and salutation present.\n\n2.　　Exercise with VisualARQ, build a project based on information and improve efficiency of making architectural drawing.\n\n3.　　Getting Started with Grasshopper for basic parametric design exercises.",
+    "schedule": "1-6 週 Rhino3D 建模入門 | week1-6 Getting Started with Rhino3D modeling.\n7-12 週 VisualARQ 功能演練 | week7-12 Exercise with VisualARQ\n13-18 週 Grasshopper 參數設計入門 | week13-18 Getting Started with Grasshopper",
+    "scorePolicy": "課堂作業 | class assignment：30%\n期中考（作業） | midterm exam (or assignment)：30%\n期末考（作業） | final exam (or assignment)：40%\n本課堂將不定時點名，遲到視同曠課，不予補點；曠課一次扣學期總分 2 分。\nOccasionally cold call in class, late arrival will be considered truancy and no remedy, each truancy will deduct 2 points from the total grade of the semester.",
+    "materials": "Tedeschi, A., Wirz, F., &amp; Andreani, S. (2014). AAD, Algorithms-aided design: Parametric strategies using Grasshopper.",
+    "foreignLanguageTextbooks": true,
+    "remarks": "hjplus.design@gmail.com"
+  }
+]
