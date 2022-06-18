@@ -145,7 +145,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -197,7 +197,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -249,7 +249,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -525,7 +525,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -578,7 +578,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -815,7 +815,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -1081,7 +1081,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -1693,7 +1693,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306337&code=10431"
+    ]
   },
   {
     "code": "3735006",
@@ -1907,13 +1909,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306342&code=12096"
+    ]
   },
   {
     "code": "3736001",
@@ -1958,7 +1962,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2159,7 +2163,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -3251,6 +3255,11 @@
         "name": "能源所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2815",
         "code": "2815"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
       }
     ],
     "teacher": [
@@ -3283,7 +3292,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "能源所和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505203",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306544&code=22675"
@@ -3309,6 +3318,11 @@
         "name": "能源所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2815",
         "code": "2815"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
       }
     ],
     "teacher": [
@@ -3336,7 +3350,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "能源所和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505405",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306549&code=24305"
@@ -3362,6 +3376,11 @@
         "name": "能源所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2815",
         "code": "2815"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
       }
     ],
     "teacher": [
@@ -3389,7 +3408,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "電腦教室",
+    "notes": "電腦教室，能源所和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505509",
     "syllabusLinks": []
   },
@@ -3475,9 +3494,9 @@
     ],
     "teacher": [
       {
-        "name": "林志哲",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11786",
-        "code": "11786"
+        "name": "蔡銘修",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11212",
+        "code": "11212"
       }
     ],
     "time": {
@@ -3505,9 +3524,7 @@
     "language": "　",
     "notes": "電腦教室，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=306565&code=11786"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "4906005",
@@ -4201,7 +4218,7 @@
         "code": "277"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -4388,7 +4405,7 @@
         "code": "109"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -5082,7 +5099,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6260,7 +6277,7 @@
         "code": "476"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -6610,7 +6627,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6745,7 +6762,7 @@
         "code": "543"
       }
     ],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -7494,7 +7511,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "63",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -7612,7 +7629,7 @@
         "code": "528"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8583,7 +8600,7 @@
         "code": "399"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -8765,7 +8782,7 @@
         "code": "399"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9047,7 +9064,9 @@
     "language": "　",
     "notes": "日職材料所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815127",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307162&code=24181"
+    ]
   },
   {
     "code": "7815134",
@@ -9150,7 +9169,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -9208,7 +9227,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -9261,7 +9280,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -9685,7 +9704,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "4",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10055,7 +10074,7 @@
         "code": "451"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -10124,7 +10143,7 @@
         "code": "451"
       }
     ],
-    "people": "2",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -10188,7 +10207,7 @@
         "code": "451"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -10378,7 +10397,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -10563,7 +10582,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -10679,7 +10698,7 @@
         "code": "570"
       }
     ],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11326,7 +11345,7 @@
         "code": "462"
       }
     ],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11769,7 +11788,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "機電科博、機電博外生和機械自動化外生班合開",
+    "notes": "機電博。機電外生。機械自動化。能源與車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AG05001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307350&code=11368"
@@ -11963,6 +11982,58 @@
     ]
   },
   {
+    "code": "4406001",
+    "description": {
+      "zh": "專題報告，專題演講，研究小組討論 Case Study, Seminar",
+      "en": "Case Study, Seminar"
+    },
+    "id": "307388",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李春穎",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11368",
+        "code": "11368"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "機電博。機電外生。機械自動化。能源與車輛外生班合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307388&code=11368"
+    ]
+  },
+  {
     "code": "C525001",
     "description": {
       "zh": "專題報告、專題演講、研究小組討論",
@@ -12063,7 +12134,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307430&code=11401"
+    ]
   },
   {
     "code": "7407003",
@@ -12112,7 +12185,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12246,7 +12319,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -12310,7 +12383,7 @@
         "code": "315"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12369,7 +12442,7 @@
         "code": "433"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -12486,7 +12559,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "機電博。機電外生。機械自動化。能源與車輛及博外生合開",
+    "notes": "機電博。機電外生。機械自動化。能源與車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307481&code=11368"
@@ -12534,7 +12607,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12586,7 +12659,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12698,7 +12771,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12751,7 +12824,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "2",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13065,7 +13138,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307970&code=10843"
+    ]
   },
   {
     "code": "4205040",
@@ -13216,7 +13291,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13366,13 +13441,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308028&code=11937"
+    ]
   },
   {
     "code": "4405020",
@@ -13417,7 +13494,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13744,7 +13821,7 @@
         "code": "383"
       }
     ],
-    "people": "21",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14169,7 +14246,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14331,7 +14408,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14699,7 +14776,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "2",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14909,7 +14986,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15119,7 +15196,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15177,7 +15254,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308214&code=11936"
+    ]
   },
   {
     "code": "5705038",
@@ -17124,6 +17203,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308677&code=10431",
       "ShowSyllabus.jsp?snum=308677&code=10632"
     ]
   },
@@ -17336,7 +17416,10 @@
     "language": "　",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308680&code=11573",
+      "ShowSyllabus.jsp?snum=308680&code=11401"
+    ]
   },
   {
     "code": "C215028",
@@ -17545,7 +17628,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=308683&code=11505"
+      "ShowSyllabus.jsp?snum=308683&code=11505",
+      "ShowSyllabus.jsp?snum=308683&code=11573"
     ]
   },
   {
@@ -17909,7 +17993,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -18270,7 +18354,9 @@
     "language": "　",
     "notes": "日職材料所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815127",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308785&code=24181"
+    ]
   },
   {
     "code": "7815119",
@@ -18580,7 +18666,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -18935,7 +19021,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -18993,7 +19079,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -19104,7 +19190,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19226,7 +19312,7 @@
         "code": "551"
       }
     ],
-    "people": "1",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -19290,7 +19376,7 @@
         "code": "433"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -19465,6 +19551,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4507005",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308827&code=10870",
       "ShowSyllabus.jsp?snum=308827&code=11319"
     ]
   },
@@ -19931,7 +20018,7 @@
         "code": "315"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20004,7 +20091,7 @@
         "code": "139"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20037,6 +20124,11 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2814",
         "code": "2814"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
       }
     ],
     "teacher": [
@@ -20064,7 +20156,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "車輛所和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406101",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308891&code=10993"
@@ -20090,6 +20182,11 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2814",
         "code": "2814"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
       }
     ],
     "teacher": [
@@ -20117,7 +20214,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "車輛所和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505404",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308892&code=12236"
@@ -20143,6 +20240,11 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2814",
         "code": "2814"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
       },
       {
         "name": "機電博所",
@@ -20180,9 +20282,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "車輛所和機電博班 (含外生班) 合開",
+    "notes": "車輛所、機電博班 (含外生班) 和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406047",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308893&code=11937"
+    ]
   },
   {
     "code": "4406148",
@@ -20227,7 +20331,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20280,10 +20384,10 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "英語授課，日職車輛所、能源所、機電博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406112",
     "syllabusLinks": [
@@ -21407,7 +21511,7 @@
         "code": "170"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "中英雙語",
@@ -21471,7 +21575,7 @@
         "code": "94"
       }
     ],
-    "people": "30",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22078,7 +22182,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -22347,7 +22451,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -22397,7 +22501,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -22785,7 +22889,7 @@
         "code": "473"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22889,7 +22993,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23018,7 +23122,8 @@
     "notes": "資工所和人工智慧學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905190",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=309080&code=11427"
+      "ShowSyllabus.jsp?snum=309080&code=11427",
+      "ShowSyllabus.jsp?snum=309080&code=24446"
     ]
   },
   {
@@ -23307,7 +23412,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "45",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23371,7 +23476,7 @@
         "code": "50"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23564,6 +23669,11 @@
         "code": "2838"
       },
       {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2843",
         "code": "2843"
@@ -23601,11 +23711,11 @@
         "code": "46"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "◎/ 限 50 人 / 全英語 / 機電所、製科所和機械自動化班合開",
+    "notes": "◎/ 限 50 人 / 機電所、製科所、機械自動化班和能源車輛外",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605033",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309108&code=10581"
@@ -23696,6 +23806,11 @@
         "code": "2838"
       },
       {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2843",
         "code": "2843"
@@ -23737,7 +23852,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "◎/ 限 35 人 / 機電所和機械自動化班合開",
+    "notes": "◎/ 限 35 人 / 機電所、機械自動化班和能源車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309120&code=11584"
@@ -23786,7 +23901,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -23915,7 +24030,7 @@
         "code": "451"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -23974,7 +24089,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -24743,7 +24858,9 @@
     "language": "　",
     "notes": "土木館 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309153&code=11122"
+    ]
   },
   {
     "code": "4236077",
@@ -24800,7 +24917,9 @@
     "language": "　",
     "notes": "土木館 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236077",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309154&code=11122"
+    ]
   },
   {
     "code": "4215008",
@@ -25187,7 +25306,7 @@
         "code": "109"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26194,7 +26313,7 @@
         "code": "570"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26499,7 +26618,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26618,7 +26737,7 @@
         "code": "451"
       }
     ],
-    "people": "2",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -27011,13 +27130,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505208",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309257&code=11083"
+    ]
   },
   {
     "code": "4505205",
@@ -27115,7 +27236,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27168,7 +27289,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27227,7 +27348,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505208",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309261&code=11083"
+    ]
   },
   {
     "code": "4505601",
@@ -27277,13 +27400,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309262&code=10819"
+    ]
   },
   {
     "code": "A000001",
@@ -27333,7 +27458,7 @@
         "code": "400"
       }
     ],
-    "people": "1",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -27681,7 +27806,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -27792,7 +27917,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -28132,7 +28257,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28752,7 +28877,7 @@
         "code": "41"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -28874,7 +28999,7 @@
         "code": "528"
       }
     ],
-    "people": "2",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28926,7 +29051,7 @@
       ]
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28984,7 +29109,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -29026,6 +29151,11 @@
         "code": "2838"
       },
       {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2843",
         "code": "2843"
@@ -29061,7 +29191,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "◎/ 限 50 人 / 一般教室 / 機電所、製科所和機械自動化",
+    "notes": "◎/ 限 50 人 / 機電所、製科所、機械自動化和能源外生班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005026",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309499&code=12278"
@@ -29222,6 +29352,11 @@
         "code": "2838"
       },
       {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2841",
+        "code": "2841"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=111&sem=1&code=2843",
         "code": "2843"
@@ -29259,11 +29394,11 @@
         "code": "46"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "◎/ 製科所必選課程之一 / 機電所、製科所和機械自動",
+    "notes": "◎/ 製科所必選課程之一 / 機電所、製科所和外生班合",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309503&code=12202"
@@ -29338,7 +29473,7 @@
         "code": "50"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -29456,7 +29591,7 @@
         "code": "50"
       }
     ],
-    "people": "4",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -29727,11 +29862,6 @@
         "name": "楊心怡",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=11430",
         "code": "11430"
-      },
-      {
-        "name": "蔡銘修",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11212",
-        "code": "11212"
       }
     ],
     "time": {
@@ -29759,9 +29889,7 @@
     "language": "　",
     "notes": "碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=309544&code=11212"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "4907003",
@@ -29785,7 +29913,13 @@
         "code": "2816"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林志哲",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11786",
+        "code": "11786"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -29798,14 +29932,22 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同103A",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=454",
+        "code": "454"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "博二，授課教師新任所長",
+    "notes": "博二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4907003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309545&code=11786"
+    ]
   },
   {
     "code": "4906003",
@@ -29849,7 +29991,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -29901,7 +30043,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -30596,7 +30738,7 @@
         "code": "487"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -30756,7 +30898,9 @@
     "language": "　",
     "notes": "研二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309664&code=10914"
+    ]
   },
   {
     "code": "5605043",
@@ -31170,6 +31314,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309720&code=10870",
       "ShowSyllabus.jsp?snum=309720&code=11319"
     ]
   },
@@ -31321,7 +31466,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31646,7 +31791,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31766,7 +31911,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31835,7 +31980,7 @@
       ]
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31955,7 +32100,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -32075,7 +32220,7 @@
       ]
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -32528,7 +32673,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -32884,7 +33029,8 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=310041&code=11088"
+      "ShowSyllabus.jsp?snum=310041&code=11088",
+      "ShowSyllabus.jsp?snum=310041&code=12096"
     ]
   },
   {
@@ -33002,7 +33148,7 @@
         "code": "487"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -33263,7 +33409,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -33368,7 +33514,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -33421,7 +33567,7 @@
         "code": "460"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -33478,7 +33624,7 @@
         "code": "486"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -33698,7 +33844,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",

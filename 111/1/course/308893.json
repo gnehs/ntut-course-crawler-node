@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "\n  陳志鏗　Office Hours ",
+    "email": "ckchen0618@gmail.com",
+    "latestUpdate": "2022-06-17 11:29:16",
+    "objective": "本課程所為研究所課程，內容包括主動煞車控制系統介紹，將針對 ABS, TCS, ESP 及 SBC 煞車系統原理介紹，煞車系統及控制器之數學模式及設計等，應用實例介紹。\n\nThis course is designed mainly for senior/graduate students. The objective of this course is to introduce active braking control system, such as ABS, TCS, ESP and SBC background. The mathematical model of the system and its applications for the controller design of braking system are also included.",
+    "schedule": "1. Introduction to Active Braking Control Systems   (1 week)\n2. Introduction to ABS, TCS, ESP and SBC          (2 weeks)\n3. Control-oriented Models of Braking Dynamics (2 weeks) \n4. Braking Control Systems Design: Actuators with Continuous Dynamics (2 week)\n5. Introduction to Simulation Tools (1 week)\n6. Midterm test (1 week)\n7. Braking Control Systems Design: Actuators with Discrete Dynamics    (2 weeks) \n8. Longitudinal Wheel Slip Estimation (2.5 weeks) \n9. Mixed Slip and Deceleration Control (2.5 weeks) \n10. Final Project with Simulation (2 weeks) \n11. Final Test",
+    "scorePolicy": "Homework 20%\nMidterm test 25%\nFinal project 30%\nFInal Exam 25%",
+    "materials": "Text Book: S. M. Savaresi, M. Tanelli, Active Braking Control Systems Design for Vehicles, Springer, 2010\n\nReference Book: Brakes, Brake control and driver assistance systems: Function, Regulation and Components (Bosch Professional Automotive Information) 2015th Edition",
+    "foreignLanguageTextbooks": true,
+    "remarks": "Office Hours: Wednesday 14:00-17:00 (reference only)\nEmail: ckchen@ntut.edu.tw\nTEL: (02) 27712171 ext 3601"
+  }
+]
