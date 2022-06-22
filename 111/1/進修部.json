@@ -99,7 +99,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科428",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=179",
+        "code": "179"
+      }
+    ],
     "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7132,7 +7138,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4405059",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308033&code=22163"
+    ]
   },
   {
     "code": "4505008",
@@ -10346,6 +10354,7 @@
       "ShowSyllabus.jsp?snum=308653&code=11429",
       "ShowSyllabus.jsp?snum=308653&code=10821",
       "ShowSyllabus.jsp?snum=308653&code=10632",
+      "ShowSyllabus.jsp?snum=308653&code=11440",
       "ShowSyllabus.jsp?snum=308653&code=11537",
       "ShowSyllabus.jsp?snum=308653&code=11764"
     ]
@@ -10502,6 +10511,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308672&code=11429",
       "ShowSyllabus.jsp?snum=308672&code=10821",
+      "ShowSyllabus.jsp?snum=308672&code=11440",
       "ShowSyllabus.jsp?snum=308672&code=10938",
       "ShowSyllabus.jsp?snum=308672&code=11537",
       "ShowSyllabus.jsp?snum=308672&code=11764"
@@ -11215,7 +11225,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308683&code=11505",
-      "ShowSyllabus.jsp?snum=308683&code=11573"
+      "ShowSyllabus.jsp?snum=308683&code=11573",
+      "ShowSyllabus.jsp?snum=308683&code=11440"
     ]
   },
   {
@@ -18482,7 +18493,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005072",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309586&code=23780"
+    ]
   },
   {
     "code": "5105021",
@@ -19311,7 +19324,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309801&code=11505",
-      "ShowSyllabus.jsp?snum=309801&code=10662"
+      "ShowSyllabus.jsp?snum=309801&code=10662",
+      "ShowSyllabus.jsp?snum=309801&code=11440"
     ]
   },
   {
@@ -19555,7 +19569,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科328_1",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=401",
+        "code": "401"
+      }
+    ],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20387,7 +20407,13 @@
         "6"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同312(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=154",
+        "code": "154"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20763,6 +20789,7 @@
     "notes": "碩二必修，星期六 234，桃園集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309851&code=11440",
       "ShowSyllabus.jsp?snum=309851&code=12148"
     ]
   },
