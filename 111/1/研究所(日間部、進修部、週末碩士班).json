@@ -12218,6 +12218,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307431&code=11893",
       "ShowSyllabus.jsp?snum=307431&code=10632"
     ]
   },
@@ -13008,7 +13009,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科305",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=287",
+        "code": "287"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14122,7 +14129,9 @@
     "language": "　",
     "notes": "共同 302 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308105&code=21643"
+    ]
   },
   {
     "code": "4905571",
@@ -22117,7 +22126,7 @@
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "*/ 限 21 人 / 全英語 / 材料實驗 (B02)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005134",
     "syllabusLinks": [
@@ -27439,14 +27448,14 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
         "A",
         "B",
         "C"
       ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -27454,7 +27463,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "日職合開，6/22 改五 / 第 ABC 節",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309262&code=10819"
@@ -28361,7 +28370,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科502",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=292",
+        "code": "292"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34120,6 +34135,52 @@
     "language": "英語",
     "notes": "科研 823, 新聘專案教師，經管所 & IMBA&IMFI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705512",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5925105",
+    "description": {
+      "zh": "1. 電腦通訊網路簡介 2. 階層結構 3. 路由與交換技術 4. 流量與壅塞控制 5. 介質存取控制機制 6. 區域網路 7. 網路互連技術 8. 無線網路 9. 高速網路",
+      "en": "1.Introduction to Computer Communication Networks 2.Layered Structure 3.Routing and Switching Techniques 4.Flow and Congestion Control 5.Medium Access Control Mechanism  6. Local Area Networks 7. Network Interconnection 8. Wireless Networks 9. High Speed Networks"
+    },
+    "id": "310262",
+    "name": {
+      "zh": "電腦通訊網路",
+      "en": "Computer Communication Networks"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資工所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2823",
+        "code": "2823"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "8"
+      ],
+      "wed": [
+        "8",
+        "9"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "3",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "新聘，未到聘停開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5925105",
     "syllabusLinks": []
   }
 ]
