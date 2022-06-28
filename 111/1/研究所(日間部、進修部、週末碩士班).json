@@ -15397,8 +15397,8 @@
     "teacher": [
       {
         "name": "陳銘崑",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10361",
-        "code": "10361"
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24463",
+        "code": "24463"
       }
     ],
     "time": {
@@ -34199,6 +34199,51 @@
     "language": "　",
     "notes": "新聘，未到聘停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5925105",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5905205",
+    "description": {
+      "zh": "本課程除了介紹工業物聯網技術及工控資安原理之外，更著重在檢測工具的實際操作使用，例如: packet sniffer 等，並以國網中心所建置的 CDX 雲端資安攻防平台進行實作分析與演練，讓學生更了解技術原理的實際應用情境。課程內容包含：●工業控制與智慧製造概論●工業控制與智慧製造的威脅●工業物聯網潛在威脅 ●工控系統通訊協定●工業控制的資安風險評鑑●工控資安●工業控制系統開發安全標準●工業控制系統組件安全檢測標準",
+      "en": "This course aims to introduce security technologies of industrial control system, and mainly focuses on practical operations on learning security detection tools, such as packet sniffer, etc. The course will use the CDX cloud platform for practical exercises.  Industrial security analysis and drills allow students to better understand the practical applications of security for industrial control systems. Course contents including:●Introduction for industrial control & smart manufacturing●Threats to industrial control & smart manufacturing●Threats to industrial IoT●Industrial control system communication protocols●Industrial risk assessment●Industrial control system security●Security standards for industrial control systems●Security testing standards for industrial components"
+    },
+    "id": "310263",
+    "name": {
+      "zh": "工控資訊安全技術",
+      "en": "Security technology for Industrial Control System"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資工所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2823",
+        "code": "2823"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "新聘，未到聘停開，英文授課，資工四和資工所合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905205",
     "syllabusLinks": []
   }
 ]
