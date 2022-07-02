@@ -17391,11 +17391,6 @@
         "name": "林家振",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=24302",
         "code": "24302"
-      },
-      {
-        "name": "陳宗賢",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24304",
-        "code": "24304"
       }
     ],
     "time": {
@@ -17614,7 +17609,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同313(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=155",
+        "code": "155"
+      }
+    ],
     "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17973,8 +17974,8 @@
       },
       {
         "name": "陳銘崑",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10361",
-        "code": "10361"
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24463",
+        "code": "24463"
       }
     ],
     "time": {
