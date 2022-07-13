@@ -7342,56 +7342,6 @@
     ]
   },
   {
-    "code": "6105074",
-    "description": {
-      "zh": "課程主要內容介紹自動化科技之基礎知識與先進應用技術，並側重在自動化科技相關之專業知識。",
-      "en": "This course introduces the fundamental theories and advanced technologies in the field of automatic and advanced technologies. The topics covered mainly in the areas of automation technologies, and related research areas."
-    },
-    "id": "307008",
-    "name": {
-      "zh": "自動化科技特論（II）",
-      "en": "Special Topics on Automatic Technology（II）"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "自動化所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2825",
-        "code": "2825"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林顯易",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11449",
-        "code": "11449"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "6",
-        "7"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105074",
-    "syllabusLinks": []
-  },
-  {
     "code": "6105081",
     "description": {
       "zh": "本課程以講授工業用計算機網路中實體層、媒體存取控制與邏輯連結層為主。在實體層中，將討論到目前廣泛於工業上使用的實體媒介。在媒體存取控制上，則討論乙太網路，記號匯流排與記號環網路為主。媒體存取控制也包含目前廣泛於各類控制器上使用的控制區域網路 (CAN Bus)。在邏輯連結層上，主要討論路由器使用的路由協定與路由演算法。",
