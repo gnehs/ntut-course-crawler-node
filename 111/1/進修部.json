@@ -14553,7 +14553,13 @@
         "code": "2741"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃中人",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24468",
+        "code": "24468"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -18831,8 +18837,8 @@
     "teacher": [
       {
         "name": "李宗演",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11072",
-        "code": "11072"
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24470",
+        "code": "24470"
       }
     ],
     "time": {
@@ -18855,7 +18861,7 @@
     "notes": "碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=309663&code=11072"
+      "ShowSyllabus.jsp?snum=309663&code=24470"
     ]
   },
   {
