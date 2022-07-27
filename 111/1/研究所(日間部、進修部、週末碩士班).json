@@ -7706,70 +7706,6 @@
     ]
   },
   {
-    "code": "6505021",
-    "description": {
-      "zh": "先修課程：負責教授同意。   光學元件、光學系統、精密機械元件、精密機械系統、光機系統之實務設計與個案研究",
-      "en": "Optical elements, optical systems, elements of precision machinery, precision mechanical systems, optical machinery design and case study."
-    },
-    "id": "307030",
-    "name": {
-      "zh": "光機設計及實習",
-      "en": "Optical Machinery Designed Practice"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "光電所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2826",
-        "code": "2826"
-      },
-      {
-        "name": "電資外生所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2832",
-        "code": "2832"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳星佑",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24247",
-        "code": "24247"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "6",
-        "7",
-        "8"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "億光0935",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=529",
-        "code": "529"
-      }
-    ],
-    "people": "1",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "光電二三四、光電所和電資外生所合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6505021",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=307030&code=24247"
-    ]
-  },
-  {
     "code": "6505025",
     "description": {
       "zh": "先修課程：負責教授同意。1. 晶體結構與晶體缺陷 2. 光電材料的種類 3. 材料的光電特性 4. 發光元件 5. 檢光元件 6. 各種光耦合器",
@@ -33520,8 +33456,8 @@
     "time": {
       "sun": [],
       "mon": [
-        "7",
-        "8"
+        "8",
+        "9"
       ],
       "tue": [],
       "wed": [],
@@ -33529,7 +33465,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=490",
+        "code": "490"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
