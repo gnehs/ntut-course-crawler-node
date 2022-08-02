@@ -7517,7 +7517,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "綜三演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6506003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307018&code=11069"
@@ -12850,7 +12850,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓334e",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=473",
+        "code": "473"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18686,7 +18692,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教402(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=52",
+        "code": "52"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
