@@ -6145,7 +6145,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "碩士班",
+    "notes": "限碩士班加選（和博士班合開）",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306891&code=24424"
@@ -6305,7 +6305,13 @@
         "code": "2832"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "孫勤昱",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12387",
+        "code": "12387"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -6330,7 +6336,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "資工所和外生班，新聘資安 2 (若未到聘則停開",
+    "notes": "資工所和外生班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905104",
     "syllabusLinks": []
   },
@@ -6519,57 +6525,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=306916&code=11297"
     ]
-  },
-  {
-    "code": "5905173",
-    "description": {
-      "zh": "課程介紹雲端資訊計算與運用相關技術，使學生對雲端平台、架構、服務、程式設計有一全面性瞭解。課程內容包括： 1. 雲端儲存系統架構、儲存網路與虛擬化技術， 2. 業務持續運作儲存技術，3. 儲存架構安全與管理 ，4. 雲端排程技術、效能與安全，5. 虛擬化資料中心建置 - 虛擬計算、儲存、網路、桌面與應用，6. 雲端服務與管理，7. 雲端運算發展概論與企業應用，8. 大量資料運算及案例分析，9.Hadoop 與 Mapreduce，10. 雲端運算之 SaaS 架構，11. 實習課程與專題計畫。",
-      "en": "This course focuses on information storage management, infrastructure, service management, security, and migration strategy for Cloud computing as well as the practice of cloud application through readings, lectures, and class projects. Course topics include: 1. Storage Networking Technologies and Virtualization, 2. Business Continuity, 3. Storage Security and Management, 4. Cloud Scheduling, Performance and Security, 5. Virtualized Data Center building blocks - Virtual Compute, Storage, Network, Desktop, and Application, 6. Cloud Services and Management, 7. Cloud Computing Overview and Business Application, 8. Big Data Computing and Case Study, 9. Hadoop and Mapreduce, 10. Cloud SaaS, 11. Lab. and Final Project."
-    },
-    "id": "306923",
-    "name": {
-      "zh": "雲端運算與應用",
-      "en": "Cloud computing and application"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資工所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2823",
-        "code": "2823"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研1322e",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=476",
-        "code": "476"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "停開，加選者請退選【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905173",
-    "syllabusLinks": []
   },
   {
     "code": "6006002",
@@ -17442,6 +17397,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215028",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308681&code=23585",
       "ShowSyllabus.jsp?snum=308681&code=10988"
     ]
   },
@@ -19747,7 +19703,13 @@
         "code": "2842"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林惠勇",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12397",
+        "code": "12397"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -19766,7 +19728,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "資工所、電資外生班和人工學程合開，新聘 1 (若未",
+    "notes": "資工所、電資外生班和人工學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905141",
     "syllabusLinks": []
   },
@@ -22389,7 +22351,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "兼任，四 234",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905182",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309045&code=23328"
@@ -22422,7 +22384,13 @@
         "code": "2832"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳昱圻",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12385",
+        "code": "12385"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -22441,9 +22409,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "資工四、所和國際班合開，新聘 3 (若未到聘則",
+    "notes": "資工四、所和國際班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905202",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309046&code=12385"
+    ]
   },
   {
     "code": "5905203",
@@ -22472,7 +22442,13 @@
         "code": "2832"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳香君",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12386",
+        "code": "12386"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -22491,7 +22467,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "資工四、所和國際班，新聘資安 1 (若未到聘則停開",
+    "notes": "資工四、所和國際班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905203",
     "syllabusLinks": []
   },
@@ -22830,7 +22806,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "博士班",
+    "notes": "限博士班加選（和碩士班合開）",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5907002",
     "syllabusLinks": []
   },
@@ -22856,7 +22832,13 @@
         "code": "2823"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳昱圻",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12385",
+        "code": "12385"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -22881,9 +22863,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "新聘３(若未到聘則停開)",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905123",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309068&code=12385"
+    ]
   },
   {
     "code": "5211434",
@@ -28250,7 +28234,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=47",
+        "code": "47"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -28362,7 +28352,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=47",
+        "code": "47"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30751,7 +30747,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309659&code=23585"
+    ]
   },
   {
     "code": "3605001",
@@ -31785,7 +31783,13 @@
         "code": "2809"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "劉宇晨",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12399",
+        "code": "12399"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -34059,7 +34063,13 @@
         "code": "2823"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張世豪",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12384",
+        "code": "12384"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -34079,9 +34089,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "新聘，未到聘停開",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5925105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310262&code=12384"
+    ]
   },
   {
     "code": "5905205",
@@ -34105,7 +34117,13 @@
         "code": "2823"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張世豪",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12384",
+        "code": "12384"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -34124,8 +34142,10 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "新聘，未到聘停開，英文授課，資工四和資工所合開",
+    "notes": "英文授課，資工四和資工所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905205",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310263&code=12384"
+    ]
   }
 ]
