@@ -1281,7 +1281,13 @@
         "code": "2630"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "阮于軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12351",
+        "code": "12351"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -1308,7 +1314,9 @@
     "language": "　",
     "notes": "◎/ 阮于軒 (新聘) 訓四機三甲乙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3002014",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307658&code=12351"
+    ]
   },
   {
     "code": "3004009",
@@ -3426,7 +3434,13 @@
         "code": "2639"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳振耀",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22916",
+        "code": "22916"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -3574,7 +3588,13 @@
         "code": "2639"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林敬皇",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12391",
+        "code": "12391"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -5937,7 +5957,13 @@
         "code": "2758"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "阮于軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12351",
+        "code": "12351"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -5958,7 +5984,9 @@
     "language": "　",
     "notes": "阮于軒",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502608",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307829&code=12351"
+    ]
   },
   {
     "code": "1003002",
@@ -7181,7 +7209,13 @@
         "code": "2852"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林祐正",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11258",
+        "code": "11258"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8272,7 +8306,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8325,7 +8365,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8378,7 +8424,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8431,7 +8483,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8484,7 +8542,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9496,7 +9560,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9551,7 +9621,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9604,7 +9680,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12556,9 +12638,9 @@
       "tue": [],
       "wed": [],
       "thu": [
-        "A",
         "B",
-        "C"
+        "C",
+        "D"
       ],
       "fri": [],
       "sat": []
@@ -14284,7 +14366,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓427e",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=548",
+        "code": "548"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14390,7 +14478,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓427e",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=548",
+        "code": "548"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14496,7 +14590,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓427e",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=548",
+        "code": "548"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14884,7 +14984,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14942,7 +15048,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16218,7 +16330,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18559,7 +18677,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18774,7 +18898,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_2",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=109",
+        "code": "109"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21117,7 +21247,13 @@
         "code": "2639"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林敬皇",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12391",
+        "code": "12391"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -21843,7 +21979,13 @@
         "code": "2514"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12389",
+        "code": "12389"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
