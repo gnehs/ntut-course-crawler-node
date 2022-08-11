@@ -841,7 +841,13 @@
         "code": "2514"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12389",
+        "code": "12389"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -2784,6 +2790,11 @@
         "name": "陳人壽",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=23108",
         "code": "23108"
+      },
+      {
+        "name": "劉英彥",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24477",
+        "code": "24477"
       }
     ],
     "time": {
@@ -3623,7 +3634,9 @@
     "language": "　",
     "notes": "林敬皇老師 / 三四乙合開 / 科研 240",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03038",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=307770&code=12391"
+    ]
   },
   {
     "code": "1400028",
@@ -11838,7 +11851,9 @@
     "language": "　",
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=308689&code=24463"
+    ]
   },
   {
     "code": "C235011",
@@ -15716,7 +15731,13 @@
         "code": "2636"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "江原名",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24479",
+        "code": "24479"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
