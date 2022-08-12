@@ -1881,65 +1881,6 @@
     ]
   },
   {
-    "code": "3735011",
-    "description": {
-      "zh": "隨工業物聯網的快速發展，越來越多的感測數據得以被記錄，除了依賴專家的經驗判斷，更可藉由數據分析的結果提供決策上的輔助。本課程將介紹資料科學的基本分析架構，從問題定義、數據前處理、特徵工程、模型建立、結果解釋與評估等，除課堂講授資料科學工具與方法外，並利用作業、個案研究、案例資料，以訓練同學資料分析的能力與解決問題的經驗。",
-      "en": "With the advanced technology in Industrial Internet of Things, amount of sensors are installed to collect data during manufacturing production and service process. In addition to rely on domain knowledge, we can also construct a data-driven model and extract useful information and rule for decision support and management.. This course will introduce analytics framework of data science including problem definition, data preprocessing, feature engineering, model construction, and result evaluation and interpretation. In addition to lecture, this course also training students how to analyze the data and problem solving through homework, term project and case studies."
-    },
-    "id": "306342",
-    "name": {
-      "zh": "資料科學",
-      "en": "Data Science"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2811",
-        "code": "2811"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "許嘉裕",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12096",
-        "code": "12096"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "2",
-        "3",
-        "4"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同313(e)",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=155",
-        "code": "155"
-      }
-    ],
-    "people": "4",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "計中電腦教室",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3735011",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=306342&code=12096"
-    ]
-  },
-  {
     "code": "3736001",
     "description": {
       "zh": "本課程之目標在於建構產業分析之思維架構及洞悉市場發展之研究能力，以因應市場之快速變遷，並介紹學生瞭解總體經濟與產業景氣分析，公司經營財務報表分析，投資標的評價與技術分析。透過研究方法之介紹及預測手法之教導並輔以個案實作以達其效。",
@@ -6219,7 +6160,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教207(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=25",
+        "code": "25"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23625,7 +23572,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒401 (e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=553",
+        "code": "553"
+      }
+    ],
     "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27165,65 +27118,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105033",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309250&code=11113"
-    ]
-  },
-  {
-    "code": "5105021",
-    "description": {
-      "zh": "本課程旨在對非工程類科出身之研究生，做有系統基礎材料科學之建立。課程包括 (1) 原子鍵結與配位 (2) 晶體 [原子規律性](3) 固相中之不規律性 (4) 相平衡 (5) 材料微結構 (6) 反應速率 (7) 材料破壞學 (8) 導電材與半導材料 (9) 陶瓷材料 (10) 聚合物及複合材料",
-      "en": "This course is aimed at systematically introducing some important concepts of material engineering for students who were not an engineer training in their BS. The course covers (1)Atomic Bonding and Coordination (2)Crystal Structure (3)Disorder in Solid Phase (4)Phase Equilibria (5)Microstructures (6)Reaction Rate (7)Deformation and Fracture (8)Conducting and Semi-conducting Materials (9)Ceramic Materials (10)Polymer and Composites."
-    },
-    "id": "309251",
-    "name": {
-      "zh": "高等材料工學",
-      "en": "Advanced Material Engineering"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "高分所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2817",
-        "code": "2817"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳錦文",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12353",
-        "code": "12353"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "2",
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "紡織二樓_2",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=109",
-        "code": "109"
-      }
-    ],
-    "people": "5",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105021",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=309251&code=12353"
     ]
   },
   {
@@ -32112,7 +32006,9 @@
     "language": "　",
     "notes": "電機系新聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309793&code=12399"
+    ]
   },
   {
     "code": "C215038",
@@ -32416,7 +32312,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0935",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=529",
+        "code": "529"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32824,7 +32726,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒601 (e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=565",
+        "code": "565"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32990,7 +32898,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒602 (e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=566",
+        "code": "566"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
