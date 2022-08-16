@@ -4524,7 +4524,13 @@
         "2"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計251",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=456",
+        "code": "456"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -4594,7 +4600,13 @@
         "2"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計252",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=457",
+        "code": "457"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -4665,7 +4677,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計452",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=501",
+        "code": "501"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10413,11 +10431,6 @@
         "name": "王正豪",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=11297",
         "code": "11297"
-      },
-      {
-        "name": "陳俊豪",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12199",
-        "code": "12199"
       }
     ],
     "time": {
@@ -10444,11 +10457,10 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "計中電腦教室，IMBA&IMFI & 資財所， 王正豪老師 2 鐘點 陳",
+    "notes": "計中電腦教室，IMBA&IMFI & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05004",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=307235&code=11297",
-      "ShowSyllabus.jsp?snum=307235&code=12199"
+      "ShowSyllabus.jsp?snum=307235&code=11297"
     ]
   },
   {
@@ -10558,65 +10570,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405010",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=307245&code=11931"
-    ]
-  },
-  {
-    "code": "A405138",
-    "description": {
-      "zh": "在數位匯流的趨勢下，網際網路不但即將成為各種傳統媒體的聚集之處，同時也不斷衍生新型態的媒體傳播方式。有鑑於此，本課程目的即在探討數位匯流時代的智財法律議題。將由實際案例為主，輔以相關分析文章及法律規定的解析，帶領同學了解數位環境的特性、數位媒體形式與媒體內容的發展，同時針對著作權、隱私權等實用智慧財產權議題，讓同學了解、並具備分析數位時代的媒體趨勢、以及智財法律策略的能力。",
-      "en": "In the face of digital convergence, the internet seems will not only become the ultimate channel for all kinds of traditional media, but the birthplace of new types. In light of the challenges posed by the digital age, this course is aimed at helping students explore the IP legal issues with reference to the media evolution on the internet. It will begin with the introduction of the characteristics of the internet, the developments of the digital media formation and content, and followed by the discussions and analysis on the cases in the real life."
-    },
-    "id": "307257",
-    "name": {
-      "zh": "數位匯流與智財法律專題",
-      "en": "Intellectual Property Laws in the Age of Digital Convergence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智財所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2833",
-        "code": "2833"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "江雅綺",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11665",
-        "code": "11665"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "A",
-        "B",
-        "C"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=570",
-        "code": "570"
-      }
-    ],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "碩一",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405138",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=307257&code=11665"
     ]
   },
   {
@@ -16168,65 +16121,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305065",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=308467&code=23579"
-    ]
-  },
-  {
-    "code": "A405138",
-    "description": {
-      "zh": "在數位匯流的趨勢下，網際網路不但即將成為各種傳統媒體的聚集之處，同時也不斷衍生新型態的媒體傳播方式。有鑑於此，本課程目的即在探討數位匯流時代的智財法律議題。將由實際案例為主，輔以相關分析文章及法律規定的解析，帶領同學了解數位環境的特性、數位媒體形式與媒體內容的發展，同時針對著作權、隱私權等實用智慧財產權議題，讓同學了解、並具備分析數位時代的媒體趨勢、以及智財法律策略的能力。",
-      "en": "In the face of digital convergence, the internet seems will not only become the ultimate channel for all kinds of traditional media, but the birthplace of new types. In light of the challenges posed by the digital age, this course is aimed at helping students explore the IP legal issues with reference to the media evolution on the internet. It will begin with the introduction of the characteristics of the internet, the developments of the digital media formation and content, and followed by the discussions and analysis on the cases in the real life."
-    },
-    "id": "308473",
-    "name": {
-      "zh": "數位匯流與智財法律專題",
-      "en": "Intellectual Property Laws in the Age of Digital Convergence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職智財所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2865",
-        "code": "2865"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "江雅綺",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11665",
-        "code": "11665"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "A",
-        "B",
-        "C"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=570",
-        "code": "570"
-      }
-    ],
-    "people": "1",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "日職合開，先鋒 1402",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405138",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=308473&code=11665"
     ]
   },
   {
@@ -26672,11 +26566,6 @@
         "name": "王正豪",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=11297",
         "code": "11297"
-      },
-      {
-        "name": "陳俊豪",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12199",
-        "code": "12199"
       }
     ],
     "time": {
@@ -26700,8 +26589,7 @@
     "notes": "IMBA&IMFI & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05004",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=309218&code=11297",
-      "ShowSyllabus.jsp?snum=309218&code=12199"
+      "ShowSyllabus.jsp?snum=309218&code=11297"
     ]
   },
   {
@@ -31680,65 +31568,6 @@
     ]
   },
   {
-    "code": "A405187",
-    "description": {
-      "zh": "公平交易法是經濟憲法，也是維持市場交易秩序的根本大法。當現代企業與市場的結構愈趨複雜，公平交易法的角色也愈顯重要。本課程將以案例分析，帶領學生了解公平交易法的基本原則。最後，本課程將規劃呈現科技發展下的新興壟斷議題，帶領學生一起探討。",
-      "en": "The Fair Trade Act is often considered as the economic constitution also a set of fundamental rules to maintain the order of market. This Act is getting more and more important in the modern economy while the market is getting more and more chaotic and complicated. This course is designed for students who intend to understand the principles of the Fair Trade Act by case studies, and who is interested to learn about emerging technology monopoly issues."
-    },
-    "id": "309759",
-    "name": {
-      "zh": "科技壟斷與公平交易法",
-      "en": "Technology monopoly and Fair Trade Act"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智財所",
-        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2833",
-        "code": "2833"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "江雅綺",
-        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11665",
-        "code": "11665"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "2",
-        "3",
-        "4"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=111&sem=1&code=570",
-        "code": "570"
-      }
-    ],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "碩二",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405187",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=309759&code=11665"
-    ]
-  },
-  {
     "code": "3607002",
     "description": {
       "zh": "專題報告專題演講 研究小組討論",
@@ -34418,6 +34247,65 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905205",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=310263&code=12384"
+    ]
+  },
+  {
+    "code": "6105027",
+    "description": {
+      "zh": "使用 partakar  code ，Ansys ， Mold  flow ， C  Mold ， Phoneic  等其中軟體，來計算一維穩態，一維暫態，二維穩態，二維暫態，之熱傳導問題，邊界層之偶合性流場問題，燃燒場之數值計算，電子熱傳相關系統。",
+      "en": "By using software of Partankar Code, Ansys, Mold flow, C mold, and Phoneics parckage to compute the one dimension steady, are dimension unsteady, two dimension steady , two dimension unsteady heat conduction problems, boundary layer compling flow's problems,combustion calculations, electronic heat transfer problems."
+    },
+    "id": "310308",
+    "name": {
+      "zh": "電腦輔助熱流分析",
+      "en": "Computer Aided Heat Flow Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2812",
+        "code": "2812"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "阮于軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12351",
+        "code": "12351"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "5",
+        "6",
+        "7"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜科610",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=301",
+        "code": "301"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "◎/ 阮于軒 (新聘)/ 限 30 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105027",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310308&code=12351"
     ]
   }
 ]
