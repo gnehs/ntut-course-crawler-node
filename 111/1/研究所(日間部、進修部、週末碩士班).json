@@ -1437,6 +1437,58 @@
     ]
   },
   {
+    "code": "3705035",
+    "description": {
+      "zh": "針對學生之學習研究心得報告，集體討論，以訓練學生研究之能力。",
+      "en": "Case Study. Seminar. Group meeting.."
+    },
+    "id": "306316",
+    "name": {
+      "zh": "書報討論",
+      "en": "Journal Study and Discussion"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2811",
+        "code": "2811"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "黃瀅瑛",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11832",
+        "code": "11832"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "碩士班",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3705035",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=306316&code=11832"
+    ]
+  },
+  {
     "code": "1400510",
     "description": {
       "zh": "本課程目標在為本校碩博士班的同學做好英語終身學習的準備。確切學習要點：1.\t建立個人英文資料檔案 (含自傳、履歷、求職信件等)。2.\t學習如何運用媒體與英語雜誌及廣播持續不斷地自我提升英文程度。3.\t以活潑的上課方式 (唱歌、短劇、演講、講笑話等) 培養同學英語溝通表達的能力與膽量。4.\t以閱讀英語學習雜誌培養閱讀能力，並藉由內容的深入討論擴大視野，了解全球現勢與重要議題。",
@@ -10515,6 +10567,11 @@
         "name": "王正豪",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=11297",
         "code": "11297"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -26668,6 +26725,11 @@
         "name": "王正豪",
         "link": "Teach.jsp?format=-3&year=111&sem=1&code=11297",
         "code": "11297"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -26683,7 +26745,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同411(e)",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=383",
+        "code": "383"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
