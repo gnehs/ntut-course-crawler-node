@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "\n  廖元甫",
+    "email": "yfliao@ntut.edu.tw",
+    "latestUpdate": "2022-08-30 15:13:02",
+    "objective": "機器學習探討如何能由觀測到的資料中自我學習，自我進化，而能自動增進其處理效能。例如進行預測，特徵擷取，分類，模式辨認，決策，各種訊號處理，甚至建立人工智慧等等。本課程將介紹機器學習的基礎演算法、理論及工具。並讓學生嘗試在各種領域中實際實踐這些技術。課程內容包括：(a) 監督式學習（例如參數和非參數演算法、支持向量機和類神經網路等），(b) 無監督學習（例如群聚、降維和深度學習等）與 (c) 機器學習應用實例（例如語音信號處理，影像訊號處理，音訊訊號處理與自然語言處理，資訊擷取與資料搜尋等）。\nMachine learning studies how to automatically learn from observed data to improve the performance of prediction, information extraction, clustering, pattern recognition, decision making, signal processing and even artificial intelligence. This course will introduce fundamental algorithms, theories and their practical applications. The content will cover (a) supervised learning, such as parametric and non-parametric algorithms, super vector machines and neural networks, (b) unsupervised learning, for example, data clustering, dimension reduction and deep learning and (c) practical applications on speech, image, audio signal and natural language processing or information retrieval and search, etc.",
+    "schedule": "1. 課程簡介（Introduction）\n2. 監督式學習\n2.1 回歸（Regression \n2.2 分類器（Classifier）\n3. 非監督式學習\n3.1 降維 （Dimension Reduction）\n3.2 分群（Clustering）\n4. 強化式學習\n4.1 馬可夫決策過程（Markov decision process）\n4.2 Ｑ學習（Q-Learning）\n4.3 貪婪演算法（Greedy algorithm）\n5. 類神經網路架構\n5.1 多層式類神經網路\n5.2 卷積類神經網路\n5.3 遞迴類神經網路\n6. 機器學習工作環境\n6.1 Ubuntu/CUDA\n6.2 TensorFlow\n6.3 Pytorch\n7. Kaggle InClass Competition",
+    "scorePolicy": "線上 Kaggle 競賽（https://www.kaggle.com/）至少三次（包含繳交 Github 程式，競賽報告與上台報告方法與心得）100%",
+    "materials": "1. 自編講義\n2. 參考資料\n2.1 TensorFlow：https://www.tensorflow.org\n2.2 PyTorch：https://pytorch.org\n2.3 課外自習參考資料：https://speech.ee.ntu.edu.tw/~hylee/ml",
+    "foreignLanguageTextbooks": false,
+    "remarks": "課程 Line 群組，email"
+  }
+]
