@@ -45,6 +45,8 @@ async function fetchSyllabusData(url = 'ShowSyllabus.jsp?snum=292267&code=11710'
     materials: pangu($('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td > textarea').html().replace(/<br\s*[\/]?>/gi, "\n").replace(/\t/gi, "　　")),
     foreignLanguageTextbooks: !!$('body > p:nth-child(3) > table > tbody > tr:nth-child(7) > td').text().match(/使用外文原文書：是/),
   }
+  // remove name ends with "　教師諮商時間(Office Hours)"
+  res.name = res.name.replace(/　教師諮商時間\(Office Hours\)/, '')
   // get remarks
   let remarksText = $('body > p:nth-child(3) > table > tbody > tr:nth-child(8) > td').text()
   if (remarksText != '') {
@@ -58,7 +60,7 @@ async function fetchSyllabusData(url = 'ShowSyllabus.jsp?snum=292267&code=11710'
       covidDatas = covidDatas.map(x => x == ' ' || x == '' ? null : x)
 
       let covid19 = {
-        // if lv2 
+        // if lv2
         lv2Description: pangu(covidDatas[0]),
         courseScoreMethod: pangu(covidDatas[1]),
         // If distance learning or triage is implemented at the beginning of the semester
