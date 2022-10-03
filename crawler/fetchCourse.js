@@ -89,7 +89,10 @@ async function fetchCourse(matricKey = '日間部', year = 109, sem = 2) {
                 'fri': parseTime($($(this).children('td')[13]).text()),
                 'sat': parseTime($($(this).children('td')[14]).text()),
             },
-            classroom: parseLinks($($(this).children('td')[15]).children('a')),
+            classroom: parseLinks($($(this).children('td')[15]).children('a')).map(y => {
+                y.name = y.name.replace(/e$|\(e\)$/, '')
+                return y
+            }),
             people: $($(this).children('td')[16]).text().replace(globalRegexParse, ''),
             peopleWithdraw: $($(this).children('td')[17]).text().replace(globalRegexParse, ''),
             ta: parseLinks($($(this).children('td')[18]).children('a')),
