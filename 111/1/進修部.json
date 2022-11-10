@@ -783,7 +783,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "9",
+    "peopleWithdraw": "10",
     "ta": [],
     "language": "　",
     "notes": "",
@@ -2165,7 +2165,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "　",
     "notes": "",
@@ -18959,6 +18959,4446 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501505",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=309441&code=24135"
+    ]
+  },
+  {
+    "code": "5605008",
+    "description": {
+      "zh": "先修課程：負責教授同意介紹雷射加工之理論及實務，注重製程參數之研究，教導學生如何掌握製程，以達到精密製造的要求。內容包括雷射輔助製造程序、雷射加工設備、雷射加工原理、系統分析、實驗設計、雷射加工實例。",
+      "en": "Introducing theory and practice of laser material processing. Emphasizing the study of manufacturing factors. Letting the students know how to control manufacturing process, and fulfill the demand of precision manufacturing. The course content is : laser assisted manufacturing processes, facilities for laser material processing, the principles of laser material processing, system analysis, examples of laser material processing."
+    },
+    "id": "309490",
+    "name": {
+      "zh": "雷射加工技術",
+      "en": "Technology of Laser Material Processing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職機電所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2851",
+        "code": "2851"
+      },
+      {
+        "name": "職製科所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2859",
+        "code": "2859"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "莊賀喬",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11394",
+        "code": "11394"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=45",
+        "code": "45"
+      }
+    ],
+    "people": "46",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605008",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309490&code=11394"
+    ]
+  },
+  {
+    "code": "3003027",
+    "description": {
+      "zh": "先修課程：3002010 或負責教授同意。晶體結構、鋼之變態、相平衡原理、退火與正常化、淬火與回火、表面硬化處理、構造用鋼、工具鋼、其它鋼料及鑄鐵之熱處理。",
+      "en": "The contents of this course can be categorized as followings: 1. fundamental metallographic concepts.2. The effects of alloying elements in steel.3. Hardenability 4. General heat treatment processes: annealing, hardening, tempering, and normalizing. 5. Special heat treatment process : tool steels hardening and tempering. Quenching and tempering of constructional steels, case hardening, nitriding, carbonitriding, induction hardening, and flame hardening."
+    },
+    "id": "309491",
+    "name": {
+      "zh": "熱處理",
+      "en": "Heat Treatment"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四機四甲",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2508",
+        "code": "2508"
+      },
+      {
+        "name": "訓四機四乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2509",
+        "code": "2509"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林烜慶",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23478",
+        "code": "23478"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教403",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=53",
+        "code": "53"
+      }
+    ],
+    "people": "56",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "◎/ 限 50 人 / 訓四機四甲乙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3003027",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309491&code=23478"
+    ]
+  },
+  {
+    "code": "3722008",
+    "description": {
+      "zh": "近年來，網路社群迅速發展，電子商務經營已經是每個企業必要的市場競爭與顧客經營中，不可或缺的重要工具。因此，本課程中將以如何設計及管理其中的多媒體內容為課程主要內容。",
+      "en": "The content of this course will teach  how to design the multimedia in the e-commerce."
+    },
+    "id": "309541",
+    "name": {
+      "zh": "電商多媒體設計實務",
+      "en": "Multimedia Design in E-commerce"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管二丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2755",
+        "code": "2755"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張文華",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10418",
+        "code": "10418"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "2",
+        "3",
+        "4"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=156",
+        "code": "156"
+      }
+    ],
+    "people": "44",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3722008",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309541&code=10418"
+    ]
+  },
+  {
+    "code": "4906003",
+    "description": {
+      "zh": "中文概述：專題報告、專題演講、研究小組討論。",
+      "en": "Case study. Seminar. Group meeting."
+    },
+    "id": "309546",
+    "name": {
+      "zh": "專題討論",
+      "en": "Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2855",
+        "code": "2855"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "劉曉芬",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11040",
+        "code": "11040"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=118",
+        "code": "118"
+      }
+    ],
+    "people": "26",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "碩一 共同 302 室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309546&code=11040"
+    ]
+  },
+  {
+    "code": "4905581",
+    "description": {
+      "zh": "組織行為是採用分析的方法，了解研究解個體行為在個人、團體、組織三個層次中的行為表現，並應用相關學理知識提高組織效能，尤其將焦點放在如何提高員工的生產力、降低離職率與曠職率，增加滿意度等四個變項上。",
+      "en": "Organizational behavior (OB) is a field of research that investigates the impact that individuals, groups, and structure have on behavior within an organization, and then it applies that knowledge to make organizations work more effectively.  Specifically, OB focuses on how to improve productivity, reduce absenteeism and turnover, and increase employee citizenship and job satisfaction."
+    },
+    "id": "309547",
+    "name": {
+      "zh": "組織行為",
+      "en": "Organizational Behavior"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2855",
+        "code": "2855"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張仁家",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11049",
+        "code": "11049"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "C",
+        "D"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=118",
+        "code": "118"
+      }
+    ],
+    "people": "9",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "共同 302 室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4905581",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309547&code=11049"
+    ]
+  },
+  {
+    "code": "4906739",
+    "description": {
+      "zh": "探討遊戲式數位學習之相關原理、設計、以及實務應用。內容包括遊戲式數位學習之優點、特性、限制、科技、媒體、設計與發展、系統、實際案例、未來趨勢等。",
+      "en": "The course aims to explore advanced issues on game-based e-learning including its characteristics, advantages and limitations, technology and media involved, design and development, system and practical cases, and future trends, etc."
+    },
+    "id": "309550",
+    "name": {
+      "zh": "遊戲式數位學習專題研究",
+      "en": "Special Topic on Game-Based e-Learning"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2855",
+        "code": "2855"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蔡銘修",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11212",
+        "code": "11212"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同313",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=155",
+        "code": "155"
+      }
+    ],
+    "people": "14",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4906739",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309550&code=11212"
+    ]
+  },
+  {
+    "code": "AB01017",
+    "description": {
+      "zh": "本課程為財務會計領域之進階課程，針對已具初級會計學之學生深入講授財務會計之理論、觀念、方法及程序。本課程全面納入國際財務報導準則 (IFRS)，內容包括：介紹財務報導觀念架構、主要財務報表編製、講解資產負債表中有關資產、負債、股東權益以及現金流量表與租賃會計等，修習本課程可使學生對 IFRS 有全面整體了解及運用之能力。亦有助於將來參加會計乙級、記帳士及公務人員高考等證照考試。",
+      "en": "This course is an advanced course for financial accounting. It is to teach the financial accounting theory, concept, method and procedure for students with some basic accounting knowledge. The course covers all the materials to understand financial accounting based on IFRS. The course will help students for preparing advanced license examinations for accounting."
+    },
+    "id": "309559",
+    "name": {
+      "zh": "中級會計學",
+      "en": "Intermediate Accounting"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財一乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "邱瓊玲",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24060",
+        "code": "24060"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "6",
+        "7",
+        "8"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓235",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=465",
+        "code": "465"
+      }
+    ],
+    "people": "17",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "一甲一乙合",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB01017",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309559&code=24060"
+    ]
+  },
+  {
+    "code": "AB03019",
+    "description": {
+      "zh": "金融科技包含兩個字，金融與科技，是近年來新興的產業趨勢，影響的層面非常廣泛，不只是金融方面，更牽涉到新興科技與物聯網。本課程將從不同的角度分析金融科技的技術內容、應用領域及商業模式，並藉智慧財產權與國內外重要公司發展的得失做一介紹，希望達到了解並運用此新興科技的目的。",
+      "en": "FinTech includes two words: Finance and Technology. It is a new trend of industrial field. It has influence on lot of technical fields, not only finance, but also emerging technologies and IoT. This course will analyze FinTech from different angles, such as technology contents, application fields and business models. It also will utilize intellectual property and experience of FinTech leading companies to obtain decent knowledge of this new field."
+    },
+    "id": "309560",
+    "name": {
+      "zh": "金融科技",
+      "en": "Finance Technology"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財一乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳威震",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24433",
+        "code": "24433"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "7",
+        "8",
+        "9"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "六教626",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=446",
+        "code": "446"
+      }
+    ],
+    "people": "30",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03019",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309560&code=24433"
+    ]
+  },
+  {
+    "code": "AB03004",
+    "description": {
+      "zh": "本課程中包含下列主題：1. 簡介；2. 電子商店的行銷策略；3. 電子商店的建 置；4. 電子商店的經營與管理；5. 電子商店的法律問題；6. 案例介紹；7. 結論。",
+      "en": "In the course, the following topics will be discussed：1.Overview of EC；2.The marketing strategies of EC；3.How to install an EC；4.The management of EC；5.The current problems of EC；6.Cases study；7.Conclusion."
+    },
+    "id": "309562",
+    "name": {
+      "zh": "電子商務",
+      "en": "Electronic Commerce"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2518",
+        "code": "2518"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林永青",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24147",
+        "code": "24147"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "7",
+        "8",
+        "9"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "29",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "國際會議廳，9/14、1/11 綜三，9/21 共科 B1，1/11 綜三",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03004",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309562&code=24147"
+    ]
+  },
+  {
+    "code": "AB03045",
+    "description": {
+      "zh": "區塊鏈由比特幣為代表的 1.0，經過以太坊的智能合約為代表的 2.0，進入以設計超級帳本或結合物聯網、人工智慧的 3.0 階段。在各產業的應用也逐漸廣泛，已呈現多元研究及發展的面向，也代表產業型態將因為區塊鏈的發展而發生重大的變革。本課程在帶領學生了解區塊鏈的核心技術、特性，以及目前在各產業的應用實例，並透過從發行數字貨幣到撰寫智能合約的商業應用，看見區塊鏈未來的發展。",
+      "en": "Blockchain is represented by Bitcoin 1.0, and after 2.0 represented by Ethereum's smart contracts, it enters the 3.0 stage of designing a super ledger or combining the IoT and AI. The application in various industries is gradually becoming more and more extensive, and it has presented a multi-faceted research and development orientation. It also represents that the industry type will undergo major changes due to the development of the blockchain.This course leads students to understand the core technology and characteristics of blockchain, as well as current application examples in various industries, and sees the future development of blockchain through the commercial application from issuing digital currency to writing smart contracts."
+    },
+    "id": "309564",
+    "name": {
+      "zh": "區塊鏈應用設計",
+      "en": "Blockchain Applications"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財三乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "武桓宇",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24105",
+        "code": "24105"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=460",
+        "code": "460"
+      }
+    ],
+    "people": "35",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "三甲三乙合 / 科研 240",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03045",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309564&code=24105"
+    ]
+  },
+  {
+    "code": "4005072",
+    "description": {
+      "zh": "本課程說明知識的定義、知識的分類、產業知識的產生和移轉，進而探討知識的創新，並利用知識管理提升產業生產及營運的效率，產業應用知識管理的概況和案例",
+      "en": "This course is to explain definition of the knowledge, classification of the knowledge and generation and transfer of the knowledge. Moreover, the innovation of the knowledge will be discussed. Using knowledge management, it will improve the efficiency of the production and operation of the business. The applications and examples of the knowledge management will be included."
+    },
+    "id": "309586",
+    "name": {
+      "zh": "產業知識管理",
+      "en": "Knowledge Management on Industry"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職機電所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2851",
+        "code": "2851"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "戴元峰",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23780",
+        "code": "23780"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教211",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=44",
+        "code": "44"
+      }
+    ],
+    "people": "27",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005072",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309586&code=23780"
+    ]
+  },
+  {
+    "code": "5105021",
+    "description": {
+      "zh": "本課程旨在對非工程類科出身之研究生，做有系統基礎材料科學之建立。課程包括 (1) 原子鍵結與配位 (2) 晶體 [原子規律性](3) 固相中之不規律性 (4) 相平衡 (5) 材料微結構 (6) 反應速率 (7) 材料破壞學 (8) 導電材與半導材料 (9) 陶瓷材料 (10) 聚合物及複合材料",
+      "en": "This course is aimed at systematically introducing some important concepts of material engineering for students who were not an engineer training in their BS. The course covers (1)Atomic Bonding and Coordination (2)Crystal Structure (3)Disorder in Solid Phase (4)Phase Equilibria (5)Microstructures (6)Reaction Rate (7)Deformation and Fracture (8)Conducting and Semi-conducting Materials (9)Ceramic Materials (10)Polymer and Composites."
+    },
+    "id": "309657",
+    "name": {
+      "zh": "高等材料工學",
+      "en": "Advanced Material Engineering"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職高分所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2856",
+        "code": "2856"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳錦文",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12353",
+        "code": "12353"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=337",
+        "code": "337"
+      }
+    ],
+    "people": "8",
+    "peopleWithdraw": "1",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105021",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309657&code=12353"
+    ]
+  },
+  {
+    "code": "5705495",
+    "description": {
+      "zh": "本課程在於協助同學了解數位轉型的浪潮趨勢，以及適應新科技所改變的商業模式。課程將介紹創新的商業模式例如共享經濟、金融科技、線上至離線、使用者生成內容等平台模式應用。每個模式將會連結到實務中企業個案，以協助同學進一步深入了解與分析創新的模式概念。本課程將涵蓋數位轉型與創新模式的基本概念，以數位轉型與科技適應角度，透過實務案例來了解創新商業模式。",
+      "en": "This course aims to help students understand the trend of digital transformation and technology adaption in business models. The innovative business models will be introduced such as sharing economy, FinTech, online-to-offline, user-generated content, and so on. The matched cases will be selected to elaborate and analyze the innovative business models. This course will provide comprehensive knowledge of innovative business models by digital transformation and technology adaption (information and communication technology)."
+    },
+    "id": "309659",
+    "name": {
+      "zh": "數位轉型與創新商業模式",
+      "en": "Digital Transformation and Innovative Business Models"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂正欽",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23585",
+        "code": "23585"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=487",
+        "code": "487"
+      }
+    ],
+    "people": "25",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309659&code=23585"
+    ]
+  },
+  {
+    "code": "3605001",
+    "description": {
+      "zh": "專題報告專題演講 研究小組討論",
+      "en": "Case Study.Seminar.Group meeting."
+    },
+    "id": "309662",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "3",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職電子所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2850",
+        "code": "2850"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蔡偉和",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11248",
+        "code": "11248"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教508",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=65",
+        "code": "65"
+      }
+    ],
+    "people": "31",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "碩二",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309662&code=11248"
+    ]
+  },
+  {
+    "code": "3605001",
+    "description": {
+      "zh": "專題報告專題演講 研究小組討論",
+      "en": "Case Study.Seminar.Group meeting."
+    },
+    "id": "309663",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職電子所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2850",
+        "code": "2850"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李宗演",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24470",
+        "code": "24470"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=55",
+        "code": "55"
+      }
+    ],
+    "people": "44",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "碩一",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309663&code=24470"
+    ]
+  },
+  {
+    "code": "5105001",
+    "description": {
+      "zh": "本課程將透過每週專題演講方式，讓學生了解有機材料之最新開發成品或最先進之研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
+      "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area.  Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
+    },
+    "id": "309664",
+    "name": {
+      "zh": "專題討論",
+      "en": "Colloquy"
+    },
+    "stage": "3",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職高分所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2856",
+        "code": "2856"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張淑美",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10914",
+        "code": "10914"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "紡織二樓_2",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=109",
+        "code": "109"
+      }
+    ],
+    "people": "15",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "研二",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309664&code=10914"
+    ]
+  },
+  {
+    "code": "A405113",
+    "description": {
+      "zh": "以案例解析為主的方式，探究我國著作權法的重要課題，藉以協助同學了解審判實務適用法律的依據、判準或論證等，並適時補充國外相關學理、判決及著名案例等，以增進同學對國內外相關重要著作權案例之思辨及評析的能力。",
+      "en": "This is a course focused on case analyses, in studying important issues relating to Taiwanese Copyright Act. Graduate students joining this course may find help on comprehension of the basis, rules or argumentation to the laws applied in trial practice.  Together with timely supplementation of relevant foreign academic interpretations, adjudications and noted cases, students may improve their ability of contemplation and analysis on related and significant copyright cases home and abroad."
+    },
+    "id": "309706",
+    "name": {
+      "zh": "著作權法案例研究",
+      "en": "Case Study on Copyright Act"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2865",
+        "code": "2865"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李傑清",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11150",
+        "code": "11150"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "8",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "先鋒 1401",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405113",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309706&code=11150"
+    ]
+  },
+  {
+    "code": "3861118",
+    "description": {
+      "zh": "本課程提供學生與家具實務界交流的平台，邀請家具相關領域的專家進行專題演講，並提供相互研討交流的機會，藉此使同學瞭解家具產業界現況及未來學習的發展方向。",
+      "en": "This course provides students a platform for interacting with current furniture industry, through giving speeches from furniture relative field of industry experts. And provide opportunities for mutual discussions and exchanges. Thereby enabling students to understand the development of the furniture industry's current status and future direction of learning."
+    },
+    "id": "309710",
+    "name": {
+      "zh": "家具與設計講座 (一)",
+      "en": "Practice Forum of Furniture and Design (I)"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四設一",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2878",
+        "code": "2878"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳殿禮",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11275",
+        "code": "11275"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "設計B01",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=319",
+        "code": "319"
+      }
+    ],
+    "people": "30",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "設計 B01",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3861118",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309710&code=11275"
+    ]
+  },
+  {
+    "code": "3635043",
+    "description": {
+      "zh": "5G 行動通訊中的一個重要特色為使用毫米波頻帶，和傳統低於 6 GHz 的頻帶相比十分不同，使得 RF 元件從設計到量測都需要有不同的考量。本課程除介紹 5G 行動通訊的基本概念外，課程內容包含毫米波天線設計，以及電磁模擬軟體和量測儀器實務操作，希望能培養理論和實務兼備的學生。",
+      "en": "One important feature of 5G mobile communication is the use of millimeter-wave frequency bands, which are significantly different from conventional sub-6 GHz bands. Therefore, it is necessary to have different consideration from design to measurement of RF components. This course introduces the fundamental concepts of 5G mobile communication, millimeter-wave antenna design and operations of electromagnetic simulation software and test equipment. It is expected that this course can train students not only in theory but also in practice."
+    },
+    "id": "309711",
+    "name": {
+      "zh": "5G 行動通訊簡介與毫米波天線設計",
+      "en": "Introduction to 5G Mobile Communication and Millimeter-wave Antenna Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職電子所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2850",
+        "code": "2850"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鄭瑞清",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11682",
+        "code": "11682"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=22",
+        "code": "22"
+      }
+    ],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "◎日職合開，英語授課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3635043",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309711&code=11682"
+    ]
+  },
+  {
+    "code": "3603053",
+    "description": {
+      "zh": "1. 複數 2. 複函數 3. 諧和函數 4. 複數積分 5. 柯西積分理論 6. 複冪級數 7. 洛冉級數，餘數 8. 保角寫像",
+      "en": "1.Complex Numbers2.Complex Functions3.Harmonic Functions4.Complex Integration5.Cauchy Theory of Integration 6.Complex Power Series7.Laurent Series,Residues8.Conformal Mapping"
+    },
+    "id": "309712",
+    "name": {
+      "zh": "複變函數",
+      "en": "Complex Variables"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子三丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "8",
+        "9",
+        "A"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教301",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=26",
+        "code": "26"
+      }
+    ],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "◎電子三四甲乙與三丙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603053",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309712&code=11635"
+    ]
+  },
+  {
+    "code": "1400027",
+    "description": {
+      "zh": "課程重點：(1) 藉由適合其程度的教材加強學生必備的基礎文法觀念和句型結構；(2) 使學生確切把握閱讀要領以及充分瞭解寫作的各種技巧，重心在生字、片語、句法的解釋和基本寫作技巧的分析；(3) 熟悉英語人士日常生活情境及與學生將來就業環境相關之會話及適當之應對方式；(4) 透過練習加強聽、說、讀、寫的知能及表達。",
+      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to  familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
+    },
+    "id": "309760",
+    "name": {
+      "zh": "英文閱讀與聽講練習",
+      "en": "English in Practice"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "3",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "資財一乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "賀一平",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23248",
+        "code": "23248"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "7"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒604 ",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=568",
+        "code": "568"
+      }
+    ],
+    "people": "20",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "中 1",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309760&code=23248"
+    ]
+  },
+  {
+    "code": "3725008",
+    "description": {
+      "zh": "本課程介紹資料分析與圖示的工具與方法，包括如何以精確的模式來描述資料、利用各種指標與圖形來探索給定資料的特性、特徵、或是規律性，並且可以根據所建立的資料模型來進行估計與預測。此外，我們也將探討如何產生各種機率分布的隨機樣本，以及各種最佳化問題求解。本課程將以 R 程式語言為工具。",
+      "en": "This course introduces tools and methods for data analysis and graphics. The main topics include models that are used to describe data, indices and plots for exploring data characteristics and patterns, and estimation and prediction based on the data models. In addition, we discuss how to generate random sample from probability distributions and how to solve optimization problems. The selected tool for this course is R."
+    },
+    "id": "309788",
+    "name": {
+      "zh": "資料分析與圖示",
+      "en": "Data Analysis and Graphics"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2514",
+        "code": "2514"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "朴維鎮",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12101",
+        "code": "12101"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "8",
+        "9",
+        "A"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "工管四甲乙丙合開【停開】",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3725008",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309788&code=12101"
+    ]
+  },
+  {
+    "code": "3723061",
+    "description": {
+      "zh": "隨著網際網路的盛行，電子商務迅速地蓬勃發展，使得傳統的商店與行銷環境受到衝擊。資訊科技改變了消費習慣與行銷通路，電子商務的效應已經開始影響商業活動的每個層面，從新產品的開發、銷售、到售後服務均受影響，為企業帶來了無限商機。根據資策會的報告顯示，網際購物市場目前正進入高成長期。網際網路的消費觀念逐漸普及，消費者端的網路交易市集，亦成為未來重要的網路商機。不僅 B2C 市場（企業對消費者）極具潛力，網友個體戶的開店創業風潮（C2C）更是在蓬勃發中。面對網路商業的來臨，有著大量的網路商業的人才需求。只要有正確的網路商業經營獲利模式，網路是一個可以賺到大錢的管道，尤其低門檻、低成本的網路拍賣場更是最佳踏板。本課程講授網路創業及網路商業的必要實務經營能力，讓同學在本課程裡學得如何快速的以最少成本來 DIY 速成個人事業及就業的能力。",
+      "en": "Following the prevailing of the internet, the vigorous development e-commerce has given great impacts on traditional tangible stores and the whole marketing environments. Information Technology has not only changed our lives, but also changed consumers' behavior and marketing channels; and the e-commerce effect has already started to permeate into every stratum of business activities, including the exploitation, marketing, and after-sales service of new products, brings the industries infinite business chances. According to the reports of Institute for Information Industry, the market of internet shopping is going into its high development period, and there are a lot of chances to establish a new enterprise on the internet. So this course will teach about the internet entrepreneurial management."
+    },
+    "id": "309795",
+    "name": {
+      "zh": "網路創業與管理",
+      "en": "Internet entrepreneurial and management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2514",
+        "code": "2514"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "謝松益",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23467",
+        "code": "23467"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "8",
+        "9",
+        "A"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=156",
+        "code": "156"
+      }
+    ],
+    "people": "52",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3723061",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309795&code=23467"
+    ]
+  },
+  {
+    "code": "3713026",
+    "description": {
+      "zh": "本課程的主要目的在學習智慧營運管理的基本觀念與應用。課程內容包括：(1) 智慧營運管理基本概念、(2) 大數據分析與營運管理、(3) 人工智慧與營運管理、(4) 物聯網與營運管理、(5) 智慧製造與營運管理、(6) 智慧物流管理、(7) 智慧供應鏈管理、(8) 智慧生產規劃與排程、(9) 永續營運管理。",
+      "en": "This course will introduce basic concept and application of advanced operation management. The topics addressed in this course include: (1) Basic concept and application of intelligent operations management, (2) Big data analytic and operations management, (3) Artificial intelligence and operations management, (4) IoT and operations management, (5) Smart manufacturing and operations management, (6) Intelligent logistic management, (7) Intelligent supply chain management, (8) Intelligent production planning and scheduling, (9)Sustainable operations management."
+    },
+    "id": "309796",
+    "name": {
+      "zh": "智慧營運管理",
+      "en": "Intelligent Operations Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管三丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2635",
+        "code": "2635"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳子立",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12315",
+        "code": "12315"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "8",
+        "9",
+        "A"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=156",
+        "code": "156"
+      }
+    ],
+    "people": "13",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "工管三甲乙丙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3713026",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309796&code=12315"
+    ]
+  },
+  {
+    "code": "C215038",
+    "description": {
+      "zh": "本課程教授人工智慧技術的基礎理論與實務技巧，並對於人工智慧在製造業、服務業、金融業的應用，提供啟發性的基本認知與創意，以激發學生在人工智慧領域的創新應用。課程內容包括：人工智慧基礎、機器學習、大數據技術、深度學習、生成對抗網路、創業家思維、設計思考、商業模式、人工智慧與現代科技、工業 4.0、人工智慧的製造業應用個案、人工智慧的服務業應用個案、人工智慧的金融應用個案。",
+      "en": "This course aims to teach students the basic concepts and practical techniques of artificial intelligence and to introduce its applications on manufacturing, service, and finance industries. The course focuses on inspring students for innovative artificial intelligence applications. The course includes: artificial intelligence basics, machine learn-ing, big data, deep learning, generative adversarial network, entrepreneurial thoughts, design thinking, business models, artificial intelligence and modern technologies, industry 4.0, real case applications on manufacturing, service, finance industries."
+    },
+    "id": "309801",
+    "name": {
+      "zh": "人工智慧應用專題",
+      "en": "Artificial Intelligence Application Projects"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11505",
+        "code": "11505"
+      },
+      {
+        "name": "吳建文",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10662",
+        "code": "10662"
+      },
+      {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11440",
+        "code": "11440"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "classroom": [],
+    "people": "29",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 3) 工業與科技管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309801&code=11505",
+      "ShowSyllabus.jsp?snum=309801&code=10662",
+      "ShowSyllabus.jsp?snum=309801&code=11440"
+    ]
+  },
+  {
+    "code": "C285023",
+    "description": {
+      "zh": "本課程之目標在於介紹智慧機器人及 AR/VR 之知識領域相關議題，關於智慧機器人部分，主要包括：機器人學原理與分析方法、機器人的設計分析製造與應用、智慧機器人的歷史與未來的發展、機器視覺之原理與應用等；關於 AR/VR 部分，此概論課程將介紹 AR/VR 相關技術於現今智慧製造與服務業之應用，並展示 AR/VR 於不同工作環境設計之應用實例，如 VR/AR 軟硬體操作及體驗、各式追蹤系統介紹等等。",
+      "en": "This is an introduction course of intelligent robot and applications of augmented reality and virtual reality. The course is designed to provide the followings topics: 1. fundamentals of robotics and analytical methodologies, 2. design, manufacturing, and applications of robots, 3. the history and the future of intelligent robot, 4. fundamentals and practical applications of machine vision, 5. overview about AR and VR technology applied in smart manufacturing and service industries, 6. applications and examples of AR/VR, e.g. software and hardware design and operation, various tracking systems, etc."
+    },
+    "id": "309802",
+    "name": {
+      "zh": "智慧機器人與 AR/VR 應用專題",
+      "en": "Special Topics in Intelligent Robot and AR/VR Applications"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳子立",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12315",
+        "code": "12315"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "黃瀅瑛",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11832",
+        "code": "11832"
+      },
+      {
+        "name": "鄭辰仰",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11764",
+        "code": "11764"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "29",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 3) 工業與科技管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C285023",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309802&code=10988",
+      "ShowSyllabus.jsp?snum=309802&code=11832",
+      "ShowSyllabus.jsp?snum=309802&code=11764"
+    ]
+  },
+  {
+    "code": "C215041",
+    "description": {
+      "zh": "資訊安全以全面觀點說明執行完整的資訊與通訊安全管理所需考量的各個層面，課程包括：資訊安全管理國際標準、資訊安全政策與組織、人力資源安全、資產管理、存取控制、密碼學與金鑰管理、實體與環境安全、作業與通訊管理 系統獲取、開發及維護、供應商管理、資訊安全事故管理、營運持續管理之資訊安全層面、制度及法規的遵循",
+      "en": "Information Security provides a comprehensive view of information and communication security. This course content includes as follows: information security management international standards, information security policy and organization, human resource security, asset management, access control, cryptography and key management, physical and environmental security, operations and communication management system acquisition, development and maintenance, supplier management, information security incident management, operational sustainability management, information security aspects, systems and regulatory compliance."
+    },
+    "id": "309803",
+    "name": {
+      "zh": "資訊安全",
+      "en": "Information Security"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳牧恩",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11985",
+        "code": "11985"
+      },
+      {
+        "name": "鄭辰仰",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11764",
+        "code": "11764"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12173",
+        "code": "12173"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12148",
+        "code": "12148"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "classroom": [],
+    "people": "26",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 7) 資訊管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309803&code=11985",
+      "ShowSyllabus.jsp?snum=309803&code=11764",
+      "ShowSyllabus.jsp?snum=309803&code=12173",
+      "ShowSyllabus.jsp?snum=309803&code=12148"
+    ]
+  },
+  {
+    "code": "C235013",
+    "description": {
+      "zh": "本課程是教導學生金融科技的基本概念，使學生能夠建立金融科技的創新應用。內容包括：金融科技概論、金融科技商業模式、P2P 借貸、虛擬貨幣、雲端服務、第三方支付、群眾募資、P2P 匯兌、區塊鏈、跨境電商、程式交易、機器人理財與期末專題製做。",
+      "en": "This course is to instruct students the basic concepts of financial technology and to enable students to develop innovative applications of financial technology. The contents include introduction to financial technology, business models of financial technology, P2P lending, virtual money, third-party payment, crowd funding, P2P remittance, blockchain, cross-border e-commerce, program trading, and robotic financial advisory."
+    },
+    "id": "309804",
+    "name": {
+      "zh": "金融科技",
+      "en": "Financial Technology"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11396",
+        "code": "11396"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12173",
+        "code": "12173"
+      },
+      {
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12342",
+        "code": "12342"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "36",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 7) 資訊管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309804&code=11396",
+      "ShowSyllabus.jsp?snum=309804&code=12173",
+      "ShowSyllabus.jsp?snum=309804&code=12342"
+    ]
+  },
+  {
+    "code": "3004074",
+    "description": {
+      "zh": "先修課程：負責教授同意。  數位系統簡介，數字系統及編碼，基本邏輯操作，數位積體電路設計，布氏代數與卡諾圖，組合電路設計與應用，正反器，暫存器，順序電路設計與應用，計數器與計時器，多工器與解多工器，記憶體，微處理機架構簡介。",
+      "en": "Introduction to Digital Circuits, Digital Systems and Coding, Basic Logic Operations,  Boolean Algebra and K-Map, Combinational Logic Circuits, Flip-Flop, Register, Sequential Circuit Design and Applications, Counter  and Timer, Multiplexer and Demultiplexer, Shit Register and Memory, Introduction to Micro-processor."
+    },
+    "id": "309805",
+    "name": {
+      "zh": "邏輯設計",
+      "en": "Design of Logic Circuit"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四機四甲",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2508",
+        "code": "2508"
+      },
+      {
+        "name": "訓四機四乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2509",
+        "code": "2509"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳天輪",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22595",
+        "code": "22595"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "綜科328_1",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=401",
+        "code": "401"
+      }
+    ],
+    "people": "39",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "*/ 限 39 人 / 綜科 328-1",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3004074",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309805&code=22595"
+    ]
+  },
+  {
+    "code": "1410085",
+    "description": {
+      "zh": "首先介紹歌劇中音樂的元素、本質及角色，欣賞各時期不同類型之歌劇作品，繼由「世界三大男高音」看歌劇曲目的走向，吸引新生代同學對歌劇之響往，帶領愛樂者進入歌劇欣賞的境界。",
+      "en": "This one-semester course is designed to let students learn:  1.to approach to their first opera with open minds and open ears 2. to understand what opera is.  3. to know the essential elements of opera－composers and librettists,  singers, conductors, directors, as well as designs and expenses,...etc.. 4.to understand the development of opera 5.to appreciate opera through watching films of various kind 6.to be able to enjoy opera for the rest of their life."
+    },
+    "id": "309807",
+    "name": {
+      "zh": "歌劇欣賞",
+      "en": "Opera Appreciation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(一)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=348",
+        "code": "348"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳雪燕",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22465",
+        "code": "22465"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "四教103",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=71",
+        "code": "71"
+      }
+    ],
+    "people": "29",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410085",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309807&code=22465"
+    ]
+  },
+  {
+    "code": "1410192",
+    "description": {
+      "zh": "這 e 世紀時代的資訊交流是一個廣泛、多樣化與複雜的；究竟人們如何透過溝通表達意識與行為，卻變成非常重要。有效的溝通程度常視為學習溝通的指標，須視事實、竟見、感覺、嗜好和經驗進行徹底地交融與分享的結果。因此，本課程重視現代社會學習「溝通管理」的二項關鍵技術包括：有效溝通結合自我學習技巧和方法：商業知識與科技結合促成人的系統互動能力，配合多媒體傳輸工具完成學習個人與團體溝通效益。課程涵概主題：1. 溝通管理定義與本質元素。2. 溝通管理內涵分析。3. 學習個人溝通能力。4. 學習溝通程序。5.e 化自我學習技巧、方法與表達能力。6. 學習全球化溝通科技工具。7. 團隊溝通的策略與協同戰術。8. 塑造整體溝通文化。",
+      "en": "The information exchange is wide, variety, and complicated in the e-era; how do people express their consciousness and behavior turn to become very important. Effective communication degrees usually are seen as the index of learning communication. It depends on thoroughly melting and sharing with fact, opinion, feeling, interesting and experience. Therefore, \"Communication Management,\" in this course we emphasize on two key techniques of modern society learning including: effective communication with self-learning skill and method; Business knowledge and technology with interactive ability of human system. By using multimedia transmitting tools to complete self and group learning communication and get benefit.Course Subjects:1. Definition and essential element of Communication Management.2. Content analysis of Communication Management.3. Learn personal communication ability.4. Learn communication process.5. E-learning skill, method, and expression ability.6. Learn the technical tools"
+    },
+    "id": "309808",
+    "name": {
+      "zh": "溝通管理",
+      "en": "Communication Management"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(一)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=348",
+        "code": "348"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "羅彥棻",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22262",
+        "code": "22262"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教406",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=54",
+        "code": "54"
+      }
+    ],
+    "people": "19",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "社法向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410192",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309808&code=22262"
+    ]
+  },
+  {
+    "code": "1416021",
+    "description": {
+      "zh": "病毒可說是介於無生命和有生命之間的物質。它小至用光學顯微鏡看不見除非在電子顯微鏡下。儘管看不見卻無所不在，與人類關係異常密切。人類基因體約 8% 是從病毒來的。目前最難解決的傳染病問題也是由病毒引起。病毒結構看來似乎很簡單，但為了生存也進化出非凡的策略。人類從研究病毒得到非常多重要的知識和研究工具。讓我們能夠對分子、細胞和生物體的結構和功能得到更深地了解，進而對疾病問題得到解決。本課程將以深入簡出的方式讓同學認識病毒：從病毒的起源，病毒如何進入宿主細胞與複製，並在宿主群體間存活和傳播所必須具備的機制。通過一系列較具代表性的人類病毒為例子進行介紹病毒複製的基礎、人類與病毒的相互作用以及如何導致疾病。同時認識人體 4006 的孼疫系統如何對抗病毒。了解為什麼新興病毒的出現並造成疫情。人類應如何應對。最後介紹兩種不尋常的傳染因子 - 類病毒和狂牛病蛋白。它們與病毒似乎都是在生命起源中在化學演化時期殘留下來的分子。",
+      "en": "Virus is between life and no-life substances. It is Invisible to the naked eye unless under an electron microscope. However, virus is existed everywhere and has a very close relationship with humans. 8% of the human genome comes from viruses. At present, the most difficult to solve infectious disease problem is caused by virus. Although the structure and composition seems simple, virus has evolved an extraordinary strategy for survival. Virology enable us to insight the structure and function of molecules, cells, and organisms. From studying virus, people has gained a lot of important knowledge and research tools, which help people solving disease problems. This course will emphasize the mechanisms necessary for the virus to successfully enter and reproduce in the host cell, and survive and spread in the host population. Through a series of representative examples of human viruses, I will introduce the general basis of virus replication, the interaction between the virus and the host,"
+    },
+    "id": "309809",
+    "name": {
+      "zh": "病毒學概論",
+      "en": "An introduction to virology and unusual infectious agents"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(一)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=348",
+        "code": "348"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李立緯",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23992",
+        "code": "23992"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教411",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=58",
+        "code": "58"
+      }
+    ],
+    "people": "22",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "自然向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1416021",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309809&code=23992"
+    ]
+  },
+  {
+    "code": "1418005",
+    "description": {
+      "zh": "本課程教導學生了解新創事業在智慧財產權與專利管理的基本知識，課程的教導將朝下列方向進行: (1) 新創事業智慧財產權的基本觀念與實務， (2) 專利資訊分析，(3) 專利演化與發展 ，(4) 創意產出，(5) 專利申請與保護 (6) 專利佈局 (7) 專利侵權鑑定 (8) 專利迴避設計 (9) 案例討論與分析。",
+      "en": "This course teaches students Intellectual Property Rights and patent management for Entrepreneurship. The course includes topics as follows: (1) Basic knowledge and practices of Entrepreneurship Intellectual Property Rights; (2) The analysis of patent information; (3) The evolution and development for patent; (4) Innovative idea generation; (5) Application and protection of patent (6) Patent strategy (7) Patent violation，(8) Patent avoidance，(9) Cases study."
+    },
+    "id": "309810",
+    "name": {
+      "zh": "新創事業與專利",
+      "en": "Entrepreneurship and Patents"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(一)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=348",
+        "code": "348"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "郭宏杉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11609",
+        "code": "11609"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=50",
+        "code": "50"
+      }
+    ],
+    "people": "12",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創創向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1418005",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309810&code=11609"
+    ]
+  },
+  {
+    "code": "1410103",
+    "description": {
+      "zh": "植物與人類生活息息相關，人類選擇植物加以栽培生產，用來提供食、衣、行、及健康所需，而農耕的發達則與人類文化及社會的演變互相影響。本課程將由各種不同角度介紹，包括植物特性、栽培管理技術、自然環境、地理、人文、社會、政治、經濟等方面，與植物生產的關係。主旨希望同學能了解人類與植物間相依相存的關係，並進一步關懷人類、植物、與自然環境之間的相處之道。",
+      "en": "Plants supply major food for all kinds of living organisms.  This lecture is prepared to introduce the relationship between the crop plant and modern food  production.  The whole spectrum will be viewed from the aspect of the chacteristics of platns, the nature environment, science, human civilization, society, politics and economics, etc..  Hope students can concern and respect the mutuality between plants and human."
+    },
+    "id": "309811",
+    "name": {
+      "zh": "植物與糧食",
+      "en": "Plants and Food Production"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=577",
+        "code": "577"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "施宛君",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22640",
+        "code": "22640"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教205",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=23",
+        "code": "23"
+      }
+    ],
+    "people": "37",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "自然向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410103",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309811&code=22640"
+    ]
+  },
+  {
+    "code": "1410167",
+    "description": {
+      "zh": "西藥及中草藥是中華民族的傳統藥，也是中國藥學寶庫的重組成成分，中草藥包括中藥、草藥（即民間藥）以及少數民族地區使用的民族藥，在中國，使用中草藥防病治病已有數千年之歷史，寶鑑證明，中草藥療效確切，副作用較合成中藥少，力來深受群眾喜愛。當前，人類健康需要傳統醫藥之觀點正為越來越多之國家和人民接受，開發傳統要已成為當今藥物發展的潮流。同時，近年來科學研究成果表明，從中草藥發展出療效好，毒性低的新藥是一條成功的捷徑。因此，學習中草藥之人員日漸增加。本課程共分：西藥概論、中草藥概論、內科中草藥、兒科中草藥、男科中草藥、婦科中草藥、美容養生中草藥等。",
+      "en": "The Drugs on Life is a two credit hours course and design especially for technology students. This curriculum emphasizes on the clinical applications and action mechanisms of various western and Chinese drugs. The curriculum trends will start from more details and bring a completely concepts. The subjects include neuropharmacology, autacoids, cardiovascular drugs, analgesics, anaethesia and drugs actiong on the central nervous system, chemotherapy of microbial disease and neoplastic disease, hormones and hormone antagonists, drugs acting on the blood and some Chinese drugs."
+    },
+    "id": "309812",
+    "name": {
+      "zh": "藥學與生活",
+      "en": "Drugs on Life"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=577",
+        "code": "577"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林靖哲",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22367",
+        "code": "22367"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教203",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=21",
+        "code": "21"
+      }
+    ],
+    "people": "48",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "自然向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410167",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309812&code=22367"
+    ]
+  },
+  {
+    "code": "1410088",
+    "description": {
+      "zh": "法學概論，顧名思義是在介紹法律原理，以啟發學生法學研究的興趣。然而，法學涵蓋的層面甚廣，法學緒論的課程，只能大略介紹各種法律的共通原理，就繁駁的法律現象，作綜合的引說，俾使初學法律的人，不僅能粗知「實定法」的共通原則，還可藉此原則來培養法律見解和修養，執簡馭繁，因而體會法律的性質、內涵和理念。有關本課程的教授方式，擬先介紹法律的基概念及原理，並以答問之方式訓練學生邏輯反思的能力，同時輔以日常屢見之法律實例問題。如此，學生不僅可以可以學習正確的法律觀念和知識，並可培養縝密思辨的能力，將課堂上所習得的知識應用落實在日常生活中，以達保障並維護自己及他人權益之目的。",
+      "en": "Introduction of Law is to introduce the theory of law and to promote students' interest to study law. Since the field of law is very broad but the time is limited, this course can briefly explain common principles of law, complex phenomena of law, etc. The main purpose of this course is to let students catch the concept of common principles of \"lex scripta.\"  Also, this course aims to promote students' knowledge about law, thus cultivating their spirit of abiding by law.  This course will introduce the basic concept and theory of law first. Then students will be given logical training through discussion.  Besides, the general cases and problems of law will be covered as well. Through this course, students can not only get correct concepts of law, but learn to protect their/others' right."
+    },
+    "id": "309813",
+    "name": {
+      "zh": "法學概論",
+      "en": "Introduction to Law"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=577",
+        "code": "577"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李柏毅",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24295",
+        "code": "24295"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教206",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=24",
+        "code": "24"
+      }
+    ],
+    "people": "32",
+    "peopleWithdraw": "1",
+    "ta": [],
+    "language": "　",
+    "notes": "社法向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410088",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309813&code=24295"
+    ]
+  },
+  {
+    "code": "1410082",
+    "description": {
+      "zh": "本課程以培養學生尊重與欣賞不同族群、不同時空、不同價值觀所產生的音樂而設。藉由對音樂元素、本質的認知及介紹，欣賞各時期作曲家之代表作品，培養西方音樂的基本常識，建立音樂欣賞的專業態度。教學目標：1. 提高學生音樂欣賞的素養，充實其音樂生活的內涵，2. 激發學生對音樂的興趣，培育愛樂人口，增進社會祥和的原動力，3. 介紹古今中外音樂名家名作，啟發學生對音樂創作的認知與敬重，4. 建立學生對古典音樂、民族音樂、應用音樂及通俗音樂等不同類型音樂的正確認知與包容力，培養世界性的音樂觀。授課內容：1. 概論，2. 歌樂，3. 器樂，4. 儀式音樂，5. 舞蹈音樂，6. 戲劇音樂。",
+      "en": "This course aims to cultivate students' ability to appreciate music of different ethnic groups, different time and place, different value systems. Through the introduction of basic music elements as well as the appreciation of the masterpieces of various composers, it is hoped that students will build up basic music knowledge about music and enhance professional music appreciation potentiality in music. The goals include: 1. Elevating students' capability in music appreciation 2. Inspiring students' interest in music with a view to improving our society into a harmonious world. 3. Introducing domestic and international famous composers' pieces 4. Touring of various forms of music: classical, ethnic, applied and popular music. Contents of this course include: 1.Introduction 2. Vocal music 3. Instrumental music 4. Ritual music 5. Dance music 6. Theatre music"
+    },
+    "id": "309814",
+    "name": {
+      "zh": "音樂欣賞",
+      "en": "Music Appreciation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(三)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=578",
+        "code": "578"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蔡佩青",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=20716",
+        "code": "20716"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同606",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=98",
+        "code": "98"
+      }
+    ],
+    "people": "28",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410082",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309814&code=20716"
+    ]
+  },
+  {
+    "code": "1412013",
+    "description": {
+      "zh": "人類從尚未有文字的歷史以來，就有各種不同規模的戰爭，戰爭很吊詭的以你死或我亡，相互毀滅之態勢，爭奪「活著」的條件。古今中外，爆發戰爭的因素或為爭奪領土、權位、或為族群之戰、為意識形態之戰、或為物質資源之爭奪。在視覺影像發達的今日社會，有關戰爭的歷史影像的紀錄片與劇情片數量龐大、並有許多可觀之處。本課程將利用這些描寫戰爭影像資料，帶領同學瞭解相關戰爭與戰役爆發的歷史及其經過。",
+      "en": "Throughout human history, even prior to written record, various types of warfare and scales of battles have existed for various purposes of domination or survival by all means of cruelty and destruction. The arousal of violent conflicts might be an attempt at fighting for territorial dominion or material resources economically or altering another species ideologically. In today's modern societies, bountiful documentaries and films concerning historical warfare have been accumulated. This course will aim at giving students a broad understanding and profound knowledge of the causes, process, and effects of significant warfare in human history with the aid of visual images in different media."
+    },
+    "id": "309815",
+    "name": {
+      "zh": "戰爭影像與戰爭史",
+      "en": "War in images and history"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(三)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=578",
+        "code": "578"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "許進發",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23670",
+        "code": "23670"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教201",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=333",
+        "code": "333"
+      }
+    ],
+    "people": "52",
+    "peopleWithdraw": "1",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1412013",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309815&code=23670"
+    ]
+  },
+  {
+    "code": "1416009",
+    "description": {
+      "zh": "本課程名稱為 “環境與自然保育” 。它包括二大範疇：(1) 自然環境和自然資源的保育，(2) 自然環境的保存、維護、利用、復原及改良。它將教導學生下列主題：自然保育的基本概念（自然保育的定義、自然保育觀念的發展）、保育生物學（物種形成和滅絕、生物多樣性、物種保護的優先原則、生物入侵）、生態經濟學簡介（生態經濟學的原則、能量流與物質流分析）、自然保護區（自然保護區之概念、自然保護區的保護對象）、自然保育政策（國際自然保育策略、台灣的自然保育機構及相關法規）與自然保育運動（自然保育運動之發展、當前自然保育運動所關心的事）。整體而言，本課程期盼提升公民生態意識和環境覺知，使大家對環境保育做出更多貢獻。",
+      "en": "The title of this course is “Environment and Nature Conservation”. It includes two categories: (1) conservation of the natural environment and natural resources, and (2) the preservation, maintenance, restoration and improvement of the natural environment. It will introduce to students the following themes: basic concepts of nature conservation, conservation biology, introduction to ecological economics, nature reservation, nature conservation policy, and nature conservation movement. As a whole, it aims to raise our citizens’ ecological consciousness and environmental awareness and thus enable them to make more contribution to the conservation of our environment."
+    },
+    "id": "309816",
+    "name": {
+      "zh": "環境與自然保育",
+      "en": "Environment and Conservation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(三)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=578",
+        "code": "578"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "楊文龍",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=20778",
+        "code": "20778"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教503",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=60",
+        "code": "60"
+      }
+    ],
+    "people": "44",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "自然向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1416009",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309816&code=20778"
+    ]
+  },
+  {
+    "code": "1418001",
+    "description": {
+      "zh": "新創事業面臨許多的挑戰，包括：避孼與大企業競爭，找到存活的依據、從無到創立強勢品牌、創立或擴張自有市場 / 消費者據點等。本課程旨在啟發修課同學創業的興趣並協助修課同學思考新創事業如何平衡有限資源以迎向挑戰。新創企業已發展成熟的企業是不一樣，主要是因為新創事業的資源有限，創業家必須同時兼顧許多面向並回應顧客所需。本課程旨在協助修課同學思考創建企業應注意的各種面向評估自己的創能力。課程包含了三大部份，第一部份為創新與創業概念啟發；第二部份在辨別市場機會與發展市場；最後第三部份為新創事業行銷管理。行銷活動能夠將企業的產品及服務傳遞給顧客；並將產品、服務及企業本身的資訊帶到市場上；將顧客資訊回饋給企業。創業行銷管理能夠幫助創業者向潛在投資者及企業夥伴銷售創意以獲得資源，也讓創業家透過創新的商業手法來充分利用稀少的資源。",
+      "en": "Managers must have excellent leadership skills in order to A start-up company has lots of challenges, such as: niche market located and brand diffusion. The course intends to encourage the participant to become an entrepreneur and handle with these challenges. A start-up company is different from well-developed one due to limited resources. Usually, to response customer’s requirement, the entrepreneur must take multiple criteria into consideration simultaneously.    The course includes three parts. Part I build students’ concept about innovation and entrepreneurship. Part II is about market identification. Part III is about marketing management of a start-up company. The efficient marketing activities enable business to approach customer’s requirement, to bring their customer product (or services) and get customer’s feedback. Also, the marketing management helps entrepreneur to reach their potential investor to obtain more resources."
+    },
+    "id": "309817",
+    "name": {
+      "zh": "創新與創業",
+      "en": "Innovation and Entrepreneurship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(三)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=578",
+        "code": "578"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾毅誠",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23330",
+        "code": "23330"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教505",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=62",
+        "code": "62"
+      }
+    ],
+    "people": "36",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創創向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1418001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309817&code=23330"
+    ]
+  },
+  {
+    "code": "1411001",
+    "description": {
+      "zh": "本課程旨在培養學生成為具有深度文化視覺的科技人。從認識本土文化為起點，進而認識世界文化。引導學生如何探究文化現象，並且深入文化的精神境界，物質境界，瞭解文化價值與文化傳統，讓文化觀點充分融入個人的思維內涵。",
+      "en": "The main purpose of this course is to develop the cultural cultivation of our technology majored students. Starting with the culture of our own land and extending to world-wide culture. The teachers would guide the students to explore the phenomena of the culture, and try to find out both the spirit and the material of the culture. Through the understanding of the worth and the tradition of the culture, the students might merge the cultural cultivation into their personal thinking."
+    },
+    "id": "309819",
+    "name": {
+      "zh": "文化概論",
+      "en": "Culture concept"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(四)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=588",
+        "code": "588"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蔡佩青",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=20716",
+        "code": "20716"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "C",
+        "D"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同606",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=98",
+        "code": "98"
+      }
+    ],
+    "people": "38",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1411001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309819&code=20716"
+    ]
+  },
+  {
+    "code": "1418001",
+    "description": {
+      "zh": "新創事業面臨許多的挑戰，包括：避孼與大企業競爭，找到存活的依據、從無到創立強勢品牌、創立或擴張自有市場 / 消費者據點等。本課程旨在啟發修課同學創業的興趣並協助修課同學思考新創事業如何平衡有限資源以迎向挑戰。新創企業已發展成熟的企業是不一樣，主要是因為新創事業的資源有限，創業家必須同時兼顧許多面向並回應顧客所需。本課程旨在協助修課同學思考創建企業應注意的各種面向評估自己的創能力。課程包含了三大部份，第一部份為創新與創業概念啟發；第二部份在辨別市場機會與發展市場；最後第三部份為新創事業行銷管理。行銷活動能夠將企業的產品及服務傳遞給顧客；並將產品、服務及企業本身的資訊帶到市場上；將顧客資訊回饋給企業。創業行銷管理能夠幫助創業者向潛在投資者及企業夥伴銷售創意以獲得資源，也讓創業家透過創新的商業手法來充分利用稀少的資源。",
+      "en": "Managers must have excellent leadership skills in order to A start-up company has lots of challenges, such as: niche market located and brand diffusion. The course intends to encourage the participant to become an entrepreneur and handle with these challenges. A start-up company is different from well-developed one due to limited resources. Usually, to response customer’s requirement, the entrepreneur must take multiple criteria into consideration simultaneously.    The course includes three parts. Part I build students’ concept about innovation and entrepreneurship. Part II is about market identification. Part III is about marketing management of a start-up company. The efficient marketing activities enable business to approach customer’s requirement, to bring their customer product (or services) and get customer’s feedback. Also, the marketing management helps entrepreneur to reach their potential investor to obtain more resources."
+    },
+    "id": "309821",
+    "name": {
+      "zh": "創新與創業",
+      "en": "Innovation and Entrepreneurship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "職博雅課程(四)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=588",
+        "code": "588"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾毅誠",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23330",
+        "code": "23330"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "C",
+        "D"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教406",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=54",
+        "code": "54"
+      }
+    ],
+    "people": "15",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創創向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1418001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309821&code=23330"
+    ]
+  },
+  {
+    "code": "1410101",
+    "description": {
+      "zh": "因是在大專教藝術欣賞的課程，我在設計課程上，即考慮雖同學們不是藝術本科學生，但秉持 \"雖創作，但會欣賞的原則\"，我的課程安排將從上古時代人類的美術創作活動進而引導解釋什麼是人類的美感經驗。讓他們明瞭東方藝術之同與不同，再介紹東西方的繪畫潮流，如西方：從文藝復興至寫實主義，印象主義，至超印象主義，東方：從漢的畫象磚開始至中國畫，書法之演進，中西繪畫之比較，內容是繁而多的。但我將用簡潔扼要的 \"重點教學法\", 寓教於樂的方式，讓同學不再懼怕 \"Art'，甚至可以簡單的分辨出藝術品的年代，作者，及欣賞藝術作品的要領，這是我給此門課所訂的目標。另一個教學重點是：\" 理論和實際併重 \"。在每一單元中，我將設計一項簡的 [自己動手做] 大概祇花 20-30 分鐘讓學生體會和真正看見，明白，藝術家製造藝術品的過程。很希望能帶學生至博物院或美術館一趟，或至鶯砍參觀陶工廠。總之，一切課程計劃，乃配合學生之程度與興趣。",
+      "en": "Because most students taking this course are not art major; therefore, I adhere to the principle of \"Although not creation, appreciation will be instructed.\"  On course design, my class starts from the artistic creation of human beings in prehistoric time and further introduces the experience of beauty sensed by man and understand the similiar and difference of eastern and western art.  Moreover, I will introduce the fashion of priniting of eastern and western culture.  For example, the western culture: from the Renaissance to realism, impressionism and super impressionism.  Western culture: from a portrait stone of Han Dynasty to Chinese painting, the develpment of calligraphy and comparison of Chinese and western paintings. The teaching content is complicated, but I will simply it and highlight teaching way to let my students enjoy it."
+    },
+    "id": "309822",
+    "name": {
+      "zh": "藝術欣賞",
+      "en": "Art Appreciation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓通識課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2161",
+        "code": "2161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "田麗虹",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=22058",
+        "code": "22058"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "共同312",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=154",
+        "code": "154"
+      }
+    ],
+    "people": "52",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度；60 人電腦教室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410101",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309822&code=22058"
+    ]
+  },
+  {
+    "code": "1411015",
+    "description": {
+      "zh": "本課程，擬引領修課同學們徜徉古今愛情文學作品；內容含括詩、詞、散文、小說、戲曲、視聽影像等，並以主題單元方式進行之。從中，仔細咀嚼或清澀曖昧、或清新動人、或可歌可泣、或刻骨銘心、或纏綿悱惻、或黯然銷魂的愛情文學作品；從中，與作品中所傳達的心情、心事、心聲產生共鳴，由此來發現：在塵世的繁華裡，情感的傳遞是沒有時空隔閡，是可以心心相映。鑑於修課同學正值青春年華、正將展翅翱翔，因此本課程除了鑑賞、品味古今愛情文學作品，並欲與吾人現實人生作一連結，由此思考愛情、婚姻、兩性、家國、社會、政治等議題，由此尋求愛情的本質與真諦。",
+      "en": "The course to be taught to lead students know the love of ancient and modern literature; content encompasses poems, prose, fiction, drama, music, video works, etc., and will be conducted in a manner theme unit. From this, clear astringent taste ambiguous, fresh and moving, epic, unforgettable, deeply grieved and other types of love literature. In the process, the works convey mood, thoughts, aspirations, etc. to produce spiritual resonance. Thus to discover: In dust, there is no time and space to pass emotional estrangement, is matched heart.As the students is young, will start his life being so understanding of the course in addition to the love of ancient and modern literature, and our desire to make a real life connection. Thus thinking love, marriage, gender, home country, society, politics and other topics. Thus, the nature and essence of seeking love."
+    },
+    "id": "309823",
+    "name": {
+      "zh": "愛情與文學",
+      "en": "Love and Literature"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓通識課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2161",
+        "code": "2161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王月秀",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23483",
+        "code": "23483"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教501",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=336",
+        "code": "336"
+      }
+    ],
+    "people": "56",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1411015",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309823&code=23483"
+    ]
+  },
+  {
+    "code": "1410219",
+    "description": {
+      "zh": "古蹟、歷史建築和聚落為台灣地區文化資產的一部份，亦是台灣社會發展和多元文化交融的歷史見證。這些建築物表出各項的歷史價值與意義，其類型包括了史前遺址、荷西城堡、清代祠廟、墳墓、民居，以及日治時代以後的官署、學校、官舍住宅、土木設施等。本課程的目的，一方面希望讓修課同學對台灣各期建築歷史與形式風格特徵，能有清晰的架構與認識，以作為欣賞台灣古蹟的基礎；另一方面則是養成同學對身處文化環境的關心與歷史人文精神的培養。",
+      "en": "Cultural property, historic building and settlement are the evidence of history development and multiple cultural interaction of Taiwanese society. The types of architecture include excavation, castle, temple, tomb, folk settlement before the Ching dynasty, and official building, school, house and civil engineering facility after the Japanese occupied period. This course hope to help students to understand the architectural history briefly, and get some basic skill about the formative characters of each period. Furthermore, it will train them to give more concern on the cultural environment of Taiwan."
+    },
+    "id": "309824",
+    "name": {
+      "zh": "古蹟欣賞入門",
+      "en": "Introduction for Cultural Property"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓通識課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2161",
+        "code": "2161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳淑惠",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23331",
+        "code": "23331"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教208",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=42",
+        "code": "42"
+      }
+    ],
+    "people": "59",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "人文向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410219",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309824&code=23331"
+    ]
+  },
+  {
+    "code": "1410053",
+    "description": {
+      "zh": "介紹日常生活中所經常遭遇到的案例使學生認識法律上之常識，培養學生珍惜法律上所賦予之權利，並及時行使庶免讓權利睡著了，致蒙受意外損害。並督促學生善盡法律上之責任，蔚為人人知法，人人守法的風尚，導致社會祥和。授課內容：按民法總則、債篇、物權、親屬、繼承各篇之順序，選擇與日常生活關係最密切之案例，逐一介紹，並對解決之道詳加說明。有觸及民間權益者，例如民間互助會，使用票據之常識，海峽兩岸婚姻，汽車肇事與保險責任及軍人及其家屬優待條例等均一併介紹。",
+      "en": "This course-through carefully examining individual cases that often happen-helps understand more about legal knowledge so that they would cherish their endowed rights and protect themselves from being hurt. This course also encourages the students to serve the duty of laws in the hope that \"All People Know The Laws and All People Follow The Laws.\" Thecontents: Introduction to General Principles, Provisions of Obligations, Family and Succession. Cases that have much to do with the daily life are picked up for discussion. Other topics like the mutual self-help funds, the use of checks, cross-strait marriages, vehicle accidents, insurance, bonus regulations on the military servicemen and their family are also included."
+    },
+    "id": "309825",
+    "name": {
+      "zh": "民法概要",
+      "en": "Introduction to Civil Law"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓通識課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2161",
+        "code": "2161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "簡啟煜",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23688",
+        "code": "23688"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=334",
+        "code": "334"
+      }
+    ],
+    "people": "60",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "社法向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410053",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309825&code=23688"
+    ]
+  },
+  {
+    "code": "1418007",
+    "description": {
+      "zh": "「物聯網（智慧聯網）」被視為繼個人電腦、網際網路之後，世界資訊產業的第三波浪潮。隨著科技的進步，網路早已成為人與人重要的溝通管道之一，而在未來的世界，透過物聯網技術，將賦予物件智慧並擁有與其它物件或人溝通的能力，換言之，未來網路不再只是人與人的溝通管道，更是聯繫全球物與物、人與物的橋樑。未來智慧型裝置有望相互連結、分享資料，進而改變人們的日常生活與企業的運作模式。",
+      "en": "The Internet of Things ( IoT ) is regarded as the third wave after the invention of personal computer and the Internet.Through technological progress, the Internet has become an important way for people to communicate. In the future, the IoT technologies will enable objects to communicate with other objects, or human beings.In other words, the Internet will not only become a bridge between human beings, but also between objects, or even between human beings and objects.Future smart devices will be connected and shared across each other, changing how human beings live on a daily basis, and how enterprises operate."
+    },
+    "id": "309827",
+    "name": {
+      "zh": "物聯網（智慧聯網）應用",
+      "en": "Applications of Internet of Things ( IoT )"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓通識課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2161",
+        "code": "2161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾毅誠",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23330",
+        "code": "23330"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教303",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=46",
+        "code": "46"
+      }
+    ],
+    "people": "62",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創創向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1418007",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309827&code=23330"
+    ]
+  },
+  {
+    "code": "1410169",
+    "description": {
+      "zh": "本課程將使學生學習到氣象的一些基本知識，並應用於日常生活中。內容包括太空中的地球、天氣的要素、鋒面與風暴、世界的氣候、氣候變遷、天氣的觀測與分析、天氣預報、雲的種類、天象導覽、天氣觀察者指南等。",
+      "en": "This course will let students learn the basic knowledge of the weather and use it to their life. The content includes the earth in the space, elements of the weather, fronts and storms, climate of the world, climate change, observing and analyzing the weather, types of clouds, field guide to the sky, weather watcher's resource guide."
+    },
+    "id": "309828",
+    "name": {
+      "zh": "氣象與生活",
+      "en": "Weather and Life"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓通識課程(二)",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2161",
+        "code": "2161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "齊祿祥",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23947",
+        "code": "23947"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教409",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=57",
+        "code": "57"
+      }
+    ],
+    "people": "60",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "自然向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410169",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309828&code=23947"
+    ]
+  },
+  {
+    "code": "C205030",
+    "description": {
+      "zh": "本課程主要在讓學生藉由規劃與實施一項公益活動，以實踐企業倫理與社會責任，並藉以思考在推展企業倫理、企業社會責任與公司治理等理念時，如何能落實於企業的體制之中，以建立一個永續發展的企業價值體系。",
+      "en": "This course is designed to enable students to implement corporate ethics and social responsibility by planning and implementing a public welfare activity. The students should think about how to implement corporate ethics, corporate social responsibility, and corporate governance concepts. In order to establish a sustainable enterprise value system."
+    },
+    "id": "309851",
+    "name": {
+      "zh": "企業倫理與社會責任實踐",
+      "en": "Corporate Ethics and Social Responsibility Practice"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
+        "name": "應國卿",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11400",
+        "code": "11400"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12148",
+        "code": "12148"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "2"
+      ]
+    },
+    "classroom": [],
+    "people": "30",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "碩二必修，星期六 234，桃園集中上課，USR 計畫",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309851&code=11429",
+      "ShowSyllabus.jsp?snum=309851&code=11440",
+      "ShowSyllabus.jsp?snum=309851&code=12148"
+    ]
+  },
+  {
+    "code": "C205030",
+    "description": {
+      "zh": "本課程主要在讓學生藉由規劃與實施一項公益活動，以實踐企業倫理與社會責任，並藉以思考在推展企業倫理、企業社會責任與公司治理等理念時，如何能落實於企業的體制之中，以建立一個永續發展的企業價值體系。",
+      "en": "This course is designed to enable students to implement corporate ethics and social responsibility by planning and implementing a public welfare activity. The students should think about how to implement corporate ethics, corporate social responsibility, and corporate governance concepts. In order to establish a sustainable enterprise value system."
+    },
+    "id": "309852",
+    "name": {
+      "zh": "企業倫理與社會責任實踐",
+      "en": "Corporate Ethics and Social Responsibility Practice"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "經管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2868",
+        "code": "2868"
+      },
+      {
+        "name": "資財EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2869",
+        "code": "2869"
+      },
+      {
+        "name": "工管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2875",
+        "code": "2875"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
+        "name": "應國卿",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11400",
+        "code": "11400"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12148",
+        "code": "12148"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "2"
+      ]
+    },
+    "classroom": [],
+    "people": "95",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309852&code=11429",
+      "ShowSyllabus.jsp?snum=309852&code=11440",
+      "ShowSyllabus.jsp?snum=309852&code=11400"
+    ]
+  },
+  {
+    "code": "AB01026",
+    "description": {
+      "zh": "為強化學生具備從事金融相關職業之金融市場常識與職業道德觀念，本課程內容涵蓋金融市場常識與金融市場從業人員職業道德兩部份。其中金融市場常識包括：金融體系基本結構、證券期貨市場、銀行實務、信託實務、貨幣市場實務、保險實務等基礎知識。此外，金融市場從業人員職業道德部份則以主管機關所訂相關規範為架構，介紹：業務推廣與招攬、受託執行業務、告知義務與通知、誠實信用原則、有關利益衝突、保密原則、遵守法律規範與自律等金融從業人員應有的職業道德課題。期望學生習得金融市場之基本專業知識，並體認金融從業人員應有的道德常識，以通過且取得「金融市場常識與職業道德」專業證照。",
+      "en": "In order to strengthen students' knowledge of the financial market and professional ethics for engaging in finance-related occupations, this course covers two parts, the common sense of the financial market and the professional ethics of financial market practitioners. The common knowledge of financial market includes: the basic structure of the financial system, securities and futures market, banking practice, trust practice, money market practice, insurance practice and other basic knowledge. In addition, the professional ethics of financial market practitioners is based on the relevant norms set by the competent authorities, and introduces: business promotion and solicitation, entrusted business execution, disclosure obligations and notices, principles of good faith, relevant conflicts of interest, confidentiality principles, compliance with laws Professional ethics issues that financial practitioners should have, such as regulation and self-discipline. Students are expected to acqu"
+    },
+    "id": "309873",
+    "name": {
+      "zh": "金融常識與職業道德",
+      "en": "Financial Common Sense and Professional Ethics"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財一乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "楊士奇",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24473",
+        "code": "24473"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=342",
+        "code": "342"
+      }
+    ],
+    "people": "35",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "一甲一乙合，綜科第二演講廳",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB01026",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309873&code=24473"
+    ]
+  },
+  {
+    "code": "AB03056",
+    "description": {
+      "zh": "本課程教授內容包括外匯理論與實務操作，課程內容包括： 1. 探討有那些因素會影響匯率的波動以及均衡匯率的決定，並以實務案例，引導學生得以學習到外匯交易的知識，並懂得結合外匯交易的理論與實務來建置自己的外匯交易策略，進行正確的外匯投資操作。2. 透過對外匯市場交易之思考、探討、批判與洞察，來打造最適合的外匯交易策略，進而提升外匯專業之操作能力。",
+      "en": "This course prepares students to effectively analyze, assess, and trade foreign currency in the FOREX spot market. Topics presented during the course include: models of success and historical evidence on buying and selling patterns, how to understand volatility of return on the foreign currency exchange, the price behavior of currency, and technical tools for analysis including Japanese Candlesticks and Bar charts. The course focuses on foreign exchange market, major players in the FOREX market, spot and forward market, currency futures and options, foreign exchange exposure and risk, FOREX traders and trading, technical analysis in the FOREX market, profiles of the world’s major currencies and their characteristics. Students will also explore and use the various trading platforms in use on the spot market today and will complete a project in which they will maintain and trade a practice account over the length of this course and track their performance, trading behaviors, and motivat"
+    },
+    "id": "309874",
+    "name": {
+      "zh": "外匯市場理論與實務",
+      "en": "Foreign Exchange Markets: Theories and Practices"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財三乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12342",
+        "code": "12342"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒501 ",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=561",
+        "code": "561"
+      }
+    ],
+    "people": "36",
+    "peopleWithdraw": "2",
+    "ta": [],
+    "language": "英語",
+    "notes": "全英 / 三甲三乙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03056",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309874&code=12342"
+    ]
+  },
+  {
+    "code": "AB03057",
+    "description": {
+      "zh": "世界各區域經濟快速發展，面對高度競爭的趨勢，數位轉型是項關鍵議題。本課程的目的是使學生了解數位轉型的方法論與工具，並介紹成功案使學生可以將案例經驗及所學應用於所屬公司或企業。",
+      "en": "With the expeditious development in regional economic activities and more competition across countries, enterprise digital transformation is an important topic. The aim of this course is to introduce students the methodology and tools for digital transformation. Case studies and experience sharing are provided in this course."
+    },
+    "id": "309875",
+    "name": {
+      "zh": "數位轉型研討",
+      "en": "Seminar on Digital Transformation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財三乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳建文",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10662",
+        "code": "10662"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "8",
+        "9"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓234",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=467",
+        "code": "467"
+      }
+    ],
+    "people": "28",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "三甲三乙合",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03057",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309875&code=10662"
+    ]
+  },
+  {
+    "code": "C225019",
+    "description": {
+      "zh": "公司治理已成為廿一世紀企業組織架構調整之重大議題，如何經由管理策略及法制設計使台灣企業經營回歸股東長期價值及利益，為政府、交易所與公會等自律機關、及企業經營者必須面對之問題。在法制上，獨立董事監察人、審計委員會之設置、公司自律守則之擬議、股東會之運作，均衝擊我國公司法、證券交易法及交易所規則現行管理架構及規範；在實務上，上市櫃公司如何順利接受公司治理之理念及管理規範，以提昇公司營運的外在評價與體質。",
+      "en": "The corporate governance had been the enterprise framework adjustment of the main issue of the 21 century. How do the manage the corporate strategy and system of the law to make the profit for the shareholder, government and enterprise. The main purpose of the course to help the learner to understand the law of corporate and the practice of the enterprise."
+    },
+    "id": "309893",
+    "name": {
+      "zh": "公司治理專題",
+      "en": "Seminar on Corporate Governance"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "劉亮志",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11982",
+        "code": "11982"
+      },
+      {
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12342",
+        "code": "12342"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "17",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 1) 經營與策略管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=309893&code=11429",
+      "ShowSyllabus.jsp?snum=309893&code=11982"
+    ]
+  },
+  {
+    "code": "AB03058",
+    "description": {
+      "zh": "雲端 (Cloud) 與物聯網 (Internet of Things, IoT) 重塑了整個計算世界對於事物的運行方式。除了為各行業提出了新的前沿應用外，也衍生更多在兩者融合對於管理、資訊安全與隱私保護等不得不重視的課題。本課程主要討論雲端與物聯網相關的安全性問題，包括由物聯網衍生出來的新威脅、弱點及兩者融合的相關安全議題。引領學生具備發展雲端與物聯網安全的重要觀念與技術，進而可以分析、設計與規劃未來物聯網與雲端運算融合之應用、與安全管理。",
+      "en": "Cloud and the Internet of Things (IoT) have reshaped the way things are performed across the computing world. In addition to proposing new cutting-edge applications for various industries, there are also more issues that must be paid attention to in the integration of the two, such as management, information security and privacy protection. This course mainly discusses the security issues related to cloud and the IoT, including new threats and weaknesses derived when the two technologies converge. To lead students to understand important concepts and technologies for cloud and IoT security, and then to able to analyze, design, plan application and implement security management of the integration of the cloud and IoT."
+    },
+    "id": "310037",
+    "name": {
+      "zh": "雲端與物聯網安全",
+      "en": "Cloud and IoT Security"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2518",
+        "code": "2518"
+      },
+      {
+        "name": "資財三乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林敬皇",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12391",
+        "code": "12391"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "9",
+        "A",
+        "B"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=460",
+        "code": "460"
+      }
+    ],
+    "people": "6",
+    "peopleWithdraw": "1",
+    "ta": [],
+    "language": "　",
+    "notes": "林敬皇老師 / 三四甲、三四乙、碩合 / 科研 240",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03058",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310037&code=12391"
+    ]
+  },
+  {
+    "code": "3604154",
+    "description": {
+      "zh": "本課程的設計，以科技新創事業的發展為目標，品牌的價值最大化為核心，進而設計與執行品牌之行銷方案，分析如何經營新創品牌的價值，與創造出在新創產業中的優勢品牌與品牌資產。結合行銷學的 STP 模型與 SMART Strategy (睿智策略)，對本地與國際市場上的目標顧客，進行系統化的策略性行銷，連結顧客，經營通路上的成員與學習通路之設計，經由團隊合作，建構起良善通路的競爭優勢。本課程的教學模式，採用國立臺北科大經典的黑手工程師訓練模式，強調動手式的 OJT (On Job Training)。課堂上會有大量的實務型動手演練實作，下課後會有一定數量的作業與練習，透過此系統性訓練課程，將使學員 (學生) 具備微 (小) 型企業 (工作室) 的基本商業維運知識與能力。",
+      "en": "The course is designed to target the development of Innovation Vocation, maximize the value of the brand as the core, and then design and implementation of brand marketing programs, analysis of how to operate a new brand value, and create a cultural industry in the advantages of brand and brand equity. To combine with the STP model of marketing and SMART Strategy, the target customers in the international market, the systematic strategic marketing, linking customers, managing the members in the channel and learning the channel design method. Use teamwork spirit to build the competitive advantage in the commercial channel. The teaching mode of the course: using the Taipei Tech classic Practice-Engineer training model, emphasizing the hands-on OJT (On Job Training) method. There will be a large number of hands-on exercises in the classroom, and a number of homework and exercises after class. After this systematic training course, students (trainee) will have basic (small) business (studi"
+    },
+    "id": "310038",
+    "name": {
+      "zh": "科技新創事業與行銷策略",
+      "en": "Technology Innovation Business and Marketing Strategy"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2512",
+        "code": "2512"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鍾明桉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12232",
+        "code": "12232"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "9",
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教201",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=19",
+        "code": "19"
+      }
+    ],
+    "people": "20",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "◎電子四甲乙丙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3604154",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310038&code=12232"
+    ]
+  },
+  {
+    "code": "C215002",
+    "description": {
+      "zh": "此課程旨在說明決策理論之基本觀念，及其在真實世界裡相關決策問題之分析。使學生具備了解並建構決策問題，建構並推估決策之不確定性，以及建構並評估效用模式之能力。",
+      "en": "This course provides an overview of the basic concepts of decision theory and their applications on the real-world decision problems. Students will learn about the problem identification and modeling, the modeling and estimation of the associated uncertainty, and modeling and evaluation of the utility function."
+    },
+    "id": "310041",
+    "name": {
+      "zh": "決策分析與研討",
+      "en": "Decision Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2868",
+        "code": "2868"
+      },
+      {
+        "name": "資財EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2869",
+        "code": "2869"
+      },
+      {
+        "name": "工管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2875",
+        "code": "2875"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "梁曉帆",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11088",
+        "code": "11088"
+      },
+      {
+        "name": "劉建浩",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11537",
+        "code": "11537"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=490",
+        "code": "490"
+      }
+    ],
+    "people": "39",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 3) 工業與科技管理",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310041&code=11088",
+      "ShowSyllabus.jsp?snum=310041&code=11537"
+    ]
+  },
+  {
+    "code": "C215045",
+    "description": {
+      "zh": "1. 學習診斷輔導方法 2. 培養學生現場診斷與輔導 3. 提升學生企業經營管理改善能力",
+      "en": "1. Learn diagnostic counseling methods2. Train students on-site diagnosis and counseling3. Enhance students' ability to improve business management"
+    },
+    "id": "310046",
+    "name": {
+      "zh": "企業診斷與個案輔導",
+      "en": "Enterprise diagnosis and case counseling"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2868",
+        "code": "2868"
+      },
+      {
+        "name": "資財EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2869",
+        "code": "2869"
+      },
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2874",
+        "code": "2874"
+      },
+      {
+        "name": "工管EMBA",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2875",
+        "code": "2875"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "藍經堯",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24421",
+        "code": "24421"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=489",
+        "code": "489"
+      }
+    ],
+    "people": "11",
+    "peopleWithdraw": "3",
+    "ta": [],
+    "language": "　",
+    "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理 & 經營策略實務，",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310046&code=24421"
+    ]
+  },
+  {
+    "code": "3863114",
+    "description": {
+      "zh": "本課程以越南語教學為主，培養學生的聽、說、讀、寫能力，以達到溝通的目的，增進學生對越南文化的認識與興趣，提供學生越南語的基礎知識，越南經貿、觀光文化及越語字母拼音教學，讓學生在學習越語的同時，深入了解越南文化，協助學生拓展東南亞的就業版圖。",
+      "en": "This course will help students have basic communicate skill, basic knowledge of Vietnamese (including alphabet, phonetic and grammar) and better understand Vietnam culture."
+    },
+    "id": "310063",
+    "name": {
+      "zh": "越南語 (四)",
+      "en": "Vietnamese (IV)"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四設三",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2636",
+        "code": "2636"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "丁氏蓉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23931",
+        "code": "23931"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "1",
+        "2"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "設計205",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=311",
+        "code": "311"
+      }
+    ],
+    "people": "28",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "設計館 205 教室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3863114",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310063&code=23931"
+    ]
+  },
+  {
+    "code": "5705507",
+    "description": {
+      "zh": "本課程將介紹人工智慧概念以及在企業轉型中扮演的角色，目的在於增加對於人工智慧的瞭解以幾所應用的產業，人工智慧的技術概要介紹包含大數據、資料探勘、與機器學習也會整合於課程設計中，課程主要目的在於學習數位科技如何應用在不同的商業情境，以及如何調整在數位轉型時代下商業策略與運作，最後，學習如何將人工智慧成為競爭優勢的重要來源。",
+      "en": "This course provides an overview of AI and its role in business transformation. The purpose is to improve understanding of AI and being used in the industries. The brief technical overview of AI will be covered such as big data, data mining, machine learning, etc. The objectives are to learn how digital technologies will be applied to various business settings and how to adapt business strategy and operation in the era of digital transformation. Finally, learning how to utilize AI as the source of competitive advantage."
+    },
+    "id": "310064",
+    "name": {
+      "zh": "人工智慧、企業與社會",
+      "en": "Artificial Intelligence, Business and Society"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張瑋倫",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12171",
+        "code": "12171"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=487",
+        "code": "487"
+      }
+    ],
+    "people": "21",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705507",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310064&code=12171"
+    ]
+  },
+  {
+    "code": "AB02023",
+    "description": {
+      "zh": "本課程介紹商用程式語言基本資料處理的概念，包含基本輸入與輸出、程式的流程控制、函數的應用等指令的撰寫、程式的編輯、編譯、聯絡與程式的執行，並發展一套應用程式。",
+      "en": "This course introduces the concept of data processing programming language, including basic input and output, program flow control, function application and other instruction writing, program editing, compilation, communication, and program execution and development."
+    },
+    "id": "310178",
+    "name": {
+      "zh": "商用程式設計",
+      "en": "Commercial programming design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財二乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2759",
+        "code": "2759"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "趙以選",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24065",
+        "code": "24065"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "8",
+        "9",
+        "A"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=342",
+        "code": "342"
+      }
+    ],
+    "people": "38",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "二甲二乙合",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02023",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310178&code=24065"
+    ]
+  },
+  {
+    "code": "AB03046",
+    "description": {
+      "zh": "本門課程是財務、電腦、與數學的結合，其主要目標為啟發學生如何設計電腦演算法來解決財務或經濟上的問題。一開始，此課程會複習一些基本的知識，如利率期間結構、選擇權評價理論、隨機過程模型、數值方法、與寫程式時所需的資料結構。之後，會講到一些新奇選擇權的演算法，包括亞洲式選擇權，障礙選擇權、回顧選擇權、重設選擇權、彩虹選擇權、可轉換公司債。",
+      "en": "The major goal of this course is to provide students with complete understanding of many financial markets and products. Topics such as forward and futures, swaps, and options will be fully covered. In addition, the basic pricing methods of these innovative products will be emphasized in this course. Finally, even to a MBA student, the knowledge mentioned in this course is sure to be helpful for his (or her) future career."
+    },
+    "id": "310195",
+    "name": {
+      "zh": "財務工程導論",
+      "en": "Introduction to Financial Engineering"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財三乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "劉亮志",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11982",
+        "code": "11982"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "6",
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=460",
+        "code": "460"
+      }
+    ],
+    "people": "30",
+    "peopleWithdraw": "1",
+    "ta": [],
+    "language": "　",
+    "notes": "三甲三乙合開 / 科研 240",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03046",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310195&code=11982"
+    ]
+  },
+  {
+    "code": "AB02024",
+    "description": {
+      "zh": "本課程主要目的在於讓學生透過熟悉財金時事所使用之英文專業名詞、市場術語，以及行業慣有之英文論述結構等提升財金領域之專業英文閱讀能力；此外，本課程亦將著重於訓練學生之英譯能力。",
+      "en": "The major purpose of this course is to promote learners’ reading ability by training them to understand terminologies, jargons and description structure of writings in finance news and events. In addition, this course also aims to train the learners’ ability of translating English into Chinese."
+    },
+    "id": "310197",
+    "name": {
+      "zh": "財金時事選讀",
+      "en": "Selective News and Events in Finance"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財二乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2759",
+        "code": "2759"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王甡",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23286",
+        "code": "23286"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "9",
+        "A",
+        "B"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "六教227",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=424",
+        "code": "424"
+      }
+    ],
+    "people": "37",
+    "peopleWithdraw": "1",
+    "ta": [],
+    "language": "　",
+    "notes": "二甲二乙合",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02024",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310197&code=23286"
+    ]
+  },
+  {
+    "code": "5705511",
+    "description": {
+      "zh": "本課程在使學生藉由瞭解市場定位與策略跟科技產品發展與運用的領域有著密不可分的關係。課程內容主要藉由當前科技產品發展的相關課題，以及整體環境的概述，讓同學對於產業或企業之科技產品市場定位與策略有一基本的認知，提供同學從科技產品、市場定位、管理策略的不同角度瞭解科技產品於市場上定位及推動發展策略。",
+      "en": "This course is closely related to the field of technology product development and application through understanding market positioning and strategies. The course content mainly provides students with a basic understanding of the market positioning and strategies of technology products in industries or enterprises through the current topics related to the development of technology products and an overview of the overall environment, and provides students with different perspectives on technology products, market positioning, and management strategies. Understand the positioning of technology products in the market and promote development strategies."
+    },
+    "id": "310200",
+    "name": {
+      "zh": "科技產品市場定位與策略",
+      "en": "Technology Products Market Positioning and Strategy"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳國樑",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23152",
+        "code": "23152"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=486",
+        "code": "486"
+      }
+    ],
+    "people": "49",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705511",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310200&code=23152"
+    ]
+  },
+  {
+    "code": "4906737",
+    "description": {
+      "zh": "探討網路學習社群之相關原理，以及實務應用。內容包括有網路學習社群之理論基礎、優點、特性、限制、科技、媒體、環境、形成要素、成員角色與任務、線上討論與知識分享、成功因素、經營管理、實際案例、未來趨勢等。",
+      "en": "To explore advnced issues on Web-based learning community (WBCL)including WBCL theoretical fundamental, advantages, characteristics, limitations, technology, media, environment, formed factors, member roles and tasks, online discussion, successful factors, operation and management, practical cases, and future trrnds etc.."
+    },
+    "id": "310203",
+    "name": {
+      "zh": "網路學習社群專題研究",
+      "en": "Special Topic on Web-Based Learning Community"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2855",
+        "code": "2855"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "楊心怡",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11430",
+        "code": "11430"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同411",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=383",
+        "code": "383"
+      }
+    ],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4906737",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310203&code=11430"
+    ]
+  },
+  {
+    "code": "5201429",
+    "description": {
+      "zh": "台灣傳統建築史的研究已歷多年發展，累積了相當豐富的研究成果。本課程擬由傳統閩客建築類型所屬之空間文化進行研討，透過 \"環境與構造\"、\"儀式與空間\"、\"政治與建築\" 等進階專題研討，期待引領修課同學進入並體驗台灣傳統建築的深層特色與意涵，過程中除了相關文獻的閱讀，案例調查報告外，並由田野實地參觀，帶領同學感受台灣傳統閩客建築的獨特環境與空間文化。",
+      "en": "The research of the history of Taiwanese traditional architecture has got a great achievement after many years of development. This course is focus on the spatial culture of different types of traditional Hakka and Fujian architecture. I hopes that every students could understand and experience the deep social cultural meanings and features through the study of following three issues :\"environment and construction\", \"rite and space\" and \"politics and architecture\".  This course would not only be proceeded by the reading of related documents and the reporting of different case, it also combined the field visiting and investment to lead students to enjoy the very special cultural heritage."
+    },
+    "id": "310231",
+    "name": {
+      "zh": "台灣傳統建築特論",
+      "en": "Special topics in Taiwan Traditional Architecture"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職建都所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2857",
+        "code": "2857"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張崑振",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=11014",
+        "code": "11014"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教408",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=56",
+        "code": "56"
+      }
+    ],
+    "people": "13",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "日職合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5201429",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310231&code=11014"
+    ]
+  },
+  {
+    "code": "3723059",
+    "description": {
+      "zh": "隨著網路的迅速發展，電子商務更是也以每年 20% 成長率蓬勃發展，台灣預計將突破兆元的商機。在台灣下階段將邁入以生產力 4.0 作為科技發展的主軸，為因應同學畢業後的就業需求，本課程介紹電子商務的各種重點技巧，包括社群行銷與、行銷網站建置與管理、網路行銷工具、行銷資訊系統、網路外銷，Google 管理工具的應用、關鍵字廣告、商業部落格、電子郵件與會員電子報廣告管理，行動行銷，網路行銷企劃案實務等重要議題，讓同學了解網路行銷及電子商務之實務運作。",
+      "en": "This course will introduce all the internet commerence techniques generally. Let them know what is internet commerence and how it works."
+    },
+    "id": "310239",
+    "name": {
+      "zh": "電子商務實務",
+      "en": "Internet commerence"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2514",
+        "code": "2514"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12389",
+        "code": "12389"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "六教525",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=437",
+        "code": "437"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "工管四甲乙丙合開，尹秦清",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3723059",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310239&code=12389"
+    ]
+  },
+  {
+    "code": "4404063",
+    "description": {
+      "zh": "懸吊系統型式、彈簧、避震器、轉向系統介紹、輪胎定位、懸吊機構和轉向機構之運動幾何、懸吊系統和轉向系統之力量分析。",
+      "en": "Types of Suspension System, Springs, Dampers, Introduction to Steering System, Wheel Alignment, Kinematic Geometry of Suspension and Steering Mechanisms, Force Analysis of Suspension and Steering Systems."
+    },
+    "id": "310298",
+    "name": {
+      "zh": "懸吊系統",
+      "en": "Suspension System"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四車四",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2516",
+        "code": "2516"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "尤正吉",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=10992",
+        "code": "10992"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教203",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=21",
+        "code": "21"
+      }
+    ],
+    "people": "45",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4404063",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310298&code=10992"
+    ]
+  },
+  {
+    "code": "5855001",
+    "description": {
+      "zh": "本課程將專注於創新產品與混合實境的設計研究方法，期望透過虛實整合與使用者經驗的核心概念，應用研究方法深入探究設計問題與使用者經驗中的痛點，探討實體端產品設計和虛擬端的服務設計之各種可能性與創新概念整合，進而透過設計方法與軟硬體技術落實創新概念，最終達到設計出符合與滿足使用者在未來生活中的各種設計服務與體驗。",
+      "en": "This course will focus on the design research methods of innovative products and mixed reality. It is expected that through the core concepts of virtual-real integration and user experience, it will apply research methods to deeply explore design problems and pain points in user experience and explore physical product design and virtual reality. We will integrate various possibilities of service design with innovative concepts. Then, we intend to utilize the implemented innovative concept by design methods, software, and hardware technologies to achieve the design services and experiences that meet and satisfy users in future life."
+    },
+    "id": "310311",
+    "name": {
+      "zh": "產品與混合實境設計研究 (一)",
+      "en": "Product and Mixed Reality Design Research (1)"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職創新所",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2861",
+        "code": "2861"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "梁又文",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=12282",
+        "code": "12282"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "設計603",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=139",
+        "code": "139"
+      }
+    ],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "日職合開，設計 603",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5855001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310311&code=12282"
+    ]
+  },
+  {
+    "code": "1404006",
+    "description": {
+      "zh": "本校科技大學的國文課程，以能力及素養之培植為導向，並以精深致用為授課標的，方能不負大學國文課程之名，並符合本校重視實務應用的優良傳統。依授課教師之取擇，課程可概分為兩大類。一、文學類：著重在文學品味力、語文敏感力、文學創意力與實作創造力等能力的深化。二、思想類：著重在批判思辨力、邏輯推演力、決斷力、組織整合力、論述力與品格實踐力等能力的提升。期盼藉由這兩大方面的磨礪，為學「生」未來的「生」存、「生」活與「生」命，開展出璀璨的「三生」有幸。",
+      "en": "The Chinese language curriculum of the University of Science and Technology of this university is oriented to the cultivation of ability and literacy, and is taught with intensive application. Only then can it live up to the name of the university's Chinese language curriculum and conform to the school's fine tradition of emphasizing practical application.Depending on the choice of the instructor, the courses can be divided into two categories.1. Literature: Focus on the deepening of literary taste, language sensitivity, literary creativity and practical creativity.2. Thinking category: Focus on the improvement of critical thinking ability, logical deduction ability, decision ability, organizational integration ability, discussion ability and character practice ability.It is hoped that through the cultivation and training of these two aspects, we will develop a brilliant three lives for the future survival, life and life of students."
+    },
+    "id": "310398",
+    "name": {
+      "zh": "國文",
+      "en": "Chinese"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "資財一乙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "施佳瑩",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24317",
+        "code": "24317"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教202",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=20",
+        "code": "20"
+      }
+    ],
+    "people": "31",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310398&code=24317"
+    ]
+  },
+  {
+    "code": "1404006",
+    "description": {
+      "zh": "本校科技大學的國文課程，以能力及素養之培植為導向，並以精深致用為授課標的，方能不負大學國文課程之名，並符合本校重視實務應用的優良傳統。依授課教師之取擇，課程可概分為兩大類。一、文學類：著重在文學品味力、語文敏感力、文學創意力與實作創造力等能力的深化。二、思想類：著重在批判思辨力、邏輯推演力、決斷力、組織整合力、論述力與品格實踐力等能力的提升。期盼藉由這兩大方面的磨礪，為學「生」未來的「生」存、「生」活與「生」命，開展出璀璨的「三生」有幸。",
+      "en": "The Chinese language curriculum of the University of Science and Technology of this university is oriented to the cultivation of ability and literacy, and is taught with intensive application. Only then can it live up to the name of the university's Chinese language curriculum and conform to the school's fine tradition of emphasizing practical application.Depending on the choice of the instructor, the courses can be divided into two categories.1. Literature: Focus on the deepening of literary taste, language sensitivity, literary creativity and practical creativity.2. Thinking category: Focus on the improvement of critical thinking ability, logical deduction ability, decision ability, organizational integration ability, discussion ability and character practice ability.It is hoped that through the cultivation and training of these two aspects, we will develop a brilliant three lives for the future survival, life and life of students."
+    },
+    "id": "310399",
+    "name": {
+      "zh": "國文",
+      "en": "Chinese"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓四子一",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2876",
+        "code": "2876"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李尚軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24316",
+        "code": "24316"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "8",
+        "9"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "三教201",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=333",
+        "code": "333"
+      }
+    ],
+    "people": "49",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310399&code=24316"
+    ]
+  },
+  {
+    "code": "1404006",
+    "description": {
+      "zh": "本校科技大學的國文課程，以能力及素養之培植為導向，並以精深致用為授課標的，方能不負大學國文課程之名，並符合本校重視實務應用的優良傳統。依授課教師之取擇，課程可概分為兩大類。一、文學類：著重在文學品味力、語文敏感力、文學創意力與實作創造力等能力的深化。二、思想類：著重在批判思辨力、邏輯推演力、決斷力、組織整合力、論述力與品格實踐力等能力的提升。期盼藉由這兩大方面的磨礪，為學「生」未來的「生」存、「生」活與「生」命，開展出璀璨的「三生」有幸。",
+      "en": "The Chinese language curriculum of the University of Science and Technology of this university is oriented to the cultivation of ability and literacy, and is taught with intensive application. Only then can it live up to the name of the university's Chinese language curriculum and conform to the school's fine tradition of emphasizing practical application.Depending on the choice of the instructor, the courses can be divided into two categories.1. Literature: Focus on the deepening of literary taste, language sensitivity, literary creativity and practical creativity.2. Thinking category: Focus on the improvement of critical thinking ability, logical deduction ability, decision ability, organizational integration ability, discussion ability and character practice ability.It is hoped that through the cultivation and training of these two aspects, we will develop a brilliant three lives for the future survival, life and life of students."
+    },
+    "id": "310400",
+    "name": {
+      "zh": "國文",
+      "en": "Chinese"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "工管一丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2877",
+        "code": "2877"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李尚軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24316",
+        "code": "24316"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "四教102",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=70",
+        "code": "70"
+      }
+    ],
+    "people": "19",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310400&code=24316"
+    ]
+  },
+  {
+    "code": "1404006",
+    "description": {
+      "zh": "本校科技大學的國文課程，以能力及素養之培植為導向，並以精深致用為授課標的，方能不負大學國文課程之名，並符合本校重視實務應用的優良傳統。依授課教師之取擇，課程可概分為兩大類。一、文學類：著重在文學品味力、語文敏感力、文學創意力與實作創造力等能力的深化。二、思想類：著重在批判思辨力、邏輯推演力、決斷力、組織整合力、論述力與品格實踐力等能力的提升。期盼藉由這兩大方面的磨礪，為學「生」未來的「生」存、「生」活與「生」命，開展出璀璨的「三生」有幸。",
+      "en": "The Chinese language curriculum of the University of Science and Technology of this university is oriented to the cultivation of ability and literacy, and is taught with intensive application. Only then can it live up to the name of the university's Chinese language curriculum and conform to the school's fine tradition of emphasizing practical application.Depending on the choice of the instructor, the courses can be divided into two categories.1. Literature: Focus on the deepening of literary taste, language sensitivity, literary creativity and practical creativity.2. Thinking category: Focus on the improvement of critical thinking ability, logical deduction ability, decision ability, organizational integration ability, discussion ability and character practice ability.It is hoped that through the cultivation and training of these two aspects, we will develop a brilliant three lives for the future survival, life and life of students."
+    },
+    "id": "310401",
+    "name": {
+      "zh": "國文",
+      "en": "Chinese"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓四設一",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2878",
+        "code": "2878"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李尚軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=24316",
+        "code": "24316"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "8",
+        "9"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=22",
+        "code": "22"
+      }
+    ],
+    "people": "29",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310401&code=24316"
+    ]
+  },
+  {
+    "code": "1404006",
+    "description": {
+      "zh": "本校科技大學的國文課程，以能力及素養之培植為導向，並以精深致用為授課標的，方能不負大學國文課程之名，並符合本校重視實務應用的優良傳統。依授課教師之取擇，課程可概分為兩大類。一、文學類：著重在文學品味力、語文敏感力、文學創意力與實作創造力等能力的深化。二、思想類：著重在批判思辨力、邏輯推演力、決斷力、組織整合力、論述力與品格實踐力等能力的提升。期盼藉由這兩大方面的磨礪，為學「生」未來的「生」存、「生」活與「生」命，開展出璀璨的「三生」有幸。",
+      "en": "The Chinese language curriculum of the University of Science and Technology of this university is oriented to the cultivation of ability and literacy, and is taught with intensive application. Only then can it live up to the name of the university's Chinese language curriculum and conform to the school's fine tradition of emphasizing practical application.Depending on the choice of the instructor, the courses can be divided into two categories.1. Literature: Focus on the deepening of literary taste, language sensitivity, literary creativity and practical creativity.2. Thinking category: Focus on the improvement of critical thinking ability, logical deduction ability, decision ability, organizational integration ability, discussion ability and character practice ability.It is hoped that through the cultivation and training of these two aspects, we will develop a brilliant three lives for the future survival, life and life of students."
+    },
+    "id": "310402",
+    "name": {
+      "zh": "國文",
+      "en": "Chinese"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "訓四車一",
+        "link": "Subj.jsp?format=-4&year=111&sem=1&code=2879",
+        "code": "2879"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "黃雅雯",
+        "link": "Teach.jsp?format=-3&year=111&sem=1&code=23487",
+        "code": "23487"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教302",
+        "link": "Croom.jsp?format=-3&year=111&sem=1&code=27",
+        "code": "27"
+      }
+    ],
+    "people": "48",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=310402&code=23487"
     ]
   }
 ]
