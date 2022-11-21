@@ -14,13 +14,16 @@ async function fetchSinglePage(url) {
 }
 async function getResp(url, retry = 0) {
     try {
-        return await axios.request({
+        let now = new Date()
+        let result = await axios.request({
             method: 'GET',
             url,
             responseType: 'arraybuffer',
             reponseEncoding: 'binary',
             timeout: 10 * 60 * 1000, // 10 minutes
         })
+        console.log(`[fetch] ${url} done. (${new Date() - now}ms)`)
+        return result
     }
     catch (e) {
         if (retry < 10) {
