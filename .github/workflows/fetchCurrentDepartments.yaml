@@ -7,31 +7,22 @@ on:
   schedule:
     - cron:  '0 0 */1 * *'
 
-jobs: 
-  FetchDepartment: 
-    runs-on: ubuntu-latest 
-    steps: 
-    - uses: actions/checkout@v2
+jobs:
+  FetchDepartment:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
       with:
-        submodules: true
-    - name: Setup Node
-      uses: actions/setup-node@v2-beta
-      with:
-        node-version: '12.x'
-    - name: Cache dependencies
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
+        node-version: '14.x'
+        cache: 'npm'
     - name: Install npm packages
       run: npm install
-    - name: Fetch department data 
+    - name: Fetch department data
       run: node fetchDepartment.js
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: dist
-        keep_files: true 
+        keep_files: true
