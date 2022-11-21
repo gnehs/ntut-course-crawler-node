@@ -4,11 +4,8 @@ const axios = require('axios').default;
 const iconv = require('iconv-lite');
 const axiosRetry = require('axios-retry');
 axiosRetry(axios, { retries: 10, shouldResetTimeout: true });
-const delay = (s) => {
-    return new Promise(resolve => {
-        setTimeout(resolve, s);
-    });
-};
+const delay = s => new Promise(resolve => setTimeout(resolve, s));
+
 async function fetchSinglePage(url) {
     await delay(500 + Math.random() * 500);
     const resp = await getResp(url)
