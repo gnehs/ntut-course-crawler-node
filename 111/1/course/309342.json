@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  邱弘緯 ",
+    "name": "邱弘緯",
     "email": "hwchiu@ntut.edu.tw",
     "latestUpdate": "2022-06-16 10:10:43",
     "objective": "中文概述：本課程主要目標在介紹射頻積體電路設計之基本原理，使學生具有射頻積體電路設計之能力。其課程內容包含如下：\n\n1、被動 IC 元件的特性               10、低雜訊放大器之設計\n2、MOS 元件介紹                   11、混波器\n3、被動 RLC 網路                   12、射頻功率放大器  \n4、分散式系統                    13、回授系統       \n5、史密斯圖形及 S 參數             14、鎖相迴路      \n6、頻寬評估技術                  15、振盪器與合成器   \n7、射頻放大器之設計              16、結構\n8、電壓參考及偏壓                  \n9、雜訊分析",
-    "schedule": "課程綱要:\n第 1 週　　無線電路介紹\n第 2-4 週　　無線電路調變技術\n第 5-9 週　　射頻電路理論探討\n第 10 週  期中考\n第 11 週　　射頻電路架構介紹\n第 12 週　　射頻被動元件介紹\n第 13 週　　射頻主動元件介紹\n第 14 週　　低雜訊放大器介紹\n第 15 週　　混波器介紹\n第 16 週　　混波器及頻率合成器介紹\n第 17 週　　功率放大器\n第 18 週　　期末報告",
-    "scorePolicy": "考核項目及評分標準\n1.　　mid-term exam 30%\n2.　　project 70%",
-    "materials": "（書名）　　                                   （作者）\nRF Electronics　　                           UCLA Razavi\nThe_design of CMOS RF integrated Circuits　　Stanford T.Lee",
-    "foreignLanguageTextbooks": true,
-    "remarks": "1. hwchiu@ntut.edu.tw\n2. Teams messages"
+    "schedule": "課程綱要:\n第 1 週\t無線電路介紹\n第 2-4 週\t無線電路調變技術\n第 5-9 週\t射頻電路理論探討\n第 10 週  期中考\n第 11 週\t射頻電路架構介紹\n第 12 週\t射頻被動元件介紹\n第 13 週\t射頻主動元件介紹\n第 14 週\t低雜訊放大器介紹\n第 15 週\t混波器介紹\n第 16 週\t混波器及頻率合成器介紹\n第 17 週\t功率放大器\n第 18 週\t期末報告",
+    "scorePolicy": "考核項目及評分標準\n1.\tmid-term exam 30%\n2.\tproject 70%",
+    "materials": "（書名）\t                                   （作者）\nRF Electronics\t                           UCLA Razavi\nThe_design of CMOS RF integrated Circuits\tStanford T.Lee",
+    "consultation": "1. hwchiu@ntut.edu.tw2. Teams messages",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：本課程採實體上課。若因疫情政策，再調整成使用 Microsoft Teams 進行遠距上課。",
+    "foreignLanguageTextbooks": true
   }
 ]

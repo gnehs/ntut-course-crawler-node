@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  王正豪 ",
+    "name": "王正豪",
     "email": "jhwang@ntut.edu.tw",
     "latestUpdate": "2022-09-07 15:24:55",
     "objective": "本課程為大學部的巨量資料分析導論基礎課程，主要介紹資料前處理、資料探勘概念、關聯分析、分類、分群、平行化程式設計、分散式計算、以及實際分析平台工具如: MapReduce, Spark 等。除了基本概念的介紹外，透過程式練習以及期末專題，能讓學生深入理解巨量資料分析的基本原理以及實際工具的運用。",
-    "schedule": "Part I: Data mining concepts (8 wks)\n1. Introduction to big data &amp; preprocessing (1 wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (2 wks)\n5. Midterm exam (1 wk)\n\nPart II: Distributed platforms &amp; Parallel programming (6 wks)\n1. Introduction to distributed platforms: Hadoop &amp; Spark  (1 wk)\n2. Parallel programming paradigm &amp; concepts (1 wk)\n3. MapReduce programming: pairs &amp; stripes, relational algebra (2 wks)\n4. More examples: matrix multiplication, similarity (2 wks)\n\nTerm project presentation (4 wks)",
+    "schedule": "Part I: Data mining concepts (8 wks)\n1. Introduction to big data & preprocessing (1 wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (2 wks)\n5. Midterm exam (1 wk)\n\nPart II: Distributed platforms & Parallel programming (6 wks)\n1. Introduction to distributed platforms: Hadoop & Spark  (1 wk)\n2. Parallel programming paradigm & concepts (1 wk)\n3. MapReduce programming: pairs & stripes, relational algebra (2 wks)\n4. More examples: matrix multiplication, similarity (2 wks)\n\nTerm project presentation (4 wks)",
     "scorePolicy": "Homework assignments and programming exercises: ~40%\nMid-term exam: ~25-30%\nTerm project and presentation: ~30-35%",
-    "materials": "- Textbooks:\n1. Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n2. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, \nMorgan &amp; Claypool Publishers, 2010.\n\n- References:\n1. Jure Leskovec, Anand Rajaraman, Jeff Ullman, Mining of Massive Datasets,  2nd edition, Cambridge University Press, 2014.\n2. Recent academic papers, tutorials, and slides.\n\n- Latest information available soon at: https://myweb.ntut.edu.tw/~jhwang/BDA/",
-    "foreignLanguageTextbooks": true,
-    "remarks": "1. 可以透過 e-mail 或 Microsoft Teams 裡的訊息聯絡到老師。\n2. 助教會建立 Facebook 的課程社群，以供同學詢問作業或考試相關問題。"
+    "materials": "- Textbooks:\n1. Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n2. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, \nMorgan & Claypool Publishers, 2010.\n\n- References:\n1. Jure Leskovec, Anand Rajaraman, Jeff Ullman, Mining of Massive Datasets,  2nd edition, Cambridge University Press, 2014.\n2. Recent academic papers, tutorials, and slides.\n\n- Latest information available soon at: https://myweb.ntut.edu.tw/~jhwang/BDA/",
+    "consultation": "1. 可以透過 e-mail 或 Microsoft Teams 裡的訊息聯絡到老師。2. 助教會建立 Facebook 的課程社群，以供同學詢問作業或考試相關問題。",
+    "remarks": "1. 課程皆會錄影，並於課後放上北科 i 學園，教材與相關訊息將公布在以下管道：北科 i 學園、Teams、或課程網頁。2. 若學校因應疫情改採遠距教學，將使用 Teams 上課 （帳號：學號 @cc.ntut.edu.tw），並同步錄影。3. 所有修課同學已經自動被加入課程 Teams 團隊。如果你是特殊情形加選，或是需要在開學後才能選課完成，目前仍未被加入本課程之 Teams 團隊，歡迎來信: jhwang@ntut.edu.tw，並註明課程名稱與你的班級、姓名。",
+    "foreignLanguageTextbooks": true
   }
 ]

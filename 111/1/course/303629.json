@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  莊政達 ",
+    "name": "莊政達",
     "email": "ctchuang@ntut.edu.tw",
     "latestUpdate": "2022-06-05 23:57:05",
     "objective": "本課程介紹有關人工智慧理論與應用。課程內容包括機器學習常用的數學工具與深度學習網路。",
     "schedule": "第一週 Tensorflow 與 keras 介紹與安裝\n第二週 機器學習常用的資料處理方式\n第三週 迴歸分析 Regression\n第四週 迴歸分析 Regression\n第五週 梯度下降法 Gradient Descent\n第六週 梯度下降法 Gradient Descent\n第七週 倒傳遞學習法 Backpropagation\n第八週 倒傳遞學習法 Backpropagation\n第九週 模型評估 Model Validation\n第十週 模型評估 Model Validation\n第十一週 卷積神經網路 Convolution Neural Network, CNN\n第十二週 遞歸神經網路 Recurrent Neural Network, RNN\n第十三週 自編碼網路 Autoencoder Network, AE\n第十四週 自編碼網路 Autoencoder Network, AE\n第十五週 生成對抗網路 Generative Adversarial Network, GAN\n第十六週 生成對抗網路 Generative Adversarial Network, GAN\n第十七週 期末專題\n第十八週 期末專題",
     "scorePolicy": "課堂實作與作業:  70%\n期末專題: 30%",
     "materials": "黃志勝，機器學習的統計基礎：深度學習背後的核心技術，旗標，2021。\n張志勇、廖文華、石貴平、王勝石，人工智慧（第二版），全華 2021。",
-    "foreignLanguageTextbooks": false,
-    "remarks": "(1) 透過電子郵件 ctchuang@ntut.edu.tw 討論課程問題\n(2) 於教師諮商時間 (Office Hours) 討論課程問題"
+    "consultation": "(1) 透過電子郵件 ctchuang@ntut.edu.tw 討論課程問題 (2) 於教師諮商時間 (Office Hours) 討論課程問題",
+    "remarks": "因應疫情警戒若調整為遠距教學資訊如下：Google Meet: meet.google.com/pxv-rnhr-ghw 聯絡方式: ctchuang@ntut.edu.tw 課程內容：公布於 i 學園 Plus",
+    "foreignLanguageTextbooks": false
   }
 ]

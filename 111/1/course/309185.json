@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  張文中 ",
+    "name": "張文中",
     "email": "wchang@ntut.edu.tw",
     "latestUpdate": "2022-06-08 15:39:14",
     "objective": "Modern control theory mainly focuses on linear system analysis and design.  This is the course where students from a variety of backgrounds begin to acquire the mathematical tools used in research literature involving linear systems.  The core material covered in this course is the theory of time-varying linear systems, in both continuous-time and discrete-time, with frequent specialization to the time invariant case.",
-    "schedule": "Tentative schedule \nWeek　　Topic\n1　　Course Introduction\n2　　Background linear algebra\n3　　Mathematical descriptions of systems\n4　　Linearization\n5　　State-space solutions\n6　　Paper presentations I\n7　　System realizations\n8　　Stability of LTI systems\n9　　Midterm exam\n10　　Lyapunov theorem\n11　　Controllability\n12　　Observability\n13　　Paper presentations II\n14　　Coprime fractions\n15　　Minimal realizations\n16　　State feedback\n17　　Final exam\n18　　Reports for presentations due\n\nPS: The contents and order of lectures and presentations will be adjusted according to actual needs",
+    "schedule": "Tentative schedule \nWeek\tTopic\n1\tCourse Introduction\n2\tBackground linear algebra\n3\tMathematical descriptions of systems\n4\tLinearization\n5\tState-space solutions\n6\tPaper presentations I\n7\tSystem realizations\n8\tStability of LTI systems\n9\tMidterm exam\n10\tLyapunov theorem\n11\tControllability\n12\tObservability\n13\tPaper presentations II\n14\tCoprime fractions\n15\tMinimal realizations\n16\tState feedback\n17\tFinal exam\n18\tReports for presentations due\n\nPS: The contents and order of lectures and presentations will be adjusted according to actual needs",
     "scorePolicy": "The final grade will be a weighted average of homework (including quizzes) 20%, midterm 25%, paper presentation and report 25%, and final examination 30%.",
     "materials": "Linear System Theory and Design - Fourth Edition, Chi-Tsong Chen, Oxford University Press, 2012",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Contact Professor ot TA via emails announced in iStudy."
+    "consultation": "Contact Professor ot TA via emails announced in iStudy.",
+    "remarks": "Response to government epidemic alert, course lecture and presentations will be offered online via Microsoft Teams at class hours and recorded lectures are available in iStudy.  Please refer to Taipei Tech's iStudy for details about this course.",
+    "foreignLanguageTextbooks": true
   }
 ]

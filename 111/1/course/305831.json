@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  李昭賢 ",
+    "name": "李昭賢",
     "email": "chlee@ntut.edu.tw",
     "latestUpdate": "2022-05-25 19:04:54",
-    "objective": "本課程將以 C 高階程式語言作為主要教學內容，首先從 C 基本語法開始，包含：常數 (Constant) 與變數 (Variable) 表示法、運算子 (Operator)、保留字 (Keyword) 與程式基本結構... 等，然後介紹 C 基本控制結構，如：選擇 (Selection)、迴圈 (Loop)，再來說明陣列 (Array)、指標 (Pointer) 之使用，以及函式 (Function) 制定、遞迴 (Recursion) 使用、字串 (String) 處理、檔案 (File) 處理... 等，最後介紹在 C 語法進階資料型態，如：Structure、Union 與 Enum，除此之外，亦介紹程式設計中基礎排序演算法，如：氣泡排序 (Bubble Sorting) 與選擇排序 (Selection Sorting)。\n\n1.　　修課學生可從本課程熟悉 C 基本語法。\n2.　　修課學生可從本課程學習 C 程式設計之實作。\n3.　　修課學生可從本課程練習基礎排序演算法。",
-    "schedule": "1. Introduction\n2. First C Program – Hello World\n3. Keywords、Declaration、Data Type、Basic I/O\n4. Expression、Operators\n5. Selection\n6. Loop – While &amp; Do-While\n7. Loop – For\n8. Array\n9. Midterm Exam.\n10. Sorting\n11. Pointer\n12. Function\n13. Recursion\n14. String Handling\n15. File Handling\n16. Structure\n17. Union、Enum\n18. Final Exam",
+    "objective": "本課程將以 C 高階程式語言作為主要教學內容，首先從 C 基本語法開始，包含：常數 (Constant) 與變數 (Variable) 表示法、運算子 (Operator)、保留字 (Keyword) 與程式基本結構... 等，然後介紹 C 基本控制結構，如：選擇 (Selection)、迴圈 (Loop)，再來說明陣列 (Array)、指標 (Pointer) 之使用，以及函式 (Function) 制定、遞迴 (Recursion) 使用、字串 (String) 處理、檔案 (File) 處理... 等，最後介紹在 C 語法進階資料型態，如：Structure、Union 與 Enum，除此之外，亦介紹程式設計中基礎排序演算法，如：氣泡排序 (Bubble Sorting) 與選擇排序 (Selection Sorting)。\n\n1.\t修課學生可從本課程熟悉 C 基本語法。\n2.\t修課學生可從本課程學習 C 程式設計之實作。\n3.\t修課學生可從本課程練習基礎排序演算法。",
+    "schedule": "1. Introduction\n2. First C Program – Hello World\n3. Keywords、Declaration、Data Type、Basic I/O\n4. Expression、Operators\n5. Selection\n6. Loop – While & Do-While\n7. Loop – For\n8. Array\n9. Midterm Exam.\n10. Sorting\n11. Pointer\n12. Function\n13. Recursion\n14. String Handling\n15. File Handling\n16. Structure\n17. Union、Enum\n18. Final Exam",
     "scorePolicy": "平常成績 (出席率)：10%\n上機練習：30%\n期中、末皆上機考：60%\n \n作業遲交或未遵守繳交規定，一律以 0 分計算",
-    "materials": "&lt; 參考用書 & gt;\n看圖學 C 語言 (附範例光碟), 陳會安，全華出版，2016\n學會 C 語言 - 從不懂，到玩上手！圖控邏輯加強版，陳會安，旗標出版，2018\nC HOW TO PROGRAM (8/E), DEITEL, Pearson (全華代理), 2016\nC 程式設計藝術 (8/E),  全華研究室，全華出版，2018",
-    "foreignLanguageTextbooks": false,
-    "remarks": "1. 可透過 北科 i 學園 的討論區\n2. 可透過 Email 聯繫與詢問課程\n3. [若非疫情緊張時刻] 可於 Office Hour 前往辦公室"
+    "materials": "<參考用書>\n看圖學 C 語言 (附範例光碟), 陳會安，全華出版，2016\n學會 C 語言 - 從不懂，到玩上手！圖控邏輯加強版，陳會安，旗標出版，2018\nC HOW TO PROGRAM (8/E), DEITEL, Pearson (全華代理), 2016\nC 程式設計藝術 (8/E),  全華研究室，全華出版，2018",
+    "consultation": "1. 可透過 北科 i 學園 的討論區 2. 可透過 Email 聯繫與詢問課程 3. [若非疫情緊張時刻] 可於 Office Hour 前往辦公室",
+    "remarks": "●依政府與學校的疫情警戒等級※「一、二級」警戒：實體授課。※「三級」(含) 以上警戒：遠距授課。●遠距教學方式說明如下：1. 採用 Google Meets，若無法配合使用 (麥克風與鏡頭缺一不可)，請不要選此課程。2. Google Meets 之連結，第一周將會公告在這裡，第二周之後將會公告在北科 i 學園。●評量方式：若施行實體教學，則期中、期末採用原本規劃。若施行遠距教學，則期中、期末將再公告替代方案。",
+    "foreignLanguageTextbooks": false
   }
 ]

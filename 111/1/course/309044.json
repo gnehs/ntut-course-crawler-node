@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  陳香君 ",
+    "name": "陳香君",
     "email": "annette@ntut.edu.tw",
     "latestUpdate": "2022-08-04 20:23:46",
-    "objective": "本課程除了介紹軟體開發架構及安全保護的原理之外，更著重在軟體開發平台的實際操作使用，例如:iOS 或 Android 的開發平台等，並以國網中心所建置的 CDX 雲端資安攻防平台進行實作分析與演練，讓學生能更了解技術原理的實際應用情境。課程內容包含：軟體安全開發流程 \n●軟體潛在威脅 \n●惡意軟體偵測 (malware detection)\n●網頁程式安全 (Web application security)\n●行動應用軟體安全 (Mobile App security): iOS, Android\n●App 漏洞與弱點 (Vulnerabilities in Apps)\n●App 安全檢測 (Security testing of Apps): static, dynamic\n●逆向工程 (reverse engineering)\n英文概述\nEnglish Description 　　The course aims to introduce principles of software security development architecture and associated security technologies. The course also focuses on discussing security issues of actual operations on software development platforms, such as iOS or Android platforms, etc. Students will use CDX cloud platform to exercise practical analysis regarding security attack and defense events, and students are expected to possess better understand of practical applications of security issues for software development. Course contents including:\n●Software Security developing procedure\n●Potential threats for software development \n●Malware detection\n●Web application security\n●Mobile App security: iOS, Android\n●Vulnerabilities in Apps\n●App Security testing: static, dynamic\n●Reverse engineering",
+    "objective": "本課程除了介紹軟體開發架構及安全保護的原理之外，更著重在軟體開發平台的實際操作使用，例如:iOS 或 Android 的開發平台等，並以國網中心所建置的 CDX 雲端資安攻防平台進行實作分析與演練，讓學生能更了解技術原理的實際應用情境。課程內容包含：軟體安全開發流程 \n●軟體潛在威脅 \n●惡意軟體偵測 (malware detection)\n●網頁程式安全 (Web application security)\n●行動應用軟體安全 (Mobile App security): iOS, Android\n●App 漏洞與弱點 (Vulnerabilities in Apps)\n●App 安全檢測 (Security testing of Apps): static, dynamic\n●逆向工程 (reverse engineering)\n英文概述\nEnglish Description \tThe course aims to introduce principles of software security development architecture and associated security technologies. The course also focuses on discussing security issues of actual operations on software development platforms, such as iOS or Android platforms, etc. Students will use CDX cloud platform to exercise practical analysis regarding security attack and defense events, and students are expected to possess better understand of practical applications of security issues for software development. Course contents including:\n●Software Security developing procedure\n●Potential threats for software development \n●Malware detection\n●Web application security\n●Mobile App security: iOS, Android\n●Vulnerabilities in Apps\n●App Security testing: static, dynamic\n●Reverse engineering",
     "schedule": "wk1-2: Introudction of Software Secutiy Development Life Cycle\nwk3: Potential threats for software development \nwk4: Malware detection\nwk5: lab\nwk6: Web application security\nwk7: Mobile App security: iOS, Android\nwk8: Vulnerabilities in Apps\nwk9: App Security testing: static, dynamic\nwk10: Lab\nwk11-13: Reverse engineering\nwk14-15: Lab\nwk16-wk18: Project presentaion",
     "scorePolicy": "Attendance: 10%\nIndividual Project: 30%\nTeam Project: 40%\nPresentation: 20%",
     "materials": "Class material: Handout\nReference: \nNIST 800-160 \nSecret Reverse Engineering Eldad Eilam",
-    "foreignLanguageTextbooks": false,
-    "remarks": "office hour Mon. 14:00-18:00 Tues. 10:00-12:00 or by appointment\noffice location: Hung-Yu Research Tech Building Room 1627"
+    "consultation": "office hour Mon. 14:00-18:00 Tues. 10:00-12:00 or by appointmentoffice location: Hung-Yu Research Tech Building Room 1627",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
   }
 ]

@@ -1,24 +1,26 @@
 [
   {
-    "name": "\n  王正豪 ",
+    "name": "王正豪",
     "email": "jhwang@ntut.edu.tw",
     "latestUpdate": "2022-11-15 13:52:25",
     "objective": "This course introduces the methods and applications of big data analytics.\nThe topics include big data management, data mining techniques, big data platforms, and project implementation and presentation.\nStudents are expected to learn the concepts of big data analytics techniques, and their applications and future trends in different case studies.",
-    "schedule": "Part I: Data mining concepts  (7 wks)\n1. Introduction to big data concepts &amp; data preprocessing (1 wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (1 wk)\n5. Midterm exam (1 wk)\n\nPart II: Distributed processing (5 wks)\n\n1. Introduction to distributed platforms: Hadoop &amp; Spark  (1 wk)\n2. MapReduce programming: relational algebra, pairs &amp; stripes (1 wk)\n3. Case study of Spark programming: frequent itemset, classification, clustering (2 wks)\n4. Term Project presentation (1 wk)",
+    "schedule": "Part I: Data mining concepts  (7 wks)\n1. Introduction to big data concepts & data preprocessing (1 wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (1 wk)\n5. Midterm exam (1 wk)\n\nPart II: Distributed processing (5 wks)\n\n1. Introduction to distributed platforms: Hadoop & Spark  (1 wk)\n2. MapReduce programming: relational algebra, pairs & stripes (1 wk)\n3. Case study of Spark programming: frequent itemset, classification, clustering (2 wks)\n4. Term Project presentation (1 wk)",
     "scorePolicy": "Homework assignments and programming exercises: ~30-35%\nMid-term exam: ~30-35%\nTerm Project: ~30-35%",
-    "materials": "- Textbook:\nJiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n\n- References:\n1. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, \nMorgan &amp; Claypool Publishers, 2010.\n2. Holden Karau, andy Konwinski, Patrick Wendell, and Matei Zaharia, Learning Spark: Lightning-fast data analysis, O'Reilly, 2015.\n3. Recent academic papers, tutorials, and slides.\n\n- Latest news available soon at: https://chriswjh.github.io/BDA_IMFI/",
-    "foreignLanguageTextbooks": true,
-    "remarks": "The teacher can be reached via e-mail or messages in Microsoft Teams.\nThe TA will help you join the course group in Facebook\nwhere you can also ask questions about the homeworks and exams."
+    "materials": "- Textbook:\nJiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n\n- References:\n1. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, \nMorgan & Claypool Publishers, 2010.\n2. Holden Karau, andy Konwinski, Patrick Wendell, and Matei Zaharia, Learning Spark: Lightning-fast data analysis, O'Reilly, 2015.\n3. Recent academic papers, tutorials, and slides.\n\n- Latest news available soon at: https://chriswjh.github.io/BDA_IMFI/",
+    "consultation": "The teacher can be reached via e-mail or messages in Microsoft Teams.The TA will help you join the course group in Facebookwhere you can also ask questions about the homeworks and exams.",
+    "remarks": "All course sessions will be recorded and put on iSchool+ afterwards, along with all course materials, homework announcements and submissions.To prepare for further impacts of COVID-19 pandemic, the following channels will be set up:1. Microsoft Teams: you will be automatically added to the team for your enrolled courses in Teams. When the course is held online, please join our class with your Teams ID (StudentID@cc.ntut.edu.tw).2. Facebook: we will set up a group for the course in Facebookwhere you can also ask questions about the homeworks and exams.",
+    "foreignLanguageTextbooks": true
   },
   {
-    "name": "\n  鄭麗珍 ",
+    "name": "鄭麗珍",
     "email": "jessicacheng@mail.ntut.edu.tw",
     "latestUpdate": "2022-08-18 22:08:56",
     "objective": "本課程介紹大數據在各個領域決策制定的應用，課程內容包括大數據分析與應用、大數據管理、大數據分法與策略、資料探勘介紹、資料探勘方法、大數據平台、大數據行銷實務、大數據個案分析、期末專題製作與報告。學生可以經由多個案例學習大數據的應用實務、目前技術與未來發展方向。\nThis course explores the rapidly developing fields of big data for the efficiency of decision making in various fields. The topics are about basic concepts of data manipulations, analytic, and communications which are including: introduction to big data; basic knowledge of data mining; special topics of big data in business Analytics, and data analytic project. The course will help students careful consideration of what is desired from big data, how big data analytic to add value to business, etc. Students can gain a strong data science knowledge set and techniques via in-depth case studies, most current readings and experiences, and most current and future technology exploration.",
-    "schedule": "Topic I:  Association Analysis\nWeek 1:　　Introduction to Association Analysis\nWeek 2:　　Introduction to Clustering Analysis\nWeek 3:　　WEKA \nWeek 4:　　 Introduction to Classification \nWeek 5:　　 WEKA\n\nWeek 6: Project Demonstration",
+    "schedule": "Topic I:  Association Analysis\nWeek 1:\tIntroduction to Association Analysis\nWeek 2:\tIntroduction to Clustering Analysis\nWeek 3:\tWEKA \nWeek 4:\t Introduction to Classification \nWeek 5:\t WEKA\n\nWeek 6: Project Demonstration",
     "scorePolicy": "Attendance：30％\nMark of usual：30％ \nProject Presentation: 40%",
     "materials": "Data Mining : Concepts and Techniques, 3/e (Hardcover), Jiawei Han, Micheline Kamber, Jian Pei, 2011.",
-    "foreignLanguageTextbooks": true,
-    "remarks": "lijen.cheng@gmail.com\nname class and question"
+    "consultation": "lijen.cheng@gmail.comname class and question",
+    "remarks": "teams",
+    "foreignLanguageTextbooks": true
   }
 ]

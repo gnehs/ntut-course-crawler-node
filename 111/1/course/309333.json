@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  賴冠廷 ",
+    "name": "賴冠廷",
     "email": "ktlai@ntut.edu.tw",
     "latestUpdate": "2022-05-27 18:54:45",
     "objective": "The goal of this course is to give students a broad overview of state-of-the-art deep learning algorithms, and teach students how to develop deep learning applications by hands-on coding examples. Most examples taught in this class are based on the TensorFlow framework. We will cover many different fields including image classification, object detection, natural language processing, reinforcement learning and generative adversarial networks.",
-    "schedule": "Course website: http://www.aiotlab.org/teaching/dl_app.html\n\n1.   Introduction to Deep Learning\n2.   Applied Math (Linear Algebra, Probability, Calculus)\n3.   Machine Learning Basics\n4.   TensorFlow &amp; Keras        \n5.   Convolutional Neural Networks        \n6.   Advanced Keras API\n7.   NLP &amp; Word Embedding\n8.   RNN/LSTM and Stock Price Prediction\n9.   Attention &amp; Transformer, BERT, GPT-3      \n10. Generative Adversarial Networks (GANs)\n11. Object Detection and Segmentation\n12. Deep Reinforcement Learning",
+    "schedule": "Course website: http://www.aiotlab.org/teaching/dl_app.html\n\n1.   Introduction to Deep Learning\n2.   Applied Math (Linear Algebra, Probability, Calculus)\n3.   Machine Learning Basics\n4.   TensorFlow & Keras        \n5.   Convolutional Neural Networks        \n6.   Advanced Keras API\n7.   NLP & Word Embedding\n8.   RNN/LSTM and Stock Price Prediction\n9.   Attention & Transformer, BERT, GPT-3      \n10. Generative Adversarial Networks (GANs)\n11. Object Detection and Segmentation\n12. Deep Reinforcement Learning",
     "scorePolicy": "Homework (35%), Midterm and Final Exam (40%), Final Project (20%), Quizzes (5%)",
     "materials": "1. Francois Chollet, “Deep Learning with Python, 2nd edition” Manning, 2021\n2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, “Deep Learning,” MIT Press, 2017\n3. Latest publications on CVPR, NIPS, ICML, AAAI, ICLR\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Website: http://www.aiotlab.org/teaching/dl_app.html\nFB Group: https://www.facebook.com/groups/2231151677158713\nEmail: ktlai@ntut.edu.tw"
+    "consultation": "Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713Email: ktlai@ntut.edu.tw",
+    "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.Any announcements will be posted in Microsoft Teams.Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713",
+    "foreignLanguageTextbooks": true
   }
 ]

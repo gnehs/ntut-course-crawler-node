@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  吳修明 ",
+    "name": "吳修明",
     "email": "hmwu@ntut.edu.tw",
     "latestUpdate": "2022-06-05 13:46:48",
     "objective": "先修課程：負責教授同意.\n類神經網路介紹：演算法，應用，與程式技巧，類神經網路控制器設計與模擬，模糊集合，近似推理理論，模糊邏輯控制器介紹，模糊邏輯控制器設計與模擬，基因演算法介紹，以基因演算法最佳化控制器，智慧型控制應用。\n1.Introduction to neural network: algorithms, applications, programming techniques. \n2. Design and simulation of neural network controller\n3. Introduction to fuzzy set, approximate reasoning, fuzzy logic controller\n4. Design and simulation of fuzzy logic controller\n5. Introduction to genetic algorithm\n6. Optimization of controller by genetic algorithm\n7. Applications of intelligent controller",
     "schedule": "Week 1 Introduction to Intelligent Control\nWeek 2 Expert PID Control\nWeeks 3~5 Foundation of Fuzzy Mathematics\nWeeks 6~8 Fuzzy Logic Control\nWeek 9 Midterm report\nWeeks 10~12 Fuzzy T-S Modeling and Control\nWeeks 13~15 Adaptive Fuzzy Control\nWeeks 16~17 Neural Networks\nWeek 18 Final report",
     "scorePolicy": "Midterm report 50%\nFinal report 50%",
     "materials": "Intelligent Control Design and MATLAB Simulation, Jinkun Liu, Springer",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Office hours: PM1:30~3:30, Tuesday\nEmail: hmwu@mail.ntut.edu.tw"
+    "consultation": "Office hours: PM1:30~3:30, TuesdayEmail: hmwu@mail.ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
   }
 ]

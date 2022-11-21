@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  劉俊麟 ",
+    "name": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
     "latestUpdate": "2022-08-04 09:52:04",
     "objective": "學習智慧型手機的程式設計，包括：應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nLearn to program mobile phone, including: basics of application, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
     "schedule": "Week 1: Kotlin、IntelliJ IDEA 與 Android Studio 概述\nWeek 2: Kotlin basic syntax (1/4) \nWeek 3: Kotlin basic syntax (2/4)\nWeek 4: Kotlin basic syntax (3/4)\nWeek 5: Kotlin basic syntax (4/4)\nWeek 6: 期中考 (Kotlin 程式語法)\nWeek 7:  Android 環境建置與專案架構 (Ch.01), 介面設計與元件佈局 (Ch.02)\nWeek 8: 物件控制與事件監聽 (Ch.03)\nWeek 9:  Activity (Ch.04)\nWeek 10: Fragment (Ch.05), 訊息提示元件 (Ch.06)\nWeek 11: 清單元件 (Ch.07), 進階清單元件 (Ch.08)\nWeek 12: 同步與非同步執行 (Ch.09)\nWeek 13: 動畫製作 (Ch.10) \nWeek 14: 多媒體應用 (Ch.11), Service (Ch.12)\nWeek 15: BroadcastReceiver (Ch.13)\nWeek 16: Google Map (Ch.14)\nWeek 17: SQLiter (Ch.15)\nWeek 18: 期末 project 報告 (Android APP)",
     "scorePolicy": "出席: 10% (點名 5 次，1 次未到扣 2%)，\n參與度: 5%，\n期中考: 25%，\n作業: 30% (約 5 次作業: Kotlin x2，Android APP x3)\n期末 project：30%",
     "materials": "教科書:  \n黃士嘉、周映樵  Android Kotlin 實作開發 第二版  博碩 \n\n參考資料: \nKotlin Basic Syntax (https://kotlinlang.org/docs/basic-syntax.html)\nhttps://developer.android.com/kotlin",
-    "foreignLanguageTextbooks": false,
-    "remarks": "可透過 email: junlin@ntut.edu.tw 聯繫教師，就課程內容進行 email 方式之諮商或線上會議諮商，或於教師規劃的面對面諮商時段 (待公佈) 進行諮商討論"
+    "consultation": "可透過 email: junlin@ntut.edu.tw 聯繫教師，就課程內容進行 email 方式之諮商或線上會議諮商，或於教師規劃的面對面諮商時段 (待公佈) 進行諮商討論",
+    "remarks": "疫情嚴重期間將依學校公告改採線上教學，線上會議軟體將採用如 MS Teams 或 Google Meet 等",
+    "foreignLanguageTextbooks": false
   }
 ]

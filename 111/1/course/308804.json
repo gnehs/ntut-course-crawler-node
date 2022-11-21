@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  宋國明 ",
+    "name": "宋國明",
     "email": "gmsung@ntut.edu.tw",
     "latestUpdate": "2022-06-09 11:10:24",
-    "objective": "Students will learn how to design VLSI circuits and systems based on a standard VLSI system design flow, where various electronic design automation (EDA) tools will be used extensively in the semester. Those EDA tools includes analog and digital circuits and systems. The main purpose of this course includes the following:\n1.　　VLSI Introduction.\n2.　　Manufacturing Process.\n3.　　MOSFET Devices.\n4.　　MOSFET Wires.\n5.　　Hspice Software.\n6.　　Hspice Simulation.\n7.　　Analog IC Layout and Practice.\n8.　　Verilog-HDL.\n9.　　Synthesis.\n10.　　Design for Testability and Automatic Test Pattern Generation.\n11.　　Static Timing Analysis.\n12.　　Placement and Routing.\n13.　　Design Rule Check, Layout Versus Schematic.\n14.　　Layout Parasitic Extraction and Simulation.\n15.　　Design Verification.\n16.　　Project Presentation.",
+    "objective": "Students will learn how to design VLSI circuits and systems based on a standard VLSI system design flow, where various electronic design automation (EDA) tools will be used extensively in the semester. Those EDA tools includes analog and digital circuits and systems. The main purpose of this course includes the following:\n1.\tVLSI Introduction.\n2.\tManufacturing Process.\n3.\tMOSFET Devices.\n4.\tMOSFET Wires.\n5.\tHspice Software.\n6.\tHspice Simulation.\n7.\tAnalog IC Layout and Practice.\n8.\tVerilog-HDL.\n9.\tSynthesis.\n10.\tDesign for Testability and Automatic Test Pattern Generation.\n11.\tStatic Timing Analysis.\n12.\tPlacement and Routing.\n13.\tDesign Rule Check, Layout Versus Schematic.\n14.\tLayout Parasitic Extraction and Simulation.\n15.\tDesign Verification.\n16.\tProject Presentation.",
     "schedule": "Week 1 VLSI Introduction.\nWeek 2 Manufacturing Process.\nWeek 3 MOSFET Devices.\nWeek 4 MOSFET Wires.\nWeek 5 Hspice Software.\nWeek 6 Hspice Simulation.\nWeek 7 Hspice Examples\nWeek 8 Analog IC Layout and Practice.\nWeek 9 Verilog-HDL.\nWeek 10 Synthesis.\nWeek 11 Design for Testability and Automatic Test Pattern Generation.\nWeek 12 Static Timing Analysis.\nWeek 13 Placement and Routing.\nWeek 14 Design Rule Check, Layout Versus Schematic.\nWeek 15 Layout Parasitic Extraction and Simulation.\nWeek 16 Smith Chart Simulation\nWeek 17 ADS Software\nWeek 18 ADS Examples",
     "scorePolicy": "(1). General Performance 10%.\n(2). Homework  30%.\n(3). Midterm exam 30% (Open book).\n(3). Final exam 30%.",
     "materials": "Neil H. E. Weste and David Harris, “CMOS VLSI Design－A Circuit and System Perspective,”Third Edition, 2005. 偉明圖書有限公司 (www.wmbook.com.tw, TEL：2363-8586, 2363-6567, ISBN：0-321-14901-7)",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Owing to the negative impect of COVID-99, the curricular consultation takes place by distance learning with Google Meet. The entrance code is qth-fxex-sxi。"
+    "consultation": "Owing to the negative impect of COVID-99, the curricular consultation takes place by distance learning with Google Meet. The entrance code is qth-fxex-sxi。",
+    "remarks": "Owing to the negative impect of COVID-99, the curricular consultation takes place by distance learning with Google Meet. The entrance code is qth-fxex-sxi。(1).Teaching is completed with Google Meet.(2).Mid-term and final tests will be completed with distance testing.(3).If possible, there are many homeworks in this coarse.",
+    "foreignLanguageTextbooks": true
   }
 ]

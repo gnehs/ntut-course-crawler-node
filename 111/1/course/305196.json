@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  陳文學 ",
+    "name": "陳文學",
     "email": "wschen@ntut.edu.tw",
     "latestUpdate": "2022-05-24 11:13:48",
     "objective": "本課程將介紹工程上、物理上系統解析的相關數學工具，內容包括五大項：\n一 常微分方程式：一階，二階，及高階常微分方程，拉譜拉斯轉換，   特殊函數。\n二 向量幾何與分析：矩陣行列式及特徵問題。\n三 傅立葉級數，積分及轉換。\n四 偏微分方程及邊界值問題。\n五 複變分析及映射轉換。",
     "schedule": "Week 1 Introduction, Terminology and Separable Equations\n第 1 週  課程介紹；微分方程用語與可分離方程式\nWeek 2 The Linear First-Order Equation, Exact Equations\n第 2 週  一階線性微分方程式、正合方程式\nWeek 3 Integrating Factors, Homogeneous Equations\n第 3 週  積分因子法、齊性微分方程式\nWeek 4 Bernoulli and Riccati Equations, Additional Applications\n第 4 週  伯努利方程式及雷卡迪方程式、微分方程的應用\nWeek 5 The Linear Second-Order Equation, Reduction of Order\n第 5 週  二階線性微分方程式、降階法\nWeek 6 The Constant Coefficient Homogeneous Equation\n第 6 週  常係數齊性微分方程式\nWeek 7 Particular Solutions of the Nonhomogeneous Equation\n第 7 週  非齊性微分方程式的特解\nWeek 8 The Euler Differential Equation, Additional Applications\n第 8 週  尤拉微分方程式、微分方程的應用\nWeek 9 High Order Differential Equations, Midterm Exam.\n第 9 週  高階微分方程式、期中考\nWeek 10 Definition and Notation of Laplace Transform\n第 10 週 拉氏轉換式的定義與標號\nWeek 11 Solution of Initial Value Problems, Shifting Theorem and the Heaviside Function\n第 11 週 含有初值問題的解、移位定理與赫維賽德函數\nWeek 12 Convolution, Impulses and the Dirac Delta Function\n第 12 週 摺積、單位脈衝及狄拉克德爾塔函數\nWeek 13 Solution of Systems of Laplace Transform\n第 13 週 線性微分方程式系統的解\nWeek 14 Polynomial Coefficients Differential Equations\n第 14 週 多項式係數的拉氏轉換式\nWeek 15 Power Series Solutions\n第 15 週 冪級數的解\nWeek 16 Frobenius Solutions and the real roots\n第 16 週 弗羅貝尼斯的解與實根\nWeek 17 Frobenius Solutions with k≠0\n第 17 週 具有 k≠0 弗羅貝尼斯的解\nWeek 18 Final Exam.\n第 18 週  期末考",
-    "scorePolicy": "1. Homework &amp; Extra Exercises 作業及外加練習  20%\n2. Attendance &amp; Performance 出席及課堂表現  20%\n3. Mid-term exam.  期中考試  30%\n4. Final exam.  期末考試  30%",
+    "scorePolicy": "1. Homework & Extra Exercises 作業及外加練習  20%\n2. Attendance & Performance 出席及課堂表現  20%\n3. Mid-term exam.  期中考試  30%\n4. Final exam.  期末考試  30%",
     "materials": "Textbook: Advanced Engineering Mathematics, 8th SI (Custom Solutions) Edition\nPeter V. O’Neil\nReference Book：Advanced Engineering Mathematics, 6th Ed.\nDennis G. Zill",
-    "foreignLanguageTextbooks": true,
-    "remarks": "1. 課堂討論\n2. 每週之諮商時間"
+    "consultation": "1. 課堂討論 2. 每週之諮商時間",
+    "remarks": "因應 COVID-19 疫情的影響，可能調整授課順序、講授內容、教授方式、評量方式及配分比例等。若因疫情而暫停實體上課時，將使用 Microsoft Teams 於原定上課時間遠距上課，會議網址與細節，將公告於北科 i 學園 +。若有其他問題，聯絡方式：wschen@ntut.edu.tw",
+    "foreignLanguageTextbooks": true
   }
 ]

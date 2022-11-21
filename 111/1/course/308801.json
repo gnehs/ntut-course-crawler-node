@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  馬尚智",
+    "name": "馬尚智",
     "email": "scma@ntut.edu.tw",
     "latestUpdate": "2022-06-22 11:17:54",
     "objective": "1. Introduction\n2. Linear block codes \n3. Cyclic codes \n4. Convolutional codes \n5. Coded modulation",
-    "schedule": "I. Introduction (1st wk)\nII. Linear block codes (2nd wk ~ 5th wk)\n1.　　Maximum likelihood decoding\n2.　　Standard array\n3.　　Syndrome decoding\n4.　　Hamming codes\n5.　　Reed-Muller codes\nIII. Cyclic codes (6th wk ~ 11th wk)\n1.　　Introduction to algebra\n2.　　Encoding\n3.　　Error-trapping decoding\n4.　　BCH codes\nIV. Convolutional codes (12th wk ~ 15th wk)\n1.　　Structural properties\n2.　　Distance properties\n3.　　The Viterbi algorithm\nV. Coded modulation (16th wk ~ 18th wk)\n1.　　Set partitioning\n2.　　Block coded modulation\n3.　　Multistage decoding\n4.　　Trellis coded modulaion",
+    "schedule": "I. Introduction (1st wk)\nII. Linear block codes (2nd wk ~ 5th wk)\n1.\tMaximum likelihood decoding\n2.\tStandard array\n3.\tSyndrome decoding\n4.\tHamming codes\n5.\tReed-Muller codes\nIII. Cyclic codes (6th wk ~ 11th wk)\n1.\tIntroduction to algebra\n2.\tEncoding\n3.\tError-trapping decoding\n4.\tBCH codes\nIV. Convolutional codes (12th wk ~ 15th wk)\n1.\tStructural properties\n2.\tDistance properties\n3.\tThe Viterbi algorithm\nV. Coded modulation (16th wk ~ 18th wk)\n1.\tSet partitioning\n2.\tBlock coded modulation\n3.\tMultistage decoding\n4.\tTrellis coded modulaion",
     "scorePolicy": "Exercises  20 %\nMid-Term Exam  40 %\nFinal Exam  40 %",
     "materials": "Error Control Coding, 2nd edition, Shu Lin and Daniel J. Costello, Jr.",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Email: scma@ntut.edu.tw"
+    "consultation": "Email: scma@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
   }
 ]

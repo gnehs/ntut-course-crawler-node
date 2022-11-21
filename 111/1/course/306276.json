@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  曾恕銘 ",
+    "name": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
     "latestUpdate": "2022-09-12 08:29:49",
     "objective": "本課程介紹無線傳輸技術的基礎和最新發展，內容包含訊號與系統基礎，數位通訊基礎，行動通訊基礎，CDMA/SCMA for B5G，資料偵測和干擾消除，MIMO (spatial multiplexing/spatial transmit diversity/beamforming)，OFDMA，4G MIMO 傳輸模式 / NOMA (non-orthogonal multiple access) for B5G，貝氏統計 / 偵測與估計 (感知無線電 追蹤預測物體軌跡)- 資料探勘和機器學習的一種。",
-    "schedule": "1.　　Signals and linear systems\n2.  Digital communications (including random processes, linear algebra)\n3.　　Mobile communication fundamentals (cellular system, propagation model, diversity)\n4.　　CDMA/SCMA for B5G\n5.　　Data detection/interference cancellation for CDMA etc.\n6.　　MIMO(Spatial Multiplexing/MU-MIMO/STBC/distributed STBC/beamforming) \n7.　　OFDM(A) (principle/synchronization/channel estimation/power allocation)\n8.　　4G Overview/MIMO Modes/Link Adaption, 5G overview, B5G NOMA (Non-orthogonal multiple access)\n9. 　　Baysian statistics/Estimation,and detection: a subset of data mining and machine learning",
+    "schedule": "1.\tSignals and linear systems\n2.  Digital communications (including random processes, linear algebra)\n3.\tMobile communication fundamentals (cellular system, propagation model, diversity)\n4.\tCDMA/SCMA for B5G\n5.\tData detection/interference cancellation for CDMA etc.\n6.\tMIMO(Spatial Multiplexing/MU-MIMO/STBC/distributed STBC/beamforming) \n7.\tOFDM(A) (principle/synchronization/channel estimation/power allocation)\n8.\t4G Overview/MIMO Modes/Link Adaption, 5G overview, B5G NOMA (Non-orthogonal multiple access)\n9. \tBaysian statistics/Estimation,and detection: a subset of data mining and machine learning",
     "scorePolicy": "Oral report 1: 20%\nExam: 40% \nOral report 2: 40% (computer simulation extra 10%)",
     "materials": "參考書目\n(4G MIMO modes Link Adaption) Houman Zarrinkoub, Understanding LTE with MATLAB: From Mathematical Modeling to Simulation and Prototyping, Wiley, 2014, ch6-7\n(行動通訊基礎) Stuber, Mobile Communications, Kluwer, 2001, ch. 1,2,6\n(5G) 5G Technologies and Advances, Part I:5G New Radio – An Overview, EASITC 2018 Tutorial A.\n(5G) A. Ly and Y. -D. Yao, \"A review of deep learning in 5G research: channel coding, massive MIMO, multiple access, resource allocation, and network security,\" IEEE Open Journal of the Communications Society, vol. 2, pp. 396-408, 2021,\n(5G) Makki, Behrooz, et al. \"A survey of NOMA: Current status and open research challenges,\" IEEE Open Journal of the Communications Society, vol. 1, pp. 179-189, 2020.\n(5G) 中華電信學院 5G 理論與生活實際體驗",
-    "foreignLanguageTextbooks": false,
-    "remarks": "Office hours"
+    "consultation": "Office hours",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
   }
 ]

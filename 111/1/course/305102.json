@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  傅子恒 ",
+    "name": "傅子恒",
     "email": "jomo0825@gmail.com",
     "latestUpdate": "2022-09-10 02:33:16",
     "objective": "本課程以互動藝術創作為目標，透過創意編程及邊緣運算兩大學習主軸，逐步引導學生進入互動藝術創作的領域。\n\nThis course targets at interactive art creation. By mastering the two main topics throughout the course including creative coding and edge computation, students will be introduced to the domain of interactive art creation.",
-    "schedule": "W1　　 9/15    創意編程簡介\nW2　　 9/22    NodeBox 3 - 基礎操作\nW3　　 9/29    NodeBox 3 - 佈點技巧\nW4　　 10/6    NodeBox 3 - 連接與沾黏\nW5　　 10/13  Ch01: Generative Art + Ch02: Processing\nW6　　 10/21  Ch03: The wrong way to draw a line + P5.js Ex01\nW7　　 10/27  Ch04: The wrong way to draw a circle + P5.js Ex02\nW8　　 11/3    Ch05: The third dimension + P5.js Ex03\nW9　　 11/10 【期中 Demo】現場 Demo\nW10　　 11/17  Ch06: Emergence + P5.js Ex04\nW11　　 11/24  Ch07: Autonomy + P5.js Ex05\nW12　　 12/1    Ch08: Fractals + P5.js Ex06\nW13　　 12/8    NFT &amp; crypto art\nW14　　 12/15  Raspberry Pi\nW15　　 12/22  Raspberry Pi GPIO (本節課改為 12/17 周末 workshop)\nW16　　 12/29【期末報告】Concept Doc\nW17　　 1/5　　   Special Topics: Attractor, Random Walker, Force Field\nW18　　1/12　　 【期末 Demo】現場 Demo",
+    "schedule": "W1\t 9/15    創意編程簡介\nW2\t 9/22    NodeBox 3 - 基礎操作\nW3\t 9/29    NodeBox 3 - 佈點技巧\nW4\t 10/6    NodeBox 3 - 連接與沾黏\nW5\t 10/13  Ch01: Generative Art + Ch02: Processing\nW6\t 10/21  Ch03: The wrong way to draw a line + P5.js Ex01\nW7\t 10/27  Ch04: The wrong way to draw a circle + P5.js Ex02\nW8\t 11/3    Ch05: The third dimension + P5.js Ex03\nW9\t 11/10 【期中 Demo】現場 Demo\nW10\t 11/17  Ch06: Emergence + P5.js Ex04\nW11\t 11/24  Ch07: Autonomy + P5.js Ex05\nW12\t 12/1    Ch08: Fractals + P5.js Ex06\nW13\t 12/8    NFT & crypto art\nW14\t 12/15  Raspberry Pi\nW15\t 12/22  Raspberry Pi GPIO (本節課改為 12/17 周末 workshop)\nW16\t 12/29【期末報告】Concept Doc\nW17\t 1/5\t   Special Topics: Attractor, Random Walker, Force Field\nW18\t1/12\t 【期末 Demo】現場 Demo",
     "scorePolicy": "分組報告: 10%\n作業: 20%\n期中專案: 15%\n期末提案報告: 15%\n期末專案: 40%",
     "materials": "Generative Art – a practical guide using processing, Matt Pearson",
-    "foreignLanguageTextbooks": true,
-    "remarks": "將於開學後成立 MS Teams 群組，輔助各項課程環節，包括諮詢。"
+    "consultation": "將於開學後成立 MS Teams 群組，輔助各項課程環節，包括諮詢。",
+    "remarks": "將使用 MS Teams 進行課程錄影",
+    "foreignLanguageTextbooks": true
   }
 ]

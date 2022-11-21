@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  姚立德",
+    "name": "姚立德",
     "email": "ltyao@ntut.edu.tw",
     "latestUpdate": "2022-06-06 22:30:15",
-    "objective": "1. Introduction         　　\n2. Supervised Learning\n3. Bayesian Decision Theory\n4. Parametric Methods\n5. Multivariate Methods\n6. Dimensionality Reduction\n7. Clustering\n8. Decision Trees\n9. Linear Discrimination\n10. Kernel Machine",
-    "schedule": "1. Introduction  (W1)      　　\n2. Supervised Learning (W2)\n3. Bayesian Decision Theory (W3)\n4. Parametric Methods (W4)\n5. Multivariate Methods (W5-6)\n6. Dimensionality Reduction (W7-8)\n7. Clustering (W9-10)\n8. Decision Trees (W11-12)\n9. Linear Discrimination (W13-14)\n10. Kernel Machine (W15-16)",
+    "objective": "1. Introduction         \t\n2. Supervised Learning\n3. Bayesian Decision Theory\n4. Parametric Methods\n5. Multivariate Methods\n6. Dimensionality Reduction\n7. Clustering\n8. Decision Trees\n9. Linear Discrimination\n10. Kernel Machine",
+    "schedule": "1. Introduction  (W1)      \t\n2. Supervised Learning (W2)\n3. Bayesian Decision Theory (W3)\n4. Parametric Methods (W4)\n5. Multivariate Methods (W5-6)\n6. Dimensionality Reduction (W7-8)\n7. Clustering (W9-10)\n8. Decision Trees (W11-12)\n9. Linear Discrimination (W13-14)\n10. Kernel Machine (W15-16)",
     "scorePolicy": "1st exam.: 30%\n2nd exam.: 30%\n3rd exam.: 35%\nParticipation: 5%",
     "materials": "Text Book: Introduction to Machine Learning (4th ed.), MIT Press, 2020.\nAuthour: Ethem Alpaydin",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Office Hours"
+    "consultation": "Office Hours",
+    "remarks": "Use MS Teams for online lectures if necessary due to pandemics.",
+    "foreignLanguageTextbooks": true
   }
 ]

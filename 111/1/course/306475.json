@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  陳偉堯 ",
+    "name": "陳偉堯",
     "email": "waltchen@ntut.edu.tw",
     "latestUpdate": "2022-05-31 12:29:31",
     "objective": "資料庫是任何完整的資訊管理系統之不可或缺的一部份，並且已經在各行各業中顯示其與日俱增的重要性，當然土木工程也不例外。尤其近年來地理資訊系統、營建管理系統及地質鑽孔資料庫的發展，更促使土木工程師正視資料庫的重要性，並學習如何有效地管理龐大的相關資訊。因此，本課程的設計即針對此需要來教導學生熟悉現代資料庫系統的設計與技術，以使他們在畢業後更具有競爭力，更容易找到理想的工作。課程的內容將包括資料處理、概念設計、關連式資料模型、及正規化等領域，而學生必須在學期中設計並完成一個完整的資料庫作為專題計畫。",
     "schedule": "Week 1: Chapter 1 data: the new corporate resource\nWeek 2: Chapter 2 data modeling\nWeek 3: Chapter 2 data modeling (E-R diagram)\nWeek 4: Chapter 2 data modeling (E-R diagram)\nWeek 5: Chapter 3 the database management system concept\nWeek 6: Test #1 (口頭報告各組 ER 圖)\nWeek 7: Chapter 4 relational data retrieval: SQL\nWeek 8: Chapter 4 relational data retrieval: SQL\nWeek 9: Chapter 5 the relational database model: introduction\nWeek 10: Chapter 6 the relational database model: additional concepts\nWeek 11: collecting data with Google Form and computing rainfall amount\nWeek 12: Test #2 (SQL 指令測驗)\nWeek 13: Chapter 7 logical database design\nWeek 14: Chapter 7 logical database design\nWeek 15: Chapter 8 physical database design\nWeek 16: Chapter 8 physical database design\nWeek 17: Chapter 9 object-oriented database management\nWeek 18: Test #3 (期末專題分組口頭報告暨書面報告繳交)",
     "scorePolicy": "Homework /attendance/classroom participation 20%\nTest #1: 20% (口頭報告各組 ER 圖)\nTest #2: 20% (SQL 指令測驗)\nTest #3: 40% (期末專題分組口頭報告暨書面報告繳交)",
     "materials": "Gillenson, M. L. (2012). Fundamentals of Database Management Systems, 2nd edition, Wiley, 395 pages.",
-    "foreignLanguageTextbooks": true,
-    "remarks": "請寫電子郵件向授課教師諮詢，或約時間於辦公室當面諮詢。"
+    "consultation": "請寫電子郵件向授課教師諮詢，或約時間於辦公室當面諮詢。",
+    "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw 如果學校公佈採取遠距教學，將改用 Google Meet 進行教學，屆時網址會公佈在北科 i 學園，未選課者可直接 email 老師詢問網址。若採取遠距教學，會斟酌調整計分方式。",
+    "foreignLanguageTextbooks": true
   }
 ]

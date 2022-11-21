@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  紀乃文",
+    "name": "紀乃文",
     "email": "nwchi@ntut.edu.tw",
     "latestUpdate": "2022-08-09 14:19:16",
     "objective": "本課程選定「建築資訊模型」（BIM）為核心，以 Autodesk Revit 作為工程應用軟體，訓練學生程式設計的基礎能力與物件導向程式設計的思維概念，以進一步將其應用並實踐在建築資訊模型的 API 應用程式開發之上，包含自 BIM 模型當中擷取屬性資訊、進階數量計算、寫入自訂參數、自動化修改模型及與其他應用程式軟體的交互操作等技術。\n\n This course aims to train the enrolled students to develop basic computer programming skills as well as the Object-Oriented Programming (OOP) concepts, and then implement them on the development of Application Programming Interface (API) applications for BIM software. These advanced application includes extracting information from BIM models, adding custom parameters to BIM models, performing advanced quantity takeoffs, automatically modifying the BIM models, or interacting with other software packages.",
-    "schedule": "1　　Course introduction\n2　　Introduction to BIM and Revit API: Basic settings for IDE and Revit API\n3　　Introduction to C# programming language: Standard IO and windows form\n4　　Introduction to C# programming language: Variables\n5　　Introduction to C# programming language: Control flow \n6　　Introduction to C# programming language:Array and containers \n7　　Introduction to C# programming language: Loop \n8　　Introduction to C# programming language: Function\n9　　Term project proposal presentation\n10　　Introduction to C# programming language: Object Oriented Programming(1)\n11　　Introduction to C# programming language: Object Oriented Programming(2)\n12　　Revit API implementation: Access the parameters in BIM model\n13　　Revit API implementation: Data exchange between BIM model and database\n14　　Revit API implementation: Create/Modify components for BIM model(1)\n15　　Revit API implementation: Create/Modify components for BIM model(2)\n16　　Final presentation",
+    "schedule": "1\tCourse introduction\n2\tIntroduction to BIM and Revit API: Basic settings for IDE and Revit API\n3\tIntroduction to C# programming language: Standard IO and windows form\n4\tIntroduction to C# programming language: Variables\n5\tIntroduction to C# programming language: Control flow \n6\tIntroduction to C# programming language:Array and containers \n7\tIntroduction to C# programming language: Loop \n8\tIntroduction to C# programming language: Function\n9\tTerm project proposal presentation\n10\tIntroduction to C# programming language: Object Oriented Programming(1)\n11\tIntroduction to C# programming language: Object Oriented Programming(2)\n12\tRevit API implementation: Access the parameters in BIM model\n13\tRevit API implementation: Data exchange between BIM model and database\n14\tRevit API implementation: Create/Modify components for BIM model(1)\n15\tRevit API implementation: Create/Modify components for BIM model(2)\n16\tFinal presentation",
     "scorePolicy": "作業 Assignments (40%)\n課堂練習 Lab Exercise (30%) \n期末專題（需以英文上台發表） Term Project (30%)",
-    "materials": "Autodesk (2017), Revit API Developers Guide, &lt;available: http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42 &gt;",
-    "foreignLanguageTextbooks": false,
-    "remarks": "nwchi@ntut.edu.tw"
+    "materials": "Autodesk (2017), Revit API Developers Guide, <available: http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42 >",
+    "consultation": "nwchi@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
   }
 ]

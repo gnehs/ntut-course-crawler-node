@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  王謹誠 ",
+    "name": "王謹誠",
     "email": "chincwang@ntut.edu.tw",
     "latestUpdate": "2022-05-26 17:52:15",
     "objective": "本課程在應用計算方法來解決工程問題。重點將放在理解各種數值方法背後的基本概念，使用 MATLAB 環境來實現基本數值方法，以及利用複雜的數值方法來建構 MATLAB 函數。\nThis course is to teach you how to apply computational methodologies to solve engineering problems when no analytical solution exists. Emphasis will be placed on understanding the basic concepts behind the various numerical methods, implementing basic numerical methods using the MATLAB structured programming environment, and utilizing more sophisticated numerical methods provided as built-in MATLAB functions.",
     "schedule": "第 01 週 計算流體力學\nWeek01 CFD basics and ANSYS Fluent Introduction\n第 02 週 數學模型\nWeek02 Mathematical Modeling\n第 03 週 MATLAB 環境簡介\nWeek03 MATLAB Fundamentals\n第 04 週 誤差分析\nWeek04 Roundoff and Truncation Errors\n第 05 週 誤差分析\nWeek05 Roundoff and Truncation Errors\n第 06 週 求根\nWeek06 Roots: Open Methods\n第 07 週 最佳化\nWeek07 Optimization\n第 08 週 線性方程式\nWeek08 Linear Algebraic Equations \n第 09 週 期中報告\nWeek09 Midterm \n第 10 週 高斯消去法\nWeek10 Gauss Elimination\n第 11 週 LU 分解法\nWeek11 LU Factorization\n第 12 週 反矩陣和條件數\nWeek12 Matrix Inverse and Condition\n第 13 週 迭代法\nWeek13 Iterative Methods\n第 14 週 數值積分\nWeek14 Numerical Integration Formulas\n第 15 週 數值微分\nWeek15 Numerical Differentiation\n第 16 週 初始值問題\nWeek16 Initial-Value Problems\n第 17 週 邊界值問題\nWeek17 Boundary-Value Problems\n第 18 週 期末考\nWeek18 Final",
     "scorePolicy": "出席 Attendance  20%\n作業 Homework 50%\n期末考 Final  30%",
-    "materials": "教科書: Applied Numerical Methods with MATLAB for Engineers and Scientists, Steven C. Chapra, 4th Edition, McGraw-Hill Education, 2018,\n　　ISBN: 978-1-260-08325-5.\n\n參考書：應用數值方法：使用 MATLAB, 吳俊諆 東華圖書，2018, ISBN 9863413755.\n\n補充說明資訊：\nMatlab information =&gt; https://vdesk.ntut.edu.tw/portal/web/index.html",
-    "foreignLanguageTextbooks": true,
-    "remarks": "辦公時間：每週二下午 1 點至下午 4 點在綜合科館 526-21 室。課後或其他時間預約即可。家庭作業問題請勿使用電子郵件尋求協助。"
+    "materials": "教科書: Applied Numerical Methods with MATLAB for Engineers and Scientists, Steven C. Chapra, 4th Edition, McGraw-Hill Education, 2018,\n\tISBN: 978-1-260-08325-5.\n\n參考書：應用數值方法：使用 MATLAB, 吳俊諆 東華圖書，2018, ISBN 9863413755.\n\n補充說明資訊：\nMatlab information => https://vdesk.ntut.edu.tw/portal/web/index.html",
+    "consultation": "辦公時間：每週二下午 1 點至下午 4 點在綜合科館 526-21 室。課後或其他時間預約即可。家庭作業問題請勿使用電子郵件尋求協助。",
+    "remarks": "遠距上課使用 Microsoft Teams，請登入學校帳號，帳號說明網址：https://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
+    "foreignLanguageTextbooks": true
   }
 ]

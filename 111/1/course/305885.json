@@ -1,24 +1,26 @@
 [
   {
-    "name": "\n  田方治 ",
+    "name": "田方治",
     "email": "fctien@ntut.edu.tw",
     "latestUpdate": "2022-06-22 08:58:03",
     "objective": "前半學期將介紹 python 語言之基本撰寫，內容同樣包括：基本輸入輸出，流程控制、函數等相關內容，將使用 python 3.6 (以上)\n本課程之目的在訓練大學部學生於撰寫程式之能力，程式語言以 Python 為實踐主體，著重於語言本身，以及電腦科學程式概念 \n程式語言 (1/2) 課程內容包含: Python 裝設、Operators and Expression、流程控制、函式、module、datta structure、input/output、OOP (Class 概念)、及 exception；並將介紹廣泛使用之標準程式庫，包括: sys、os、numpy、pickle、pillow、pyqt 等；並將配合學期之 project，訓練同學團隊合作及系統開法之經驗，(1) 部分主要強調基礎語言、邏輯、I/O、流程之訓練\n\n後半學期介紹 VBA 語言基本資料處理的概念， 包含基本輸入與輸出、程式的流程控制、函數的應用等指令之撰寫、程式之編輯、編譯、聯絡與程式之執行，並發展一套應用程式。",
-    "schedule": "介紹 VBA 語言基本資料處理的概念，包含:\n基本輸入與輸出\n程式的流程控制\n函數的應用等指令之撰寫\n程式之編輯、編譯、聯絡\n程式之執行\nVBE 工作環境\nClass &amp; Object \n巨集的錄製\nUser Form 之設計\n其他\nPython 部分:\nLecture 1 - Installation\nLecture 2 - Introduction to Python &amp;  Naming convention\nLecture 3 - IDLE &amp; vs code\nLecture 4 - Basics - Variable and Expression\nLecture 5 - Data Type I、II、III\nLecture 6- Flow Chart\nLecture 7- Logic Control 1、2、3\nLecture 8- Function 1、2、3\nLecture 9 - Local vs Global Variables",
-    "scorePolicy": "Homework*5　　　　       (35%)\nTerm project*1　　　　(15%)\nExamination*2　　　　(50%)\n課外 reading　　　　　　(  5%)",
-    "materials": "Excel VBA 與巨集程式設計，Jelen &amp; Syrstad 著，廖文秀譯 (博碩文化)\n\nbyte-of-python (電子書 網路費版 中 / English)\nhttps://www.w3schools.com/python/default.asp \n個人教材 (PPT) + Video\n相關網頁及 YouTube: https://www.youtube.com/watch?v=L3SL6wgVDPE&amp;list=PLw3ywie6qaocgKsiqZBWCpo1jw2ebPUFv&amp;index=1&amp;t=34s",
-    "foreignLanguageTextbooks": false,
-    "remarks": "Office Hours: 每周二 上午 10:00~12:00\nOffice: R&amp;D 1125"
+    "schedule": "介紹 VBA 語言基本資料處理的概念，包含:\n基本輸入與輸出\n程式的流程控制\n函數的應用等指令之撰寫\n程式之編輯、編譯、聯絡\n程式之執行\nVBE 工作環境\nClass & Object \n巨集的錄製\nUser Form 之設計\n其他\nPython 部分:\nLecture 1 - Installation\nLecture 2 - Introduction to Python &  Naming convention\nLecture 3 - IDLE & vs code\nLecture 4 - Basics - Variable and Expression\nLecture 5 - Data Type I、II、III\nLecture 6- Flow Chart\nLecture 7- Logic Control 1、2、3\nLecture 8- Function 1、2、3\nLecture 9 - Local vs Global Variables",
+    "scorePolicy": "Homework*5\t\t       (35%)\nTerm project*1\t\t(15%)\nExamination*2\t\t(50%)\n課外 reading\t\t\t(  5%)",
+    "materials": "Excel VBA 與巨集程式設計，Jelen & Syrstad 著，廖文秀譯 (博碩文化)\n\nbyte-of-python (電子書 網路費版 中 / English)\nhttps://www.w3schools.com/python/default.asp \n個人教材 (PPT) + Video\n相關網頁及 YouTube: https://www.youtube.com/watch?v=L3SL6wgVDPE&list=PLw3ywie6qaocgKsiqZBWCpo1jw2ebPUFv&index=1&t=34s",
+    "consultation": "Office Hours: 每周二 上午 10:00~12:00Office: R&D 1125",
+    "remarks": "程式語言  線上上課連結: https://meet.google.com/tqp-izpk-xfh (本課程不論是否線上上課皆會開啟此連結，以利實作 demo)",
+    "foreignLanguageTextbooks": false
   },
   {
-    "name": "\n  陳協慶 ",
+    "name": "陳協慶",
     "email": "cyutchen@ms28.hinet.net",
     "latestUpdate": "2022-09-02 08:56:22",
     "objective": "本課程介紹 VBA 語言的基本應用，內容包含基本輸入與輸出、程式的流程控制、函數與程序的基本架構、使用者定義之視窗介面、程式之編輯、除錯、與程式之執行。\nThis course introduces the basic application of VBA language. The course contents include basic input and output, program flow control, structure of functions and subroutines, user-defined interface, program editing, debugging, and execution.",
     "schedule": "#1   Excel 及 VBA 開發環境簡介\n#2   巨集程式錄製與修改\n#3   範圍參照\n#4   自訂函數撰寫\n#5   運算子與基本輸入輸出\n#6   流程控制 (For, Do 迴圈)\n#7   流程控制 (If, Select)\n#8   Exam 1\n#9   流程控制 (For Each 迴圈)\n#10 自訂表單 I\n#11 自訂表單 II\n#12 陣列\n#13 Exam 2, 字串與文字檔處理\n#14 Turbo C/ DEV 簡介\n#15 變數與資料型態基本語法\n#16 基本輸入輸出與流程控制\n#17 專題分組報告\n#18 Final Exam",
     "scorePolicy": "作業 + 專題：40%\n期中考 (I, II)：20 % x 2\n期末考：20 %",
     "materials": "Bill Jelen, Tracy Syrstad，Excel VBA 與巨集程式設計，博碩文化，廖文秀譯",
-    "foreignLanguageTextbooks": false,
-    "remarks": "Tue./Wed.:1:00pm ~ 4:00pm (科研大樓 1032)"
+    "consultation": "Tue./Wed.:1:00pm ~ 4:00pm (科研大樓 1032)",
+    "remarks": "採遠距教學時請使用 i 學園之連結進入 Teams 課堂，帳號為 [學號]@cc.ntut.edu.tw；密碼與入口網站相同。",
+    "foreignLanguageTextbooks": false
   }
 ]

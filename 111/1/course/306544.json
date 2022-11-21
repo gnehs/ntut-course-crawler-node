@@ -1,24 +1,26 @@
 [
   {
-    "name": "\n  李達生",
+    "name": "李達生",
     "email": "f11167@ntut.edu.tw",
     "latestUpdate": "2022-06-20 07:53:57",
     "objective": "控制理論基礎，冷凍控制系統方式簡介，冷凍系統控制元件認識，冷凍循環運轉控制系統規劃，冷凍應用環境溫溼度及污染控制，除霜、防溼及防凍控制設計，冷凍應用節能控制系統規劃設計\nFundamentals of control logic, introduction to refrigerating control methods, controlled devices and controllers, control circuit design for refrigerating cycle operating, schematic design of space temperature, humidity and contaminants control, Defrost, frost and moisture control design, energy saving control system design",
-    "schedule": "1-4 Fundamentals\n      Thermodynamics\n      Energy Efficiency\n      Reynolds Transport Theorem &amp; fluid dynamics\n      Governing equations of\u000b HVAC systems\n5-7 Classic control theories\n      Laplace Transform\n      Control stability \n      Control performances\n      Transfer functions of HVAC systems\n      On-Off control\n      PID control\n8    Mid exam\n9-12 Smart control &amp; Invert control\n        Smart air conditioner \n        Smart valve &amp; chiller system\u000b\n         Inverter control \n13-15 Modern control &amp; AI\n          State space equation\n          Observability and controllability \n          Artificial Intelligence (AI) \u000b- Neuro Fuzzy, GA, PSO etc.\n16-18 AI assisted HVAC control\n          Theoretical analysis\n          Prediction of optimized setting\n          Predictive control\n          Unmet demand of sensors\n19  Final exam",
+    "schedule": "1-4 Fundamentals\n      Thermodynamics\n      Energy Efficiency\n      Reynolds Transport Theorem & fluid dynamics\n      Governing equations of\u000b HVAC systems\n5-7 Classic control theories\n      Laplace Transform\n      Control stability \n      Control performances\n      Transfer functions of HVAC systems\n      On-Off control\n      PID control\n8    Mid exam\n9-12 Smart control & Invert control\n        Smart air conditioner \n        Smart valve & chiller system\u000b\n         Inverter control \n13-15 Modern control & AI\n          State space equation\n          Observability and controllability \n          Artificial Intelligence (AI) \u000b- Neuro Fuzzy, GA, PSO etc.\n16-18 AI assisted HVAC control\n          Theoretical analysis\n          Prediction of optimized setting\n          Predictive control\n          Unmet demand of sensors\n19  Final exam",
     "scorePolicy": "Reports 60% + Mid exam 20% + Final exam 20%",
     "materials": "Slides",
-    "foreignLanguageTextbooks": false,
-    "remarks": "Please make an appointment with teaching assistant."
+    "consultation": "Please make an appointment with teaching assistant.",
+    "remarks": "On line courses",
+    "foreignLanguageTextbooks": false
   },
   {
-    "name": "\n  張良鉦",
+    "name": "張良鉦",
     "email": "s3458009@ntut.edu.tw",
     "latestUpdate": "2022-06-01 10:36:40",
     "objective": "控制理論基礎，冷凍控制系統方式簡介，冷凍系統控制元件認識，冷凍循環運轉控制系統規劃，冷凍應用環境溫溼度及污染控制，除霜、防溼及防凍控制設計，冷凍應用節能控制系統規劃設計\nFundamentals of control logic, introduction to refrigerating control methods, controlled devices and controllers, control circuit design for refrigerating cycle operating, schematic design of space temperature, humidity and contaminants control, Defrost, frost and moisture control design, energy saving control system design",
     "schedule": "1. 概論\n2. 數學 基礎簡介\n3. 轉換函數\n4. 訊號流程圖\n5. 實際系統數學模式之求得\n6. 狀態變數分析\n7. 線性系統之穩定度分析\n8. 控制系統之時域分析\n9. 根值軌跡圖，控制系統之頻域分析 \n10. 控制系統實例說明",
     "scorePolicy": "成績比重如下：\n期中：30%\n期末：40%\n平時成績：30%",
-    "materials": "Golnaraghi &amp; Kuo: Automatic Control Systems 9/E",
-    "foreignLanguageTextbooks": true,
-    "remarks": "臨時問題可透過助教詢問老師時間。\n或於上課前、後時間當面討論，或預約時間討論。"
+    "materials": "Golnaraghi & Kuo: Automatic Control Systems 9/E",
+    "consultation": "臨時問題可透過助教詢問老師時間。或於上課前、後時間當面討論，或預約時間討論。",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準",
+    "foreignLanguageTextbooks": true
   }
 ]

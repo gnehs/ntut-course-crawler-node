@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  孫勤昱 ",
+    "name": "孫勤昱",
     "email": "cysun@ntut.edu.tw",
     "latestUpdate": "2022-08-04 12:00:15",
     "objective": "The main purpose of this course is to introduce the basic knowledge of the computer operating system, system module, and overall operation mechanism. Course content includes operating system architecture, processes and threads, CPU scheduling, deadlock, memory systems, file systems, I/O systems, and the concepts of computer security.\n\nCourse objectives:\n* To understand the functions of operating systems\n* To understand the design considerations of the components of an operating system.\n* To know the important algorithms of operating systems.",
     "schedule": "Week 1: Course Introduction, PC Internals \nWeek 2: Introduction \nWeek 3: System Structures\nWeek 4: Process Concept (1) \nWeek 5: Process Concept (2) \nWeek 6: Multithreaded Programming\nWeek 7: Process Scheduling (1)\nWeek 8: Process Scheduling (2)\nWeek 9: Midterm exam.\nWeek 10: Synchronization (1)\nWeek 11: Synchronization (2)\nWeek 12: Deadlocks\nWeek 13: Memory management\nWeek 14: Virtual memory\nWeek 15: No class\nWeek 16: Storage management\nWeek 17: File systems, Security\nWeek 18: Final exam.",
-    "scorePolicy": "Midterm exam 30%\nFinal exam 30%\nAssignments &amp; Final project 25%\nIn-class performance 15%",
+    "scorePolicy": "Midterm exam 30%\nFinal exam 30%\nAssignments & Final project 25%\nIn-class performance 15%",
     "materials": "Silberschatz's Operating System Concepts (10th edition, global edition)",
-    "foreignLanguageTextbooks": true,
-    "remarks": "Email: cysun@ntnu.edu.tw\nPhone: +886-2-2771-2171 #4245\nOffice: Hong-Yue Tech. Research Building 336 (please send an email first)\nOffice hours: Mon. 13:00 ~ 17:00/Tues. 10:00 ~ 12:00/Thur. 19:00 ~ 20:00"
+    "consultation": "Email: cysun@ntnu.edu.twPhone: +886-2-2771-2171 #4245Office: Hong-Yue Tech. Research Building 336 (please send an email first)Office hours: Mon. 13:00 ~ 17:00/Tues. 10:00 ~ 12:00/Thur. 19:00 ~ 20:00",
+    "remarks": "1. You can feel free to contact me (or TAs) if you have any problems with this course.2. This course will turn into an online course if needed (such as covid-19), and we will use \"Google meet\" or \"Webex\" (depending on the rules of school).",
+    "foreignLanguageTextbooks": true
   }
 ]

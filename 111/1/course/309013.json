@@ -1,13 +1,14 @@
 [
   {
-    "name": "\n  許書涵",
+    "name": "許書涵",
     "email": "bookhsu@ntut.edu.tw",
     "latestUpdate": "2022-06-02 11:52:51",
     "objective": "先修課程：3002011 或負責教授同意。基本觀念及其領域、非線性代數之數值解法、聯立方程式之數值解、多項式內外插、微分、積分、常微分方程、起始與邊界值問題之數值解法。\n1. Introduction to the basic concepts of the numerical method 2. Numerical methods of solving nonlinear algebraic equations. 3. Numerical methods of solving systems of linear equations. 4. Numerical interpolation and extrapolation. 5. Numerical differentiation and integration.6. Numerical methods of ordinary differential equations with initial-value problems and boundary value problems.",
     "schedule": "week1: 簡介\nweek2: MATLAB 安裝教學\nweek3: 基本矩陣與運算\nweek4: 繪圖指令，函數句柄\nweek5: 牛頓法與方程式求根\nweek6: 牛頓法與方程式求根\nweek7: 數值微分與積分\nweek8: 數值微分與積分\nweek9: 方程組與特徵值\nweek10: 方程組與特徵值\nweek11: 龍格庫塔 (Runge-Kutta method) 法與加遼金 (Galerkin method) 法\nweek12: 龍格庫塔 (Runge-Kutta method) 法與加遼金 (Galerkin method) 法\nweek13: 期末發表題目討論\nweek14: 分組上台發表\nweek15: 分組上台發表\nweek16: 分組上台發表\nweek17: 分組上台發表\nweek18: 分組上台發表",
     "scorePolicy": "分組口頭發表與繳交紙本報告",
-    "materials": "參考書目：\n數值方法 - 使用 MATLAB 程式語言，黃俊銘\nNumerical Analysis, Richard L. Burden &amp; J. Douglas Faires\n\n請自備筆記型電腦，並安裝 excel",
-    "foreignLanguageTextbooks": false,
-    "remarks": "課程相關問題請來 Email 信\n開學第一週課堂上會公布 line 群組，學期中可直接群組討論。"
+    "materials": "參考書目：\n數值方法 - 使用 MATLAB 程式語言，黃俊銘\nNumerical Analysis, Richard L. Burden & J. Douglas Faires\n\n請自備筆記型電腦，並安裝 excel",
+    "consultation": "課程相關問題請來 Email 信開學第一週課堂上會公布 line 群組，學期中可直接群組討論。",
+    "remarks": "使用線上會議軟體進行遠距教學",
+    "foreignLanguageTextbooks": false
   }
 ]
