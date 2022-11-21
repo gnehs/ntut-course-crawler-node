@@ -14,20 +14,11 @@ jobs:
       matrix:
         department: [0,1,2]
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
       with:
-        submodules: true
-    - name: Setup Node
-      uses: actions/setup-node@v2-beta
-      with:
-        node-version: '12.x'
-    - name: Cache dependencies
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
+        node-version: '14.x'
+        cache: 'npm'
     - name: Install npm packages
       run: npm install
     - name: fetch course data
@@ -44,20 +35,15 @@ jobs:
       matrix:
         department: [0,1,2]
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: actions/download-artifact@v2
       with:
         name: ${{ matrix.department }}
         path: ./dist/
-    - name: Setup Node
-      uses: actions/setup-node@v2-beta
-    - name: Cache dependencies
-      uses: actions/cache@v2
+    - uses: actions/setup-node@v3
       with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
+        node-version: '14.x'
+        cache: 'npm'
     - name: Install npm packages
       run: npm install
     - name: fetch course data
@@ -71,7 +57,7 @@ jobs:
     needs: [FetchCurrent, FetchSyllabus]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: actions/download-artifact@v2
       with:
         name: 0
