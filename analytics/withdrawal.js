@@ -89,11 +89,11 @@ const color = require('colors');
           .reduce((a, b) => ({ ...a, [b.name]: b.rate }), {})
       )
     )
+    return result
   }
 
-  calcWithdrawalRate(data)
+  let result = calcWithdrawalRate(data)
   console.log(`[info] save data done`.green)
-
 
   function filterPeriod(data, period, name) {
     let periodMain = main.slice(0, period).map(({ year, sem }) => `${year}-${sem}`)
@@ -104,4 +104,25 @@ const color = require('colors');
   filterPeriod(data, 10 + 1, `recent-5-years`)  // 最近五年
   filterPeriod(data, 6 + 1, `recent-3-years`)  // 最近三年
 
+  // 推薦博雅課程
+  /*
+  function getRateByTeachers(teachers) {
+    return Math.max(teachers.map(x => result.filter(y => y.name == x.name)[0].rate))
+  }
+  let mainYearSems = main.map(({ year, sem }) => `${year}-${sem}`)
+  for (let yearSem of mainYearSems) {
+    let courses = data
+      .filter(x => `${x.year}-${x.sem}` === yearSem)
+      .filter(x => x.class.some(x => x.name.match(/^博雅/)))
+      .sort((a, b) => getRateByTeachers(b.teacher) - getRateByTeachers(a.teacher))
+      .slice(0, 100)
+    console.log(`[info] ${yearSem} ${courses.length} courses`.green)
+    fs.mkdirSync(`./dist/${yearSem.split('-').join('/')}/analytics`, { recursive: true });
+    fs.writeFileSync(
+      `./dist/${yearSem.split('-').join('/')}/analytics/recommend-general.json`,
+      JSON.stringify(courses)
+    )
+    console.log(`[info] save ${yearSem} done`.green)
+  }
+  */
 })();
