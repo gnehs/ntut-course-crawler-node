@@ -70,6 +70,8 @@ jobs:
       with:
         name: 2
         path: ./dist/
+    - name: Run Analytics
+      run: node ./analytics/withdrawal.js
     - name: Show All years
       run: ls -R
       working-directory: ./dist/
