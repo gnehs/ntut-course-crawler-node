@@ -23,7 +23,7 @@ jobs:
       run: npm install
     - name: fetch course data
       run: node fetchCourse.js ${{ matrix.department }}
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v3
       with:
         name: ${{ matrix.department }}
         path: ./dist/
@@ -36,7 +36,7 @@ jobs:
         department: [0,1,2]
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/download-artifact@v2
+    - uses: actions/download-artifact@v3
       with:
         name: ${{ matrix.department }}
         path: ./dist/
@@ -48,7 +48,7 @@ jobs:
       run: npm install
     - name: fetch course data
       run: node fetchSyllabus.js ${{ matrix.department }}
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v3
       with:
         name: ${{ matrix.department }}
         path: ./dist/
@@ -58,15 +58,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/download-artifact@v2
+    - uses: actions/download-artifact@v3
       with:
         name: 0
         path: ./dist/
-    - uses: actions/download-artifact@v2
+    - uses: actions/download-artifact@v3
       with:
         name: 1
         path: ./dist/
-    - uses: actions/download-artifact@v2
+    - uses: actions/download-artifact@v3
       with:
         name: 2
         path: ./dist/
