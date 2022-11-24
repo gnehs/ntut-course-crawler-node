@@ -62,7 +62,7 @@ const color = require('colors');
       title: '平均退選率',
     }]
     let result = Object.values(calcResult).filter(x => x.people).sort((a, b) => b.rate - a.rate).map(x => {
-      x.course = x.course.map(({ name, id, courseType, people, peopleWithdraw, year, sem }) => ({ name, id, courseType, people, peopleWithdraw, year, sem, department }))
+      x.course = x.course.map(({ name, id, courseType, people, peopleWithdraw, year, sem, department }) => ({ name, id, courseType, people, peopleWithdraw, year, sem, department }))
       return x
     })
     // calc quartiles
