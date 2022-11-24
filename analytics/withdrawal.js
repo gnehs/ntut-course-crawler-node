@@ -23,7 +23,7 @@ const color = require('colors');
   let departmentItems = ['main', '進修部', '研究所(日間部、進修部、週末碩士班)']
   let departmentMain = main.map(({ year, sem }) => departmentItems.map(department => ({ year, sem, department }))).flat()
   let data
-  data = departmentMain.map(async ({ year, sem, department }) => (await fetchCourse(year, sem, department)).map(x => ({ ...x, year, sem })))
+  data = departmentMain.map(async ({ year, sem, department }) => (await fetchCourse(year, sem, department)).map(x => ({ ...x, year, sem, department })))
   data = await Promise.all(data)
   data = data.flat(9)
   console.log(`[info] ${data.length} courses`.green)
@@ -62,7 +62,7 @@ const color = require('colors');
       title: '平均退選率',
     }]
     let result = Object.values(calcResult).filter(x => x.people).sort((a, b) => b.rate - a.rate).map(x => {
-      x.course = x.course.map(({ name, id, courseType, people, peopleWithdraw, year, sem }) => ({ name, id, courseType, people, peopleWithdraw, year, sem }))
+      x.course = x.course.map(({ name, id, courseType, people, peopleWithdraw, year, sem }) => ({ name, id, courseType, people, peopleWithdraw, year, sem, department }))
       return x
     })
     // calc quartiles
