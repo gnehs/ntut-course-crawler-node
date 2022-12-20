@@ -1,0 +1,14 @@
+[
+  {
+    "name": "陳昱圻",
+    "email": "wycchen@ntut.edu.tw",
+    "latestUpdate": "2022-12-19 22:52:24",
+    "objective": "實現計算已從傳統地本地端機器獨立完成，進而委託上雲端等服務提供者協力完成。然而隨著資料或應用的授權，相關的計算安全性必須重新被探討。本課程將會從資料的隱密性出發，探討如何使用同態加密法輕鬆完成一個安全的授權計算，進而利用其他輕量化元件 (混淆電路、私密分享) 來取代同態加密並重新設計授權計算協定。接著會轉往定義資料的隱私性，並介紹 k 匿名等去識別化技術，最終帶入現今最嚴謹的差分隱私。透過上述之保有隱私與安全方法，將著名的人工智慧與機器學習演算法導入授權計算之中，重構不同情境的新型態安全計算框架。\nThe implementation of computation has been completed independently from the local machine, and then outsourced to the cloud (or some service providers) to complete it. However, with the delegation of data or applications, accordingly the security of such computation must be revisited. This course will start from the data confidentiality, discuss how to use homomorphic encryption to easily complete a secure outsourced computation, and then use other lightweight components (garbled circuit, secret sharing) to replace homomorphic encryption and redesign the secure protocols. Then it will move to define the privacy of data, introduce de-identification techniques such as k-anonymity, and finally bring the most rigorous notion of differential privacy. Through the above-mentioned methods of preserving privacy and security, artificial intelligence and machine learning algorithms are introduced into the outsourced computation to reconstruct a new type of the framework for different scenarios.",
+    "schedule": "1. Intro to privacy and security with computation\n2. Cryptography basic\n3. Homomorphic encryption (HE) I\n4. Homomorphic encryption (HE) II\n5. Applications of HE\n6. Secret sharing (SS) I\n7. Secret sharing (SS) II\n8. Applications of SS\n9. Project progress report\n10. Garbled circuit I\n11. Garbled circuit II\n12. Privacy definition\n13. Differential privacy I\n14. Differential privacy II\n15. Privacy preserving machine learning\n16. Advanced topics\n17. Final project presentation\n18. Final project presentation",
+    "scorePolicy": "Class participation 10%\nQuizzes and exercises 40%\nProjects 50%",
+    "materials": "Ref: Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich by Yehuda Lindell  (Ed.)",
+    "consultation": "By email",
+    "remarks": "Teams",
+    "foreignLanguageTextbooks": false
+  }
+]

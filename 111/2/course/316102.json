@@ -1,0 +1,14 @@
+[
+  {
+    "name": "鍾明桉",
+    "email": "mingannchung@ntut.edu.tw",
+    "latestUpdate": "2022-12-16 00:27:32",
+    "objective": "瞭解微算機之基本組織架構及應用，內容包含：1.PC 之使用，2. 微電腦學習機之使用，3. 邏輯分析儀之使用，4. 組合語言之設計與除錯，5. 記憶體設計 ROM/RAM，6. 輸出入埠設計及程式控制，7. 輸出入埠應用 (鍵盤介面、LED 顯示介面)，8.A/D、D/A 介面設計，9. 簡單 PC 介面卡設計 (PIO 及 SIO) 介面，單晶片之設計與應用。\nThe experiment covers the basic architecture and application \nof microcomputer.The lab. work includes:\n1.The usage of PC\n2.The usage of microcomputer training machine\n3.Logic analysis\n4.The design and debug of assembly language\n5.ROM/RAM design\n6.I/O design and control \n7.A/D, D/A design\n8.PC interfacing design\n9.Single-chip microcomputer system design",
+    "schedule": "Week1: 微電腦概論\n            微電腦應用系統的開發流程\n            Arduino IDE 整合開發環境操作\nWeek2:Arduino 程式語言介紹\nWeek3: 輸出原理與基本實驗 \n            LED 亮滅、繼電器、霹靂燈與七段顯示器控制\nWeek4: 輸入原理與基本實驗\n            指撥開關與 LED、7 段顯示器控制實驗\nWeek5: 類比輸出入原理與基本實驗\n            PWM、溫度與亮度控制實驗\nWeek6: 串列通信原理與基本實驗\nWeek7: 中斷工作原理與基本實驗\nWeek8: 綜合練習 (一)\n            4×4 鍵盤控制實驗、8×8 點矩陣顯示器控制實驗\nWeek9: 期中考\nWeek10: 綜合練習 (二)\n            4 位數七段顯示器掃描顯示實驗、LCD 顯示實驗\nWeek11: 綜合練習 (三) \n            直流馬達、步進馬達轉速控制實驗\nWeek12: 綜合練習 (四)\n            紅外線測距實驗、超音波測距實驗、3 軸加速度感測實驗\nWeek13: 綜合練習 (五)\n            無線傳輸、藍芽模組控制實驗\nWeek14: 進階練習 (一)\n            簡易測頻儀實作\nWeek15: 進階練習 (二)\n            自走車控制實驗\nWeek16: 進階練習 (三)\n            智慧手機 APP 與藍芽傳輸控制實驗\nWeek17: 進階練習 (四)\n            RFID 實驗\nWeek18: 期末考",
+    "scorePolicy": "期中與每週實驗報告 40%\n專題報告 40%\n平時成績 20%",
+    "materials": "黃新賢、劉建源、林宜賢、黃志峰，微電腦原理與應用，第二版，全華圖書\n王玉樹，Raspberry Pi 最佳入門與應用 (Python)(第三版)，全華圖書",
+    "consultation": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準 (1) 上課點名 : zuvio (2) 上課互動 : zuvio (3) 上課教材：北科 i 學園 + (校園入口網站 => 教務系統 => 北科 i 學園 PLUS => 我的課程 => 學習互動區 => 教材及錄影 (4) 平時訊息 : Line 群組 (第一次上課時建立)",
+    "remarks": "因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準： 教務處防疫專區任何問題可洽詢分機：2272，或至綜合科館 702 實驗室洽詢助教團隊。",
+    "foreignLanguageTextbooks": false
+  }
+]

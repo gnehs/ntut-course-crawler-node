@@ -1,0 +1,14 @@
+[
+  {
+    "name": "朴維鎮",
+    "email": "eugenepark993@gmail.com",
+    "latestUpdate": "2022-12-17 13:52:56",
+    "objective": "統計數據分析是一種利用數據對遇到問題進行適當推測的藝術 (有時是最好)，本課程是一門以微積分為基礎的統計學分析的入門課程，旨在幫助學生學習描述性和推論性的統計程序，以及在不同領域中使用有用的數據分析。在回顧描述性統計和一些必要的概率分佈後，我們將討論區間估計、點估計、假說檢定方差分析、線性回歸分析、因子設計、聚類分析的基本概念、分類和支持向量機，並伴隨著實踐和理論練習。因此這些技能將為學生提供一個基礎，培養學生獨自進行分析和有效評估他人統計分析結果的能力。\n‘Statistical data analytics’ is the art of using data to make appropriate (sometimes, best!) conjectures about problems encountered. This course is an introduction to statistics and data analysis techniques literally, and so designed to help students learn the introductory descriptive and inferential statistical procedures, and useful data analytics that are used in diverse areas. The course is intended to be useful. I hope that the course will be one of the more useful courses you take in university. It is intended to be useful for students who want to go on to do graduate-level academic research. It is also intended to be useful for students who want to go directly into the non-academic public or private sectors and be able to effectively analyze and present data using R. I hope it is also useful for you as a citizen in that you will be better able to critically read the data that informs many of our daily decisions.",
+    "schedule": "Week 1 Introduction to probability distribution, sampling distribution, and estimation\nWeek 2 Introduction to R, visualization (graphics) using R, and statistical inferences and simple linear regression analysis using R \nWeek 3-5 Decision making for a single sample – Estimation, hypothesis testing, inference on the mean of a population\nDecision making for a single sample – Inference on the variance of a normal population, inference on a population proportion, goodness of fit test\nWeek 6-8 Decision making for two samples – Inference on the means of two populations, paired t-test\nDecision making for two samples – Inference on the ratio of variances of two normal populations, inference on two population proportions\nWeek 9-12 Simple linear regression\nWeek 13-15 Multiple linear regression\nWeek 16-18 Classification and clustering analysis",
+    "scorePolicy": "1. Final Exam: 30 % \n2. Team project: 60 %\n3. Attendance: 10 %",
+    "materials": "Textbook: Engineering Statistics (5th Ed., Wiley) by Montgomery, Runger, and Hubele (ISBN: 978-0-324-59433-1)\nSupplementary references: \n(1) Using R for Introductory Statistics (1st Ed., Chapman & Hall/CRC Press) by John Verzani (ISBN: 0-203-49989-1)\n(2) Introductory Statistics with R (2nd Ed., Springer) by Peter Dalgaard (ISBN: 978-0-387-79053-4)",
+    "consultation": "Email, MS teams",
+    "remarks": "MS teams",
+    "foreignLanguageTextbooks": true
+  }
+]

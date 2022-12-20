@@ -1,0 +1,14 @@
+[
+  {
+    "name": "陳晏笙",
+    "email": "yschen@ntut.edu.tw",
+    "latestUpdate": "2022-12-14 19:28:32",
+    "objective": "本課程為線性代數的深化與廣化。以理論的深化而言，本課程由高斯消去法談起，解釋四個向量空間，進而說明矩陣的正交性與投影。接著，本課程闡述行列式、特徵值與特徵向量、矩陣的乘冪與指數、頻譜分解，最終收尾於奇異值分解，以此定理統整這一學期的所有內容。以應用的廣化而言，本課程在上述理論說明之外，還會特別介紹科學、工程的應用實例，例如迴歸分析、線性規劃、圖論與網路、主成份分析。",
+    "schedule": "Week and topic:\n1. Introduction - Importance of Linear Algebra\n2. Ax=b, Matrix, Gaussian Elimination and Application\n3. Vector Spaces and Linear Equation\n4. Applications: Graphs and Networks\n5. Orthogonality and Least Squares\n6. Applications: Multiple Regression\n7. Spring break\n8. Application: Linear Programming \n9. Midterm\n10. Determinant and its Applications\n11. Eigenvalues and Eigenvectors\n12. Ak and Difference Equations\n13. eA and Differential Equations\n14. Similarity Transformation and Spectral Theorem\n15. Positive Definite Matrices and Minimum Principles\n16. Applications: Multivariate Analysis and Principal Component Analysis\n17. Singular Value Decomposition and its Applications\n18. Final",
+    "scorePolicy": "Midterm 50%\nFinal 50%",
+    "materials": "Gilbert Strang, Linear Algebra and Its Applications, 4th Edition, Thomson, 2006.",
+    "consultation": "Office hour: 13:00-17:00, Monday.E-mail: yschen@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
