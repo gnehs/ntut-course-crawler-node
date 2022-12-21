@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "邱弘緯",
+    "email": "hwchiu@ntut.edu.tw",
+    "latestUpdate": "2022-12-20 13:07:33",
+    "objective": "This course will focus on the analysis of big patent data using nature language processing. Material covered will integrate the five key facets of an investigation using open Patent data:\n(1) Patent Data collection - data wrangling, cleaning, and sampling to get a suitable data set; \n(2) Patent Data processing and visualization –practicing data transformation based on linear algebra; \n(3) Exploratory Patent data analysis – generating hypotheses and building intuition; \n(4) Mathematical NLP Models - statistical learning and classification; \n(5) Prediction - decision trees and linear regression. The curriculum for this course builds for the advanced machine learning courses. Students are strongly encouraged to utilize Python to enhance their programming capability.",
+    "schedule": "This course will focus on the analysis of big patent data using nature language processing.\n\nWeek 1        Course Introduction\t\nWeek 2        Introduction to system theory\nWeek 3        Python lab - Basic skill\t\nWeek 4        Introduction to Logic \nWeek 5        Python lab - Control system\t\nWeek 6        Patent law\t\nWeek 7        Patent search\nWeek 8        Python lab -  Regular expression\nWeek 9        Mid-term project\nWeek 10      Patent big data\nWeek 11      Patent lab - Basic data types\nWeek 12      Patent analysis\t\nWeek 13      Python lab - Advanced data types\nWeek 14      Nature language processing\nWeek 15      Python lab - Nature language processing\nWeek 16      Patent application\nWeek 17      Python lab - text generation\nWeek 18      Final project",
+    "scorePolicy": "1. Homework assignments - 40%\n2. Mid-term project 30%\n3. Final proejct 30%\n\nNOTE:If you wish to brush up on your Python, you may download easy-to-use Jupyter Notebooks covering various aspects of Python from https://github.com/jakevdp/PythonDataScienceHandbook. I think you will find them useful.The course also assumes that you have a good understanding of linear algebra, calculus (particularly derivatives), and statistics & probability. The following blog provides a list of useful resources for reviewing concepts from these topics.",
+    "materials": "•\thttps://twpat.tipo.gov.tw/\n•\thttps://patents.google.com/\n•\tPython Data Science Handbook by Jake VanderPlas, O'Reilly Media, Inc. (ebook available on https://jakevdp.github.io/PythonDataScienceHandbook/ )\n•\tData science from scratch by Joel Grus, O’Reilly Media, Inc., 2019 ISBN: 9781492041139 \n•\tNatural Language Processing Specialization https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization",
+    "consultation": "Course Line and Teams group",
+    "remarks": "中英混合授課。 歡迎對 Python 實作資料分析有興趣的來修。本課程採實體上課。疫情若升 3 級再調整成使用 Microsoft Teams 進行遠距上課。",
+    "foreignLanguageTextbooks": false
+  }
+]

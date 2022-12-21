@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "金仕淳",
+    "email": "a6210647@nycu.edu.tw",
+    "latestUpdate": "2022-12-20 10:57:04",
+    "objective": "The objective of the course is to learn how digital image practices in real-world applications, especially in medical images and computer vision.\nThis class will introduce the image's composition, image adjustment, design, and even feature extraction for radiomics to apply to image detection and recognition. We will train some popular image processing algorithms about image processing and implement them in medical imaging projects.",
+    "schedule": "Week 1\tReview background - Linear system, linear algebra, and probability.\nWeek 2\tWhat is Digital Image Processing-Digital Image Fundamentals\nWeek 3\tIntensity Transformations, Spatial Filtering, and kernel function \nWeek 4\tFourier properties and Filtering in the Frequency Domain\nWeek 5\tImage Restoration - Recovery\nWeek 6\tImage Reconstruction\nWeek 7\tMorphological Image Processing\nWeek 8\tIntensity-Based Segmentation\nWeek 9\tMidterm\nWeek 10\tShape based Image Segmentation\nWeek 11\tPattern Recognition and Description\nWeek 12\tFeature selection and Classifying\nWeek 13\tMedical Image format and processing\nWeek 14\tRadiomics in medical image and information\nWeek 15\tFinal Project report (1)\nWeek 16\tFinal Project report (2)\nWeek 17\tFinal Project report (3)\nWeek 18\tFinal Project report (4)",
+    "scorePolicy": "(1) Homework 20% (2) Midterm 30% (3) Final Project report 30% (4) Participation 20%",
+    "materials": "1. Digital Image Process 4/e Gonzalez & Woods\n2. The Image Processing Handbook 5/e John C. Russ\n3. Medical Image Reconstruction: A Conceptual Tutorial Gengsheng Lawrence Zeng\n4. Digital Image Processing Using MATLAB, 2/e Rafael C. Gonzalez, Richard E. Woods, Steven L. Eddins",
+    "consultation": "Please contact by E-mail: a6210647@gmail.com",
+    "remarks": "Provide video classes online.",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -2,10 +2,10 @@
   {
     "name": "陳柏全",
     "email": "bochen@ntut.edu.tw",
-    "latestUpdate": "2022-12-18 08:12:30",
+    "latestUpdate": "2022-12-20 10:34:04",
     "objective": "車輛控制實驗內容包括: (1) 利用 Matlab/Simulink 設計控制器；(2) 輸入 / 輸出訊號處理；(3) 車輛控制應用實務。學生將學習車輛控制的基本要求，並練習如何應用適當工具設計與實踐控制器，課程著重學生實作演練。",
-    "schedule": "1.\tMATLAB (loop; matrix computation;)\n2.\tMATLAB (root locus; bode plot; sisotool;)\n3.\tSimulink (Basic)\n4.\tSimulink (Point mass simulation)\n5.\tSimulink (Stateflow)\n6.\tMATLAB/Simulink\n7.\tPC base controller (Environment setting; Digital I/O)\n8.\tPC base controller (Analog I/O)\n9.\tPC base controller (Frequency measurement; RS232)\n10.\tDSP controller (Environment setting; Digital I/O)\n11.\tDSP controller (Analog I/O)\n12.\tDSP controller (CANbus; PWM; CAP)\n13.\t控制系統實作：Electric Throttle control\n14.\t控制系統實作：Electric Throttle control\n15.\t控制系統實作：Electric Throttle control\n16.\t控制系統實作：Freescale Frdm-kl25z (自走車)\n17.\t控制系統實作：Freescale Frdm-kl25z (自走車)\n18.\t控制系統實作：Freescale Frdm-kl25z (自走車)",
-    "scorePolicy": "課堂作業：100%",
+    "schedule": "1.\tMATLAB (loop; matrix computation;)\n2.\tMATLAB (root locus; bode plot; sisotool;)\n3.\tSimulink (Basic)\n4.\tSimulink (Point mass simulation)\n5.\tSimulink (Stateflow)\n6.\tSimulink Toolbox for TI CCS\n7.\tSimulink real time\n8.\tSimulink real time (Host to Target)\n9.\tSimulink Toolbox for TI (PWM ECAP 馬達驅動器)\n10.\t七段顯示器、馬達轉速控制\n11.\t雷達應用\n12.\t轉向機控制\n13.\t相機應用\n14.\tFinal Project Design & Review\n15.\tROS 環境介紹、Final Review\n16.\tROS Using for AUTOCAR\n17.\tSelf-driving Design for AUTOCAR\n18.\tFinal Project Evaluation",
+    "scorePolicy": "課堂作業：90%\n出缺席：10%",
     "materials": "Feedback Control of Dynamic Systems, by G.F. Franklin, J.D. Powell, and A. Emami-Naeini, Pearson, 8th edition.\nMATLAB/Simulink: http://www.mathworks.com/help/\nPC based: http://www.mathworks.com/products/simulink-real-time/\nDSP: http://www.mathworks.com/hardware-support/ti-c2000.html\nFreescale: http://www.mathworks.com/hardware-support/frdm-kl25z.html",
     "consultation": "Office hours 時間可提供課程諮詢，或者是另外約時間",
     "remarks": "因應疫情規定，遠距教學期間上課方式將採用 Google Meet、上課網址會另外以 i 學園 Plus 再 email 給有選課的同學。如果是想先旁聽後再決定是否選課的同學，請另外以 email 跟授課老師 (bochen@mail.ntut.edu.tw) 聯絡。",

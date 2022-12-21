@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "楊勝明",
+    "email": "smyang@ntut.edu.tw",
+    "latestUpdate": "2022-12-20 15:23:46",
+    "objective": "此課程包含以下主題：(1) 直流馬達、伺服馬達、及永磁交流馬達的建模、控制系統設計與模擬，(2) 馬達速度及位置觀測器設計與模擬，(3) 數位控制及驅動器設計與模擬。\nThe contents of this course include: (1) Modeling, control system design, and simulation of DC motor, servo motor and permanent magnet synchronous motor. (2) Motor speed and position estimator design and simulation. (3) Digital control and driver design and simulation.",
+    "schedule": "1. Introduction of Matlab/Simulink, DC Motor model, current control (lab1)\n2. DC motor position control, wave test (lab2)\n3. PMSM motor model and V/H control (lab3)\n4. PMSM current, velocity, and position control (lab4)\n5. Digital position control (lab5)\n6. Digital position control with velocity estimator (lab6)\n7. Motor inertia estimation (lab7)\n8. DC-AC Inverter (SPWM), circle plot (Lab8)\n9. Mid-term exam.\n10. Various PWM schemes, FFT (lab9)\n11. Position estimation with extended back-EMF (lab10)\n12. Sensorless position control with extended back-EMF (lab11)\n13. Close-loop stator flux and position estimation (lab12)\n14. Sensorless vector control with stator flux and position estimator (lab13)\n15. Direct torque control (lab14)\n16. Simscape 1 (lab15)\n17. Simscape 2 (lab16)\n18. Final exam.",
+    "scorePolicy": "Lab: 40% (Completion)\nMid-term exam: 30%\nFinal exam: 30%",
+    "materials": "Class notes will be posted in 北科 i 學園.\n\nReferences:\n1. 永磁同步電動機之原理與應用 class note, 2021\n2. Control System Design Guide, 3th Editions, George Ellis, Elsevier-Academic Press.\n3.Observers in Control Systems, George Ellis, Elsevier-Academic Press, 2010.\n4. 控制系統設計與模擬 - 使用 Matlab/Simulink, 李宜達，全華圖書，2011.",
+    "consultation": "email: smyang@ntut.edu.twLine 群組",
+    "remarks": "MS Teams 遠距上課",
+    "foreignLanguageTextbooks": true
+  }
+]

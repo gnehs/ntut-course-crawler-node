@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "王正豪",
+    "email": "jhwang@ntut.edu.tw",
+    "latestUpdate": "2022-12-20 11:05:46",
+    "objective": "在各種應用領域中，非結構化的文件相當普遍。如何精確有效地從文件中擷取出重要資訊並分析語意，將有助於彙整不同想法。本課程介紹基本的自然語言處理技術，包括：語彙組成、語法分析、語意分析等，以及常見的文件探勘方法。除了介紹詞性標註 (POS tagging)、關鍵詞擷取 (keyterm extraction)、中文斷詞 (word segmentation) 之外，也將探討不同的字詞與文件表達方式，並應用深度學習方法進行有效的語意分析，如：情緒分析、意見探勘等。",
+    "schedule": "1. Course Overview (1 wk)\n\nPart I: Natural Language Processing\nWeeks (2-6)\n\n2. Introduction to NLP\n3. Parsing: word segmentation, POS tagging, dependency parsing\n4. Semantics: lexical semantics, vector semantics \n5. Sentiment analysis (I)\n6. Sentiment analysis (II)\n\nPart II: Text Mining\nWeeks (10-15)\n\n10. Text embedding\n11. Phrase mining\n12. Named entity recognition/extraction\n13. Pattern mining\n14. Taxonomy mining\n15. Truth finding\n\n16-18. Term Project Presentation",
+    "scorePolicy": "- Homework and Programming Exercises: ~40%\n- Mid-term exam: ~30%\n- Term Project: ~30%",
+    "materials": "Textbook:\n* Dan Jurafsky and James H. Martin,\nSpeech and Language Processing. \n- 3rd ed. draft is available at: https://web.stanford.edu/~jurafsky/slp3/\n- Related academic papers\n\nReferences:\n* Christopher Manning and Hinrich Schuetze,\nFoundations of Statistical Natural Language Processing, MIT Press, 1999.\n- https://nlp.stanford.edu/fsnlp/\n* James Allen, Natural Language Understanding, 2nd ed., Benjamin Cummings, 1994.",
+    "consultation": "The teacher can be reached via e-mails or messages in Microsoft Teams.The TA will help you join the course group in Facebookwhere you can also ask questions about the homeworks and exams.",
+    "remarks": "1. 課程相關訊息將透過以下管道公布：北科 i 學園、Teams、或課程網頁: https://chriswjh.github.io/NLP_TM/。2. 若學校因應疫情改採遠距教學，將使用 Teams 上課 （帳號：學號 @cc.ntut.edu.tw）。3. 如果你尚未被加入本課程之 Teams 團隊，歡迎來信: jhwang@mail.ntut.edu.tw，並註明課程名稱與你的班級、姓名。",
+    "foreignLanguageTextbooks": true
+  }
+]
