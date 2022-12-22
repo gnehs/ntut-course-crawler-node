@@ -226,23 +226,29 @@
     ],
     "time": {
       "sun": [],
-      "mon": [],
-      "tue": [
+      "mon": [
         "8",
         "9",
         "A"
       ],
+      "tue": [],
       "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同413",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=157",
+        "code": "157"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "工管四甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704055",
     "syllabusLinks": []
   },
@@ -325,13 +331,7 @@
         "code": "2517"
       }
     ],
-    "teacher": [
-      {
-        "name": "吳柏輝",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23887",
-        "code": "23887"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -352,57 +352,6 @@
     "language": "　",
     "notes": "吳柏輝",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504605",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4504607",
-    "description": {
-      "zh": "超低溫冷凍原理，超低溫冷凍系統設計簡介，氣體分離應用，液化氣體應用，低溫儀器，低溫冶金及低溫醫療。",
-      "en": "Principles of cryogenic cooling, introduction to cryogenic cooling system design,gas separation applications, application in liquefied gases, low temperatureinstrumentation, low temperature metallurgy and cryomedical applications."
-    },
-    "id": "315091",
-    "name": {
-      "zh": "超低溫應用",
-      "en": "Cryogenic Application"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "訓四能四",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2517",
-        "code": "2517"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳柏輝",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23887",
-        "code": "23887"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": [
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "吳柏輝",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4504607",
     "syllabusLinks": []
   },
   {
@@ -434,19 +383,19 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [],
-      "sat": [
-        "7",
-        "8",
-        "9"
-      ]
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
     },
     "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "陳澤興，5_A/5_B/5_C",
+    "notes": "陳澤興",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504907",
     "syllabusLinks": []
   },
@@ -994,7 +943,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103066",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315127&code=12303"
+    ]
   },
   {
     "code": "3103091",
@@ -1919,11 +1870,11 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [
+      "fri": [],
+      "sat": [
         "C",
         "D"
-      ],
-      "sat": []
+      ]
     },
     "classroom": [],
     "people": "0",
@@ -1956,13 +1907,7 @@
         "code": "2638"
       }
     ],
-    "teacher": [
-      {
-        "name": "吳柏輝",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23887",
-        "code": "23887"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -3791,13 +3736,7 @@
         "code": "2758"
       }
     ],
-    "teacher": [
-      {
-        "name": "吳柏輝",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23887",
-        "code": "23887"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -4288,7 +4227,9 @@
     "language": "　",
     "notes": "科研 240",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315300&code=12391"
+    ]
   },
   {
     "code": "3105103",
@@ -4551,7 +4492,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "日職合開，二教 103",
+    "notes": "日職合開，二教 103, 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105187",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315342&code=23883"
@@ -4864,7 +4805,9 @@
     "language": "　",
     "notes": "電子所日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3625010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315372&code=11682"
+    ]
   },
   {
     "code": "3625040",
@@ -5179,7 +5122,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205077",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315469&code=11734"
+    ]
   },
   {
     "code": "4235008",
@@ -6570,7 +6515,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315595&code=11149"
+    ]
   },
   {
     "code": "5105019",
@@ -6672,7 +6619,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105020",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315600&code=10914"
+    ]
   },
   {
     "code": "5105025",
@@ -7138,7 +7087,9 @@
     "language": "　",
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235417",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315661&code=12235"
+    ]
   },
   {
     "code": "5605002",
@@ -7446,6 +7397,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007007",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315849&code=11110",
       "ShowSyllabus.jsp?snum=315849&code=24032"
     ]
   },
@@ -7608,7 +7560,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315872&code=11077"
+    ]
   },
   {
     "code": "6105025",
@@ -8165,6 +8119,7 @@
     "notes": "請排三教 411, 限本系生修，上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315953&code=12304",
       "ShowSyllabus.jsp?snum=315953&code=11533"
     ]
   },
@@ -8214,7 +8169,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "請排四教 102, 限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05207",
     "syllabusLinks": [
@@ -8708,7 +8663,9 @@
     "language": "　",
     "notes": "A 班 碩一必修 (個案寫作或論文寫作 2 選 1) 台北集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316057&code=24463"
+    ]
   },
   {
     "code": "C205028",
@@ -8761,7 +8718,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "B 班 碩一必修 (個案寫作或論文寫作 2 選 1)",
+    "notes": "B 班 碩一必修 (個案寫作或論文寫作 2 選 1) 集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205028",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316058&code=11537",
@@ -8887,7 +8844,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316075&code=10662",
-      "ShowSyllabus.jsp?snum=316075&code=12173"
+      "ShowSyllabus.jsp?snum=316075&code=12173",
+      "ShowSyllabus.jsp?snum=316075&code=12148"
     ]
   },
   {
@@ -9185,7 +9143,9 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=316088&code=11985"
+      "ShowSyllabus.jsp?snum=316088&code=11985",
+      "ShowSyllabus.jsp?snum=316088&code=12391",
+      "ShowSyllabus.jsp?snum=316088&code=12148"
     ]
   },
   {
@@ -9257,7 +9217,9 @@
     "language": "　",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215042",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316089&code=24463"
+    ]
   },
   {
     "code": "C225011",
@@ -9665,7 +9627,9 @@
     "language": "　",
     "notes": "方博杰",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316097&code=24005"
+    ]
   },
   {
     "code": "1404007",
@@ -10859,7 +10823,9 @@
     "language": "　",
     "notes": "設計館 B02 教室，木工廠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3861217",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316124&code=22933"
+    ]
   },
   {
     "code": "3861207",
@@ -11023,7 +10989,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3861220",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316129&code=22933"
+    ]
   },
   {
     "code": "3861224",
@@ -12448,7 +12416,9 @@
     "language": "　",
     "notes": "日、職車輛所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406145",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316256&code=11253"
+    ]
   },
   {
     "code": "5807021",
@@ -12774,7 +12744,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415304",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316325&code=11679"
+    ]
   },
   {
     "code": "3104011",
@@ -13383,7 +13355,9 @@
     "language": "　",
     "notes": "限 50 人，電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3004050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316516&code=23509"
+    ]
   },
   {
     "code": "3004050",
@@ -13440,7 +13414,9 @@
     "language": "　",
     "notes": "限 50 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3004050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316517&code=23509"
+    ]
   },
   {
     "code": "3003022",
@@ -13659,7 +13635,9 @@
     "language": "　",
     "notes": "限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005059",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316564&code=23780"
+    ]
   },
   {
     "code": "4505509",
@@ -14985,7 +14963,9 @@
     "language": "　",
     "notes": "電子三四甲乙、四丙合開，綜科 104",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316748&code=11682"
+    ]
   },
   {
     "code": "3604074",
@@ -15360,7 +15340,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603074",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316780&code=10551"
+    ]
   },
   {
     "code": "3603059",
@@ -15512,7 +15494,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "光華 409, 預選限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
     "syllabusLinks": [
@@ -15568,7 +15550,9 @@
     "language": "　",
     "notes": "請排三教 307, 限本系生，上限 15 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06302",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316790&code=12304"
+    ]
   },
   {
     "code": "4236087",
@@ -16603,7 +16587,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605056",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316929&code=12310"
+    ]
   },
   {
     "code": "5825221",
@@ -17327,7 +17313,9 @@
     "language": "　",
     "notes": "科研 240 / 資財四甲乙碩合開 / 全英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03039",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317122&code=12391"
+    ]
   },
   {
     "code": "3603061",
@@ -17961,7 +17949,9 @@
     "language": "　",
     "notes": "桌球 甲",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1003002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317278&code=23277"
+    ]
   },
   {
     "code": "1003002",
@@ -18011,7 +18001,9 @@
     "language": "　",
     "notes": "體適能 甲",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1003002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317279&code=23766"
+    ]
   },
   {
     "code": "3603100",
@@ -18175,7 +18167,13 @@
         "code": "2758"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "葉家宏",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24135",
+        "code": "24135"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -18194,7 +18192,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限學號雙數號學生選課，葉家宏",
+    "notes": "限學號雙數號學生選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502503",
     "syllabusLinks": []
   },
@@ -18450,7 +18448,9 @@
     "language": "　",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410219",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317368&code=23331"
+    ]
   },
   {
     "code": "1415002",
@@ -18604,7 +18604,9 @@
     "language": "　",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1413001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317375&code=21730"
+    ]
   },
   {
     "code": "3604098",
@@ -18749,7 +18751,9 @@
     "language": "　",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410082",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317380&code=20716"
+    ]
   },
   {
     "code": "1418005",
@@ -18851,7 +18855,9 @@
     "language": "　",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317382&code=22058"
+    ]
   },
   {
     "code": "1411015",
@@ -19001,7 +19007,9 @@
     "language": "　",
     "notes": "自然與科學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410169",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317386&code=23947"
+    ]
   },
   {
     "code": "1418007",
@@ -19051,6 +19059,57 @@
     "language": "　",
     "notes": "創新與創業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418007",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3724012",
+    "description": {
+      "zh": "資料庫應用實務課程的目的在研習資料庫管理技術及其在企業的應用。本課程方向包括：熟悉資料庫基本指令及操作方法，以實務性方式，開發一套簡易應用軟體。培養學生對資料庫軟體設計開發之能力。",
+      "en": "Database system application course is to study the database management techniques and its applications on enterprises. The course includes ：The students can understand the operation process in order to develop the data file. The opportunity to do the practical project independently."
+    },
+    "id": "317418",
+    "name": {
+      "zh": "資料庫應用實務",
+      "en": "Database System Application"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管二丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2755",
+        "code": "2755"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "葉英斌",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23875",
+        "code": "23875"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "葉英斌",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3724012",
     "syllabusLinks": []
   },
   {
@@ -19155,6 +19214,102 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705492",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3724004",
+    "description": {
+      "zh": "探討如何規畫、組織、用人、領導及控制各種資源包括人員、設備、材料、資金，期能及時在容許預算下完成特定專案。",
+      "en": "This course discovers the planning, organization, employment, leading and control of resources including person, facility, materials, and capital in order to complete the project under the pre-specified time and cost."
+    },
+    "id": "317604",
+    "name": {
+      "zh": "專案管理",
+      "en": "Project Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管三丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2635",
+        "code": "2635"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "8",
+        "9",
+        "A"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "專案教師",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3724004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3723057",
+    "description": {
+      "zh": "智慧手機、智慧車、智慧家電、智慧電網、智慧化控制系統等，一場科技革命正熱鬧展開。看似單一產品的創新，背後其實有著更大的驅動力，那就是當行動通訊與網際網路結合後，催生出來的 Mobile Internet 新領域，所有資料都上網、所有物品都連網、所有人都掛網，個人到企業都必須做好準備，因此，當企業在邁向資訊化與自動化的同時，工業工程系責無旁貸的需將行動運算納入考量。本課程的目標在幫助學生瞭解雲端運算在工廠上的應用，學習建構所謂服務導向的企業，以及提供進階之程式開發知識，與跨入 3G 最新手機開發平台，培養未來開發手機程式設計之技術實力，使學生具備獨立開發手機應用程式的能力。",
+      "en": "This is an introduction course of mobile computing. The course is designed principally to provide the Followings topics: 1. fundamentals of mobile technology; and applications, 2. Location-based service 3. Could-based computing 4. Mobile applications; 5. Mobile programming"
+    },
+    "id": "317613",
+    "name": {
+      "zh": "資訊與通訊科技在工業工程之應用",
+      "en": "Information and Communication Technologies for Industrial Engineering"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管三丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2635",
+        "code": "2635"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "9",
+        "A",
+        "B"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同312",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=154",
+        "code": "154"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3723057",
     "syllabusLinks": []
   }
 ]

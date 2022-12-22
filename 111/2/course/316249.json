@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蔣欣翰",
+    "email": "hsinhan1001@gmail.com",
+    "latestUpdate": "2022-12-21 22:17:18",
+    "objective": "本課程介紹微處理機之基本原理與應用設計，並且結合微控制器 (基於 ARM Cortex-M 架構及 Atmel AVR 晶片) 程式設計與泛用型嵌入式系統平台，修課同學可以學習如何使用上述 STM32 與 Arduino 組合而成的微控制平台自行設計微處理器，結合超音波感測、馬達驅動控制、無線傳輸模組等，可應用於移動載具及機器人運動控制器架構設計與演算法開發，並延伸至人工智慧 AI 相關處理器整合應用。",
+    "schedule": "Week 1: 概論\nWeek 2: 處理器及指令集架構\nWeek 3: 記憶體及 I/O 解碼\nWeek 4: I/O 資料傳輸與通訊格式\nWeek 5: Arduino 微控制器 (硬體規格)\nWeek 6: Arduino 微控制器 (程式編輯與燒錄)\nWeek 7: Arduino 微控制器 (傳感器使用)\nWeek 8: Arduino 微控制器 (控制 LCD 模組程式)\nWeek 9: Arduino 微控制器 (程式設計)\nWeek 10: STM32 嵌入式控制器 (開發板簡介)\nWeek 11: STM32 嵌入式控制器 (程式設計)\nWeek 12: STM32 嵌入式控制器 (LCD 控制模組程式)\nWeek 13: STM32 嵌入式控制器 (馬達控制設計)\nWeek 14: STM32 嵌入式控制器 (感測器使用)\nWeek 15: STM32 嵌入式控制器 (無線傳輸程式設計)\nWeek 16: STM32 嵌入式控制器 (範例開發實作)\nWeek 17: 期末專題製作\nWeek 18: 期末專題分組報告",
+    "scorePolicy": "Lab Practices & Reports: 60%\nMidterm Exam or Term Project: 20%\nFinal Project: 20%",
+    "materials": "1.\t從 Arduino 邁向 STM32，2018，邱左傳，ISBN：9789864343430\n2.\t自編講義。",
+    "consultation": "課程資訊網：i 學園任課教師連絡方式：電子郵件：hsinhan@mail.ntut.edu.tw 校內分機：3615",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 因應疫情採非實體上課之教學措施：01. 使用 Microsoft Teams 或 Google Meet 授課，使用工具軟體與會議代碼：公佈於課程資訊網 02. 分組帶回實驗開發板與在家安裝必要操作環境 03. 考試擬進行分流上機考、期末擬採分流至實驗教室驗收期末專題。",
+    "foreignLanguageTextbooks": false
+  }
+]

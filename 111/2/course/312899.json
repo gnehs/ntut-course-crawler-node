@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "林敬皇",
+    "email": "gbox@ntut.edu.tw",
+    "latestUpdate": "2022-12-21 14:20:23",
+    "objective": "值此一網際網路和數位經濟時代，資料通訊與網路已經顯著影響企業經營、管理及決策與策略規劃同時也影響人們之生活及活動。 它的應用非常廣泛、無所不在且多元。 商業公司及企業可以運用資料通訊及網路化資訊系統來提升競爭優勢及執行績效、經營者決策及客戶服務效率與全球化商務、產品及服務。資料通訊可以在各種設置上以有線及無線的方式使用。因此，本課程的開課目標旨在學習並瞭解資料通訊及網路之基本原理、基礎建設、技術、管理及企業應用等之議題。本課程主要探討之主題包括 1) 資料通訊基本原理、2) 資料傳輸技術、3) 網路應用、4) 有線及無線區域網路、5) 有線及無線廣域網路、6) 網際網路與 TCP/IP、7) 網路安全、8) 網路設計、9) 網路管理、10) 分散資料處理、 11) 主從、內部網路與雲端運算、12) 第四代行動網路和往後世代等。\nIn this era of Internet economy, businesses and enterprises may leverage data communications (DC) and networked information systems to enhance competitive advantages, streamline managerial decision making, and customer services. DC may be adopted in a variety of devices on both wire and wireless modes. Consequently, the objectives of this course aim to study the issues of fundamentals, infrastructure, technologies, management and business applications on data communications and networks. The major topics of this course contains 1) Fundamentals of DC, 2) Technologies of data transmission, 3) Network applications, 4) Wired and wireless local area networks, 5) Wired and wireless wide area networks, 6) The Internet and TCP/IP, 7) Network security, 8) Design networks, 9) Network administration; 10) Distributed data processing, 11) Client/Server, Intranet, and cloud computing, 12) Fourth generation (4G) Mobile networks and onwards.",
+    "schedule": "週次 / Week - 單元主題 / Topic\n\nPart 1　資料通訊概念 (Introduction of Data Communication)\n1. 網路概論 (Introduction Computer Network)\n2. 網路參考模型與資料通訊 (Network Reference Model and Data Communication)\n\nPart 2  ISO OSI 及相關網路技術 (ISO OSI and its technologies)\n3. 實體層（Physical Layer）\n4. 資料連結層（Data Link Layer）\n5. 無線網路 (Wireless Network)\n6. 網路層（Network Layer）\n7. IPv4/v6 (Internet Prococol v4/v6)\n8. 傳輸層（Transport Layer）\n9. 應用層（Application Layer）\n\nPart 3 點對點資料傳輸 \n10. 點對點協定 (End to End Protocol)\n11. 點對點資料 (End to End Data Transmission)\n\nPart 4 應用 (Application)\n12 傳統應用 (Traditional Applications)\n13 多媒體應用 (Multimedia Applications)\n14 基礎設施 (Infrastructure Applications)\n15 覆蓋網路 (Overlay Networks)\n16 軟體定義網路 (Software define Network)\n\nPart 5 網路安全與管理 (Network Managment and Security )\n17. 網路管理 (Network Managment)\n18. 網路安全概論 (Network Security)",
+    "scorePolicy": "課堂成績 (實作 Lab 練習 (約 5-6Lab, 30%)、出席 (10%)) - 40%\n期中測驗 (Middle Exam) - 30%\n期末測驗 (Final Exam) - 30%",
+    "materials": "使用自編教材及下列 OpenTextbook：\n1. Computer Networking : Principles, Protocols and Practice, https://open.umn.edu/opentextbooks/textbooks/computer-networking-principles-protocols-and-practice\n2. An Introduction to Computer Networks - Second Edition, https://open.umn.edu/opentextbooks/textbooks/an-introduction-to-computer-networks\n3. Computer Networks: A Systems Approach, https://book.systemsapproach.org/",
+    "consultation": "1.Office Hour： 週二、三 13:00-16:002. 透過北科 i 學園 PLUS 討論提問 3. Mail me",
+    "remarks": "1. 課程講義公布於北科 i 學園 PLUS 課程。2. 若公告遠距上課則以線上教學為主，並錄製相關課程檔案於北科 i 學園 PLUS 課程。",
+    "foreignLanguageTextbooks": true
+  }
+]
