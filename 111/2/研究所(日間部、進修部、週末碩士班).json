@@ -47,7 +47,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105095",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313447&code=10585"
+    ]
   },
   {
     "code": "3105096",
@@ -1182,6 +1184,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2832",
         "code": "2832"
+      },
+      {
+        "name": "人工智慧學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2842",
+        "code": "2842"
+      },
+      {
+        "name": "創新AI學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2889",
+        "code": "2889"
       }
     ],
     "teacher": [
@@ -1209,7 +1221,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "電子所與電資外生所合開",
+    "notes": "電子所、AI 學程和電資外生所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615050",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313553&code=12084"
@@ -1448,7 +1460,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "電子所與電資外生所合開",
+    "notes": "電子所與電資外生所合開，總人數限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3645039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313624&code=11391"
@@ -1805,7 +1817,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735014",
     "syllabusLinks": [
@@ -1964,7 +1976,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3736038",
     "syllabusLinks": [
@@ -2020,7 +2032,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3737003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313661&code=10821"
+    ]
   },
   {
     "code": "4005104",
@@ -2142,6 +2156,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005145",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313663&code=11394",
+      "ShowSyllabus.jsp?snum=313663&code=12280",
       "ShowSyllabus.jsp?snum=313663&code=11944"
     ]
   },
@@ -2199,7 +2214,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005926",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=313664&code=11840"
+      "ShowSyllabus.jsp?snum=313664&code=11840",
+      "ShowSyllabus.jsp?snum=313664&code=11230"
     ]
   },
   {
@@ -3068,7 +3084,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "EMI 英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236080",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313812&code=11272"
@@ -3349,8 +3365,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英文授課，車輛所、能源與車輛外生合開",
+    "language": "英語",
+    "notes": "車輛所、能源與車輛外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4405001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313842&code=12236"
@@ -3402,8 +3418,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英文授課，車輛所、能源與車輛外生合開",
+    "language": "英語",
+    "notes": "車輛所、能源與車輛外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4405031",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313843&code=11937"
@@ -3508,8 +3524,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英文授課，車輛所、能源與車輛外生合開",
+    "language": "英語",
+    "notes": "車輛所、能源與車輛外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406124",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313858&code=10993"
@@ -3614,8 +3630,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英文授課，車輛所、能源與車輛外生合開",
+    "language": "英語",
+    "notes": "車輛所、能源與車輛外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406152",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313864&code=12239"
@@ -3683,7 +3699,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "英文授課，日職車輛、能源、機電博、能源與車輛外生合",
+    "notes": "日職車輛、能源、機電博、能源與車輛外生合",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406203",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313865&code=11321"
@@ -3790,7 +3806,9 @@
     "language": "　",
     "notes": "與職能源所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505207",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313874&code=11083"
+    ]
   },
   {
     "code": "4505305",
@@ -3998,7 +4016,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505606",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313886&code=24343"
+    ]
   },
   {
     "code": "4506202",
@@ -4510,8 +4530,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "博碩課程，全英文授課",
+    "language": "英語",
+    "notes": "博碩課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906409",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313910&code=11212"
@@ -5186,7 +5206,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105040",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313935&code=11113"
@@ -5245,7 +5265,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313938&code=12181"
@@ -5447,7 +5467,13 @@
         "2"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計252",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=457",
+        "code": "457"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5522,7 +5548,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計556",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=381",
+        "code": "381"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5638,7 +5670,9 @@
     "language": "　",
     "notes": "日職建都所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201440",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313982&code=24025"
+    ]
   },
   {
     "code": "5201441",
@@ -5953,7 +5987,9 @@
     "language": "　",
     "notes": "碩士班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314048&code=11098"
+    ]
   },
   {
     "code": "5705024",
@@ -6060,7 +6096,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314097&code=11429"
+    ]
   },
   {
     "code": "5705103",
@@ -6163,7 +6201,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6280,7 +6324,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6570,8 +6620,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課 / 和大四合開 / 哈佛",
+    "language": "英語",
+    "notes": "和大四合開 / 哈佛",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705499",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314111&code=12246"
@@ -7624,7 +7674,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6015029",
     "syllabusLinks": [
@@ -7730,7 +7780,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6027024",
     "syllabusLinks": [
@@ -7887,7 +7937,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 22 人",
+    "notes": "限 22 人，計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105023",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314337&code=12275"
@@ -8695,7 +8745,9 @@
     "language": "　",
     "notes": "英語",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505132",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314409&code=11291"
+    ]
   },
   {
     "code": "6505134",
@@ -8936,7 +8988,9 @@
     "language": "　",
     "notes": "限生化碩選課；和博班生化組合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805037",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314418&code=11190"
+    ]
   },
   {
     "code": "6805070",
@@ -9174,8 +9228,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "核心七選二；EMI",
+    "language": "英語",
+    "notes": "核心七選二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305013",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314442&code=12301"
@@ -9294,7 +9348,9 @@
     "language": "　",
     "notes": "限化工碩選課，和博班化工組合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314446&code=11138"
+    ]
   },
   {
     "code": "6805064",
@@ -9362,6 +9418,7 @@
     "notes": "化工所生化所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805064",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314447&code=24423",
       "ShowSyllabus.jsp?snum=314447&code=11357"
     ]
   },
@@ -9479,7 +9536,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314471&code=11355"
+    ]
   },
   {
     "code": "7305071",
@@ -9533,8 +9592,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "EMI",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305071",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314480&code=11766"
@@ -9659,7 +9718,9 @@
     "language": "　",
     "notes": "網路預選限 45 人 (研究所)；大四化工所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305073",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314482&code=11138"
+    ]
   },
   {
     "code": "A000011",
@@ -10115,7 +10176,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "計網電腦教室",
+    "notes": "計網電腦教室，英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815190",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314521&code=12306"
@@ -10425,9 +10486,9 @@
     },
     "classroom": [
       {
-        "name": "六教726",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=451",
-        "code": "451"
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
       }
     ],
     "people": "0",
@@ -10727,7 +10788,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405112",
     "syllabusLinks": [
@@ -10786,7 +10847,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405122",
     "syllabusLinks": [
@@ -10903,7 +10964,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405153",
     "syllabusLinks": [
@@ -11317,8 +11378,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505215",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314651&code=11223"
@@ -11687,6 +11748,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
         "code": "2836"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2890",
+        "code": "2890"
       }
     ],
     "teacher": [
@@ -11720,7 +11786,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "科研 240 / 資財四甲碩合開",
+    "notes": "科研 240 / 資財四甲碩和創新資安學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05099",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314700&code=12148"
@@ -11837,8 +11903,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "科研 243 / 全英語授課",
+    "language": "英語",
+    "notes": "科研 243",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05105",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314704&code=12342"
@@ -12366,6 +12432,70 @@
     "syllabusLinks": []
   },
   {
+    "code": "6607003",
+    "description": {
+      "zh": "幫助學生認識一般科技文章以及科技論文語法、文體、句子結構等，並加強英文口頭表達之能力。",
+      "en": "This course helps the learners recognize the syntax, style, and organization as far as the papers on technology and technical writings are concerned. Discussions include specific ways to technical presentation and technical writings."
+    },
+    "id": "314797",
+    "name": {
+      "zh": "科技英文表達",
+      "en": "Technical English Presentation"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2843",
+        "code": "2843"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2847",
+        "code": "2847"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳盈君",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12280",
+        "code": "12280"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6",
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜科110_1",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=94",
+        "code": "94"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "製科所和機電博班合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607003",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314797&code=12280"
+    ]
+  },
+  {
     "code": "6607004",
     "description": {
       "zh": "讀書報告、專題討論、機電科技相關技術及產品介紹與討論、Seminar 心得等，可重覆修習。",
@@ -12411,7 +12541,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12707,7 +12843,9 @@
     "language": "英語",
     "notes": "First grade",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A000001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314834&code=10913"
+    ]
   },
   {
     "code": "A000015",
@@ -12764,7 +12902,9 @@
     "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A000015",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314845&code=10913"
+    ]
   },
   {
     "code": "A000022",
@@ -13197,7 +13337,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3106004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315344&code=10585"
+    ]
   },
   {
     "code": "3115009",
@@ -13300,7 +13442,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315350&code=24470"
+    ]
   },
   {
     "code": "3615047",
@@ -14090,7 +14234,9 @@
     "language": "　",
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505207",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315529&code=11083"
+    ]
   },
   {
     "code": "4505308",
@@ -15429,7 +15575,9 @@
     "language": "　",
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201440",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315630&code=24025"
+    ]
   },
   {
     "code": "5211415",
@@ -15741,6 +15889,197 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315682&code=11936"
     ]
+  },
+  {
+    "code": "5705024",
+    "description": {
+      "zh": "本課程的目的將藉由五個面向了解企業倫理的本質，分別為：從全球化角度認知社會可接受的商業行為，將待人和善深植於良好的企業中，企業形象再造，強化職業倫理以及投資於可持續發展和有社會責任的公司。本課程亦教導學生瞭解今日快速變化工商界，符合企業倫理的公司治理原則與方式。課程的教導將朝下列五個方向進行：（1）廠商的社會責任（如：產品綠化與環境保護），（2）消費者的保護（如：產品的安全性），（3）員工的權益（如：職業健康），（4）員工對公司的責任（如：利益衝突），（5）雇主與員工關係（如：性別平等）。",
+      "en": "The objective of this course is to appreciate the essential of Business Ethics through five main faucets: recognizing socially acceptable business conduct from the global perspectives, embedding good business in treating people nice and fair, reengineering corporate image, enhancing professional ethics, and investing in sustainable and socially responsible corporations. This course also discusses with the students the corporate governance that follows business ethics in today's changing business society. Five major categories will be covered: (1) Corporate Social Responsibility (e.g., Green product and environmental protection), (2) Consumer protection (e.g., Product safety), (3) Employee's rights and benefits (e.g., Occupational health), (4) Responsibility of employee to the firms (e.g., Conflict of interest), and (5) Employer-employee relations (e.g., Gender equity)."
+    },
+    "id": "315719",
+    "name": {
+      "zh": "企業倫理",
+      "en": "Business Ethics"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "新聘專案教師，科研 732",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705024",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705101",
+    "description": {
+      "zh": "讓學生瞭解行銷的觀念和趨勢。主要包括以下課題：（1）消費者行為（2）市場區隔（3）產品策略（4）行銷通路（5）網路行銷（6）促銷（6）關係行銷。",
+      "en": "The course teaches the student marketing concepts and trends. The topics will be covered: (1) consumer behavior, (2) marketing segmentation, (3) product strategy, (4) marketing channels, (5) online marketing, (6) relationship marketing."
+    },
+    "id": "315720",
+    "name": {
+      "zh": "行銷管理",
+      "en": "Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳昱欣",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24258",
+        "code": "24258"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "科研 732",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705101",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705102",
+    "description": {
+      "zh": "本課程可使學生瞭解：貨幣與資金市場、投資問題、如何取得資金與運用資金、使公司價值最大、使股東權益最大化、瞭解代理制度、瞭解公司股票、債務之利用，股利政策等事項・",
+      "en": "This course has provided: money and capital market、Investments 、How to obtaining and using funds、Maximize the value o their firms、How to maximize stockholders' stock、To know agency problem 、To know the price of the firm's stock, use of debt and dividend policy."
+    },
+    "id": "315721",
+    "name": {
+      "zh": "財務管理",
+      "en": "Financial Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "科研 732 / 林忠億",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705102",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705466",
+    "description": {
+      "zh": "本課程是針對高科技產業行銷管理的進階課程，目的是以行銷管理理論及案例討論方式，幫助學生熟悉高科技產業分析與行銷管理策略。關鍵概念包括傳統的行銷管理、高新技術產業 B2B 行銷管理、高科技導論、高科技企業之策略與企業文化、關係行銷、高科技企業之市場導向及研發與行銷的互動、高科技市場的行銷研究、了解高科技市場之顧客、高科技市場之後配銷通路與供應鏈管理、高科技市場之定價考量、高科技市場之廣告及促銷、及電子化企業及電子商務等研討。",
+      "en": "This is an advanced course in marketing management for high-tech firms. The objective is to help students become familiar with industrial analysis and marketing management through marketing theories and cases. The key concepts include traditional marketing management, B2B Marketing Management, the introduction of high-tech Industry marketing, high-tech company's strategy and culture, relation marketing, marketing-R&D interaction, marketing research in high-tech markets, understanding high-tech customers, distribution channels and supply chain management, pricing consideration on high-tech marketing, advertising and promotion, E-business, case study, and term project."
+    },
+    "id": "315745",
+    "name": {
+      "zh": "科技政策與國家競爭力",
+      "en": "High-technology Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳國樑",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23152",
+        "code": "23152"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "科研 732",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705466",
+    "syllabusLinks": []
   },
   {
     "code": "5806003",
@@ -17110,6 +17449,7 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215034",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316000&code=10821",
       "ShowSyllabus.jsp?snum=316000&code=11401"
     ]
   },
@@ -17263,6 +17603,7 @@
     "notes": "A 班 碩一必修 (個案寫作或論文寫作 2 選 1) 台北集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205027",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316057&code=11429",
       "ShowSyllabus.jsp?snum=316057&code=24463"
     ]
   },
@@ -18747,7 +19088,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316200&code=10585"
+    ]
   },
   {
     "code": "3105020",
@@ -20033,7 +20376,9 @@
     "language": "　",
     "notes": "限博士班化工組選課，和化工碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7307005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316244&code=11138"
+    ]
   },
   {
     "code": "7307006",
@@ -20089,7 +20434,9 @@
     "language": "　",
     "notes": "限博士班生化組選課，和生化碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7307006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316245&code=11190"
+    ]
   },
   {
     "code": "4406145",
@@ -21627,8 +21974,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "製科所必選課程之一 / 中英，限 50 人",
+    "language": "中英雙語",
+    "notes": "製科所必選課程之一，限 50 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5606001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316401&code=12283"
@@ -22206,8 +22553,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105065",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316455&code=11054"
@@ -22906,6 +23253,7 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316576&code=10821",
       "ShowSyllabus.jsp?snum=316576&code=11396"
     ]
   },
@@ -23140,8 +23488,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "中英雙語授課，車輛三、四、車輛所合開",
+    "language": "中英雙語",
+    "notes": "車輛三、四、車輛所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406155",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316587&code=11321",
@@ -23258,8 +23606,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "EMI",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6027038",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316591&code=11128"
@@ -23317,7 +23665,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6030008",
     "syllabusLinks": [
@@ -23548,7 +23896,9 @@
     "language": "　",
     "notes": "製科所和機電博班合開，限博士班修習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5607007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316597&code=12280"
+    ]
   },
   {
     "code": "5905189",
@@ -23831,6 +24181,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2832",
         "code": "2832"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2890",
+        "code": "2890"
       }
     ],
     "teacher": [
@@ -23959,6 +24314,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2832",
         "code": "2832"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2890",
+        "code": "2890"
       }
     ],
     "teacher": [
@@ -24481,8 +24841,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "化工所生化所合開；EMI",
+    "language": "英語",
+    "notes": "化工所生化所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805076",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316631&code=11357",
@@ -24806,8 +25166,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "機電所、製科所和自動化所合開，全英語，限 20 人",
+    "language": "英語",
+    "notes": "機電所、製科所和自動化所合開，限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316641&code=11826"
@@ -24994,7 +25354,9 @@
     "language": "　",
     "notes": "建都所和設計博合開，全英授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5225432",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316648&code=12344"
+    ]
   },
   {
     "code": "5235434",
@@ -25352,7 +25714,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限 12 人，互動日碩 / 外碩與設計博合開 (英)",
+    "notes": "限 12 人，互動日碩 / 外碩與設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06211",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316680&code=11494"
@@ -25421,7 +25783,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "預選限 12 人，互動日碩 / 外碩與設計博合開 (英)",
+    "notes": "預選限 12 人，互動日碩 / 外碩與設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06212",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316681&code=11633"
@@ -25484,7 +25846,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "請排 PBL 教室，限 15 人，日碩 / 外碩 / 設計博合開 (英)",
+    "notes": "請排 PBL 教室，限 15 人，日碩 / 外碩 / 設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06217",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316684&code=11494"
@@ -26160,6 +26522,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2832",
         "code": "2832"
+      },
+      {
+        "name": "人工智慧學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2842",
+        "code": "2842"
+      },
+      {
+        "name": "創新AI學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2889",
+        "code": "2889"
       }
     ],
     "teacher": [
@@ -26193,7 +26565,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "電子四甲乙、所與電資外生所合開",
+    "notes": "電子四甲乙、電子所、AI 學程和電資外生所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615029",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316743&code=11437"
@@ -26738,7 +27110,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "EMI 英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236069",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316792&code=10239"
@@ -27383,6 +27755,11 @@
         "code": "2831"
       },
       {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
+        "code": "2836"
+      },
+      {
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2839",
         "code": "2839"
@@ -27413,7 +27790,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI, 計中電腦教室",
+    "notes": "IMBA&IMFI & 資財所，計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805141",
     "syllabusLinks": []
   },
@@ -28318,7 +28695,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "請排四教 102, 限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
+    "notes": "請排四教 102, 限 12 人，日 / 職碩 / 外碩 / 設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05207",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316879&code=11969"
@@ -28387,7 +28764,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "預選限 12 人，互動日 / 職碩 / 外碩與設計博合開 (英)",
+    "notes": "預選限 12 人，互動日 / 職碩 / 外碩與設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316880&code=11633"
@@ -28420,6 +28797,11 @@
         "code": "2831"
       },
       {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
+        "code": "2836"
+      },
+      {
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2839",
         "code": "2839"
@@ -28450,7 +28832,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "工管所和 IMBA、IMFI 合開",
+    "notes": "工管所、資財所和 IMBA、IMFI 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706024",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316889&code=10632"
@@ -28641,7 +29023,9 @@
     "language": "英語",
     "notes": "IMBA&IMFI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805128",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316892&code=11429"
+    ]
   },
   {
     "code": "AB05096",
@@ -28706,7 +29090,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI & 資財四甲乙碩合開 / 全英語授課",
+    "notes": "IMBA&IMFI & 資財四甲乙碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05096",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316895&code=12173"
@@ -28852,6 +29236,11 @@
         "code": "2831"
       },
       {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
+        "code": "2836"
+      },
+      {
         "name": "國際金融科技專班",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2839",
         "code": "2839"
@@ -28888,9 +29277,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI",
+    "notes": "IMBA&IMFI & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05018",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316898&code=24406"
+    ]
   },
   {
     "code": "3736041",
@@ -29453,7 +29844,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB06029",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=316910&code=11396"
+      "ShowSyllabus.jsp?snum=316910&code=11396",
+      "ShowSyllabus.jsp?snum=316910&code=23780"
     ]
   },
   {
@@ -29954,8 +30346,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "核心七選二；EMI；化工所 EOMP 合開",
+    "language": "英語",
+    "notes": "核心七選二；化工所 EOMP 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316954&code=11766"
@@ -30070,8 +30462,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "網路預選限 30 人；EMI",
+    "language": "英語",
+    "notes": "網路預選限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305083",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316970&code=10786"
@@ -30181,7 +30573,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5107007",
     "syllabusLinks": [
@@ -30566,9 +30958,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317020&code=11541"
+    ]
   },
   {
     "code": "A405114",
@@ -30778,7 +31172,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31291,6 +31691,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
         "code": "2836"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2890",
+        "code": "2890"
       }
     ],
     "teacher": [
@@ -31323,8 +31728,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "科研 240 / 資財四甲乙碩合開 / 全英語授課",
+    "language": "英語",
+    "notes": "科研 240 / 資財四甲乙碩和創新資安學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05091",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317125&code=12391"
@@ -31510,6 +31915,62 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317130&code=12171"
     ]
+  },
+  {
+    "code": "5705461",
+    "description": {
+      "zh": "本課程包含 2 大部份，服務與創新管理及智慧財產權與科技法律。 服務與創新管理旨在了解服務與創新管理之意義、方法與現況，內容包含服務之本質、創新之意義、服務與創新管理之方法、科技之應用、服務與創新管理現況介紹等。智慧財產權與科技法律旨在了解如何以智慧財產權來保護科技研發成果，內容包括智慧財產權法規介紹與專利運用策略實務。",
+      "en": "This course contains two major parts, service and innovation management and Intellectual property and technology law. Service and innovation management is to demonstrate the definition, the methodologies and the state of the art of service and innovation management, including the nature of service, innovation, the tools for service and innovation management, technology application and current development of service and innovation management. Intellectual property and technology law is to demonstrate understanding how to protect R & D achievements with intellectual property rights. This course includes intellectual property laws and patent strategies practice."
+    },
+    "id": "317145",
+    "name": {
+      "zh": "服務與科技管理導論",
+      "en": "Introduction to Services and Technology Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂正欽",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23585",
+        "code": "23585"
+      },
+      {
+        "name": "高淩菁",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11492",
+        "code": "11492"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "科研 732",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705461",
+    "syllabusLinks": []
   },
   {
     "code": "4005030",
@@ -31777,6 +32238,16 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2831",
         "code": "2831"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
+        "code": "2836"
+      },
+      {
+        "name": "國際金融科技專班",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2839",
+        "code": "2839"
       }
     ],
     "teacher": [
@@ -31810,7 +32281,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "IMBA&IMFI & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05016",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317180&code=12101"
@@ -32156,6 +32627,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
         "code": "2836"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2890",
+        "code": "2890"
       }
     ],
     "teacher": [],
@@ -32183,7 +32659,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "科研 243/111-2 新聘專任教師 / 資財三四甲乙碩合開 / 全英",
+    "notes": "科研 243 / 新聘教師 / 資財三四甲乙碩和創新資安學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05111",
     "syllabusLinks": []
   },
@@ -32259,6 +32735,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
         "code": "2836"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2890",
+        "code": "2890"
       }
     ],
     "teacher": [],
@@ -32286,7 +32767,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "科研 240/111-2 新進專任教師 / 資財四甲乙碩合開 / 全英",
+    "notes": "科研 240 / 新聘教師 / 資財四甲乙碩和創新資安學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05110",
     "syllabusLinks": []
   },
@@ -32677,7 +33158,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C725001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317347&code=12386"
+    ]
   },
   {
     "code": "7925103",
@@ -32885,6 +33368,211 @@
     "language": "　",
     "notes": "經管三四、經管所和創創合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705049",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317599&code=11429"
+    ]
+  },
+  {
+    "code": "5705492",
+    "description": {
+      "zh": "本課程主要目的除了逐一介紹勞資關係各種常用方法之外，並針對每一方法提供了豐富的各種勞動法規應用範例，期望同學在修習完畢後，不僅了解勞動法規的主要方法，更重要的是讓同學藉由這些工具學習解決企業勞資關係問題的能力，對創造企業的競爭優勢有所認識。",
+      "en": "This curriculum main goal besides introduced one by one the Industrial Relations each commonly used method, and aimed at each method to provide the rich each kind of Labor Laws, expected the schoolmate after repaired the custom to finish, not only the understanding Industrial Relations main method, more importantly let the schoolmate affiliation by these tool study solution enterprise Industrial Relations questions abilities, to create the enterprise the competitive advantage to have the understanding."
+    },
+    "id": "317602",
+    "name": {
+      "zh": "勞資關係與勞動法規",
+      "en": "Labor Relationship and Labor Law"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2860",
+        "code": "2860"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "徐啟勝",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23623",
+        "code": "23623"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "科研 732",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705492",
+    "syllabusLinks": []
+  },
+  {
+    "code": "6505155",
+    "description": {
+      "zh": "本課程介紹一系列的光學系統設計概念。其講授內容有單元一：基礎光學與像差理論，單元二：鏡頭設計，單元三：光學系統設計。透過光學實務的研習，可以建立一套完整的光學設計基礎理論，可以協助在研發的光學工程師，在創新發明的競爭戰場上佔得先機，研發順利。",
+      "en": "In this course, we will introduce a series of concepts of the optical system design. The contents are comprising of unit 1: optics basic and aberration theory, unit 2: lens design, unit 3: optical instrument system. The students can build up optical design skills through the practical experiments in the computer examples."
+    },
+    "id": "317603",
+    "name": {
+      "zh": "光學系統設計",
+      "en": "Optical system design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "光電所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2826",
+        "code": "2826"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鄭鈺潔",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11897",
+        "code": "11897"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "8",
+        "9",
+        "A"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同313",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=155",
+        "code": "155"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "計中電腦教室，光三所合開，英語",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6505155",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4906779",
+    "description": {
+      "zh": "本課程之目標在於介紹人機介面設計過程中所需了解之相關專業知識，配合設計實務的操作，使學生能充分了解使用者介面設計的流程以及相關的應用，始其具有能進行人機使用者介面實務製作的能力。課程內容包含介面設計概念模式、介面使用性、人機介面設計程序、使用者需求、介面原型設計、介面設計原則以及使用者測試等。教學將以課堂講授、個案研討以及實作等方式進行，並以報告繳交與課堂發表及作品為評量依據。",
+      "en": "This course is focused on introducing the knowledge for human-computer interaction (HCI) design, accompanying with design practice. This will allow students to understand the process of user interface design and related application, so as to be capable of practical interface design. The contents include conceptual model, interface usability, HCI process, user requirements, interface prototyping, principles of interface design and user testing. The course is preceded by means of lecturing, case study and practical work, and evaluated by students' reports, oral presentation and design work."
+    },
+    "id": "317607",
+    "name": {
+      "zh": "人機介面設計",
+      "en": "Human-Computer Interaction Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "技職所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2816",
+        "code": "2816"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "2",
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "互動外生和技職所合開，",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4906779",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3706098",
+    "description": {
+      "zh": "本課程引入生活性的學習方法來誘發學生學習動機，並培養可在社會與職場運用的四項英文基本技能。課程目標在幫助學生在生活實境習得英文，為他們裝備可溝通表達於日常、社交活動，並提升職涯的整合性英文技能。每堂課程都注重在以學生為中心的學習活動中帶入全真、應用性高的英文技巧。課程設計涵蓋的功能包括課堂分享與作業、日常互動英文以及專業英文練習。主要課題包括溝通，簡報與談判技巧，應用閱讀與寫作，聽力技巧運用，語言與文化。",
+      "en": "This course introduces real-world based learning approaches for students to raise their learning aspirations and to develop four essential English skills that are applicable in social and professional encounters. This course aims to help students practice English in most real-life settings and to equip them with integrated skills to advance their careers. Every class session focuses on bringing authentic and applied English in student-centered leaning activities. The class design covers the functions like information sharing and task-based activities, social interactions, and professional English practices. Essential topics include communication, techniques of negotiation and presentation, applied reading and writing, strategies for developing listening skills and language learning across cultures."
+    },
+    "id": "317629",
+    "name": {
+      "zh": "進階應用英文",
+      "en": "Advanced Applied English"
+    },
+    "stage": "1",
+    "credit": "0.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2811",
+        "code": "2811"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "周敏潔",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24407",
+        "code": "24407"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3706098",
     "syllabusLinks": []
   }
 ]
