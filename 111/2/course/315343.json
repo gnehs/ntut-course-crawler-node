@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "宋國明",
+    "email": "gmsung@ntut.edu.tw",
+    "latestUpdate": "2022-12-23 09:11:21",
+    "objective": "瞭解 CMOS 超大型積體電路之電路元件特性及其組合電路之分析與設計方法，其內容包含：金氧半電晶體電路特性分析、電路性能評估、電路模擬、組合電路設計、序向電路設計、設計方法分析、測試與驗證、CMOS 案例討論與 Verilog HDL 設計等課程內容。\nThis course covers the electric specification, circuit analyses, and design methods of the CMOS VLSI. The contents of this course include: Circuit characterization, performance estimation, Circuit simulation, Combinational circuit, Sequential circuit, Design methodology, Testing and verification, CMOS case study, and Verilog HDL design.",
+    "schedule": "Week 1 Course introduction\nWeek 2 CMOS Transistor Theory\nWeek 3-4 Nonideal Transistor Theory\nWeek 5-6 DC and Transient Response\nWeek 7-8 Logic Effort\nWeek 9 Midterm exam.\nWeek 10-11 Power\nWeek 12-13 Wires\nWeek 14-15 SPICE Simulation (Homework 1)\nWeek 16-17 Circuit Families and Combinational Circuit\nWeek 18 Sequential Circuit Design",
+    "scorePolicy": "Coursework and Grading:\nCourse grades will be based on the following work. The final weighting may be changed slightly.\nClass participation: 10%\nMidterm exam: 50%\nFinal project: 40%",
+    "materials": "Neil H. E. Weste and David Harris, “CMOS VLSI Design－A Circuit and System Perspective,”Third Edition, 2005. 偉明圖書有限公司 (www.wmbook.com.tw, TEL：2363-8586, 2363-6567, ISBN：0-321-14901-7)",
+    "consultation": "請至老師研究室討論。",
+    "remarks": "因應疫情防疫規定，調整教學方式為遠距教學，使用 google meet 教學軟體，代碼為: tmd-ictd-ifr，老師連絡方式：(02) 27712171#2121、0939-941496 或　gmsung@ntut.edu.tw。",
+    "foreignLanguageTextbooks": true
+  }
+]
