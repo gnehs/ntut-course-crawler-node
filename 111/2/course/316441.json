@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蘇嘉冠",
+    "email": "feabries@gmail.com",
+    "latestUpdate": "2022-12-24 16:27:43",
+    "objective": "本課程探討人工智慧 (AI) 與工程應用相關議題，並討論其解決方案與技術發展趨勢。內容由淺入深，包含基礎 Python 程式設計、資料處理、機器學習、深度學習、AI 相關應用及專題製作。在本課程中，學生可了解 AI 的基本原理及工程上的應用，本課程也藉由撰寫 AI 程式與使用相關工具，提昇工程背景學生實做 AI 應用的技能，以幫助學生將 AI 導入產業應用實務中。\n\nThis course will introduce artificial intelligence (AI) and its applications in engineering fields. Topics covered include basic Python programming, data possessing, machine learning, deep learning, AI applications in engineering fields and final project. Students can learn about the basic principles and engineering applications of AI. Coding and related tools will be required to improve their programming competence in AI. The course intends to help the students implement AI techniques in their industrial practices.",
+    "schedule": "課程以基礎概念出發，搭配大量的實做練習，分成幾個大主題：\n- 導論：人工智慧發展與應用簡介、機器學習及深度學習概念與技術簡介\n- Python 基礎練習：開發環境、Python 語法、相關套件的簡介與實做練習\n- 機器學習基礎：基礎概念、Regression (迴歸) 與 Classification (分類) 的應用練習\n- 影像辨識應用：OpenCV、CNN (卷積神經網路)、影像分類、物件偵測、OCR (光學字元辨識)、影像生成的介紹與練習\n- 自然語言處理應用：RNN (循環神經網路)、Transformer、簡易聊天機器人、自然語言理解、自然語言生成等 (內容依實際上課進度而定)\n- 期末專題：分組、題目發想、資料蒐集與實做、上台分享",
+    "scorePolicy": "- 程式題作業：預計 5 ~ 6 次（60%）\n- 期末專題（40%）",
+    "materials": "參考書籍：\n- 看圖學 Python 人工智慧程式設計（作者：陳會安）\n- Python 技術者們：練功！老手帶路教你精通正宗 Python 程式（作者：Naomi Ceder，譯者：張耀鴻）\n- Python 機器學習第三版（上）（作者： Sebastian Raschka, Vahid Mirjalili，譯者：劉立民、吳建華）\n- 強者用 PyTorch：實作史上最經典 AI 範例（作者： 集智俱樂部）\n\n更多請參考歷年課程網頁：\n- https://aintut.github.io/2022/\n- https://aintut.github.io/2021/\n- https://sites.google.com/view/2020aintut/",
+    "consultation": "無特定 office hour，歡迎用 email 聯繫任何事情：feabries@gmail.com",
+    "remarks": "若因疫情需要遠距教學，將以 Google Meet 為主要工具",
+    "foreignLanguageTextbooks": false
+  }
+]
