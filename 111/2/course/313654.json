@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "洪子晏",
+    "email": "georgehong618@gmail.com",
+    "latestUpdate": "2022-12-26 12:06:53",
+    "objective": "本課程聚焦於進化計算方法、模擬退火法、遺傳演算法、蟻群優化法和粒子群優化等啟發式演算法之介紹，以及演算法於經典最佳化問題之應用，並以管理科學之實務案例討論演算法之應用。\nThis course focuses on the introduction to heuristic and metaheuristic algorithms, including Evolutionary Computation, Simulated Annealing (SA), Genetic Algorithm (GA), Ant Colony Optimization (ACO) and Particle Swarm Optimization (PSO), and their application in well-known optimization problems. Case studies for a variety of problems will also be discussed.",
+    "schedule": "1\tIntroduction\n2\tComplexity and Heuristic algorithms\n3\tRandom Walk and hill climbing\n4\tRandom Walk and hill climbing(Coding)\n5\tSimulated Annealing\n6\tSimulated Annealing (Coding lesson)\n7\tPresentation 1\n8\tTabu Search\n9\tTabu Search(Coding lesson)\n10\tPresentation 2\n11\tGenetic Algorithm\n12\tGenetic Algorithm(Coding)\n13\tPresentation 3\n14\tProject Proposal\n15\tParticle Swarm Optimization\n16\tParticle Swarm Optimization(Coding)\n17\tTerm Project Presentation\n18\tTerm Project Presentation",
+    "scorePolicy": "Homework\t        40%\nPaper Presentation 30%\nTerm Project\t        40%",
+    "materials": "Gendreau, M., & Potvin, J. Y. (Eds.). (2010). Handbook of metaheuristics. New York: Springer.",
+    "consultation": "Making an appointment with TA",
+    "remarks": "若受疫情影響無法教室上課，則上課方式改為 teams 遠距教學 This course requires basic Operations Research background and computer programming skills.",
+    "foreignLanguageTextbooks": true
+  }
+]

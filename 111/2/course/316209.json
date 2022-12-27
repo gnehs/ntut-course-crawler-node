@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "劉宇晨",
+    "email": "ycliu@ntut.edu.tw",
+    "latestUpdate": "2022-12-25 22:47:19",
+    "objective": "數位電源為目前各大電源轉換電路公司研究的議題。本課程將介紹數位電源轉換器的動作模式、控制與實作考量，配合模擬軟體驗證理論，最後以數位電源設計實例進行探討。本課程藉由理論探討與模擬實作，加強學生的理論知識與實作能力。\nDigital power supply design is a major industrial topic. This course introduces the operation and control of digital power converters, and discusses the design principles and their implementation considerations. Simulation is used to validate the theory learned in this course. Also, digital power supply design examples are discussed in detail. Students can strengthen their theoretical knowledge and practical ability through theoretical discussion and simulation practice from this course.",
+    "schedule": "課程進度:\n第 1 周：數位轉換器背景介紹\n第 2 周：電源轉換器介紹\n第 3 周：電源轉換器控制模式介紹 (1)\n第 4 周：電源轉換器控制模式介紹 (2)\n第 5 周：控制系統介紹\n第 6 周: Z 轉換介紹\n第 7 周：電力電子轉換器模型建置 (1)\n第 8 周：電力電子轉換器模型建置 (2)\n第 9 周：期中考\n第 10 周：控制器數位化 (1)\n第 11 周：控制器數位化 (2)\n第 12 周：數位電源實例設計 — 取樣電路、保護電路介紹\n第 13 周：數位電源實例設計 —A/D 介紹\n第 14 周：數位電源實例設計 —PWM 介紹\n第 15 周：數位電源實例設計 — 中斷 介紹\n第 16 周：數位電源實例設計 —PID 介紹\n第 17 周：數位電源實例設計 — 數位降壓轉換器製作\n第 18 周：期末考 / 專題 / 報告",
+    "scorePolicy": "平時成績：40%\n期中考：30%\n期末考 / 專題：30%",
+    "materials": "[1]Luca Corradini, Dragan Maksimovic, Paolo Mattavelli, Regan Zane, Digital Control of High-Frequency Switched-Mode Power Converters.",
+    "consultation": "There will be teaching assistants to assist in the course, and there will also be teaching assistant consultation hours to allow students to ask questions after class.",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
