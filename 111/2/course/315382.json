@@ -2,13 +2,13 @@
   {
     "name": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
-    "latestUpdate": "2022-12-16 09:15:02",
-    "objective": "This course covers the basics and latest developments in information and communication technology (ICT), including Internet engineering, information theory and data compression and video standards (Huffman code), error correction codes (convolutional, turbo, LDPC / Polar code, for 4G, 5G, 802.11ac, DVB-T / T2 / S / C2, NAND flash memory), multiple access protocols (CSMA / CA with RTS / CTS for WiFi, CSMA / CD for Ethernet) , Wireless video transmission error resistance (HARQ, MDC, optimization theory (including linear programming)), radio resource allocation deep learning approach, sensor networks, network security, Internet of things (IoT).",
-    "schedule": "1.\tNetwork Protocols (Internet engineering)\n2.\tIT  source coding for video standards (Huffman code etc.)\n3.\tInformation theory and channel coding introduction\n4.\tconvolutional/RS codes for 4G control channel\n5.\tturbo codes for 4G traffic channel (optional)\n6.\tLDPC codes/Polar codes for 5G\n7.   Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.)\n8. \tError resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n9.   radio resource allocation deep learning approach, \n10.\tsensor network\n11.\tsecurity\n12.  IoT",
-    "scorePolicy": "Oral report (part of handouts): 20%\nExam: 40% \nOral report (paper): 40%",
-    "materials": "Course handouts",
+    "latestUpdate": "2022-12-29 08:21:47",
+    "objective": "本課程涵蓋資通訊技術的基礎和最新發展，內容包含網際網路工程，消息理論和資料壓縮與視訊標準 (Huffman code)，5G 錯誤更正碼，競爭型的多重存取協定 (WiFi 的 CSMA/CA with RTS/CTS，乙太網路的 CSMA/CD) ，無線視訊傳輸的抗錯 (HARQ, MDC, 最佳化理論 (含線性規劃))，無線資源分配和行動邊緣運算之任務卸載，行動通訊網路，隨意網路，感測網路，網路安全，物聯網",
+    "schedule": "1.\tNetwork Protocols (網際網路工程)\n2.\tIT  source coding for video standards (Huffman code)\n3.\tIT channel coding introduction (消息理論和錯誤更正碼簡介)\n4.\tLDPC/Polar codes for 5G\n5.     Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi)\n6. \tError resilience (抗錯) in wireless video transmission (HARQ (RCPC+CRC), MDC, Cross-layer control, 最佳化理論 (含線性規劃)\n7. \tradio resource allocation and task offloading in mobile edge computing 無線資源分配和行動邊緣運算之任務卸載\n8.     mobile communication networks\n9.     ad hoc networks (隨意網路)\n10.\tsensor network (感測網路)\n11.\tsecurity (網路安全)\n12.   IoT (物聯網)",
+    "scorePolicy": "Oral report: 20%\nExam: 40% \nOral report (paper): 40%",
+    "materials": "course handouts",
     "consultation": "Office hours or by email",
-    "remarks": "If the distance class becomes necessary, all lectures, exam, oral reports will be held via Microsoft Teams. We will have roll calls and you may be required to turn on the camera and mic in the class.",
+    "remarks": "Microsoft Teams",
     "foreignLanguageTextbooks": false
   }
 ]
