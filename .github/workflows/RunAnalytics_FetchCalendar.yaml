@@ -1,4 +1,4 @@
-name: Run Analytics
+name: Run Analytics & Fatch calendar
 
 on:
   push:
@@ -20,6 +20,8 @@ jobs:
       run: npm install
     - name: Run Analytics
       run: node ./analytics/withdrawal.js
+    - name: fetch calendar data
+      run: node ./crawler/fetchCalendar.js
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
