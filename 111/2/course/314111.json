@@ -2,12 +2,12 @@
   {
     "name": "李鎮宇",
     "email": "G.C.Li@ntut.edu.tw",
-    "latestUpdate": "2022-12-16 16:12:38",
-    "objective": "This course introduces data science and data visualization through the R language. Focusing on applied data science skills, students will be introduced to the methods to tidy, explore, transform, and visualize data. Students will practice them with real data in exercises and projects.",
-    "schedule": "1.\tIntroduction to course\n2.\tData preparation\n3.\tUnivariate Analysis and Visualization\n4.\tBivariate Analysis and Visualization\n5.\tMultivariate Analysis and Visualization\n6.\tMaps\n7.\tTime-series Analysis and Visualization\n8.\tStatistical Models and Visualization\n9.\tOther Advanced Visualization\n10.\tCustomization of Graphs 1\n11.\tCustomization of Graphs 2\n\nAdvanced topics: Data science techniques\n12.\tDatasets and data structures\n13.\tData management\n14.\tAdvanced data management\n15.\tAdvanced programming",
-    "scorePolicy": "Participation, Classwork & Homework \t25 %\nQuizzes \t \t \t \t \t \t \t25 %\nMidterm \t \t \t \t \t \t \t25%\nFinal report\t\t\t\t\t\t25 %\nTotal\t\t\t\t\t\t       100%",
-    "materials": "Textbook: Data Visualization with R, Rob Kabacoff\nReference: R in Action: Data Analysis and Graphics with R, Robert Kabacoff, Manning Publications, 2015",
-    "consultation": "Send LINE or email message to the instructor.",
+    "latestUpdate": "2022-12-31 16:40:53",
+    "objective": "This course introduces data science and data visualization through the R language. The course assumes no prior experience in R or data programming. Focusing on applied data science skills, students will be introduced to the methods to tidy, explore, transform, and visualize data. Students will practice them with real data in exercises and projects.",
+    "schedule": "Week. Dates: Content\n\nI.Data Science\n1. 2/23-24: Introduction to course, installation\n2. 3/2-3: Basic R Commands, packages\n3. 3/9-10: Data selection, Data formats\n4. 3/16-17: Workflows, comparisons\n5. 3/23-24: Data transformations\n6. 3/30-31: Functions, Iteration\n\nII. Visualization\n7. 4/6-7: Data Preparation (Ch. 1)\n8. 4/13-14: Introduction to ggplot (Ch. 2)\n9. 4/20-21: Exam Week\n10. 4/27-28: Univariate Graphs (Ch. 3), Bivariate Graphs (Ch. 4)\n11. 5/4-5: Multivariate Graphs (Ch. 5), Maps (Ch. 6)\n13. 5/11-12: Time Series Graphs (Ch. 7), Statistical Models and Graphs (Ch. 8)\n\nIII. Practice\n13. 5/18-19: Project Time\n14. 5/26-26: Introduction to R libraries and modeling\n15. 6/1-2: Project Seminar\n16. 6/8-9: Last Class\n17. 6/15-16: Exam Week",
+    "scorePolicy": "25% Participation, Classwork & Homework \t\n25% Quizzes\n25% Midterm\n25% Final report\n100% Total",
+    "materials": "Textbook: Data Visualization with R, Rob Kabacoff (free)\nReference: Hands-On Programming with R, Garrett Grolemund (free)\nReference: R in Action: Data Analysis and Graphics with R, Robert Kabacoff, Manning Publications, 2015",
+    "consultation": "Send LINE message or email the instructor.",
     "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": true
   }
