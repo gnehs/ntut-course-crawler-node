@@ -704,15 +704,15 @@
     ]
   },
   {
-    "code": "",
+    "code": "0462022",
     "description": {
-      "zh": "",
-      "en": ""
+      "zh": "本課程著重點於奠定青少年發展理論的基礎、瞭解教育現場相關議題與案例及發展中學教育現場實作的能力。具體目標分列如下: （一） 瞭解青少年發展的相關理論。（二） 探討青少年行為發展的特性與困擾的來源。（三） 發展青少年問題行為的診斷與輔導策略。課程內容包括：青少年的定義與內涵、青少年發展的理論模式、青少年的生理發展與輔導、青少年的智能發展與輔導、青少年的社會化發展與輔導、青少年的情緒發展與輔導、青少年的人格發展與輔導、青少年的道德發展與輔導、青少年的生涯發展與輔導。 教育專業課程與教師專業素養指標，請參閱連結:https://tec.ntut.edu.tw/p/412-1022-10857.php?Lang=zh-tw",
+      "en": "The course aims to (1) understand the definition and essence of adolescence development, (2) understands the theory and application of adolescence development, (3) cultivate the fundamental capability of adolescence development and guidance. It covers the definition and essence of adolescence, theory of adolescence development and guidance, physiology development and guidance of adolescence, intelligence development and guidance of adolescence, socialization development and guidance of adolescence, emotion development and guidance of adolescence, personality development and guidance of adolescence, moral development and guidance of adolescence, and career development and guidance of adolescence.Indicators of Teacher’s professional competencies in professional education, please visit the link:https://tec.ntut.edu.tw/p/412-1022-10857.php?Lang=zh-tw"
     },
     "id": "310750",
     "name": {
       "zh": "青少年發展",
-      "en": ""
+      "en": "Adolescece Development"
     },
     "stage": "1",
     "credit": "2.0",
@@ -756,15 +756,15 @@
     ]
   },
   {
-    "code": "",
+    "code": "2B05013",
     "description": {
-      "zh": "",
-      "en": ""
+      "zh": "嵌入式系統目前愈來愈普遍。它將會大大地影響我們的生活方式。可攜式裝置如智慧型手機、掌上型電腦、以及所謂的 IA 裝置如家用網路閘道器、數位視訊錄影機、和常見的遊戲機都是屬於嵌入式系統的範疇。 在本課程中，我們將會討論何謂嵌入式系統、嵌入式系統的形式、以及如何建構一個嵌入式系統。由於嵌入式系統包含硬體及軟體的議題，我們也會探討相關的主題。本課程的先修課程包含計算機組織與結構、C 程式語言、資料結構、系統程式、以及作業系統。課程主要內容如下：嵌入式系統簡介與概論、嵌入式精簡指令集結構 ARM 指令集、嵌入式計算平台、嵌入式程式設計與分析、嵌入式作業系統、系統設計技術、裝置操作網路，本課程亦包含實習與學期專題作業。",
+      "en": "Embedded systems are more and more popular today. It will affect the human life greatly. Portable devices like smart phone, PDA, and MP3 player, and so-called IA devices such as home gateway, DVR, and game machine are all categorized as embedded systems. In this course, we will discuss what an embedded system is, what it looks like, and how to build an embedded device. Since an embedded system involves hardware and software issues, we will discuss the related subjects. The prerequisite courses for this class include computer organization and architecture, the C programming language, data structure, system programming, and operating system. The major topics of this course are listed as follows: Introduction and Basic Concepts, The RISC Embedded Architectures, The ARM instruction Set, The Embedded Computing Platforms, Program Design and Analysis, The Embedded Operating Systems, System Design Techniques, Device Manipulation Networks, Experimental laboratories and case study."
     },
     "id": "310756",
     "name": {
       "zh": "嵌入式系統",
-      "en": ""
+      "en": "Embedded System"
     },
     "stage": "1",
     "credit": "3.0",
@@ -9087,7 +9087,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "",
+    "notes": "企業命題問題導向課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3534050",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=312026&code=11905"
@@ -10860,7 +10860,9 @@
     "language": "　",
     "notes": "家室組",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3833023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=312129&code=24415"
+    ]
   },
   {
     "code": "3833029",
@@ -13325,7 +13327,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "◎C，計中電腦教室，光三所合開",
+    "notes": "◎C，計中電腦教室，光三所合開，企業命題問題導向課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6503011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=312290&code=11897"
@@ -21507,8 +21509,8 @@
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "EMI",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3322113",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=312577&code=12341"
@@ -24560,17 +24562,23 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
-      "thu": [
-        "2"
+      "wed": [
+        "5"
       ],
+      "thu": [],
       "fri": [
         "3",
         "4"
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教625",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=445",
+        "code": "445"
+      }
+    ],
     "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
@@ -25839,7 +25847,9 @@
     "language": "　",
     "notes": "家室組",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3831006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=312692&code=24415"
+    ]
   },
   {
     "code": "3803082",
@@ -34625,12 +34635,13 @@
       "sun": [],
       "mon": [
         "5",
-        "6",
-        "7",
-        "8"
+        "6"
       ],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "5",
+        "6"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -34640,11 +34651,6 @@
         "name": "三教308",
         "link": "Croom.jsp?format=-3&year=111&sem=2&code=49",
         "code": "49"
-      },
-      {
-        "name": "綜科327",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=186",
-        "code": "186"
       }
     ],
     "people": "42",
@@ -59308,7 +59314,9 @@
     "language": "　",
     "notes": "研一單號",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313931&code=11151"
+    ]
   },
   {
     "code": "5105003",
@@ -60501,8 +60509,8 @@
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課 / 和 IMBA&IMFI 合開 / 823",
+    "language": "英語",
+    "notes": "和 IMBA&IMFI 合開 / 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314099&code=23009"
@@ -65642,65 +65650,6 @@
     ]
   },
   {
-    "code": "A505211",
-    "description": {
-      "zh": "本課程將與結合社區力量，透過對艋舺龍山寺周邊人文歷史、社會民俗、商業變遷等，討論艋舺代表性的台灣本土文化。",
-      "en": "The course will combine the power of the community, through the periphery of the Longshan Temple in Wanhua human history, social customs, commerce, etc. Changes to discuss Monga representative of Taiwanese culture."
-    },
-    "id": "314648",
-    "name": {
-      "zh": "艋舺文創講座",
-      "en": "Monga Taipei creative community seminar"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "文發所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2834",
-        "code": "2834"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鄭麗玲",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11147",
-        "code": "11147"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "6",
-        "7",
-        "8"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同616",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=537",
-        "code": "537"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "限 7 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A505211",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=314648&code=11147"
-    ]
-  },
-  {
     "code": "A505215",
     "description": {
       "zh": "「心靈的理論與實踐」(The Theory and Practice of the Mind) 旨在對人的心理各個層面，從不同的角度進行探討。課程將以理論講授與實際操作交替進行：我們將借重當代學術研究成果，如腦神經科學、心理學、哲學、神經生物學、社會學等等，以增進我們對人自身重要議題的認識。這些議題至少包括：心靈 (Mind)、心流 (Mental Flow)、情緒 (Emotion)、選擇 (Choice)、決定 (Decision)、感官 (Sensations)、直覺 (Intuition)、自我分析 ( Self-Analysis)、單純性 (Simplicity)、潛意識 (Subconscious)、創新 (Novelty)、洞察力 (Insight) 與意志力 (Willpower) 等等。若時間允許，我們將在課上播放相關的科學影片與電影。",
@@ -66875,6 +66824,56 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314756&code=11368"
     ]
+  },
+  {
+    "code": "C525001",
+    "description": {
+      "zh": "專題報告、專題演講、研究小組討論",
+      "en": "Case Study, Seminars, Group meeting"
+    },
+    "id": "314765",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "2",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "人工智慧學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2842",
+        "code": "2842"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林鈞陶",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12083",
+        "code": "12083"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "25",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創新 AI 和電資 AI 合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C525001",
+    "syllabusLinks": []
   },
   {
     "code": "6607003",
@@ -88472,7 +88471,9 @@
     "language": "　",
     "notes": "博二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5107001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316986&code=11905"
+    ]
   },
   {
     "code": "3533037",
@@ -89966,8 +89967,8 @@
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "EMI 英文",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4215003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317055&code=24113"
@@ -101113,7 +101114,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "創新 AI 和電資 AI 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C715001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317346&code=12083"
@@ -108600,7 +108601,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "計中電腦教室，光三所合開",
+    "notes": "計中電腦教室，光三所合開，企業命題問題導向課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505155",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317603&code=11897"
@@ -108872,7 +108873,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "材資三、四甲合開，限 20 人，PBL 教室",
+    "notes": "材資三、四甲合開，限 20 人，PBL 教室，企業命題問題導向課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3313171",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317625&code=11236"

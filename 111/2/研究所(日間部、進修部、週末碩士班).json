@@ -5235,7 +5235,9 @@
     "language": "　",
     "notes": "研一單號",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=313931&code=11151"
+    ]
   },
   {
     "code": "5105003",
@@ -6428,8 +6430,8 @@
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "英語授課 / 和 IMBA&IMFI 合開 / 823",
+    "language": "英語",
+    "notes": "和 IMBA&IMFI 合開 / 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314099&code=23009"
@@ -11569,65 +11571,6 @@
     ]
   },
   {
-    "code": "A505211",
-    "description": {
-      "zh": "本課程將與結合社區力量，透過對艋舺龍山寺周邊人文歷史、社會民俗、商業變遷等，討論艋舺代表性的台灣本土文化。",
-      "en": "The course will combine the power of the community, through the periphery of the Longshan Temple in Wanhua human history, social customs, commerce, etc. Changes to discuss Monga representative of Taiwanese culture."
-    },
-    "id": "314648",
-    "name": {
-      "zh": "艋舺文創講座",
-      "en": "Monga Taipei creative community seminar"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "文發所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2834",
-        "code": "2834"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鄭麗玲",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11147",
-        "code": "11147"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "6",
-        "7",
-        "8"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同616",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=537",
-        "code": "537"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "限 7 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A505211",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=314648&code=11147"
-    ]
-  },
-  {
     "code": "A505215",
     "description": {
       "zh": "「心靈的理論與實踐」(The Theory and Practice of the Mind) 旨在對人的心理各個層面，從不同的角度進行探討。課程將以理論講授與實際操作交替進行：我們將借重當代學術研究成果，如腦神經科學、心理學、哲學、神經生物學、社會學等等，以增進我們對人自身重要議題的認識。這些議題至少包括：心靈 (Mind)、心流 (Mental Flow)、情緒 (Emotion)、選擇 (Choice)、決定 (Decision)、感官 (Sensations)、直覺 (Intuition)、自我分析 ( Self-Analysis)、單純性 (Simplicity)、潛意識 (Subconscious)、創新 (Novelty)、洞察力 (Insight) 與意志力 (Willpower) 等等。若時間允許，我們將在課上播放相關的科學影片與電影。",
@@ -12804,6 +12747,56 @@
     ]
   },
   {
+    "code": "C525001",
+    "description": {
+      "zh": "專題報告、專題演講、研究小組討論",
+      "en": "Case Study, Seminars, Group meeting"
+    },
+    "id": "314765",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "2",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "人工智慧學位學程",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2842",
+        "code": "2842"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林鈞陶",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12083",
+        "code": "12083"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "25",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創新 AI 和電資 AI 合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C525001",
+    "syllabusLinks": []
+  },
+  {
     "code": "6607003",
     "description": {
       "zh": "幫助學生認識一般科技文章以及科技論文語法、文體、句子結構等，並加強英文口頭表達之能力。",
@@ -13391,7 +13384,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "29",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13555,7 +13548,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13661,7 +13654,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13767,7 +13760,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13819,7 +13812,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14084,7 +14077,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14400,7 +14393,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14505,7 +14498,7 @@
       ]
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14664,7 +14657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14717,7 +14710,7 @@
       ]
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14926,7 +14919,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15362,7 +15355,7 @@
         "code": "383"
       }
     ],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15688,7 +15681,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16661,7 +16654,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16891,7 +16884,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -18387,7 +18380,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -18759,7 +18752,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19497,7 +19490,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21147,7 +21140,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21559,7 +21552,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22318,7 +22311,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23595,7 +23588,7 @@
         "code": "383"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -24314,7 +24307,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -25005,7 +24998,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -25319,7 +25312,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27203,7 +27196,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28504,7 +28497,7 @@
       ]
     },
     "classroom": [],
-    "people": "112",
+    "people": "114",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -30841,7 +30834,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31490,7 +31483,9 @@
     "language": "　",
     "notes": "博二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5107001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316986&code=11905"
+    ]
   },
   {
     "code": "5705508",
@@ -32138,8 +32133,8 @@
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "EMI 英文",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4215003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317055&code=24113"
@@ -33890,7 +33885,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "創新 AI 和電資 AI 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C715001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317346&code=12083"
@@ -34317,7 +34312,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "計中電腦教室，光三所合開",
+    "notes": "計中電腦教室，光三所合開，企業命題問題導向課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505155",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317603&code=11897"
@@ -34416,7 +34411,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
