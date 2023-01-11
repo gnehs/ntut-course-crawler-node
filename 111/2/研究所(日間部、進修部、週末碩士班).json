@@ -7456,7 +7456,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓235",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=465",
+        "code": "465"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7692,13 +7698,7 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓334",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=473",
-        "code": "473"
-      }
-    ],
+    "classroom": [],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12326,7 +12326,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=15",
+        "code": "15"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21898,13 +21904,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教327",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=429",
-        "code": "429"
-      }
-    ],
+    "classroom": [],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23039,7 +23039,9 @@
     "language": "　",
     "notes": "製科所必選課程之一 / 機電所和製科所合開，限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=316436&code=11299"
+    ]
   },
   {
     "code": "C103004",
@@ -24677,9 +24679,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓234",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=467",
-        "code": "467"
+        "name": "六教427",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=434",
+        "code": "434"
       }
     ],
     "people": "46",
@@ -24937,9 +24939,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓234",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=467",
-        "code": "467"
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=451",
+        "code": "451"
       }
     ],
     "people": "5",
