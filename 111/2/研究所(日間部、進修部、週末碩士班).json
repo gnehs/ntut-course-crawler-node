@@ -1700,7 +1700,7 @@
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3715001",
     "syllabusLinks": [
@@ -10929,9 +10929,9 @@
     },
     "classroom": [
       {
-        "name": "六教726",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=451",
-        "code": "451"
+        "name": "六教326",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=428",
+        "code": "428"
       }
     ],
     "people": "39",
@@ -26631,7 +26631,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=480",
+        "code": "480"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -28914,9 +28920,9 @@
     },
     "classroom": [
       {
-        "name": "六教426",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=433",
-        "code": "433"
+        "name": "二教304",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=29",
+        "code": "29"
       }
     ],
     "people": "32",
@@ -28976,7 +28982,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29734,7 +29746,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教626",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=446",
+        "code": "446"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29863,9 +29881,9 @@
     },
     "classroom": [
       {
-        "name": "六教726",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=451",
-        "code": "451"
+        "name": "科研大樓243",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=462",
+        "code": "462"
       }
     ],
     "people": "7",
@@ -29989,7 +30007,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30175,7 +30199,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教326",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=428",
+        "code": "428"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33896,7 +33926,7 @@
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "能源所和能源與車輛外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505402",
     "syllabusLinks": [
@@ -35063,6 +35093,57 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA04056",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317723&code=11610"
+    ]
+  },
+  {
+    "code": "AA45009",
+    "description": {
+      "zh": "醫學影像在醫療過程扮演重要的角色，以影像訊號處理輔助臨床診斷，為亟待發展重要技術。在本課程中，我們將聚焦在如何使用設計思考方法解決醫學影像處理所遇到的問題。課程採用工作坊模式，希望能培養跨領域背景間的溝通與協調能力，運用設計思考激發問題解決能力，培育跨領域人才。",
+      "en": "Medical imaging plays an essential role in the medical process. Using image signal processing to assist clinical diagnosis is an important technology that needs to be developed urgently. This course will focus on using design thinking to solve prob-lems encountered in medical image processing. The course aims to cultivate com-munication and coordination skills between different backgrounds, stimulate problem-solving skills based on design thinking, and cultivate interdisciplinary talents."
+    },
+    "id": "317725",
+    "name": {
+      "zh": "設計思考 - 生活醫學知能",
+      "en": "Design Thinking – Medical Imaging"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11635",
+        "code": "11635"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "1"
+      ]
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "工作坊密集授課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA45009",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317725&code=11635"
     ]
   }
 ]

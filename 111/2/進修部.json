@@ -19986,5 +19986,50 @@
     "notes": "吳柏輝",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504602",
     "syllabusLinks": []
+  },
+  {
+    "code": "4504107",
+    "description": {
+      "zh": "本課程使學生對燃料電池的基本原理、關鍵技術、以及商品化發展與應用過程，有所瞭解並加以分析及探討。燃料電池是一種電化學的發電裝置，其運作原理係利用電化學反應將燃料內之化學能直接轉換為電能，因其在能量轉換過程中並不經過熱機過程，因此能量轉換效率較高。本課程之授課綱要可分為以下幾項：燃料電池簡介、燃料電池之效率、質子交換膜燃料電池、磷酸燃料電池、鹼性燃料電池、直接甲醇燃料電池、固態氧化物燃料電池、燃料電池的燃料供應、燃料電池之計算實例。",
+      "en": "This course enables students to fully understand the basic principles of the fuel cell, key technologies, and the commercialization of the development and the application process, and to analyze and discuss the design of fuel cell system.Fuel cell is an electrochemical power generating device. It can directly convert the chemical energy of fuel into the electrical energy via the electrochemical reaction. Because it does not go through the process of thermal engine in the energy conversion process, and therefore a higher energy conversion efficiency. Teaching outlines of the course can be divided into the followings:Introduction to fuel cell, Fuel cell efficiency, Proton exchange membrane fuel cell, Phosphoric acid fuel cell, Alkaline fuel cell, Direct methanol fuel cell, Solid oxide fuel cell, Fueling fuel cell, Calculation example of fuel cell."
+    },
+    "id": "317623",
+    "name": {
+      "zh": "燃料電池概論",
+      "en": "Introduction to Fuel Cell"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四能四",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2517",
+        "code": "2517"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "classroom": [],
+    "people": "23",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "陳澤興",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4504107",
+    "syllabusLinks": []
   }
 ]
