@@ -9673,7 +9673,8 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225011",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=316092&code=10938"
+      "ShowSyllabus.jsp?snum=316092&code=10938",
+      "ShowSyllabus.jsp?snum=316092&code=24277"
     ]
   },
   {
@@ -18337,7 +18338,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "黃盈庭老師",
+    "notes": "李泳霆老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403009",
     "syllabusLinks": []
   },
@@ -20030,6 +20031,179 @@
     "language": "　",
     "notes": "陳澤興",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504107",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5825105",
+    "description": {
+      "zh": "本課程係提供本校學生與創意界交流的平台，提供學生建立人文藝術相關之涵養，並協助學生體驗文化生活創意之實務過程，透過邀請國內著名之文化生活創意相關之產、官、學界專家進行專題講座，經由專家之經驗分享與傳承，以激發學生透過自身生活之經驗學習創意發展之可能性，開發其創意之潛能。",
+      "en": "Course Description：    This course provide a platform to generate between student and creativity. It could students to build the temperament of human arts, and experience practical process of cultural life creativity. Through the invitation of the cultural life creative expert in production, official, education to have a speech. By the way of sharing and passing down, it could stimulate the learning creative develop possibility of students in their daily life, and develop the potential of creativity."
+    },
+    "id": "317636",
+    "name": {
+      "zh": "創新講座 -- 文化生活創意",
+      "en": "The originality of life & culture"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職創新所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2861",
+        "code": "2861"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳殿禮",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11275",
+        "code": "11275"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "B"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "設計B01",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=319",
+        "code": "319"
+      }
+    ],
+    "people": "9",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "創新碩 (日職)、設計博合開；設計 B01",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5825105",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317636&code=11275"
+    ]
+  },
+  {
+    "code": "3722009",
+    "description": {
+      "zh": "有鑑於電子商務的迅速發展，本課程在幫助此課程學習者能夠應用免費的軟體和網路服務，製作一個電子商務的商業網站，無論同學自行創業或到公司服務，都可以因應電子商務的業務需求。",
+      "en": "This course will teach the students to learn to build up an e-commerce website ."
+    },
+    "id": "317654",
+    "name": {
+      "zh": "電子商務網站設計",
+      "en": "E-commerce website design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管二丙",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2755",
+        "code": "2755"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張文華",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=10418",
+        "code": "10418"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=156",
+        "code": "156"
+      }
+    ],
+    "people": "30",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "工管二甲、丙合開，計中電腦教室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3722009",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317654&code=10418"
+    ]
+  },
+  {
+    "code": "5855002",
+    "description": {
+      "zh": "本課程將專注於創新產品與混合實境的設計研究實務，期望透過虛實整合與使用者經驗的核心概念，應用研究方法深入探究設計問題與使用者經驗中的痛點，探討實體端產品設計和虛擬端的服務設計之各種實務應用，進而透過設計方法與軟硬體技術落實創新概念，最終達到設計出符合與滿足使用者在未來生活中的各種設計服務與體驗。",
+      "en": "This course will focus on the design research case study of innovative products and mixed reality. It is expected that through the core concepts of virtual-real integration and user experience, it will apply research methods to deeply explore design problems and pain points in user experience and explore physical product design and virtual reality. We will integrate various possibilities of service design with industry case study. Then, we intend to utilize the implemented innovative concept by design methods, software, and hardware technologies to achieve the design services and experiences that meet and satisfy users in future life."
+    },
+    "id": "317775",
+    "name": {
+      "zh": "產品與混合實境設計研究 (二)",
+      "en": "Product and Mixed Reality Design Research (2)"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職創新所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2861",
+        "code": "2861"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "梁又文",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12282",
+        "code": "12282"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "設計207",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=389",
+        "code": "389"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "日職合開，英語授課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5855002",
     "syllabusLinks": []
   }
 ]
