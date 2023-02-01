@@ -3292,13 +3292,7 @@
         "code": "2756"
       }
     ],
-    "teacher": [
-      {
-        "name": "孫殷同",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11767",
-        "code": "11767"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [
@@ -18136,51 +18130,6 @@
     ]
   },
   {
-    "code": "6105042",
-    "description": {
-      "zh": "本課程在使學生認識即時電腦控制系統，瞭解其系統架構，並學習即時電腦控制系統之軟體設計技術。內容包含： (1) 即時控制系統介紹， (2) 電腦控制， (3) 即時控制系統之硬體需求， (4) 電腦控制實現， (5) 作業系統， (6) 即時控制系統設計， (7) 即時控制系統性能分析。",
-      "en": "This course let students to understand the real-time computer control system and learn the skill to design the software of real-time computer control system.  The contents of this course are: (1)Real-time Computer Control System Introduction, (2)Concept of Computer Control, (3)Computer Hardware Requirement for Real-time Computer Control System, (4) Computer Control Implementation, (5)Operating Systems (6)Real-time Computer Control System Design, (7)Real-time Computer Control System Performance Analysis."
-    },
-    "id": "317162",
-    "name": {
-      "zh": "即時控制系統",
-      "en": "Real-time Control System"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職自動化所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2863",
-        "code": "2863"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "21",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "新進教師 (江)",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105042",
-    "syllabusLinks": []
-  },
-  {
     "code": "3713024",
     "description": {
       "zh": "當企業在邁向資訊化與自動化的同時，智慧生產工程師需考量如何整合智慧製造與精實生產。本課程的目標在幫助學生瞭解智慧製造在工廠上的應用，學習建構所謂精實導向的企業。",
@@ -20226,5 +20175,50 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317775&code=12282"
     ]
+  },
+  {
+    "code": "4403014",
+    "description": {
+      "zh": "先修課程：4402014 或負責教授同意燃料及燃燒，基本熱傳理論，蒸汽動力廠，壓縮機，燃氣輪機，內燃機，汽油引擎，柴油引擎，冷凍空調循環。",
+      "en": "Fuels and Combustion, Principles of Heat Transfer, Steam Power Plants Compressors, Gas Turbines, Internal Combustion Engines: Gasoline Engines, Diesel Engines, Refrigeration And Air Conditioning."
+    },
+    "id": "317776",
+    "name": {
+      "zh": "熱機學",
+      "en": "Thermal Engineering"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四車二",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2757",
+        "code": "2757"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "6",
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "李泳霆老師 (新開課程)",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4403014",
+    "syllabusLinks": []
   }
 ]
