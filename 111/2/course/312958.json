@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "粘朝益",
+    "email": "niancy685218@ntut.edu.tw",
+    "latestUpdate": "2023-02-02 07:00:09",
+    "objective": "介紹人工智慧、影像處理、物聯網、智慧機器人、工業 4.0、CPS 等自動化技術，使學員瞭解 Python 程式語言於機器學習應用，以及機器學習的理論背景、評估如何使用適當的演算法。\nIntroduction to AI, vision processing, IOT, intelligent robotic system, industry 4.0, cyber-physical system; students should be familiar with the basic concepts of machine learning (ML), probability theory, probability distribution, ML algorithms for classification, regression, and clustering taught in this class.",
+    "schedule": "第 1 週：Python 安裝及編輯環境介紹\n第 2 週：Python 基本語法、流程控制\n第 3 週：Python 串列、函式、模組\n第 4 週：OpenCV 介紹\n第 5 週：影像檔案讀取、影像處理、影像顯示\n第 6 週：ESP8266 開發板與 WiFi 無線基地台\n第 7 週：MicroPython 開發環境介紹\n第 8 週：GPIO 控制：按鍵控制、RGB_LED\n第 9 週：期中測驗\n第 10 週：GPIO 控制：RGB_LED、光敏電阻\n第 11 週：urequests 物件與 JSON 處理\n第 12 週：IFTTT 寄送郵件與 LINE Notify\n第 13 週：物聯網平台：建立 ThingSpeak\n第 14 週：MQTT 通訊協定：實作手機 APP 遠端監控\n第 15 週：雲端試算表\n第 16 週：工業 4.0 介紹\n第 17 週：虛實整合系統 (Cyber-Physical System, CPS)\n第 18 週：期末上機測驗",
+    "scorePolicy": "1. 期中測驗 25%\n2. 期中測驗 25%\n3. 課堂練習 25%\n4. 作業 25%",
+    "materials": "1. Python / MicroPython 物聯網應用，作者：陳會安，出版社：博碩文化",
+    "consultation": "Line or email",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw",
+    "foreignLanguageTextbooks": false
+  }
+]
