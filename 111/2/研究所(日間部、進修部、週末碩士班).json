@@ -1851,7 +1851,7 @@
         "code": "480"
       }
     ],
-    "people": "17",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4542,7 +4542,7 @@
         "code": "383"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5118,7 +5118,7 @@
         "code": "383"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5234,7 +5234,7 @@
         "code": "383"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6414,7 +6414,7 @@
         "code": "343"
       }
     ],
-    "people": "69",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6472,7 +6472,7 @@
         "code": "474"
       }
     ],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -6536,7 +6536,7 @@
         "code": "474"
       }
     ],
-    "people": "35",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6595,7 +6595,7 @@
         "code": "487"
       }
     ],
-    "people": "31",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6654,7 +6654,7 @@
         "code": "489"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -6718,7 +6718,7 @@
         "code": "486"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -6778,7 +6778,7 @@
         "code": "489"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -10212,7 +10212,7 @@
         "code": "399"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -13368,6 +13368,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=314801&code=11985",
       "ShowSyllabus.jsp?snum=314801&code=11573"
     ]
   },
@@ -18602,7 +18603,9 @@
     "language": "　",
     "notes": "請排進修部教室，限 30 人，學生自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05320",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315968&code=12453"
+    ]
   },
   {
     "code": "C205028",
@@ -21980,7 +21983,7 @@
         "code": "51"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -32404,7 +32407,7 @@
         "code": "30"
       }
     ],
-    "people": "45",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -32651,64 +32654,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5107007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316979&code=11165"
-    ]
-  },
-  {
-    "code": "5855004",
-    "description": {
-      "zh": "遊戲化是一種能有效提升產品服務體驗的設計手段。本課程首先介紹遊戲化和行為設計的理論基礎，並透過參與式設計工作坊，結合遊戲機制於產品系統創新的開發過程。",
-      "en": "Gamification is a technique that can stimulate users’ motivation and engagement in various non-game contexts such as education, business, health, workplace, and so on. This course is divided into two parts. The first part provides the theoretical background, consisting of the gamification definition/taxonomy, and behavioral design. In the second part of this course, students will organize a participatory design workshop to gain insights from the stakeholders to develop delightful products and services based on game mechanics."
-    },
-    "id": "316982",
-    "name": {
-      "zh": "遊戲化產品服務",
-      "en": "Gamification in User Experience"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2822",
-        "code": "2822"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "郭若妤",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12345",
-        "code": "12345"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "3",
-        "4"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計106",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=387",
-        "code": "387"
-      }
-    ],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "工設三四與日碩合開；上限 7 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5855004",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=316982&code=12345"
     ]
   },
   {
@@ -33288,7 +33233,7 @@
         "code": "489"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
