@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "胡念祖",
+    "email": "nthu@ntut.edu.tw",
+    "latestUpdate": "2023-02-06 22:14:45",
+    "objective": "本課程將會介紹「非限制最佳化問題、線性規劃、非線性限制最佳化問題」。這些問題將會由數學推導與 MATLAB 模擬得到解決。對於解決非限制最佳化問題，一維搜尋法、梯度法、牛頓共軛方向法、擬牛頓法會將在本課程介紹及使用；線性規劃問題會利用單形法來解決；拉格朗日及 KKT 乘數則用來解決非線性限制最佳化問題。\nCourse Description：In this course, unconstrained optimization problems, linear programming, and nonlinear constrained optimization problems are presented. Mathematical derivations and MATLAB simulations are used to analyze and obtain the solutions to these problems.  For unconstrained optimization problems, one-dimensional search, gradient, Newton's, conjugate direction, quasi-Newton methods are presented. For linear programming problems, simplex method is introduced. Last, Lagrange and Karush-Kuhn-Tucker multipliers are presented for solving nonlinear constrained optimization problems.",
+    "schedule": "1.\t02/22  Introduction\n2.\t03/01  MATHEMATICAL REVIEW\n3.\t03/08   UNCONSTRAINED OPTIMIZATION- Basics of Set-Constrained and Unconstrained Optimization\n4.\t03/15   UNCONSTRAINED OPTIMIZATION-One-Dimensional Search Methods\n5.\t03/22   UNCONSTRAINED OPTIMIZATION-One-Dimensional Search Methods\n6.\t03/29   UNCONSTRAINED OPTIMIZATION-One-Dimensional Search Methods\n7.\t04/05   Legal Holiday\n8.\t04/12   UNCONSTRAINED OPTIMIZATION-Gradient Methods\n9.\t04/19   Midterm Exam\n10.\t04/26   UNCONSTRAINED OPTIMIZATION-Gradient Methods\n11.\t05/03   UNCONSTRAINED OPTIMIZATION-Newton's Method\n12.\t05/10   UNCONSTRAINED OPTIMIZATION-Newton's Method\n13.\t05/17   UNCONSTRAINED OPTIMIZATION-Conjugate Direction Methods\n14.\t05/24   UNCONSTRAINED OPTIMIZATION-Conjugate Direction Methods\n15.\t05/31   LINEAR PROGRAMMING\n16.\t06/07   LINEAR PROGRAMMING\n17.\t06/14   NONLINEAR CONSTRAINED OPTIMIZATION\n18.\t06/21   Final Exam\n\nPS: The contents will be adjusted according to actual needs",
+    "scorePolicy": "-Class participation: 15%\n- Assignments: 30% (No assignment turned in late will be accepted)\n- Midterm exam: 30%\n- Final exam: 25%",
+    "materials": "1. An Introduction to Optimization, 4th Edition, Edwin K. P. Chong, Stanislaw H. Zak, WILEY, 2013.\n2. Optimization Concepts and Applications in Engineering (3rd ed.). Belegundu, A., & Chandrupatla, T., Cambridge: Cambridge University Press. 2019.",
+    "consultation": "TEL: (02)27712171 Ext. 4324Email: nthu@ntut.edu.twOffice Hours:Tuesday 09:00-17:00Integrate Technology Complex, Room 604-1",
+    "remarks": "Remote Learning will be performed via Microsoft Teams, if required (see https://news.ntut.edu.tw/p/422-1000-1085.php?Lang=zh-tw).",
+    "foreignLanguageTextbooks": true
+  }
+]
