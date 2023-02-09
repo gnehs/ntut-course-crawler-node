@@ -1652,9 +1652,9 @@
     ],
     "teacher": [
       {
-        "name": "黃乾怡",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11401",
-        "code": "11401"
+        "name": "蘇威豪",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12457",
+        "code": "12457"
       }
     ],
     "time": {
@@ -1682,9 +1682,7 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3723017",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=315180&code=11401"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3704031",
@@ -1708,7 +1706,13 @@
         "code": "2635"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蘇威豪",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12457",
+        "code": "12457"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -18787,9 +18791,9 @@
     },
     "classroom": [
       {
-        "name": "三教501",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=336",
-        "code": "336"
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=45",
+        "code": "45"
       }
     ],
     "people": "16",
@@ -18829,7 +18833,13 @@
         "code": "2509"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "嚴建隆",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12456",
+        "code": "12456"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -19952,7 +19962,13 @@
         "code": "2509"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "嚴建隆",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12456",
+        "code": "12456"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
