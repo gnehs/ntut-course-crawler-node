@@ -243,9 +243,9 @@
     ],
     "teacher": [
       {
-        "name": "陳子立",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12315",
-        "code": "12315"
+        "name": "郭錦華",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23724",
+        "code": "23724"
       }
     ],
     "time": {
@@ -274,9 +274,7 @@
     "language": "　",
     "notes": "工管四甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704055",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=315070&code=12315"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3705008",
@@ -300,7 +298,13 @@
         "code": "2514"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭錦華",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=23724",
+        "code": "23724"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -1538,13 +1542,7 @@
         "code": "2635"
       }
     ],
-    "teacher": [
-      {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=10632",
-        "code": "10632"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -1563,11 +1561,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "陳進忠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704011",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=315178&code=10632"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3704012",
@@ -3040,7 +3036,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=566",
+        "code": "566"
+      }
+    ],
     "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7528,65 +7530,6 @@
     ]
   },
   {
-    "code": "5225428",
-    "description": {
-      "zh": "資訊蒐集技術是研究生在從事研究工作與論文寫作時必須具備的工具。本課程主要目的在協助研究生在眾多的資訊來源中，如何搜尋正確及高品質的資訊。課程內容涵蓋資訊蒐集技術的原則及應用，並探討多種的實用工具及電子資訊來源，以滿足研究生在作研究及論文寫作上對資訊的需求。",
-      "en": "Information gathering skills are essential to the studying of graduate students and the development of their subject knowledge on dissertation/thesis writing. The course is designed to help graduate students to find the right kind and the right quality of information from the vast amount available.  The content of the course will deal with the broad principles and practices underlying information gathering techniques which explore the many practical tools and electronics sources of information that will help graduate students find the information they need when doing research or writing the dissertation/thesis."
-    },
-    "id": "315654",
-    "name": {
-      "zh": "資訊蒐集與論文寫作",
-      "en": "Information Gathering and Thesis Writing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職建都所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2857",
-        "code": "2857"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "宋立垚",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24410",
-        "code": "24410"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=49",
-        "code": "49"
-      }
-    ],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5225428",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=315654&code=24410"
-    ]
-  },
-  {
     "code": "5231413",
     "description": {
       "zh": "藉由本課程讓學生了解下列智慧建築之相關事項： 1、智慧建築之發展及構成。2、自動化科技對建築物之影響與效益。3、資訊通信系統與網路技術在建築及工程上之運用。4、台灣地區智慧建築在實施過程中所面臨之問題與應注意之事項。5、智慧建築之系統整合與綜合佈線。6、智慧型建築之設施管理。 7、智慧建築標章之評估指標。8、智慧建築之規劃設計與案例說明。",
@@ -8986,7 +8929,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 311, 限本系生修，上限 15 人",
+    "notes": "限本系生修，上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315952&code=11393"
@@ -9055,7 +8998,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 411, 限本系生修，上限 15 人",
+    "notes": "限本系生修，上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315953&code=12304",
@@ -9116,7 +9059,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "請排四教 102, 限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
+    "notes": "限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05207",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315954&code=11969"
@@ -9175,7 +9118,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 402, 限 20 人，需自備筆電 & 耳機，日職合開",
+    "notes": "限 20 人，需自備筆電 & 耳機，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05234",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315957&code=11533"
@@ -9234,7 +9177,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 506, 限 30 人，日職合開",
+    "notes": "限 30 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05314",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315962&code=11334"
@@ -9293,7 +9236,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排二教 103, 限 30 人，日 / 職碩二 / 資工系合開",
+    "notes": "日碩 / 職碩二 / 資工系合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05317",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315965&code=11494"
@@ -9352,7 +9295,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排進修部教室，限 30 人，學生自備筆電",
+    "notes": "限 30 人，學生自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05320",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315968&code=12453"
@@ -9500,7 +9443,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "(群組 1) 經營與策略管理",
+    "notes": "(群組 1) 經營與策略管理，莊淳淩 (0.5 )",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316000&code=10821",
@@ -10401,7 +10344,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10474,7 +10423,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10549,7 +10504,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10619,7 +10580,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13309,7 +13276,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "111-2 新聘專案教師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB01024",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316164&code=24339"
@@ -17084,7 +17051,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "光華 409, 預選限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
+    "notes": "預選限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英), 光華 409",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316789&code=11633"
@@ -17143,7 +17110,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 307, 限本系生，上限 15 人，日職合開",
+    "notes": "限本系生 15 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06302",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316790&code=12304"
@@ -17502,7 +17469,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17836,7 +17809,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21498,8 +21477,8 @@
     "teacher": [
       {
         "name": "張文華",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=10418",
-        "code": "10418"
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24499",
+        "code": "24499"
       }
     ],
     "time": {
@@ -21529,7 +21508,7 @@
     "notes": "工管二甲、丙合開，計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3722009",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=317654&code=10418"
+      "ShowSyllabus.jsp?snum=317654&code=24499"
     ]
   },
   {
@@ -21642,6 +21621,124 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403014",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317776&code=12451"
+    ]
+  },
+  {
+    "code": "4402064",
+    "description": {
+      "zh": "電池分類，電池化學，電池功能及表現，電池之製造，電池使用注意事項，電池檢驗及測試，電池選擇及安裝，燃料電池，電動車使用之電池未來高級電池之介紹。",
+      "en": "Battery Classification，Battery Chemistry，Battery Function and Performance，Battery Manufacturing，Battery service Precautions，Battery Inspection and Testing，Battery Selection and Installation，Fuel Battery， Battery for the Electric Vehicle，Introduction to the Advanced Future Battery."
+    },
+    "id": "317777",
+    "name": {
+      "zh": "電池技術",
+      "en": "Battery Technology"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四車四",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2516",
+        "code": "2516"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李泳霆",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12451",
+        "code": "12451"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教402",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=52",
+        "code": "52"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "李泳霆老師",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4402064",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317777&code=12451"
+    ]
+  },
+  {
+    "code": "4403071",
+    "description": {
+      "zh": "字彙，文法，閱讀，解讀。",
+      "en": "Vocabulary, grammar, reading, decipherment."
+    },
+    "id": "317778",
+    "name": {
+      "zh": "工業日文",
+      "en": "Industrial Japanese"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四車一",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2879",
+        "code": "2879"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李泳霆",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12451",
+        "code": "12451"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "6",
+        "7",
+        "8"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教505",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=62",
+        "code": "62"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "李泳霆老師",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4403071",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317778&code=12451"
     ]
   }
 ]

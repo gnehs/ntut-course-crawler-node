@@ -10,5 +10,17 @@
     "consultation": "將開設本課程 FB 交流群組以進行線上課程諮詢交流。",
     "remarks": "本學期預設實體上課，若發生疫情需改為遠距教學因應措施如下：1. 本課程若因疫情改採遠距教學，將使用 Teams 進行遠距教學 2. 將開設本課程 FB 交流群組以進行線上課程諮詢交流。",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "黃志勝",
+    "email": "chih.sheng.huang821@gmail.com",
+    "latestUpdate": "2023-02-10 08:59:58",
+    "objective": "本課程在介紹如何在數位世界進行進行相關的數據分析，包含基礎理論、機器學習的簡易介紹與應用，並且搭配實機操作與作業等讓學生在課程中可以從做中學，學中做達到實質上的學習效果。\nThe goal of this course is to introduce the basic concepts of machine learning and its applications. The machine learning example will be implemented in the course, and students can practice ML algorithms with the homework.",
+    "schedule": "第 01 週\t課程大綱及 AI 技術簡介\n第 02 週\t機器與深度學習常用的數學，相關機率論與統計學\n第 03 週\t最佳化方法簡介\n第 04 週\tGradient descent, 導傳遞 Weight Initialization\n第 06 週\t\t迴歸分析、分類\t\n第 08 週\t\t統計降維法\n第 09 週\t\t期中考周\n第 10 週\t類神經網路",
+    "scorePolicy": "業師佔總成績 50%，其中作業、考試和出席比例如下: \n作業: 40%\n期中考: 40%\n出席: 20%",
+    "materials": "機器學習的統計基礎：深度學習背後的核心技術，作者：黃志勝博士著，施威銘研究室 監修，旗標出版。\n課程進度與教材: https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_111-2_MTA",
+    "consultation": "聯繫助教或是聯繫業師 email:chih.sheng.huang821@gmail.com",
+    "remarks": "進度依照每周單元主題進行，且採用 Teams 遠端授課方式進行。",
+    "foreignLanguageTextbooks": false
   }
 ]

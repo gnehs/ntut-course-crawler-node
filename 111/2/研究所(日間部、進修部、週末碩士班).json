@@ -1932,65 +1932,6 @@
     ]
   },
   {
-    "code": "3735013",
-    "description": {
-      "zh": "本課程的主要目的在學習隨機最佳化方法在生產與服務系統的理論與應用，以解決不確定環境下的實務問題。課程內容包括：(1) 隨機最佳化基本概念與應用、(2) 二階段隨機規劃模型、(3) 多階段隨機規劃模型、(4) 隨機規劃演算法、(5) 穩健最佳化模型、(6) 模擬最佳化演算法、(7) 強化學習演算法、(8) 隨機最佳化應用論文導讀。",
-      "en": "This course will introduce the stochastic optimization theory and learn its application on production and service systems under uncertainties. The topics addressed in this course include: (1) Basic concept and application of stochastic optimization, (2) Two-stage stochastic programming model, (3) Multi-stage stochastic model, (4) Stochastic programming algorithms, (5) Robust optimization model, (6) Simulation optimization algorithms, (7) Reinforcement learning algorithms, (8) Paper readings on stochastic optimization."
-    },
-    "id": "313655",
-    "name": {
-      "zh": "隨機最佳化",
-      "en": "Stochastic Optimization"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2811",
-        "code": "2811"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳子立",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12315",
-        "code": "12315"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓823",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
-        "code": "489"
-      }
-    ],
-    "people": "25",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "停開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3735013",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=313655&code=12315"
-    ]
-  },
-  {
     "code": "3735014",
     "description": {
       "zh": "這是一門研究所課程，內容包括多元數據分析和高等回歸應用。本課程的目標是確保工業工程與管理領域的研究生能夠解釋、實現和操作幾種不同類型的基本回歸分析。本課程主要致力於高等回歸分析。重點是發展一個嚴格的微積分計算及矩陣代數為基礎的最小平方法 (OLS)、違反回歸假設、假說檢定及一般線性模型。此外，本課程的重點是協助學生理解分析技術這部分的領域知識，如：統計的基本概念 (描述和推理統計，概率分佈)，簡單線性回歸、多元線性回歸、邏輯回歸及對數線性模型之應用。",
@@ -2579,7 +2520,7 @@
         "code": "264"
       }
     ],
-    "people": "79",
+    "people": "80",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -5130,7 +5071,7 @@
         "code": "383"
       }
     ],
-    "people": "12",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6426,7 +6367,7 @@
         "code": "343"
       }
     ],
-    "people": "70",
+    "people": "71",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -12574,7 +12515,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排一般教室，限本系生，修課上限 24 人",
+    "notes": "限本系生，修課上限 24 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314710&code=11393"
@@ -12643,7 +12584,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排四教 103, 限本系生，修課上限 24 人",
+    "notes": "限本系生，修課上限 24 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314711&code=11494",
@@ -12709,7 +12650,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排二教 103, 限 30 人，日 / 職碩二 / 資工系合開",
+    "notes": "限 30 人，日 / 職碩二 / 資工系合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05221",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314718&code=11494"
@@ -12764,11 +12705,11 @@
         "code": "52"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 402, 限 20 人，學生自備筆電 / 耳機，日職合開",
+    "notes": "限 20 人，學生自備筆電 / 耳機，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05234",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314727&code=11533"
@@ -12891,7 +12832,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 506, 限 30 人，日職合開",
+    "notes": "限 30 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06201",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314730&code=11334"
@@ -13089,7 +13030,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "限本班生修 12 人，外碩與技職所合開",
+    "notes": "限 12 人修，外碩與技職所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06201",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314755&code=11196"
@@ -13385,7 +13326,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16821,65 +16762,6 @@
     ]
   },
   {
-    "code": "5225428",
-    "description": {
-      "zh": "資訊蒐集技術是研究生在從事研究工作與論文寫作時必須具備的工具。本課程主要目的在協助研究生在眾多的資訊來源中，如何搜尋正確及高品質的資訊。課程內容涵蓋資訊蒐集技術的原則及應用，並探討多種的實用工具及電子資訊來源，以滿足研究生在作研究及論文寫作上對資訊的需求。",
-      "en": "Information gathering skills are essential to the studying of graduate students and the development of their subject knowledge on dissertation/thesis writing. The course is designed to help graduate students to find the right kind and the right quality of information from the vast amount available.  The content of the course will deal with the broad principles and practices underlying information gathering techniques which explore the many practical tools and electronics sources of information that will help graduate students find the information they need when doing research or writing the dissertation/thesis."
-    },
-    "id": "315654",
-    "name": {
-      "zh": "資訊蒐集與論文寫作",
-      "en": "Information Gathering and Thesis Writing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職建都所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2857",
-        "code": "2857"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "宋立垚",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24410",
-        "code": "24410"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=49",
-        "code": "49"
-      }
-    ],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5225428",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=315654&code=24410"
-    ]
-  },
-  {
     "code": "5231413",
     "description": {
       "zh": "藉由本課程讓學生了解下列智慧建築之相關事項： 1、智慧建築之發展及構成。2、自動化科技對建築物之影響與效益。3、資訊通信系統與網路技術在建築及工程上之運用。4、台灣地區智慧建築在實施過程中所面臨之問題與應注意之事項。5、智慧建築之系統整合與綜合佈線。6、智慧型建築之設施管理。 7、智慧建築標章之評估指標。8、智慧建築之規劃設計與案例說明。",
@@ -18279,7 +18161,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 311, 限本系生修，上限 15 人",
+    "notes": "限本系生修，上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315952&code=11393"
@@ -18348,7 +18230,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 411, 限本系生修，上限 15 人",
+    "notes": "限本系生修，上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315953&code=12304",
@@ -18409,7 +18291,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "請排四教 102, 限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
+    "notes": "限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05207",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315954&code=11969"
@@ -18468,7 +18350,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 402, 限 20 人，需自備筆電 & 耳機，日職合開",
+    "notes": "限 20 人，需自備筆電 & 耳機，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05234",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315957&code=11533"
@@ -18527,7 +18409,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 506, 限 30 人，日職合開",
+    "notes": "限 30 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05314",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315962&code=11334"
@@ -18586,7 +18468,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排二教 103, 限 30 人，日 / 職碩二 / 資工系合開",
+    "notes": "日碩 / 職碩二 / 資工系合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05317",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315965&code=11494"
@@ -18645,7 +18527,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排進修部教室，限 30 人，學生自備筆電",
+    "notes": "限 30 人，學生自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05320",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315968&code=12453"
@@ -18793,7 +18675,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "(群組 1) 經營與策略管理",
+    "notes": "(群組 1) 經營與策略管理，莊淳淩 (0.5 )",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316000&code=10821",
@@ -19694,7 +19576,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19767,7 +19655,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19842,7 +19736,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19912,7 +19812,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23177,7 +23083,7 @@
         "code": "117"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23548,7 +23454,7 @@
         "code": "411"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23918,9 +23824,9 @@
     },
     "classroom": [
       {
-        "name": "綜科114",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=171",
-        "code": "171"
+        "name": "綜科110_2",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=411",
+        "code": "411"
       }
     ],
     "people": "24",
@@ -24046,7 +23952,7 @@
         "code": "94"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27456,7 +27362,7 @@
         "code": "383"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -28298,7 +28204,7 @@
         "code": "353"
       }
     ],
-    "people": "14",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28799,7 +28705,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 307, 限本系生修，限 15 人，日職合開",
+    "notes": "限本系生 15 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05206",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316768&code=12304"
@@ -28908,7 +28814,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "光華 409, 預選限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英)",
+    "notes": "預選限 12 人，日 / 職碩 / 外碩 / 設計博合開 (英), 光華 409",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316789&code=11633"
@@ -28967,7 +28873,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "請排三教 307, 限本系生，上限 15 人，日職合開",
+    "notes": "限本系生 15 人，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06302",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316790&code=12304"
@@ -29871,7 +29777,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=490",
+        "code": "490"
+      }
+    ],
     "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30077,7 +29989,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30797,7 +30715,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "請排四教 102, 限 12 人，日 / 職碩 / 外碩 / 設計博合開",
+    "notes": "限 15 人，日 / 職碩 / 外碩 / 設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05207",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316879&code=11969"
@@ -30866,7 +30784,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "預選限 12 人，互動日 / 職碩 / 外碩與設計博合開",
+    "notes": "限 12 人，日 / 職碩 / 外碩與設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316880&code=11633"
@@ -30998,28 +30916,22 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
+      "tue": [],
+      "wed": [
         "5",
         "6",
         "7"
       ],
-      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓823",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
-        "code": "489"
-      }
-    ],
+    "classroom": [],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "工管所、管理博和 IMBA、IMFI 合開，時間改三 567",
+    "notes": "工管所、管理博和 IMBA、IMFI 合開，時間調整 2/8 公告",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3715003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316890&code=11401"
@@ -31488,7 +31400,7 @@
         "code": "480"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -32449,7 +32361,7 @@
         "code": "489"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -33517,7 +33429,9 @@
     "language": "　",
     "notes": "專案",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105200",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317037&code=12461"
+    ]
   },
   {
     "code": "6105068",
@@ -34116,7 +34030,7 @@
         "code": "543"
       }
     ],
-    "people": "4",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -35949,9 +35863,9 @@
     },
     "classroom": [
       {
-        "name": "六教426",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=433",
-        "code": "433"
+        "name": "科研大樓735",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=488",
+        "code": "488"
       }
     ],
     "people": "14",
@@ -36830,5 +36744,1244 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317801&code=10823"
     ]
+  },
+  {
+    "code": "A405145",
+    "description": {
+      "zh": "本課程呼應技職再造的創新創業趨勢，以具體個案討論為中心，讓同學有機會運用所學、解決實際的法律問題。適合對如何透過智財法律推動知識經濟、創新創業有興趣的同學。同學可以透過本課程，進一步了解創新創業現實中可能面臨的問題、並練習提供解決策略。",
+      "en": "This course will focus on the intellectual property legal issues regarding innovation and entrepreneurship by drawing real cases for analysis and discussion. Students will have opportunities to further understand the legal practice in IP area by taking part in solving real cases with the help of the course tutor. It is recommended for those who are equipped with a general understanding of IP laws or are strongly interested in this subject."
+    },
+    "id": "317808",
+    "name": {
+      "zh": "創新創業智財法律專題研究",
+      "en": "Innovation, Entrepreneurship and Intellectual Property Law"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2833",
+        "code": "2833"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蘇倚德",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12438",
+        "code": "12438"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405145",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317808&code=12438"
+    ]
+  },
+  {
+    "code": "A405146",
+    "description": {
+      "zh": "本課程所定義的文化產業包括音樂產業、電視產業、電影產業、劇場產業和其他表演藝術有關的產業。這些產業區塊都存在相關的智慧財產權議題，例如所有權、權利轉讓、合理使用、侵權行為、契約爭議等等。本課程將透過法院判決的選讀與產業案例研究來讓學生認識文化產業的智慧財產權議題。學生將被要求參與討論。評分方式包括課堂參與和報告。",
+      "en": "The scope of the cultural industry covered by this course includes the music industry, film industry, television industry, theatre industry, and other industries related to performing arts. Intellectual property issues do exist in these industrial sectors. The issues include ownership, title transfer, fair use, infringement, contract dispute, and so on. This course is intended to expose students to various IP issues in the cultural industry through studying court decisions and discussing industrial case studies. Students are required to participate in discussion. The grading policy is based on class participation and essay paper."
+    },
+    "id": "317809",
+    "name": {
+      "zh": "文化產業與智慧財產權",
+      "en": "Cultural Industry and Intellectual Property Rights"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2833",
+        "code": "2833"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蘇倚德",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12438",
+        "code": "12438"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "8",
+        "9"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405146",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317809&code=12438"
+    ]
+  },
+  {
+    "code": "A405210",
+    "description": {
+      "zh": "「原住民族傳統智慧創作保護專題研究」將協助學生理解原住民族的文化自治理論下、原住民族傳統智慧創作保護的法規架構；並由原住民族傳統智慧保護的案例出發，透過個案引導學生了解原住民族傳統智慧保護的理論與實務。最後安排可供具體探討與模擬練習的原住民族傳統智慧保護標的，幫助修課學生從歷史與文化自治的座標出發，建立原住民族傳統智慧保護的法律概念與實務基礎，增加智財法律訓練的文化視野。",
+      "en": "This course will equip students with both theoretical and practice knowledge about the Indigenous People Traditional Intellectual Creation Protection Act. The Act is anchored in the autonomy theory in the cultural context but share many characteristics with other IP laws. By learning this Act, it opens the gate for students to explore the history and culture developments of indigenous people, also help students explore more cultural aspect of intellectual property laws."
+    },
+    "id": "317810",
+    "name": {
+      "zh": "原民傳智創作保護專題研究",
+      "en": "Protection of Indigenous People Traditional Intellectual Creation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2833",
+        "code": "2833"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蘇倚德",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12438",
+        "code": "12438"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405210",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317810&code=12438"
+    ]
+  },
+  {
+    "code": "A405210",
+    "description": {
+      "zh": "「原住民族傳統智慧創作保護專題研究」將協助學生理解原住民族的文化自治理論下、原住民族傳統智慧創作保護的法規架構；並由原住民族傳統智慧保護的案例出發，透過個案引導學生了解原住民族傳統智慧保護的理論與實務。最後安排可供具體探討與模擬練習的原住民族傳統智慧保護標的，幫助修課學生從歷史與文化自治的座標出發，建立原住民族傳統智慧保護的法律概念與實務基礎，增加智財法律訓練的文化視野。",
+      "en": "This course will equip students with both theoretical and practice knowledge about the Indigenous People Traditional Intellectual Creation Protection Act. The Act is anchored in the autonomy theory in the cultural context but share many characteristics with other IP laws. By learning this Act, it opens the gate for students to explore the history and culture developments of indigenous people, also help students explore more cultural aspect of intellectual property laws."
+    },
+    "id": "317821",
+    "name": {
+      "zh": "原民傳智創作保護專題研究",
+      "en": "Protection of Indigenous People Traditional Intellectual Creation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2865",
+        "code": "2865"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蘇倚德",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12438",
+        "code": "12438"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "日職合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405210",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317821&code=12438"
+    ]
+  },
+  {
+    "code": "A405145",
+    "description": {
+      "zh": "本課程呼應技職再造的創新創業趨勢，以具體個案討論為中心，讓同學有機會運用所學、解決實際的法律問題。適合對如何透過智財法律推動知識經濟、創新創業有興趣的同學。同學可以透過本課程，進一步了解創新創業現實中可能面臨的問題、並練習提供解決策略。",
+      "en": "This course will focus on the intellectual property legal issues regarding innovation and entrepreneurship by drawing real cases for analysis and discussion. Students will have opportunities to further understand the legal practice in IP area by taking part in solving real cases with the help of the course tutor. It is recommended for those who are equipped with a general understanding of IP laws or are strongly interested in this subject."
+    },
+    "id": "317822",
+    "name": {
+      "zh": "創新創業智財法律專題研究",
+      "en": "Innovation, Entrepreneurship and Intellectual Property Law"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2865",
+        "code": "2865"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蘇倚德",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12438",
+        "code": "12438"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "日職合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405145",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317822&code=12438"
+    ]
+  },
+  {
+    "code": "7407021",
+    "description": {
+      "zh": "本課程介紹人工智慧的基本概念與發展，並激發學生在人工智慧領域的創新應用。課程內容包括：人工智慧基礎、機器學習、大數據技術、深度學習、生成對抗網路、創業家思維、設計思考、商業模式、人工智慧與現代科技、人工智慧的製造業應用、人工智慧的服務業應用。",
+      "en": "This course is to teach students the basic concepts and applications of artificial intelligence and to inspire students for innovative artificial intelligence applications. The course includes: artificial intelligence basics, machine learning, big data, deep learning, generative adversarial network, entrepreneurial thoughts, design thinking, business models, artificial intelligence and modern technologies, industrial applications of artificial intelligence, and services applications of artificial intelligence."
+    },
+    "id": "317861",
+    "name": {
+      "zh": "人工智慧應用",
+      "en": "Artificial Intelligence Applications"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2811",
+        "code": "2811"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2844",
+        "code": "2844"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "邱垂昱",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=10632",
+        "code": "10632"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "管理博班和工管所合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=7407021",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4406151",
+    "description": {
+      "zh": "本課程教授系統分析之模擬方法應用於能源動力系統之穩態與動態分析 (malab)。內容包括能源系統個元件之特性分析與數學模型介紹，系統元件包括；壓縮機、渦輪機、熱交換器、與質子交換膜燃料電池系統。授課單元如下；1. 數值方法介紹 2. 能源系統元件數學模型與程式撰寫壓縮機   渦輪機   熱交換器 3. 能源系統分析範例；燃料電池系統分析流道 model、氣體擴散層 model、燃料電池質傳與電化學傳輸與程式範例",
+      "en": "The course is a system analysis method for performing steady-state and dynamic system simulations of lumped component system (matlab). These methods are essentially a numerical analysis; the course teach student to set up various system composed of; compressor, turbine, heat exchanger, reformer and fuel cell system. Course lectures are listed as:1.Numerical method 2.System components modeling Compressor   Turbine   Heat exchanger3.Case study of energy system; fuel cell system analysisFlow modeling, GDL model, mass & charge transport and programing"
+    },
+    "id": "317862",
+    "name": {
+      "zh": "能源系統分析",
+      "en": "Power system Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "車輛所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2814",
+        "code": "2814"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳斌豪",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12143",
+        "code": "12143"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6",
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406151",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317862&code=12143"
+    ]
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317875",
+    "name": {
+      "zh": "衛生安全田野研究",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "7",
+        "8"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師高志文，教室請洽學系辦公室，限 2 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317876",
+    "name": {
+      "zh": "生技醫療產業策略與決策分析",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師徐之昇，教室請洽學系辦公室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317877",
+    "name": {
+      "zh": "生技產業經營模式",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "4",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師許怡欣，教室請洽學系辦公室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317878",
+    "name": {
+      "zh": "醫藥產業與疫病管制",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "5",
+        "6"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師蔡奉真，教室請洽學系辦公室，限 10 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317879",
+    "name": {
+      "zh": "暴力傷害與大腦損傷特論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師陳澂毅，教研 4F 院會議室，限 2 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317880",
+    "name": {
+      "zh": "肇事分析與傷害防治",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "1",
+        "2"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師白志偉，教研 4F 傷防所會議室，限 2 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317881",
+    "name": {
+      "zh": "醫學人文專題討論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "5"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師高美英，人社院 101 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317883",
+    "name": {
+      "zh": "醫學人文專題討論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "6"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師 SHAW MALISSA KAY, 人社院 101 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317885",
+    "name": {
+      "zh": "藥事法律",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師何建志，人社院 101 會議室，限 2 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317886",
+    "name": {
+      "zh": "深度學習和資料科學應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師張詠淳，杏春樓電腦教室 A, 限 2 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317887",
+    "name": {
+      "zh": "神經疾病傷害防治專論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師林硯農，教研 4F 傷防所會議室，限 3 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317888",
+    "name": {
+      "zh": "醫療社會學專論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師高美英，人社院 101 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317889",
+    "name": {
+      "zh": "性 / 別與身體",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師施麗雯，人社院 101 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317890",
+    "name": {
+      "zh": "醫病關係與照顧倫理",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師林益仁，人社院 101 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317891",
+    "name": {
+      "zh": "醫學人文閱讀與評論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師蔡博方，人社院 102 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317892",
+    "name": {
+      "zh": "緊急醫療救護與實務",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師馬漢平，教研 4F 院會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317893",
+    "name": {
+      "zh": "應用計量經濟學與資料分析",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師許玫玲，教室請洽學系辦公室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317894",
+    "name": {
+      "zh": "醫療服務研究法",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6",
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "教師黃國哲，溫信財，教室請洽學系辦公室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "317895",
+    "name": {
+      "zh": "人文、社會與醫學教育",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－臺北醫學大學",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2523",
+        "code": "2523"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "教師蔡博方，人社院 102 會議室，限 5 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
   }
 ]
