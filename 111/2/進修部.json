@@ -4316,7 +4316,9 @@
     "language": "　",
     "notes": "六教 627/111-2 新聘專案教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315297&code=12342"
+    ]
   },
   {
     "code": "AB02017",
@@ -4764,9 +4766,9 @@
     },
     "classroom": [
       {
-        "name": "二教303",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=28",
-        "code": "28"
+        "name": "三教401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=335",
+        "code": "335"
       }
     ],
     "people": "2",
@@ -5592,9 +5594,9 @@
     },
     "classroom": [
       {
-        "name": "三教401",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=335",
-        "code": "335"
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=334",
+        "code": "334"
       }
     ],
     "people": "10",
