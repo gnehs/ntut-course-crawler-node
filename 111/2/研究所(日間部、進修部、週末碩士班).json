@@ -2109,65 +2109,6 @@
     ]
   },
   {
-    "code": "3736038",
-    "description": {
-      "zh": "本課程介紹網路模式的分析與整數規劃問題相關的數學模式、演算法及相關應用，包含相關模式的觀念、方法、數理基礎與分析。網路模式部分包括基本圖學與網路流量最佳化相關的演算法；整數規劃部分包含旅行者問題、有效不等式、與分支定界演算法。",
-      "en": "This course introduces the theory and characteristics of network and integer programming problems. In network models, basic graph theory along with network optimization algorithms is included to have a comprehensive understanding. Introduction to integer programming problems such as traveling salesman problems as well as detail study of valid inequalities and branch-and-bound method, including the concepts, techniques, mathematical analysis and justification. Emphasis is placed on the rigorous theoretical foundations that give rise to solution algorithms."
-    },
-    "id": "313659",
-    "name": {
-      "zh": "網路模式與整數規劃",
-      "en": "Network Models and Integer Programming"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管所",
-        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2811",
-        "code": "2811"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蔡佩芳",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11435",
-        "code": "11435"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "2",
-        "3",
-        "4"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓825",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=490",
-        "code": "490"
-      }
-    ],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3736038",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=313659&code=11435"
-    ]
-  },
-  {
     "code": "3737003",
     "description": {
       "zh": "使學生瞭解品質管理的觀念、原理、領域。品管部門的組織、功能，如何管理產品或服務的品質，品管的工具、方法，如何持續改善品質的方法，品質表示法，如何評估品質管理成效，相關法令，品質管理未來趨勢。",
@@ -3973,7 +3914,7 @@
         "code": "44"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -4142,7 +4083,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同313",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=155",
+        "code": "155"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5075,7 +5022,7 @@
         "code": "383"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -6794,7 +6741,7 @@
         "code": "487"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8416,7 +8363,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=156",
+        "code": "156"
+      }
+    ],
     "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9082,7 +9035,7 @@
         "code": "562"
       }
     ],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -11672,11 +11625,6 @@
     },
     "classroom": [
       {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=570",
-        "code": "570"
-      },
-      {
         "name": "先鋒1401",
         "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
         "code": "569"
@@ -14016,7 +13964,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "日職合開，二教 103, 英文授課",
+    "notes": "日職合開，英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105187",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=315342&code=23883"
@@ -17118,7 +17066,9 @@
     "language": "　",
     "notes": "科研 732 / 林忠億",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315721&code=24497"
+    ]
   },
   {
     "code": "5705466",
@@ -19335,11 +19285,6 @@
         "code": "12391"
       },
       {
-        "name": "鄭辰仰",
-        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11764",
-        "code": "11764"
-      },
-      {
         "name": "魏銪志",
         "link": "Teach.jsp?format=-3&year=111&sem=2&code=12148",
         "code": "12148"
@@ -19374,7 +19319,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316088&code=11985",
       "ShowSyllabus.jsp?snum=316088&code=12391",
-      "ShowSyllabus.jsp?snum=316088&code=11764",
       "ShowSyllabus.jsp?snum=316088&code=12148"
     ]
   },
@@ -21229,7 +21173,7 @@
         "code": "22"
       }
     ],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22924,7 +22868,7 @@
         "code": "117"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23413,7 +23357,7 @@
         "code": "24"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -23590,7 +23534,7 @@
         "code": "64"
       }
     ],
-    "people": "45",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -25756,7 +25700,7 @@
         "code": "473"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -25889,7 +25833,7 @@
         "code": "473"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -26991,7 +26935,7 @@
         "code": "46"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -27311,7 +27255,7 @@
         "code": "22"
       }
     ],
-    "people": "3",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -28088,7 +28032,7 @@
         "code": "75"
       }
     ],
-    "people": "50",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -31424,11 +31368,11 @@
         "code": "480"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI & 工管所 & 管理博合開，計中電腦教室",
+    "notes": "IMBA&IMFI & 工管所 & 管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3736041",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316901&code=11537"
@@ -33934,7 +33878,7 @@
         "code": "460"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -34234,7 +34178,13 @@
         "code": "2838"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳詩雯",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12394",
+        "code": "12394"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -34285,7 +34235,13 @@
         "code": "2825"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳詩雯",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12394",
+        "code": "12394"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -34310,7 +34266,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "新進教師 (江)",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005131",
     "syllabusLinks": []
   },
@@ -34554,7 +34510,7 @@
         "code": "118"
       }
     ],
-    "people": "4",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -34922,6 +34878,64 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05111",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=317315&code=12439"
+    ]
+  },
+  {
+    "code": "AB06050",
+    "description": {
+      "zh": "本課程欲利用人工智慧技術實作量化交易系統。於課程中會參考研讀多篇國外相關文獻，討論後將其實作，並於期末結合技術報告作為成果發表。本課程建議先行修過演算法交易、資金管理、以及人工智慧或機器學習相關課程，並有基本程式語言能力。",
+      "en": "This course intends to use artificial intelligence technology to implement a quantitative trading system. During the course, many relevant academic paper will be studied and discussed, and implemented after discussion. Finally, the technical report will be published as the result at the end of the semester. This course is recommended to take pre-courses in algorithmic trading, money management, and artificial intelligence or machine learning, and have basic programming language skills."
+    },
+    "id": "317316",
+    "name": {
+      "zh": "智能交易專題實作",
+      "en": "Implemental Topic of AI Trading"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2836",
+        "code": "2836"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳牧恩",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11985",
+        "code": "11985"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=489",
+        "code": "489"
+      }
+    ],
+    "people": "11",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB06050",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317316&code=11985"
     ]
   },
   {
@@ -35564,7 +35578,7 @@
         "code": "490"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -35734,7 +35748,7 @@
         "code": "155"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -36635,7 +36649,13 @@
         "code": "2863"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳詩雯",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12394",
+        "code": "12394"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37131,7 +37151,7 @@
         "code": "438"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -37173,15 +37193,22 @@
       "mon": [],
       "tue": [],
       "wed": [
-        "5",
-        "6",
-        "7"
+        "5"
       ],
-      "thu": [],
+      "thu": [
+        "1",
+        "2"
+      ],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教211",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=44",
+        "code": "44"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
