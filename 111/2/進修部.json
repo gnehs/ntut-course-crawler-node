@@ -1763,7 +1763,9 @@
     "language": "　",
     "notes": "專案教師 / 甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704031",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315183&code=12457"
+    ]
   },
   {
     "code": "3704043",
@@ -7862,7 +7864,9 @@
     "language": "　",
     "notes": "科研 732",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315720&code=24258"
+    ]
   },
   {
     "code": "5705102",
@@ -18579,7 +18583,13 @@
         "code": "2513"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12245",
+        "code": "12245"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -18606,7 +18616,9 @@
     "language": "　",
     "notes": "新聘教師賴建宏，綜科 104",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602051",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317015&code=12245"
+    ]
   },
   {
     "code": "5807073",
@@ -20145,7 +20157,13 @@
         "code": "2633"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12245",
+        "code": "12245"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -20172,7 +20190,9 @@
     "language": "　",
     "notes": "電子三四甲乙丙合開，新聘教師賴建宏，綜科 502",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317353&code=12245"
+    ]
   },
   {
     "code": "1410085",
@@ -20666,7 +20686,13 @@
         "code": "2512"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12245",
+        "code": "12245"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -20693,7 +20719,9 @@
     "language": "　",
     "notes": "電子四甲乙丙合開，新聘教師賴建宏",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604169",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317379&code=12245"
+    ]
   },
   {
     "code": "1410082",
@@ -21848,6 +21876,66 @@
     "language": "　",
     "notes": "新進教師 (陳)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105049",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317793&code=12394"
+    ]
+  },
+  {
+    "code": "A405210",
+    "description": {
+      "zh": "「原住民族傳統智慧創作保護專題研究」將協助學生理解原住民族的文化自治理論下、原住民族傳統智慧創作保護的法規架構；並由原住民族傳統智慧保護的案例出發，透過個案引導學生了解原住民族傳統智慧保護的理論與實務。最後安排可供具體探討與模擬練習的原住民族傳統智慧保護標的，幫助修課學生從歷史與文化自治的座標出發，建立原住民族傳統智慧保護的法律概念與實務基礎，增加智財法律訓練的文化視野。",
+      "en": "This course will equip students with both theoretical and practice knowledge about the Indigenous People Traditional Intellectual Creation Protection Act. The Act is anchored in the autonomy theory in the cultural context but share many characteristics with other IP laws. By learning this Act, it opens the gate for students to explore the history and culture developments of indigenous people, also help students explore more cultural aspect of intellectual property laws."
+    },
+    "id": "317821",
+    "name": {
+      "zh": "原民傳智創作保護專題研究",
+      "en": "Protection of Indigenous People Traditional Intellectual Creation"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2865",
+        "code": "2865"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蘇倚德",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=12438",
+        "code": "12438"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=569",
+        "code": "569"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "日職合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405210",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317821&code=12438"
+    ]
   }
 ]

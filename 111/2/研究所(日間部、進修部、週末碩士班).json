@@ -17009,7 +17009,9 @@
     "language": "　",
     "notes": "科研 732",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=315720&code=24258"
+    ]
   },
   {
     "code": "5705102",
@@ -34211,7 +34213,9 @@
     "language": "英語",
     "notes": "自動化所、機電所和機械外生班合開，新進教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005030",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317152&code=12394"
+    ]
   },
   {
     "code": "4005131",
@@ -34268,7 +34272,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005131",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317161&code=12394"
+    ]
   },
   {
     "code": "5705051",
@@ -36682,7 +36688,9 @@
     "language": "　",
     "notes": "新進教師 (陳)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105049",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317793&code=12394"
+    ]
   },
   {
     "code": "AC05215",
@@ -38191,5 +38199,64 @@
     "notes": "教師高美英，人社院 101 會議室，限 5 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
+  },
+  {
+    "code": "3715008",
+    "description": {
+      "zh": "半導體廠營運管理及先進製造技術這門課分為兩個部分；營運管理部分的課程內容主要是以 IE 的角度，探討 IE 在半導體廠中可以參與什麼樣的營運活動，其內容包含的課題如供應鏈管理、產能規劃、成本分析、預算管理、建廠及設施規劃、專案管理、策略規劃、技術移轉及開發管理以及合約及商業談判等。講師以其自身的經歷，提供給同學不同於教科書上的實務經驗。第二部分將以先進製造技術專題的方式講授，包含批次控制、虛擬量測、錯誤偵測、高混線生產等議題。",
+      "en": "This lecture includes two segments. For “Operation Management”, a few popular topics will be addressed from I.E. point of view in a semiconductor company such as “Supply Chain Management”, “Capacity Planning”, “Cost Analysis”, “Budget Management”, “Construction and Facility Planning”, “Strategic Planning”, “Management in Technology Transfer and Development” and “Agreement and Business Negotiation”, etc. Instructor will share his personal experiences in practice which are quite different from the textbooks. For “Advanced Manufacturing Technology”, some state-of-the-art APC topics will be addressed. Included are “R2R Control”, “Virtual Metrology”, “Fault Detection”, “High-Mix Product Control”, among others."
+    },
+    "id": "317899",
+    "name": {
+      "zh": "半導體廠營運管理及先進製造技術",
+      "en": "Fab Operation Management and Advanced Manufacturing Technology"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=111&sem=2&code=2811",
+        "code": "2811"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11435",
+        "code": "11435"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=490",
+        "code": "490"
+      }
+    ],
+    "people": "3",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3715008",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=317899&code=11435"
+    ]
   }
 ]
