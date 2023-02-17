@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "徐昕煒",
+    "email": "hwhsu@ntut.edu.tw",
+    "latestUpdate": "2023-02-16 19:08:02",
+    "objective": "本課程之目的在於教導學生能夠以線性代數中所提供之各種方法來求解線性連立方程組，並奠定研習線型規畫，作業研究，等課程之基礎。由於本系分兩組教學，因應之課程內容分別為：管理組：矩陣、方程式之解、行列式、向量、微分方程式及應用問題等。工程組：矩陣方程式之解、行列式、向量及向量空間等。\nThe objective of this course is to introduce the linear algebra by using several different methods to solve the linear dependent equations and to build up the fundamental knowledge of linear programming and Operation Research. Two groups instruct the contents of this course. For the engineering group the array, solution of combinatory equations, vectors, differential equations and its implementation are included. For the management group the array, solution of combinatory equations, vectors and vector spaces are included.",
+    "schedule": "Week 1: 課程介紹與線性系統 / Introduction to Systems of Linear Equations\nWeek 2: 高斯消去法與應用 / \n              Gaussian Elimination and Gauss-Jordan Elimination with Application\nWeek 3: 矩陣 /\n              Operations with Matrices, Properties of Matrix Operations\nWeek 4: 矩陣 2/\n              The Inverse of a Matrix, Elementary Matrices\nWeek 5: 行列式 /\n             The Determinant of a Matrix, Evaluation of a Determinant\nWeek 6: 行列式 2/\n             Properties of Determinants, Introduction to Eigenvalues\nWeek 7: 向量空間 /\n              Vector Spaces, Subspaces, Spanning Sets\nWeek 8: 向量空間 2/\n              Linear Independence, Basis and Dimension, Rank of a Matrix \nWeek 9: Midterm Exam \nWeek 10: 內積空間 /\n                Inner Product Spaces\nWeek 11: 內積空間 2/\n                Orthonormal Bases: Gram-Schmidt Process\nWeek 12: 內積空間 3/\n                Mathematical Models and Least Squares Analysis\nWeek 13: 線性轉換 /\n                Introduction to Linear Transformations, The Kernel and Range\nWeek 14: 線性轉換 2/\n                Matrices for Linear Transformations, Transition Matrices and Similarity\nWeek 15: 特徵值與特徵向量 /\n               Eigenvalues and Eigenvectors\nWeek 16: 特徵值與特徵向量 2/\n                Diagonalization\nWeek 17: 特徵值與特徵向量 3/\n                Symmetric Matrices and Orthogonal Diagonalization\nWeek 18: Final exam",
+    "scorePolicy": "點名: 5% [出席成績]\n平時測驗：25% [每堂課測驗，時間不一，挑出最高分 10 次計分]\n期中考：35% [平時測驗題目會占一定比例]\n期末考：35% [平時測驗題目會占一定比例]",
+    "materials": "【外文參考書籍】\u000bRon, Larson (2017), Elementary Linear Algebra 8E LARSON [2017]\n\u000b【中文參考書籍】\u000b線性代數，第八版 (Elementary Linear Algebra, 8/e (Metric Edition)(IE-Paperback))，Ron, Larson 著、翁慶昌編譯，GL 高立\n\n每週固定上傳個人講義",
+    "consultation": "授課老師資訊 \t授課老師：徐昕 \t辦公室：宏裕大樓 1134 室\t辦公室電話: 03-265-4421 (分機：4421)\thwhsu@ntut.edu.tw 課程辦公室時間 \t星期一 13:00-18:00\t或者事先預約",
+    "remarks": "小考規則＃禁止使用手機\u000b方案一：Open Book 考當天上課內容方案二：Close Book 考上週上課內容若因疫情影響需依防疫規定採用遠距教學時，將採用 MS Teams 系統線上授課。Teams 之連結將置於北科 i 學員課程資料中，屆時同學需使用學號＠cc.ntut.edu 帳號，並採用學校入口網站密碼登入。",
+    "foreignLanguageTextbooks": true
+  }
+]
