@@ -1,0 +1,14 @@
+[
+  {
+    "name": "蔣政諺",
+    "email": "dcychiang@ntut.edu.tw",
+    "latestUpdate": "2023-02-17 17:00:43",
+    "objective": "當高解析度的數位微波影像以成趨勢後，下一世代各國之間在遙測影像的競爭上已經不再局限於光學影像中。然而無論是光學或微波影像，都是以傳統的影像處理為基礎，然後再根據彼此間的數位訊號間的差異，而有不一樣的處理方法。在國際上，越來越多實務上的應用不再只局限於傳統的數位光學影像。利用更多輔助的數位影像資料，例如數位微波影像，能獲取更高效能、更高精度的結果。本課程會以數位微波影像發展趨勢與應用介紹起，並說明影像的特性、訊號模型與處理方法，並搭配實務上的操作，達到理論與實務兼具的目的。\nWhen high resolution digital microwave image becomes the trend, the competition of remote sensing image among countries in the next generation is no longer limited to optical image. However, both optical and microwave images are based on the traditional image processing, and then have different processing methods according to the difference between digital signals. Internationally, more and more practical applications are no longer limited to traditional digital optical imaging. The use of more complementary digital image data, such as digital microwave images, can lead to more efficient and accurate results. This course will introduce the trends and applications of digital microwave imaging, explain the characteristics of the image, signal model and processing methods, and provide practical operation to achieve both theoretical and practical purposes.",
+    "schedule": "1. 微波影像發展與趨勢 (Microwave image development and trends)\n2. 基礎微波影像的判釋與應用 (Interpretation and application of basic microwave images)\n3. 微波影像重要參數說明 (Important parameters of microwave imaging)\n4. 訊號模型與特性 (Signal model and characteristics)\n5. 都卜勒特性於訊號上的意義與估算方法 (Doppler parameters and estimation methods)\n6. 匹配率波器 (Matching filter generation)\n7. 高斜視角下的訊號特性與處理方法 (Signal processing for oblique observation environment)\n8. 深度學習在數位微波影像上的應用 (Deep learning in microwave image)\n9. 影像辨識應用 (Object recognition in microwave image)",
+    "scorePolicy": "作業與說明 (Assignment and Report) 60%\n期末報告 (Final report) 40%",
+    "materials": "[1] J.-S. Lee and E. Pottier, Polarimetric radar imaging: from basics to applications. Boca Raton: CRC Press, 2009.\n[2] I. G. Cumming and F. H. Wong, Digital processing of synthetic aperture radar data. Artech house, 2005.",
+    "consultation": "1. 北科 i 學園討論區留言板 2. Email: dcychiang@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
