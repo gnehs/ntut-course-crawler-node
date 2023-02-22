@@ -2,13 +2,13 @@
   {
     "name": "陳擎文",
     "email": "ccw@ntut.edu.tw",
-    "latestUpdate": "2023-02-11 13:43:08",
+    "latestUpdate": "2023-02-22 08:55:35",
     "objective": "本課程介紹如何使用 python 來分析目前因為 web2.0 盛行後的商業資料大數據。\n數據資料種類分為結構化資料，與非結構化資料等 2 種。\n課程將使用 python 來進行各種商業數據範例的分析探討。\n數據來源包括上述的各種結構化資料，與非結構化資料，包括網頁資料的數據爬取。\n根據數據的特性，再選擇上述的四種數據分析模組，來進行數據解析。\n最後將分析結果做視覺化顯示，並將分析後的數據回存原始資料檔案。\nThis course introduces how to use python to analyze the big data of commercial data after the prevalence of web2.0. There are two types of data: structured data and unstructured data.\nThe course will use python to analyze and discuss various business data paradigms. Data sources include the above-mentioned various structured data and unstructured data, including data crawling of web data. According to the characteristics of the data, select the above four data analysis modules to analyze the data. Finally, the analysis results are displayed visually, and the analyzed data is returned to the original data file.",
     "schedule": "第 1 週：chp1. 課程簡介，與安裝使用 python，python 基礎\n第 2 週：Pandas 基礎入門練習\n第 3 週：Pandas 一維資料結構：Series\n第 4 週：Pandas 二維資料結構：DataFrame，DataFrame 的 5 個屬性\n第 5 週：查缺值 NAN，DataFrame 取值，三種格式，新增一欄 / 一列\n第 6 週：用軸 axis 來輔助函數計算 (mean,sum,max,min)，\n第 7 週：篩選資料 2 種方法 (條件查詢，query)，DataFrame 的 3 種合併：concat，append，merge\n第 8 週：DataFrame 的常用函數，chp6-11. 函數處理日期資料型態\n第 9 週：期中考\n第 10 週：map,applymap,apply 迴圈函數計算每個資料格，輸出到 excel，建立 sheet\n第 11 週：分群分析 groupby，建立交叉分析表 / 樞紐分析表\n第 12 週：二層列索引鍵，跨層級的資料索引\n第 13 週：商業數據五大分析型態\n第 14 週：各種資料清理方法：字串處理，正規表達式，日期處理\n第 15 週：各種資料清理方法：電話處理，Email 處理，分割字串\n第 16 週：實例：系所生源分析\n第 17 週：實例：業務銷售分析\n第 18 週：期末考",
     "scorePolicy": "1. 上課分數，作業分數：50%\n上課來跟著老師做範例就有加分\n作業（大多參考自課本範例）\n\n2. 期中考：25%\n3. 期末考：25%\n\n建議同學們上課要繫帶筆記本電腦",
     "materials": "1. 教科書：一行指令學 Python－用 Pandas 掌握商務大數據分析 ，作者： 徐聖訓   ，出版社：全華圖書\n2. 自編教學網站：https://acupun.site/lecture/pandas\n\n3. 參考書目：Python 商業數據分析：零售和電子商務案例詳解，作者： 零一，電子工業出版社",
     "consultation": "1. 可以在 office hours 時段來諮詢 (科研大樓 537 室) 2. 可以在北科 i 學園 PLUS 平台，在課程內留言，諮詢問題 3. 老師的 email：ccw@ntut.edu.tw，可以用 email 諮詢問題",
-    "remarks": "建議同學們上課要繫帶筆記本電腦因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 若因疫情而暫停實體上課時，將使用學校的 Microsoft Teams 課程名稱：商用數據程式分析",
+    "remarks": "同學們上課要繫帶筆記本電腦因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 若因疫情而暫停實體上課時，將使用學校的 Microsoft Teams 課程名稱：商用數據程式分析",
     "foreignLanguageTextbooks": false
   }
 ]
