@@ -2,13 +2,13 @@
   {
     "name": "江卓培",
     "email": "jiangchopei@gmail.com",
-    "latestUpdate": "2023-02-04 10:30:22",
-    "objective": "本課程以實務為主，學生需要學習擠製成型 (ME)、光固化聚合 (VP)、材料噴印 (MJ) 與粉床融合 (PBF) 等類的三維列印機的設計原理。首先將以熔融擠製成型類的三維列印機兩種機構設計的拆卸與組裝，再透過機台的校正後，列印出可接受的品質物件。第二種機台為 DLP 類的光固化聚合三維列印機，透過軟體的教學帶領學生考慮支撐建構的原則與列印方向對列印品的差異性比較。第三台為 Object 的材料噴印三維列印機，透過機台的使用可以了解噴印的原理，並建構較為細緻的特徵。第四台為選擇性雷射金屬燒結列印機，讓學生可以了解晶格結構對機械性質的影響等。本課程鼓勵學生在修課後，參加 IPAS 3D 列印實作考科之工程師級考試。\nASTM Committee F42 on Additive Manufacturing Technologies was formed in 2009. The myriad process names into seven standardized terms. In this course, the processes of Vat Photopolymerization and Material Extrusion, hardware, software, and material will be studied, The implementation of these two type systems will be given. The course will encourage students to take IPAS exam in 3D Printing practice.",
-    "schedule": "1~ 2 週  擠製成型 3D 列印原理介紹\n3~4 週  光固化成型 3D 列印原理介紹與列印\n5~6 週  擠製成型 3D 列印拆解與組裝\n7~8 週  學生自行設計零組件列印組裝\n第 9 週 期中考\n10~11 週 材料噴印 (MJ) 3D 列印原理介紹與列印\n12~13 週 SLA3D 列印原理介紹與列印\n14~17 週 晶格結構與列印方向對機械性質影響 (結合拉伸試驗機與抗壓實驗機)\n18 週 期末考",
-    "scorePolicy": "需要參加 iPAS 的 3D 列印考試 (10%)\n取得 iPAS 考試證照 (20%)\n期中考 (筆試，20%)\n實作期末考 (小專題列印，能組裝，佔 30%)\n小專題實作報告 (20%)",
+    "latestUpdate": "2023-02-22 14:15:43",
+    "objective": "D 列印又稱加法製造、積層製造（Additive Manufacturing，AM），可任何列印三維物體的過程。3D 列印主要是一個不斷添加的過程，在電腦控制下層疊原材料。3D 列印的內容可以來源於三維模型或其他電子資料，其列印出的三維物體可以擁有任何形狀和幾何特徵。本課程將介紹其原理及配合實機操作，使學生能對 3D 列印技術有正確的認識。(本課程鼓勵學生參加經濟部 iPas 的 3D 列印工程師考試)。\n3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which successive layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data. This course will introduce the principle knowledge of 3D printing and giving the opportunity to practice the use of 3D Printing.",
+    "schedule": "1. 探索積層製造技術與其商業模式 x 1week\n2. 3D 列印之光聚合固化技術剖析 x 2week\n3. 3D 列印之材料擠出 x 2week\n4. 3D 列印之材料噴印 x 1week\n5. 3D 列印之黏結劑噴印 x 1week\n6. 3D 列印之粉末床燒結 x 1week\n7. 指向性能量沉積技術 x 1week\n8. 3D 列印之薄片疊層技術 x 1week\n9. 3D 列印之軟體技術 x 1week\n10. IPAS 準備  x 2week\n實做  x 4week\n期末考",
+    "scorePolicy": "iPas 成績可代替期末考，成績期末考前公佈。\n未通過者之成績評量標準：\n實做及報告 40%\n期末考 50%\n平時成績 10%\n本 iPas 考試因為是課程中，與課程相關，無法用於申請獎學金。",
     "materials": "自製教材",
-    "consultation": "請先與老師聯繫，使用 email: jcp@mail.ntut.edu.tw 或校內分機 4833 或在 office hour 時段到綜科館 324 室",
-    "remarks": "本校爰訂自即日起至 111 年 4 月 13 日止，全校師生停止實體上課，一律改採遠距教學。本課程使用 google meet，連結網址如下：https://meet.google.com/tpy-owbr-wts",
+    "consultation": "同學需加入 LINE 群組，動態進行課程咨詢，也可和老師約時間討論亦安排助教協助",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 如需遠距，以 google meet 為主，於 LINE 通知及依學校規定公告",
     "foreignLanguageTextbooks": false
   },
   {
