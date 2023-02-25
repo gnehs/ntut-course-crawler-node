@@ -2,13 +2,13 @@
   {
     "name": "鄭有進",
     "email": "yccheng@ntut.edu.tw",
-    "latestUpdate": "2022-12-18 11:47:47",
+    "latestUpdate": "2023-02-24 10:33:55",
     "objective": "透過原理解說與系統實作，使學生熟悉物件導向設計原理及 C++ 進階程式設計技術，內容含：1. C++ 物件模型 2. 類別與物件 3. 建構者與解構者 4. 繼承 5. 虛擬函式與多型 6. 運算子溢載 7. 例外處理 8. 泛型程式設計 9. 標準模板程式庫 10. 期末專題設計",
     "schedule": "01 介紹 C++ 開發環境與作業繳交方式；Unit testing with GoogleTest\n02 How to solve it - Example: applying how to solve it (math vector in C)\n03 Inner product round 1/Inner product round 2\n04 Inner product, round 3\n05 handling I/O; inner product, round 4: refactoring into object \n06 Midterm 1: Lab test 1\n07 special member functions: default constructor, copy constructor, \n     destructor shallow copy, deep copy\n08 Convex polygon\n09 Special member functions: copy assignment operator overloading; \n    return a reference to data member; encapsulation and delegation: \n    How do ConvexPolygon and Vector collaborate?\n10 How To Solve It: Delegation from ConvexPolygon to Vector Sorting \n     Vectors with STL sort; Sorting Vertices of  a convex polygon; \n11 Simple Factory vs constructor for convex polygon;\n     Polymorphism \n12 Midterm 2: Lab test 2\n13 Design: Overloading vs. overriding vs. template\n14 Programming with STL\n15 file i/o; stream \n16 Matrix and linear transformation\n17 Dynamic typed languages: Ruby and Python\n18 Final: Lab test 3",
     "scorePolicy": "Homework 25%\nOnline Coding Tests X 3 (25%,  25%, 25%)",
-    "materials": "A. Course repo: https://140.124.181.100/yccheng/oop2022s (accessible only on campus or with ntut vpn)\n\nB. Reference: \n1. HTSI CPP: http://htsicpp.blogspot.tw/\n2. cplusplus.com: https://cplusplus.com/",
-    "consultation": "email: yccheng at ntut dot edu dot tw",
-    "remarks": "Microsoft Teams: url TBA",
+    "materials": "A. Course repo: https://140.124.181.100/yccheng/oop2023s (accessible only on campus or with ntut vpn)\n\nB. Reference: \n1. HTSI CPP: http://htsicpp.blogspot.tw/\n2. cplusplus.com: https://cplusplus.com/",
+    "consultation": "[course repo http://140.124.181.100/yccheng/oop2023s: access with VPNhomework repo http://140.124.181.100/course/oop2023s_assignmentfacebook group https://www.facebook.com/groups/1659514397837662/",
+    "remarks": "Microsoft Teams: https://teams.microsoft.com/l/team/19%3aTJxDsuGo7wfOKIvDeokMUjDBt7S_N4saNgNphJMGxgg1%40thread.tacv2/conversations?groupId=b1551aec-6c8e-486a-b455-f1e1294d12f8&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
     "foreignLanguageTextbooks": false
   }
 ]
