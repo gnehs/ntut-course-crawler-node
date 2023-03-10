@@ -496,7 +496,7 @@
         "code": "214"
       }
     ],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -555,7 +555,7 @@
         "code": "214"
       }
     ],
-    "people": "51",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -2446,7 +2446,18 @@
         "code": "2813"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張國楨",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11322",
+        "code": "11322"
+      },
+      {
+        "name": "楊元森",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11397",
+        "code": "11397"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -3776,7 +3787,7 @@
         "code": "51"
       }
     ],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4036,7 +4047,7 @@
         "code": "56"
       }
     ],
-    "people": "25",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -4132,6 +4143,11 @@
         "name": "李達生",
         "link": "Teach.jsp?format=-3&year=111&sem=2&code=11167",
         "code": "11167"
+      },
+      {
+        "name": "蔡府伯",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=24503",
+        "code": "24503"
       }
     ],
     "time": {
@@ -4158,7 +4174,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "蔡府伯 2",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505403",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=313879&code=11167"
@@ -4272,7 +4288,7 @@
         "code": "64"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -7347,7 +7363,7 @@
         "code": "493"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -8127,18 +8143,12 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "億光1343",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=543",
-        "code": "543"
-      }
-    ],
-    "people": "4",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6016020",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=314303&code=11110"
@@ -10447,7 +10457,7 @@
         "code": "58"
       }
     ],
-    "people": "16",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -11290,13 +11300,13 @@
   {
     "code": "A405112",
     "description": {
-      "zh": "NONE",
-      "en": "NONE"
+      "zh": "本課程主要以實務案例之解析為內容，並結合商標法理論剖析之教學方式，來深入介紹我國商標實務上之重要爭議，讓同學了解司法實務中，如何具體適用法律、判決或學說等。此外，本課程亦將分別介紹國外相關學說理論及著名司法案例，期望同學透過本課程之修習，來培養對國內外商標法案例思辨及評析之能力。",
+      "en": "Primary contents of this course are focused on case analyses, and its teaching method is trademark legal theories analyses in order to further introduce significant disputes about Taiwan trademark practices. Thus, students could understand how to concretely apply laws, precedents, or theories to judicial practices. In addition, this course will also introduce relevant foreign theories and well-known judicial cases to develop students’ abilities of examining and analyzing domestic/foreign trademark cases when students take this course."
     },
     "id": "314609",
     "name": {
       "zh": "商標法案例研究",
-      "en": "NONE"
+      "en": "Case Studies of Trademark Law"
     },
     "stage": "1",
     "credit": "3.0",
@@ -14259,7 +14269,7 @@
         "code": "52"
       }
     ],
-    "people": "16",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14560,7 +14570,7 @@
         "code": "67"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -14736,7 +14746,7 @@
         "code": "428"
       }
     ],
-    "people": "27",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15029,7 +15039,7 @@
         "code": "108"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15088,7 +15098,7 @@
         "code": "56"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15147,7 +15157,7 @@
         "code": "55"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16963,7 +16973,7 @@
         "code": "486"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17139,7 +17149,7 @@
         "code": "387"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17257,7 +17267,7 @@
         "code": "493"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -17751,13 +17761,13 @@
   {
     "code": "A405112",
     "description": {
-      "zh": "NONE",
-      "en": "NONE"
+      "zh": "本課程主要以實務案例之解析為內容，並結合商標法理論剖析之教學方式，來深入介紹我國商標實務上之重要爭議，讓同學了解司法實務中，如何具體適用法律、判決或學說等。此外，本課程亦將分別介紹國外相關學說理論及著名司法案例，期望同學透過本課程之修習，來培養對國內外商標法案例思辨及評析之能力。",
+      "en": "Primary contents of this course are focused on case analyses, and its teaching method is trademark legal theories analyses in order to further introduce significant disputes about Taiwan trademark practices. Thus, students could understand how to concretely apply laws, precedents, or theories to judicial practices. In addition, this course will also introduce relevant foreign theories and well-known judicial cases to develop students’ abilities of examining and analyzing domestic/foreign trademark cases when students take this course."
     },
     "id": "315934",
     "name": {
       "zh": "商標法案例研究",
-      "en": "NONE"
+      "en": "Case Studies of Trademark Law"
     },
     "stage": "1",
     "credit": "3.0",
@@ -20049,7 +20059,7 @@
         "code": "44"
       }
     ],
-    "people": "8",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -20972,7 +20982,7 @@
         "code": "108"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21173,7 +21183,13 @@
         "code": "2813"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林利國",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=10239",
+        "code": "10239"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -22368,7 +22384,7 @@
         "code": "139"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -22674,7 +22690,7 @@
         "code": "117"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -24261,7 +24277,7 @@
         "code": "399"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -24443,7 +24459,7 @@
         "code": "383"
       }
     ],
-    "people": "24",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28037,7 +28053,7 @@
         "code": "57"
       }
     ],
-    "people": "41",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -28288,7 +28304,7 @@
         "code": "57"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -28347,7 +28363,7 @@
         "code": "506"
       }
     ],
-    "people": "41",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28497,7 +28513,18 @@
         "code": "2813"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林祐正",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11258",
+        "code": "11258"
+      },
+      {
+        "name": "陳彥璋",
+        "link": "Teach.jsp?format=-3&year=111&sem=2&code=11122",
+        "code": "11122"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -29341,7 +29368,7 @@
         "code": "433"
       }
     ],
-    "people": "17",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -30638,7 +30665,7 @@
         "code": "489"
       }
     ],
-    "people": "38",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -31040,18 +31067,12 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教726",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=451",
-        "code": "451"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "IMBA&IMFI【停開】",
+    "notes": "2 週，IMBA&IMFI【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805135",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=316897&code=24272"
@@ -31545,7 +31566,7 @@
         "code": "309"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -32023,7 +32044,7 @@
         "code": "319"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -32146,7 +32167,7 @@
         "code": "292"
       }
     ],
-    "people": "32",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -35331,7 +35352,7 @@
         "code": "486"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -35446,7 +35467,7 @@
         "code": "319"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -38117,18 +38138,12 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教402",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=52",
-        "code": "52"
-      }
-    ],
-    "people": "3",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "創新 AI、人工智慧學位學程、電子所和光電所合開",
+    "notes": "2 週，創新 AI、人工智慧學位學程、電子所和光電所合開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=318005&code=12460"
