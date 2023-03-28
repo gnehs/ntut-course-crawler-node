@@ -1497,7 +1497,7 @@
       }
     ],
     "people": "37",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "英語",
     "notes": "電子所與電資外生所合開",
@@ -14093,9 +14093,9 @@
     },
     "classroom": [
       {
-        "name": "三教208",
-        "link": "Croom.jsp?format=-3&year=111&sem=2&code=42",
-        "code": "42"
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=111&sem=2&code=211",
+        "code": "211"
       }
     ],
     "people": "54",
@@ -20988,7 +20988,7 @@
       }
     ],
     "people": "34",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　",
     "notes": "",
@@ -25344,8 +25344,8 @@
   {
     "code": "5905189",
     "description": {
-      "zh": "本課程以深入淺出之方式，介紹與機器學習之相關技術及演算法，目標是修習本課程之學生具有閱讀機器學習相關文獻之基本知識，並能從事相關之實務或電腦模擬實驗之工作，因此本課程著重在廣泛介紹各類之演算法之應用，而非深究少數演算法之深奧數學原理．本課程涵蓋之演算法，包含：最佳化基本知識，隨機最佳化演算法，隨機搜尋，決策樹，隨機森林，類神經網路及深度學習相關演算法，基因演算法，貝氏定理及應用，高斯混合模型，隱藏式馬可夫鍊 (及訓練演算法，支援向量機，線性及邏輯回歸，分群方法，降維方法，提升方法，決策融合技巧，及增強式學習等．",
-      "en": "This introductory course covers most of the techniques and algorithms related to the current trend in the machine learning field. The goal of this course is that students complete this course can read and understand the literature in the machine learning field, and can conduct computer simulations for experiments or apply the techniques to practical problems. Therefore, this course intends to cover a broad range of algorithms with emphasis on applications, rather than to cover only a few algorithms with extensive mathematical treatments. The algorithms covered in this course include: foundations of optiminizations, random search, decision tree,  random decision forests, neural networks and deep learning, genetic algorithm, Bayes' theorem and its applications, Gauss mixture model, hidden Markov model (with its training algorithm), support vector machine, linear and logistic regressions, clustering algorithms, dimension reduction techniques (LDA, PCA, ICA, FA), boosting methods, decision"
+      "zh": "本課程以深入淺出之方式，介紹與機器學習之相關技術及演算法，目標是修習本課程之學生具有閱讀機器學習相關文獻之基本知識，並能從事相關之實務或電腦模擬實驗之工作，因此本課程著重在廣泛介紹各類之演算法之應用，而非深究少數演算法之深奧數學原理．本課程涵蓋之演算法，包含：最佳化基本知識，隨機最佳化演算法，隨機搜尋，決策樹，隨機森林，類神經網路及深度學習相關演算法，基因演算法，貝氏定理及應用，高斯混合模型，隱藏式馬可夫鍊 (及訓練演算法)，支援向量機，線性及邏輯回歸，分群方法，降維方法，提升方法，決策融合技巧，及增強式學習等。",
+      "en": "This course covers most of the techniques and algorithms related to the current trend in the machine learning field. The goal of the course is that students complete this course can read and understand the literature in the machine learning field, and can conduct computer simulations for experiments or apply the techniques to practical problems. Therefore, the course intends to cover a broad range of algorithms with emphasis on applications, rather than to cover only a few algorithms with extensive mathematical treatments. The algorithms covered in this course include: foundations of optimizations, random search, decision tree, random decision forests, neural networks and deep learning, genetic algorithm, Bayes' theorem and its applications, Gauss mixture model, hidden Markov model, support vector machine, linear and logistic regressions, clustering algorithms, dimension reduction techniques, boosting methods, decision level fusion techniques, and reinforcement learning."
     },
     "id": "316604",
     "name": {
@@ -25410,7 +25410,7 @@
     "code": "5905211",
     "description": {
       "zh": "資料科學是個跨領域的重要興新學科，其基本知識含括資訊、線性代數、機率與統計等，相關技術可應用在許多領域上，包含教育領域。本課程從學科整體介紹開始，討論資料科學中各主要階段的相關議題：包含資料搜尋擷取、資料整理與問題發想、數理知識回顧與討論、資料分析建模與方法、資料呈現與視覺化等。除課堂上講授與討論外，課程亦著重如何實際應用所學，將使用教育資料並以小組方式進行議題發想與分析實作的學期專題。此外，為強化健全資料視覺呈現課題，在實作專題中課程亦著重學生報告能力的培養，希望培育出全方位的資料科學人才。",
-      "en": "Data science is an emerging interdisciplinary field that explores how to produce or create the valuable information and knowledge from large, multi-typed, or unstructured data and provides effective feedbacks to many applications, including education. The related topics include data processing and computing, data storage, statistics and probability, linear algebra, and data analysis. This course introduces the rapidly growing field, discusses the state-of-art techniques, and provides students with the fundamental related knowledge as well as the ability to use software tools. The major phases on data manipulation- collection, preparation, analytics, and presentation, in data science will be discussed. The training of this course is toward equipping students with the general mindset and the ability to solve problems practically with the learned techniques on educational data with project groups. In addition, the students also need to practice the presentation for the findings and result"
+      "en": "Data science is an emerging interdisciplinary field that explores how to produce the valuable knowledge from large, multi-typed, or unstructured data and provides effective feedbacks to many applications, including education. The topics include data processing, data storage, statistics and probability, linear algebra, and data analysis. The course introduces the rapidly growing field, discusses the state-of-art techniques, and provides students with fundamental related knowledge and the ability to use software tools. The major phases on data manipulation-collection, preparation, analytics, and presentation, in data science will be discussed. The course training is toward equipping students with the mindset and the ability to solve problems with the learned techniques on educational data. In addition, students need to practice the presentation for the findings of the studied problem in order to equip with the ability to convey the thoughts well and demonstrate things visually."
     },
     "id": "316605",
     "name": {
@@ -27922,7 +27922,7 @@
       }
     ],
     "people": "30",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "　",
     "notes": "電子三四甲乙與電子所合開",
