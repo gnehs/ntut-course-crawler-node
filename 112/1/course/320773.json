@@ -1,0 +1,14 @@
+[
+  {
+    "name": "王永鐘",
+    "email": "ycwang@ntut.edu.tw",
+    "latestUpdate": "2023-05-28 16:05:52",
+    "objective": "本課程旨在全面介紹網絡和分佈式計算技術。 與傳統課程不同，它採用自上而下的主題方法，從應用層開始，然後描述傳輸層和網路層，最後涵蓋實體層。課程從應用層向下延伸到實體層，讓學生在學習網路的早期就接觸重要概念來激發他們的興趣。 本課程專注於互聯網和網路的基本重要問題，對計算機科學和電氣工程感興趣的學生提供良好的基礎，而無需廣泛的程式或數學知識。",
+    "schedule": "第 1 週：課程簡介\n1. Computer Networks and the Internet\n1.1 What is the Internet\n1.2 The Network Edge\n1.3 The Network Core\n第 2 週 1.4 Delay, Loss, and Throughput in Packet-Switched Networks\n1.5 Protocol Layers and Their Service Models\n1.6 Network Under Attack\n1.7 History of Internet\n第 3 週 2. Application Layer\n2.1 Principles of Network Applications\n2.2 Web and HTTP\n2.3 E-Mail in the Internet\n第 4 週 2.4 DNS\n2.5 P2P Applications\n第 5 週 2.6 video streaming and CDN\n2.7 Socket Programming with TCP\n2.8 Socket Programming with UDP\n第 6 週 3. Transport Layer\n3.1 Introduction\n3.2 Multiplexing and Demultiplexing\n3.3 Connectionless Transport: UDP\n3.4 Principle of Reliable Data Transfer -- part I\n第 7 週 3.4 Principle of Reliable Data Transfer -- part II\n3.5 Connection-Oriented Transport: TCP\n第 8 週 3.6 Principle of Congestion Control\n第 9 週  期中考\n第 10 週 4. The Network Layer-data plane\n4.1 overview\n4.2 What's Inside a Router\n4.3 Internet Protocol\n4.4 SDN\n第 10 週 5 The Network Layer-control plane\n5.1 introduction\n5.2 routing algorithms\n5.3 OSPF\n第 11 週 5.4 BGP\n5.5 SDN control plane\n5.6 ICMP\n第 12 週  6. Link Layer and LAN\n6.1 introduction\n6.2 EDC\n6.3 MAC\n第 14 週  6.4 Switched LAN\n6.5 Link virtialization\n6.6 Data center networking\n第 15 週 7 wireless and Mobile networks\n7.1 introduction\n7.2 wireless link and network characteristics\n7.3 WiFi\n第 16 週 7.4 4G and 5G\n7.5 Mobility management\n7.6 Mobility management in practice\n7.7 wireless and mobility\n第 17 週   期末考",
+    "scorePolicy": "1st examination 30%\n2nd  examination 30%\nFinal examination 30%\nproject report 10%",
+    "materials": "J.F. Kurose and K.W. Ross, Computer Networking, 8th Edition,    Addison Wesley, 2021.",
+    "consultation": "office hours",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

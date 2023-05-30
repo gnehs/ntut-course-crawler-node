@@ -1,0 +1,14 @@
+[
+  {
+    "name": "楊元森",
+    "email": "ysyang@ntut.edu.tw",
+    "latestUpdate": "2023-05-22 16:55:35",
+    "objective": "本課程介紹科學和工程數值分析的理論，應用，和程式編撰，包括初步誤差分析、方程式求解、逼近法、微分方程、線性代數、線性和非線性回歸，與離散傅利葉變換。本課程著重於使用目前廣泛採用的數值分析開發環境與程式語言，並透過動手練習讓學生體驗數值分析技術在人工智能中的應用。 本課程學生應至少已完成微積分第一年的學生而設計。\nThis course introduces the theory, applications, and programming implementation of numerical analysis for science and engineering, including preliminary error analysis, solutions of equations, approximation, differential equations, linear algebra, linear and nonlinear regression, and discrete Fourier transform. Programming implementation is also intensed in the lectures using a current popular development environment for numerical analysis. The application of numerical analysis techniques on artificial intelligence is also introduced with hands-on exercises. This course is designed for engineering majors who have completed at least the first year of the calculus sequence.",
+    "schedule": "數值分析與結合數學、計算機科學的課程。它也是機器學習理論的重要基礎。本課程主要目的是讓學生學習數值方法原理，電腦程式實作，以及如何使用數值方法和機器學習算法來解決一些基本的實際問題。\n\n本課程以循序漸近的方式，以生活上與工程上的實務問題為例，帶領同學瞭解電腦計算的過程與檢驗誤差的來龍去脈。本課程從最基礎概念開始講授，並配合實機逐步操作，適合曾修習過程式設計相關課程，或是具有基礎程式撰寫經驗的同學修習。歡迎同學自備筆記型電腦來上課。本課程亦提供操作錄影影片供同學回家仿做。",
+    "scorePolicy": "1. 數值分析簡介與實際案例\n2. Python 程式語言基礎與實作\n3. 線性方程的數值解法與 Numpy 基本功能\n4. 最小平方法與數值回歸 Scipy 基本功能\n5. 數值微分與 Python 實作\n6. 數值積分與 Python 實作\n7. 數值繪圖與 Matplotlib 基本功能\n8. 數值分析 3D 繪圖與 Tkinter 視窗界面\n9. 基礎訊號處理與 Python 實作\n10. 數值分析機器學習基礎\n11. 分類問題的基本概念與 Python 實作\n12. K - 平均演算法的基本 Python 實作\n13. 神經網路的數值原理與基本 Python 實作\n14. 卷積運算原理與基本 Python 實作\n15. MNIST 數字分類的 Python 實作\n16. MNIST 分類模型的修正與改良方法實作\n17. 強化學習的基礎概念\n18. 生成式機器學習的基礎概念",
+    "materials": "Will be announced in the first-week Lecture",
+    "consultation": "Will be announced in the first-week Lecture",
+    "remarks": "The lecture is regularly video recorded and is available at the NTUT iStudy (北科 i 學園). In case that the lecture has to be carried out online, it will be at Google Meet:  https://meet.google.com/yiu-jwqa-ckm",
+    "foreignLanguageTextbooks": true
+  }
+]

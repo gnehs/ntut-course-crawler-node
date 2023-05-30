@@ -1,0 +1,14 @@
+[
+  {
+    "name": "陳澤興",
+    "email": "tzershing.chen@ntut.edu.tw",
+    "latestUpdate": "2023-05-29 15:30:45",
+    "objective": "1. 瞭解電路元件之基本特性及其組合電路之分析方法，內容包含： (1) 電路元件：電壓及電流源，主動元件， (2) 電路特性：歐姆定律，柯希荷夫電壓與電流定律等， (3) 一階及二階電路：電路之微分方程描述及各種輸入信號之響應， (4) 穩態分析與頻率響應：分析電路之頻域， (5) 電腦輔助電路分析：如使用 SPICE 工具。 2. 瞭解線性與非線性電路的組成與分析法，內容包含： (1) 交流激勵電路：交流穩態分析，功率計算及相電路， (2) 三相電路：Ｙ與△型轉換及功率分析， (3) 變壓器電路：互感應及電壓電流的變換， (4) 頻率響應分析：極點與零點，轉移函數， (5) Fourier 級數，轉換及應用， (6) Laplace 轉換及應用。\nThe course covers the synthesis and analysis of bath linear and nonlinear circuits.Contents include: 1.Introduction to linear circuit analysis, 2. Resistive circuit, 3. Kirchhoff laws, 4. Thevenin and Norton theorem, 5. First and second order circuit, 6. Node and loop analysis, 7. Steady state response and analysis, 8. SPICE tool, 9.AC circuit :AC steady-state analysis, phasor analysis, 10. Three phase circuits, 11. Transformer circuits, 12. Frequency response, 13. Fourier series, Fourier transformation and application, 14. Laplace transformation and application.",
+    "schedule": "第 01 週 (09/15) : 概論 1 (電荷與電流、電場與電壓)\n第 02 週 (09/22) : 概論 2 (功率與能量、基本電路元件)\n第 03 週 (09/29) : 中秋節放假\n第 04 週 (10/06) : 電阻電路 1 (克希荷夫電壓定律)\n第 05 週 (10/13) : 電阻電路 2 (克希荷夫電流定律)\n第 06 週 (10/20) : 基本網路理論 1 (網目分析法與戴維寧定理) (含小考 1)\n第 07 週 (10/27) : 基本網路理論 2 (諾頓定理與重疊定理) \n第 08 週 (11/03) : 儲能元件 (含小考 1 考題講解)\n第 09 週 (11/10) : 期中考\n第 10 週 (11/17) : 暫態響應分析 (自然響應)\n第 11 週 (11/24) : 穩態響應分析 (步階響應)\n第 12 週 (12/01) : 弦波函數與相量概念 (弦波函數與複數運算)\n第 13 週 (12/08) : 弦波穩態電路 (RLC 電路與交流網中分析)\n第 14 週 (12/15) : 交流功率與能量\n第 15 週 (12/22) : 耦合電路 (含小考 2)\n第 16 週 (12/29) : 對稱平衡三相電路\n第 17 週 (01/05) : 非正弦波分析 (小考 2 考題講解)\n第 18 週 (01/12) : 期末考",
+    "scorePolicy": "1. 出缺席狀況 (20 %) → 無故缺席扣 3% / 次 (向教務處請事病假扣 1%/ 次)\n2. 期中考        (30 %)\n3. 期末考        (30 %)\n4. 小考 2 次      (20 %)",
+    "materials": "使用教材: \n1. 電路學 (第三版)、作者：曲毅民編著、出版社：全華圖書\n參考書目:\n1. 電機學 (第七版)、作者：楊善國編著、出版社：全華圖書  \n（年月）2021 年十月七版一刷\n2. 電機學、作者：呂俊、鄧錦坤、鍾玉堆 出版社：高立圖書 （年月）2007/06/29\n3. 個人自編之數位教材。",
+    "consultation": "1. 課程諮詢時間 Office hour: 每周一 (17:00~21:00) 2. 開學後組成線上群組 Line group discussion: to be announced.",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 本學期課程因應疫情警戒上課方式，請依照學校網頁所公布之訊息為準：遠距上課授課及評量方式說明如下：1. 上課方式：線上會議室 Google Meet2. 課程資訊 line 群組: to be announced.3. 評量方式：期中考、期末考改採自主測驗 (take home exam) 加線上口試。",
+    "foreignLanguageTextbooks": false
+  }
+]
