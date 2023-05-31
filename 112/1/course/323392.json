@@ -1,0 +1,14 @@
+[
+  {
+    "name": "王正豪",
+    "email": "jhwang@ntut.edu.tw",
+    "latestUpdate": "2023-05-29 17:21:30",
+    "objective": "This course is a graduate-level course for advanced big data analytics and applications. The major topics include: the concepts and principles of big data analytics, frameworks of distributed computing, and applications including: Link Analysis, Social Network Graph Mining, and Recommender Systems. The commonly used machine learning methods such as artificial neural networks and SVM will also be covered. \nIn addition to conceptual introduction, with intensive programming exercises in parallel programming and term project, students are expected to learn the machine learning tools, and the program design of real big data applications.",
+    "schedule": "Part I: Big Data Analytics concepts & Distributed processing (7 wks)\n1. Introduction to big data concepts (1 wk)\n2. Introduction to distributed platforms: Hadoop & Spark  (1 wk)\n3. MapReduce programming: pairs & stripes, relational algebra (1 wk)\n4. More examples: matrix multiplication, similarity (1 wk)\n5. Machine Learning Methods: NN, SVM (3 wks)\n\nMidterm exam (1 wk)\n\nPart II: Applications of Big Data Anlaytics (7 wks)\n1. Finding Similar Items (1 wk)\n2. Mining Data Streams (1 wk)\n3. Link Analysis (1 wk)\n4. Frequent Itemset (1 wk)\n5. Recommendation Systems (1 wk)\n6. Social Network Graph Mining (1 wk)\n7. Others: Dimensionality Reduction (1 wk)\n\n\nTerm project presentation (3 wks)",
+    "scorePolicy": "Homework assignments and programming exercises: ~40%\nMid-term exam: ~25-30%\nTerm project and presentation: ~30-35%",
+    "materials": "Textbook:\n1. Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman, Jeff Ullman, 3rd edition, \nCambridge University Press, 2020.\n\nReferences:\n1.  Jiawei Han, Jian Pei, and Hanghang Tong, Data Mining: Concepts and Techniques, 4th edition, Morgan Kaufmann, 2022.\n2. Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer.\nMorgan & Claypool Publishers, 2010.\n3. Recent academic papers, tutorials, and slides.",
+    "consultation": "You can reach the teacher via e-mail or by appointment.All course materials and video recordings will be kept in Microsoft Teams and iSchool+, and the course web site at: https://chriswjh.github.io/BDM/",
+    "remarks": "Please check the course web site at: https://chriswjh.github.io/BDM/",
+    "foreignLanguageTextbooks": true
+  }
+]

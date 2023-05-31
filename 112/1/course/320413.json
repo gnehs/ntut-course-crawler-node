@@ -1,0 +1,14 @@
+[
+  {
+    "name": "李昭賢",
+    "email": "chlee@ntut.edu.tw",
+    "latestUpdate": "2023-05-26 12:38:01",
+    "objective": "本課程將以 C 高階程式語言作為主要教學內容，首先從 C 基本語法開始，包含：常數 (Constant) 與變數 (Variable) 表示法、運算子 (Operator)、保留字 (Keyword) 與程式基本結構... 等，然後介紹 C 基本控制結構，如：選擇 (Selection)、迴圈 (Loop)，再來說明陣列 (Array)、指標 (Pointer) 之使用，以及函式 (Function) 制定、遞迴 (Recursion) 使用、字串 (String) 處理、檔案 (File) 處理... 等，最後介紹在 C 語法進階資料型態，如：Structure，除此之外，亦介紹程式設計中基礎排序演算法，如：氣泡排序 (Bubble Sorting) 與選擇排序 (Selection Sorting)。\n\n1.\t修課學生可從本課程熟悉 C 基本語法。\n2.\t修課學生可從本課程學習 C 程式設計之實作。\n3.\t修課學生可從本課程練習基礎排序演算法。",
+    "schedule": "1. Introduction – IDE Practice (Project Opening, Code Writing, Compilation)\n2. First C Program – Hello World (Concept & Basic I/O)\n3. Operators\n4. Selection (if-else)\n5. Selection (switch)\n6. Loop (for)\n7. Loop (while & do-while)\n8. Array (including Sorting Algorithms)\n9. Midterm Week\n10. Function Design & Calling\n11. Recursion\n12. Library / API (Math)\n13. Pointer\n14. Library / API (String)\n15. Library / API (File)\n16. Structure\n17. Advanced Topics\n18. Final Week",
+    "scorePolicy": "平常成績 (出席率 & 上機練習)：30%\n回家練習 (需繪製流程圖、加上程式註解)：30%\n進階練習 (需繪製流程圖、加上程式註解)：20%\n期末專案：20% \n| \n作業遲交或未遵守繳交規定，一律以 0 分計算\n|\n1.) 回家練習整學期未繳交超過 10 題，且進階練習未繳交超過 5 題者，一律給以 50 分不及格之學期成績 (不論是否有繳交期末專案)。\n2.) 即使有繳交前述之最少題數，亦無保證學期成績會超過 60 分。\n3.) 未繳交期末專案者，學期成績最高為 80 分。\n4.) 若繳交之程式、流程圖、程式註解等內容，經老師判定為抄襲，不論是被抄襲者、或抄襲者，一律判定該作業繳交無效，同時不可補交。",
+    "materials": "<參考用書>\n看圖學 C 語言與運算思維，陳會安，全華出版，2021\nC 語言程式設計與應用，3/e (附範例光碟), 陳會安，全華出版，2021\n學會 C 語言 - 從不懂，到玩上手！圖控邏輯加強版，陳會安，旗標出版，2018\nC HOW TO PROGRAM (8/E), DEITEL, Pearson (全華代理), 2016\nC 程式設計藝術 (8/E),  全華研究室，全華出版，2018",
+    "consultation": "1. 可透過 北科 i 學園 的討論區 2. 可透過 Email 聯繫與詢問課程 3. [若非疫情緊張時刻] 可於 Office Hour 前往辦公室 | 考量電腦教室座位數量，不接受加簽",
+    "remarks": "●依政府與學校的疫情警戒等級※「一、二級」警戒：實體授課。※「三級」(含) 以上警戒：遠距授課。●遠距教學方式說明如下：1. 採用 Google Meets，若無法配合使用 (麥克風與鏡頭缺一不可)，請不要選此課程。2. Google Meets 之連結，第一周將會公告在這裡，第二周之後將會公告在北科 i 學園。●評量方式：本課程主要以程式作業繳交為主，故不受遠距教學與否的影響",
+    "foreignLanguageTextbooks": false
+  }
+]

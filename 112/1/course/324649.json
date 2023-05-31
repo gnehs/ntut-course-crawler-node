@@ -1,0 +1,14 @@
+[
+  {
+    "name": "傅遠智",
+    "email": "fuyc20@gmail.com",
+    "latestUpdate": "2023-05-29 10:37:19",
+    "objective": "本門課程旨在提供給尚未具有基礎統計基礎的學生，熟悉並能夠應用統計分析技術在解決現實世界中所出現的各種研究問題。課程的第一部份將從了解統計的基本概念開始，包括抽樣、樣本分配、集中位置量數、變異量數等統計上的意義，接著介紹變項尺度的性質以及如何選擇對應的統計模型。在學生了解統計的基本概念後，經由介紹 T 考驗、F 考驗，以及相關係數等統計分析方法讓學生熟悉教育研究的情境。課程的第二部份以迴歸分析做為分析技術的主軸，本課程以計量經濟領域最常用的統計分析軟體作為工作環境，教授學生進行程式語言編程，利用現有的社會科學及教育領域數據資料庫，依照數據結構與研究問題的特性，選擇合適模型執行各項數據分析工作。課程的第三部份將介紹因素分析與集群分析等。讓學生得以更進一步認識除了行政數據之外，同時熟悉統計領域中潛在變項的觀念以及應用。完成本門課程的學生將能熟悉數據科學領域中主要與最新進的統計分析技術，並同時掌握透過編寫程式的方式執行數據分析的能力。\nThis course aims to give students the opportunity to study statistics and its application on the field. The first section would introduce basic statistical concepts including sampling, distribution, measurement, among others. The second section would introduce regression methods. Students would also learn how to conduct data analysis using Statistics software, the most powerful software in econometrics. The third section would introduce multivariate statistics, including factor analysis and cluster analysis. In addition to handling administrative data, students would also learn the concept of latent variable and its application. \nAfter finishing this course, students would not only know the most advanced data analytics techniques but also have the ability to do programing for data analysis tasks.",
+    "schedule": "第 1 週\t我國教育系統與學校體系概述\n第 2 週\t國內社會科學及教育數據資料庫綜覽\n第 3 週\t國內社會科學及教育數據資料庫綜覽\n第 4 週\t基礎統計學 I：抽樣、分配、集中位置量數、變異量數\n[教育情境案例應用]\n第 5 週\t基礎統計學 II：變量尺度、統計模型選擇\n[教育情境案例應用]\n第 6 週\tT 考驗、F 考驗、相關係數\n[教育情境案例應用]\n第 7 週\t迴歸分析理論與實作\n第 8 週\tStata 軟體作業環境介紹 I\n第 9 週\tStata 軟體作業環境介紹 II\n第 10 週\t我們可以預測學生的表現嗎？\n[介紹多元迴歸分析]\n第 11 週\t期中作業：迴歸分析結果解讀與報告撰寫\n第 12 週\t公平對待真的存在嗎？同一個政策對不同的群體會有不同的影響\n[介紹分位數迴歸]\n第 13 週\t政策有效嗎？如何評估政策對學校或學生產生的影響 \n[介紹面板模型 (panel data)、固定效果與隨機效果]\n第 14 週\t選校重要嗎？不同學校的學生為何會有不同的表現\n[介紹階層線型模式]\n第 15 週\t孟母三遷有道理嗎？空間如何影響人的行為\n[介紹空間自迴歸模型]\n第 16 週\t物以類聚，人以群分\n[介紹因素分析、群集分析]\n第 17 週\t期末專題報告\n第 18 週\t期末專題報告",
+    "scorePolicy": "課堂討論參與\t15%\t以課程討論參與情形做為考核。\n出席 15%\t以課程出席情形做為考核。\n報告 30%\t於期中繳交數據分析報告。\n成果展覽\t 30% 於期末進行海報展，口頭發表分析結果。\n專題 30%\t於期末撰寫專題研究報告，包括研究問題、研究方法以及研究成果。",
+    "materials": "中文部分：\n林清山 (2014)。心理與教育統計學。東華。\n伊藤公一朗 (2018)。數據分析的力量 Google、Uber 都在用的因果關係思考法。台灣東販。",
+    "consultation": "週三下午 13:00-15:00",
+    "remarks": "聯合國 SDG4：確保全面、公平及高品質教育，提倡終身學習本課程開設的目的即是因應我國教育部當前以循證治理作為提升整體教育品質改善學校運作效能的策略方針，積極培養跨領域的數據科學人才投入於包括教育領域的真實世界，藉由科學性與系統化分析我國各級學生學習上的弱點，集中有效資源進行適性輔導。本課程的課程目標之一：熟悉統計模型並能正確應用數據分析技術以提升我國學校教育品質。即是培養本校學生未來具備此項知識與技能。",
+    "foreignLanguageTextbooks": false
+  }
+]

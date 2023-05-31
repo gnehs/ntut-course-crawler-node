@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "張世豪",
+    "email": "sh.chang@ntut.edu.tw",
+    "latestUpdate": "2023-05-31 10:23:18",
+    "objective": "本課程介紹以 ARM CPU 為核心之嵌入式系統。內容包含：ARM CPU 介紹，ARM CPU 指令集，ARM 之 C 語言工具，ARM 發展環境，Linux 核心之介紹。之後透過「樹莓派」作為本課程的實作系統，開發語音互動、影像處理、設備間通訊、雲端資料庫使用等的應用。同學可以從實務操作中，學習嵌入式系統之軟體開發與應用的能力，完成生活中各種嵌入式系統應用的製作，及期末專題。\n\nThis course covers the following topics: introduction to ARM CPU, instruction set of ARM CPU, C compiler of ARM CPU, debugging tools for ARM CPU, functions of the evaluation board, writing and running C language in the evaluation board, introduction to Linux kernel. This course also introduces the basic concepts of software and hardware of embedded systems, and then uses \"Raspberry Pi\" as the implementation system of this course to develop voice interaction, image processing, communication between devices. Applications such as cloud database usage. Students can learn the software development and application capabilities of embedded systems from practical operations, and complete the production of various embedded system applications and final-term project.",
+    "schedule": "Week 1\t課程介紹、嵌入式系統介紹\nWeek 1    Course introduction, introduction to embedded systems\n\nWeek 2\t嵌入式系統 - ARM CPU 介紹\nWeek 2    Embedded System - Introduction to ARM CPU\n\nWeek 3\t嵌入式系統 - ARM CPU 指令集\nWeek 3    Embedded System - ARM CPU Instruction Set\n\nWeek 4\t嵌入式系統 - ARM 之 C 語言工具與發展環境 (1) \nWeek 4    Embedded System-ARM C Language Tools and Development Environment (1)\n\nWeek 5\t嵌入式系統 - ARM 之 C 語言工具與發展環境 (2)\nWeek 5    Embedded System-ARM C Language Tools and Development Environment (2)\n\nWeek 6\t嵌入式系統 Linux 核心之介紹\nWeek 6    Introduction to Linux Kernel for Embedded Systems\n\nWeek 7\t嵌入式系統程式開發 - 連接感測器\nWeek 7    Embedded System Program Development - sensor connection \n\nWeek 8\t嵌入式系統程式開發 - 智慧家庭應用\nWeek 8    Embedded System Program Development - smart home application\n\nWeek 9\t期中考\nWeek 9    Midterm Exam\n\nWeek 10\t嵌入式系統程式開發 - 通訊介面應用\nWeek 10  Embedded System Program Development - usage of communication interface\n\nWeek 11\t內網通訊 - MQTT\nWeek 11  Communication - MQTT (Message Queueing Telemetry Transport)\n\nWeek 12\t圖形介面 - NodeRed 應用\nWeek 12  Graphical interface - Usage of NodeRed\n\nWeek 13\t雲端資料庫使用\nWeek 13  Usage of cloud database\n\nWeek 14\t聲音訊號處理\nWeek 14   Audio signal processing\n\nWeek 15\t影像串流處理\nWeek 15  Video stream processing\n\nWeek 16\t影像處理\nImage processing\n\nWeek 17\t期末專案 (1)\nFinal project (1)\n\nWeek 18\t期末專案 (2)\nFinal project (2)",
+    "scorePolicy": "期中評量：25.0 % \n期末評量：25.0 % \n專題報告評量： 20.0 % \n小考與評量： 20.0 % \n出席率：10.0 %\n\nMid-term assessment: 25.0%\nFinal assessment: 25.0%\nSpecial report evaluation: 20.0%\nQuiz and Assessment: 20.0 %\nAttendance rate: 10.0%",
+    "materials": "Book：Raspberry Pi Assembly Language Programming: ARM Processor Coding, Stephen Smith (Author).  Apress; 1st edition (Oct. 2019).  English, 396 pages\nISBN: 1484252861",
+    "consultation": "Email： sh.chang@ntut.edu.tw",
+    "remarks": "SDG 9 - 工業、創新和基礎建設 (Industry,Innovation and Infrastructure)",
+    "foreignLanguageTextbooks": false
+  }
+]

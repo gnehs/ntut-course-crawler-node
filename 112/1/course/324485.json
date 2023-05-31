@@ -1,0 +1,14 @@
+[
+  {
+    "name": "陳擎文",
+    "email": "ccw@ntut.edu.tw",
+    "latestUpdate": "2023-05-25 18:33:01",
+    "objective": "本課程將介紹人工智慧在各種商情預測的技應用，做好商情預測有利於確保企業發展方向的正確性，也能讓企業更能抓住市場脈動而滿足消費者的需求不會造成太多的庫存堆積，保持市場供需的動態平衡。\n本課程規劃所欲培育人才所需之教學目標包括：\n（1）學生有能力使用 python 寫各種商業智能程式，包括使用 pandas 模組裡進行商業數據分析與視覺化。使用 numpy，sklearn 機器學習模組來處理迴歸分析問題。使用 keras 模組來進行深度學習的商業預測應用。\n（2）實作多種商情預測範例，包括：電商數據分析、市場佔有率分析、市場趨勢分析、細分市場分析、消費者需求分析、店鋪數據化運營的 SEO 關鍵字詞根與統計、商品推廣方案分析、競品分析、銷售預測、庫存預測。\n\nThis course will introduce the technological application of artificial intelligence in various business forecasts to help students understand the current status of various applications of AI in business forecasts.\nThe teaching objectives required for cultivating talents in this course planning include:\n(1) Students are able to use python to write various business intelligence programs, including using pandas modules for business data analysis and visualization. Use numpy, sklearn machine learning module to handle regression analysis problems. Use keras modules for business forecasting applications of deep learning.\n(3) Implement a variety of business forecast topics.",
+    "schedule": "第 1 週：人工智慧跨域商情預測各種應用的內容與現況，包括：市場需求預測、市場供應預測、市場供求動態預測、企業市場佔有率預測、以及市場價格預測等。\n第 2 週：人工智慧第 1 步：資料分析之數據截取與查詢（pandas-1）\n第 3 週：資料分析之數據新增修改與計算（pandas-2）\n第 4 週：資料分析之數據分析與視覺化（pandas-3）\n第 5 週：人工智慧第 2 步：機器學習：使用 numpy 模組來學迴歸分析\n第 6 週：機器學習：使用 sklearn 模組來建立線性 / 非線性迴歸模型\n第 7 週：機器學習：使用 sklearn 模組來建立多元線性迴歸模型\n第 8 週：期中考\n第 9 週：分類問題的機器學習：建立邏輯斯模型 (logistic regression model) 來預測二元分類問題\n第 10 週：使用 numpy，sklearn 模組來學迴歸分析的機器學習技術\n第 11 週：人工智慧第 3 步：深度學習：使用 keras 模組來進行人工智慧預測（1）\n第 12 週：深度學習：使用 keras 模組來進行人工智慧預測（2）\n第 13 週：專案實作：電商數據分析、市場佔有率分析\n第 14 週：專案實作：市場趨勢分析、細分市場分析\n第 15 週：專案實作：消費者需求分析、店鋪數據化運營的 SEO 關鍵字詞根與統計\n第 16 週：專案實作：銷售預測、庫存預測\n第 17 週：專案實作：用戶流失預測\n第 18 週：期末考\n\n這門課全程寫程式，請同學們上課要繫帶筆記本電腦",
+    "scorePolicy": "1. 上課分數：25%\n2. 作業分數：25%\n3. 期中考：25%\n4. 期末考：25%\n\n這門課全程寫程式，請同學們上課要繫帶筆記本電腦",
+    "materials": "1. 自編教學網站：\n（1）https://acupun.site/lecture/predict/\n（2）https://acupun.site/lecture/pandas\n\n2. 參考書目：\n（1）Python 商業數據分析：零售和電子商務案例詳解，作者： 零一，電子工業出版社\n（2）一行指令學 Python－用 Pandas 掌握商務大數據分析 ，作者： 徐聖訓   ，出版社：全華圖書\n（3）一行指令學 Python：用機器學習掌握人工智慧， 徐聖訓 ，全華圖書\n（4）商用大數據分析，梁直青，全華圖書",
+    "consultation": "1. 可以在 office hours 時段來諮詢 (科研大樓 537 室) 2. 可以在北科 i 學園 PLUS 平台，觀看上課錄影 3. 老師的 email：ccw@ntut.edu.tw",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 同學們上課要繫帶筆記本電腦因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 若因疫情而暫停實體上課時，將使用學校的 Microsoft Teams 課程名稱",
+    "foreignLanguageTextbooks": false
+  }
+]
