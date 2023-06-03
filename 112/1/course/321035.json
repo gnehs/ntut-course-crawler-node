@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "紀乃文",
+    "email": "nwchi@ntut.edu.tw",
+    "latestUpdate": "2023-06-02 12:49:20",
+    "objective": "土木工程涵蓋範圍廣泛，本課程主要著重於工程軟體之應用，務使學生熟悉 1. 結構設計各步驟之計算方式及其電腦程式之使用方法.2. 教授學生自行準備輸入程式資料，並操件以求取結果.3. 根據學生之電腦輸出結果或操作中之偵錯方法及結果正誤之研判方法。\nThis course will provide students with the computational fundamental skills necessary to plan and schedule the entire construction process and familiarize them using computer software packages. The student may utilize computational programming to solve problems.",
+    "schedule": "1\tCourse introduction\n2\tIntroduction to BIM and Revit API: Basic settings for IDE and Revit API\n3\tIntroduction to C# programming language: Standard IO and windows form\n4\tIntroduction to C# programming language: Variables\n5\tIntroduction to C# programming language: Control flow \n6\tIntroduction to C# programming language:Array and containers \n7\tIntroduction to C# programming language: Loop \n8\tIntroduction to C# programming language: Function\n9\tTerm project proposal presentation\n10\tIntroduction to C# programming language: Object Oriented Programming(1)\n11\tIntroduction to C# programming language: Object Oriented Programming(2)\n12\tRevit API implementation: Access the parameters in BIM model\n13\tRevit API implementation: Data exchange between BIM model and database\n14\tRevit API implementation: Create/Modify components for BIM model(1)\n15\tRevit API implementation: Create/Modify components for BIM model(2)\n16\tFinal presentation",
+    "scorePolicy": "作業 Assignments (40%)\n課堂練習 Lab Exercise (30%) \n期末專題（需以英文上台發表） Term Project (30%)",
+    "materials": "Autodesk (2017), Revit API Developers Guide, <available: http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42 >",
+    "consultation": "nwchi@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  }
+]

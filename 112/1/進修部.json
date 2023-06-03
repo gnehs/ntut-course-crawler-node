@@ -2466,7 +2466,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=460",
+        "code": "460"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2827,7 +2833,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322278&code=12092"
+    ]
   },
   {
     "code": "1420002",
@@ -4130,7 +4138,9 @@
     "language": "　",
     "notes": "電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402092",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322308&code=12451"
+    ]
   },
   {
     "code": "4403053",
@@ -4181,7 +4191,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403053",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322309&code=12451"
+    ]
   },
   {
     "code": "4403058",
@@ -5748,7 +5760,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205048",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322538&code=10391"
+    ]
   },
   {
     "code": "4205064",
@@ -8633,7 +8647,9 @@
     "language": "　",
     "notes": "核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322998&code=11726"
+    ]
   },
   {
     "code": "7305014",
@@ -8810,7 +8826,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "日職合開；英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405138",
     "syllabusLinks": [
@@ -9398,6 +9414,7 @@
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235012",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323232&code=11985",
       "ShowSyllabus.jsp?snum=323232&code=11729",
       "ShowSyllabus.jsp?snum=323232&code=11982"
     ]
@@ -10354,7 +10371,9 @@
     "language": "　",
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323248&code=24471"
+    ]
   },
   {
     "code": "C225005",
@@ -10643,6 +10662,7 @@
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235012",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323254&code=11985",
       "ShowSyllabus.jsp?snum=323254&code=11729",
       "ShowSyllabus.jsp?snum=323254&code=11982"
     ]
@@ -11130,7 +11150,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400098",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323268&code=23306"
+    ]
   },
   {
     "code": "1404006",
@@ -14024,7 +14046,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=460",
+        "code": "460"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14052,6 +14080,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
+        "code": "2639"
+      },
+      {
         "name": "資財三乙",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2759",
         "code": "2759"
@@ -14077,7 +14110,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓235",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=465",
+        "code": "465"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14204,59 +14243,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03038",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323757&code=12391"
-    ]
-  },
-  {
-    "code": "AB03040",
-    "description": {
-      "zh": "本課程旨在教授學生瞭解雲端環境及物聯網系統架構並進一步教授雲端環境及物聯網安全需求，課程內容除介紹雲端環境及物聯網系統的基本概念外，亦將由 OWASP 的雲端安全及物聯網安全的重點進行說明，培養學生有能力分析雲端及物聯網環境中的各式潛在安全威脅，並具備設計與實作具安全防護能力的雲端及物聯網系統。",
-      "en": "This course aims to teach students to understand the cloud environment and IoT system architecture. Furthermore, the teach of the cloud environment and IoT security requirements are also introduced. In addition to introducing the basic concepts of cloud environment and IoT system, the course content will also include OWASP cloud security and IoT security. The main objective is on developing students' ability to analyze various potential security threats in the cloud and IoT environments, as well as cloud and IoT systems that are designed and implemented with security protection capabilities."
-    },
-    "id": "323758",
-    "name": {
-      "zh": "雲端與物聯網安全",
-      "en": "Cloud and IoT Security"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
-        "code": "2639"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林敬皇",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12391",
-        "code": "12391"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "7",
-        "8",
-        "9"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "資財三四甲乙和資財所、電資資安和創新資安合開 / 科研 2",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03040",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323758&code=12391"
     ]
   },
   {
@@ -14411,7 +14397,9 @@
     "language": "　",
     "notes": "限 21 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3003078",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323767&code=23072"
+    ]
   },
   {
     "code": "3635016",
@@ -15002,7 +14990,9 @@
     "language": "　",
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4506201",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323884&code=11083"
+    ]
   },
   {
     "code": "4505602",
@@ -15654,7 +15644,9 @@
     "language": "　",
     "notes": "體適能甲",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1003002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323996&code=23766"
+    ]
   },
   {
     "code": "1410082",
@@ -15910,7 +15902,9 @@
     "language": "　",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410219",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324004&code=23331"
+    ]
   },
   {
     "code": "1410167",
@@ -16218,7 +16212,9 @@
     "language": "　",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324010&code=22058"
+    ]
   },
   {
     "code": "1411015",
@@ -16849,6 +16845,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324144&code=11985",
+      "ShowSyllabus.jsp?snum=324144&code=12439",
       "ShowSyllabus.jsp?snum=324144&code=12148"
     ]
   },
@@ -17554,7 +17552,9 @@
     "language": "　",
     "notes": "中分署上課；場地因素，僅提供攜四車一同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324244&code=24507"
+    ]
   },
   {
     "code": "1401041",
@@ -17917,7 +17917,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504505",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324295&code=10870"
+    ]
   },
   {
     "code": "5211445",
@@ -18021,7 +18023,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105024",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324298&code=11905"
+    ]
   },
   {
     "code": "5105001",
@@ -18284,7 +18288,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "日職合開；英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405178",
     "syllabusLinks": [
@@ -19374,7 +19378,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324458&code=24216"
+    ]
   },
   {
     "code": "3871107",
@@ -19728,7 +19734,9 @@
     "language": "　",
     "notes": "設計館 301 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3861219",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324496&code=12435"
+    ]
   },
   {
     "code": "4006005",
@@ -20480,6 +20488,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
+        "code": "2639"
+      },
+      {
         "name": "資財三乙",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2759",
         "code": "2759"
@@ -20531,6 +20544,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
+        "code": "2639"
+      },
+      {
         "name": "資財三乙",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2759",
         "code": "2759"
@@ -20576,6 +20594,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
+        "code": "2639"
+      },
+      {
         "name": "資財三乙",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2759",
         "code": "2759"
@@ -20601,7 +20624,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=460",
+        "code": "460"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20629,6 +20658,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
+        "code": "2639"
+      },
+      {
         "name": "資財三乙",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2759",
         "code": "2759"
@@ -20664,7 +20698,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓243",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=462",
+        "code": "462"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20672,169 +20712,10 @@
     "notes": "資財三四甲乙合開 / 科研 243",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03061",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324566&code=11985",
       "ShowSyllabus.jsp?snum=324566&code=12173",
       "ShowSyllabus.jsp?snum=324566&code=12342"
     ]
-  },
-  {
-    "code": "AB03061",
-    "description": {
-      "zh": "本課程將從不同的金融服務領域應用幫助同學瞭解數位金融的發展以及生成式 AI 於金融科技之應用。本課程之教學目標包括：(1) 人工智慧跨域應用金融產品企劃與數位行銷：掌握虛擬通路與實體通路的差異與整合應用，導入通用式人工智慧搭配合適的使用者介面與體驗設計；(2) 智慧金融科技素養與創新應用：關注大數據、雲端運算、物聯網與人工智慧的各種創新應用，並了解機器學習於資金管理之應用與人工智慧於量化交易之應用；(3) 生成式 AI 導入與開發：透過課程整合微軟 Azure Open AI 雲端服務資源，讓學生具有導入 ChatGPT 及聊天機器人開發能力，並連結創新創業課程建立明確創業目標，導入跨領域創業課程，養成專業職能和研發實力，進而了解金融產業在數位轉型中，所面臨的困難與挑戰。",
-      "en": "英文概述English Description \tThis course will help students understand the development of digital finance and the application of generative AI in financial technology from different financial service applications. The objectives of this program include: (1) Financial product planning and digital marketing; (2) Intelligent financial technology literacy and innovative applications; (3) Generative AI Introduction and Development: Integrate Microsoft Azure Open AI cloud service resources through the course to provide students with the ability to introduce ChatGPT and chat robot development, and link to innovative entrepreneurship courses to establish clear entrepreneurial goals and introduce cross-disciplinary entrepreneurship courses to develop professional functions and R&D capabilities."
-    },
-    "id": "324571",
-    "name": {
-      "zh": "人工智慧跨域金融之應用",
-      "en": "AI Applications in Finance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
-        "code": "2639"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳牧恩",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11985",
-        "code": "11985"
-      },
-      {
-        "name": "鄭麗珍",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12173",
-        "code": "12173"
-      },
-      {
-        "name": "鍾建屏",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12342",
-        "code": "12342"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "8",
-        "9",
-        "A"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "資財三四甲乙合開 / 科研 243",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03061",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324571&code=12173",
-      "ShowSyllabus.jsp?snum=324571&code=12342"
-    ]
-  },
-  {
-    "code": "AB03064",
-    "description": {
-      "zh": "本課程在使學生了解各種不同的資訊科技 (Information Technology) 與管理資訊系統間的關連性，並結合金融企業導入產業議題，實際應用所教授的 IT 技術進行學術研究。藉由 IT 技術的應用演練，讓學生將實際進行問題分析、模型發展、系統開發、模擬實驗及最後的研究結論與模型驗證。提升學生獨立思考與解決問題之能力，培養科學的態度與學術研究的知識。",
-      "en": "This course is to enable students to understand the relationship between various Information Technology and management information systems, and cooperate with financial companies to introduce industrial topics, and actually apply the IT technology taught for academic research. Through the application and exercise of IT technology, students will actually carry out problem analysis, model development, system development, and simulation experiments. At last, students can summarize research conclusions and model validation. Thus, students can improve their independent thinking and problem-solving ability, and further cultivate their scientific attitude and academic research knowledge."
-    },
-    "id": "324572",
-    "name": {
-      "zh": "金融教育分析與邏輯思維",
-      "en": "Financial education analytics and logical thinking"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
-        "code": "2639"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "王貞淑",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11505",
-        "code": "11505"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "資財三四甲乙和資財所合開 / 先鋒 603",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03064",
-    "syllabusLinks": []
-  },
-  {
-    "code": "AB03065",
-    "description": {
-      "zh": "「新興支付應用暨產業發展」是一門探討現今支付產業趨勢的課程，課程內容包括了第三方電子支付、行動支付、跨領域支付應用、先買後付（Buy Now Pay Later, BNPL）及加密貨幣支付等。同時課程也會探討其產業發展脈絡、業者策略及監管等相關議題",
-      "en": "This course explores current payment industry trends. The course content includes third-party electronic payments, mobile payments, cross-domain payment applications, Buy Now Pay Later (BNPL), and encrypted currency payments. At the same time, the course will also explore related issues such as industry development context, operator strategies, and regulation."
-    },
-    "id": "324573",
-    "name": {
-      "zh": "新興支付應用暨產業發展",
-      "en": "Emerging Payment Applications and Industry Development"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
-        "code": "2639"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "B",
-        "C",
-        "D"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "資財三四甲乙合開 / 六教 627",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03065",
-    "syllabusLinks": []
   },
   {
     "code": "AB03066",
@@ -20878,7 +20759,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=460",
+        "code": "460"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20887,59 +20774,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03066",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324574&code=12439"
-    ]
-  },
-  {
-    "code": "AB03067",
-    "description": {
-      "zh": "瞭解資料庫安全運作基本概念，熟悉資料庫系統安全各項技巧，奠定學生學習分散式動態資料庫系統之管理與安全能力。並配合範例及實務演練，培養實際進階應用能力。",
-      "en": "Understand the basic concepts of database security operation, familiarise yourself with database system security techniques, and lay the foundation for students to learn the management and security capabilities of distributed dynamic database systems. And cooperate with examples and practical exercises to cultivate advanced practical application ability."
-    },
-    "id": "324575",
-    "name": {
-      "zh": "資料庫安全實務",
-      "en": "Database Systems Security Practices"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
-        "code": "2639"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林敬皇",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12391",
-        "code": "12391"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "8",
-        "9",
-        "A"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "資財三四甲乙和資財所合開 / 科研 240",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03067",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324575&code=12391"
     ]
   },
   {

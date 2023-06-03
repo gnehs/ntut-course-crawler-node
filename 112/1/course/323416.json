@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "李泳霆",
+    "email": "ytl821@gmail.com",
+    "latestUpdate": "2023-06-02 23:54:17",
+    "objective": "先修課程：負責教授同意\n基本觀念及其領域、非線性代數之數值解法、聯立方程式之數值解、多項式內外插、微分、積分、常微分方程、起始、邊界值問題之數值解法。\nFundamental Concepts and Its Scope, Numerical Solution of Nonlinear Algebraic Equations and Sets of Equations, Interpolating Polynomials, Numerical Differentiation and Numerical Integration, Numerical Solution of Ordinary Differential Equations, Numerical Solution of Boundary-Value\nProblems and Initial-Value Problems.",
+    "schedule": "第 01 週：課程介紹 與 認識 MATLAB\n\n第 02-04 週：Fitting functions to Data:\n(1) Polynomial Interpolation,\n(2) Lagrange Interpolation,\n(3) Newton Polynomial Interpolation,\n(4) Hermite Interpolating Polynomial\n\n第 05-08 週：Linear Equations and Eigensystems\n(1) Gauss Elimination Method,\n(2) Gauss-Jordan Method,\n(3) LU Decomposition,\n(4) QR Decomposition,\n(5) Singular Value Decomposition,\n(6) The Eigenvalue problem\n\n第 09 週 期中考 Midterm\n\n第 10-11 週：Solution of Nonlinear Equations\n(1) Bisection Method,\n(2) Newton-Raphson Method,\n(3) Secant Method\n\n第 12-13 週：Solution of Ordinary Differential Equations\n(1) Euler's Method,\n(2) Range-Kutta Method\n\n第 14-15 週 Boundary Value Problems: Finite Difference Method\n\n第 16 週 Numerical Differentiation\n\n第 17 週 Integration:\n(1) Trapezoidal Rule,\n(2) Simpson's Rule,\n(3) Gaussian Quadrature\n\n第 18 週 Final exam 期末考\n\n(課程實際進度：依學習狀況再做調整)",
+    "scorePolicy": "隨堂測驗（２次）：４０%。\n期中考：３０％。\n期末考：３０％。",
+    "materials": "上課教材：\n1. 自編教材。\n2. 「Numerical Method (using MATLAB)」，G. R. Lindfield and J. E. T. Penny。(Third Edition) ISBN 978-0-12-386942-5.\n\n參考書目：\n1. 「Applied Numerical Methods with MATLAB for Engineers and Scientists」, Steven C. Chapra, 4th Edition, McGraw-Hill Education, 2018, \tISBN: 978-1-260-08325-5.\n2.「數值分析：使用Ｃ語言」，簡聰海 著，5/e。ISBN 9865031248.",
+    "consultation": "e-mail: ytl@ntut.edu.tw",
+    "remarks": "以實體授課為原則；若因疫情嚴重而暫停實體上課時，將使用 Google Meet 視訊上課。",
+    "foreignLanguageTextbooks": true
+  }
+]
