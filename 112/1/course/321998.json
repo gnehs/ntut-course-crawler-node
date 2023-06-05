@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蔣政諺",
+    "email": "dcychiang@ntut.edu.tw",
+    "latestUpdate": "2023-06-05 02:00:16",
+    "objective": "神經網路之簡介、直傳式神經網路、監督式學習、非監督式學習、回傳式神經網路、神經網路之結構分析、學習方式分析神經網路之應用。\nIntroduction to Networks, Feedback Neutral Networks ,Supervised Learning, Unsupervised Learning, Recurrant Neural Networks, Structure Analysis of Neural Networks, Analysis of Learning Methods, Applications of Neural Networks.",
+    "schedule": "1. 簡介 (Introduction to neural networks)\n2. 決策理論圖形式別 (Decision-theoretic pattern recognition)\n3. 感知器 (Perceptron)\n4. 多層感知器 (Multilayer perceptron)\n5. 輻射基地函數網路 (Radial basis function network, RBF)\n6. 支持向量分類器 (Support vector machine, SVM)\n7. 自我組織類神經網路 (Kohonen's self-organizaing neural network)\n8. 主分量類神經網路 (Pricipal component neural network)\n9. 霍普菲爾德神經網絡 (Hopfield neural network)\n10. 蜂巢式類神經網路 (Cellular neural network)\n11. 漢明類神經網路 (Hamming neural network)\n12. 自適應共振理論網絡 (Adaptive resonance theory network, ART)",
+    "scorePolicy": "作業與說明 (Assignment and Report): 60%\n期中考 (Midterm examination): 20%\n期末報告 (Final report): 20%",
+    "materials": "[1] 黃國源，\"類神經網路 Neural network,\" 全華 2015.\n[2] Raschka, Sebastian, and Vahid Mirjalili. \"Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2.\" Packt Publishing Ltd, 2019.\n[3] Nielsen, Michael A. \"Neural networks and deep learning.\" Vol. 25. San Francisco, CA, USA: Determination press, 2015.",
+    "consultation": "Email: dcychiang@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  }
+]

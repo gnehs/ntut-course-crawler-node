@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "古瓊昇",
+    "email": "johnsonku@ntut.edu.tw",
+    "latestUpdate": "2023-06-03 11:03:36",
+    "objective": "線性電路；電算放大器；二極體；非線性電路應用；接面場\n效電晶體（JFET）；金屬氧化物半導體場效電晶體 (MOSFET)\n；雙極性接面電晶體（BJT）；差動放大器；多級放大器。金\n氧半電晶體；雙接面電晶體；差動及多極放大器；功率放大\n器；頻率響應；回授；類比積體電路；濾波器；調諧放大器\n；振盪器。\nCourse Title:Electronics and Electronics Lab.\nDescription:The properties of semiconductor and fabrication of a PN\ndiode and BJT, and their characteristics are explained. Part 2\nconcentrates on analog circuit and system. Method of biasing a\ndiscrete BJT or EET are given, and stability of the operating point is\ndiscussed. The small-signal model for each device is abstained and used\nto calculate the performance of low frequency single stage and\ncascaded amplifiers. The feedback concepts of AMP. OP AMP, its\ncharacteristics and applications are described.",
+    "schedule": "Week 1-2: Circuit Analysis Fundamentals\nIntroduction to current, voltage, and resistance\nOhm's law\nKirchhoff's voltage and current laws\nCircuit analysis techniques for series and parallel circuits\n\nWeek 3-4: Diode Components and Circuits\nIntroduction to diodes and their basic principles\nPN junction and diode I-V characteristics\nDiode applications (rectifiers, amplifiers, switches)\n\nWeek 5-6: BJT Circuits\nIntroduction to Bipolar Junction Transistors (BJTs)\nBJT operation principles and I-V characteristics\nBJT amplifier circuits (common emitter, common collector, common base)\n\nWeek 7-8: FET Components and Circuits\nIntroduction to Field-Effect Transistors (FETs)\nFET operation principles and I-V characteristics\nFET amplifier circuits (common source, common drain, common gate)\n\nWeek 9: Midterm exam\n\nWeek 10: Current Mirrors\nPrinciples and applications of current mirrors\nStability and current distribution in current mirrors\n\nWeek 11-12: Integrated Single-Stage Amplifiers\nBasic principles and structures of integrated single-stage amplifiers\nCommon integrated single-stage amplifier circuits\n\nWeek 13-14: Differential Amplifiers\nPrinciples and structures of differential amplifiers\nCommon-mode rejection and differential gain in differential amplifiers\n\nWeek 15-16: Power Amplifiers\nBasic concepts and classifications of power amplifiers\nCommon power amplifier circuits (Class A, Class B, Class AB)\n\nWeek 17: Frequency Response Basics, Amplifier Frequency Response, and Feedback Amplifiers\nIntroduction to frequency response and analysis techniques\nFrequency response analysis and design of amplifiers\nIntroduction to feedback amplifiers and their types, stability\n\nWeek 18: Final Exam",
+    "scorePolicy": "期中考               30%\n期末考               30%\n平時成績及作業 40%",
+    "materials": "Adel S. Sedra , Kenneth C. (KC) Smith , Tony Chan Carusone , and Vincent Gaudet,\"Microelectronic Circuits, 8/e,\" Oxford University, 2020",
+    "consultation": "Office hour or making an appointment by email",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

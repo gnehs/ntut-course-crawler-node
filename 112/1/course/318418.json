@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "古瓊昇",
+    "email": "johnsonku@ntut.edu.tw",
+    "latestUpdate": "2023-06-03 11:43:27",
+    "objective": "數位訊號處理實習課程包含原理講述及如何在電腦上實作：\n1. 信號與系統說明 (Signal and System)\n2. Z 轉換 (Z-transfom)\n3. 摺積 (convolution)\n4. 取樣 (Sampling)\n5. 離散傅立葉轉換 DFT (Discrete Fourier Transform)\n6. 轉換 (Transform)\n7. 濾波器架構 (Filter Structure)\n8. 有限沖激響應濾波器 (FIR)\n9. 無限沖激響應濾波器 (IIR)\n10. Applications in adaptive noise cancellation, echo cancellation, system identification\n11. Applications in Communications\nIntroduction to digital communications\nModulation and demodulation techniques\nDigital filters in communication systems",
+    "schedule": "Week 1: Introduction to Digital Signal Processing and Discrete-Time Signals and Systems\nWeek 2-3: The Discrete-Time Fourier Analysis\nWeek 4-5: The Z-Transform\nWeek 6-7: The Discrete Fourier Transform\nWeek 8-9: Implementation of Discrete-Time Filters\nWeek 10-11: FIR Filter Design\nWeek 12-13: IIR Filter Design\nWeek 14-15: Sampling Rate Conversion\nWeek 16-17: Round-Off Effects in Digital Filters\nWeek 18: Applications in Adaptive Filtering and Communications",
+    "scorePolicy": "Assignment 100%",
+    "materials": "Vinay K. Ingle , John G. Proakis, \"Essentials of Digital Signal Processing Using MATLAB, 3/e,\" Cengage Learning, 2011",
+    "consultation": "Office hour or making an appointment by email",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

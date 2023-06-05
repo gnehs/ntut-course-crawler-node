@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "古瓊昇",
+    "email": "johnsonku@ntut.edu.tw",
+    "latestUpdate": "2023-06-03 11:15:39",
+    "objective": "本課程涵蓋以下主題：\n1. 數字的進制轉換以及二進制表示方式\n2. 布林代數式與函數\n3. 數位電路化簡技巧，如卡諾圖與製表法\n4. 組合邏輯電路，如：加法器 / 減法器、比較器、多工器、邊 / 解碼器\n5. 可編程邏輯電路，如：唯讀記憶體 / 可編程唯讀記憶體（ROM / PROM）、可編程邏輯電路（PLD）、可編程邏輯陣列（PLA）\n6. 順序邏輯電路，如：狀態機\nThis course covers the following topics:\n1. Number representation, number bases and base conversions, and binary codes\n2. Boolean algebra and functions, canonical forms\n3. Combinational design techniques: K-maps, tabulation method\n4. Combinational logic circuits: adders/subtractors, comparators, multiplexors/demultiplexors, and decoders/encoders\n5. Programmable logic circuits: read-only memory/programmable read-only memory (ROM/PROM), programmable logic devices (PLD), and programmable logic arrays (PLA)\n6. Sequential logic circuits: state machine",
+    "schedule": "Week 1: Introduction to Number Systems and Conversions\nWeek 2-3: Boolean Algebra\nWeek 4: Applications of Boolean Algebra: Minterm and Maxterm Expansions\nWeek 5-6: Karnaugh Maps\nWeek 7-8: Quine-McCluskey Method\nWeek 9: Midterm Exam\nWeek 10-11: Multi-Level Gate Circuits: NAND and NOR Gates\nWeek 12-13: Combinational Circuit Design and Simulation using Gates\nWeek 14-15: Multiplexers, Decoders, and Programmable Logic Devices\nWeek 16-17: Sequential Circuit Design, State Machine Design with State Machine Charts\nWeek 18: Final Exam",
+    "scorePolicy": "期中考               30%\n期末考               30%\n平時成績及作業 40%",
+    "materials": "Charles H. Roth, Jr. , Larry L. Kinney , Eugene B. John, \"Fundamentals of Logic Design Enhanced, 7/e,\" Pearson FT Press, 2020",
+    "consultation": "Office hour or making an appointment by email",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
