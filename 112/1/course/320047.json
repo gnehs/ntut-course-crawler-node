@@ -2,12 +2,12 @@
   {
     "name": "孫勤昱",
     "email": "cysun@ntut.edu.tw",
-    "latestUpdate": "2023-06-07 09:21:36",
-    "objective": "透過原理解說與系統實作，使學生熟悉物件導向設計原理及 C++ 進階程式設計技術，內容含：\n1. C++ 物件模型 \n2. 類別與物件\n3. 建構者與解構者 \n4. 繼承 \n5. 虛擬函式與多型 \n6. 運算子溢載 \n7. 例外處理 \n8. 泛型程式設計\n9. 標準模板程式庫 \n10. 期末考試\n\nTo familiarize the student with an overview of the object-oriented programming (OOP) paradigm and advanced techniques of the C++ language. Topics include: \n1. C++ Object Model \n2. Classes and Objects \n3. Constructors and Destructors \n4. Inheritance \n5. Virtual Functions and Polymorphism \n6. Operator Overloading \n7. Exceptions \n8. Generic Programming \n9. Standard Template Library \n10. Final exam",
-    "schedule": "1 C++ Basics (1  week)\n2 Parameters and Overloading (1 week)\n3 Structures and Classes; Separate Compilation (3 weeks)\n4 Constructors and Other Tools  (1 weeks)\n5 Operator Overloading, Friends, and References  (1.5 week)\n6 Standard Template Library (1 week)\n7 Strings (0.5 week)\n8 Pointers and Dynamic Arrays (1 week)\n9 Namespaces (0.5 week)\n10 Streams and File I/O (0.5 week)\n11 Inheritance (2 week)\n12 Polymorphism and Virtual Functions (2 weeks)\n13 Templates (1 week)\n14 Exception Handling (1 week)",
-    "scorePolicy": "1. 參與本課程的同學需要具備程式能力，沒通過計算機程式設計 (一)、計算機程式設計 (二) 的同學不建議修課。\n2. 本課程嚴格禁止抄襲與作弊之行為，若發現類似行為，該作業或本課程將視情節以零分計處。\n3. 課程共有每周或是雙周作業、預計 1 次期中考試 (視課程進度調整)、一次期末考試，考試包含手寫測驗與上機測驗。\n4. 課程評量以下為準則課堂互動 10%、作業 30%、期中考試 30%、期末考試 30%。除有特殊狀況，不再進行調整。",
-    "materials": "(主) 教科書 Absolute C++ 6/e\n(輔) 國際期刊論文、網路資料",
-    "consultation": "教師 Email: cysun@ntut.edu.tw 助教 Email: pending...",
+    "latestUpdate": "2023-06-08 16:40:26",
+    "objective": "這門課將提供學生物件導向設計原理的基礎知識，並加強他們在 C++ 程式設計方面的能力。修習這一門課的學生必須要先有具備程式設計的能力，建議先修習計算機程式設計（I）與計算機程式設計（II）。學生將學習如何利用物件導向的角度撰寫設計要求，同時撰寫單元測試以利於保證軟體品質，學生可從單元測試中監控測試覆蓋率，以利於設計測試案例。同時，這一門課將介紹如何使用 Git 進行版本控制，使用 GitLab 和 Jenkins 進行持續整合（CI）。透過理論講解和實作練習，學生將熟悉物件導向設計原則和 C++ 程式設計，並能夠在開發過程中運用單元測試、Git 和 Jenkins 等工具來提升程式品質和效率。",
+    "schedule": "1. Introduction to OOP and C++ Basic\n2. Get started with the HelloWorld Examples\n3. Familiar with Unit Test.\n4. Knowing Class and constructor\n5. Member function for class and Handling Exception\n6. Familiar with copy constructor and copy assignment\n7. Address of operator v.s. Reference\n8. Default /delete constructor and test fixture.\n9. The left right issue\n10. Vector\n11. Inheritance & virtual function\n12. Constructor in drived class & Polymorphism\n13. Sort\n14. Constant member\n15. virtual destructor and memory leak\n16. Factory design pattern, class template and function template\n17. String and File handling\n\n課程進度僅供參考，實際上可能因課程 Schedule 而微調。",
+    "scorePolicy": "1. 本課程鼓勵學生於課後進行讀書會等形式討論，但嚴格禁止抄襲與作弊之行為，若發現類似行為，該作業或本課程將視情節以零分計處。\n2. 課程共有每周或是雙周作業、預計 1 次期中考試（視課程進度調整）、一次期末考試，考試包含手寫測驗與上機測驗。\n3. 課程評量以下為準則：平時成績 10%、作業 30%、期中考試 30%、期末考試 30%。除有特殊狀況，不再進行調整。",
+    "materials": "（主）教科書 Absolute C++ 6/e\n（輔）國際期刊論文、網路資料",
+    "consultation": "教師（孫勤昱）: cysun@ntut.edu.tw 助教（黃漢軒）: t109590031@ntut.org.tw",
     "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": true
   }
