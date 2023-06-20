@@ -2674,24 +2674,18 @@
     ],
     "time": {
       "sun": [],
-      "mon": [
-        "6",
-        "7",
-        "8"
-      ],
+      "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "2",
+        "3",
+        "4"
+      ],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "土木201",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=382",
-        "code": "382"
-      }
-    ],
+    "classroom": [],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3090,7 +3084,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=43",
+        "code": "43"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
