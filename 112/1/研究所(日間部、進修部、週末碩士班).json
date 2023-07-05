@@ -17841,9 +17841,9 @@
         "code": "24395"
       },
       {
-        "name": "陳彥君",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=24471",
-        "code": "24471"
+        "name": "林雅惠",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12390",
+        "code": "12390"
       }
     ],
     "time": {
@@ -17866,9 +17866,7 @@
     "language": "　",
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323248&code=24471"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "C225005",
@@ -34281,6 +34279,58 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C717001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324812&code=10458"
+    ]
+  },
+  {
+    "code": "C727001",
+    "description": {
+      "zh": "專題演講或書報討論",
+      "en": "In this course, we will invite speakers from the academia, industry and government to lectures on topics in computer science and information engineering."
+    },
+    "id": "324815",
+    "name": {
+      "zh": "專題討論",
+      "en": "Graduate Seminars"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2964",
+        "code": "2964"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "孫勤昱",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12387",
+        "code": "12387"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "博士班",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C727001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324815&code=12387"
     ]
   }
 ]
