@@ -26018,69 +26018,6 @@
     ]
   },
   {
-    "code": "7305082",
-    "description": {
-      "zh": "半導體晶片封裝及微電子元件構裝技術是將積體電路和其它電元件，依設計聯結在一系統中，再以構裝材料將晶片、基座及釘架封包。本課程將介紹陶瓷構裝和高分子構裝、及其相關技術、與工業現況。",
-      "en": "Semiconductor chip packaging and microelectronic packaging is the critical technology to allow the chips be incorporated into an individual protective package, mounted with other components in hybrid or multichip modules, or connected directly onto a printed circuit board. This course will introduce both ceramic packaging and polymer packaging and their corresponding technology."
-    },
-    "id": "323959",
-    "name": {
-      "zh": "半導體構裝技術",
-      "en": "Semiconductor and Microelectronic Packaging Technology"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "化工所",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2945",
-        "code": "2945"
-      },
-      {
-        "name": "能源光電外國學生專班",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2968",
-        "code": "2968"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "楊重光",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10786",
-        "code": "10786"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "8",
-        "9"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "化工101",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=399",
-        "code": "399"
-      }
-    ],
-    "people": "5",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "EMI 網路預選限 15 人；化工所和 EOMP 合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7305082",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323959&code=10786"
-    ]
-  },
-  {
     "code": "5105036",
     "description": {
       "zh": "課程內容主要介紹無機化學研究過程中﹐所使用的各種物理方法。首先介紹光譜學之基本原理。隨後將較深入的探討應用在無機化學與固體材料上的各種光譜技術。包括：各種吸收光譜、核磁共振光譜、電子順磁共振光譜、Ｘ光吸收光譜及Ｘ光繞射等應用於化學之常用分析技術﹐也都包括在課程討論範圍之內。",
@@ -30553,13 +30490,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教508",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=65",
-        "code": "65"
-      }
-    ],
+    "classroom": [],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34331,6 +34262,64 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C727001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324815&code=12387"
+    ]
+  },
+  {
+    "code": "4905567",
+    "description": {
+      "zh": "課程內容包括：生涯理念介紹、興趣、性格、價值觀探討、生涯決定因素、生涯技巧、生涯角色調適、生涯選擇與規劃技巧、生涯訪談、生涯高原調適、性別和職業歧視、雙生涯家庭、就業準備等主要生涯的研究與實作。",
+      "en": "In-depth study of research in career development and guidance. Topics include an introduction to career idea, the exploration of interest, personality, and view of value, decision making of career, techniques of career development, adjustment of career role, choice and planning of career, interview, adjustment of career highness, adjustment of changing role, discrimination of gender and job, a family of two career parents, job preparation."
+    },
+    "id": "324832",
+    "name": {
+      "zh": "生涯發展與輔導",
+      "en": "Career Development and Guidance"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2977",
+        "code": "2977"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林宜玄",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=21643",
+        "code": "21643"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "C",
+        "D"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=118",
+        "code": "118"
+      }
+    ],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324832&code=21643"
     ]
   }
 ]

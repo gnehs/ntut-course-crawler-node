@@ -4620,7 +4620,13 @@
         "code": "2881"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林煜善",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12003",
+        "code": "12003"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -4635,7 +4641,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "一教303",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=11",
+        "code": "11"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16045,7 +16057,9 @@
     "language": "　",
     "notes": "自然與科學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410167",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324005&code=22367"
+    ]
   },
   {
     "code": "1410054",
