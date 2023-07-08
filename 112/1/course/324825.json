@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "林世皓",
+    "email": "d95522037@ntu.edu.tw",
+    "latestUpdate": "2023-07-07 16:41:10",
+    "objective": "本課程介紹以 ARM CPU 為核心之嵌入式系統。內容包含：ARM CPU 基礎架構，ARM CPU 指令集，ARM 之 C 語言工具，ARM 發展環境，開發電路板，模擬器，Linux 驅動程式之撰寫及安裝，分散式網路架構，以及應用實例。\nThis course introduces small single-board computers serving as embedded systems and explains the architecture of X86 and ARM CPUs. This lecture will present the history of the ARM development environment, emulators, distributed network architectures, and industrial applications of ARM architecture. In the course, students learn to install Linux on development boards and write software to communicate with ARM processors. The exercises involve setting commands for the ARM cores and receiving signals from our embedded systems using C language tools.",
+    "schedule": "第 1 週\t課程大綱介紹，\n第 2 週\t認識 ROS\n第 3 週\tMatlab 基本介紹，ROS toolbox 說明\n第 4 週\t無人自走車基礎理論\n第 5 週\t無人自走車安全法規\n第 6 週\t初階實驗 - 建立自走車與 matlab 的連結\n第 7 週\t初階實驗 - 自走車的移動與停止\n第 8 週\t初階實驗 - 周圍環境的探測\n第 9 週\t期中測驗\n第 10 週\t無人自走車進階實驗 - 路線規劃\n第 11 週\t進階實驗 - 路線追蹤\n第 12 週\t進階實驗 - 避開障礙物\n第 13 週\t進階實驗 - 定位補償\n第 14 週\t進階實驗 - 柵格地圖建構 (一)\n第 15 週\t進階實驗 - 柵格地圖建構 (二)\n第 16 週\t進階實驗 - 自組巡航工作站 (一)\n第 17 週\t進階實驗 - 自組巡航工作站 (二)\n第 18 週\t期末測驗",
+    "scorePolicy": "期中測驗 (25%), 期末測驗 (25%), 點名 (25%) 無人自走車實驗 (25%)",
+    "materials": "結合 matlab 與 ros 快速上手無人自走車 - 林顯易與陳雙龍著",
+    "consultation": "class_shihhao@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  }
+]
