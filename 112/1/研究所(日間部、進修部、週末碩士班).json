@@ -11229,6 +11229,67 @@
     ]
   },
   {
+    "code": "6607004",
+    "description": {
+      "zh": "讀書報告、專題討論、機電科技相關技術及產品介紹與討論、Seminar 心得等，可重覆修習。",
+      "en": "Case Study, Workshop, Group discussion, Seminars, Mechatronics in Modern Industries."
+    },
+    "id": "322037",
+    "name": {
+      "zh": "專題討論",
+      "en": "Mechanical & Electric Technology Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2969",
+        "code": "2969"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11083",
+        "code": "11083"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
+    "people": "3",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "機電博、機電外生專班、機械自動化和能源與車輛外生班",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
+    "syllabusLinks": []
+  },
+  {
     "code": "7407002",
     "description": {
       "zh": "本課程之目標為增進研究生之英文閱讀能力與寫作技巧，介紹英文科技論文的慣用語法、用字與閱讀技巧及分析撰寫英文報告與學術論文之章法與組織要領。",
@@ -13222,7 +13283,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=41",
+        "code": "41"
+      }
+    ],
     "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13509,7 +13576,13 @@
         "6"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=45",
+        "code": "45"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13562,7 +13635,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=67",
+        "code": "67"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13731,7 +13810,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=45",
+        "code": "45"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13784,7 +13869,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教502",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=59",
+        "code": "59"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14856,7 +14947,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=67",
+        "code": "67"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14962,7 +15059,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教502",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=59",
+        "code": "59"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15015,7 +15118,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教311",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=51",
+        "code": "51"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15121,7 +15230,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=67",
+        "code": "67"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15333,7 +15448,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=117",
+        "code": "117"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15754,7 +15875,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15808,7 +15935,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15866,7 +15999,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15919,7 +16058,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15971,7 +16116,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=55",
+        "code": "55"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16024,7 +16175,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教406",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=54",
+        "code": "54"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16492,7 +16649,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教503",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=60",
+        "code": "60"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16544,7 +16707,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教503",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=60",
+        "code": "60"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16607,7 +16776,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16715,7 +16890,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "光華館409",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=512",
+        "code": "512"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19469,7 +19650,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教402",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=52",
+        "code": "52"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19863,7 +20050,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=55",
+        "code": "55"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19975,7 +20168,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=45",
+        "code": "45"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21966,7 +22165,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=55",
+        "code": "55"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22610,7 +22815,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教308",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=49",
+        "code": "49"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22731,6 +22942,62 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323723&code=11319"
     ]
+  },
+  {
+    "code": "4406001",
+    "description": {
+      "zh": "專題報告，專題演講，研究小組討論 Case Study, Seminar",
+      "en": "Case Study, Seminar"
+    },
+    "id": "323725",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2958",
+        "code": "2958"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11083",
+        "code": "11083"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "機電博、機電外生專班、機械自動化和能源與車輛外生班",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
+    "syllabusLinks": []
   },
   {
     "code": "4406112",
@@ -23110,7 +23377,13 @@
         "code": "2955"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11083",
+        "code": "11083"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -23123,7 +23396,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24983,7 +25262,7 @@
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4506201",
     "syllabusLinks": [
@@ -27620,7 +27899,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教509",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=66",
+        "code": "66"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30787,7 +31072,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30840,7 +31131,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=50",
+        "code": "50"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32891,7 +33188,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33221,7 +33524,13 @@
         "6"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=41",
+        "code": "41"
+      }
+    ],
     "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33272,7 +33581,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=45",
+        "code": "45"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33804,6 +34119,11 @@
     "hours": "3",
     "courseType": "★",
     "class": [
+      {
+        "name": "光電所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2943",
+        "code": "2943"
+      },
       {
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2949",
