@@ -894,7 +894,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "待聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504914",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=322183&code=24508"
@@ -21418,7 +21418,13 @@
         "code": "2759"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李震華",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=24519",
+        "code": "24519"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],

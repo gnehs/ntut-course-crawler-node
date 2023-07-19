@@ -5476,69 +5476,6 @@
     ]
   },
   {
-    "code": "5705106",
-    "description": {
-      "zh": "資訊管理是整合使用者和組織系統，用以提供一個組織之操作支援，管理分析，和決策功能。我們以學習資訊工作者的角色，幫助經理滿足組織目標， 以及了解資訊科技，使經理工作更容易順暢。學習主題：透過資訊系統獲取策略優勢、透過資訊系統應用，支持經理和執行、發展資訊科技應用、獲得競爭優勢。",
-      "en": "The need for information-based support for managers is increasing as the modern management imperatives of reach and to meet their organization's goals. Information management function provides information to support operations, management analysis, and decision- making functions in an organization. We will also look at the role in formation play in helping managers meet goals by examining the characteristics of information systems that make managers' job easier. Topic of learning: Acquiring strategic advantage through information systems. Supporting managers and executives through IS applications. Managing the risk inherent in developing and using IS applications. Attaining and practicing technological leadership."
-    },
-    "id": "321353",
-    "name": {
-      "zh": "資訊管理",
-      "en": "Information Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "經管所",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2938",
-        "code": "2938"
-      },
-      {
-        "name": "管理外國學生專班",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2948",
-        "code": "2948"
-      },
-      {
-        "name": "管理博所",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2966",
-        "code": "2966"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "張瑋倫",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12171",
-        "code": "12171"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "10",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "notes": "經管所、IMBA 和管理博班合開 / 823",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705106",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=321353&code=12171"
-    ]
-  },
-  {
     "code": "5705268",
     "description": {
       "zh": "資訊科技是整合策略，使用者和組織系統，幫助高階主管達成組織目標，以及了解資訊科技。本課程學習主題：透過資訊系統獲取策略優勢，透過資訊系統應用，支援管理和執行資訊科技應用，獲得競爭優勢。全課程以哈佛個案研討方式進行。",
@@ -7744,57 +7681,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=321630&code=24247"
     ]
-  },
-  {
-    "code": "6505025",
-    "description": {
-      "zh": "先修課程：負責教授同意。1. 晶體結構與晶體缺陷 2. 光電材料的種類 3. 材料的光電特性 4. 發光元件 5. 檢光元件 6. 各種光耦合器",
-      "en": "1.Crystal structures and defects 2.Optoelectronic aterials3.Optoelectronic 4.Light-emitting devices 5.Properties of materials 6.Optical couplers"
-    },
-    "id": "321632",
-    "name": {
-      "zh": "光電子學（一)",
-      "en": "Optoelectronics（Ⅰ）"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "光電所",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2943",
-        "code": "2943"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "億光1115",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=535",
-        "code": "535"
-      }
-    ],
-    "people": "6",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "英語授課，新聘，111 學年後入學新生修可抵光電科技概論，",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6505025",
-    "syllabusLinks": []
   },
   {
     "code": "6505034",
@@ -11287,7 +11173,9 @@
     "language": "英語",
     "notes": "機電博、機電外生專班、機械自動化和能源與車輛外生班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322037&code=11083"
+    ]
   },
   {
     "code": "7407002",
@@ -22915,6 +22803,11 @@
     ],
     "teacher": [
       {
+        "name": "李魁鵬",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10996",
+        "code": "10996"
+      },
+      {
         "name": "楊安石",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11319",
         "code": "11319"
@@ -22997,7 +22890,9 @@
     "language": "英語",
     "notes": "機電博、機電外生專班、機械自動化和能源與車輛外生班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323725&code=11083"
+    ]
   },
   {
     "code": "4406112",
@@ -23409,7 +23304,9 @@
     "language": "英語",
     "notes": "機電博、機電外生專班、機械自動化和能源與車輛外生班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AG05001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323776&code=11083"
+    ]
   },
   {
     "code": "4005134",
@@ -25634,7 +25531,13 @@
         "code": "2930"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張順益",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=24520",
+        "code": "24520"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -30997,6 +30900,16 @@
         "name": "能源與車輛外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2958",
         "code": "2958"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -31024,7 +30937,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "日職能源所和能源與車輛外生班合開",
+    "notes": "日職能源所、機電博 (含外生班) 和能源與車輛外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4506201",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324356&code=11083"
