@@ -1,6 +1,6 @@
-const fetchStandards = require('./crawler/fetchStandards');
+const fetchStandards = require("./crawler/fetchStandards");
 
 (async () => {
-    await fetchStandards()
-    console.log('All done!')
+  await fetchStandards();
+  console.log("All done!");
 })();

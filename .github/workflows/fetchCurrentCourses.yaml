@@ -5,77 +5,77 @@ on:
     branches:
       - 蹦蹦
   schedule:
-    - cron:  '0 0 */1 * *'
+    - cron: "0 0 */1 * *"
 
 jobs:
   FetchCurrent:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        department: [0,1,2]
+        department: [0, 1, 2]
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
-      with:
-        node-version: '14.x'
-        cache: 'npm'
-    - name: Install npm packages
-      run: npm install
-    - name: fetch course data
-      run: node fetchCourse.js ${{ matrix.department }}
-    - uses: actions/upload-artifact@v3
-      with:
-        name: ${{ matrix.department }}
-        path: ./dist/
-        retention-days: 2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "14.x"
+          cache: "npm"
+      - name: Install npm packages
+        run: npm install
+      - name: fetch course data
+        run: node fetchCourse.js ${{ matrix.department }}
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.department }}
+          path: ./dist/
+          retention-days: 2
   FetchSyllabus:
     needs: FetchCurrent
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        department: [0,1,2]
+        department: [0, 1, 2]
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/download-artifact@v3
-      with:
-        name: ${{ matrix.department }}
-        path: ./dist/
-    - uses: actions/setup-node@v3
-      with:
-        node-version: '14.x'
-        cache: 'npm'
-    - name: Install npm packages
-      run: npm install
-    - name: fetch course data
-      run: node fetchSyllabus.js ${{ matrix.department }}
-    - uses: actions/upload-artifact@v3
-      with:
-        name: ${{ matrix.department }}
-        path: ./dist/
-        retention-days: 2
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          name: ${{ matrix.department }}
+          path: ./dist/
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "14.x"
+          cache: "npm"
+      - name: Install npm packages
+        run: npm install
+      - name: fetch course data
+        run: node fetchSyllabus.js ${{ matrix.department }}
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.department }}
+          path: ./dist/
+          retention-days: 2
   Deploy:
     needs: [FetchCurrent, FetchSyllabus]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/download-artifact@v3
-      with:
-        name: 0
-        path: ./dist/
-    - uses: actions/download-artifact@v3
-      with:
-        name: 1
-        path: ./dist/
-    - uses: actions/download-artifact@v3
-      with:
-        name: 2
-        path: ./dist/
-    - name: Show All years
-      run: ls -R
-      working-directory: ./dist/
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: dist
-        keep_files: true
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          name: 0
+          path: ./dist/
+      - uses: actions/download-artifact@v3
+        with:
+          name: 1
+          path: ./dist/
+      - uses: actions/download-artifact@v3
+        with:
+          name: 2
+          path: ./dist/
+      - name: Show All years
+        run: ls -R
+        working-directory: ./dist/
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          keep_files: true
