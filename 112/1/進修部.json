@@ -12506,7 +12506,13 @@
         "code": "2981"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "撘萄�����",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12501",
+        "code": "12501"
+      }
+    ],
     "time": {
       "sun": [
         "���"
@@ -28871,13 +28877,7 @@
         "code": "2633"
       }
     ],
-    "teacher": [
-      {
-        "name": "��烾�𡒊��",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12077",
-        "code": "12077"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [
         "���"
@@ -28886,9 +28886,7 @@
         "���"
       ],
       "tue": [
-        "5",
-        "6",
-        "7"
+        "���"
       ],
       "wed": [
         "���"
@@ -28903,22 +28901,14 @@
         "���"
       ]
     },
-    "classroom": [
-      {
-        "name": "蝬𦦵��104",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=353",
-        "code": "353"
-      }
-    ],
-    "people": "7",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "���",
-    "notes": "�𤓖摮𣂷�匧�𤤿睻銋踺����𥕢�坔����页�𣬚�𦦵��104",
+    "notes": "��𣈯��",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604158",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324380&code=12077"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3604162",
@@ -30889,7 +30879,13 @@
         "code": "2633"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "��匧靊���",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12491",
+        "code": "12491"
+      }
+    ],
     "time": {
       "sun": [
         "���"
