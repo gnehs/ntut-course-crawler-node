@@ -1,25 +1,22 @@
 const cheerio = require("cheerio");
 const axios = require("axios").default;
-const iconv = require("iconv-lite");
 const axiosRetry = require("axios-retry");
 axiosRetry(axios, { retries: 10, shouldResetTimeout: true });
 const delay = (s) => new Promise((resolve) => setTimeout(resolve, s));
 
-async function fetchSinglePage(url) {
+async function fetchSinglePage(url, options) {
   await delay(500 + Math.random() * 500);
-  const resp = await getResp(url);
-  const html = iconv.decode(await resp.data, "big5");
-  return cheerio.load(html);
+  const resp = await getResp(url, options);
+  return cheerio.load(resp.data);
 }
-async function getResp(url, retry = 0) {
+async function getResp(url, options = {}, retry = 0) {
   try {
     let now = new Date();
     let result = await axios.request({
       method: "GET",
       url,
-      responseType: "arraybuffer",
-      reponseEncoding: "binary",
-      timeout: 10 * 60 * 1000, // 10 minutes
+      timeout: 10 * 60 * 1000, // 10 minutes,
+      ...options,
     });
     console.log(`[fetch] ${url} done. (${new Date() - now}ms)`);
     return result;
@@ -27,7 +24,7 @@ async function getResp(url, retry = 0) {
     if (retry < 10) {
       retry += 1;
       await delay(1000 * retry * retry);
-      return getResp(url, retry);
+      return getResp(url, options, retry);
     } else {
       console.log(`[error] ${url}`);
     }

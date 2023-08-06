@@ -1,7 +1,6 @@
 const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
 const fs = require("fs");
-const iconv = require("iconv-lite");
 const axios = require("axios").default;
 const axiosRetry = require("axios-retry");
 const pangu = require("./tools/pangu").spacing;
@@ -55,10 +54,18 @@ async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
 
   console.log(`[fetch] 正在取得${matricKey}課程列表...`);
   let keyword = ""; // '%A4%E9'
-  let url = `https://aps.ntut.edu.tw/course/tw/QueryCourse.jsp?stime=0&year=${year}&matric=${encodeURI(
-    iconv.encode(matric[matricKey], "big5")
-  )}&sem=${sem}&unit=*&cname=${keyword}&ccode=&tname=&D0=ON&D1=ON&D2=ON&D3=ON&D4=ON&D5=ON&D6=ON&P1=ON&P2=ON&P3=ON&P4=ON&PN=ON&P5=ON&P6=ON&P7=ON&P8=ON&P9=ON&P10=ON&P11=ON&P12=ON&P13=ON`;
-  let $ = await fetchSinglePage(url);
+  let $ = await fetchSinglePage(
+    `https://aps.ntut.edu.tw/course/tw/QueryCourse.jsp`,
+    {
+      method: "POST",
+      data: `stime=0&year=${year}&matric=${encodeURIComponent(
+        matric[matricKey]
+      )}&sem=${sem}&unit=*&cname=${keyword}&ccode=&tname=&D0=ON&D1=ON&D2=ON&D3=ON&D4=ON&D5=ON&D6=ON&P1=ON&P2=ON&P3=ON&P4=ON&PN=ON&P5=ON&P6=ON&P7=ON&P8=ON&P9=ON&P10=ON&P11=ON&P12=ON&P13=ON`,
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+    }
+  );
   $("tr:first-child").remove();
   $("tr:last-child").remove();
   $("tr:last-child").remove();
