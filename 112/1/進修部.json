@@ -1281,11 +1281,6 @@
         "name": "林建安",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=24508",
         "code": "24508"
-      },
-      {
-        "name": "鄭鴻斌",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10997",
-        "code": "10997"
       }
     ],
     "time": {
@@ -1312,7 +1307,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "待聘",
+    "notes": "待聘，邱品達 1.0",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504914",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=322183&code=24508"
@@ -13032,9 +13027,9 @@
         "code": "12246"
       },
       {
-        "name": "劉祐綸",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12185",
-        "code": "12185"
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -13050,22 +13045,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "共同413",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=157",
-        "code": "157"
-      }
-    ],
+    "classroom": [],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323243&code=12185"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "C215032",
@@ -16529,9 +16516,9 @@
     },
     "classroom": [
       {
-        "name": "三教407",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=55",
-        "code": "55"
+        "name": "綜科110_1",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=94",
+        "code": "94"
       }
     ],
     "people": "4",
@@ -27265,5 +27252,63 @@
     "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515022",
     "syllabusLinks": []
+  },
+  {
+    "code": "4905567",
+    "description": {
+      "zh": "課程內容包括：生涯理念介紹、興趣、性格、價值觀探討、生涯決定因素、生涯技巧、生涯角色調適、生涯選擇與規劃技巧、生涯訪談、生涯高原調適、性別和職業歧視、雙生涯家庭、就業準備等主要生涯的研究與實作。",
+      "en": "In-depth study of research in career development and guidance. Topics include an introduction to career idea, the exploration of interest, personality, and view of value, decision making of career, techniques of career development, adjustment of career role, choice and planning of career, interview, adjustment of career highness, adjustment of changing role, discrimination of gender and job, a family of two career parents, job preparation."
+    },
+    "id": "324832",
+    "name": {
+      "zh": "生涯發展與輔導",
+      "en": "Career Development and Guidance"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職技職所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2977",
+        "code": "2977"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林宜玄",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=21643",
+        "code": "21643"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "C",
+        "D"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=118",
+        "code": "118"
+      }
+    ],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324832&code=21643"
+    ]
   }
 ]

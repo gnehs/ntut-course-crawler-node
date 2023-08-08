@@ -19480,9 +19480,9 @@
         "code": "12246"
       },
       {
-        "name": "劉祐綸",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12185",
-        "code": "12185"
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -19498,22 +19498,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "共同413",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=157",
-        "code": "157"
-      }
-    ],
+    "classroom": [],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323243&code=12185"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "C215032",
@@ -24135,9 +24127,9 @@
     },
     "classroom": [
       {
-        "name": "三教407",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=55",
-        "code": "55"
+        "name": "綜科110_1",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=94",
+        "code": "94"
       }
     ],
     "people": "4",
@@ -35416,7 +35408,13 @@
         "code": "2959"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "莊嶸騰",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12500",
+        "code": "12500"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -35437,7 +35435,9 @@
     "language": "　",
     "notes": "太空所和電機所合開 (新聘老師英語授課)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324412&code=12500"
+    ]
   },
   {
     "code": "6607002",
@@ -36619,6 +36619,11 @@
         "name": "林信標",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=10823",
         "code": "10823"
+      },
+      {
+        "name": "莊嶸騰",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12500",
+        "code": "12500"
       }
     ],
     "time": {
@@ -36641,7 +36646,8 @@
     "notes": "太空所新聘老師合授",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15010",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324511&code=10823"
+      "ShowSyllabus.jsp?snum=324511&code=10823",
+      "ShowSyllabus.jsp?snum=324511&code=12500"
     ]
   },
   {
@@ -39234,7 +39240,13 @@
         "code": "2959"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "余憲政",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=24521",
+        "code": "24521"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -39861,6 +39873,69 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205065",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324915&code=11024"
+    ]
+  },
+  {
+    "code": "7305081",
+    "description": {
+      "zh": "本課程將探討半導體材料之表面化學性質之分析技巧、以及界面和分子間引力之量測方法、表面形態分析、晶相結構分析以及電磁性質量測之技術和其原理。並針對半導體材料的特性，實際操作拉曼及 FTIR 顯微鏡、原子力顯微鏡、x 光光電能譜、以及材料晶相、機械、電磁特性相關設備。",
+      "en": "This course will present the techniques and their corresponding theories on the surface property measurements including chemical information, stress analysis, morphology, crystalline structure and intermolecular forces between interfaces. The course also includes a practical training on the Raman/FTIR microscope, atomic force microscope, x-ray photoelectric spectrometer. Furthermore, instruments to measure crystalline, micro-mechanical, and electrical properties specifically for semiconductor materials will also be introduced."
+    },
+    "id": "324917",
+    "name": {
+      "zh": "半導體材料檢測技術及原理",
+      "en": "Characterization Methods for Semiconductor Materials"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "化工所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2945",
+        "code": "2945"
+      },
+      {
+        "name": "能源光電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2968",
+        "code": "2968"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "楊重光",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10786",
+        "code": "10786"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "8",
+        "9"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "化工101",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=399",
+        "code": "399"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "EMI 網路預選限 15 人；化工所和 EOMP 合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=7305081",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324917&code=10786"
     ]
   }
 ]
