@@ -739,16 +739,16 @@
     },
     "classroom": [
       {
-        "name": "綜科501",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=291",
-        "code": "291"
+        "name": "綜科502",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=292",
+        "code": "292"
       }
     ],
     "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "綜科 501",
+    "notes": "綜科 502",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604054",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=322163&code=12245"
@@ -1912,7 +1912,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603051",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322211&code=24248"
+    ]
   },
   {
     "code": "3603062",
@@ -10179,7 +10181,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322762&code=12501"
+    ]
   },
   {
     "code": "5705038",
@@ -13052,7 +13056,10 @@
     "language": "　",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323243&code=12246",
+      "ShowSyllabus.jsp?snum=323243&code=12173"
+    ]
   },
   {
     "code": "C215032",
@@ -14208,7 +14215,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "訓練場代開課，上學期限 A 組選",
+    "notes": "訓練場代開課，上學期限 B 組選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603095",
     "syllabusLinks": []
   },
@@ -18605,7 +18612,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323865&code=24248"
+    ]
   },
   {
     "code": "4505601",
@@ -23235,7 +23244,13 @@
         "code": "2986"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "芮嘉瑋",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=24525",
+        "code": "24525"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -23401,7 +23416,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "訓練場代開課，上學期限 B 組選",
+    "notes": "訓練場代開課，上學期限 A 組選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604098",
     "syllabusLinks": []
   },
@@ -23759,7 +23774,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "訓練場代開課，上學期限 A 組選",
+    "notes": "訓練場代開課，上學期限 B 組選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602054",
     "syllabusLinks": []
   },
@@ -23923,7 +23938,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "訓練場代開課，上學期限 B 組選",
+    "notes": "訓練場代開課，上學期限 A 組選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603006",
     "syllabusLinks": []
   },
@@ -25197,7 +25212,9 @@
     "language": "　",
     "notes": "電子四甲乙丙合開，甲組新聘教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324538&code=12491"
+    ]
   },
   {
     "code": "6016016",
@@ -25699,7 +25716,9 @@
     "language": "　",
     "notes": "資財三四甲乙合開 / 六教 627",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03065",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324563&code=24519"
+    ]
   },
   {
     "code": "AB03067",
