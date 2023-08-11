@@ -1499,7 +1499,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=497",
+        "code": "497"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1604,7 +1610,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=497",
+        "code": "497"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1775,7 +1787,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=497",
+        "code": "497"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1828,7 +1846,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=489",
+        "code": "489"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1940,7 +1964,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=497",
+        "code": "497"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7108,6 +7138,11 @@
     ],
     "teacher": [
       {
+        "name": "江謝令涵",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12492",
+        "code": "12492"
+      },
+      {
         "name": "曾昭衡",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11021",
         "code": "11021"
@@ -7200,6 +7235,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "江謝令涵",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12492",
+        "code": "12492"
+      },
       {
         "name": "林文印",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11110",
@@ -11772,7 +11812,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=490",
+        "code": "490"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12120,7 +12166,13 @@
         "code": "2741"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "梁誠",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10506",
+        "code": "10506"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -12147,7 +12199,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322346&code=10506"
+    ]
   },
   {
     "code": "A000001",
@@ -16681,6 +16735,11 @@
         "name": "林雅惠",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=12390",
         "code": "12390"
+      },
+      {
+        "name": "陳擎文",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12450",
+        "code": "12450"
       }
     ],
     "time": {
@@ -19516,6 +19575,7 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323243&code=12389",
       "ShowSyllabus.jsp?snum=323243&code=12246",
       "ShowSyllabus.jsp?snum=323243&code=12173"
     ]
@@ -32635,7 +32695,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32689,7 +32755,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓825",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=490",
+        "code": "490"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34064,13 +34136,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教309",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=50",
-        "code": "50"
-      }
-    ],
+    "classroom": [],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34596,7 +34662,9 @@
     "language": "　",
     "notes": "新聘兼任教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305086",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324369&code=24525"
+    ]
   },
   {
     "code": "6505151",
@@ -36011,7 +36079,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓823",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=489",
+        "code": "489"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36636,7 +36710,13 @@
         "code": "2984"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "江謝令涵",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12492",
+        "code": "12492"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -39127,7 +39207,9 @@
     "language": "　",
     "notes": "余憲政 副主任 (太空中心)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324811&code=24521"
+    ]
   },
   {
     "code": "C717001",
