@@ -2,11 +2,11 @@
   {
     "name": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
-    "latestUpdate": "2023-07-24 10:08:01",
+    "latestUpdate": "2023-08-14 09:50:31",
     "objective": "理解機器學習 (Machine Learning) 的理論基礎與原理是重要的，若能掌握機器學習相關之數學基礎，將對機器學習所採行的方法，能進一步了解其原理與局限性等，有助於未來面對新問題時，能有效應用與建構出以機器學習為架構的解決方案。本課程將以兩部份來進行，第一部份以介紹機器學習相關的理論基礎為主包含線性代數 (Linear Algebra)、幾何解析 (Analytic Geometry)、矩陣分解 (Matrix Decomposition)、機率 (Probability) 與最佳化 (Optimization) 等；第二部份則輔以機器學習中具經典代表性之應用案例如線性回歸 (Linear Regression)、維度降低 (Dimension Reduction)、密度估計 (Density Estimation) 和分類 (Classification) 等進行深入的探討與分析。",
     "schedule": "*** Linear Algebra ***\nWeek1-2: Course Overview, Linear Algebra, Linear Equation, Matrics, Vector Space (Chapter 2)\nWeek3-4: Analytic Geometry, Inner Product, length & Angle, Orthonormal Basis, Orthogonal Projection (Chapter 3)\nWeek5-6: Matrix Decomposition, Determine, Eigenvalues, Eigenvectors, Eigendecomposition and Diagonalization (Chapter 4)\nWeek7: When Models Meet Data (Part II, Chapter 8)\nWeek8: Dimension Reduction with Principal Component Analysis(PCA) (Part II, Chapter 10)\nWeek9: Midterm Exam. \n\n*** Probability ***\nWeek10-11: Vector Calculus, Partial Differentiation and Gradients (Chapter 5)\nWeek12-13: Probability & Distributions, Probability Space, Discrete and Continuous Probability (Chapter 6)\nWeek14-15: Linear Regression, Parameter Estimation, Bayesian Linear Regression (Part II, Chapter 9)\n\n*** Optimization ***\nWeek16-17: Continuous Optimization, Gradient Descent, Convex Optimization (Chapter 7)\nWeek18 Final Exam.",
-    "scorePolicy": "出席: 10%\n課堂參與度: 5%\n作業: 25%\n期中考: 30%\n期末考：30%",
-    "materials": "Textbook: \nMathematics for Machine Learning by Marc Peter Deisenroth, et al., 2020, Cambridge University Press (東華書局代理)\n\nReference: \n1. 機器學習原理深究，李航，深智\n2. https://zhuanlan.zhihu.com/p/35449496",
+    "scorePolicy": "出席: 10%\n作業: 30%\n期中考: 30%\n期末考：30%",
+    "materials": "Textbook: \nMathematics for Machine Learning by Marc Peter Deisenroth, et al., 2020, Cambridge University Press (東華書局代理)\n\nReference: \n1. 機器學習原理深究，李航，深智\n2. 30 分鐘就讀懂：機器學習從數學開始 (第二版)，張曉明，深智\n3. https://zhuanlan.zhihu.com/p/35449496",
     "consultation": "1. Teacher office hours for 112-1 @綜科館 215:       Tue. 10:00 ~ 12:00, Wed. 15:00 ~ 17:002. Please email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.",
     "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": true
