@@ -2,12 +2,12 @@
   {
     "name": "鄭鈺潔",
     "email": "milu775199@gmail.com",
-    "latestUpdate": "2023-06-04 18:02:12",
-    "objective": "先修課程：近代光學。   1. 基本分析工具介紹 (6) 2. 基本光學系統 --- 近軸光學 (6) 3. 光學系統元件介紹 (6) 4. 像差理論 (6) 5. 像質評估 (6) 6. 光學系統設計 (6) 7. 光學套裝軟體使用 (6) 8. 光電設計專題 (9)\n1.The tools 2.The basic optical systems 3.Basic optical devices 4.Seidel aberrations  5.Image evaluation 6.The design of optical systems 7.The use of Zemax 8.Project on optical design",
-    "schedule": "1st week：Opening and Meeting (Teacher will be online but TA will be in class to assist students to enroll this course)\n2nd week：Ray Propagation in an Inhomogeneous Medium\n3rd week：Ray optics by ABCD matrix (MATLA&COMSOL) \n4th week：Aberrations\n5th-6th week：Solar dish receiver (by Pitotech)\n7th week：Wave Optics and Maxwell's Equations\n8th week：Gaussian Beam Optics (MATLAB&COMSOL)\n9th ~10th week: Midterm Exam (COMSOL)\n11th~12th week：Laser system (by Pitotech)\n13th~14th week：Final project preparation\n15th -16th week：Final project presentation",
-    "scorePolicy": "Midterm presentation 25%\nFinal project presentation 25%\nHomework: 30%\nProgramming Quiz: 20%",
+    "latestUpdate": "2023-08-14 18:29:15",
+    "objective": "This syllabus is a guideline and can be adjusted based on the specific needs of the course and the students. It covers a comprehensive overview of optical system design principles and practical applications, with a focus on using Synopsys software for simulation and analysis.",
+    "schedule": "Module 1: Introduction to Optical Systems\n- Overview of optical system design principles\n- Basics of light propagation and behavior\n- Components of optical systems: sources, lenses, mirrors, detectors, etc.\n- Introduction to Synopsys software suite: OptiSIM, CODEV, LightTools, RSOFT, MOD\n\nModule 2: Geometric Optics and Lens Design\n- Fundamentals of geometric optics\n- Lens design techniques and parameters\n- Aberrations and their impact on optical systems\n- Hands-on exercises using CODEV for achromatic lens design\n\nModule 3: Illumination Design with LightTools\n- Principles of illumination design\n- Designing and optimizing illumination systems\n- Practical projects of AR HMD design using LightTools for illumination design\n\nModule 4: Diffraction and Interference\n- Diffraction theory and its implications\n- Interference phenomena in optical systems\n- Gratings, prisms, and other diffractive elements\n- Simulating diffraction effects with RSOFT\n\nModule 5: Optical System Simulation with OptiSIM\n- Introduction to OptiSIM for system-level optical simulation\n- Modeling optical elements and their interactions\n- Case studies of PIC using OptiSIM\n\nModule 6: Metalens design using MOD\n- principle and application of metasurface \n- Modeling optical elements and optimization of metalens",
+    "scorePolicy": "Assessment:\n- Quizzes and assignments on each module 60%\n- Participation in group case study project 20%\n- Final group presentation and simulation results 20%\n- Overall engagement and active participation in class discussions\n10%",
     "materials": "Optics (4th Edition)  by Eugene Hecht",
-    "consultation": "Email:yu-chieh.cheng@mail.NTUT.edu.twLineID:ariel050188",
+    "consultation": "如有相關課程問題請撥打 (02)-27712171#4676 詢問，Email：yu-chieh.cheng@mail.ntut.edu.tw",
     "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": true
   }

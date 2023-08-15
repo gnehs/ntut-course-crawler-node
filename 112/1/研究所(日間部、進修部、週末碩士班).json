@@ -2874,7 +2874,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "土木201",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=382",
+        "code": "382"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7168,6 +7174,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006004",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=321536&code=12492",
       "ShowSyllabus.jsp?snum=321536&code=11021"
     ]
   },
@@ -7278,6 +7285,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=321538&code=12492",
       "ShowSyllabus.jsp?snum=321538&code=11110",
       "ShowSyllabus.jsp?snum=321538&code=10919"
     ]
@@ -7459,6 +7467,11 @@
     ],
     "teacher": [
       {
+        "name": "胡念祖",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12286",
+        "code": "12286"
+      },
+      {
         "name": "陳金聖",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11077",
         "code": "11077"
@@ -7490,6 +7503,7 @@
     "notes": "碩一下始得選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=321564&code=12286",
       "ShowSyllabus.jsp?snum=321564&code=11077"
     ]
   },
@@ -31082,11 +31096,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11440",
         "code": "11440"
@@ -31095,6 +31104,11 @@
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳建丞",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11224",
+        "code": "11224"
       },
       {
         "name": "魏銪志",
@@ -31121,7 +31135,6 @@
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324146&code=11429",
       "ShowSyllabus.jsp?snum=324146&code=11440",
       "ShowSyllabus.jsp?snum=324146&code=11088",
       "ShowSyllabus.jsp?snum=324146&code=12148"
@@ -36747,7 +36760,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6016016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324542&code=12492"
+    ]
   },
   {
     "code": "5416100",
@@ -38748,11 +38763,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11440",
         "code": "11440"
@@ -38761,6 +38771,11 @@
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳建丞",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11224",
+        "code": "11224"
       },
       {
         "name": "魏銪志",
@@ -38787,7 +38802,6 @@
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324776&code=11429",
       "ShowSyllabus.jsp?snum=324776&code=11440"
     ]
   },
@@ -39885,5 +39899,342 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324917&code=10786"
     ]
+  },
+  {
+    "code": "5806022",
+    "description": {
+      "zh": "互動設計專注於使用情境相關課題，包括多元感覺的產品語意、資訊與功能的整體設計。顧及使用者的需求、使用者的心理和使用者的認知特性；將所有參與互動的操作及顯示單元，透過視覺、觸覺及聽覺等多元感覺的整合設計。使得使用者容易理解。",
+      "en": "This course provides study of interaction design related topics on Product Semantics, Information and Function. With emphasis on User Interface integration and Usability Testing, psychology and cognitive proactive, the course will be characterized by inter-disciplinary on multi-median. This is where the user easy understanding applies and interacts with the product."
+    },
+    "id": "324980",
+    "name": {
+      "zh": "互動設計研究",
+      "en": "Study of Interaction Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2939",
+        "code": "2939"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王鴻祥",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11004",
+        "code": "11004"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6",
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "設計B01",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=319",
+        "code": "319"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5806022",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324980&code=11004"
+    ]
+  },
+  {
+    "code": "4005003",
+    "description": {
+      "zh": "偏微分方程式、變分法、張量分析、工程統計及積分方程式等工程分析用工具知識。",
+      "en": "Partial Differential equation, Variation Principle, Tensor Analysis, Engineering Statistics and Integral equation."
+    },
+    "id": "324997",
+    "name": {
+      "zh": "工程分析",
+      "en": "Engineering Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2929",
+        "code": "2929"
+      },
+      {
+        "name": "製科所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2937",
+        "code": "2937"
+      },
+      {
+        "name": "機械自動化外生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2955",
+        "code": "2955"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳紅章",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12490",
+        "code": "12490"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=50",
+        "code": "50"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "機電所、製科所和機電外生班合開 / 限 30 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005003",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324997&code=12490"
+    ]
+  },
+  {
+    "code": "9805003",
+    "description": {
+      "zh": "本課程探討資訊系統在現代組織中所扮演的角色，課程重點將放在企業電子化和電子商務，同學在修課過後將具備相關知識。課堂中的資訊實務技術演練，將有助於同學有效率地解決相關問題。",
+      "en": "This course provides the knowledge you need to understand the role of information systems in modern organizations, with particular focus on E-commerce and E-business. Along with skills learned in your functional area, knowledge from this course will help you effectively use information technology for solving business problems."
+    },
+    "id": "325001",
+    "name": {
+      "zh": "資訊管理",
+      "en": "Information Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2948",
+        "code": "2948"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "6 選 4/1120804 同意新開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=9805003",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C025001",
+    "description": {
+      "zh": "本課程將透過每週專題演講方式，讓學生了解軌道車輛工程、冷凍空調工程及自動化科技之最新研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
+      "en": "This course provides important information with respect to the latest developments or applications on railway engineering, energy engineering and automation technology. The invited speakers include well-known scholars in the engineering field and project executors from National Taipei University of Technology."
+    },
+    "id": "325034",
+    "name": {
+      "zh": "專題討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C025001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4005036",
+    "description": {
+      "zh": "先修課程：負責教授同意。膜披覆製程是近年來高科技產業技術一項前途被看好的製程技術之一，廣用於刀具、模具、光學元件、感測器及半導體工業等等。此門課程將提供此項技術之介紹、相關配備、原理與能量提供方式、將包括：沉積技術與應用、化學氣相沉積法、物理氣相沉積法、電鍍技術、真空工程、直流電源、射頻電源、微波、熱燈絲等各種能量介紹、以及膜的成核與生長理論。",
+      "en": "The technology of films coating has advanced dramatically. This advancement was driven primarily by the need for new products and devices in the electronics and optical industries etc.. The rapid progress in various devices would not have been possible without the development of new files coating technology, improved film characteristic and superior file qualities. This course is intended to serve us a guide for the student or practitioner in the field, as a review and overview of this rapidly evolving technology for the graduate students in several branches of science and engineering."
+    },
+    "id": "325035",
+    "name": {
+      "zh": "鍍膜工程",
+      "en": "Engineering of Films Coating"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005036",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4005131",
+    "description": {
+      "zh": "使學員瞭解 Python 程式語言於機器學習應用，以及機器學習的理論背景、評估如何使用適當的演算法於實際例子、內容包括回歸分析於資料預測、資料維度減少方法於資料特徵提取、資料分類方法包括支援向量機與類神經網路方法。課程主要配合 Python 例子增進學員了解機器學習的相關知識與提升在資訊處理時代之競爭力。",
+      "en": "Students should be familiar with the basic concepts of machine learning (ML), probability theory, probability distribution, ML algorithms for classification, regression, and clustering taught in this class."
+    },
+    "id": "325036",
+    "name": {
+      "zh": "人工智能機器學習",
+      "en": "Artificial intelligent and machine learning"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005131",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4505404",
+    "description": {
+      "zh": "本課程主要包含四部份，分別為基本有限差分法、流體力學與熱傳方程式的有限差分法應用、有限體積法、格點產生法。",
+      "en": "This course comprises four parts. Part one is fundamentals of finite-difference methods. Part 2 is the application of finite-difference methods to the equations of fluid mechanics and heat transfer. Part 3 is finite-volume method. Part 4 is grid generation."
+    },
+    "id": "325037",
+    "name": {
+      "zh": "計算流體力學",
+      "en": "Computing Fluid Dynamics"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4505404",
+    "syllabusLinks": []
   }
 ]
