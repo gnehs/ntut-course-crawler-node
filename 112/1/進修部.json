@@ -10329,7 +10329,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705401",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322801&code=24463"
+    ]
   },
   {
     "code": "5705472",
@@ -11906,7 +11908,23 @@
         "code": "2995"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -11920,8 +11938,8 @@
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "碩一必修，9.16 11.25 12.03 12.10 113.1.7 1.14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": []
   },
@@ -11961,8 +11979,8 @@
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275014",
     "syllabusLinks": []
   },
@@ -12002,8 +12020,8 @@
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，Dr. Lavelle 碩二修 8.11-14，輔課 8.5",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275001",
     "syllabusLinks": []
   },
@@ -12043,8 +12061,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275002",
     "syllabusLinks": []
   },
@@ -12084,8 +12102,8 @@
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二 12.15-18 輔課 12.10",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275006",
     "syllabusLinks": []
   },
@@ -12125,8 +12143,8 @@
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
   },
@@ -12166,8 +12184,8 @@
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二 ，10.13-16",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
     "syllabusLinks": []
   },
@@ -12207,8 +12225,8 @@
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275012",
     "syllabusLinks": []
   },
@@ -13530,7 +13548,8 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323251&code=12343"
+      "ShowSyllabus.jsp?snum=323251&code=12343",
+      "ShowSyllabus.jsp?snum=323251&code=24463"
     ]
   },
   {
@@ -20809,11 +20828,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11440",
         "code": "11440"
@@ -20822,6 +20836,11 @@
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳建丞",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11224",
+        "code": "11224"
       },
       {
         "name": "魏銪志",
@@ -20848,7 +20867,6 @@
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324146&code=11429",
       "ShowSyllabus.jsp?snum=324146&code=11440",
       "ShowSyllabus.jsp?snum=324146&code=11088",
       "ShowSyllabus.jsp?snum=324146&code=12148"
@@ -25305,7 +25323,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6016016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=324542&code=12492"
+    ]
   },
   {
     "code": "5705105",
@@ -27000,11 +27020,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11440",
         "code": "11440"
@@ -27013,6 +27028,11 @@
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳建丞",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11224",
+        "code": "11224"
       },
       {
         "name": "魏銪志",
@@ -27039,7 +27059,6 @@
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324776&code=11429",
       "ShowSyllabus.jsp?snum=324776&code=11440"
     ]
   },
@@ -27368,6 +27387,147 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324832&code=21643"
+    ]
+  },
+  {
+    "code": "C515023",
+    "description": {
+      "zh": "本課程為學生提供商業決策背景下財務報告、分析和衡量問題的全面概述。學生將了解財務報表及其基本衡量標準。然後，他們將利用這種理解來使用財務比率進行分析。然後，學生將探索成本衡量、分配等在確定組織各部分的績效衡量方面的作用，以及它們與在各種商業環境中選擇和評估戰略的相互關係。他們將涵蓋諸如匹配策略與績效衡量、選擇和評估關鍵績效指標和平衡計分卡等問題。",
+      "en": "This course provides students with a comprehensive overview of financial reporting, analysis and measurement issues in the context of business decision making. Student will gain an understanding of financial statements and their underlying measurements. They will then use this understanding to conduct analyses using financial ratios. Students will then explore the role of cost measurements, allocations, etc. in determining the performance measures of parts of the organization and their inter-relationship with both choosing and evaluating strategies in various business contexts. They will cover issues such as matching strategies to performance measures, choosing and evaluating key performance indicators and balanced scorecards, etc."
+    },
+    "id": "324855",
+    "name": {
+      "zh": "財務信息運用與分析",
+      "en": "Measurement and Analysis for Business Decision Making"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2995",
+        "code": "2995"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "6",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "UTA，碩二 ，Dr. Li-Chih Ho",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515023",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275011",
+    "description": {
+      "zh": "戰略管理使用綜合管理視角去解決相關的制定和實施企業和企業級戰略的問題。該課程包括開發識別問題的能力，評估戰略選擇，並瞭解戰略的形成和執行的組織過程。它建立在功能區課程所獲得的知識，並使用案例研究和項目，以提高學生的分析和決策能力。前提：必須參與上學期的課程或與得到研究生導師的許可。",
+      "en": "Strategic management uses a general management perspective in addressing issues related to the formulation and implementation of corporate and business level strategy. The course involves developing the ability to identify issues, evaluate strategic options and understand the organizational process by which strategies get formed and executed. It builds on the knowledge gained in functional area courses and uses case studies and projects to improve students' analytical and decision-making skills. Prerequisite: Must be taken in last semester or with permission of the Graduate Advisor."
+    },
+    "id": "324909",
+    "name": {
+      "zh": "策略管理",
+      "en": "Strategic Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2989",
+        "code": "2989"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "UTA, 碩二修，10.13-16 正課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3604174",
+    "description": {
+      "zh": "本課程將從基礎深度學習理論、邊緣智慧硬體應用、資料集建置、客製化模型訓練到推論環境佈署，讓學員透過 Google Colab, Intel OpenVINO, OpenCV 等開源工具，學習如何規畫及實踐不同類型的低功耗、低延時、低成本及高隱私的邊緣智慧應用專案。",
+      "en": "This course will cover basic deep learning theory, edge smart hardware application, data set construction, customized model training, and inference environment deployment. Allowing students to learn how to plan and practice types of edge smart application with low power consumption, low latency, low cost, and high privacy features."
+    },
+    "id": "325000",
+    "name": {
+      "zh": "邊緣運算",
+      "en": "Edge Computing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12245",
+        "code": "12245"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "8",
+        "9",
+        "A"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜科104",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=353",
+        "code": "353"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "電子四甲乙丙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3604174",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=325000&code=12245"
     ]
   }
 ]
