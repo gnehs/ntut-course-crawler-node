@@ -13043,9 +13043,9 @@
     },
     "classroom": [
       {
-        "name": "共同312",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=154",
-        "code": "154"
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=156",
+        "code": "156"
       }
     ],
     "people": "20",
@@ -16832,7 +16832,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705401",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322801&code=24463"
+    ]
   },
   {
     "code": "5705472",
@@ -18409,7 +18411,23 @@
         "code": "2995"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -18423,8 +18441,8 @@
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "碩一必修，9.16 11.25 12.03 12.10 113.1.7 1.14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": []
   },
@@ -18464,8 +18482,8 @@
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275014",
     "syllabusLinks": []
   },
@@ -18505,8 +18523,8 @@
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，Dr. Lavelle 碩二修 8.11-14，輔課 8.5",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275001",
     "syllabusLinks": []
   },
@@ -18546,8 +18564,8 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275002",
     "syllabusLinks": []
   },
@@ -18587,8 +18605,8 @@
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二 12.15-18 輔課 12.10",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275006",
     "syllabusLinks": []
   },
@@ -18628,8 +18646,8 @@
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
   },
@@ -18669,8 +18687,8 @@
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二 ，10.13-16",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
     "syllabusLinks": []
   },
@@ -18710,8 +18728,8 @@
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275012",
     "syllabusLinks": []
   },
@@ -20033,7 +20051,8 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323251&code=12343"
+      "ShowSyllabus.jsp?snum=323251&code=12343",
+      "ShowSyllabus.jsp?snum=323251&code=24463"
     ]
   },
   {
@@ -21915,42 +21934,24 @@
         "code": "2985"
       }
     ],
-    "teacher": [
-      {
-        "name": "蔡孟伸",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11127",
-        "code": "11127"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [
-        "A",
-        "B",
-        "C"
-      ],
+      "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教407",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=55",
-        "code": "55"
-      }
-    ],
+    "classroom": [],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105054",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=323431&code=11127"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "6105044",
@@ -39638,8 +39639,8 @@
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
+    "language": "英語",
+    "notes": "UTA，碩二 ，Dr. Li-Chih Ho",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515023",
     "syllabusLinks": []
   },
@@ -40235,6 +40236,129 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505404",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5605027",
+    "description": {
+      "zh": "先修課程：負責教授同意本課程介紹有限元素分析法基本原理及其在各種工程問題上之應用。1. 有限元素分析法之基本觀念 2. 利用變分原理建立有限元素模式 3. 形狀函數及等參數元素 4. 一維問題：桿、桁架、樑及骨架等 5. 二維問題：平面應力應變及板殼問題。6. 三維問題：一般實體 7. 有限元素分析之計算機程式處理 8. 有限元素分析於動態問題之應用 9. 相關有限元素分析套裝軟體簡介",
+      "en": "To introduce the basic principle of the finite element analysis and its application in solving various types of engineering problems.1. Introduction to the basic concepts of the finite element analysis2. Formulation of the finite models through the use of variational principles3. Shape functions and isoparametric elements4. One dimensional problems: rod, truss, beam, frame, etc.5. Two dimensional problems: plane stress, plane strain and plate, etc.6. Three dimensional problems: typical solids7. Implementation of the FEM computation by computer8. Finite element applications in dynamic problems9. Survey of some finite-element software systems"
+    },
+    "id": "325038",
+    "name": {
+      "zh": "有限元素分析",
+      "en": "Finite Element Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605027",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C005005",
+    "description": {
+      "zh": "本課程為本校「智慧鐵道學程」的選修課程。本課程開授之目標，是希望修課學生能夠瞭解現今整個鐵道通訊及資訊系統與行控中心的架構、配置、功能及目標。前瞻資通訊技術（Information and Communication Technology, ICT）的發展與創新應用，將定義了整個鐵道產業的未來。由於鐵道通訊及資訊系統本身屬於跨管理、通訊與資訊等專業領域的技術，因此，本課程是針對選讀學程之學生，邀請鐵道通訊及資訊技術應用專家，以業師的身份共同參與授課。 本課程會要求修課同學於期末報告時，針對管理、通訊及資訊三部分提出通訊系統與行控中心之創新想法規劃與評估報告，並邀請學者與產業專家共同擔任評審及評比分數。",
+      "en": "This course is the elective subject of Intelligent Railway Curriculum. The main purpose of this course is to provide the students an overall understanding of the structure, configuration, function, and the objective of the domestic railway industry and operation control center (OCC). The course will be composed with advanced development and innovative application of Information and Communication Technology (ICT), and will dictate the future of railway industry. ICT of railway industry is interdisciplinary which involves management, communication, and information, etc. This intercollegiate course will invite industrial instructors, i.e. ICT experts from some relevant fields in intelligent railway industry to our course. In the final project and report, students are required to plan and assess the communication system and OCC focused on advanced management, communication, and information, and evaluated by qualified experts."
+    },
+    "id": "325039",
+    "name": {
+      "zh": "鐵道通訊與資訊系統",
+      "en": "Railway Communication and Information Systems"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005005",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C025003",
+    "description": {
+      "zh": "「鐵道車輛系統與維修基地」課程，乃為培養具有鐵路車輛分析設計及檢修技術操作能力之人員，掌握鐵道裝備設計製造、檢修的基礎知識與應用能力，具有鐵道車輛製造、檢修、運用、管理等綜合職業能力和創新精神的高素質技能型專門人才。本課程將從鐵道車輛基本結構開始介紹，並探討鐵道車輛與鐵道基礎之互制關係。而後導入各式特殊鐵道車輛設計之原理與用途，如：高速客車、傾斜式列車、自導向系統…. 等，並研討各種車型之行駛穩定性與脫軌風險計算方式。最後介紹鐵道車輛維修之概念與實務，並介紹維修基地之設計與配置，再導入先進預兆健康預防檢修法與 AR 技術於檢修之應用與發展。",
+      "en": "This course of \"Railway Vehicle System and Maintenance Depot\" will cover the basic design criteria of the railway vehicle, its sub-systems and integration. We will discuss factors that affect the design, sizing, manufacturing and maintenance of the sub-systems of the railway vehicle, including their integration with other sub-systems to work as one complete train. Various factors affecting reliability, accessibility and maintainability will be addressed. Then several types of vehicle (high-speed-vehicle, tilting train, self-guide bogie will be introduced to determine the dynamic stability and derailment risk. Finally, the design of maintenance depot will be studied and the latest technologies (PHM, AR) on railway vehicle maintenance will be introduced."
+    },
+    "id": "325040",
+    "name": {
+      "zh": "鐵道車輛系統與維修基地",
+      "en": "Railway Vehicle System and Maintenance Depot"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C025003",
     "syllabusLinks": []
   }
 ]
