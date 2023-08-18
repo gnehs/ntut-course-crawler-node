@@ -1272,6 +1272,11 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2927",
         "code": "2927"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       }
     ],
     "teacher": [
@@ -1299,7 +1304,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "電子所和鐵道學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3635022",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=320883&code=12232"
@@ -2081,7 +2086,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2932,7 +2943,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3335,13 +3352,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教209",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=43",
-        "code": "43"
-      }
-    ],
+    "classroom": [],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3399,7 +3410,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=43",
+        "code": "43"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3458,7 +3475,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3516,7 +3539,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3569,7 +3598,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3627,7 +3662,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3686,7 +3727,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5632,7 +5679,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7527,6 +7580,11 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2942",
         "code": "2942"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       }
     ],
     "teacher": [
@@ -7560,7 +7618,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "計中電腦教室",
+    "notes": "計中電腦教室 / 自動化所和鐵道學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=321568&code=11453"
@@ -7657,6 +7715,11 @@
         "code": "2942"
       },
       {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
         "code": "2965"
@@ -7692,7 +7755,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "教室至少 40 人，自動化所、機電博及機電博外生班合開",
+    "notes": "教室至少 40 人，自動化所、鐵道、機電博及機電博外生班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105059",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=321596&code=12275"
@@ -11550,7 +11613,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒404 ",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=560",
+        "code": "560"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20097,6 +20166,11 @@
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11396",
         "code": "11396"
+      },
+      {
+        "name": "彭祖乙",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12439",
+        "code": "12439"
       }
     ],
     "time": {
@@ -20233,14 +20307,14 @@
     ],
     "teacher": [
       {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11505",
+        "code": "11505"
+      },
+      {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11396",
         "code": "11396"
-      },
-      {
-        "name": "鄭麗珍",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12173",
-        "code": "12173"
       },
       {
         "name": "魏銪志",
@@ -20270,7 +20344,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323255&code=11396",
-      "ShowSyllabus.jsp?snum=323255&code=12173",
       "ShowSyllabus.jsp?snum=323255&code=12148"
     ]
   },
@@ -21371,6 +21444,11 @@
         "code": "2958"
       },
       {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
         "code": "2965"
@@ -21406,7 +21484,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "車輛所、能源與車輛外生和機電博含外生班合開",
+    "notes": "車輛所、能源與車輛外生、鐵道和機電博含外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406047",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323419&code=11937"
@@ -22997,7 +23075,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教306",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=31",
+        "code": "31"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23549,6 +23633,11 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2929",
         "code": "2929"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       }
     ],
     "teacher": [
@@ -23582,7 +23671,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "機電所和鐵道學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323619&code=11132"
@@ -23953,6 +24042,11 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2931",
         "code": "2931"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       }
     ],
     "teacher": [
@@ -23980,7 +24074,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "日職車輛所合開",
+    "notes": "日職車輛所和鐵道學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4405002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323643&code=12234"
@@ -24441,6 +24535,11 @@
         "code": "2955"
       },
       {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
         "code": "2965"
@@ -24482,7 +24581,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "機電所、製科所、機電外生班和機電博含外生合開，限 50",
+    "notes": "機電所、製科所、鐵道、機電博含外生合開，限 50 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005036",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323679&code=12283"
@@ -24969,7 +25068,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -25142,7 +25247,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教402",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=52",
+        "code": "52"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -25687,6 +25798,11 @@
         "code": "2955"
       },
       {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
         "code": "2965"
@@ -25728,7 +25844,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "機電所、製科所、機電外生班和機電博含外生合開，限 30",
+    "notes": "機電所、製科所、鐵道學位學程和機電博含外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323779&code=12314"
@@ -25769,6 +25885,11 @@
         "name": "能源與車輛外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2958",
         "code": "2958"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       },
       {
         "name": "機電博所",
@@ -25812,7 +25933,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "機電所。製科所。機械外。車輛外生班和機電博含外生班合",
+    "notes": "機電所。製科所。鐵道和機電博含外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005026",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323781&code=12278"
@@ -25974,6 +26095,11 @@
         "code": "2955"
       },
       {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
+      },
+      {
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2965",
         "code": "2965"
@@ -26015,7 +26141,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "製科所、機電博 (外生) 及機電外生班合開，限 21 人",
+    "notes": "製科所、機電博 (外生)、鐵道和機電外生班合開，限 21 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605061",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323790&code=12276"
@@ -29952,6 +30078,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2949",
         "code": "2949"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       }
     ],
     "teacher": [
@@ -29985,7 +30116,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
-    "notes": "電子所和電資外生班合開",
+    "notes": "電子所、鐵道學位學程和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615054",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324025&code=12231"
@@ -30164,7 +30295,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教427",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=434",
+        "code": "434"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31379,7 +31516,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒404 ",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=560",
+        "code": "560"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32017,7 +32160,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32912,7 +33061,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32964,7 +33119,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33177,6 +33338,11 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=112&sem=1&code=2929",
         "code": "2929"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
+        "code": "2960"
       }
     ],
     "teacher": [
@@ -33210,7 +33376,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "限 25 人",
+    "notes": "限 25 人 / 機電所和鐵道學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605027",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324224&code=24172"
@@ -34437,7 +34603,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "四教102",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=70",
+        "code": "70"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34938,8 +35110,8 @@
       "mon": [],
       "tue": [],
       "wed": [
-        "7",
-        "8"
+        "A",
+        "B"
       ],
       "thu": [],
       "fri": [],
@@ -36699,8 +36871,8 @@
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "全英文授課",
+    "language": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6016016",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=324541&code=12492"
@@ -38524,9 +38696,9 @@
     ],
     "teacher": [
       {
-        "name": "張瑋倫",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12171",
-        "code": "12171"
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -40096,17 +40268,32 @@
         "code": "2960"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蘇程裕",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11075",
+        "code": "11075"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "3",
+        "4"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -40116,28 +40303,39 @@
     "syllabusLinks": []
   },
   {
-    "code": "4005036",
+    "code": "C275025",
     "description": {
-      "zh": "先修課程：負責教授同意。膜披覆製程是近年來高科技產業技術一項前途被看好的製程技術之一，廣用於刀具、模具、光學元件、感測器及半導體工業等等。此門課程將提供此項技術之介紹、相關配備、原理與能量提供方式、將包括：沉積技術與應用、化學氣相沉積法、物理氣相沉積法、電鍍技術、真空工程、直流電源、射頻電源、微波、熱燈絲等各種能量介紹、以及膜的成核與生長理論。",
-      "en": "The technology of films coating has advanced dramatically. This advancement was driven primarily by the need for new products and devices in the electronics and optical industries etc.. The rapid progress in various devices would not have been possible without the development of new files coating technology, improved film characteristic and superior file qualities. This course is intended to serve us a guide for the student or practitioner in the field, as a review and overview of this rapidly evolving technology for the graduate students in several branches of science and engineering."
+      "zh": "本課程的目的一，將藉由五個面向了解企業倫理的本質，分別（1）廠商的社會責任，（2）消費者的保護，（3）員工的權益，（4）員工對公司的責任，（5）雇主與員工關係。目的二，進一步教授 ESG 及聯合國 SDGs 指標的基本定義，藉由國、內外的個案討論來深根學生對於企業永續經營的觀念。最後，透過對於 ESG 與市場機會、責任投資原則、環境足跡 (碳足跡、水足跡等) 盤點等，來訓練製作永續報告書的基礎能力",
+      "en": "The objective of this course is to appreciate the essential of Business Ethics through five main faucets: (1) Corporate social responsibility, (2) Consumer protection, (3) Employee's rights and benefits, (4) Responsibility of employee to the firms, and (5) Employer-employee relations.The second objective is to further explain the definitions of ESG and SDGs, and then to root the concept of sustainable management to students through local and international case studies.Finally, through ESG market opportunities, principles for responsible investment, inventory of environmental footprint (carbon footprint, water footprint, etc.), we expect to build up students the basic ability to generate the ESG report."
     },
-    "id": "325035",
+    "id": "325043",
     "name": {
-      "zh": "鍍膜工程",
-      "en": "Engineering of Films Coating"
+      "zh": "企業倫理與永續管理",
+      "en": "Business Ethics & Sustainability Management"
     },
     "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "▲",
     "class": [
       {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
-        "code": "2960"
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2995",
+        "code": "2995"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "徐昕煒",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12436",
+        "code": "12436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -40151,214 +40349,9 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005036",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4005131",
-    "description": {
-      "zh": "使學員瞭解 Python 程式語言於機器學習應用，以及機器學習的理論背景、評估如何使用適當的演算法於實際例子、內容包括回歸分析於資料預測、資料維度減少方法於資料特徵提取、資料分類方法包括支援向量機與類神經網路方法。課程主要配合 Python 例子增進學員了解機器學習的相關知識與提升在資訊處理時代之競爭力。",
-      "en": "Students should be familiar with the basic concepts of machine learning (ML), probability theory, probability distribution, ML algorithms for classification, regression, and clustering taught in this class."
-    },
-    "id": "325036",
-    "name": {
-      "zh": "人工智能機器學習",
-      "en": "Artificial intelligent and machine learning"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
-        "code": "2960"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005131",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4505404",
-    "description": {
-      "zh": "本課程主要包含四部份，分別為基本有限差分法、流體力學與熱傳方程式的有限差分法應用、有限體積法、格點產生法。",
-      "en": "This course comprises four parts. Part one is fundamentals of finite-difference methods. Part 2 is the application of finite-difference methods to the equations of fluid mechanics and heat transfer. Part 3 is finite-volume method. Part 4 is grid generation."
-    },
-    "id": "325037",
-    "name": {
-      "zh": "計算流體力學",
-      "en": "Computing Fluid Dynamics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
-        "code": "2960"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4505404",
-    "syllabusLinks": []
-  },
-  {
-    "code": "5605027",
-    "description": {
-      "zh": "先修課程：負責教授同意本課程介紹有限元素分析法基本原理及其在各種工程問題上之應用。1. 有限元素分析法之基本觀念 2. 利用變分原理建立有限元素模式 3. 形狀函數及等參數元素 4. 一維問題：桿、桁架、樑及骨架等 5. 二維問題：平面應力應變及板殼問題。6. 三維問題：一般實體 7. 有限元素分析之計算機程式處理 8. 有限元素分析於動態問題之應用 9. 相關有限元素分析套裝軟體簡介",
-      "en": "To introduce the basic principle of the finite element analysis and its application in solving various types of engineering problems.1. Introduction to the basic concepts of the finite element analysis2. Formulation of the finite models through the use of variational principles3. Shape functions and isoparametric elements4. One dimensional problems: rod, truss, beam, frame, etc.5. Two dimensional problems: plane stress, plane strain and plate, etc.6. Three dimensional problems: typical solids7. Implementation of the FEM computation by computer8. Finite element applications in dynamic problems9. Survey of some finite-element software systems"
-    },
-    "id": "325038",
-    "name": {
-      "zh": "有限元素分析",
-      "en": "Finite Element Analysis"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
-        "code": "2960"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605027",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C005005",
-    "description": {
-      "zh": "本課程為本校「智慧鐵道學程」的選修課程。本課程開授之目標，是希望修課學生能夠瞭解現今整個鐵道通訊及資訊系統與行控中心的架構、配置、功能及目標。前瞻資通訊技術（Information and Communication Technology, ICT）的發展與創新應用，將定義了整個鐵道產業的未來。由於鐵道通訊及資訊系統本身屬於跨管理、通訊與資訊等專業領域的技術，因此，本課程是針對選讀學程之學生，邀請鐵道通訊及資訊技術應用專家，以業師的身份共同參與授課。 本課程會要求修課同學於期末報告時，針對管理、通訊及資訊三部分提出通訊系統與行控中心之創新想法規劃與評估報告，並邀請學者與產業專家共同擔任評審及評比分數。",
-      "en": "This course is the elective subject of Intelligent Railway Curriculum. The main purpose of this course is to provide the students an overall understanding of the structure, configuration, function, and the objective of the domestic railway industry and operation control center (OCC). The course will be composed with advanced development and innovative application of Information and Communication Technology (ICT), and will dictate the future of railway industry. ICT of railway industry is interdisciplinary which involves management, communication, and information, etc. This intercollegiate course will invite industrial instructors, i.e. ICT experts from some relevant fields in intelligent railway industry to our course. In the final project and report, students are required to plan and assess the communication system and OCC focused on advanced management, communication, and information, and evaluated by qualified experts."
-    },
-    "id": "325039",
-    "name": {
-      "zh": "鐵道通訊與資訊系統",
-      "en": "Railway Communication and Information Systems"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
-        "code": "2960"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005005",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C025003",
-    "description": {
-      "zh": "「鐵道車輛系統與維修基地」課程，乃為培養具有鐵路車輛分析設計及檢修技術操作能力之人員，掌握鐵道裝備設計製造、檢修的基礎知識與應用能力，具有鐵道車輛製造、檢修、運用、管理等綜合職業能力和創新精神的高素質技能型專門人才。本課程將從鐵道車輛基本結構開始介紹，並探討鐵道車輛與鐵道基礎之互制關係。而後導入各式特殊鐵道車輛設計之原理與用途，如：高速客車、傾斜式列車、自導向系統…. 等，並研討各種車型之行駛穩定性與脫軌風險計算方式。最後介紹鐵道車輛維修之概念與實務，並介紹維修基地之設計與配置，再導入先進預兆健康預防檢修法與 AR 技術於檢修之應用與發展。",
-      "en": "This course of \"Railway Vehicle System and Maintenance Depot\" will cover the basic design criteria of the railway vehicle, its sub-systems and integration. We will discuss factors that affect the design, sizing, manufacturing and maintenance of the sub-systems of the railway vehicle, including their integration with other sub-systems to work as one complete train. Various factors affecting reliability, accessibility and maintainability will be addressed. Then several types of vehicle (high-speed-vehicle, tilting train, self-guide bogie will be introduced to determine the dynamic stability and derailment risk. Finally, the design of maintenance depot will be studied and the latest technologies (PHM, AR) on railway vehicle maintenance will be introduced."
-    },
-    "id": "325040",
-    "name": {
-      "zh": "鐵道車輛系統與維修基地",
-      "en": "Railway Vehicle System and Maintenance Depot"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2960",
-        "code": "2960"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C025003",
+    "language": "英語",
+    "notes": "碩一必修，11.11-12",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
     "syllabusLinks": []
   }
 ]
