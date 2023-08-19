@@ -925,9 +925,9 @@
     ],
     "teacher": [
       {
-        "name": "蘇威豪",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12457",
-        "code": "12457"
+        "name": "李育奇",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12494",
+        "code": "12494"
       }
     ],
     "time": {
@@ -950,9 +950,7 @@
     "language": "　",
     "notes": "甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3714012",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=322167&code=12457"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3860001",
@@ -1276,13 +1274,7 @@
         "code": "2638"
       }
     ],
-    "teacher": [
-      {
-        "name": "林建安",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=24508",
-        "code": "24508"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -1307,11 +1299,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "待聘，邱品達 1.0",
+    "notes": "老師待聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504914",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=322183&code=24508"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "4502915",
@@ -15921,21 +15911,15 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
-      "fri": [
+      "thu": [
         "A",
         "B",
         "C"
       ],
+      "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "共同411",
-        "link": "Croom.jsp?format=-3&year=112&sem=1&code=383",
-        "code": "383"
-      }
-    ],
+    "classroom": [],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24702,9 +24686,9 @@
     ],
     "teacher": [
       {
-        "name": "陳正中",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12348",
-        "code": "12348"
+        "name": "張秉宸",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12499",
+        "code": "12499"
       }
     ],
     "time": {
@@ -24727,9 +24711,7 @@
     "language": "　",
     "notes": "甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713025",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324463&code=12348"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "C215048",
@@ -25568,7 +25550,13 @@
         "code": "2976"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李魁鵬",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10996",
+        "code": "10996"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
