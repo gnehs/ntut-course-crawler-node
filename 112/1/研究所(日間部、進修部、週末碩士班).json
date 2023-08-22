@@ -6217,7 +6217,7 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "　",
+    "language": "英語",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705441",
     "syllabusLinks": [
@@ -16778,7 +16778,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教403",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=53",
+        "code": "53"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18519,7 +18525,9 @@
     "language": "英語",
     "notes": "碩一必修，9.16 11.25 12.03 12.10 113.1.7 1.14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323204&code=11435"
+    ]
   },
   {
     "code": "C275014",

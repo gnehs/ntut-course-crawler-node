@@ -10190,7 +10190,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教403",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=53",
+        "code": "53"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11931,7 +11937,9 @@
     "language": "英語",
     "notes": "碩一必修，9.16 11.25 12.03 12.10 113.1.7 1.14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=323204&code=11435"
+    ]
   },
   {
     "code": "C275014",
@@ -21436,71 +21444,6 @@
     ]
   },
   {
-    "code": "3723070",
-    "description": {
-      "zh": "本課程將使用時下最新生成式人工智慧工具介紹人工智慧原理及其於大數據分析及智慧計算之應用，進行數據預處理，建立並優化訓練模型。課程內容包括監控生產線上各種數據，如產品品質、生產效率等。通過即時警報和提示，幫助管理人員快速識別並解決問題。藉由學習和分析過往的故障記錄和維修日誌，預測和診斷產設備，提供相應的維護建議。幫助企業實現定期維護和檢修，從而減少設備故障率和生產停機時間。進行自動識別和分類缺陷，並提供改進建議，從而提高產品品質和生產效率。",
-      "en": "This course makes use of the state-of-the-art (SOTA) tools of generative artificial intelligence (AI) to introduce the principles of artificial intelligence and its applications in big data, including data preprocessing, model building, and AI model hyper-parameterization. The course focuses on various types of production-related data. By monitoring shop floor real-time data, production engineers may quickly identify and resolve abnormalities. By learning and analyzing past failure records and maintenance logs, the system may predict and diagnose production errors and provide predictive schedules for equipment maintenance. It helps companies to find a better balance between equipment failure occurrence and production scheduled downtime. The course includes applications in automatic pattern identification, recognition, and classification to assist decision-makers in improving product quality and production efficiency."
-    },
-    "id": "324239",
-    "name": {
-      "zh": "人工智慧跨域於大數據分析之應用",
-      "en": "AI Applications in Big Data Analytics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管三丙",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2755",
-        "code": "2755"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11573",
-        "code": "11573"
-      },
-      {
-        "name": "黃乾怡",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11401",
-        "code": "11401"
-      },
-      {
-        "name": "蔡佩芳",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11435",
-        "code": "11435"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "2",
-        "3",
-        "4"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "10",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　",
-    "notes": "甲乙丙合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3723070",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324239&code=11573",
-      "ShowSyllabus.jsp?snum=324239&code=11401",
-      "ShowSyllabus.jsp?snum=324239&code=11435"
-    ]
-  },
-  {
     "code": "1400027",
     "description": {
       "zh": "課程重點：(1) 藉由適合其程度的教材加強學生必備的基礎文法觀念和句型結構；(2) 使學生確切把握閱讀要領以及充分瞭解寫作的各種技巧，重心在生字、片語、句法的解釋和基本寫作技巧的分析；(3) 熟悉英語人士日常生活情境及與學生將來就業環境相關之會話及適當之應對方式；(4) 透過練習加強聽、說、讀、寫的知能及表達。",
@@ -27508,5 +27451,57 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=325000&code=12245"
     ]
+  },
+  {
+    "code": "C275025",
+    "description": {
+      "zh": "本課程的目的一，將藉由五個面向了解企業倫理的本質，分別（1）廠商的社會責任，（2）消費者的保護，（3）員工的權益，（4）員工對公司的責任，（5）雇主與員工關係。目的二，進一步教授 ESG 及聯合國 SDGs 指標的基本定義，藉由國、內外的個案討論來深根學生對於企業永續經營的觀念。最後，透過對於 ESG 與市場機會、責任投資原則、環境足跡 (碳足跡、水足跡等) 盤點等，來訓練製作永續報告書的基礎能力",
+      "en": "The objective of this course is to appreciate the essential of Business Ethics through five main faucets: (1) Corporate social responsibility, (2) Consumer protection, (3) Employee's rights and benefits, (4) Responsibility of employee to the firms, and (5) Employer-employee relations.The second objective is to further explain the definitions of ESG and SDGs, and then to root the concept of sustainable management to students through local and international case studies.Finally, through ESG market opportunities, principles for responsible investment, inventory of environmental footprint (carbon footprint, water footprint, etc.), we expect to build up students the basic ability to generate the ESG report."
+    },
+    "id": "325043",
+    "name": {
+      "zh": "企業倫理與永續管理",
+      "en": "Business Ethics & Sustainability Management"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2995",
+        "code": "2995"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "徐昕煒",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12436",
+        "code": "12436"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "notes": "碩一必修，11.11-12",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
+    "syllabusLinks": []
   }
 ]
