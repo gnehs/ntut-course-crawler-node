@@ -2,13 +2,13 @@
   {
     "name": "賴建宏",
     "email": "ee12245@ntut.edu.tw",
-    "latestUpdate": "2023-08-09 12:41:27",
-    "objective": "本課程將從基礎深度學習理論、邊緣智慧硬體應用、資料集建置、客製化模型訓練到推論環境佈署，讓學員透過 Google Colab, Intel OpenVINO, OpenCV 等開源工具，學習如何規畫及實踐不同類型的低功耗、低延時、低成本及高隱私的邊緣智慧應用專案。\nThis course will cover basic deep learning theory, edge smart hardware application, data set construction, customized model training, and inference environment deployment. Allowing students to learn how to plan and practice types of edge smart application with low power consumption, low latency, low cost, and high privacy features.",
-    "schedule": "AI Trends - Notebooks\nInstallation Guide\nGetting Started\nFirst steps\nConvert & Optimize\nModel Demos\nModel Training\nLive Demos\nSystem Requirements\nRun the Notebooks\nLaunch a Single Notebook\nLaunch all Notebooks\nCleaning Up\nTroubleshooting",
-    "scorePolicy": "期中、期末各 30%，平時成績 40%",
-    "materials": "https://github.com/openvinotoolkit",
+    "latestUpdate": "2023-08-24 16:24:56",
+    "objective": "本課程主要以市面上常見的微控制器開發板，搭配 tinyML 做到在微處理機上的 AI\nThis course is mainly based on the common microcontroller development board on the market, with tinyML to achieve AI on the microprocessor",
+    "schedule": "AI Trends - Notebooks\nTable of Contents\n  Installation Guide\n  Getting Started\n  First steps\n  Convert & Optimize\n  Model Demos\n  Model Training\n  Live Demos\n  System Requirements\n  Run the Notebooks\n  Launch a Single Notebook\n  Launch all Notebooks\n  Cleaning Up\n  Troubleshooting",
+    "scorePolicy": "Midterm 30%\nFinal presentation 30%\n平時成績 40%",
+    "materials": "自己與廠商整理的講義和投影片與範例",
     "consultation": "分機 2237",
     "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
-    "foreignLanguageTextbooks": true
+    "foreignLanguageTextbooks": false
   }
 ]
