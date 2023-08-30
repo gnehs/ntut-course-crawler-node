@@ -2,10 +2,10 @@
   {
     "name": "劉亮志",
     "email": "lcliu@ntut.edu.tw",
-    "latestUpdate": "2023-05-29 11:33:43",
+    "latestUpdate": "2023-08-30 06:28:19",
     "objective": "本課程將教導學生了解固定收益型商品的評價以及風險控管的方法。這些方法會需要一些基礎的數學工具，例如微積分與統計，而這些工具大一、二的學生在過往的必修課程中已經習得。為了有效處理複雜的評價問題並與所介紹的基礎觀念連結，本課程將會教導學生如何利用兩種程式語言，C 和 Matlab，來進行計算，處理的問題也將包含 (1) 現金流現值的計算，(2) 利用牛頓法求解公司債持有報酬率，(3) 利用二分法計算 swap interest rate (4) 拔靴法求零息利率\n\n(This course will shed light on the methodology for evaluating fixed-income securities and hedging. The pricing algorithm will then be implemented in C language and Matlab. The problems that will be dealt with include the calculation of the present value of future cash flows, internal rates of returns via the bisection and Newton method,  and zero rate curves via the bootstrap method.)",
     "schedule": "第 1 週      課程介紹和導論\n第 2 週      Dev-C++ & Matlab 安裝；基本的 C & Matlab 語法 \n第 3 週      程式流程控制 (if /else structure and for/while loop) \n第 4 週      現金流評價、二分法 & 牛頓法 (1)\n第 5 週      現金流評價、二分法 & 牛頓法 (2)\n第 6 週      現金流評價、二分法 & 牛頓法 (3)  \n第 7 週      現金流評價、二分法 & 牛頓法 (4) \n第 8 週      陣列 \n第 9 週      利率與債券評價 (1)     \n第 10 週     利率與債券評價 (2)                     \n第 11 週     利率與債券評價 (3) \n第 12 週     利率與債券評價 (4)\n第 13 週     債券價格的敏感度與避險 (1)\n第 14 週     債券價格的敏感度與避險 (2)\n第 15 週     債券價格的敏感度與避險 (3)  \n第 16 週     債券價格的敏感度與避險 (4) \n第 17 週     學期考試 (Final exam)\n第 18 週     總複習、考試檢討 (Course review)",
-    "scorePolicy": "出席 (Attendance): 10%\n課堂練習，作業 (In-Class Exercise, Homework):  50%\n學期考試 (Term Exam): 40%",
+    "scorePolicy": "出席 (Attendance): 5%\n課堂練習，作業 (In-Class Exercise, Homework):  45%\n學期考試 (Term Exam): 50%",
     "materials": "1. 葉倍宏，C&C++ 程式設計，儒林\n2. 洪維恩，Matlab 程式設計 (第 2 版)，旗標\n3. 戴天時，C++ 財務程式設計，證券與期貨發展基金會\n4. 張焯然，財務工程與金融計算 - Matlab 的應用，證券與期貨發展基金會\n5. Options, Futures, and Other Derivatives, by J. C. Hull, 8TH Edition, Prentice Hall",
     "consultation": "每週二 10:10 - 12:00",
     "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://meet.google.com/ipq-gomh-xam)",
