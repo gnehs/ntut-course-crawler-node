@@ -617,7 +617,48 @@
         "code": "2634"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "崔紘嘉",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12442",
+        "code": "12442"
+      },
+      {
+        "name": "郭宏源",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12376",
+        "code": "12376"
+      },
+      {
+        "name": "陳晏笙",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11678",
+        "code": "11678"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "黃柏鈞",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11984",
+        "code": "11984"
+      },
+      {
+        "name": "潘孟鉉",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12231",
+        "code": "12231"
+      },
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12245",
+        "code": "12245"
+      },
+      {
+        "name": "譚巽言",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10304",
+        "code": "10304"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -862,7 +903,7 @@
         "code": "434"
       }
     ],
-    "people": "44",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -905,7 +946,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -4456,7 +4497,7 @@
         "code": "437"
       }
     ],
-    "people": "65",
+    "people": "66",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -16966,7 +17007,7 @@
         "code": "56"
       }
     ],
-    "people": "27",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -18121,7 +18162,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -19314,7 +19355,7 @@
         "code": "452"
       }
     ],
-    "people": "28",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -21349,7 +21390,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26873,7 +26914,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26922,7 +26963,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -26971,7 +27012,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27020,7 +27061,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27069,7 +27110,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27938,7 +27979,7 @@
         "code": "48"
       }
     ],
-    "people": "11",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -27995,7 +28036,7 @@
         "code": "437"
       }
     ],
-    "people": "24",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28526,6 +28567,229 @@
     "language": "　",
     "notes": "國立臺灣科技大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3002016",
+    "syllabusLinks": []
+  },
+  {
+    "code": "7815110",
+    "description": {
+      "zh": "內容包括機械性質測試、延性與脆性破壞、疲勞、腐蝕、磨耗、氫脆，及金屬加工、鑄造、熱處理、焊接等缺陷等探討。",
+      "en": "The contents include mechanical testing、ductile and brittle fracture、fatigue、corrosion、wear、hydrogen degradation，and deal with metal working defects、casting defects、heat treatment defects、welding defects。"
+    },
+    "id": "325408",
+    "name": {
+      "zh": "材料破壞學",
+      "en": "Fracture Science of Materials"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職材料所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2741",
+        "code": "2741"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "梁誠",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10506",
+        "code": "10506"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=422",
+        "code": "422"
+      }
+    ],
+    "people": "11",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=7815110",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=325408&code=10506"
+    ]
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "325414",
+    "name": {
+      "zh": "手球 (一)",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "國立師範大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "329624",
+    "name": {
+      "zh": "演說與辯論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "輔仁大學_教育學程",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "329690",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "17",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "暑期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3603108",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生須於學期中至相關機構連續實習 18 週，每週不得低於 2.5 天。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is designed to enhance students' on-job practical experiences. Students will work at an engineering related company or research organizations for 18 weeks (20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "329691",
+    "name": {
+      "zh": "實務校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "10",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "112-1 學期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603108",
     "syllabusLinks": []
   }
 ]
