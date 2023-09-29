@@ -10,5 +10,17 @@
     "consultation": "研究室分機 (Extension): 4222 位置 (Office): 宏裕科技大樓 1524 (Hung-Yu Research Tech. Building) Office hours: Sat. 18:00-19:00Any linking problem related to MS teams, please contact TA individually.TA: 陳勝舢 Email: 54sakuramiku@gmail.com",
     "remarks": "All lecture slides will be provided in advance through iSchool system.Lectures will be provided through MS teams.",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "邱弘緯",
+    "email": "hwchiu@ntut.edu.tw",
+    "latestUpdate": "2023-09-28 20:41:37",
+    "objective": "本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作 Python 作為資料科學的實作工具，包括其相關 Python 基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用 Python 取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的 AI 演算方法來分析大數據並輔助決策。\n\nThis course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making.",
+    "schedule": "Topic 1: System and Data Science and Python Lab \n- 9/17 (日) @ Complex Building R211\nTopic 2: Data processing and  Python Lab\n- 10/14 (六)  @ Complex Building R211\nopic 3: Regression and  Python Lab\n- 10/14 (六)  @ Complex Building R211",
+    "scorePolicy": "●  Prof. Chiu : Homework Assignments 100 %",
+    "materials": "1. Data science from scratch by Joel Grus, O’Reilly Media, Inc., 2019 ISBN: 9781492041139\n2. Python Data Science Handbook by Jake VanderPlas, O'Reilly Media, Inc. (ebook available on https://jakevdp.github.io/PythonDataScienceHandbook/ )\n3. https://sta663-sp22.github.io/\n4. https://github.com/leriomaggio/python-in-a-notebook",
+    "consultation": "1. hwchiu@ntut.edu.tw2. Teams messages",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
   }
 ]
