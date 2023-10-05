@@ -968,7 +968,9 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322166&code=12389"
+    ]
   },
   {
     "code": "3714012",
@@ -1310,7 +1312,68 @@
         "code": "2638"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳柏輝",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12398",
+        "code": "12398"
+      },
+      {
+        "name": "李達生",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11167",
+        "code": "11167"
+      },
+      {
+        "name": "李魁鵬",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10996",
+        "code": "10996"
+      },
+      {
+        "name": "施陽正",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10958",
+        "code": "10958"
+      },
+      {
+        "name": "柯明村",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10822",
+        "code": "10822"
+      },
+      {
+        "name": "胡石政",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10870",
+        "code": "10870"
+      },
+      {
+        "name": "陳清祺",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11684",
+        "code": "11684"
+      },
+      {
+        "name": "陳澤興",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=12467",
+        "code": "12467"
+      },
+      {
+        "name": "楊安石",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11319",
+        "code": "11319"
+      },
+      {
+        "name": "鄭鴻斌",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=10997",
+        "code": "10997"
+      },
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11083",
+        "code": "11083"
+      },
+      {
+        "name": "顏維謀",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11677",
+        "code": "11677"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -1327,7 +1390,14 @@
     "language": "　",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=322182&code=10996",
+      "ShowSyllabus.jsp?snum=322182&code=10822",
+      "ShowSyllabus.jsp?snum=322182&code=10870",
+      "ShowSyllabus.jsp?snum=322182&code=11684",
+      "ShowSyllabus.jsp?snum=322182&code=11319",
+      "ShowSyllabus.jsp?snum=322182&code=11083"
+    ]
   },
   {
     "code": "4504914",
@@ -1453,11 +1523,6 @@
     ],
     "teacher": [
       {
-        "name": "丁秀儀",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11710",
-        "code": "11710"
-      },
-      {
         "name": "王貞淑",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11505",
         "code": "11505"
@@ -1525,7 +1590,6 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB06028",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=322192&code=11710",
       "ShowSyllabus.jsp?snum=322192&code=11505",
       "ShowSyllabus.jsp?snum=322192&code=11985",
       "ShowSyllabus.jsp?snum=322192&code=10662",
@@ -27239,7 +27303,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -28823,6 +28887,88 @@
     "language": "　",
     "notes": "112-1 學期校外實習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603108",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3713013",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用暑假至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "329692",
+    "name": {
+      "zh": "校外實習",
+      "en": "ntern Practice"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2635",
+        "code": "2635"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "111 學年度暑期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3713013",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "329693",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "49",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "111 學年度暑期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
     "syllabusLinks": []
   }
 ]
