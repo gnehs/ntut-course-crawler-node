@@ -1395,6 +1395,7 @@
       "ShowSyllabus.jsp?snum=322182&code=10822",
       "ShowSyllabus.jsp?snum=322182&code=10870",
       "ShowSyllabus.jsp?snum=322182&code=11684",
+      "ShowSyllabus.jsp?snum=322182&code=12467",
       "ShowSyllabus.jsp?snum=322182&code=11319",
       "ShowSyllabus.jsp?snum=322182&code=11083"
     ]
@@ -8781,7 +8782,7 @@
         "code": "119"
       }
     ],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -15256,13 +15257,18 @@
         "name": "六教325",
         "link": "Croom.jsp?format=-3&year=112&sem=1&code=427",
         "code": "427"
+      },
+      {
+        "name": "三教211",
+        "link": "Croom.jsp?format=-3&year=112&sem=1&code=44",
+        "code": "44"
       }
     ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
-    "notes": "",
+    "notes": "自 10/12 起，每周四課程轉換至三教 211 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=323280&code=24006"
