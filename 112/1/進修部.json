@@ -15711,7 +15711,7 @@
         "code": "139"
       }
     ],
-    "people": "21",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "　",
@@ -25053,11 +25053,6 @@
     ],
     "teacher": [
       {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11573",
-        "code": "11573"
-      },
-      {
         "name": "黃乾怡",
         "link": "Teach.jsp?format=-3&year=112&sem=1&code=11401",
         "code": "11401"
@@ -25095,7 +25090,6 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215048",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=324472&code=11573",
       "ShowSyllabus.jsp?snum=324472&code=11401",
       "ShowSyllabus.jsp?snum=324472&code=12342"
     ]
@@ -28975,6 +28969,88 @@
     "language": "　",
     "notes": "111 學年度暑期校外實習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3714013",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用整學期到工業工程與管理相關機構實習，參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告。須在同一機構連續實習 4.5 月，學生應全職於實習機構實習。",
+      "en": "The course is developed to increase on-job practice capability of students. Participants practice and learn the real operation of the industrial engineering and management related fields in one of the corporative industrial engineering company during one semester. A practice intern and a well-prepared report must be completed to the course requirement. It is necessary to practice in one corporative industrial engineering and management company full-time at least 4.5 months."
+    },
+    "id": "329694",
+    "name": {
+      "zh": "學期校外實習",
+      "en": "Semester Practical Training"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2635",
+        "code": "2635"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "112-1 學期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3714013",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "329700",
+    "name": {
+      "zh": "災害實務",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　",
+    "notes": "中國科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
     "syllabusLinks": []
   }
 ]
