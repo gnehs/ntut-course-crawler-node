@@ -693,7 +693,7 @@
       }
     ],
     "people": "56",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -6689,7 +6689,7 @@
       }
     ],
     "people": "95",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -15873,7 +15873,7 @@
       }
     ],
     "people": "39",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -22754,7 +22754,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -37053,7 +37053,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -45632,6 +45632,47 @@
     "id": "329665",
     "name": {
       "zh": "計畫評估",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　 ",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "329666",
+    "name": {
+      "zh": "都市經濟學",
       "en": ""
     },
     "stage": "1",
