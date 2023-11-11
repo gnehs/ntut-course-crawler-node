@@ -9356,7 +9356,7 @@
       }
     ],
     "people": "12",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -22763,7 +22763,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "15",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -24738,7 +24738,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -26817,47 +26817,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "C515023",
-    "description": {
-      "zh": "本課程為學生提供商業決策背景下財務報告、分析和衡量問題的全面概述。學生將了解財務報表及其基本衡量標準。然後，他們將利用這種理解來使用財務比率進行分析。然後，學生將探索成本衡量、分配等在確定組織各部分的績效衡量方面的作用，以及它們與在各種商業環境中選擇和評估戰略的相互關係。他們將涵蓋諸如匹配策略與績效衡量、選擇和評估關鍵績效指標和平衡計分卡等問題。",
-      "en": "This course provides students with a comprehensive overview of financial reporting, analysis and measurement issues in the context of business decision making. Student will gain an understanding of financial statements and their underlying measurements. They will then use this understanding to conduct analyses using financial ratios. Students will then explore the role of cost measurements, allocations, etc. in determining the performance measures of parts of the organization and their inter-relationship with both choosing and evaluating strategies in various business contexts. They will cover issues such as matching strategies to performance measures, choosing and evaluating key performance indicators and balanced scorecards, etc."
-    },
-    "id": "324855",
-    "name": {
-      "zh": "財務信息運用與分析",
-      "en": "Measurement and Analysis for Business Decision Making"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "雙聯EMBA",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2995",
-        "code": "2995"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "11",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　 ",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515023",
-    "syllabusLinks": []
-  },
-  {
     "code": "C275011",
     "description": {
       "zh": "戰略管理使用綜合管理視角去解決相關的制定和實施企業和企業級戰略的問題。該課程包括開發識別問題的能力，評估戰略選擇，並瞭解戰略的形成和執行的組織過程。它建立在功能區課程所獲得的知識，並使用案例研究和項目，以提高學生的分析和決策能力。前提：必須參與上學期的課程或與得到研究生導師的許可。",
@@ -27662,7 +27621,7 @@
     },
     "classroom": [],
     "people": "1",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　 ",
     "notes": "",
@@ -28145,6 +28104,47 @@
     "id": "329700",
     "name": {
       "zh": "災害實務",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　 ",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "329701",
+    "name": {
+      "zh": "工業安全衛生管理實務",
       "en": ""
     },
     "stage": "1",

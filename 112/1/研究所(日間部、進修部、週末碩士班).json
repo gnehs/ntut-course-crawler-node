@@ -822,7 +822,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "6",
+    "peopleWithdraw": "8",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -6959,7 +6959,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -15759,7 +15759,7 @@
       }
     ],
     "people": "12",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -25663,7 +25663,7 @@
       }
     ],
     "people": "26",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -26394,7 +26394,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -29781,7 +29781,7 @@
       }
     ],
     "people": "26",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -35205,7 +35205,7 @@
       }
     ],
     "people": "31",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -38826,47 +38826,6 @@
     "language": "查詢 ",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515023",
-    "description": {
-      "zh": "本課程為學生提供商業決策背景下財務報告、分析和衡量問題的全面概述。學生將了解財務報表及其基本衡量標準。然後，他們將利用這種理解來使用財務比率進行分析。然後，學生將探索成本衡量、分配等在確定組織各部分的績效衡量方面的作用，以及它們與在各種商業環境中選擇和評估戰略的相互關係。他們將涵蓋諸如匹配策略與績效衡量、選擇和評估關鍵績效指標和平衡計分卡等問題。",
-      "en": "This course provides students with a comprehensive overview of financial reporting, analysis and measurement issues in the context of business decision making. Student will gain an understanding of financial statements and their underlying measurements. They will then use this understanding to conduct analyses using financial ratios. Students will then explore the role of cost measurements, allocations, etc. in determining the performance measures of parts of the organization and their inter-relationship with both choosing and evaluating strategies in various business contexts. They will cover issues such as matching strategies to performance measures, choosing and evaluating key performance indicators and balanced scorecards, etc."
-    },
-    "id": "324855",
-    "name": {
-      "zh": "財務信息運用與分析",
-      "en": "Measurement and Analysis for Business Decision Making"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "雙聯EMBA",
-        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2995",
-        "code": "2995"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "11",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "　 ",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515023",
     "syllabusLinks": []
   },
   {
@@ -45703,6 +45662,47 @@
     "language": "　 ",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "A505109",
+    "description": {
+      "zh": "本課程主要目的為讓研究生可以利用學期中、暑期或寒假至指導教授認可之校外公私立機構進行或參與實務研發，以增進研究生之實務研究能力。研究生於指導教授認可之同一校外研發機構的累計研究時數不得低於 320 小時，研究生於校外實務研發期滿後，由校外研發機構出具研究生於該機構之實務研發證明與實務研究成績；研究生並且必須繳交實務研發紀錄及實務研究報告予指導教授並彙交所屬系所保存。研究生校外實務研究學期成績之評定比例原則：校外實務研發機構占 50%，研究生指導教授占 50%。",
+      "en": "The main purpose of this course is to promote an all-round ability for the graduate students at NTUT. During either the summer/winter break or the regular semester term, graduate students are required to go to the organizations or agencies with respect to their individual research topics and future development by undergoing the on-site research. The course takers will need to stay in the same individual organization or agency with a time span of no less than 320 hours. The students will also need to present to the thesis advisor the on-site research documents - which will thus be collected and deposited in the individual departmental or graduate institute office. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organizations or agencies (50%), respectively."
+    },
+    "id": "329696",
+    "name": {
+      "zh": "校外實務研究",
+      "en": "Graduate On-Site Research"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "18",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "文發所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2951",
+        "code": "2951"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　 ",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A505109",
     "syllabusLinks": []
   }
 ]
