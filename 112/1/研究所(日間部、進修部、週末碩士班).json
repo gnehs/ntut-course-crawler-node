@@ -6617,7 +6617,7 @@
       }
     ],
     "people": "76",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -22568,7 +22568,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -26451,7 +26451,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -29456,7 +29456,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "查詢 ",
     "notes": "",
@@ -45534,7 +45534,7 @@
     },
     "classroom": [],
     "people": "6",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "　 ",
     "notes": "",
@@ -45703,6 +45703,94 @@
     "language": "　 ",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505109",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5105046",
+    "description": {
+      "zh": "國合專題特論乃透過國際大師的講課，讓學生學習有機及高分子材料相關領域的重要知識及了解最先進之研究成果或最新開發成品。",
+      "en": "This course will provide important information regarding to the latest development or application on the organic and polymeric materials. Speakers being invited are well-known international scholars in the related area."
+    },
+    "id": "329704",
+    "name": {
+      "zh": "國合專題特論 a",
+      "en": "International Colloquy on Special Topics a"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "高分所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2934",
+        "code": "2934"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂良賜",
+        "link": "Teach.jsp?format=-3&year=112&sem=1&code=11151",
+        "code": "11151"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "查詢 ",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105046",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705012",
+    "description": {
+      "zh": "本課程主要目的為讓研究生可以利用學期中、暑期或寒假至指導教授認可之校外公私立機構進行或參與實務研發，以增進研究生之實務研究能力。研究生於指導教授認可之同一校外研發機構的累計研究時數不得低於 320 小時，研究生於校外實務研發期滿後，由校外研發機構出具研究生於該機構之實務研發證明與實務研究成績；研究生並且必須繳交實務研發紀錄及實務研究報告予指導教授，指導教師依據研究生之實務研發紀錄及心得報告，指導研究生撰寫成實務研究成果報告，彙交所屬系所保存，並作為成績核定之依據。研究生校外實務研究學期成績之評定比例原則：校外實務研發機構占 50%，研究生指導教授占 50%。",
+      "en": "The main purpose of this course is to promote an all-round ability for the graduate students at NTUT. During either the summer/winter break or the regular semester term, graduate students are required to go to the organizations or agencies with respect to their individual research topics and future development by undergoing the on site research. The course takers will need to stay in the same individual organization or agency with a time span of no less than 320 hours. The students will also need to present to the thesis advisor the on-site research documents - which will thus be collected and deposited in the individual departmental or graduate institute office. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organizations or agencies (50%), respectively."
+    },
+    "id": "329722",
+    "name": {
+      "zh": "校外實務研究",
+      "en": "Graduate On-Site Research"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "18",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管所",
+        "link": "Subj.jsp?format=-4&year=112&sem=1&code=2938",
+        "code": "2938"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "　 ",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705012",
     "syllabusLinks": []
   }
 ]
