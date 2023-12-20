@@ -14,10 +14,6 @@ const { fetchSyllabus } = require("./crawler/fetchSyllabus");
     let { current } = await fetchYearSem();
     year = current.year;
     sem = current.sem;
-    //FIXME: Remove this after 2023/12/31
-    if (sem == 2 && new Date().getMonth() >= 7) {
-      sem = 1;
-    }
   }
   if (department) {
     console.log(`[fetch] ${year} ${sem} ${department}`);
