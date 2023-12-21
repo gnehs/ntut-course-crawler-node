@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "黃柏鈞",
+    "email": "pchuang.19840320@gmail.com",
+    "latestUpdate": "2023-12-11 13:48:56",
+    "objective": "This full-English course discusses the design and analysis of data structures and algorithms. The coverage of this graduate-level course is wider than the undergraduate-level course \"Data Structures\" and \"Computer Algorithms\", and includes the discussion of computation models, computation theories, and discrete mathematics techniques that assist the complexity analysis of data structures and algorithms. Advanced data structures and algorithms are covered; in addition, data structures and algorithms for novel computer hardware architecture (such as nonvolatile memories, distributed systems, and quantum computers) are also presented.",
+    "schedule": "(Tentative!)\n1. Mathematical background\n   1.1 Asymptotic growth rate of functions\n   1.2 Solving recurrence relations\n   1.3 Mathematical induction\n2. Basic analysis techniques\n   2.1 Computational complexities -- lower bounds and upper bounds\n   2.2 Worst case analysis and average case analysis\n   2.3 Amortized analysis\n3. Basic Design Paradigms\n   3.1 Divide and conquer\n   3.2 Greedy methods\n   3.3 Dynamic programming\n   3.4 Probabilistic algorithms\n4. Computational Complexity\n   4.1 Information-theoretic arguments\n   4.2 Adversary arguments\n   4.3 Linear reduction of problems\n   4.4 NP-completeness",
+    "scorePolicy": "(Tentative!)\nIn-class participation: 20%\nHomework assignments / in-class presentation: 25%\nMidterm examination: 25%\nFinal examination: 30%",
+    "materials": "(Tentative!)\n1. Thomas H. Cormen et al., Introduction to Algorithms, 3rd Edition, MIT Press, 2009.\n2. Peter Brass, Advanced Data Structures, Cambridge University Press, 2008.\n3. Michael Sipser, Introduction to the Theory of. Computation, 3rd Edition, Cengage Learning, 2012.",
+    "consultation": "Office hour for in-person meetings, or online meting by appointment.",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

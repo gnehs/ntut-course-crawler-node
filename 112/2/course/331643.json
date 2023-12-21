@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "金仕淳",
+    "email": "a6210647@nycu.edu.tw",
+    "latestUpdate": "2023-12-14 11:23:14",
+    "objective": "The course aims to learn how digital images are practiced in real-world applications, especially in medical images and computer vision.\nThis class will introduce the image's composition, image adjustment, composition, and even feature extraction for radiomics to apply to image detection and recognition. We will introduce some popular image processing algorithms about image processing and implement them in medical imaging projects.",
+    "schedule": "Week\tTopic\nWeek 1\tWhat is Digital Image Processing-Digital Image Fundamentals\nWeek 2\tIntroduction to Python environment setting\nWeek 3\tIntroduction to Medical Image Format\nWeek 4\tIntensity Transformations, Spatial Filtering, and kernel function (I)\nWeek 5\tIntensity Transformations, Spatial Filtering and kernel function (II)\nWeek 6\tProject Report (1)\nWeek 7\tIntensity-Based Segmentation\nWeek 8\tMorphological Image Processing\nWeek 9\tFeature Selection and Classifying\nWeek 10\tProject Report (2)\nWeek 11\tFourier Properties and Filtering in the Frequency Domain (1)\nWeek 12\tFourier Properties and Filtering in the Frequency Domain (2)\nWeek 13\tFourier Properties and Filtering in the Frequency Domain (3)\nWeek 14\tProject Report (3)\nWeek 15\tImage restoration\nWeek 16\tImage reconstruction\nWeek 17\tFeature extraction, representation, and radiomics for medical\nWeek 18\tProject Report (4)",
+    "scorePolicy": "(1) Homework 40% (2) Project report 40% (3) Participation 20%",
+    "materials": "Digital Image Process 4/e Gonzalez & Woods",
+    "consultation": "E-mail to a6210647@nycu.edu.tw",
+    "remarks": "Python programming skills are needed.",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳晏笙",
+    "email": "yschen@ntut.edu.tw",
+    "latestUpdate": "2023-12-12 07:26:50",
+    "objective": "This course is the deepening and broadening of linear algebra. In terms of deepening the theory, this course starts with the Gaussian elimination method, explaining the four vector spaces. Next, it explains the orthogonality and projection of matrices. In addition, this course explains the determinants, eigenvalues and eigenvectors, powers and exponents of matrices, and spectral decomposition, finally concluding with singular value decomposition, which is the theorem that unifies all the contents in this semester. In terms of broadening applications, this course introduces scientific and engineering applications, such as regression analysis, linear programming, graph theory and networks, and principal component analysis.",
+    "schedule": "Week and topic:\n1. Introduction - Importance of Linear Algebra\n2. Ax=b, Matrix, Gaussian Elimination and Application\n3. Vector Spaces and Linear Equation\n4. Applications: Graphs and Networks\n5. Orthogonality and Least Squares\n6. Applications: Multiple Regression\n7. Spring break\n8. Application: Linear Programming \n9. Midterm\n10. Determinant and its Applications\n11. Eigenvalues and Eigenvectors\n12. Ak and Difference Equations\n13. eA and Differential Equations\n14. Similarity Transformation and Spectral Theorem\n15. Positive Definite Matrices and Minimum Principles\n16. Applications: Multivariate Analysis and Principal Component Analysis\n17. Singular Value Decomposition and its Applications\n18. Final",
+    "scorePolicy": "Max(Midterm, Final) 50%\nFinal 50%",
+    "materials": "Gilbert Strang, Linear Algebra and Its Applications, 4th Edition, Thomson, 2006.",
+    "consultation": "Office hour: 14:00-17:00, FridayE-mail: yschen@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

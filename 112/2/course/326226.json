@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "吳修明",
+    "email": "hmwu@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 20:45:07",
+    "objective": "先修課程：負責教授同意。自動化機械之機構、感測器與驅動器介面技術、可程式控制程式設計及應用、作實際自動化機械之模擬、分析及設計專題。\nprerequisite: the permission of the instructor\nsubjects: mechatronic systems, mechanism of mechatronic systems, sensors, drivers and actuators, interface techniques , PLC, and case study.",
+    "schedule": "一週：三度空間向量與旋轉\n一週：齊次轉換矩陣與透視矩陣\n二週：機械臂直接運動學\n二週：機械臂反運動學、機械臂微分運動學",
+    "scorePolicy": "作業：100%",
+    "materials": "參考書：機器人控制原理與實務 施慶隆、李文猶編著 全華書局",
+    "consultation": "Office hours",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "葉賜旭",
+    "email": "ssyeh@ntut.edu.tw",
+    "latestUpdate": "2023-12-15 12:08:47",
+    "objective": "先修課程：負責教授同意。本課程主要說明可程式邏輯控制器 (PLC) 之基本操作原理與實務應用；課程內容包括：PLC 基本概念、PLC 系統介面、以及常用致動器與感測器等 PLC 關鍵組件與整合應用。藉由 PLC 專案模擬與實驗，使得修習本課程同學們可深刻體會 PLC 之設計與應用，並且培養與建立 PLC 機電控制系統設計之基礎能力。",
+    "schedule": "第 1 週 課程簡介 & 可程式邏輯控制器 (PLC)\n第 2 週 輸入與輸出介面 & 通訊與網路介面\n第 3 週 致動器與感測器\n第 4 週 進階程式設計與模擬\n第 5 週 專案模擬與實驗\n第 6 週 實機測驗",
+    "scorePolicy": "PLC 實機測驗：30%",
+    "materials": "Modern Control Technology - Components and Systems, C. T. Kilian, THOMSON, 3rd ed.\nDelta PLC 硬體及操作手冊",
+    "consultation": "學生可以 email 或課程 LINE 群組與老師聯絡討論，或是於教師諮商時間到老師辦公室討論。",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

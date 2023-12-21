@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "彭祖乙",
+    "email": "johnpeng@mail.ntut.edu.tw",
+    "latestUpdate": "2023-12-18 15:42:00",
+    "objective": "金融產業已經大規模的使用金融科技技術來增加效益與商機，然而背後潛藏的資安問題仍是個棘手的課題，本課程的學習目標將以培養金融產業的資通科技安全架構思維為主，著墨 IT 基礎設施與應用服務的兩大資安架構主題。課程所包含的範圍如下：金融資通環境的 IT 架構與應用，系統與網路 IT 架構下弱點的入侵與攻擊，網路各層的安全防禦，資通安全設備架構，應用服務的認證與授權，資料與系統的災難回覆，國際資安標準和認證，資安服務開發的安全架構，下一代的資安架構。\nFintech technology has already been used widely in the financial industry to increase cost-effectiveness and business opportunities. However, the hidden information security issues are still a thorny issue. The learning objectives of this course will focus on cultivating the security framework design thinking for IT systems and application for the financial industry , categorized into two major architecture themes of IT infrastructure and application services. The scope of the course is as follows: IT architecture and application of financing environment, penetration and attack of vulnerabilities under system and network IT architecture, Security defense at each layer of the computer network, cybersecurity equipment architecture, authentication and authorization of application services, Data and system disaster recovery, international information security standards and certification, security architecture for information security service development, and next-generation information security architecture.",
+    "schedule": "week 1       Cybersecurity fundamentals: overview of  why, how, what \nweek 2-3    Application and finance related cases study \nweek 4-5    Penetration and attacks: system and network vulnerability\nweek  6-7   Network Security, intrusion and prevention\nweek  8      Special topic on providing secure infrastructure \n                   for financial industry\nweek 9       Mid-term report\nweek 10-12  Authentication and authorization: from cryptography to          \n                    application flow \nweek  13    Recover model and process\nweek  14    Standard and certificate \nweek  15    Special topic on providing secure application development\n                   for financial industry\nWeek  16    Modern Security Framework: Zero Trust, SASE …\nweek   17-18  Group project presentation",
+    "scorePolicy": "• Homeworks, class participation: 30%\n• Midterm report & presentation: 30%\n• Final project: 40%",
+    "materials": "Important security framework studies, such as\nhttps://csrc.nist.gov/\nhttps://fidoalliance.org/",
+    "consultation": "johnpeng@ntut.edu.twcourse web site will be listed onhttps://tipeng.wixsite.com/school/",
+    "remarks": "SDG9,11",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳信安",
+    "email": "hachen@mail.ntut.edu.tw",
+    "latestUpdate": "2023-11-24 00:13:52",
+    "objective": "本課程目的在了解「為何」與「如何」以電腦模擬方式進行材料科學研究。課程內容提及量子化學、固態物理與密度泛函理論 (DFT)。而後將實際演練基本的材料模擬計算，內容包括結構最佳化、電子性質、光學性質、機械性質等，並將透過 Python 進行資料處理。學生可透過此課程學到材料模擬的基本原理、工作流程與實際操作，得以以理論觀點 / 微觀尺度評估材料議題。\nThe main purpose of the course is to understand “why to do” and “how to do” researches in materials science by using computer simulations. The background theory of quantum chemistry, solid-state physics and density functional theory (DFT) will be briefly introduced. The common tasks of materials simulations, including structural optimizations, electronic properties, optical properties, mechanical properties, etc., will be then demonstrated and employed. Basic commands of Python will also be introduced in doing data processing for analyses. Students will learn about basic principles, workflows and practices of materials simulations, being capable to evaluate materials’ issues from theoretical and microscopic viewpoints.",
+    "schedule": "議題包含以下內容：\n1. 量子化學簡介\n2. 固態物理簡介\n3. 計算方法簡介\n4. 結構最佳化\n5. 材料電子性質\n6. 材料機械性質\n7. 分子動力學\n8. 材料光學性質 (optional)\n\nThe following topics would be included:\n1. Introduction of quantum chemistry\n2. Introduction of solid state physics\n3. Background theory of the materials simulation\n4. Geometry optimization\n5. Electronic property\n6. Mechanical property\n7. Molecular dynamics\n8. Optical property (optional)",
+    "scorePolicy": "50% 期末考\n50% 期末報告\n\n50% Final exam\n50% Report",
+    "materials": "無制式參考書籍，以講義與課堂演示為主。\n\nNo formal reference book. Follow the slides and demonstrations in class.",
+    "consultation": "Email",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

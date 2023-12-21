@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "古瓊昇",
+    "email": "johnsonku@ntut.edu.tw",
+    "latestUpdate": "2023-12-12 17:56:27",
+    "objective": "這門課程探討微電子電路的基本原理和設計技術，專注於集成電路放大器、數位邏輯電路和相關主題。學生將獲得對微電子電路及其應用的全面理解。。\nCourse Title:Electronics\nDescription:This course explores the fundamental principles and design techniques of microelectronic circuits, focusing on integrated circuit amplifiers, digital logic circuits, and related topics. Students will gain a comprehensive understanding of microelectronic circuits and their applications.",
+    "schedule": "Week 1-2:\nCurrent Mirrors\nPrinciples and applications of current mirrors\nStability and current distribution in current mirrors\nSingle-stage amplifiers (Common emitter/source, Common collector/drain, Common base/gate)\nSmall-signal analysis\n\nWeek 3-4: Biasing techniques\nDesign considerations\n\n\nWeek 5-6: Differential amplifiers\nMulti-stage amplifiers\nCascode amplifiers\nGain and bandwidth calculations\n\nWeek 7-8: Frequency-dependent behavior of amplifiers\nBode plots\nHigh-frequency analysis\nMiller effect\n\n\nWeek 9: Midterm exam\n\nWeek 10:Class A, B, and AB amplifiers\nPower amplification \n\nWeek 11-12: Efficiency and heat dissipation\nPower supply considerations\n\nWeek 13-14: Ideal operational amplifiers\nInverting and non-inverting amplifiers\nIntegrators and differentiators\nComparator circuits\n\nWeek 15-16: Passive and active filters\nLow-pass, high-pass, band-pass, and band-stop filters\nOscillator principles\nDesign of RC and LC oscillators\n\nWeek 17: Introduction to digital logic\nCMOS technology and logic gates\nSequential and combinational logic\nMemory circuits\nClock generation and distribution\n\nWeek 18: Final Exam",
+    "scorePolicy": "期中考               30%\n期末考               30%\n平時成績及作業 40%",
+    "materials": "Adel S. Sedra , Kenneth C. (KC) Smith , Tony Chan Carusone , and Vincent Gaudet,\"Microelectronic Circuits, 8/e,\" Oxford University, 2020",
+    "consultation": "Office hour or making an appointment by email",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

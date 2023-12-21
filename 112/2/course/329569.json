@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "范書愷",
+    "email": "morrisfan@ntut.edu.tw",
+    "latestUpdate": "2023-12-14 17:12:30",
+    "objective": "本課程主要目的在於教導學生如何利用時間序列分析、品質製程管制、工程製程控制等方法來達成先進製程控制的目的。課程講述之內容包含下列課題：製程監控、製程調整、離散動態製程、時間序列模型、轉換方程模型、最佳回饋控制器、指數加權移動平均控制、遞迴式估計與自適應控制等。\nThe purpose of this course is to provide students a modern treatment of discrete-time advanced process control (APC) methods based on time series analysis, statistical process control (SPC) and engineering process control (EPC) for Quality Engineering in manufacturing. From an engineering perspective, process control is gaining recognition in the semiconductor industry as a means to compensate for equipment changes due to inconsistent operation, process drifts and process shifts. So, practical and theoretical components that comprise the foundation for the APC will be addressed as well.",
+    "schedule": "1\tProcess monitoring (SPC) vs. process control (EPC/APC)\n2\tProcess monitoring (SPC) vs. process control (EPC/APC); \n3\tARIMA (Box-Jenkins) time series models\n4\tARIMA (Box-Jenkins) time series models\n5\tARIMA (Box-Jenkins) time series models\n6\tARIMA (Box-Jenkins) time series models\n7\tTransfer function (TF, input/output) models\n8\tTransfer function (TF, input/output) models\n9\tMidterm Exam\n10\tReview of Midterm Exam\n11\tOptimal stochastic controller design\n12\tOptimal stochastic controller design\n13\tEWMA controllers and the run-to-run (R2R) control problem\n14\tEWMA controllers and the run-to-run (R2R) control problem\n15\tRecursive estimation & self-tuning (ST) quality control\n16\tRecursive estimation & self-tuning (ST) quality control\n17\tTerm Project Presentations",
+    "scorePolicy": "Grading Policy: Midterm Exam (30%), Homework (30%), Journal Paper Reading (20%), and Term Project (20%) due in part throughout the semester.",
+    "materials": "[Textbook] \n\nE. del Castillo, Statistical Process Adjustment for Quality Control, John Wiley, 2002.\n\n[References]\n\n(1)\tBox, G. E. P., Jenkins, G. M., and Reinsel, G. C., Time Series Analysis, Forecasting, and Control, 4th ed., 2008. \n(2)\tMontgomery, D. C., Forecasting & Time Series Analysis, 2nd ed., 1990.\n(3)\tBox, G. E. P., and Luceo, A., Statistical Control by Monitoring and Feedback Adjustment, 1997.",
+    "consultation": "Office Hours:Monday: 10-12AM",
+    "remarks": "按照 CDC 中央疫情指揮中心指示，視疫情狀況需要可採線上同步教學。本課程乃採用 Microsoft Teams 遠距同步軟體。",
+    "foreignLanguageTextbooks": true
+  }
+]

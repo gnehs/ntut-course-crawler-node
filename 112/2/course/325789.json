@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "張哲豪",
+    "email": "chchang@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 02:24:18",
+    "objective": "課程主軸以實務應用為出發點，擬建立水情與洪氾模擬的整合系統。其系統架構包含下列主要項目：\n1. 連結雷達降雨 QPESUMS 與數值氣候模式的資料，用以作為整個系統的主要輸入資料來源；\n\n2. 建立模擬計算能量，包含降雨逕流以及二維漫地流淹水模式。空間資料如渠道、下水道、水利設施、以及數值地形模型都會在在二維慢地流淹水模式中建立，且必須保持其資料一致性。\n\n3. 動態展示所有資料與計算成果，包含一維與二維的時序列資料；\n\n4. 各種轉換處理，包含圖層套疊、空間內插、時間序列補遺等。\n\n學員需要設立水情模擬整體環境以及熟悉各項子架構之間的連結，再者，用此系統來對應評估颱洪事件的應變計畫與治理設計，也是相當課程相當著重的部分。\n\nAn integrated system is expected in this class to carry out flood simulation under the configuration close to real practice.  The configuration includes:\n\n1. Connect QPESUMS and NWP as the main force data for the system \n\n2.Activate the model simulation, including rainfall runoff and 2D overland flow models.  Spatial data like channels, sewers, hydraulic structures, and DEM are considered in the 2D overland flow model with consistency.    \n\n3. Display all the dynamic data and calculation results which are time series of 1D and 2D.\n\n4. Conduct the temporal and spatial processes like map overlay, spatial interpolation, gap filling to time series.\n\nStudents are asked to setup the environment and familiar with the links among all the configuration.  In addition, planning and response to a typhoon event with the system are encouraged as well as the system development.",
+    "schedule": "課程安排\n日期\t週次\t主題\n2/23\t\t1\t課程介紹\n3/01\t\t2\t等雨量線：雷達降雨\n3/08\t\t3\t等雨量線：雨量站\n3/15\t\t4\t匯入外部雨量資料\n3/22\t\t5\t匯入外部雨量資料\n3/29\t\t6\t集水區平均降雨量計算\n4/05\t\t7\t假期\n4/12\t\t8\t集水區劃設\n4/19\t\t9\t集水區劃設\n4/26\t\t10\tFEWS: 匯入 QPESUMS\n5/03\t\t11\tFEWS: 匯入雨量站\n5/10\t\t12\tFEWS: 宣告集水區\n5/17\t\t13\tFEWS: 產出 BUI\n5/24\t\t14\tSOBEK 基本概念\n5/31\t\t15\tFEWS 啟動 SOBEK\n6/07\t\t16\t成果研討\n6/14\t\t17\t成果研討\n6/21\t\t18\t成果研討 (假期)\n\nSchedule\nData\t\tWeek\tTopic\n2/23\t\t1\t\tIntroduction\n3/01\t\t2\t\tContour with QPESUMS\n3/08\t\t3\t\tContour with rain gauge data\n3/15\t\t4\t\tImport precipitation from CWB\n3/22\t\t5\t\tImport precipitation from CWB\n3/29\t\t6\t\tCatchment Averaged Precipitation\n4/05\t\t7\t\tHoliday\n4/12\t\t8\t\tCatchment Delineation\n4/19\t\t9\t\tCatchment Delineation\n4/26\t\t10\t\tFEWS: import QPESUMS\n5/03\t\t11\t\tFEWS: import data of rain gauges\n5/10\t\t12\t\tFEWS: catchment definition\n5/17\t\t13\t\tFEWS: BUI for SOBEK\n5/24\t\t14\t\tSOBEK Basic\n5/31\t\t15\t\tActive SOBEK in FEWS\n6/07\t\t16\t\tResult Discussion\n6/14\t\t17\t\tResult Discussion\n6/21\t\t18\t\tResult Discussion (Holiday)",
+    "scorePolicy": "各主題將指定作業，據以評分\nWorks relate to each topics would be evaluated.",
+    "materials": "On line Lecture Note & Practice Guide.\nFEWS_Taiwan configuration for reference",
+    "consultation": "Please join the following group on facebook:https://www.facebook.com/groups/375700178347387",
+    "remarks": "Please join the following group on facebook:https://www.facebook.com/groups/375700178347387In case we have to go distance leaning, will announce the way to do through the facebook group and email from i+.",
+    "foreignLanguageTextbooks": false
+  }
+]

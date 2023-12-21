@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "張秉宸",
+    "email": "pcchang@ntut.edu.tw",
+    "latestUpdate": "2023-12-11 11:16:12",
+    "objective": "本課程著重於隨機流量網路 (stochastic flow network) 的可靠度評估、分析和決策。在整個課程中，我們將介紹與隨機流量網路相關的數值分析方法、模擬技術和最佳化問題。此外，我們將在隨機流量網路模型的框架內深入探討最快路徑、多商品、路由政策和負載管理問題等主題。學生將有機會將這些方法和模型應用到實際系統中，包括電腦網路、電信、城市交通系統、電力傳輸網路和製造系統。\nThis course emphasizes the reliability evaluation, analysis, and decision-making aspects of stochastic flow networks. Throughout the course, we will introduce analytical methodologies, simulation techniques, and optimization problems related to stochastic flow networks. Furthermore, we will delve into topics like quickest path, multi-commodity, routing policies, and load management issues within the framework of stochastic flow network models. Students will have the opportunity to apply these methodologies and models to practical systems, including computer networks, telecommunications, urban traffic systems, power transmission networks, and manufacturing systems.",
+    "schedule": "Week 1: Introduction\nWeek 2: The basic concept of network reliability\nWeek 3: MP-based reliability evaluation\nWeek 4: MC-based reliability evaluation\nWeek 5: QP-based reliability evaluation\nWeeks 6-7: Simulation in network reliability\nWeeks 8-9: Paper presentation for relevant works\nWeek 10: Maintainable network – Estimate and exact solutions\nWeeks 11-13: Manufacturing network\nWeek 14: Stochastic project network\nWeek 15: Optimization issues in network reliability\nWeeks 16-18: Final presentation",
+    "scorePolicy": "Class Participation 30%\nPaper Presentation 30%\nFinal Presentation 40%",
+    "materials": "Materials from SCI journal papers.",
+    "consultation": "EmailOffice hour: Mon. 16:00 - 18:00",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "吳建勳",
+    "email": "chwu@ntut.edu.tw",
+    "latestUpdate": "2023-12-11 12:15:45",
+    "objective": "建立節能車輛模擬平台，用以評估主系統與次系統之性能與響應關係，並以行車型態為例，分析能量管理系統、引擎、馬達、燃料電池、變速箱與不同儲能電池彼此之特性影響，進一步完成整車調校與控制策略之修正；介紹節能車輛中所使用數學模型與相關理論，進一步連結到學生在實務時會遇到的實際案例，解釋所觀察到的物理反應現象。\nEstablish the energy-saving vehicle simulation platforms are developed in this study to evaluate performance and response between main system and subsystems. The driving cycles are adopted as an example and characteristics among energy management system (EMS), engine, motor, fuel cell, automated manual transmission (AMT) and Energy storage batteries are analyzed for further calibration and modification of control strategy. This course aims at teaching key mathematical models and related theories used in energy-saving vehicles, further links to actual cases that students will encounter on the scene, and explains the physical reaction phenomena observed.",
+    "schedule": "1. Course Introduction and Matlab/Simulink Explanation\n2. Introduction to Vehicle Dynamics and Software Establishment\n3. Introduction to Transmission Model and Software Establishment\n4. Introduction to Engine Model and Software Establishment\n5. Introduction to Driving Pattern, Driver Model and Software Establishment\n6. Integration and Analysis for Simulation Platform of the Internal Combustion Engine Vehicle\n7. Introduction to Motor Model and Software Establishment\n8. Introduction to Energy Storage Battery Model and Software Establishment\n9. Midterm Exam\n10. Integration and Analysis of the Electric Vehicle Simulation Platform\n11. Introduction to Energy Management System Model introduction and Software Establishment \n12. Integration and Analysis of the Hybrid Vehicle Simulation Platform\n13. Fuel Cell Systems (1)\n14. Fuel Cell Systems (2)\n15. Integration and Analysis for Simulation Platform of the Hybrid Energy Storag Vehicle\n16. Introduction to Vehicle Simulation Platform and Hardware Embedded System(1)\n17. Introduction to Vehicle Simulation Platform and Hardware Embedded System(2)\n18. Final Report",
+    "scorePolicy": "General Performance: 20%\nComputer-based Midterm Exam: 40%\nFinal Report: 40%",
+    "materials": "None",
+    "consultation": "(1) Tel: 02-27712171#3617(2) Research Office: 526-3, General Science Building(3) email: chwu@ntut.edu.tw",
+    "remarks": "Google Meet：https://meet.google.com/gtm-ueao-pfr",
+    "foreignLanguageTextbooks": false
+  }
+]

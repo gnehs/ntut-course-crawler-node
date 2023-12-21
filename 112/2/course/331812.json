@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳紅章",
+    "email": "hctran@ntut.edu.tw",
+    "latestUpdate": "2023-12-17 13:32:10",
+    "objective": "先修課程：負責教授同意\n本課程介紹有限元素分析法基本原理及其在各種工程問題上之應用。\n1. 有限元素分析法之基本觀念\n2. 利用變分原理建立有限元素模式\n3. 形狀函數及等參數元素\n4. 一維問題：桿、桁架、樑及骨架等\n5. 二維問題：平面應力應變及板殼問題。\n6. 三維問題：一般實體\n7. 有限元素分析之計算機程式處理\n8. 有限元素分析於動態問題之應用\n9. 相關有限元素分析套裝軟體簡介\nTo introduce the basic principle of the finite element analysis and its application in solving various types of engineering problems.\n1. Introduction to the basic concepts of the finite element analysis\n2. Formulation of the finite models through the use of variational principles\n3. Shape functions and isoparametric elements\n4. One dimensional problems: rod, truss, beam, frame, etc.\n5. Two dimensional problems: plane stress, plane strain and plate, etc.\n6. Three dimensional problems: typical solids\n7. Implementation of the FEM computation by computer\n8. Finite element applications in dynamic problems\n9. Survey of some finite-element software systems",
+    "schedule": "Weeks 1-2: Introduction to Finite Element Analysis (FEA)\nOverview of FEA\nApplications of FEA\nIntroduction to MATLAB for FEA\n\nWeeks 3-4: Mathematical Foundation for FEA\nReview of linear algebra concepts\nIntroduction to partial differential equations (PDEs)\nBasics of numerical methods\n\nWeeks 5-6: Structural Analysis with FEA\nOne-dimensional (1D) elements and problems\nTwo-dimensional (2D) elements and problems\nIntroduction to structural mechanics\n\nWeeks 7-8: Mesh Generation and Preprocessing\nBasics of mesh generation\nMesh quality and refinement\nIntroduction to preprocessing in FEA\n\nWeeks 9-10: MATLAB Programming for FEA\nBasics of MATLAB programming\nSolving linear algebraic equations in MATLAB\nDeveloping FEA code in MATLAB\n\nWeeks 11-12: Heat Transfer Analysis\nIntroduction to heat transfer problems\nFinite element analysis for heat transfer\nMATLAB implementation for heat transfer problems\n\nWeeks 13-14: Fluid Dynamics in FEA\nIntroduction to fluid dynamics problems\nFinite element analysis for fluid dynamics\nMATLAB implementation for fluid dynamics problems\n\nWeeks 15-16: Nonlinear Analysis\nIntroduction to nonlinear problems in FEA\nNonlinear material behavior\nMATLAB implementation for nonlinear analysis\n\nWeeks 17-18: Project and Review\nFinal project assignment incorporating various FEA concepts\nReview of key concepts\nPreparation for final assessments",
+    "scorePolicy": "Homework 30%\nMidterm 30%\nFinal Presentation 40%",
+    "materials": "\"Programming the Finite Element Method\" by I. M. Smith, D. V. Griffiths",
+    "consultation": "If students would like to consult about the course, please contact me via mail email address: hctran@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

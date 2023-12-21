@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "賴冠廷",
+    "email": "ktlai@ntut.edu.tw",
+    "latestUpdate": "2023-12-17 16:34:04",
+    "objective": "The goal of this course is to give students a broad overview of state-of-the-art deep learning algorithms, and teach students how to develop deep learning applications by hands-on coding examples. Most examples taught in this class are based on the TensorFlow framework. We will cover many different fields including image classification, object detection, natural language processing, reinforcement learning and generative adversarial networks.",
+    "schedule": "Course website: http://www.aiotlab.org/teaching/dl_app.html\n\n1.\tIntroduction to Deep Learning\n2.\tApplied Math (Linear Algebra, Probability, Calculus)\n3.\tMachine Learning Basics\n4.\tTensorFlow & Keras        \n5.\tConvolutional Neural Networks  (CNN)      \n6.\tAdvanced Keras API & PyTorch\n7.\tNatural Language Processing (NLP), Word Embedding, Self-supervised Learning\n8.\tMidterm exam\n9.\tRecurrent Neural Networks (RNN) & Long Short-term Memory (LSTM)\n10.\tAttention is all you need! Attention and Transformer\n11.\tFoundation Models, ChatGPT, and Hugging Face\n12.\tObject Detection and Segmentation\n13.\tGenerative Adversarial Networks (GAN)\n14.\tDiffusion is all you need? Stable diffusion, midjourney, DALL-E\n15.\tDeep Reinforcement Learning and Stable Baseline\n16.\tGraph Convolution Networks (GCN)\n17.\tFinal project demo\n18.\tFinal exam",
+    "scorePolicy": "Homework (40%), Midterm and Final Exam (35%), Final Project (15%), Quizzes and attendance (10%)",
+    "materials": "1. Francois Chollet, “Deep Learning with Python, 2nd edition” Manning, 2021\n2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, “Deep Learning,” MIT Press, 2017\n3. Latest publications on CVPR, NIPS, ICML, AAAI, ICLR\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html",
+    "consultation": "Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713Email: ktlai@ntut.edu.tw",
+    "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.Any announcements will be posted in Microsoft Teams.Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713",
+    "foreignLanguageTextbooks": true
+  }
+]

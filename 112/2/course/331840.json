@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "莊澤光",
+    "email": "s2300072ray@gmail.com",
+    "latestUpdate": "2023-12-12 12:39:29",
+    "objective": "課程目標為教授動畫與遊戲引擎軟體 (Unreal) 於多媒體產業上的應用，並使學生具備建置素材庫 (Game-Ready Models) 之能力，內容包含美術設計與程式的建置。\n  透過專案式教學，讓學生了解建模、材質、綁定的進階應用及銜接遊戲引擎的工作流程，並搭配 Unreal Blue Print、State Machine、 State Tree、HLSL Code 等等程式工具的使用，完善素材在遊戲引擎中的控制呈現，讓學生具備銜接設計端與程式端的技術。\n  期末以產出一件簡單的遊戲專案為目標，並以此為主要評分方式。 \n\nThe course aims to teach the application of animation and game engine software in the multimedia industry, and to equip students with the ability to build a repository of Game-Ready Models. The content includes the construction of artistic design and programming.\nThrough project-based learning, students will understand advanced applications of modeling, texturing, and binding, as well as the workflow for integrating game engines. They will also utilize programming tools such as Unreal Blue Print, State Machine, State Tree, and HLSL Code to enhance the control and presentation of models in the game engine, enabling students to have the technical skills to connect the design and programming aspects. The final goal is to produce a simple game project, which will be the primary evaluation method.",
+    "schedule": "第 1 週\t課程目標、學期安排、上課評分規則、軟體準備、分組規劃說明。\t\t\n第 2 週\t遊戲引擎架構介紹、Unreal 介面介紹、基本軟體操作\n第 3 週\tUnreal 場景建構 - 室內關卡設計\t\t\n第 4 週\tUnreal 場景建構 - 室外關卡設計\t\t\n第 5 週\t介紹 Blueprint 函式庫與繼承種類的概念\t\t\n第 6 週\t使用 Level Blueprint 與 Blueprint Class \t\t\n第 7 週\t使用變數與時間軸創建關卡_關卡閘門\t\t\n第 8 週\t使用變數與運算優化關卡_關卡閘門與燈光\t\t\n第 9 週\t建構可程式化並動態改變的 Blueprint Class 場景_迷宮關卡\t\t\n第 10 週\t期中作品呈現\t期中遊戲關卡呈現。\t請附上藍圖程式的資料以利評分。\n第 11 週\t建構 Blueprint Class 簡易遊戲 AI 建構_A\t\t\n第 12 週\t建構 Blueprint Class 簡易遊戲 AI 建構_B\t\t\n第 13 週\tState Machine 建構，State Tree 應用\t\t\n第 14 週\t簡易特效說明\t\t\n第 15 週\t材質球功能與頻道介紹\t\t\n第 16 週\t後製特效 & Fog 場景霧\t\t\n第 17 週\t程式專案打包 (PC)\t\t\n第 18 週\t期末作品呈現\t期末遊戲專案呈現\t完整打包後上傳雲端。",
+    "scorePolicy": "1. 上課出缺席與課程參與 (含態度、課程互動、課堂作業)_30%\n2. 期中作業進度 (場景與 level Blueprint 應用)_30%\n3. 期末作業完整度 (課堂技術的應用、設計完整度、整體呈現)_40%",
+    "materials": "<教材>\n1. 無，教師自編素材與影片。\n2. 參考 EpicGame 官方教學與手冊。\n\n< 其他 >\n1. 本課程建議同學先修過” 電腦輔助設計 (一) (二)”，再修習此課程為佳。\n2. 另本課程建議同學自備筆電，以利管理素材與程式版次。",
+    "consultation": "個人信箱: s2300072ray@gmail.com",
+    "remarks": "FB Teaching Group: https://www.facebook.com/groups/226842116327396/",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳紅章",
+    "email": "hctran@ntut.edu.tw",
+    "latestUpdate": "2023-12-17 13:46:35",
+    "objective": "本課程介紹當前針對訊號及影像常用之辨識演算法，包括支持向量機、支持向量描述、主成分分析、非線性主成分分析、線性鑑別分析、自回歸模型、共同空間圖形濾波。\nTopics include support vector machine (SVM), support vector data description (SVDD), principal component analysis (PCA), nonlinear PCA, linear discriminant analysis (LDA), autoregressive model, and common spatial",
+    "schedule": "Weeks 1-2: Introduction to Image and Signal Processing\nOverview of image and signal processing\nBasics of digital image representation\nIntroduction to MATLAB or Python for image and signal processing\n\nWeeks 3-4: Image Enhancement Techniques\nHistogram equalization\nSpatial domain methods (smoothing, sharpening)\nFrequency domain methods (Fourier transform)\n\nWeeks 5-6: Image Filtering and Convolution\nConvolution operation\nLinear and nonlinear filtering\nEdge detection techniques\n\nWeeks 7-8: Image Transformations\nImage rotation, scaling, and translation\nGeometric transformations\nIntroduction to wavelet transforms\n\nWeeks 9-10: Image Segmentation\nThresholding methods\nRegion-based segmentation\nClustering algorithms for segmentation\n\nWeeks 11-12: Image Feature Extraction\nFeature extraction techniques\nCorner detection and Harris corner detector\nSIFT and SURF feature descriptors\n\nWeeks 13-14: Introduction to Signal Recognition\nOverview of signal recognition\nSignal processing techniques\nFeature extraction from signals\n\nWeeks 15-16: Pattern Recognition and Classification\nIntroduction to pattern recognition\nSupervised and unsupervised learning\nClassification algorithms (e.g., SVM, k-NN)\n\nWeeks 17-18: Final Project and Review\nApplication of image and signal recognition techniques in a final project\nReview of key concepts\nPreparation for final assessments",
+    "scorePolicy": "Homework 30%\nMidterm 30%\nFinal Projects 40%",
+    "materials": "\"Image Processing, Analysis, and Machine Vision\" by Milan Sonka, Vaclav Hlavac, and Roger Boyle",
+    "consultation": "If students would like to consult about the course, please contact me via mail email address: hctran@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

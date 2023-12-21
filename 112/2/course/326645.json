@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "楊濠瞬",
+    "email": "haoshun@ntut.edu.tw",
+    "latestUpdate": "2023-12-14 13:59:31",
+    "objective": "1. 阻抗匹配器\n2. 濾波電路\n3. 小訊號放大器\n4. 弦波訊號產生器\n5. 晶體振盪器\n6. 混波器\n1. Impedance matching circuits\n2. Filters\n3. Small-signal amplifiers\n4. Sinusoidal wave generators \n5. Crystal oscillators\n6. Mixers",
+    "schedule": "Week 1: Course content introduction\nWeek 2: Simulation tool teaching and band-pass filter (BPF) introduction (ex: duplexer in FDD)\nWeek 3: band-pass filter (BPF) design teaching (transmission line, S parameters)\nWeek 4: band-pass filter (BPF) design teaching (Smith chart, EM simulation)\nWeek 5: band-pass filter (BPF) implementation (PCB layout tool teaching)\nWeek 6: Project-I BPF examination\nWeek 7: Receiver (Rx) introduction (ex: Rx specification)\nWeek 8: low-noise amplifier (LNA) design teaching (DC bias circuits, noise matching)\nWeek 9: low-noise amplifier (LNA) design teaching (power matching, small-signal stability)\nWeek 10: low-noise amplifier (LNA) implementation (all components are on PCB)\nWeek 11: Project-II LNA examination\nWeek 12: Transmitter (Tx) introduction (ex: Tx specification)\nWeek 13: power amplifier (PA) design teaching (DC bias circuits, load pull, efficiency)\nWeek 14: power amplifier (PA) design teaching (source pull, large-signal stability)\nWeek 15: power amplifier (PA) implementation (all components are on PCB)\nWeek 16: Project-III PA examination\nWeek 17: Dragon Boat Festival\nWeek 18: Project resubmission and Sharing",
+    "scorePolicy": "實作一 Project I (BPF) : 30% (成品佔 20%, 口試佔 10%)\n實作二 Project II (LNA) : 35%  (成品佔 25%, 口試佔 10%)\n實作三 Project III (PA) : 35%  (成品佔 25%, 口試佔 10%)",
+    "materials": "RF Circuit Design Theory and Applications by Reinhold Ludwig and Pavel Bretchko",
+    "consultation": "Email: haoshun@mail.ntut.edu.tw",
+    "remarks": "Email: haoshun@mail.ntut.edu.tw",
+    "foreignLanguageTextbooks": true
+  }
+]

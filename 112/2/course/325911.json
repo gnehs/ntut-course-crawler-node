@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "潘孟鉉",
+    "email": "mspan@ntut.edu.tw",
+    "latestUpdate": "2023-12-12 10:51:35",
+    "objective": "※大綱內容須說明課程與 USR 計畫場域議題之關聯性，及如何與課程內容結合之方式，並同步於課程系統更新。\n\n近年來許多關於人工智慧、網路應用、甚至於嵌入式系統等等的場域皆使用 Python 來做為開發之程式語言。有鑑於多數的 Python 開發者皆將 Python 作為一般的直譯式程式語言，卻沒有善用到 Python 物件導向之特性，因此本門課將主要以 Python 物件導向程式撰寫為出發，輔以要求學生開發各類型之應用來熟悉 Python 物件導向程式之特點，並且教導學生使用各類型之應用函式庫來讓學生更加熟悉 Python 之特性。課程之安排將教導學生開發應用系統介面程式，所習得之技能亦可以用於開發各式各項創新之服務，亦可以用於開發人工智慧應用相關之主題。此外本門刻意要求學生於期末實作可以用於老人照護排班與 line 機器人服務系統與開發運算思維教材等應用。",
+    "schedule": "week 1: introduction and pre-test \nweek 2: Input/output/decision structure/repetition structure\nweek 3: Files and exceptions/ Lists\nweek 4: Strings/dictionary\nweek 5: USR 場域負責人演講與需求說明\nweek 6: Class and object-oriented programming)\nweek 7: Socket and thread\nweek 8: Sqlite\nweek 9: Callback and observer\nweek 10: 期中 USR 場域實做規劃報告\nweek 11: Web backend\nweek 11: Pyqt5\nweek 12: Pyqt5\nweek 13: Pyqt5\nweek 14: regular expression\nweek 15: USR 場域應用實作與討論 (USR 場域移地教學)\nweek 16: USR 場域應用實作與討論 (USR 場域移地教學)\nweek 17: 期末 USR 實地場域展示\nweek 18: 期末 USR 實地場域展示",
+    "scorePolicy": "On site assignment: 80%\nFinal Project: 20%",
+    "materials": "Starting Out with Python, 4/e, Tony Gaddis",
+    "consultation": "請與授課教師 email 聯繫安排",
+    "remarks": "無",
+    "foreignLanguageTextbooks": false
+  }
+]

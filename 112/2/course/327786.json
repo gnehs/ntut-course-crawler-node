@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "高立人",
+    "email": "ljkau@ntut.edu.tw",
+    "latestUpdate": "2023-12-18 22:53:45",
+    "objective": "瞭解各種 EDA 工具的使用、PLD 元件設計、FPGA 與硬體描述語言（HDL）設計，包含：\n1.EDA 工具使用\n2.PLD 元件設計與硬體描述語言初探\n3.FPGA 與 VHDL 硬體描述語言",
+    "schedule": "週次 單元主題\n01. Introduction\n02. EDA 工具：Cadence Orcad 的使用 I\n03. EDA 工具：Cadence Orcad 的使用 II\n04. EDA 工具：Cadence Orcad 的使用 III\n05. EDA 工具：Altium Designer 的使用 I\n06. EDA 工具：Altium Designer 的使用 II\n07. EDA 工具：Altium Designer 的使用 III\n08. EDA 工具：Design Flow Review  \n09. 期中考（紙筆測驗）\n10. FPGA Development Board and Quartus II\n11. Introduction to VHDL\n12. 組合邏輯實驗\n13. 二進位加減法器電路設計\n14. 循序邏輯設計 - Latch\n15. 循序邏輯設計 - Flip Flop\n16. 移位暫存器\n17. 狀態機\n18. 期末考（實作考試）",
+    "scorePolicy": "課堂實驗操作及實驗報告：20%\n期中考（紙筆測驗）： 35%\n期末考（實作考試）： 35%\n出席率與課堂表現：10%",
+    "materials": "Textbook\nDigital Design with CPLD Applications and VHDL, 2nd Edition. by Robert K. Dueck, THOMSON DELMAR LEARNING\n代理商：歐亞書局\n電話：（02）8912-1188 轉 504 或 0980-081058\n\nReference1\nDigital Design, 4th Edition, by M. Morris Mano and Michael D. Ciletti, Pearson\n代理商：滄海書局\n電話：（02）2736-0282 或 0980-353307\n\nReference2\nDigital Systems Design using VHDL, by Charles H. Roth, Jr. and Lizy Kurian John, THOMSON\n代理商：滄海書局\n電話：（02）2736-0282 或 0980-353307\n\nReference3\nLogic and Computer Design Fundamentals, 4th Edition, by M. Morris Mano, and Charles R. Kime, Pearson Education\n代理商：高立圖書\n電話：（02）22900318 轉 215, 213 或 0921-456039",
+    "consultation": "課程資訊網：https://academic.ntut.edu.tw/4628 / 任課教師連絡方式：電子郵件：ljkau@mail.ntut.edu.tw 校內分機：2242 行動電話：0933-996072",
+    "remarks": "二級（含以上）疫情警戒期間教學措施：因應疫情採非實體上課之教學措施：01. 使用 Microsoft Teams 或 Google Meet 授課使用工具軟體與會議代碼：公佈於課程資訊網 02. 課程資訊網：https://academic.ntut.edu.tw/4628/03. 同一組別配發一套實驗模組，由同組一位同學攜回保管，課堂時段於自家進行實驗並與同組同學相互討論完成課堂實驗）",
+    "foreignLanguageTextbooks": true
+  }
+]

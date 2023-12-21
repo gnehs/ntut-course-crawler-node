@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "曾恕銘",
+    "email": "shuming@ntut.edu.tw",
+    "latestUpdate": "2023-12-12 17:26:29",
+    "objective": "This course covers the basics and latest developments in information and communication technology (ICT), including Internet engineering, information theory and data compression and video standards (Huffman code), error correction codes (convolutional, turbo, LDPC / Polar code, for 4G, 5G, 802.11ac, DVB-T / T2 / S / C2, NAND flash memory), multiple access protocols (CSMA / CA with RTS / CTS for WiFi, CSMA / CD for Ethernet) , Wireless video transmission error resistance (HARQ, MDC, optimization theory (including linear programming)), radio resource allocation, mobile edge computing, video objection detection, Internet of things (IoT).",
+    "schedule": "1.\tNetwork Protocols (Internet engineering)\n2.\tIT  source coding for video standards (Huffman code etc.)\n3.\tInformation theory and channel coding introduction\n4.\tconvolutional/RS codes for 4G control channel (optional)\n5.\tturbo codes for 4G traffic channel (optional)\n6.\tLDPC codes/Polar codes for 5G\n7.   Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.)\n8. \tError resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n9.   radio resource allocation deep learning approach, (optional)\n9-1. resource (computing and communication) allocation for task offloading in mobile edge computing\n9-2 CNN objection detection YOLO\n12.  IoT",
+    "scorePolicy": "Oral report (part of handouts): 30%\nExam: 30%\nFinal Project (objection detection, mobile edge computing and IoT): 40%",
+    "materials": "Course handouts",
+    "consultation": "By email",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  }
+]

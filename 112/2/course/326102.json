@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳偉凱",
+    "email": "woeikaechen@ntut.edu.tw",
+    "latestUpdate": "2023-12-11 17:30:15",
+    "objective": "本課程探討應用物件導向方法從事軟體設計的過程與步驟，透過課程專題製作，學者將學習以 UML 記載分析與設計之結果，並使用一個物件導向語言 (如 Java 或 C++) 實作之。課程內容: 1. 物件導向模型 -- UML 介紹 2. 物件導向程式語言與環境 3. 物件導向軟體發展週期 3.1 物件導向分析 - 需求分析，使用個案，觀念模型，有限狀態模型 3.2 物件導向設計 - 實際使用個案，合作圖，類別圖，設計模板，3.3 程式撰寫 - 設計與程式之應對 4. 專題\nThis course familiarizes the students with the principles and techniques for object-oriented software development. The students will use UML and an object-oriented language such as Java or C++ to complete a term programming project. Course contents: 1. Object-oriented modeling with UML 2. Object-oriented languages and environments 3. Object-oriented software development process 3.1 Object-oriented analysis - requirement analysis, use case analysis, conceptual models, finite state machine models 3.2 Object-oriented design - real use cases, collaboration diagrams, class design diagrams, design patterns 3.3 Construction - mapping design to codes 4. Term project.",
+    "schedule": "1. This course covers object-oriented modeling for software development. Materials covered include class models, state models, and interaction models in UML, a reference process model based on Unified process, implementation issues, and software engineering principles. This course is thinking and programming-intensive.\n2. Students are required to complete a non-trivial software project. Only object-oriented languages such as C++/Java/C# are allowed. A project team may have 1-4 students. A single person team is allowed but is not encouraged.\n3. There will be no exams; instead, there are 7 homework assignments, several in-class exercises, and two project reviews. All assignments turned in must be typed (handwriting will not be accepted).",
+    "scorePolicy": "Homework assignment schedule and grading policy:\nWeek #1\tHomework #1\tProject proposal\t0%\nWeek #2\tHomework #2\tIteration 1: Use case\t7%\nWeek #4\tHomework #3\tIteration 1: Domain model \t7%\nWeek #6\tHomework #4\tIteration 1: Design class diagram (3 weeks)\t7%\nWeek #7\tHomework #5\tIteration 1: Implementation class diagram (4 weeks)\t7%\nWeek #i\tExercise\tIn-class exercise: 6-9 hours.\t12%\nWeek #11, #12\tMidterm review\tProject presentation. Ten teams, decided by lottery on the presentation date, will present/demo their projects for 30 minutes. The rest of the teams need to turn in their slides and demo videos. \t16%\nWeek #12\tHomework #6\tIteration 2: Use case and domain model\t7%\nWeek #14\tHomework #7\tIteration 2: Design and implementation class diagram\t7%\nWeek #17, #18\tFinal review\tProject presentation; 15 minutes per team. \t20%\nWeek #1-#18\tAttendance\tAttendance records account for 10% of the final grade\t10%",
+    "materials": "C. Larman, Applying UML and Patterns, 3rd Ed., Prentice Hall, 2004.",
+    "consultation": "開學 (課) 前有課程諮詢需求時，請使用電子郵件 (woeikaechen 小老鼠 ntut.edu.tw) 與老師聯絡，開學 (課) 後請於上課時間或使用 Teams 找老師討論。",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

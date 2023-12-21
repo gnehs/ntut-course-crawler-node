@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "田方治",
+    "email": "fctien@ntut.edu.tw",
+    "latestUpdate": "2023-12-16 13:10:44",
+    "objective": "本課程之目的在訓練大學部學生於撰寫程式之能力，程式語言 (二) 以 Python 為實踐主體，課程內容包含：複習 Operators and Expression、流程控制、函式、module、data structure；並學習 input/output、OOP (Class 概念)、及 exception；並將介紹廣泛使用之標準程式庫，包括: sys、os、numpy、pandas、matplotlib、pillow、pyqt、scipy 等；並將配合學期之 project，訓練同學團隊合作及系統開法之經驗。\nThe objective of this course is to cultivate the programming ability for undergraduates. Python is the language used in this course since its simplicity and widely applicable. The content of this course includes: reviewing operators and expression, flow control, functions, module, data structure, and extensively learning input/output, class (OOP), and exception. Besides, this course will introduce the commonly used packages, such as os, numpy, sys, pandas, matplotlib, pillow, pyqt, etc.  There will be a term project to let student experience team-working and system design and management.",
+    "schedule": "Week 1: Introduction to Python and python installation\nWeek 2: Operators and Expression\nWeek 3: 流程控制 I (Logic control)\nWeek 4: 流程控制 II (Logic control)\nWeek 5: 函式 (Function)\nWeek 6: module and function\nWeek 7: datta structure: tuple、list、dictionary\nWeek 8: input/output (file)\nWeek 9: Test #1\nWeek 10: Class I\nWeek 11: Class II\nWeek 12: Problem-Based Learning: Topic I – Database, openxl\nWeek 13: Problem-Based Learning: Topic II – Image Processing\nWeek 14: Problem-Based Learning: Topic III – Webserver\nWeek 15: Problem-Based Learning: Topic IV – GUI (PyQt)\nWeek 16: Problem-Based Learning: Topic IV – GUI (Statistics)\nWeek 17: Final\nWeek 18: Project Demo",
+    "scorePolicy": "作業\t\t\t\t\t35%\n期中考\t\t\t\t\t20%\n期末考\t\t\t\t\t20%\n小考及作業                      25%",
+    "materials": "1. byte-of-python (電子書 網路費版 中 / English)\n2. 個人教材 (PPT) + Video\n3. 相關網頁\n4. 個人  YouTube",
+    "consultation": "每週四上午  諮詢時間",
+    "remarks": "Google meet 上課網址:https://meet.google.com/tqp-izpk-xfh 本課主要為工管系同學所設計之課程，分上下學期授課 VBA 及 Python，外系同學建議不要選修此課程",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "陳協慶",
+    "email": "cyutchen@ms28.hinet.net",
+    "latestUpdate": "2023-12-11 13:36:55",
+    "objective": "本課程介紹 Python 與 VBA 語言的基本應用，內容包含基本輸入與輸出、程式的流程控制、函數與程序的基本架構、使用者定義之視窗介面、程式之編輯、除錯、與程式之執行。\nThis course introduces the basic application of Python and VBA languages. The course contents include basic input and output, program flow control, the structure of functions and subroutines, user-defined interface, program editing, debugging, and execution.",
+    "schedule": "#1, 10 事件觸發程式\n#2, 11 自訂表單 I\n#3, 12 自訂表單 II\n#4, 13 陣列 \n#5, 14 Quiz\n#6, 15 資料過濾與搜尋\n#7, 16 時間與檔案控制\n#8, 17 midterm/final exam\n#9, 18 專題 / 報告",
+    "scorePolicy": "作業 + 專題：40%\n期中考 / 期末考 30 %\n小考：30 %",
+    "materials": "Bill Jelen, Tracy Syrstad，Excel VBA 與巨集程式設計，博碩文化，廖文秀譯",
+    "consultation": "北科 i 學園:https://istudy.ntut.edu.tw/learn/index.php",
+    "remarks": "若因疫情影響需依防疫規定採用遠距教學時，將採用 MS Teams 系統線上授課。Teams 之連結將置於北科 i 學員課程資料中，屆時同學需使用學號＠cc.ntut.edu 帳號，並採用學校入口網站密碼登入。",
+    "foreignLanguageTextbooks": false
+  }
+]

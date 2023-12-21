@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "林惠勇",
+    "email": "lin@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 17:23:48",
+    "objective": "本課程介紹機器視覺之基本概念、原理及衍生應用，同時輔助以開放的影像函式庫來實作訓練；課程中由基礎的基本影像分析入門，並逐步導入機器視覺理論與方法，二維影像校正與立體視覺等內容；課程中將介紹機器視覺系統的相關資源與實作能力的培養，並進一步延伸至影像量測、機器學習與機器人領域的範例應用。\nThe field of machine vision has been growing at a fast pace. As in most developing fields, not all aspects of machine vision that are of interest to active researchers are useful to the designers and users of a vision system for a specific application. This course is intended to provide a balanced introduction to machine vision. Basic concepts are introduced with only essential mathematical elements. The details to allow implementation and use of vision algorithms in practical applications are provided, and engineering aspects of techniques are emphasized.",
+    "schedule": "Introduction: Machine Vision, Image Geometry, Sampling and Quantization, Image Definitions, Levels of Computation\t(Week 1)\nBinary Image Processing: Thresholding, Geometric Properties, Projections, Run-Length Encoding, Binary Algorithms, Morphological Operators, OCR (Weeks 2, 3)\nRegions: Regions and Edges, Region Segmentation, Region Segmentation, Split and Merge, Region Growing\t(Weeks 4,5,6)\nImage Filtering: Histogram Modification, Linear Systems, Linear Filters, Median Filter, Gaussian Smoothing (Weeks 7, 8, 9)\nEdge Detection: Gradient, Steps in Edge Detection, Second Derivative Operators, Laplacian of Gaussian (Weeks 10, 11)\nContours: Geometry of Curves, Digital Curves, Curve Fitting, Polynomial Representation, Circular Arcs, Conic Sections, Spline Curves (Weeks 12, 13)\nTexture: Statistical Methods of Texture Analysis, Structural Analysis of Ordered Texture, Model-Based Methods for Texture Analysis, Shape from Texture (Weeks 14, 15)\nColor: Color Physics, Terminology, Perception, Processing, Constancy (Week 16)\nCurves and Surfaces: Geometry of Curves and Surfaces, Curve and Surface Representation, Surface Interpolation, Approximation, Segmentation\t(Weeks 17, 18)",
+    "scorePolicy": "作業 (50 %)\n期中考 & 期末考 (50 %)",
+    "materials": "Machine Vision, by Jain, Kasturi, and Schunck, McGraw-Hill",
+    "consultation": "Office Hours",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

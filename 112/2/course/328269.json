@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "邱弘緯",
+    "email": "hwchiu@ntut.edu.tw",
+    "latestUpdate": "2023-12-12 08:43:01",
+    "objective": "This course offers an in-depth exploration into the analysis and design of mixed-signal integrated circuits (ICs), with a particular emphasis on signal conversion and system modeling. The curriculum is structured around four main pillars (MLDS) : (1) Modeling - the development of mixed-signal circuits, (2) Language - proficiency in programming languages such as Verilog-A, Verilog-D, Python, C, and Matlab, (3) Data/Signal - thorough analysis of circuit performance and signal quality, and (4) System - mastery in adaptive optimization algorithms. Practical examples, including voltage regulators, Phase-Locked Loops (PLLs), and Successive Approximation Register (SAR) Analog-to-Digital Converters (ADCs), will be used to reinforce learning.",
+    "schedule": "Week 1-3: Fundamentals of Closed-Loop Systems\nWeek 4-5: MATLAB Modeling of PLL\nWeek 6-7: Verilog-A Modeling of PLL\nWeek 8-9: Verilog-D Simulation of PLL\nWeek 10: Circuit Synthesis\nWeek 11-12: Mixed-Signal Simulation Techniques\nWeek 13: Mid-Term Project Assignment\nWeek 14-15: Theoretical Concepts of SAR ADC\nWeek 16-17: Analysis and Design of SAR ADC\nWeek 18: Final Project Submission",
+    "scorePolicy": "Prerequisites:\n1.\tFundamental Microelectronics\n2.\tBasic VLSI Design\n3.\tFamiliarity with Computing Languages (MATLAB, Verilog, Python)\n\nGrading Distribution:\n•\tHomework Assignments: 30%\n•\tAttendance and In-Class Exercises: 10%\n•\tMid-Term Project: 30%\n•\tFinal Project: 30%",
+    "materials": "References:\n1.\t\"CMOS Analog Circuit Design\" by Allen\n2.\t\"CMOS Mixed-Signal Circuit Design\" by R. Jacob Baker\n\n2022 Assignment and Project Examples:\n•\tMSD-HW1: Simulation of feedback amplifier's transient response with specific initial conditions using programming languages. Submission of code and output files within two weeks.\n•\tMSD-HW2: Numerical transient analysis of a nonlinear feedback amplifier using mathematical tools. Submission includes code files.\n•\tMSD-HW3: Calculation of resistance in a mesh network using linear algebra, verified with Hspice, to be submitted within one month.\n•\tMSD-HW4: Generation and spectral analysis of a 10-Hz sinusoidal wave using MATLAB, Mathematica, or Python. Submission of solutions and spectrum graph within one month.\n•\tMSD-HW5: PLL linear model design and system stability verification using MATLAB and other tools. Submission of various files and screenshots within one month.\n•\tMSD-HW6: Design and simulation of an integer divider for PLL in Verilog, verified through digital design flow. Submission of code and waveform screenshots within one month.\n•\tFinal Report - PLL Locking Simulation: Design of an integer PLL with a report including design flow, simulations, and Verilog files. Submission of comprehensive files by the deadline.",
+    "consultation": "Course Line  and Teams group.",
+    "remarks": "SDG12",
+    "foreignLanguageTextbooks": false
+  }
+]

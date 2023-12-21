@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蔣政諺",
+    "email": "dcychiang@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 16:29:00",
+    "objective": "本課程將包含兩部分，太空任務分析和設計 (SMAD) 和驗證、確認和測試 (VVT)。太空任務分析和設計旨在確保整體計劃的可行性和成功，而驗證、確認和測試則是為了確保實際系統能夠在極端的太空條件下成功運行。在本課程中，第一部分任務分析和設計將提及諸多技術，並以小型衛星為範例說明包含設計和降低成本的過程，當中也會包含有關多衛星製造、太空電腦、酬載設計等的細節。第二部分包括測試硬件和軟件性能、確認系統可靠性、驗證數據傳輸和確保儀器功能。詳細的細節會包含 VVT 作用的解釋、系統開發中 VVT 會具有的活動、測試 / 非測試系統的 VVT 方法等。\n\nSpace Mission Analysis and Design (SMAD) ensures the viability and success of the overall program, while Verification, Validation, and Testing (VVT) ensures that the actual system can operate successfully under extreme space conditions. In this course, Part I, \"Mission Analysis and Design,\" will refer to these techniques, placing more emphasis on the process of designing and reducing the cost of small spacecraft and including more details on multi-satellite manufacturing, space computers, payload design. The second part, \"VVT\", included testing hardware and software performance, confirming system reliability, verifying data transfer and ensuring instrument functionality. The details of VVT include explaining the role of VVT, system development VVT activities, and VVT methods for test/non-test systems.",
+    "schedule": "1. The Space Mission Analysis and Design Proces\n2. Mission Characterization\n3. Mission Evaluation\n4. Requirements Definition\n5. VVT Systems and Process\n6. Canonical Systems VVT Paradigm\n7. Methodology Application of VVT",
+    "scorePolicy": "Midterm examination: 50%\nFinal report: 50%",
+    "materials": "[1] A. Engel, Verification, Validation, and Testing of Engineered Systems, 1st ed. Wiley, 2010.\n[2] L. Wiley J. and W. James R., Space Mission Analysis and Design, 3rd ed., vol. 8. Microcosm, 2005.",
+    "consultation": "1. Email: dcychiang@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

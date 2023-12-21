@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "田方治",
+    "email": "fctien@ntut.edu.tw",
+    "latestUpdate": "2023-12-16 13:09:02",
+    "objective": "本課程為程式語言之延伸，主要以 python 為程式語言，學習以下之相關主題\n1. CPU 及 GPU-based DIP (影像處理)  - CV2 及 Kornia: 為 PyTorch 之延伸 ，主要介紹: Image Load/Save/Display、enhancement、Filtering、Edge detection、Morphology、Warp * Geometry Transformation、Color、Segmentation、Data augmentation 等\n\n2. 深度學習：以 PyTorch、TorchVision 為主，介紹基本 Torch 語法，再深入介紹 CNN 網路架構 (LeNet、ResNet、DenseNet、EfficientNet)，Object Detection 網路 (FRCNN、Mask RCNN、Yolo)、AutoEncoder、UNet (Semantic Segmentation)、Anomaly Detection、GAN 等應用 (視課程進度)\n\n主要工作包括：課堂作業、期末考、期末競賽 (Project)、Paper Reading",
+    "schedule": "Prerequisite:\n1. 本課程必須熟悉 Python 程式語言\n2.  建議修過程式語言 I, II、工業機器人或基礎影像處理\n\n(如果對程式語言 python 不熟悉者，不建議修習本課程)\n詳細課程進度將於第一次上課說明\n主要項目:\n1. PyTorch 簡介\n2. CV2 and Kornia: 4~6 周\n3. CNN: 2 week\n4. OD: 2~3 weeks\n5. Autoencoder、UNet: 1~2 Week\n6. AD: 2 Week\n7. GAN : 1 Week",
+    "scorePolicy": "Homework \t\t\t\t\t\t    \t                        30 %\nProject – (Week 18)\n(Programming 10%+ Presentation & Report 5%)    \t    \t30%\nPaper reading and presentation (Week 16, 17)\t\t\t10%\nFinal (Take home exam, Week 17)\t\t\t\t\t\t30%",
+    "materials": "個人 YouTube: https://www.youtube.com/channel/UCWvAFNxvB59MLKITHHxx8jg/featured \nR. Gonzalez, R.E. Woods，Digital Image Processing，2nd Edition, Prentice Hall\nR. Gonzalez, R.E. Woods, S.L. Eddins, Digital Image Processing using Matlab, Prentice Hall\nKornia (https://kornia-tutorials.readthedocs.io/en/latest/)\nOther selected papers",
+    "consultation": "周三上午   office Hours",
+    "remarks": "Google Meet 上課網址：https://meet.google.com/pwu-amgf-sgm",
+    "foreignLanguageTextbooks": true
+  }
+]

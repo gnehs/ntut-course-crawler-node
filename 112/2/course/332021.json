@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蔣政諺",
+    "email": "dcychiang@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 16:37:03",
+    "objective": "自然界的進化行為一直人類賦予計算機智慧學習的對象，但仿效自然界中生物間的適應性過程，建構出的龐大模型，一直是在一項艱鉅的挑戰，但不諱言的他的回報也是巨大的。進化計算便是基於生物遺傳學、自然選擇和出現的適應性行為等進化機制，建立出來的智慧型模型，以利智慧系統的建立。本課程將介紹各項演化計算方式，並以實作的方式實際了解彼此間的差異。\nThe evolutionary behavior of nature has always been the object of learning that man has endowed computer intelligence with. However, the construction of huge models that emulate the adaptive processes among organisms in nature has been a difficult challenge, but the rewards have been enormous. Evolutionary computation is an intelligent model based on evolutionary mechanisms such as biological genetics, natural selection, and emergent adaptive behaviors to facilitate the establishment of intelligent systems. This course will introduce the various evolutionary computation methods and provide a practical understanding of the differences between them in a hands-on manner.",
+    "schedule": "1. Introduction of evolutionary algorithm\n2. Simple Genetic Algorithm\n3. Evolution Strategy\n4. Evolutionary Programming\n5. Genetic Programming\n6. Direction based Search\n7. Implementation Encoding and Operators\n8. Selection Methods\n9. Replacement and Stop Criteria\n10. Parameter Control\n11. Performance Evaluation\n12. Ant Colony Optimization\n13. Particle Swarm Optimization\n14. Artificial Immune Systems",
+    "scorePolicy": "作業與說明 (Assignment and Report) 60%\n期末報告 (Final report) 40%",
+    "materials": "[1] De Jong, Kenneth A. \"Evolutionary computation: a unified approach.\" Proceedings of the Companion Publication of the 2015 Annual Conference on Genetic and Evolutionary Computation. 2015.\n[2] Dumitrescu, Dumitru, et al. Evolutionary computation. CRC press, 2000.",
+    "consultation": "1. Email: dcychiang@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

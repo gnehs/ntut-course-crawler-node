@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "宋國明",
+    "email": "gmsung@ntut.edu.tw",
+    "latestUpdate": "2023-12-12 17:13:17",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一個實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。\nTeaching students to do the research work and to write the papers. Before graduation, the students have possessed the ability to do the R/D work. Each student must be through professor's instrution's instructions to select the topics of  special project, personal or group work should be completed the project's hardware or software and issued the paper. An announcement has been made by the department, then get the grade and credit.",
+    "schedule": "第 1-2 週：數位與類比電路設計概念\n第 3-4 週：數位與類比電路的電路架構\n第 5-6 週：數位與類比電路的電路分析\n第 7-8 週：數位與類比電路的電路規格確定\n第 9 週：期中考 (含進度查核)\n第 10-13 週: Verilog HDL 與 Hspice 軟體學習\n第 14-15 週：電路模擬\n第 16-17 週：電路修正與確定電路規格\n第 18 週：實作報告 (含期末考試)",
+    "scorePolicy": "(1). 平常成績佔 20% \n(2). 作業 40%。\n(3). 期末報告佔 40% (含上機實作考試)。",
+    "materials": "(1). 鄭信源著，Verilog 硬體描述語言數位電路設計實務，三版，2004，ISBN 957-499-640-9，儒林圖書公司 (電話：02-2311-8971~3)。\n(2). Behzad Razavi 著，Design of Analog CMOS Integrated Circuits, 滄海書局 (2709-0781)。",
+    "consultation": "請至老師研究室 (綜科 317 室) 討論。",
+    "remarks": "專題討論若採線上方式，請用 Google Meet 軟體，其會議代碼為 \"nrs-zbgm-tws\"。",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "李俊賢",
+    "email": "jslee@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 22:40:22",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。",
+    "schedule": "1. 台達電 Delta PLC 控制與應用系統\n2. SoftPLC 控制與應用系統\n3. 智慧物聯網之工業應用 (IoT-Industry)",
+    "scorePolicy": "依專題計畫書、實作成果、期末報告、及參與表現等項目評定成績",
+    "materials": "參考書目: Papers in the literature.",
+    "consultation": "請 email 至授課教師洽詢課程相關資訊。課程動態資訊，將更新於北科 i 學園 PLUS。",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "黃正民",
+    "email": "cmhuang@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 15:24:32",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。",
+    "schedule": "資料研讀\n工具學習\n專題實作",
+    "scorePolicy": "實體展示\n書面報告",
+    "materials": "Deltamoocx",
+    "consultation": "email, 課後教師或助教",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

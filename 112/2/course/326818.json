@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蔣欣翰",
+    "email": "hsinhan1001@gmail.com",
+    "latestUpdate": "2023-12-18 21:17:52",
+    "objective": "本課程介紹微處理機之基本原理與應用設計，包含 CPU 介紹與指令集、I/O 與記憶體、及軟硬體架構等，並且結合微控制器 (ARM-based Processor) 程式設計與泛用型嵌入式系統平台，修課同學可以學習如何使用 STM32 的微控制平台開發微處理器的程式，以及結合超音波感測、馬達驅動控制、無線傳輸模組等，可應用於移動載具及機器人運動控制器架構設計與演算法開發，並延伸至人工智慧及 IOT 等相關處理器整合應用。",
+    "schedule": "Week 1: 微處理機概論\nWeek 2: Design & Implementation (I)\nWeek 3: Design & Implementation (II)\nWeek 4: Instruction Sets (I)\nWeek 5: Instruction Sets (II)\nWeek 6: CPUs (I)\nWeek 7: CPUs (II)\nWeek 8: Computing Platforms (I)\nWeek 9: Computing Platforms (II)\nWeek 10: STM32 嵌入式控制器 (開發板簡介)\nWeek 11: STM32 嵌入式控制器 (程式設計)\nWeek 12: STM32 嵌入式控制器 (LCD 控制模組程式)\nWeek 13: STM32 嵌入式控制器 (馬達控制設計)\nWeek 14: STM32 嵌入式控制器 (感測器使用)\nWeek 15: STM32 嵌入式控制器 (無線傳輸程式設計)\nWeek 16: STM32 嵌入式控制器 (範例開發實作)\nWeek 17: 期末專題製作\nWeek 18: 期末專題分組報告",
+    "scorePolicy": "Lab Practices & Reports: 60%\nMidterm Exam or Term Project: 20%\nFinal Project: 20%",
+    "materials": "自編講義及實驗教材。",
+    "consultation": "課程資訊網：i 學園任課教師連絡方式：電子郵件：hsinhan@mail.ntut.edu.tw 校內分機：3615",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 因應疫情採非實體上課之教學措施：01. 使用 Microsoft Teams 或 Google Meet 授課，使用工具軟體與會議代碼：公佈於課程資訊網 02. 分組帶回實驗開發板與在家安裝必要操作環境 03. 考試擬進行分流上機考、期末擬採分流至實驗教室驗收期末專題。",
+    "foreignLanguageTextbooks": false
+  }
+]

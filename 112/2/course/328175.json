@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "林鈞陶",
+    "email": "ctl@ntut.edu.tw",
+    "latestUpdate": "2023-12-19 22:25:27",
+    "objective": "本課程探討無線通訊系統基頻演算法設計，主要包含多輸入多輸出傳輸系統中接收端與傳送端之聯合最佳化問題。\n課程綱要:\n1. 基本矩陣運算\n2. 多輸入多輸出接收機設計\n3. 多輸入多輸出天線選擇\n4. 多輸入多輸出前置編碼器設計\nThis course aims at the baseband algorithm design for wireless communication systems. Much attention will be focused on the joint multiple-input multiple-output (MIMO) transceiver optimization.\nCourse outline:\n1.Basic matrix operations.\n2.MIMO receiver design.\n3.MIMO antenna selection.\n4.MIMO precoder design.",
+    "schedule": "(subject to change based on class progress)\nWeek 1: Introduction.\nWeek 2: Basic matrix operations.\nWeek 3: Basic matrix operations.\nWeek 4: MIMO receiver design.\nWeek 5: MIMO receiver design.\nWeek 6: Mideterm I\nWeek 7: MIMO antenna selection\nWeek 8: MIMO antenna selection.\nWeek 9: Precoder design for linear receivers. \nWeek 10: Precoder design for SIC receivers. \nWeek 11: Precoder design for SIC receivers. \nWeek 12: Precoder design for ML receivers. \nWeek 13: Precoder design for ML receivers. \nWeek 14: Other advanced subjects (Optional)\nWeek 15: Midterm II\nWeek 16: Final Projects\nWeek 17: National Holiday\nWeek 18: Final Projects",
+    "scorePolicy": "Quizzes (Weekly) 30%\nMidterm I   20%\nMidterm II  20%\nFinal Projects 30%",
+    "materials": "Slides and selected papers (Sufficient backgrounds regarding linear algebra and matrix analysis are required.)",
+    "consultation": "1. Lab website: https://sites.google.com/mail.ntut.edu.tw/ctlin2. Emails3. Line group",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

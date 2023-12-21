@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "邱志洲",
+    "email": "chih3c@ntut.edu.tw",
+    "latestUpdate": "2023-12-13 10:38:57",
+    "objective": "本課程將介紹基於神經網路的深度學習技術及其在商情預測上之應用， 主要內容包括：（1）深度學習和神經網路的基本概念和演算法；（2）深度學習的主流結構、啟動函數及正則化技術；（3）電腦視覺與自然語言處理技術應用案例；（4）深度學習主流結構的商情預測應用。通過課程的學習，同學們可瞭解神經網路基本概念；掌握深度學習中主要網路結構的基本概念和相關演算法；瞭解具體應用領域的背景知識；應用相關深度學習技術於商情預測。\nThis course will give a full picture of deep learning techniques and its application in business forecasting. Content includes: (1) basic concepts and algorithms of deep learning and neural networks; (2) popular network structures, activation functions, and regularization techniques; (3) principle and applications of computer vision and natural language processing. (4) applications of popular network structures in business forecasting. By learning this course, students will consolidate the basic concepts of neural networks; master the basic concepts and related algorithms of the main network structure in deep learning; understand the background knowledge of deep learning techniques with specific application fields; and understanding how to apply the main network structure in business forecasting.",
+    "schedule": "1\t課程簡介\n2\tGoogle Colab 安裝 / Python 語法 1\n3\tPython 語法 2\n4\tPython 語法 3\n5\tMLP 神經網路概念與訓練\n6\t卷積神經網路 (CNN)\n7\t卷積神經網路 (CNN)\n8\tCNN 商情預測案例\n9\t循環神經網路 (RNN)\n10\tRNN 商情預測案例\n11\tMidterm\n12\t長短時記憶網 (LSTM)\n13\tLSTM 商情預測案例\n14\t自然語言處理案例\n15\t論文閱讀與討論 1\n16\t論文閱讀與討論 2\n17\t期末報告\n18\t期末考",
+    "scorePolicy": "Midterm/Final\t Exam\t\t25%/25%\nProject & Presentation\t\t25%\nAssignments\t\t\t\t25%",
+    "materials": "Christopher Bishop. Pattern Recognition and Machine Learning. Springer Press.\nLi Deng and Dong Yu. Deep Learning Methods and Applications. Now Publisher. http://research.microsoft.com/pubs/219984/BOOK2014.pdf\nYoshua Bengio. Learning Deep Architectures for AI. Now Publisher.\nIan Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning. MIT Press. http://www.deeplearningbook.org/\n周志華《機器學習》清華大學出版社，2016.",
+    "consultation": "課程諮詢管道 1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
+    "remarks": "NA",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "許哲奇",
+    "email": "cshu@ntut.edu.tw",
+    "latestUpdate": "2023-12-15 16:42:32",
+    "objective": "The purpose of this course is to apply the key concepts of automatic control and instrumentation to process plants. Material and energy balances are used to model unsteady state (dynamic) process systems where control algorithms are required to bring the process back to equilibrium. Laplace Transforms are used as a means to conveniently solve ordinary differential equations, which are used when describing process control systems. Control loops are developed to represent industrial processes enabling appropriate control approaches to be elucidated. Commonly used sensing, transmission and final control elements are described . At the end of the course, the students will have an appreciation of the fundamental importance of control systems for the safe and sustainable operation of process plants.",
+    "schedule": "1-2 weeks: Introduction to Process Control\n3-4 weeks: Review of ODEs and Laplace transforms \n5-6 weeks: Process Modeling  \n7-8 weeks: Transfer Functions\n9 week: Mid-Term Exam Week\n11-12 week: Basic concept of control\n13-14 week: Stability Analysis \n15-16 week: PID Controller\n17 week: Final Exam \n18 week: Discussion Class",
+    "scorePolicy": "Homework and Quizzes 30%\nAttendance 30%\nFinal Exam 40%",
+    "materials": "\" Process Dynamics and Control \" 4th edition  \n  Author: Seborg,Edgar, Mellichamp and Doyle",
+    "consultation": "To ask questions in class is strongly recommended. You can also email me to schedule a meeting during office hours.",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
