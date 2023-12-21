@@ -4240,6 +4240,16 @@
         "name": "能源所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2932",
         "code": "2932"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -4267,7 +4277,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "能源所和機電博和機電博外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505207",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328544&code=11083"
@@ -7823,7 +7833,9 @@
     "language": "",
     "notes": "工設一二、訓四設二和日職創新所合開 (USR)；上限 7 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5825226",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=328891&code=11578"
+    ]
   },
   {
     "code": "5905001",
@@ -9240,6 +9252,16 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2942",
         "code": "2942"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -9267,7 +9289,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所和自動化所合開",
+    "notes": "機電所、自動化所、機電博和機電博外生班合開合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005131",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329021&code=12394"
@@ -9344,6 +9366,16 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2942",
         "code": "2942"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -9371,7 +9403,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "自動化所、機電博和機電博外生班合開合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105068",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329048&code=12286"
@@ -13272,6 +13304,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329382&code=11494",
+      "ShowSyllabus.jsp?snum=329382&code=11334",
       "ShowSyllabus.jsp?snum=329382&code=11969"
     ]
   },
@@ -31564,9 +31597,9 @@
     ],
     "teacher": [
       {
-        "name": "翁頌舜",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11440",
-        "code": "11440"
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11573",
+        "code": "11573"
       },
       {
         "name": "陳育威",
@@ -32131,7 +32164,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "上課日期 2024.03.23-3.24",
+    "notes": "上課日期 2024.03.23-24",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265052",
     "syllabusLinks": []
   },
@@ -38545,7 +38578,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理",
+    "notes": "(群組 6) 財金管理 (吳志強 0.5)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331962&code=11729",
@@ -39441,7 +39474,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705442",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332026&code=12390"
+    ]
   },
   {
     "code": "5905207",
@@ -40314,11 +40349,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "呂怜樺",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=11893",
         "code": "11893"
@@ -40695,7 +40725,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資安所和資工所合開。新聘",
+    "notes": "電資外、資安所和資工所合開。新聘、英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905121",
     "syllabusLinks": []
   },
@@ -40740,7 +40770,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資安所和資工所合開。新聘",
+    "notes": "電資外、資安所和資工所合開。新聘、英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905100",
     "syllabusLinks": []
   },
