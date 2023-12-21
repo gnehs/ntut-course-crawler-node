@@ -93,7 +93,7 @@ async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
         let splitedArray = timeString.replace(/\n|^ | $|　/g, "").split(" ");
         return splitedArray.filter((x) => x.length);
       }
-      let notes = $($(this).children("td")[21])
+      let notes = $($(this).children("td")[20])
         .text()
         .replace(globalRegexParse, "");
 
@@ -145,15 +145,13 @@ async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
           .text()
           .replace(globalRegexParse, ""),
         ta: parseLinks($($(this).children("td")[18]).children("a")),
-        language: $($(this).children("td")[19])
-          .text()
-          .replace(globalRegexParse, ""),
+        language: "",
         notes,
         courseDescriptionLink: $($(this).children("td")[1])
           .children("a")
           .attr("href"),
         syllabusLinks: parseSyllabusLinks(
-          $($(this).children("td")[20]).children("a")
+          $($(this).children("td")[19]).children("a")
         ),
       };
     })
