@@ -5,7 +5,7 @@ axiosRetry(axios, { retries: 10, shouldResetTimeout: true });
 const delay = (s) => new Promise((resolve) => setTimeout(resolve, s));
 
 async function fetchSinglePage(url, options) {
-  await delay(500 + Math.random() * 500);
+  await delay(100 + Math.random() * 500);
   const resp = await getResp(url, options);
   return cheerio.load(resp.data);
 }
