@@ -86,7 +86,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "甲組學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105095",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328105&code=10585"
@@ -138,7 +138,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "乙組學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105096",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328106&code=10736"
@@ -190,7 +190,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "丙組學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105097",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328107&code=11323"
@@ -242,7 +242,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "丁組學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105180",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328108&code=12083"
@@ -294,7 +294,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "戊組學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105181",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328109&code=11213"
@@ -2274,6 +2274,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2928",
         "code": "2928"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
+        "code": "2948"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -2301,7 +2311,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "工管所和管理博、IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328313&code=12436"
@@ -4502,7 +4512,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505603",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=328554&code=24273"
+    ]
   },
   {
     "code": "4505606",
@@ -6236,6 +6248,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231102",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328638&code=11016",
+      "ShowSyllabus.jsp?snum=328638&code=10467",
       "ShowSyllabus.jsp?snum=328638&code=12235",
       "ShowSyllabus.jsp?snum=328638&code=12244",
       "ShowSyllabus.jsp?snum=328638&code=12392"
@@ -6755,7 +6768,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705052",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328770&code=12343"
@@ -7046,6 +7059,16 @@
         "name": "經管所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2938",
         "code": "2938"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
+        "code": "2948"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -7079,7 +7102,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "經管所和管理博、IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705254",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328776&code=12246"
@@ -7105,6 +7128,11 @@
         "name": "經管所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2938",
         "code": "2938"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
+        "code": "2948"
       }
     ],
     "teacher": [
@@ -7138,7 +7166,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "經管所 & IMBA",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705257",
     "syllabusLinks": []
   },
@@ -7184,7 +7212,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8363,6 +8397,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
         "code": "2949"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [
@@ -8396,7 +8440,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資工四和資工所合開",
+    "notes": "電資外、資工四、資工所和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905201",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328971&code=12384"
@@ -8427,6 +8471,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
         "code": "2949"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [
@@ -8454,7 +8508,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資工四和資工所合開",
+    "notes": "電資外、資工四、資工所和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905206",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328973&code=12386"
@@ -8480,6 +8534,16 @@
         "name": "資工所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2940",
         "code": "2940"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [
@@ -8507,7 +8571,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資工四和資工所合開",
+    "notes": "資工四、資工所和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905207",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328974&code=12385"
@@ -8538,6 +8602,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
         "code": "2949"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [
@@ -8571,7 +8645,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "二教 103PBL 教室，電資外生和資工所合開",
+    "notes": "二教 103，電資外生、資工所和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905210",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328977&code=12385"
@@ -8655,6 +8729,16 @@
         "name": "資工所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2940",
         "code": "2940"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [
@@ -8688,7 +8772,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "資工所和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905212",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328979&code=12387"
@@ -9344,7 +9428,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105040",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=329038&code=11077"
+    ]
   },
   {
     "code": "6105068",
@@ -9942,9 +10028,9 @@
     "time": {
       "sun": [],
       "mon": [
-        "5",
-        "6",
-        "7"
+        "9",
+        "A",
+        "B"
       ],
       "tue": [],
       "wed": [],
@@ -9952,7 +10038,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同413",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=157",
+        "code": "157"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10627,7 +10719,9 @@
     "language": "",
     "notes": "網路預選限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=329164&code=11355"
+    ]
   },
   {
     "code": "7305072",
@@ -11601,6 +11695,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
         "code": "2948"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2953",
+        "code": "2953"
       }
     ],
     "teacher": [
@@ -11628,7 +11727,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805007",
     "syllabusLinks": []
   },
@@ -11814,6 +11913,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
         "code": "2948"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2953",
+        "code": "2953"
       }
     ],
     "teacher": [
@@ -11841,7 +11945,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05016",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329282&code=12101"
@@ -13042,6 +13146,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2953",
         "code": "2953"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -13075,7 +13184,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資財四甲乙資財所合開",
+    "notes": "資財四甲乙、資財所和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05096",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329366&code=12173"
@@ -13152,6 +13261,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2953",
         "code": "2953"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -13185,7 +13299,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "資財所和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05105",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329373&code=12342"
@@ -15480,55 +15594,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "5905212",
-    "description": {
-      "zh": "安全程式設計是資訊安全領域中的關鍵技術。不良的「程式設計習慣」和「不考慮安全保護的程式設計」很容易導致可有心人士所利用。本課程除了建立安全程式設計的基礎知識外，特別著重於同學的實務能力、漏洞測試、與安全程式開發能力。同時，透過分享最新的論文研究與相關技術報告，協助研究生在研究階段獲取最新的領域知識。",
-      "en": "Security programming is a key technology in the field of information security. “Bad programming habits” and “programming without security consideration” can easily lead to the use of malicious people. Four major themes will be explored.In addition to establishing the basic knowledge of security programming, this course focuses on student's practical ability, vulnerability testing, and security programming development ability. At the same time, by sharing novel research papers and related technical reports, the students can obtain the newest and complete domain knowledge in their research stage."
-    },
-    "id": "329512",
-    "name": {
-      "zh": "安全程式設計",
-      "en": "Security Programming"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資訊安全學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
-        "code": "2962"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "孫勤昱",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12387",
-        "code": "12387"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905212",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329512&code=12387"
-    ]
-  },
-  {
     "code": "C715001",
     "description": {
       "zh": "專題演講或書報討論",
@@ -15880,59 +15945,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C725001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329551&code=12387"
-    ]
-  },
-  {
-    "code": "5905101",
-    "description": {
-      "zh": "1. 數學基礎 1.1 函數成長率之漸近性質 1.2 遞迴關係之解        1.3 數學歸納法 2. 基本分析技巧 2.1 計算複雜度之上下限 2.2 最差情況分析及平均情況分析 2.3 動態平均分析 3. 基本設計技巧 3.1 分擊法 3.2 貪婪法 3.3 動態規劃 3.4 隨機演算法 4. 計算複雜度 4.1 資訊理論證明法 4.2 對抗式證明法 4.3 問題之線性轉換 4.4 完全 NP",
-      "en": "1. Mathematical background 1.1 Asymptotic growth rate of functions 1.2 Solving recurrence relations 1.3 Mathematical induction 2. Basic analysis techniques 2.1 Computational complexities -- lower bounds and upper bounds 2.2 Worst case analysis and average case analysis 2.3 Amortized analysis 3. Basic Design Paradigms 3.1 Divide and conquer 3.2 Greedy methods 3.3 Dynamic programming 3.4 Probabilistic algorithms 4. Computational Complexity 4.1 Information-theoretic arguments 4.2 Adversary arguments 4.3 Linear reduction of problems 4.4 NP-completeness"
-    },
-    "id": "329552",
-    "name": {
-      "zh": "演算法分析與設計",
-      "en": "Design and Analysis of Computer Algorithms"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新資安學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
-        "code": "2964"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "劉傳銘",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11107",
-        "code": "11107"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "8",
-        "9",
-        "A"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905101",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329552&code=11107"
     ]
   },
   {
@@ -21061,7 +21073,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330604&code=11077"
+    ]
   },
   {
     "code": "6105025",
@@ -23608,7 +23622,9 @@
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330887&code=11224"
+    ]
   },
   {
     "code": "C235013",
@@ -27874,6 +27890,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
         "code": "2949"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [
@@ -27901,7 +27927,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資工四和資工所合開",
+    "notes": "資工四、資工所、電資外生和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905101",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331124&code=11107"
@@ -30112,6 +30138,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -30145,7 +30181,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "製科所必選課程之一 / 機電所、製科所和機械自動化專班",
+    "notes": "製科所必選課程之一 / 機電所、製科所和機電博 (含外) 合",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331289&code=11068"
@@ -31026,7 +31062,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705508",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331378&code=12343"
@@ -32429,7 +32465,9 @@
     "language": "",
     "notes": "日、職建都所和設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231409",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331427&code=10467"
+    ]
   },
   {
     "code": "5231411",
@@ -33495,6 +33533,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -33528,7 +33576,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "日職機電所、製科所和機械外生班合開，限日間 7 人 夜間 7",
+    "notes": "日職機電所、製科所和機電博 (含外) 合開，限日間 7 人 夜",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605056",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331494&code=12310"
@@ -34202,7 +34250,9 @@
     "language": "",
     "notes": "日、職建都所和設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231409",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331549&code=10467"
+    ]
   },
   {
     "code": "5231408",
@@ -34258,7 +34308,9 @@
     "language": "",
     "notes": "建都所和設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231408",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331550&code=10467"
+    ]
   },
   {
     "code": "3105186",
@@ -34521,7 +34573,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 15 人 / 土木 505",
+    "notes": "限 15 人 / 土木 505，英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4226007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331602&code=10968"
@@ -35799,7 +35851,7 @@
       "fri": [
         "3",
         "4",
-        "N"
+        "8"
       ],
       "sat": []
     },
@@ -36340,6 +36392,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -36373,7 +36435,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "製科所必選課程之一 / 製科所和機械自動化外生班合開，計",
+    "notes": "製科所必選課程之一 / 製科所、機械自動化外和機電博 (含",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605027",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331812&code=12490"
@@ -36526,6 +36588,16 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2942",
         "code": "2942"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -36559,7 +36631,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和自動化所合開，限 20 人",
+    "notes": "機電所、製科所、自動化所和機電博 (含外) 合開，限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331823&code=11826"
@@ -36723,6 +36795,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -36756,7 +36838,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和機械自動化專班合開，限 30 人",
+    "notes": "機電所、製科所、機械自動化專班和機電博 (含外) 合開，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005129",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331831&code=12490"
@@ -36792,6 +36874,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -36825,7 +36917,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和機械自動化專班合開，限 40 人",
+    "notes": "機電所、製科所、機械自動化專班和機電博 (含外) 合開，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005022",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331832&code=11273"
@@ -36856,6 +36948,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -36889,7 +36991,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "製科所和機械自動化外生班合開，限 15 人",
+    "notes": "製科所和機械自動化外生班和機電博 (含外) 合開，限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605092",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331833&code=12276"
@@ -36925,6 +37027,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -36958,7 +37070,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和機械自動化專班合開，限 30 人",
+    "notes": "機電所、製科所、機械自動化專班和機電博 (含外) 合開，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005108",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331834&code=12314"
@@ -36994,6 +37106,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -37027,7 +37149,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和機械自動化專班合開，限 50 人",
+    "notes": "機電所、製科所、機械自動化專班和機電博 (含外) 合開，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005070",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331835&code=12501"
@@ -37063,6 +37185,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -37096,7 +37228,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和機械自動化專班合開，限 25 人",
+    "notes": "機電所、製科所、機械自動化專班和機電博 (含外) 合開，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005927",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331836&code=12383"
@@ -37132,6 +37264,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -37165,7 +37307,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "製科所必選課程之一 / 機電所、製科所和機械自動化專班",
+    "notes": "製科所必選課程之一 / 機電所、製科所、機械自動化外和",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605090",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331837&code=11936"
@@ -37201,6 +37343,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2955",
         "code": "2955"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2965",
+        "code": "2965"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2969",
+        "code": "2969"
       }
     ],
     "teacher": [
@@ -37234,7 +37386,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所、製科所和機械自動化專班合開，限 30 人",
+    "notes": "機電所、製科所、機械自動化專班和機電博 (含外) 合開，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005929",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331839&code=12278"
@@ -37289,7 +37441,9 @@
     "language": "",
     "notes": "工設一二、訓二、日職碩合開 (USR)；上限 7 人；設計 207",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5825226",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331841&code=11578"
+    ]
   },
   {
     "code": "AW00001",
@@ -39050,6 +39204,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2928",
         "code": "2928"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
+        "code": "2948"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -39077,7 +39241,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "工管所和管理博、IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3725020",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=332010&code=12499"
@@ -39481,104 +39645,6 @@
     ]
   },
   {
-    "code": "5905207",
-    "description": {
-      "zh": "區塊鏈技術 (作為比特幣等數位貨幣的核心) 已重塑了金融交易與分散式交互方式之未來。同時它也被期待帶給我們一個更自組與可提供事實證明的數位化世界。抽象化區塊鏈構造是非常精巧的，它倚賴輕量化密碼學工具搭配分散式系統概念，完成了開放、安全且有效率的系統 (如比特幣)。本課程為區塊鏈技術與應用上之概念介紹，包含：比特幣與區塊鏈設計、相關基礎密碼學工具、分散式網路與共識、區塊鏈應用。",
-      "en": "Blockchain techniques (the core of cryptocurrencies such as Bitcoin) have reshaped the future of financial transactions and decentralized interactions. They are also expected to bring us a more self-organizing and dependent digital world. The abstraction of blockchain is very delicate. It relies on cryptography tools and decentralized system concepts to achieve an open, secure, and efficient system (such as Bitcoin). This course aims to introduce the concepts of blockchain techniques and applications, including Bitcoin and blockchain design, basic cryptography tools, decentralized networks and consensus, and blockchain applications."
-    },
-    "id": "332028",
-    "name": {
-      "zh": "區塊鏈技術與應用",
-      "en": "Blockchain Techniques and Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資訊安全學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
-        "code": "2962"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳昱圻",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12385",
-        "code": "12385"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905207",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=332028&code=12385"
-    ]
-  },
-  {
-    "code": "5905201",
-    "description": {
-      "zh": "本課程旨在教授學生瞭解雲端環境及物聯網系統架構並進一步教授雲端環境及物聯網安全需求，課程內容除介紹雲端環境及物聯網系統的基本概念外，亦將由 OWASP 的雲端安全及物聯網安全重點進行說明，培養學生有能力分析雲端及物聯網環境中的各式潛在安全威脅，並具備設計與實作具安全防護能力的雲端及物聯網系統。課程內容包含：●雲服務技術簡介●雲服務安全●雲服務資安標準●物聯網技術簡介●工業物聯網潛在威脅●工控資安●物聯網資安檢測●物聯網資安標準●資安安全與隱私保護",
-      "en": "This course aims to guide students understanding cloud environments and IoT systems and their corresponding security requirements. In addition to introducing basic concepts of cloud environment and IoT system, the course contents will focus on OWASP's cloud security and IoT security. All practical techniques will be explained. Students are able to analyze various potential security threats in the cloud and Internet of Things environments, and to learn security protection capabilities for cloud and IoT systems. Course contents including:●\tIntroduction to cloud technologies●\tIntroduction to cloud security●\tSecurity standards for cloud services ●\tIntroduction to IoT technologies●\tPotential threats of industrial IoT systems●\tIndustrial Cyber Security introduction●\tIoT security detection●\tIoT security standards●\tInformation security and privacy protection"
-    },
-    "id": "332029",
-    "name": {
-      "zh": "雲端與物聯網安全",
-      "en": "Cloud and IoT Security"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資訊安全學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
-        "code": "2962"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "張世豪",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12384",
-        "code": "12384"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905201",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=332029&code=12384"
-    ]
-  },
-  {
     "code": "C275008",
     "description": {
       "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
@@ -39952,165 +40018,6 @@
     ]
   },
   {
-    "code": "5905201",
-    "description": {
-      "zh": "本課程旨在教授學生瞭解雲端環境及物聯網系統架構並進一步教授雲端環境及物聯網安全需求，課程內容除介紹雲端環境及物聯網系統的基本概念外，亦將由 OWASP 的雲端安全及物聯網安全重點進行說明，培養學生有能力分析雲端及物聯網環境中的各式潛在安全威脅，並具備設計與實作具安全防護能力的雲端及物聯網系統。課程內容包含：●雲服務技術簡介●雲服務安全●雲服務資安標準●物聯網技術簡介●工業物聯網潛在威脅●工控資安●物聯網資安檢測●物聯網資安標準●資安安全與隱私保護",
-      "en": "This course aims to guide students understanding cloud environments and IoT systems and their corresponding security requirements. In addition to introducing basic concepts of cloud environment and IoT system, the course contents will focus on OWASP's cloud security and IoT security. All practical techniques will be explained. Students are able to analyze various potential security threats in the cloud and Internet of Things environments, and to learn security protection capabilities for cloud and IoT systems. Course contents including:●\tIntroduction to cloud technologies●\tIntroduction to cloud security●\tSecurity standards for cloud services ●\tIntroduction to IoT technologies●\tPotential threats of industrial IoT systems●\tIndustrial Cyber Security introduction●\tIoT security detection●\tIoT security standards●\tInformation security and privacy protection"
-    },
-    "id": "332043",
-    "name": {
-      "zh": "雲端與物聯網安全",
-      "en": "Cloud and IoT Security"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新資安學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
-        "code": "2964"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "張世豪",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12384",
-        "code": "12384"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905201",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=332043&code=12384"
-    ]
-  },
-  {
-    "code": "5905207",
-    "description": {
-      "zh": "區塊鏈技術 (作為比特幣等數位貨幣的核心) 已重塑了金融交易與分散式交互方式之未來。同時它也被期待帶給我們一個更自組與可提供事實證明的數位化世界。抽象化區塊鏈構造是非常精巧的，它倚賴輕量化密碼學工具搭配分散式系統概念，完成了開放、安全且有效率的系統 (如比特幣)。本課程為區塊鏈技術與應用上之概念介紹，包含：比特幣與區塊鏈設計、相關基礎密碼學工具、分散式網路與共識、區塊鏈應用。",
-      "en": "Blockchain techniques (the core of cryptocurrencies such as Bitcoin) have reshaped the future of financial transactions and decentralized interactions. They are also expected to bring us a more self-organizing and dependent digital world. The abstraction of blockchain is very delicate. It relies on cryptography tools and decentralized system concepts to achieve an open, secure, and efficient system (such as Bitcoin). This course aims to introduce the concepts of blockchain techniques and applications, including Bitcoin and blockchain design, basic cryptography tools, decentralized networks and consensus, and blockchain applications."
-    },
-    "id": "332044",
-    "name": {
-      "zh": "區塊鏈技術與應用",
-      "en": "Blockchain Techniques and Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新資安學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
-        "code": "2964"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳昱圻",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12385",
-        "code": "12385"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905207",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=332044&code=12385"
-    ]
-  },
-  {
-    "code": "5905212",
-    "description": {
-      "zh": "安全程式設計是資訊安全領域中的關鍵技術。不良的「程式設計習慣」和「不考慮安全保護的程式設計」很容易導致可有心人士所利用。本課程除了建立安全程式設計的基礎知識外，特別著重於同學的實務能力、漏洞測試、與安全程式開發能力。同時，透過分享最新的論文研究與相關技術報告，協助研究生在研究階段獲取最新的領域知識。",
-      "en": "Security programming is a key technology in the field of information security. “Bad programming habits” and “programming without security consideration” can easily lead to the use of malicious people. Four major themes will be explored.In addition to establishing the basic knowledge of security programming, this course focuses on student's practical ability, vulnerability testing, and security programming development ability. At the same time, by sharing novel research papers and related technical reports, the students can obtain the newest and complete domain knowledge in their research stage."
-    },
-    "id": "332045",
-    "name": {
-      "zh": "安全程式設計",
-      "en": "Security Programming"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新資安學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
-        "code": "2964"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "孫勤昱",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12387",
-        "code": "12387"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "5",
-        "6",
-        "7"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工、創新資安、電資資安合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905212",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=332045&code=12387"
-    ]
-  },
-  {
     "code": "C205031",
     "description": {
       "zh": "本課程將邀請產、官、學界知名人士，以演講或座談的方式，與 EMBA 學生交流溝通及討論。利用這些知名人士的實務經驗與學養，來啟發 EMBA 學生的創意與想法。",
@@ -40474,6 +40381,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2928",
         "code": "2928"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
+        "code": "2948"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -40501,7 +40418,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "工管所和管理博、IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3715014",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=332073&code=12494"
@@ -40706,6 +40623,21 @@
         "name": "資工所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2940",
         "code": "2940"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
+        "code": "2949"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [],
@@ -40727,7 +40659,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資安所和資工所合開。新聘、英語授課",
+    "notes": "資工所、電資外生和資安學位學程合開。新聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905121",
     "syllabusLinks": []
   },
@@ -40751,6 +40683,21 @@
         "name": "資工所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2940",
         "code": "2940"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
+        "code": "2949"
+      },
+      {
+        "name": "資訊安全學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2962",
+        "code": "2962"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
+        "code": "2964"
       }
     ],
     "teacher": [],
@@ -40772,7 +40719,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電資外、資安所和資工所合開。新聘、英語授課",
+    "notes": "資工所、電資外生和資安學位學程合開。新聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905100",
     "syllabusLinks": []
   },
@@ -40848,6 +40795,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2948",
         "code": "2948"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2953",
+        "code": "2953"
       }
     ],
     "teacher": [
@@ -40875,7 +40827,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA & 資財所",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805146",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=332335&code=24406"
@@ -41090,6 +41042,11 @@
         "name": "創新資安學位學程",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2964",
         "code": "2964"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -41123,7 +41080,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資財四甲乙資財所、創新資安、電資資安合開",
+    "notes": "資財四甲乙、資財所、創新資安、電資資安和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05110",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=332345&code=12439"
@@ -41342,7 +41299,9 @@
     "language": "",
     "notes": "博碩課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906263",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332365&code=11049"
+    ]
   },
   {
     "code": "5705049",
@@ -41562,6 +41521,118 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA02009",
+    "description": {
+      "zh": "本課程的主要目的在教授學生創新創業的實務，讓學生實際組成團隊進行創業，並有老師全程指導實踐創業，學校並提供基本創業基金與創業場地，輔導學生實際體會創業的過程。課程內容包括：創新創業精神、創新思考、自我了解、團隊組成、經營模式建立、創業財務、創業專題進行、創業競賽等。",
+      "en": "This course is to instruct students to practice the entrepreneurship and innovation. Students will form an entrepreneurship team. Teacher will guide the students throughout the entrepreneurship processes. University will offer students initial funds and incubation assistances. Students will gain practical experiences on how to establish entrepreneurship. The contents include entrepreneurial thoughts and actions, design thinking, self-understanding, team formation, business model development, entrepreneurship finance, entrepreneurship practices, entrepreneurship contests, and so on."
+    },
+    "id": "332381",
+    "name": {
+      "zh": "微型創業實戰",
+      "en": "Foundations of Management and Entrepreneurship"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11505",
+        "code": "11505"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6",
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=566",
+        "code": "566"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02009",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA04056",
+    "description": {
+      "zh": "本校為強化學生的就業能力，加強學生的職場競爭力，開設「職涯講座課程」，藉由業界主管與人員介紹不同種類的工作模式，如派遣、公職、舒活族、獵人頭公司、國外企業等，提升學生對於國內外職場的認識，並進一步提升學生的就業率與競爭力。",
+      "en": "This course is designed to enhance student’s competitive ability in the workplace. The course contents include tips of interview, self-marketing in the workplace and the planning of the career life etc. By the topics, students will be equipped with a variety of presentation skills that needed in the workplace to raise the employment rate."
+    },
+    "id": "332382",
+    "name": {
+      "zh": "職涯講座課程",
+      "en": "Career Lecture"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李穎玟",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11610",
+        "code": "11610"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=343",
+        "code": "343"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "前六週密集授課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA04056",
     "syllabusLinks": []
   }
 ]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳金聖",
+    "email": "saint@ntut.edu.tw",
+    "latestUpdate": "2023-12-22 14:30:49",
+    "objective": "電腦運動控制課程包含下列課題：(1) 命令產生器設計， (2) 運動本體與回授系統介紹， (3) 基礎迴授控制器設計， (4) 前饋控制器設計， (5) 估測器設計，(6) 多軸路徑控制， (7) 案例探討 -- 半導體、LCD 設備與機器人。學生從這門課程中可學到運動控制的理論與如何利用硬體控制平台去完成一套運動控制系統。\n\nThis course is a graduate-level introductory course to the fundamentals of computerized motion control. The topics of this course include: (1) command generation, (2) devices of motion control , (3) feedback control, (4) feedforward control, (5) observer design, (6) multi-axis control, (7) case study. Students can understand the techniques used in the field of computerized motion control. In addition, students will be using the above techniques to implement a real motion control system.",
+    "schedule": "第一週，2/22: 課程介紹 \n第二週，2/29: 電腦運動控制介紹\n第三週，3/7: 命令產生器設計\n第四週，3/14: 命令產生器設計\n第五週，3/21: 運動本體與回授系統介紹\n第六週，3/28: 運動本體與回授系統介紹\n第七週，4/4: 春假\n第八週，4/11: 迴授控制器設計\n第九週，4/18: 期中報告\n第十週，4/25: 迴授控制器設計\n第十一週，5/02: 前饋控制器設計\n第十二週，5/09: 前饋控制器設計\n第十三週，5/16: 估測器設計\n第十四週，5/23: 多軸控制\n第十五週，5/30: 多軸控制\n第十六週，6/06: 即時控制系統介紹\n第十七週，6/13: 業界講師演講\n第十八週，6/20: 期末專題報告",
+    "scorePolicy": "作業 (3~4): 50%\n期中考: 20%\n期末專題:  30%。\n\nHomework assignment (3~4):  50% ;\nMidterm:  20% ;\nTerm project:  30%.",
+    "materials": "Background Knowledge:\n1. a or b (a. Automatic Control, Digital Signal processing,  b. Digital Control),\n2. Matlab/ Simulink: simulation tool,\n3. C/C++: implementation tool.\nTextbook：\n1. 1.\tHakan Grocak, “Industrial Motion Control: Motor Selection, Drivers, Controller tuning, ” WILEY, 2016.\n2. Handout edited by the instructor,\n3. Selected paper.\nReference：\n1. Suk-Hwan Suh, Seong-Kyoon Kang, Dae-Hyuk Chung, Ian Stroud, “ Theory and Design of CNC System”, Springer, 2008.\n2. Chuck Raskin, “Designing With Motion Handbook: Design-Integration-Software Tips and Techniques”, Newnes; 5th edition,  1997.\n3. Y. Date, “Servo Motor and Motion Control Using Digital Signal Processors”, Prentice Hall, Englewood Cliffs, NJ, 1990\n4. Hamid A. Toliyat, Steven Campbell, “DSP-Based Electromechanical Motion Control”, CRC Press, 2003.\n5. ”Handbook of AC Servo Systems”, from www.motiononline.com supported by Automation Intelligence, Inc., Issued: 18/Jun/01\n6. 楊憲東，〝精密機械控制原理與模擬〞，全華圖書\n7. 施慶隆、李文猶，〝機電整合控制 — 多軸運動設計與應用〞，全華圖書",
+    "consultation": "任課教師及助教",
+    "remarks": "若因疫情而暫停實體上課時，將使用 Google Meet 視訊上課，會議網址: https://meet.google.com/ybn-xmqe-wbq",
+    "foreignLanguageTextbooks": true
+  }
+]
