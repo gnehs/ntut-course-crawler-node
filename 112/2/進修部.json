@@ -501,9 +501,9 @@
     "time": {
       "sun": [],
       "mon": [
+        "7",
         "8",
-        "9",
-        "A"
+        "9"
       ],
       "tue": [],
       "wed": [],
@@ -3517,9 +3517,9 @@
       "sun": [],
       "mon": [],
       "tue": [
-        "N",
         "5",
-        "6"
+        "6",
+        "7"
       ],
       "wed": [],
       "thu": [],
@@ -4951,7 +4951,9 @@
     "language": "",
     "notes": "科研 235",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330012&code=24339"
+    ]
   },
   {
     "code": "AB02016",
