@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "紀乃文",
+    "email": "nwchi@ntut.edu.tw",
+    "latestUpdate": "2023-12-26 08:23:17",
+    "objective": "資訊檢索（Information Retrieval）是搜尋引擎背後的技術基礎，以給定的查詢詞彙找出帶有相關資訊的文件，能夠處理與比較未結構化或半結構化的文字資料。在人工智慧與機器學習技術飛越成長的當代，自然語言處理（Natural Language Processing）及文本探勘（Text Mining）輔助人們在散亂的文本當中發掘有意義的資訊。傳統的資訊檢索理論在文本探勘的任務當中則扮演了重要的輔助角色，其賦與將文件以向量表達的基礎，亦即使諸多人工智慧應用能夠順利的與文本探勘任務接軌。\n\n本課程將教導修課同學資訊檢索、自然語言處理與資料探勘的理論基礎，以及各種新穎的人工智慧與機器學習應用如何取代傳統方法。並且訓練修課同學使用現成的程式語言套件來分析自己手邊的文本資料。\nInformation Retrieval (IR) is the process that retrieves the information which is relevant to a specific information need from a data collection. Search engine systems provides a famous example of IR applications. In recent years, with the growth of Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP), many of the AI applications can help discover useful information in unstructured or semi-structured text collections, such a process is called Text Mining. The traditional IR technique also play an important role to support the AI applications. It can vectorize the texts and make it possible to compare the similarities between different pieces of text.\n\nThis course aims to train the enrolled students to learn the basic concept of IR, NLP, and AI applications which are relevant to Text Mining tasks. In addition, this course also trains the enrolled students to use existing tools and software packages which can support the AI applications.",
+    "schedule": "1\t課程介紹\n2\t資訊檢索的理論基礎\n3\t將文字表達成向量以建立索引：布林模型與向量空間模型\n4\t文件與詞彙的相似度：搜尋引擎排名的基礎\n5-6\t自然語言處理的經典基礎：隱馬克夫鍊模型\n7-8\t自然語言處理的經典應用：中文斷詞與詞性標記\n9\t期中提案報告\n10-11\t詞嵌入模型：word2vec\n12-13\t深度學習與自然語言處理：LSTM\n14-15\t深度學習與自然語言處理：RNN\n16-17\t深度學習與自然語言處理：BERT 與 Transformer\n18\t期末報告",
+    "scorePolicy": "課堂表現 (35%)、作業 (35%)、期末報告（30%）",
+    "materials": "•\tC. D. Manning, P. Raghavan, and H. Schütze, Introduction to Information Retrieval, Cambridge University Press, 2008.\n•\tChristopher D. Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, The MIT Press, 1999.",
+    "consultation": "nwchi@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]

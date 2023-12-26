@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "紀乃文",
+    "email": "nwchi@ntut.edu.tw",
+    "latestUpdate": "2023-12-26 08:22:06",
+    "objective": "物件導向程式設計以類別與物件為核心概念，輔以靜態的屬性及動態的方法，能夠直覺並且系統化地描述真實世界的事物，再輔以封裝、繼承、多型、介面等機制，能夠有效率地達到程式碼的共享及再利用，因此物件導向程式設計的功能不但被各式各樣的程式語言所廣泛支援，亦已形成了一門獨立的學問。\n\n而資料庫是重要、普遍且實用的資訊管理核心技術。但在另一方面，資料庫的開發與實作過程對於理解物件導向程式設計更是一個良好的契機與範例。本課程將以土木營建領域的範例出發，教導修課同學開發輔助工程資訊管理之資料庫系統，並在資料的分析處理及使用者介面的實作上導入物件導向程式設計的概念。\nObject-Oriented Programming (OOP) is a programming paradigm based on the concept of class and objects. With properties and methods that can describe the features of classes, a programmer can model the real world objects in an systematical way. In addition, the three important mechanisms of OOP, which are encapsulation, inheritance, and polymorphism, also enable a programmer to reuse and share their code easily and efficiently. \n\nBase on the Architecture/Engineering/Construction applications, this course aims to train the enrolled student for developing the basic OOP concepts, analyzing the database schemas, as well as implementing the OOP skills on information systems developments.",
+    "schedule": "1\tcourse introduction\n2-3   review of basic C# programming skills\t\n5-6\toop concept: class and objects, attribute and methods\n7-8\toop application: collection objects\n9\tfinal project proposal presentation\n10-11\toop concept: inheritance, polymorphism, and interface\n12-13\tdatabase design and normalization: 1NF, 2NF, 3NF, and BCNF\n14-15\tdatabase implementation: MS SQL Server and MS Access\n16-17\tdatabase application: windows form and ASP.NET \n18\tfinal project presentation",
+    "scorePolicy": "lab exercise(35%), assignments(35%), and final project(30%)",
+    "materials": "•\tJoseph Albahari and Ben Albahari (2012),”C# 5.0 in a Nutshell”, 5th Edition, O'Reilly Media",
+    "consultation": "nwchi@ntut.edu.tw",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
