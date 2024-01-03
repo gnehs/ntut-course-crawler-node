@@ -1,5 +1,17 @@
 [
   {
+    "name": "張世豪",
+    "email": "sh.chang@ntut.edu.tw",
+    "latestUpdate": "2024-01-02 10:17:40",
+    "objective": "本課程以 “智能工業生產教學工廠 (二)” 為學習場域，是一間無人的關燈工廠，這間智能工廠的建置完全與廠商實際生產需求結合，全球最大高階自行車變速器製造商美商速聯公司 (SRAM) 林孟輝總廠長擔任建廠諮詢顧問，整間工廠完全由北科大跨系所老師帶領學生自行建置，這是一間全國大學第一條由老師帶領學生團隊自行建置完成的智能化生產製造產線，產線包括加工區、精密量測區、線上品管區、組裝區、自動倉儲，從接受訂單到智能化排單、加工、量測、品管、組裝、倉儲，所有雲端伺服器與程式軟體完全由學生自行架設與撰寫，是一條完全無人化的關燈展示生產與教學工廠。上課方式是廠商針對智能工廠各個工作細節具體提出實務需求，再由上課老師帶學生助教以此些問題作為上課基礎，教導學生共同解決，學生以班級為單位進入工廠實作學習，課程由負責建置 “智能工業生產教學工廠” 的老師依其專長領域分工合作開課，依據老師負責建置的部分及其專長進行分工教學，學生分組由個別老師帶領指導，學生將可依序學到完整工廠技術，學期結束再由各專長老師依照學生分組指導學生進行專題報告，學生的專題報告將以個別老師專長協助解決的問題撰寫報告，這樣的設計可以讓學生深入了解與探討如何解決問題。\nThis course is based on the intelligent manufacturing system education factory which is an unmanned and turn off the light factory. The intelligent factory is completely built by ourselves and is the only one self-built factory in Taiwanese universities. Building the intelligent factory is cooperated with SRAM, a global bicycle parts manufacturer, and their director Jacky Lin is our technical consultant. The intelligent manufacturing system has seven areas, central server, reception, automatic warehouse, manufacturing, measuring, on-line quality control, and assembly. In process, we receive the raw materials and scanned by QR code scanner. After scanned, the raw materials are transported to the warehouse and wait for producing order. If the producing order received, the raw materials will be sent through all seven machines, where a finished component will be manufactured. One component from that batch will be sent to measuring area for complete quality control and the remaining compone",
+    "schedule": "第 1-2 週 課程簡介與修課同意書、分組\n第 3-4 週 場域介紹、自駕車示範介紹與操作練習\n第 5-7 週 機構系統電腦輔助製圖及分組討論\n第 7-8 週 電機系統選用及分組討論\n第 9 週 期中簡報\n第 10-11 週 Linux 機邊電腦安裝及測試\n第 12-13 週 馬達與控制器組裝與分組測試\n第 14-15 週 光達組裝與系統與分組測試\n第 16-17 週 ROS 系統安裝與分組測試\n第 18 週 期末簡報",
+    "scorePolicy": "隨堂測驗口頭簡報 30%；期中簡報 30%；期末簡報 40%",
+    "materials": "自製",
+    "consultation": "聯絡信箱張敬源副教授:chang@mail.ntut.edu.tw 張世豪助理教授:sh.chang@ntut.edu.tw 尤尚邦助理教授:ysp@ntut.edu.tw 實驗室分機 (02) 27712171#2085",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "張敬源",
     "email": "chang@mail.ntut.edu.tw",
     "latestUpdate": "2023-12-21 21:09:19",
