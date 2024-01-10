@@ -4108,6 +4108,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328532&code=12099",
       "ShowSyllabus.jsp?snum=328532&code=11321",
+      "ShowSyllabus.jsp?snum=328532&code=12234",
       "ShowSyllabus.jsp?snum=328532&code=10993"
     ]
   },
@@ -18350,7 +18351,9 @@
     "language": "",
     "notes": "共同科館 302 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906569",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330294&code=21643"
+    ]
   },
   {
     "code": "4906703",
@@ -28097,7 +28100,9 @@
     "language": "",
     "notes": "日、職車輛所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406107",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331192&code=12234"
+    ]
   },
   {
     "code": "4406146",
@@ -28264,7 +28269,9 @@
     "language": "",
     "notes": "日、職車輛所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406107",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331195&code=12234"
+    ]
   },
   {
     "code": "4406145",
@@ -40981,7 +40988,9 @@
     "language": "",
     "notes": "車輛三四和智慧鐵道學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C025003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332485&code=12234"
+    ]
   },
   {
     "code": "C005005",
@@ -41181,6 +41190,47 @@
     "language": "",
     "notes": "碩二修，UTA-Narayan Janakiraman,1.7 輔課，1.11-15 正課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515001",
+    "description": {
+      "zh": "碩士學位論文寫作",
+      "en": "A student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "332501",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2989",
+        "code": "2989"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515001",
     "syllabusLinks": []
   }
 ]
