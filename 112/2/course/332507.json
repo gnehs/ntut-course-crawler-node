@@ -1,0 +1,14 @@
+[
+  {
+    "name": "傅遠智",
+    "email": "fuyc20@gmail.com",
+    "latestUpdate": "2024-01-08 08:36:14",
+    "objective": "校務研究是教育數據分析在教育場域的應用，在真實的教育場域中應用所學的教育數據分析技術，並針對所服務的教育機構，提供有科學意義且淺顯易懂的數據分析報告，以支持教育機構進行校務運作與教學活動的改善。本門課程首先讓學生認識各職能部門的核心項目及衍伸的校務研究議題；其次瞭解教育場域中因應各項校務與教學活動所出現的數據結構類型；接著教授學生使用教育場域中的真實數據，執行包括數據清理、數據調處、數據水平與垂直整併等步驟，以獨立生成有意義的數據結構；最後則聚焦在教育方案的效果分析，以及將數據分析資料視覺化，輔以淺顯易懂的數據解讀報告，增加學員對於數據分析結果的瞭解。\nInstitutional research is the field where the data science can apply in the education. In the educational field, institutional researchers must use their knowledge and techniques in the educational data analytics, providing the scientific report in a friendly manner to their affiliation. Those scientific report is aimed to improve the institutional operation and the teaching activities. This course would first introduce the function of each office at the university and the institution research topic those offices have interest. Then, the data structure which is commonly seen in the educational field would be introduced followed by a series of training on the data manipulation. Last, this course will teach the students how to conduct the educational program evaluation, data visualization, data analysis and the result interpretation.",
+    "schedule": "第 1 週\t教育場域：教務、學務、研發體系與職能介紹\n第 2 週\t校務研究分析項目與工作內容綜覽：教務、學務、研發、空間規劃\n第 3 週\t校務研究分析軟體工作環境介紹及其功能定位 (Stata、Python、Gephi、QGIS、Netlogo)\n第 4 週\t教育內部場域數據性質介紹：數值、文字紀錄、聲音、人群關係、人員移動路線\n第 5 週\t教育外部相關場域數據的取得：API 介接服務與操作\n第 6 週\t資料清理與資料調處\n第 7 週\t資料垂直串接與水平整併\n第 8 週\t資料視覺化製作\n第 9 週\t期中報告：撰寫資料視覺化分析報告\n第 10 週\t教育方案效果評估技術 I：倍差法、綜合控制法\n第 11 週\t教育方案效果評估技術 II：斷點迴歸法、傾向分數配對法\n第 12 週\t進階專題 I：地理空間分析 (GIS) 在教育場域的應用分析\n第 13 週\t進階專題 II：社會關係網絡 (SNA) 在教育場域的應用分析\n第 14 週\t進階專題 III：自然語言處理 (NLP) 在教育場域的應用分析\n第 15 週\t進階專題 IV：代理人模型 (ABM) 在教育場域的應用分析\n第 16 週\t學期課程總複習\n第 17 週\t期末專題報告\n第 18 週\t期末專題報告",
+    "scorePolicy": "\t課堂討論參與 15%\n以學生在課堂中參與討論情形做為考核指標。\n\t出席 15%\n以學生出席率作為考核指標。\n\t報告 (期中報告：資料視覺化報告) 30%\n以學生為單位向校務部門主管呈現資料視覺化的結果，並說明重要發現。\n\t專題 (期末專題報告) 40%\n以小組為單位向校務部門主管呈交校務研究數據分析報告，並以口頭方式報告重要發現。",
+    "materials": "1.\t彭森明 (2013)，高等教育校務研究的理念與應用，高等教育\n2.\t黃榮村、周懷樸、林世昌 (2018)，臺灣校務研究理論與技術，高等教育\n3.\tHoward, R. D., McLaughlin, G. W., & Knight, W. E. (2012). The handbook of institutional research. John Wiley & Sons.\n4.\tAngrist, J. D., & Pischke, J. S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton university press.\n5.\tWilensky, U., & Rand, W. (2015). An introduction to agent-based modeling: modeling natural, social, and engineered complex systems with NetLogo. Mit Press.\n6.\tBird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. O'Reilly Media, Inc.",
+    "consultation": "每周三下午兩點到五點到人文與社會科學院統計諮詢中心",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": false
+  }
+]
