@@ -2,12 +2,12 @@
   {
     "name": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
-    "latestUpdate": "2023-12-12 23:01:09",
-    "objective": "學習智慧型手機的程式設計，課程包含應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nThis course will learn how to program the mobile phones, the topics including: basics of applications programming, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
-    "schedule": "Part I: *** Kotlin Programming \nWeek 1: Course Syllabus、 IntelliJ IDEA and Kotlin (1/5)\nWeek 2: Kotlin Programming (2/5) \nWeek 3: Kotlin Programming (3/5)\nWeek 4: Kotlin Programming (4/5)\nWeek 5: Kotlin Programming (5/5)\nWeek 6: Midterm Written Exam. (Kotlin Syntax)\n\nPart II:  ***Android APP  \nWeek 7: Android Studio 與專案架構 (Ch. 01), 介面設計與元件佈局 (Ch. 02)\nWeek 8: 物件控制與事件監聽 (Ch. 03)\nWeek 9: Activity (Ch. 04)\nWeek 10: Fragment (Ch. 05) 與 訊息提示元件 (Ch. 06)\nWeek 11: 清單元件 (或進階清單元件) (Ch. 07/08)\nWeek 12: 同步與非同步執行 (Ch. 09) 與動畫製作 (Ch. 10)\nWeek 13: 多媒體應用 (Ch.11)\nWeek 14: Service/BroadcastReceiver (Ch. 12/13)\nWeek 15: SQLite (Ch. 15)\nWeek 16/17: 通訊與網路 MQTT (其他參考資料)\nWeek 18: 期末個人 Android App 專題製作與報告",
-    "scorePolicy": "Attendance: 10% \nAssignments: 30%\nMidterm Exam.: 30%\nIndividual Android APP project: 30%",
-    "materials": "教科書:  \"Android Kotlin 實作開發 (精心設計 20 個 Lab 讓你快速上手)\"， 第二版，黃士嘉、周映樵，博碩文化出版\n參考書: \"Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning",
-    "consultation": "1. Teacher office hours for @綜科館 215: Thurs. 10:00 ~ 12:00, Friday. 14:00 ~ 16:002. Please email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.",
+    "latestUpdate": "2024-01-12 18:29:40",
+    "objective": "微處理器是各種需要高性能的電子產品中的主要元件之一，微處理器技術對電機與電子工程師而言，日益重要。本課程將介紹近代微處理機之發展、微處理機架構、軟體環境、組合語言程式、周邊電路設計。課程將以 x86/x64 微處理器例，以綜合性的方式介紹處理器的一般原理，學習後可應用相同原理於其他類型的微處理器或嵌入式微處理器中。\n\nMicroprocessors are one of the major components of a wide variety of electronic products that require high performance, and microprocessor technologies are increasingly important for electrical/electronic engineers. This course will cover the topics of modern microprocessors developments, microprocessor architecture, software environment, assembly language programming, and peripheral circuit design. The course introduces the general and basic principles of processors in a comprehensive manner and uses x86/x64 microprocessor as examples, and the same principles learned can be applied to other types of microprocessors or embedded microprocessors.",
+    "schedule": "Week 1  課程大綱與第一章微處理機簡介\nWeek 2  第一章簡介微處理機簡介\nWeek 3  第二章計算機結構與組合語言\nWeek 4  第二章計算機結構與組合語言\nWeek 5  第三章 CPU 軟體模式\nWeek 6  第三章 CPU 軟體模式\nWeek 7  第四章 基本組合語言程式設計\nWeek 8  第四章 基本組合語言程式設計\nWeek 9  期中考  \nWeek 10  第五章組合語言程式設計\nWeek 11  第五章組合語言程式設計\nWeek 12  第六章副程式與巨集指令 \nWeek 13  第七章硬體模式\nWeek 14  第七章硬體模式\nWeek 15  第八章記憶器元件與界面設計\nWeek 16  第八章記憶器元件與界面設計\nWeek 17  第九章中斷要求與處理\nWeek 18  期末考",
+    "scorePolicy": "出席 (5 次點名，一次 2%): 10% \n作業 (3~4 項): 30%\n期中考.: 30%\n期末考: 30%",
+    "materials": "教科書：微處理機原理與應用 x86/x64 微處理機器軟體、界面與應用，林銘波 編著，全華\n參考書: The 8088 and 8086 Microprocessors: Programming, Interfacing, Software, Hardware, and Applications (4th Edition), Walter A. Triebel, Avtar Singh, Pearson",
+    "consultation": "1. Teacher office hours @綜科館 215: Thurs. 10:00 ~ 12:00, Friday. 14:00 ~ 16:002. Please email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.",
     "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": false
   }

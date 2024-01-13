@@ -400,7 +400,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=211",
+        "code": "211"
+      }
+    ],
     "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1302,6 +1308,16 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2949",
         "code": "2949"
+      },
+      {
+        "name": "人工智慧學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2961",
+        "code": "2961"
+      },
+      {
+        "name": "創新AI學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2963",
+        "code": "2963"
       }
     ],
     "teacher": [
@@ -1325,7 +1341,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11076,7 +11092,8 @@
     "notes": "網路預選限 45 人 (研究所)；大四化工智財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305073",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329176&code=11138"
+      "ShowSyllabus.jsp?snum=329176&code=11138",
+      "ShowSyllabus.jsp?snum=329176&code=11541"
     ]
   },
   {
@@ -14659,59 +14676,6 @@
     ]
   },
   {
-    "code": "3615050",
-    "description": {
-      "zh": "課程主要為介紹學術界最新的深度學習研究成果，教導學員使用 Python 深度學習套件，讓學員能將深度學習技術應用於各個不同的領域。課程內容包括：? 車牌與門牌數字辨識？人臉辨識？1000 種影像分類？辨識 9000 種物件？自動駕駛模擬？嵌入式深度學習演算法？空虛，寂寞，覺得冷？讓深度學習來幫助你:? 遞迴式神經網路 (RNN)：找不到人聊天？訓練自己的聊天機器人？對抗生成網路 (GAN)：用 GAN 產生自己的夢中情人？深度強化學習 (DRL)：訓練 AI 跟你一起玩遊戲",
-      "en": "The goal of this course is to introduce latest deep learning researches and allow students to develop deep learning applications using Python library (TensorFlow & Keras). The content includes:?Number recognition of License plate and Doorplate?Face Recognition?1000 Image Classification?9000 Object Detection?Autopilot simulation?Embedded Deep Learning Algorithms?Convolutional Neural Networks (CNN)?Recurrent Neural Networks (RNN)?Long-Short Term Memory (LSTM)?Generative Adversarial Networks (GAN)?Deep Reinforcement Learning"
-    },
-    "id": "329485",
-    "name": {
-      "zh": "深度學習應用開發實務",
-      "en": "Building Deep Learning Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "人工智慧學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2961",
-        "code": "2961"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "賴冠廷",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12084",
-        "code": "12084"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "5",
-        "6",
-        "7"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "電子所、創新 AI、電資 AI 合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3615050",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329485&code=12084"
-    ]
-  },
-  {
     "code": "5905170",
     "description": {
       "zh": "本課程介紹 OpenGL 與 OpenGL for Embedded Systems (OpenGL ES)。講授電腦圖學基本原理：幾何圖形、互動介面、幾何轉換、透視投影、明暗度計算、紋理貼圖、色彩原理等。接著介紹 3D 繪圖引擎、建模引擎、創作實例經驗談。修課學生必須熟悉 C 語言。課程並介紹近年來在多媒體產業應用非常多的擴增實境 (Augmented Reality, AR) 繪圖技術。本課訓練學生具備使用 OpenGL/OpenGL ES 程式庫、瞭解 3D 繪圖引擎、及運用擴增實境技術之能力，並能整合以上技術進行 3D 繪圖程式開發創作。",
@@ -14851,59 +14815,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C715001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329518&code=10458"
-    ]
-  },
-  {
-    "code": "3615050",
-    "description": {
-      "zh": "課程主要為介紹學術界最新的深度學習研究成果，教導學員使用 Python 深度學習套件，讓學員能將深度學習技術應用於各個不同的領域。課程內容包括：? 車牌與門牌數字辨識？人臉辨識？1000 種影像分類？辨識 9000 種物件？自動駕駛模擬？嵌入式深度學習演算法？空虛，寂寞，覺得冷？讓深度學習來幫助你:? 遞迴式神經網路 (RNN)：找不到人聊天？訓練自己的聊天機器人？對抗生成網路 (GAN)：用 GAN 產生自己的夢中情人？深度強化學習 (DRL)：訓練 AI 跟你一起玩遊戲",
-      "en": "The goal of this course is to introduce latest deep learning researches and allow students to develop deep learning applications using Python library (TensorFlow & Keras). The content includes:?Number recognition of License plate and Doorplate?Face Recognition?1000 Image Classification?9000 Object Detection?Autopilot simulation?Embedded Deep Learning Algorithms?Convolutional Neural Networks (CNN)?Recurrent Neural Networks (RNN)?Long-Short Term Memory (LSTM)?Generative Adversarial Networks (GAN)?Deep Reinforcement Learning"
-    },
-    "id": "329527",
-    "name": {
-      "zh": "深度學習應用開發實務",
-      "en": "Building Deep Learning Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新AI學位學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2963",
-        "code": "2963"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "賴冠廷",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12084",
-        "code": "12084"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "5",
-        "6",
-        "7"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "電子所、創新 AI、電資 AI 合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3615050",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329527&code=12084"
     ]
   },
   {
@@ -19330,7 +19241,8 @@
     "notes": "由廖硃岑老師及蔡淑瑩老師共同授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5225428",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=330375&code=12244"
+      "ShowSyllabus.jsp?snum=330375&code=12244",
+      "ShowSyllabus.jsp?snum=330375&code=24536"
     ]
   },
   {
@@ -23909,7 +23821,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "思源講堂",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=505",
+        "code": "505"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23962,7 +23880,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科514",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=214",
+        "code": "214"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37348,7 +37272,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5707012",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331929&code=23585"
+    ]
   },
   {
     "code": "5705466",
