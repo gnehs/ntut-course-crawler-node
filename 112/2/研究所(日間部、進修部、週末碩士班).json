@@ -3366,7 +3366,9 @@
     "language": "",
     "notes": "土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4226008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=328453&code=11097"
+    ]
   },
   {
     "code": "4235007",
@@ -31755,7 +31757,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4235011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331435&code=11097"
+    ]
   },
   {
     "code": "4505509",
@@ -33995,7 +33999,9 @@
     "language": "",
     "notes": "土木三四甲乙和防災所合開 / 研究所上限 12 人 / 土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205086",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331609&code=11097"
+    ]
   },
   {
     "code": "4235010",
@@ -40872,7 +40878,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教326",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=428",
+        "code": "428"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],

@@ -886,7 +886,13 @@
         "code": "2753"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蔡定江",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=24538",
+        "code": "24538"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -2573,6 +2579,7 @@
       "ShowSyllabus.jsp?snum=329927&code=11684",
       "ShowSyllabus.jsp?snum=329927&code=12467",
       "ShowSyllabus.jsp?snum=329927&code=11319",
+      "ShowSyllabus.jsp?snum=329927&code=10997",
       "ShowSyllabus.jsp?snum=329927&code=11677"
     ]
   },
@@ -18675,7 +18682,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4235011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331435&code=11097"
+    ]
   },
   {
     "code": "4505509",
@@ -23964,7 +23973,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科110_1",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=94",
+        "code": "94"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
