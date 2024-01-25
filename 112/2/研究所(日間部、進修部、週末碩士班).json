@@ -8173,7 +8173,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教625",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=445",
+        "code": "445"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8463,7 +8469,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教327",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=429",
+        "code": "429"
+      }
+    ],
     "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8739,13 +8751,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教725",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=450",
-        "code": "450"
-      }
-    ],
+    "classroom": [],
     "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16155,7 +16161,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科318",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=201",
+        "code": "201"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16207,7 +16219,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科216",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=196",
+        "code": "196"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16260,7 +16278,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=211",
+        "code": "211"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16313,7 +16337,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=67",
+        "code": "67"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16419,7 +16449,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=48",
+        "code": "48"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16472,7 +16508,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=211",
+        "code": "211"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16525,7 +16567,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=45",
+        "code": "45"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16535,170 +16583,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=330062&code=10473"
     ]
-  },
-  {
-    "code": "3435006",
-    "description": {
-      "zh": "本課程旨在介紹專案工程規劃與控制之方法與架構，主要介紹各種專案規劃與控制之方法及專案管理方法，內容包工程專案管理方法，專案工期規劃與控制，專案成本控制方法，專案資源管理，專案風險整合管理，專案品質管理，及專案人力及目標管理等介紹。",
-      "en": "Project management in construction is increasingly important for management of construction projects recently. The course introduces the major concepts and methods for project management in construction. The course includes project schedule management, project scope management, project integration management, project communication, and project human resource management."
-    },
-    "id": "330063",
-    "name": {
-      "zh": "專案工程規劃與控制",
-      "en": "Construction Project Planning and Control"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "營建管理雙聯學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2971",
-        "code": "2971"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3435006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3435007",
-    "description": {
-      "zh": "本課程針對不同應用主題，諸如人事、財務、物料安全、品質、進度、環保等進行管理科學之介紹，並進行應用研究探討，此外有關作業研究、系統模擬等分析方法亦將於課程中詳加介紹。",
-      "en": "This cause will introduce the management science and application of personnel, finance, safety, material, quality, schedule and environmental protection. Meanwhile, the analysis methods of activity research and system simulation will also be discussed."
-    },
-    "id": "330064",
-    "name": {
-      "zh": "管理科學與應用",
-      "en": "Management Science and Application"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "營建管理雙聯學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2971",
-        "code": "2971"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3435007",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3435008",
-    "description": {
-      "zh": "介紹管理會計的概念、目的、問題、方法和術語。先修課程：ACCT 5301（會計分析 I）與 C 級或更高階的會計課程。",
-      "en": "Introduction to concepts, purposes, problems, methodology, and terminology of managerial accounting. Prerequisite: ACCT 5301 (ACCOUNTING ANALYSIS I) with a grade of C or higher."
-    },
-    "id": "330065",
-    "name": {
-      "zh": "高階會計分析 II",
-      "en": "Accounting Analysis II"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "營建管理雙聯學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2971",
-        "code": "2971"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3435008",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3435009",
-    "description": {
-      "zh": "使學生瞭解國際金融之理論與國際金融市場之概況：1. 國際金融市場形成之基礎和背景 2. 介紹中央銀行及國際公營金融中介機構 3. 外匯市場、國際債券市場、國際股票市場、衍生性金融商品市場 4. 國際利率套利與利率均衡論 5. 國際金融市場與金融創新",
-      "en": "To understand theory of international finance and the international financial markets. 1.Introduction to the international financial markets 2.Central banks and international public financial intermediaries, such as BIS and World Bank. 3.Foreign Exchange Market, Int'l Bond Market, Int'l Stock Market, Derivative Market, etc. 4.Interest Rate Parity Theory. 5.Financial Revolution"
-    },
-    "id": "330066",
-    "name": {
-      "zh": "國際金融",
-      "en": "International Finance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "營建管理雙聯學程",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2971",
-        "code": "2971"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3435009",
-    "syllabusLinks": []
   },
   {
     "code": "3605001",
@@ -17100,7 +16984,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科502",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=292",
+        "code": "292"
+      }
+    ],
     "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18058,7 +17948,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18151,7 +18047,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同303A",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=119",
+        "code": "119"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18201,7 +18103,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18253,7 +18161,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18305,7 +18219,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18589,7 +18509,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19786,7 +19712,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計106",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=387",
+        "code": "387"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19837,7 +19769,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計106",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=387",
+        "code": "387"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19890,7 +19828,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計106",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=387",
+        "code": "387"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19994,7 +19938,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20049,7 +19999,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20107,7 +20063,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20534,7 +20496,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=569",
+        "code": "569"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20588,7 +20556,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=569",
+        "code": "569"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20692,7 +20666,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒1402",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=570",
+        "code": "570"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20862,7 +20842,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "光華館409",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=512",
+        "code": "512"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23556,7 +23542,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計603",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=139",
+        "code": "139"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -23609,7 +23601,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計603",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=139",
+        "code": "139"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24031,7 +24029,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=48",
+        "code": "48"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27213,7 +27217,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27539,7 +27549,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -28432,7 +28448,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科610",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=301",
+        "code": "301"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29975,7 +29997,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計301",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=309",
+        "code": "309"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30029,7 +30057,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計306",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=392",
+        "code": "392"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32973,7 +33007,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=211",
+        "code": "211"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33448,7 +33488,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教402",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=52",
+        "code": "52"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35343,7 +35389,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計106",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=387",
+        "code": "387"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36542,7 +36594,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計207",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=389",
+        "code": "389"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37145,7 +37203,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科318",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=201",
+        "code": "201"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37198,7 +37262,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科502",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=292",
+        "code": "292"
+      }
+    ],
     "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38300,7 +38370,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒401 ",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=553",
+        "code": "553"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38421,7 +38497,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒402 ",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=554",
+        "code": "554"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -39767,7 +39849,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓334",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=473",
+        "code": "473"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -39817,7 +39905,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同303A",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=119",
+        "code": "119"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -39991,7 +40085,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同303A",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=119",
+        "code": "119"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -41317,5 +41417,61 @@
     "notes": "碩一修，5.18 (暫) , 中輔 5.24-27  Adwait Khare",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
+  },
+  {
+    "code": "C715003",
+    "description": {
+      "zh": "本課程以實踐機器人和人工智慧應用為核心，採用美國麻省理工學院 (MIT) 的專案任務導向學習模式。透過結合講授、討論、實際應用和案分析，課程將會幫助學生深入理解人工智慧和機器人技術。學生有機會積極參與小組專案，透過情境思考實際應用所學知識，並親自操作機器學習工具和機器人平臺，以培養實際技能。",
+      "en": "This course is designed for practical application of robotics and artificial intelligence (AI). It adopts the project-based learning model inspired by the Massachusetts Institute of Technology (MIT). The course combines lectures, discussions, practical applications, and case studies to provide students with an in-depth understanding of AI and robotics technology. Students will have the opportunity to engage in group projects, apply their knowledge in real-world scenarios, and gain hands-on experience with machine learning tools and robot platforms."
+    },
+    "id": "332509",
+    "name": {
+      "zh": "機器人智慧：AI 應用與發展",
+      "en": "AI and Robotics"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "人工智慧學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2961",
+        "code": "2961"
+      },
+      {
+        "name": "創新AI學位學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2963",
+        "code": "2963"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "莊賀喬",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11394",
+        "code": "11394"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "8"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "密集授課，需自備電腦與 python 3 環境，須具備 ROS 基礎",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C715003",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332509&code=11394"
+    ]
   }
 ]
