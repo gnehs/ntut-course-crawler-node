@@ -4568,7 +4568,8 @@
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505403",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=328549&code=11167"
+      "ShowSyllabus.jsp?snum=328549&code=11167",
+      "ShowSyllabus.jsp?snum=328549&code=24503"
     ]
   },
   {
@@ -6482,7 +6483,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教502",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=59",
+        "code": "59"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6535,7 +6542,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=41",
+        "code": "41"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6588,7 +6601,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6641,7 +6660,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=50",
+        "code": "50"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11293,7 +11318,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教411",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=58",
+        "code": "58"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11346,7 +11377,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "四教102",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=70",
+        "code": "70"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11399,7 +11436,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=41",
+        "code": "41"
+      }
+    ],
     "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18060,7 +18103,9 @@
     "language": "",
     "notes": "共同科館 303A 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905481",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330278&code=20885"
+    ]
   },
   {
     "code": "4906403",
@@ -27339,7 +27384,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教308",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=49",
+        "code": "49"
+      }
+    ],
     "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27386,13 +27437,7 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "四教102",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=70",
-        "code": "70"
-      }
-    ],
+    "classroom": [],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27443,7 +27488,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教308",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=49",
+        "code": "49"
+      }
+    ],
     "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27496,7 +27547,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=334",
+        "code": "334"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -28562,9 +28619,9 @@
     },
     "classroom": [
       {
-        "name": "三教303",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=46",
-        "code": "46"
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=47",
+        "code": "47"
       }
     ],
     "people": "28",
@@ -31382,7 +31439,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32417,7 +32480,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教304",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=29",
+        "code": "29"
+      }
+    ],
     "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33203,7 +33272,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=67",
+        "code": "67"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33319,7 +33394,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=67",
+        "code": "67"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33377,7 +33458,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=22",
+        "code": "22"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36535,13 +36622,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=49",
-        "code": "49"
-      }
-    ],
+    "classroom": [],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -41472,6 +41553,106 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C715003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=332509&code=11394"
+    ]
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "332513",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2995",
+        "code": "2995"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA，碩二，Dr Narayan Janakiraman",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C105012",
+    "description": {
+      "zh": "本課程介紹科學和工程數值分析的理論，應用，和程式編撰，包括初步誤差分析、方程式求解、逼近法、微分方程、線性代數、線性和非線性回歸，與離散傅利葉變換。本課程著重於使用目前廣泛採用的數值分析開發環境與程式語言，並透過動手練習讓學生體驗數值分析技術在人工智能中的應用。 本課程學生應至少已完成微積分第一年的學生而設計。",
+      "en": "This course introduces the theory, applications, and programming implementation of numerical analysis for science and engineering, including preliminary error analysis, solutions of equations, approximation, differential equations, linear algebra, linear and nonlinear regression, and discrete Fourier transform. Programming implementation is also intensed in the lectures using a current popular development environment for numerical analysis. The application of numerical analysis techniques on artificial intelligence is also introduced with hands-on exercises. This course is designed for engineering majors who have completed at least the first year of the calculus sequence."
+    },
+    "id": "332518",
+    "name": {
+      "zh": "數值分析",
+      "en": "Numerical Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2595",
+        "code": "2595"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "楊元森",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11397",
+        "code": "11397"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "7",
+        "8",
+        "9"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同412",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=156",
+        "code": "156"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C105012",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332518&code=11397"
     ]
   }
 ]
