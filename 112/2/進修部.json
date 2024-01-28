@@ -13651,7 +13651,9 @@
     "language": "",
     "notes": "中分署上課；場地因素，僅提供攜四車一同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330929&code=24514"
+    ]
   },
   {
     "code": "1404007",
@@ -24856,6 +24858,47 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "332502",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2989",
+        "code": "2989"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "5",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一修，5.18 (暫) , 中輔 5.24-27  Adwait Khare",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
   }
 ]

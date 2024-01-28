@@ -41654,5 +41654,46 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=332518&code=11397"
     ]
+  },
+  {
+    "code": "3435001",
+    "description": {
+      "zh": "碩士學位論文",
+      "en": "Thesis for master degree's partially requirement."
+    },
+    "id": "332525",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "營建管理雙聯學程",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2971",
+        "code": "2971"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3435001",
+    "syllabusLinks": []
   }
 ]
