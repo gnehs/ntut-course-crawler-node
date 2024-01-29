@@ -21686,51 +21686,6 @@
     ]
   },
   {
-    "code": "4402053",
-    "description": {
-      "zh": "化學是富挑戰性且具教學難度之科目，使這個複雜的學科讓學生易於接受化學教育家的挑戰，特別是基礎化學。嘗試推展關鍵的化學概念，並以觀察現象為主，再討論理論模式，並用以解釋所觀測的現象是本課程的重點。希望學生實踐 \"如同一個化學家的思考方式\" 來仔細觀察，而不是跳入公式或模型中。此外，舉例證明化學在現實生活中的重要性與最新的應用及發展並以簡易明瞭的方式呈現於授課內容。",
-      "en": "Chemistry is fascinating and important subject that is challenging to teach and even more challenging to learn. Marking this complex subject accessible to students without distortion is challenge of the chemical educator, especially at the introductory level.In this lecture I try to develop key chemical concept in the same way to show the observations first and then discuss the models that have been constructed to explain the observed behavior. I hope students will practice \"thinking like a chemist\" by carefully studying the observation to see if they can follow the thought process, rather than just jumping head to the equation or model that will follow.In addition, to demonstrate the importance of chemistry in real life, I have incorporated throughout the book a number of applications and recent advances in essay form."
-    },
-    "id": "331925",
-    "name": {
-      "zh": "車輛基礎化學",
-      "en": "General chemistry for vehicle engineers"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "訓四車四",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2637",
-        "code": "2637"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [
-        "7",
-        "8",
-        "9"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "13",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4402053",
-    "syllabusLinks": []
-  },
-  {
     "code": "4404021",
     "description": {
       "zh": "介紹台灣軌道車輛現況及未來、軌道車輛名詞、轉向架與懸吊系統、軌道與設施、車輛動態、輪軌界面、推進傳動與制動、行控號誌、大眾捷運系統、輕軌電車、高速鐵路、軌道公司參訪。",
@@ -22693,6 +22648,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "訓四車四",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2637",
+        "code": "2637"
+      },
+      {
         "name": "訓四車二",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2879",
         "code": "2879"
@@ -22719,7 +22679,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "41",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
