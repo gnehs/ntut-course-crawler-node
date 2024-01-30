@@ -2,11 +2,11 @@
   {
     "name": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
-    "latestUpdate": "2023-12-12 23:00:43",
+    "latestUpdate": "2024-01-29 10:10:29",
     "objective": "學習智慧型手機的程式設計，課程包含應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nThis course will learn how to program the mobile phones, the topics including: basics of applications programming, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
-    "schedule": "Part I: *** Kotlin Programming \nWeek 1: Course Syllabus、 IntelliJ IDEA and Kotlin (1/5)\nWeek 2: Kotlin Programming (2/5) \nWeek 3: Kotlin Programming (3/5)\nWeek 4: Kotlin Programming (4/5)\nWeek 5: Kotlin Programming (5/5)\nWeek 6: Midterm Written Exam. (Kotlin Syntax)\n\nPart II:  ***Android APP  \nWeek 7: Android Studio 與專案架構 (Ch. 01), 介面設計與元件佈局 (Ch. 02)\nWeek 8: 物件控制與事件監聽 (Ch. 03)\nWeek 9: Activity (Ch. 04)\nWeek 10: Fragment (Ch. 05) 與 訊息提示元件 (Ch. 06)\nWeek 11: 清單元件 (或進階清單元件) (Ch. 07/08)\nWeek 12: 同步與非同步執行 (Ch. 09) 與動畫製作 (Ch. 10)\nWeek 13: 多媒體應用 (Ch.11)\nWeek 14: Service/BroadcastReceiver (Ch. 12/13)\nWeek 15: SQLite (Ch. 15)\nWeek 16/17: 通訊與網路 MQTT (其他參考資料)\nWeek 18: 期末個人 Android App 專題製作與報告",
-    "scorePolicy": "Attendance: 10% \nAssignments: 30%\nMidterm Exam.: 30%\nIndividual Android APP project: 30%",
-    "materials": "教科書:  \"Android Kotlin 實作開發 (精心設計 20 個 Lab 讓你快速上手)\"， 第二版，黃士嘉、周映樵，博碩文化出版\n參考書: \"Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning",
+    "schedule": "*** Part I: Kotlin Programming \nWeek 1: Course Syllabus、 IntelliJ IDEA and Kotlin (1/4)\nWeek 2: Kotlin Programming (2/4) \nWeek 3: Kotlin Programming (3/4)\nWeek 4: Kotlin Programming (4/4)\n*** Part II: Android APP w/ XML UI\nWeek 5: Android Studio 與專案架構 (Ch. 01), 介面設計與元件佈局 (Ch. 02)\nWeek 6: 物件控制與事件監聽 (Ch. 03)\nWeek 7: Activity (Ch. 04)\nWeek 8: Fragment (Ch. 05) 與 訊息提示元件 (Ch. 06)\nWeek 9: 清單元件 (或進階清單元件) (Ch. 07/08)\nWeek 10: 同步與非同步執行 (Ch. 09) 與動畫製作 (Ch. 10)\nWeek 11: 多媒體應用 (Ch.11)\n*** Part III: Android APP w/ Jetpack Compose UI\nWeek 12-14: Jetpack Compose Basic\nWeek 15-17: Jetpack Compose Advance\n*** Week 18:  Final Android App Project Report & Demo",
+    "scorePolicy": "Attendance: 10% (5 roll calls)\nAssignments: 30% (3 assignments)\nMidterm Android APP Project: 30% (individual, assigned topic)\nFinal Android APP project: 30% (individual, free topics)",
+    "materials": "TextBooks: \n1. \"Android Kotlin 實作開發 (精心設計 20 個 Lab 讓你快速上手)\"， 第二版，黃士嘉、周映樵，博碩文化出版\n2. Jetpack Compose 1.5 Essential, Neil Smyth, Payload Media, Inc.\n\nReference book: \n\"Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning",
     "consultation": "1. Teacher office hours for @綜科館 215: Thurs. 10:00 ~ 12:00, Friday. 14:00 ~ 16:002. Please email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.",
     "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": false
