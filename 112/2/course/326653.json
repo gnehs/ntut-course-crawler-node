@@ -1,14 +1,1 @@
-[
-  {
-    "name": "曾德樟",
-    "email": "dctseng@ntut.edu.tw",
-    "latestUpdate": "2023-12-13 11:07:39",
-    "objective": "1.Introduction and review\n2.Baseband data transmission\n3.Digital band-pass modulation techniques\n4.Random signals and noise\n5.Noise in digital modulation\n6.OFDM transmission\n7.Spread sprectrum communication",
-    "schedule": "CH1: Introduction and review (第 1-2 週)\n1.The applications of communication systems\n2.Primary resources and operational requirements\n3.Theories of communication systems\n\nCH2: Baseband data transmission (第 3-5 週)\n1.Baseband transmission of digital data\n2.The Intersymbol interference (ISI) problem\n3.The Nyquist channel and the raised-cosine pulse spectrum\n\nCH3: Digital band-pass modulation techniques (第 6-8) 週)\n1.Introduction\n2.Some preliminaries\n3.Binary Amplitude-Shift Keying (ASK)\n4.Phase-Shift Keying (PSK)\n5.Frequency-Shift Keying (FSK)\n6.Noncoherent digital modulation schemes\n7.M-ary digital modulation schemes\n8.Mapping of digitally modulated waveforms onto constellations of signal point\n\nCH4: Random signals and noise (第 9-11 週)\n1.Probability and random variables\n2.Expectation\n3.Random processes\n4.Spectra of random signals\n5.Linear systems and random processes\n6.White noise and narrowband noise\n\nCH5: Noise in digital communications (第 11-14 週)\n1.Bit error rate (BER)\n2.Detection of a signal pulse in noise\n3.Optimum detection of binary PAM in noise\n4.Optimum detection of BPSK\n5.Detection of QPSK and QAM in noise\n6.Optimum detection of binary FSK\n7.Differential detection in noise\n8.Error detection and correction\n\nCH7: OFDM transmission (第 14-16 週)\n1.Basic principles of OFDM\n2.OFDM implementation using IFFT/FFT processing\n3.Selection of basic OFDM parameters\n\nCH7: Spread spectrum communications (第 16-17 週)\n1.Pseudo-noise sequences\n2.A notion of spread spectrum\n3.Direct-sequence spread spectrum (DSSS) with coherent BPSK\n4.Frequency-hop spread spectrum (FHSS)\n\n(第 18 週 期末考)",
-    "scorePolicy": "1. 期中考\n2. 期末考\n3. 作業\n4. 小考\n5. 出席率",
-    "materials": "1. S. Haykin and M. Moher, “Introduction to Analog & Digital communications 2/E,” 2007 (歐亞圖書代理)\n2. 中譯本 (高立圖書代理)",
-    "consultation": "可透過 E-mail 或諮詢時間或課餘時間。",
-    "remarks": "若因疫情而實施遠距教學時，將使用 MS Teams 視訊上課，會議網址將公告於北科 i 學園 PLUS。",
-    "foreignLanguageTextbooks": true
-  }
-]
+[]

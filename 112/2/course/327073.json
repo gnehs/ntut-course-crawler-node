@@ -1,14 +1,14 @@
 [
   {
-    "name": "曾傳蘆",
-    "email": "cltseng@ee.ntut.edu.tw",
-    "latestUpdate": "2023-12-20 10:43:55",
-    "objective": "集總電路和克希荷夫定律（KCL,KVL），電路元件，串、並聯\n電路，一階電路，二階電路，線性非時變電路分析，相量及\n弦波穩態分析，耦合元件和電路，多相電路，複數頻率，頻\n率響應，狀態變數法，雙埠網路，PSPICE，傅式分析及轉換，\n拉式轉換。\nLumped Circuits,KCL,KVL,Circuit elements,series & parallel\ncircuits,the RL&RC circuit,linear time-invarient circuit\nanalysis,the phasor concept & SSS analysis,magnetically coupled circuits,polyphase circuits,complex frequency, frequency response,state-variable analysis,two-port circuits\nPSPICE,Fourier analysis & transforms,Laplace transforms",
-    "schedule": "電路學（一）\n週次        課程內容                                 \n第一週   電路的變數\n第二週   電路元件\n第三週   電阻電路\n第四週   電阻電路\n第五週   電路分析技巧\n第六週   電路分析技巧\n第七週   運算放大器\n第八週   運算放大器\n第九週   期中考\n第十週   電感電容及互感\n第十一週 電感電容及互感\n第十二週 電感電容及互感\n第十三週 一階電路\n第十四週 一階電路\n第十五週 二階電路\n第十六週 二階電路\n第十七週 二階電路\n十八週\n第十八週 期末考\n電路學（二）\n第一週 弦波穩態分析\n第二週 弦波穩態分析\n第三週   弦波穩態功率的計算\n第四週   弦波穩態功率的計\n第五週   平衡三相電路\n第六週  平衡三相電路\n第七週   拉式轉換簡介\n第八週    拉式轉換簡介\n第九週   期中考\n第十週   拉式轉換在電路分析的應用\n第十一週 拉式轉換在電路分析的應用\n第十二週 拉式轉換在電路分析的應用\n第十三週 選頻電路\n第十四週 選頻電路\n第十五週 有源濾波器電路\n第十五週 有源濾波器電路\n第十六週 有源濾波器電路\n第十七週 有源濾波器電路\n第十八週 期末考",
-    "scorePolicy": "期中考 30%\n期末考 30%\n作業、平時考 30%\n平時分數 10%",
-    "materials": "Electric Circuits, 11 ed., Nilsson Riedel (滄海圖書代理)",
-    "consultation": "Line 群組諮詢",
-    "remarks": "1. 同學如有加退選簽核或課程問題請 email 給我 f10940@ntut.edu.tw，信件標題 [電路學]_班級 (或隨班附讀)_名字。2. 本課程其他資料將透過北科 i 學園 plus 或 Teams 公布。3. 本課程因應疫情可能會調整授課內容、授課方式、評分項目與配分比例。如果無法實體上課，預定使用 Teams 於原定上課時間遠距上課，細節將再另行公布。",
+    "name": "胡國英",
+    "email": "eaglehwu@ntut.edu.tw",
+    "latestUpdate": "2024-02-01 18:31:07",
+    "objective": "集總電路和克希荷夫定律（KCL, KVL），電路元件，串、並聯\n電路，一階電路，二階電路，線性非時變電路分析，相量及\n弦波穩態分析，耦合元件和電路，多相電路，複數頻率，頻\n率響應，狀態變數法，雙埠網路，PSPICE 模擬，傅式分析及轉換，\n拉式轉換。\n(1) Lamped Circuit and KCL&KVL; (2) Circuit Components; (3) Series and Parallel Circuits; (3) First-Order Circuit; (4) Second-Order Circuit; (5) Linear Time-Invarying Circuit Analysis; (6) Phasor and Sinusoidal Analysis; (7) Coupling Components and Circuits; (8) Three-Phase Circuits; (9) Complex Frequency; (10) Frequency Response; (11) State Variable Method; (12) Two-Port Network; (13) PSPICE Simulation; (14) Fourier Series and Transform; (15) Laplace Transform",
+    "schedule": "第一週 (First Week)：Sinusoidal Steady-State Analysis\n第二週 (Second Week)：Sinusoidal Steady-State Analysis\n第三週 (Third Week)：Sinusoidal Steady-State Power Calculations\n第四週 (Fourth Week)：Balanced Three-Phase Circuits\n第五週 (Fifth Week)：Introduction to the Laplace Transform\n第六週 (Sixth Week)：The Laplace Transform in Circuit Analysis\n第七週 (Seventh Week)：The Laplace Transform in Circuit Analysis\n第八週 (Eighth Week)：Introduction to Frequency Selective Circuits\n第九週 (Ninth Week)：Introduction to Frequency Selective Circuits; Middle Test\n第十週 (Tenth Week)：Active Filter Circuit\n第十一週 (Eleventh Week)：Active Filter Circuit\n第十二週 (Twelfth Week)：Fourier Series\n第十三週 (Thirteenth Week)：Fourier Series\n第十四週 (Fourteenth Week)：The Fourier Transform\n第十五週 (Fifteenth Week)：The Fourier Transform\n第十六週 (Sixteenth Week)：Two-Port Circuits\n第十七週 (Seventeenth Week)：Two-Port Circuits\n第十八週 (Eighteenth Week)：Final Test",
+    "scorePolicy": "期中考 (Midterm) 40%\n期末考 (Final) 40%\n小考 (Quizes) 20%",
+    "materials": "Book: ELECTRIC CIRCUITS\nRev.: Tenth Edition\nAuthors: James W. Nilsson and Susan A. Riedel\nPublisher: PERSON and Prentice Hall",
+    "consultation": "諮詢地點：綜合館 316-1 室",
+    "remarks": "遠端教學：1. 學生須加入修課 line 群組，採用 Cisco Webex 遠端教學軟體，上課採浮動網址。2. 研究室分機: 2159 或 email: eaglehwu@ntut.edu.tw。",
     "foreignLanguageTextbooks": true
   }
 ]
