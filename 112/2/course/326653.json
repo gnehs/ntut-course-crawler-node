@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "曾德樟",
+    "email": "dctseng@ntut.edu.tw",
+    "latestUpdate": "2024-02-05 15:05:55",
+    "objective": "1. Introduction and review \n2. Baseband data transmission\n3. Digital band-pass modulation techniques \n4. Random signals and noise \n5. Noise in digital communications\n6. OFDM transmission\n7. Spread spectrum communications",
+    "schedule": "1. Introduction and review (第 1-2 週)\n2. Baseband data transmission (第 3-5 週)\n   (1) Baseband transmission of digital data, (2) The intersymbol interference \n   (ISI) problem, (3) The Nyquist channel and the raised-cosine pulse spectrum, \n   (4) Baseband transmission of M-ary data.\n3. Digital band-pass modulation techniques (第 6-8 週)\n    (1) Binary Amplitude-Shift Keying (ASK), (2) Phase-Shift Keying (PSK), (3) \n    Frequency-Shift Keying (FSK), (4) Noncoherent digital modulation schemes, \n   (5) M-ary digital modulation schemes, (6) Mapping of digitally modulated \n   waveforms onto constellations of signal point\n4. Random signals and noise (第 9-11 週) 期中考\n   (1) Probability and random variables, (2) Expectation, (3) Random \n    processes, (4) Spectra of random signals, (5) Linear systems and random \n    processes, (6) White noise and narrowband noise   \n5. Noise in digital communications (第 11-14 週)\n   (1) Bit error rate (BER), (2) Detection of a signal pulse in noise, (3) Optimum \n   detection of binary PAM in noise, (4) Optimum detection of BPSK, (5) \n   Detection of QPSK and QAM in noise, (6) Optimum detection of binary FSK, \n   (7) Differential detection in noise, (8) Error detection and correction\n6. OFDM transmission (第 14-15 週)\n    (1). Basic principles of OFDM, (2) OFDM implementation using IFFT/FFT \n    processing, (3) Selection of basic OFDM parameters\n7. Spread spectrum communications (第 16-17 週)\n    (1) Pseudo-noise sequences, (2) A notion of spread spectrum, (3) Direct- \n     sequence spread spectrum (DSSS) with coherent BPSK, (4) Frequency- \n     hop spread spectrum (FHSS)\n8. (第 18 週) 期末考",
+    "scorePolicy": "1. 期中考\n2. 期末考\n3. 二次小考 (期中考前及期末考前)\n4. 出席率",
+    "materials": "使用教材 : S. Haykin and M. Moher, “Introduction to Analog & Digital   \n                  Communications 2nd Edition,” 2007 (歐亞書局)\n中譯本：繆紹綱 譯，通訊系統 - 類比與數位 2/E，2020 (高立圖書)",
+    "consultation": "課程內容有疑問時，可透過 Email: dctseng@ntut.edu.tw 詢問，或下課時現場諮詢討論。",
+    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "foreignLanguageTextbooks": true
+  }
+]
