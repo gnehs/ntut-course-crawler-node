@@ -1,5 +1,17 @@
 [
   {
+    "name": "教務處",
+    "href": "Subj.jsp?format=-3&year=112&sem=2&code=01",
+    "class": [
+      {
+        "id": "1345",
+        "name": "特殊學生專班課程",
+        "href": "Subj.jsp?format=-4&year=112&sem=2&code=1345"
+      }
+    ],
+    "category": "校院級"
+  },
+  {
     "name": "進修部",
     "href": "Subj.jsp?format=-3&year=112&sem=2&code=05",
     "class": [
@@ -335,6 +347,11 @@
         "id": "2773",
         "name": "機電學院(研)",
         "href": "Subj.jsp?format=-4&year=112&sem=2&code=2773"
+      },
+      {
+        "id": "2882",
+        "name": "電資學院(研)",
+        "href": "Subj.jsp?format=-4&year=112&sem=2&code=2882"
       }
     ],
     "category": "校院級"
