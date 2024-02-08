@@ -944,9 +944,9 @@
     ],
     "teacher": [
       {
-        "name": "黃柏鈞",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11984",
-        "code": "11984"
+        "name": "潘孟鉉",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12231",
+        "code": "12231"
       }
     ],
     "time": {
@@ -968,9 +968,7 @@
     "language": "",
     "notes": "甲組",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605004",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=328183&code=11984"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3605005",
@@ -2632,7 +2630,7 @@
         "code": "94"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2692,7 +2690,7 @@
         "code": "343"
       }
     ],
-    "people": "87",
+    "people": "88",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7230,7 +7228,7 @@
         "code": "474"
       }
     ],
-    "people": "17",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7540,7 +7538,7 @@
         "code": "486"
       }
     ],
-    "people": "43",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7599,7 +7597,7 @@
         "code": "487"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15516,7 +15514,7 @@
         "code": "474"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24812,7 +24810,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26133,6 +26131,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "邱揚淳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12535",
+        "code": "12535"
+      },
       {
         "name": "邱德威",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=11370",
@@ -28032,7 +28035,13 @@
         "code": "2946"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "邱揚淳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12535",
+        "code": "12535"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -28057,7 +28066,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815111",
     "syllabusLinks": []
   },
@@ -29624,7 +29633,7 @@
         "code": "433"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29929,7 +29938,7 @@
         "code": "48"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30356,6 +30365,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "邱揚淳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12535",
+        "code": "12535"
+      },
       {
         "name": "施岳廷",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=12340",
@@ -32504,7 +32518,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221419",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331429&code=22200"
+    ]
   },
   {
     "code": "5231413",
@@ -35997,7 +36013,7 @@
         "code": "20"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36943,7 +36959,7 @@
         "code": "46"
       }
     ],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39824,7 +39840,7 @@
         "code": "490"
       }
     ],
-    "people": "7",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -41943,7 +41959,11 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -43012,6 +43032,49 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815108",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332542&code=10602"
+    ]
+  },
+  {
+    "code": "C505009",
+    "description": {
+      "zh": "本課程探討地面站網路切片技術及其在實際應用中的服務品質保證方法。課程將涵蓋地面站網路的基本概念，包括結構、架構，以及與通訊系統相關的各種技術。學生將透過深入理論學習和實務案例，瞭解地面站網路切片的原理及其在提供不同服務的情境中的優勢。在課程中，學生將學習如何實施地面站網路切片，包括網路資源分配、優先權設定，以及切片之間的隔離。透過實作專案，學生將有機會實際設計、配置和管理地面站網路切片，以應對不同應用場景下的需求。此外，課程將探討服務品質保證技術，包括流量管理、延遲優化、及網路監控等方面。學生將學習如何測量、分析和改進地面站網路切片的服務品質，以確保滿足各種應用的需求。最後，課程也將討論地面站網路切片的未來趨勢，包括與新興技術的整合、標準化發展，以及面臨的挑戰。透過該課程，學生將具備地面站網路切片及服務品質保證的專業知識和實作技能。",
+      "en": "This course explores practical applications and methods of network slicing for ground stations, emphasizing service quality assurance. It covers fundamental concepts, implementation techniques, and hands-on projects related to ground station network slicing. Students learn to design, configure, and manage slices, ensuring effective communication for various applications. The course also addresses Quality of Service (QoS) technologies and discusses future trends in ground station network slicing."
+    },
+    "id": "332545",
+    "name": {
+      "zh": "地面站網路切片與服務品質保證",
+      "en": "Network Slicing and Quality of Service Technology for Ground Stations"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C505009",
     "syllabusLinks": []
   }
 ]
