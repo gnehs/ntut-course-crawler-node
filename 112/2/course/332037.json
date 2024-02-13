@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "李建樂",
+    "email": "d00945006@ntu.edu.tw",
+    "latestUpdate": "2024-02-13 00:01:28",
+    "objective": "本課程是研究所程度進階的巨量資料探勘與應用課程，主要介紹巨量資料探勘原理、方法與各種應用。並且介紹在處理巨量資料時常用的機器學習方法，如：類神經網路、SVM 等，和處理巨量資料的分散式計算基本架構。除了觀念的介紹外，透過程式設計的練習以及期末專題，能讓學生認識實際巨量資料探勘的程式設計以及機器學習等工具的應用方式。\nThis course introduces the concepts of big data mining and advanced applications in machine learning. Topics include big data concepts, methodologies, and various applications. Introducing machine learning methods commonly used in processing big data, such as neural networks and support vector machines, etc., as well as the basic architecture of distributed computing. In addition to the concept introduction, programming exercises, and term projects are included to help students understand the processing steps and practical tools in big data analytics.",
+    "schedule": "第一週\t課程簡介與開發環境建置\n第二週\tPython 基本語法（一）\n第三週\tPython 基本語法（二）\n第四週\tPython 資料科學模組（一）\n第五週\tPython 資料科學模組（二）\n第六週\t資料前處理\n第七週\t（清明節）\n第八週\t資料視覺化\n第九週\t關聯規則\n第十週\t期中考\n第十一週\t群集分析\n第十二週\t分類演算法（一）\n第十三週\t分類演算法（二）\n第十四週\t迴歸分析\n第十五週\t類神經網路\n第十六週\t分散式計算\n第十七週\t期末專題報告（一）\n第十八週\t期末專題報告（二）",
+    "scorePolicy": "期中考\n作業\n期末專題\n課程參與回饋",
+    "materials": "1. 大數據分析與資料挖礦 2/e, 簡富、許嘉裕，前程文化\n2. Data Mining: Concepts and Techniques 3/e. Jiawei Han, Micheline Kamber, Jian Pei. Morgan Kaufmann.\n3. Python Data Science Handbook. Jake VanderPlas. O'Reilly.",
+    "consultation": "Email 諮詢或利用教師諮商時間面談。",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
