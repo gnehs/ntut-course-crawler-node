@@ -6357,13 +6357,14 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新增一位新聘專任老師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211107",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328636&code=12200",
       "ShowSyllabus.jsp?snum=328636&code=10450",
       "ShowSyllabus.jsp?snum=328636&code=11014",
-      "ShowSyllabus.jsp?snum=328636&code=12078"
+      "ShowSyllabus.jsp?snum=328636&code=12078",
+      "ShowSyllabus.jsp?snum=328636&code=12531"
     ]
   },
   {
@@ -18997,7 +18998,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=337",
+        "code": "337"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19091,7 +19098,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=337",
+        "code": "337"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19144,7 +19157,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=337",
+        "code": "337"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19198,7 +19217,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=337",
+        "code": "337"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19310,7 +19335,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=337",
+        "code": "337"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19363,7 +19394,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_2",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=109",
+        "code": "109"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19981,7 +20018,13 @@
         "code": "2982"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃增隆",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12532",
+        "code": "12532"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -22874,6 +22917,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "陳信宏",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=24551",
+        "code": "24551"
+      },
       {
         "name": "陳柏瑄",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=12343",
@@ -26170,6 +26218,7 @@
     "notes": "限博士班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7807008",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331081&code=12535",
       "ShowSyllabus.jsp?snum=331081&code=11370"
     ]
   },
@@ -28373,7 +28422,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "一般教室 (50), 預選限 13 人，大三 / 外生三 / 日碩 / 外碩合開",
+    "notes": "一般教室 (50), 碩預選限 7 人，大三 / 外生三 / 日碩 / 外碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05236",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331175&code=11969"
@@ -30406,6 +30455,7 @@
     "notes": "限碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7805005",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331313&code=12535",
       "ShowSyllabus.jsp?snum=331313&code=12340"
     ]
   },
@@ -32296,7 +32346,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201409",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331425&code=21629"
+    ]
   },
   {
     "code": "5211414",
@@ -38976,6 +39028,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331960&code=22834",
       "ShowSyllabus.jsp?snum=331960&code=10431",
       "ShowSyllabus.jsp?snum=331960&code=10988"
     ]
@@ -39338,7 +39391,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘專任老師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211427",
     "syllabusLinks": []
   },
@@ -40919,7 +40972,9 @@
     "language": "",
     "notes": "資工所、電資外生和資安學位學程合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332321&code=12529"
+    ]
   },
   {
     "code": "4916632",
@@ -41984,14 +42039,22 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=22",
+        "code": "22"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "電資資安和創新資安合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C725004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=332402&code=12529"
+    ]
   },
   {
     "code": "3105199",
@@ -43091,6 +43154,47 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C505009",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C505008",
+    "description": {
+      "zh": "本課程目的為深入研究非地面通訊網路（NTN）的相關技術和應用。課程將首先介紹 NTN 的基本概念，包括其定義、特點以及在通訊領域中的角色。接著，將深入研究 NTN 網路的架構和應用，使學生了解 NTN 在不同場景中的實際應用情境。課程亦將探討 3GPP 對 NTN 網路的規劃和進展，使學生瞭解 NTN 在國際通訊標準中的地位與發展趨勢。此外，課程還將介紹不同類型的 NTN，包括各種型態的應用範疇和特點。而隨著 5G 的發展，課程也將討論 NTN 在 B5G/6G 系統中的應用和相關標準化。學生將了解 NTN 如何融入未來通訊網路的發展趨勢，以應對更高效、更智能的通訊需求。最後，課程將深入討論 NTN 的重要議題，包括安全性、效能優化和未來發展方向等方面。透過課程，學生將獲得對 NTN 技術全面且深入的理解，並具備應用和解決相關議題的能力。",
+      "en": "This course explores the technologies and applications of Non-Terrestrial Communication Networks (NTN). Starting with the basics, it introduces NTN's definition, characteristics, and role in communication. This course then investigates NTN network architecture and applications, offering practical insights. The course also covers 3GPP's planning for NTN networks, understanding NTN's global position and development trends. Different NTN types and their characteristics are introduced, along with discussions on NTN's applications in B5G/6G systems within the context of 5G development. The course concludes with an in-depth discussion on key NTN issues, including security, performance optimization, and future directions. Students will gain a comprehensive understanding of NTN technology and the capability to address relevant issues."
+    },
+    "id": "332546",
+    "name": {
+      "zh": "非地面通訊網路技術",
+      "en": "Non-Terrestrial Communication Network Technology"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C505008",
     "syllabusLinks": []
   }
 ]

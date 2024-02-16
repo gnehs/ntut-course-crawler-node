@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "林濬璈",
+    "email": "jalin@ntut.edu.tw",
+    "latestUpdate": "2024-02-15 14:39:26",
+    "objective": "數理邏輯是理論計算機科學各領域重要的基礎。在本課程中，重點關注於數理邏輯在軟體程式驗證與機器可檢驗之證明等的應用。透過各種如 SAT/SMT 求解器與輔助證明工具 Coq 等，本課程將涵蓋以下主題：比例邏輯、一階邏輯、可滿足性模組理論、模型檢查與程式驗證。\nMathematical logic is an important foundation of various fields in theoretical computer science. This course focuses on its applications from software/program verification to machine-checkable proofs. Through various tools like SAT/SMT solvers and proof-assistant Coq, this course will cover the following topics: proportional logic, first-order logic, satisfiability module theory, model checking and program verification.",
+    "schedule": "1)\tProportional Logic (4 weeks)\n2)\tFirst-Order Logic and Satisfiability (4 weeks)\n3)\tModel Checking (4 weeks)\n4)\tProgram Verification (4 weeks)",
+    "scorePolicy": "Homework 50%\nMid-term 20%\nFinal 20%\nAttendance 10%",
+    "materials": "This course does not have a required text book. We will be covering different topics, all of which, cannot be found in one book to recommend as a unique text book. Here is a list of books that will help you understand the course material:\n\n1.\tMichael Huth, Mark Ryan. “Logic in Computer Science: Modelling and Reasoning about Systems.” 2nd Edition, Cambridge University Press.\n2.\tFlemming Nielson, Hanne Riis Nielson, Chris Hankin. “Principles of Program Analysis.” Springer.\n3.\tChristel Baier, Joost-Pieter Katoen. “Principles of Model Checking.” MIT Press.\n4.\tAaron R. Bradley, Zohar Manna. “The Calculus of Computation: Decision Procedures with Applications to Verification.” Springer.\n5.\tDaniel Kroening, Ofer Strichman. “Decision Procedures: An Algorithmic Point of View.” Springer.",
+    "consultation": "Email: jalin@ntut.edu.tw",
+    "remarks": "課程網頁：https://carquois42.github.io/Logic.html",
+    "foreignLanguageTextbooks": false
+  }
+]
