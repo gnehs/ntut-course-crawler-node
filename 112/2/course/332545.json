@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "曾柏軒",
+    "email": "phtseng@ntut.edu.tw",
+    "latestUpdate": "2024-02-19 13:22:34",
+    "objective": "本課程探討地面站網路切片技術及其在實際應用中的服務品質保證方法。課程將涵蓋地面站網路的基本概念，包括結構、架構，以及與通訊系統相關的各種技術。學生將透過深入理論學習和實務案例，瞭解地面站網路切片的原理及其在提供不同服務的情境中的優勢。在課程中，學生將學習如何實施地面站網路切片，包括網路資源分配、優先權設定，以及切片之間的隔離。透過實作專案，學生將有機會實際設計、配置和管理地面站網路切片，以應對不同應用場景下的需求。此外，課程將探討服務品質保證技術，包括流量管理、延遲優化、及網路監控等方面。學生將學習如何測量、分析和改進地面站網路切片的服務品質，以確保滿足各種應用的需求。最後，課程也將討論地面站網路切片的未來趨勢，包括與新興技術的整合、標準化發展，以及面臨的挑戰。透過該課程，學生將具備地面站網路切片及服務品質保證的專業知識和實作技能。\nThis course explores practical applications and methods of network slicing for ground stations, emphasizing service quality assurance. It covers fundamental concepts, implementation techniques, and hands-on projects related to ground station network slicing. Students learn to design, configure, and manage slices, ensuring effective communication for various applications. The course also addresses Quality of Service (QoS) technologies and discusses future trends in ground station network slicing.",
+    "schedule": "Week 2-5 計算機網路基礎\nWeek 6-10 軟體定義網路\nWeek 11-15 網路切片技術與 ORAN 技術\nWeek 16 期末測驗\nWeek 17-18 期末專題報告",
+    "scorePolicy": "期末測驗 30%\n實驗作業  50% (軟體定義網路相關作業，共計三個實驗)\n分組專題報告 20% (選擇網路切片相關的論文進行報告)\n\n本課程前兩節課在綜科 306 授課，第三節課若有需要上機會移動到綜科 501 進行課程",
+    "materials": "Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud, by WILLIAM STALLINGS",
+    "consultation": "email",
+    "remarks": "無",
+    "foreignLanguageTextbooks": false
+  }
+]
