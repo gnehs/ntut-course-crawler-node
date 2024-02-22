@@ -2,13 +2,13 @@
   {
     "name": "賴冠廷",
     "email": "ktlai@ntut.edu.tw",
-    "latestUpdate": "2023-12-14 18:14:24",
+    "latestUpdate": "2024-02-22 09:26:28",
     "objective": "本課程將以 Xilinx PYNQ Z2 為平台，教授學生 FPGA 程式開發、硬體系統設計、和如何利用 FPGA 加速深度學習演算法。主要內容包括 Xilinx Vivado 和 Vitis 開發環境，High-level Synthesis (HLS) & SystemC, 基本 FIR filter 和矩陣乘法的設計，以及類神經網路的模型移植等等。",
     "schedule": "1. Xilinx & Vivado IDE\n2. High-level Synthesis (HLS) & SystemC\n3. Finite Impulse Response (FIR) Filters\n4. Discrete Fourier Transform & Fast Fourier Transform\n5. Matrix Multiplication\n6. Prefix Sum and Histogram\n7. Video Systems\n8. Deep Learning Implementation on FPGA\n9. Pruning & Quantization\n10. Object Detection on FPGA\nThis course teaches FPGA programming, hardware system design, and how to implement and accelerate Deep Learning Algorithms on FPGA. The syllabus is shown below:\n1. Xilinx & Vivado IDE\n2. High-level Synthesis (HLS) & SystemC\n3. Finite Impulse Response (FIR) Filters\n4. Discrete Fourier Transform & Fast Fourier Transform\n5. Matrix Multiplication\n6. Prefix Sum and Histogram\n7. Video Systems\n8. Deep Learning Implementation on FPGA\n9. Pruning & Quantization\n10. Object Detection on FPGA",
     "scorePolicy": "Labs (70%), Final Project (30%)",
     "materials": "KRG @ UC San Diego, “Parallel Programming for FPGAs”, 2018\n自製講義",
     "consultation": "使用 Microsoft Teams 或在 FB 群組中發問",
-    "remarks": "本學期採用遠距授課，上課視訊，訊息發佈與考試皆以 Microsoft Teams 為主，i 學園為輔，選課成功後會自動加入.1. Website: http://www.aiotlab.org/teaching/fpga.html2. Facebook Group: https://www.facebook.com/groups/1942977191211923. 不定時線上小考當作點名",
+    "remarks": "1. Website: http://www.aiotlab.org/teaching/fpga.html2. Facebook Group: https://www.facebook.com/groups/1942977191211923. 不定時線上小考當作點名",
     "foreignLanguageTextbooks": true
   }
 ]
