@@ -1,0 +1,14 @@
+[
+  {
+    "name": "蔣政諺",
+    "email": "dcychiang@ntut.edu.tw",
+    "latestUpdate": "2024-02-22 12:58:05",
+    "objective": "當高解析度的數位微波影像以成趨勢後，下一世代各國之間在遙測影像的競爭上已經不再局限於光學影像中。然而無論是光學或微波影像，都是以傳統的影像處理為基礎，然後再根據彼此間的數位訊號間的差異，而有不一樣的處理方法。在國際上，越來越多實務上的應用不再只局限於傳統的數位光學影像。利用更多輔助的數位影像資料，例如數位微波影像，能獲取更高效能、更高精度的結果。本課程會以數位微波影像發展趨勢與應用介紹起，並說明影像的特性、訊號模型與處理方法，並搭配實務上的操作，達到理論與實務兼具的目的。\n\nWhen high resolution digital microwave image becomes the trend, the competition of remote sensing image among countries in the next generation is no longer limited to optical image. However, both optical and microwave images are based on the traditional image processing, and then have different processing methods according to the difference between digital signals. Internationally, more and more practical applications are no longer limited to traditional digital optical imaging. The use of more complementary digital image data, such as digital microwave images, can lead to more efficient and accurate results. This course will introduce the trends and applications of digital microwave imaging, explain the characteristics of the image, signal model and processing methods, and provide practical operation to achieve both theoretical and practical purposes.",
+    "schedule": "Week 1: Introduction: SAR development trend\nWeek 2: SAR algorithm concepts\nWeek 3: Range Doppler algorithm - 1\nWeek 4: Range Doppler algorithm - 2\nWeek 5: Doppler centroid estimation\nWeek 6: Doppler Rate Estimation\nWeek 7: RDA with high squint angle - 1\nWeek 8: RDA with high squint angle – 2 & Matching filter generation\nWeek 9: Chirp scaling algorithm – 1\nWeek 10: Chirp scaling algorithm – 2\nWeek 11: Omega-K algorithm - 1\nWeek 12: Omega-K algorithm – 2\nWeek 13: Spectral analysis algorithm - 1\nWeek 14: Spectral analysis algorithm – 2\nWeek 15: Time-domain back-projection algorithm – 1\nWeek 16: Time-domain back-projection algorithm – 2\nWeek 17: Time-frequency analysis (TopoSAR mode) - 1\nWeek 18: Time-frequency analysis (TopoSAR mode) - 2",
+    "scorePolicy": "Assignment and Report 60%\nFinal report 40%",
+    "materials": "[1] I. G. Cumming and F. H. Wong, Digital processing of synthetic aperture radar data Algorithms and Im-plementation. Boston & London: Artech house, 2005.\n[2] K. S. Chen, Principles of synthetic aperture radar imaging: a system simulation approach. in Signal and image processing of Earth observations series. Boca Raton London New York: CRC Press, 2016.",
+    "consultation": "1. Email: dcychiang@ntut.edu.tw",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
