@@ -539,7 +539,13 @@
         "code": "2635"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "葉英斌",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=23875",
+        "code": "23875"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -764,7 +770,7 @@
         "code": "63"
       }
     ],
-    "people": "26",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2626,6 +2632,11 @@
         "name": "鄭鴻斌",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=10997",
         "code": "10997"
+      },
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11083",
+        "code": "11083"
       },
       {
         "name": "顏維謀",
@@ -6979,7 +6990,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8853,7 +8864,83 @@
         "code": "2980"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林含怡",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11733",
+        "code": "11733"
+      },
+      {
+        "name": "林彥良",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11732",
+        "code": "11732"
+      },
+      {
+        "name": "施欣文",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11589",
+        "code": "11589"
+      },
+      {
+        "name": "洪媽益",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11423",
+        "code": "11423"
+      },
+      {
+        "name": "張詠翔",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11679",
+        "code": "11679"
+      },
+      {
+        "name": "梁斯寧",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12382",
+        "code": "12382"
+      },
+      {
+        "name": "郭政淳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11967",
+        "code": "11967"
+      },
+      {
+        "name": "陳岡伯",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12233",
+        "code": "12233"
+      },
+      {
+        "name": "陳怡倩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11082",
+        "code": "11082"
+      },
+      {
+        "name": "陳雅玫",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11278",
+        "code": "11278"
+      },
+      {
+        "name": "辜炳達",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11973",
+        "code": "11973"
+      },
+      {
+        "name": "黃如瑩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11092",
+        "code": "11092"
+      },
+      {
+        "name": "葉采青",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11538",
+        "code": "11538"
+      },
+      {
+        "name": "葛瑞斐",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11227",
+        "code": "11227"
+      },
+      {
+        "name": "蔡逸萍",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11436",
+        "code": "11436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8874,7 +8961,13 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415220",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330387&code=11679",
+      "ShowSyllabus.jsp?snum=330387&code=11082",
+      "ShowSyllabus.jsp?snum=330387&code=11973",
+      "ShowSyllabus.jsp?snum=330387&code=11538",
+      "ShowSyllabus.jsp?snum=330387&code=11436"
+    ]
   },
   {
     "code": "5416100",
@@ -9292,7 +9385,7 @@
         "code": "486"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10941,7 +11034,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10985,7 +11078,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11042,7 +11135,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11103,7 +11196,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11148,7 +11241,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12877,7 +12970,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17353,7 +17446,7 @@
         "code": "51"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21538,7 +21631,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21620,7 +21713,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22239,7 +22332,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23279,7 +23372,7 @@
         "code": "43"
       }
     ],
-    "people": "49",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25024,7 +25117,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26054,7 +26147,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26152,7 +26245,7 @@
         "code": "486"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26276,7 +26369,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26317,7 +26410,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",

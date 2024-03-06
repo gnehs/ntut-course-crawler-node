@@ -590,7 +590,7 @@
         "code": "211"
       }
     ],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -669,7 +669,7 @@
         "code": "25"
       }
     ],
-    "people": "48",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1929,7 +1929,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "70",
+    "people": "71",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3042,7 +3042,7 @@
         "code": "260"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3792,7 +3792,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5802,18 +5802,12 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "共同312",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=154",
-        "code": "154"
-      }
-    ],
-    "people": "2",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "博碩課程，計中電腦教室",
+    "notes": "博碩課程，2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906771",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328594&code=11430"
@@ -6402,7 +6396,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "陳老師配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=328637&code=12344",
@@ -6811,7 +6805,83 @@
         "code": "2936"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林含怡",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11733",
+        "code": "11733"
+      },
+      {
+        "name": "林彥良",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11732",
+        "code": "11732"
+      },
+      {
+        "name": "施欣文",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11589",
+        "code": "11589"
+      },
+      {
+        "name": "洪媽益",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11423",
+        "code": "11423"
+      },
+      {
+        "name": "張詠翔",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11679",
+        "code": "11679"
+      },
+      {
+        "name": "梁斯寧",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12382",
+        "code": "12382"
+      },
+      {
+        "name": "郭政淳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11967",
+        "code": "11967"
+      },
+      {
+        "name": "陳岡伯",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12233",
+        "code": "12233"
+      },
+      {
+        "name": "陳怡倩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11082",
+        "code": "11082"
+      },
+      {
+        "name": "陳雅玫",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11278",
+        "code": "11278"
+      },
+      {
+        "name": "辜炳達",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11973",
+        "code": "11973"
+      },
+      {
+        "name": "黃如瑩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11092",
+        "code": "11092"
+      },
+      {
+        "name": "葉采青",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11538",
+        "code": "11538"
+      },
+      {
+        "name": "葛瑞斐",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11227",
+        "code": "11227"
+      },
+      {
+        "name": "蔡逸萍",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11436",
+        "code": "11436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -6832,7 +6902,13 @@
     "language": "",
     "notes": "教師研究室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415220",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=328704&code=11679",
+      "ShowSyllabus.jsp?snum=328704&code=11082",
+      "ShowSyllabus.jsp?snum=328704&code=11973",
+      "ShowSyllabus.jsp?snum=328704&code=11538",
+      "ShowSyllabus.jsp?snum=328704&code=11436"
+    ]
   },
   {
     "code": "5415203",
@@ -8384,7 +8460,7 @@
         "code": "446"
       }
     ],
-    "people": "31",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12488,11 +12564,11 @@
         "code": "451"
       }
     ],
-    "people": "2",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "IMBA & 資財所",
+    "notes": "IMBA & 資財所【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05016",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329282&code=12101"
@@ -13259,7 +13335,7 @@
         "code": "159"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14774,65 +14850,6 @@
     ]
   },
   {
-    "code": "AY15011",
-    "description": {
-      "zh": "1.\t低軌衛星通訊系統簡介 2.\t低軌衛星通訊的特性與效能分析 3.\t低軌衛星通訊產業應用 4.\t立方及微衛星通訊酬載設計 5.\t低軌衛星地面站系統 6.\t低軌衛星通訊關鍵議題探討",
-      "en": "1.\tIntroduction to Low Earth Orbit (LEO) Satellite Communications Systems2.\tCharacteristics and Performance Analysis of LEO Satellite Communications3.\tApplications of LEO Satellite Communications4.\tPayload Design of CubeSat and Small Satellites5.\tLEO Satellite Ground Station System6.\tKey Issues in LEO Satellite Communications"
-    },
-    "id": "329444",
-    "name": {
-      "zh": "低軌衛星通訊技術及應用",
-      "en": "Low Earth Orbit Satellite Communication Technologies and Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "太空所",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2959",
-        "code": "2959"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "莊嶸騰",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12500",
-        "code": "12500"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "5",
-        "6",
-        "7"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "二教304",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=29",
-        "code": "29"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15011",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329444&code=12500"
-    ]
-  },
-  {
     "code": "C025001",
     "description": {
       "zh": "本課程將透過每週專題演講方式，讓學生了解軌道車輛工程、冷凍空調工程及自動化科技之最新研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
@@ -15416,65 +15433,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329567&code=23874"
-    ]
-  },
-  {
-    "code": "3715001",
-    "description": {
-      "zh": "本課程主要目的在於教導學生如何利用時間序列分析、品質製程管制、工程製程控制等方法來達成先進製程控制的目的。課程講述之內容包含下列課題：製程監控、製程調整、離散動態製程、時間序列模型、轉換方程模型、最佳回饋控制器、指數加權移動平均控制、遞迴式估計與自適應控制等。",
-      "en": "The purpose of this course is to provide students a modern treatment of discrete-time advanced process control (APC) methods based on time series analysis, statistical process control (SPC) and engineering process control (EPC) for Quality Engineering in manufacturing. The topics that will be addressed in this course include:(1)\tProcess Monitoring; (2)\tProcess Adjustment;(3)\tDiscrete-Time Dynamical Processes; (4)\tARIMA Time Series Models; (5)\tTransfer Function Modeling; (6)\tOptimal Feedback Controllers; (7)\tEWMA Control; (8)\tRecursive Estimation and Adaptive Control."
-    },
-    "id": "329569",
-    "name": {
-      "zh": "時間序列分析與製程控制",
-      "en": "Time Series Analysis and Process Adjustment"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "管理博所",
-        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
-        "code": "2966"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11573",
-        "code": "11573"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "2",
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓825",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=490",
-        "code": "490"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3715001",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=329569&code=11573"
     ]
   },
   {
@@ -16087,7 +16045,7 @@
         "code": "139"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17774,7 +17732,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19648,7 +19606,83 @@
         "code": "2980"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林含怡",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11733",
+        "code": "11733"
+      },
+      {
+        "name": "林彥良",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11732",
+        "code": "11732"
+      },
+      {
+        "name": "施欣文",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11589",
+        "code": "11589"
+      },
+      {
+        "name": "洪媽益",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11423",
+        "code": "11423"
+      },
+      {
+        "name": "張詠翔",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11679",
+        "code": "11679"
+      },
+      {
+        "name": "梁斯寧",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12382",
+        "code": "12382"
+      },
+      {
+        "name": "郭政淳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11967",
+        "code": "11967"
+      },
+      {
+        "name": "陳岡伯",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12233",
+        "code": "12233"
+      },
+      {
+        "name": "陳怡倩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11082",
+        "code": "11082"
+      },
+      {
+        "name": "陳雅玫",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11278",
+        "code": "11278"
+      },
+      {
+        "name": "辜炳達",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11973",
+        "code": "11973"
+      },
+      {
+        "name": "黃如瑩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11092",
+        "code": "11092"
+      },
+      {
+        "name": "葉采青",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11538",
+        "code": "11538"
+      },
+      {
+        "name": "葛瑞斐",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11227",
+        "code": "11227"
+      },
+      {
+        "name": "蔡逸萍",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11436",
+        "code": "11436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -19669,7 +19703,13 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415220",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=330387&code=11679",
+      "ShowSyllabus.jsp?snum=330387&code=11082",
+      "ShowSyllabus.jsp?snum=330387&code=11973",
+      "ShowSyllabus.jsp?snum=330387&code=11538",
+      "ShowSyllabus.jsp?snum=330387&code=11436"
+    ]
   },
   {
     "code": "5416100",
@@ -20087,7 +20127,7 @@
         "code": "486"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21736,7 +21776,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21780,7 +21820,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21837,7 +21877,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21898,7 +21938,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21943,7 +21983,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24680,7 +24720,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25342,7 +25382,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25853,7 +25893,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26531,7 +26571,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27280,7 +27320,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "133",
+    "people": "134",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29071,7 +29111,7 @@
         "code": "51"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29536,18 +29576,12 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教426",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=433",
-        "code": "433"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 30 人【停開】",
+    "notes": "1 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005013",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331240&code=12043"
@@ -30963,7 +30997,7 @@
         "code": "40"
       }
     ],
-    "people": "10",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37748,18 +37782,12 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "紡織一樓",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=337",
-        "code": "337"
-      }
-    ],
-    "people": "3",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5107007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=331872&code=11165"
@@ -39475,7 +39503,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -42373,7 +42401,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -42648,7 +42676,7 @@
         "code": "486"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -43131,7 +43159,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -48201,7 +48229,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -48493,6 +48521,252 @@
     "ta": [],
     "language": "",
     "notes": "中原大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB05023",
+    "description": {
+      "zh": "本課程主要目的為讓研究生可以利用學期中、暑期或寒假至指導教授認可之校外公私立機構進行或參與實務研發，以增進研究生之實務研究能力。研究生於指導教授認可之同一校外研發機構的累計研究時數不得低於 320 小時，研究生於校外實務研發期滿後，由校外研發機構出具研究生於該機構之實務研發證明與實務研究成績；研究生並且必須繳交實務研發紀錄及實務研究報告予指導教授，指導教師依據研究生之實務研發紀錄及心得報告，指導研究生撰寫成實務研究成果報告，彙交所屬系所保存，並作為成績核定之依據。研究生校外實務研究學期成績之評定比例原則：校外實務研發機構占 50%，研究生指導教授占 50%。",
+      "en": "The main purpose of this course is to promote an all-round ability for the graduate students at NTUT. During either the summer/winter break or the regular semester term, graduate students are required to go to the organizations or agencies with respect to their individual research topics and future development by undergoing the on site research. The course takers will need to stay in the same individual organization or agency with a time span of no less than 320 hours. The students will also need to present to the thesis advisor the on-site research documents - which will thus be collected and deposited in the individual departmental or graduate institute office. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organizations or agencies (50%), respectively."
+    },
+    "id": "332880",
+    "name": {
+      "zh": "校外實務研究",
+      "en": "Graduate On-Site Research"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "18",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2953",
+        "code": "2953"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05023",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332904",
+    "name": {
+      "zh": "國土政策專題研究",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332905",
+    "name": {
+      "zh": "質性研究方法",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332920",
+    "name": {
+      "zh": "資料模式辨識與分類",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "10",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "元智大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332921",
+    "name": {
+      "zh": "測量及空間資訊概論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332922",
+    "name": {
+      "zh": "氣膠儀器分析",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
