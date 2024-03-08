@@ -7009,7 +7009,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "77",
+    "people": "76",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18334,7 +18334,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "共同科館 303A 教室，停開【停開】",
+    "notes": "共同科館 303A 教室，停開 2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905481",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=330278&code=20885"
@@ -18818,6 +18818,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "陳錦文",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12353",
+        "code": "12353"
+      },
       {
         "name": "蔡麗珠",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=11108",
@@ -22260,7 +22265,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23506,7 +23511,7 @@
         "code": "120"
       }
     ],
-    "people": "8",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25597,7 +25602,9 @@
     "language": "",
     "notes": "博士班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5907002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331067&code=24424"
+    ]
   },
   {
     "code": "5907003",
@@ -26029,7 +26036,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37679,7 +37686,7 @@
         "code": "109"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38733,7 +38740,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -47664,7 +47671,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=438",
+        "code": "438"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],

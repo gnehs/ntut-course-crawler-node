@@ -262,7 +262,58 @@
         "code": "2634"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李仁貴",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11070",
+        "code": "11070"
+      },
+      {
+        "name": "高立人",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11433",
+        "code": "11433"
+      },
+      {
+        "name": "郭宏源",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12376",
+        "code": "12376"
+      },
+      {
+        "name": "陳晏笙",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11678",
+        "code": "11678"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11635",
+        "code": "11635"
+      },
+      {
+        "name": "楊濠瞬",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11894",
+        "code": "11894"
+      },
+      {
+        "name": "潘孟鉉",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12231",
+        "code": "12231"
+      },
+      {
+        "name": "蔡偉和",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11248",
+        "code": "11248"
+      },
+      {
+        "name": "譚巽言",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=10304",
+        "code": "10304"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -572,7 +623,9 @@
     "language": "",
     "notes": "工管四甲乙丙合開丙 20 人，葉英斌 (待聘)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3705008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=329847&code=23875"
+    ]
   },
   {
     "code": "3860002",
@@ -4045,7 +4098,7 @@
         "code": "311"
       }
     ],
-    "people": "13",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7585,7 +7638,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "共同科館 303A 教室，停開【停開】",
+    "notes": "共同科館 303A 教室，停開 2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905481",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=330278&code=20885"
@@ -8069,6 +8122,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "陳錦文",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12353",
+        "code": "12353"
+      },
       {
         "name": "蔡麗珠",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=11108",
@@ -11511,7 +11569,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16052,7 +16110,7 @@
         "code": "120"
       }
     ],
-    "people": "8",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20532,7 +20590,7 @@
         "code": "460"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23441,7 +23499,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24730,9 +24788,9 @@
     },
     "classroom": [
       {
-        "name": "三教501",
-        "link": "Croom.jsp?format=-3&year=112&sem=2&code=336",
-        "code": "336"
+        "name": "共同313",
+        "link": "Croom.jsp?format=-3&year=112&sem=2&code=155",
+        "code": "155"
       }
     ],
     "people": "31",
@@ -26450,6 +26508,129 @@
     "language": "",
     "notes": "海洋大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3603108",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生須於學期中至相關機構連續實習 18 週，每週不得低於 2.5 天。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is designed to enhance students' on-job practical experiences. Students will work at an engineering related company or research organizations for 18 weeks (20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "332878",
+    "name": {
+      "zh": "實務校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "8",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603108",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3603106",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用整學期至電子工程相關機構實習，參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告。須在同一機構連續實習 4.5 月，學生應全職於實習機構實習。",
+      "en": "The course is developed to increase on-job practice capability of students. Participants practice and learn the real operation of the electronic engineering related fields in one of the corporative electronic engineering company during one semester. A practice intern and a well-prepared report must be completed to the course requirement. It is necessary to practice in one corporative electronic engineering company full-time at least 4.5 months."
+    },
+    "id": "332879",
+    "name": {
+      "zh": "學期校外實習",
+      "en": "Semester Practical Training"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "8",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603106",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3714013",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用整學期到工業工程與管理相關機構實習，參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告。須在同一機構連續實習 4.5 月，學生應全職於實習機構實習。",
+      "en": "The course is developed to increase on-job practice capability of students. Participants practice and learn the real operation of the industrial engineering and management related fields in one of the corporative industrial engineering company during one semester. A practice intern and a well-prepared report must be completed to the course requirement. It is necessary to practice in one corporative industrial engineering and management company full-time at least 4.5 months."
+    },
+    "id": "332945",
+    "name": {
+      "zh": "學期校外實習",
+      "en": "Semester Practical Training"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2635",
+        "code": "2635"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3714013",
     "syllabusLinks": []
   }
 ]
