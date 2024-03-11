@@ -46,5 +46,17 @@
     "consultation": "與教師約定時間",
     "remarks": "",
     "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "劉宇晨",
+    "email": "ycliu@ntut.edu.tw",
+    "latestUpdate": "2024-03-11 02:25:07",
+    "objective": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。\n    學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。\nThis course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it. \n \nIn this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester.",
+    "schedule": "第 1 週 RLC 諧振的基礎介紹 / 介紹零電壓 / 零電流。 \n第 2 週 FHA 介紹分析。 \n第 3 週～第 4 週 電路分析動作，介紹 SRC LLC 的動作區間，請用 MATLAB 描述\n每一個區間的方程式，繪製每一個區間的波形，與電路模擬對照。 \n第 5 週～第 6 週 介紹諧振電路各參數代表的意義與對增益造成的影響 (Q K R…) \n/ 繪製電路的增益。 \n第 7 週 設計規格下的諧振參數與透過模擬驗證。 \n第 8 週～第 9 週 研讀 CLLC 電路拓樸與區間分析。 ---------------------------------------------------------------------- \n第 10 週～第 11 週 針對本研究題目決定電路架構與各參數值 / 繪製增益曲線 / 理\n論、模擬驗整。 \n第 12 週 學習變壓器與諧振電感設計方式。 \n第 13 週 設計變壓器形狀與繞組結構並透過模擬軟體與理論驗證。 \n第 14 週～第 15 週 透過模型參數化方式找出合適磁材設計點 / 優化磁材 (繞組、磁\n芯結構)。 \n第 16 週 將設計磁材與電路作結合驗證電器功能是否符合預期。 \n第 17 週 損耗分析與元件選用 / 透過模擬驗證功能。 \n第 18 週 整理理論與模擬數據。",
+    "scorePolicy": "平時 40%\n期中專題 30%\n期末專題 30%",
+    "materials": "採用自編教材",
+    "consultation": "綜科 411 詢問老師或是研究生",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]
