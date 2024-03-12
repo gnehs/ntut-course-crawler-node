@@ -332,7 +332,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=329839&code=11433",
-      "ShowSyllabus.jsp?snum=329839&code=12376"
+      "ShowSyllabus.jsp?snum=329839&code=12376",
+      "ShowSyllabus.jsp?snum=329839&code=10304"
     ]
   },
   {
@@ -2094,6 +2095,31 @@
         "name": "李凱雄",
         "link": "Teach.jsp?format=-3&year=112&sem=2&code=24404",
         "code": "24404"
+      },
+      {
+        "name": "陳志鏗",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11937",
+        "code": "11937"
+      },
+      {
+        "name": "陳嘉勳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11469",
+        "code": "11469"
+      },
+      {
+        "name": "陳斌豪",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12143",
+        "code": "12143"
+      },
+      {
+        "name": "黃秀英",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11321",
+        "code": "11321"
+      },
+      {
+        "name": "黃晟豪",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12234",
+        "code": "12234"
       }
     ],
     "time": {
@@ -3053,7 +3079,11 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03052",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=329937&code=11403",
+      "ShowSyllabus.jsp?snum=329937&code=12173",
+      "ShowSyllabus.jsp?snum=329937&code=12342"
+    ]
   },
   {
     "code": "AB03017",
@@ -8128,7 +8158,7 @@
         "code": "118"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10912,7 +10942,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18940,7 +18970,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "30",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19136,7 +19166,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26686,6 +26716,47 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3714013",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB04021",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用課餘至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "332949",
+    "name": {
+      "zh": "校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "5.0",
+    "hours": "24",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2639",
+        "code": "2639"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
     "syllabusLinks": []
   }
 ]
