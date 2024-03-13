@@ -32,7 +32,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "159",
+    "people": "160",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1394,7 +1394,7 @@
         "code": "561"
       }
     ],
-    "people": "64",
+    "people": "65",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1929,7 +1929,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "72",
+    "people": "73",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3806,7 +3806,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10250,7 +10250,7 @@
     "id": "329058",
     "name": {
       "zh": "光電科技概論 (二)",
-      "en": "Introduction to Opto-electronic Engineering(二)"
+      "en": "Introduction to Opto-electronic Engineering(II)"
     },
     "stage": "1",
     "credit": "3.0",
@@ -25890,7 +25890,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "77",
+    "people": "78",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27358,7 +27358,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "134",
+    "people": "135",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31920,9 +31920,9 @@
     ],
     "teacher": [
       {
-        "name": "蔡佩芳",
-        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11435",
-        "code": "11435"
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11225",
+        "code": "11225"
       }
     ],
     "time": {
@@ -31942,7 +31942,7 @@
     "notes": "上課日期 2024.07.06-07",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265037",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=331404&code=11435"
+      "ShowSyllabus.jsp?snum=331404&code=11225"
     ]
   },
   {
@@ -34559,7 +34559,9 @@
     "language": "",
     "notes": "丙丁戊組",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=331600&code=12081"
+    ]
   },
   {
     "code": "4226007",
@@ -37296,7 +37298,7 @@
         "code": "48"
       }
     ],
-    "people": "47",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -48945,6 +48947,88 @@
     "ta": [],
     "language": "",
     "notes": "國立臺北教育大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332952",
+    "name": {
+      "zh": "疫細胞治療",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺北醫學大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "332953",
+    "name": {
+      "zh": "幹細胞醫學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺北醫學大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
