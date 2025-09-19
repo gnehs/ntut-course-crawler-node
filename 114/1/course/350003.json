@@ -2,15 +2,15 @@
   {
     "name": "劉傳銘",
     "email": "cmliu@ntut.edu.tw",
-    "latestUpdate": "2025-05-28 19:12:47",
-    "objective": "本課程探討處理空間資料的模式與演算法則，主題包含: (1) 空間資料庫介紹與應用，(2) 空間概念與資料模式，(3) 空間搜尋語言，(4) 空間資料儲存與索引，(5) 搜尋處理與最佳化，(6) 空間網路，(7) 空間資料庫的研究趨勢。",
-    "schedule": "Introduction to Spatial Databases (3hrs)\nSpatial Concepts and Data Models (3hrs)\npaper review (4hrs)\nSpatial Query Languages (3hrs)\nSpatial Storage and Indexing (6hrs)\npapre review (4hrs)\nQuery Processing and Optimization (6hrs)\nSpatial Networks (3hrs)\nMoving Objects Databases (6hrs)\nRecent Trends in Spatial Databases (12hrs)\npaper review (4hrs)",
+    "latestUpdate": "2025-09-18 11:53:12",
+    "objective": "In this class, we introduce the role, principles, and wide-range applications of spatial databases. The relationship to traditional databases will be discussed first, and then the general architecture of spatial databases will be introduced. After understanding the concepts of spatial data and the relevant models, we discuss effective ways to manage and process spatial data. The topics include:(1) Introduction and applications of spatial databases, (2) Spatial concepts and data models, (3) Spatial search languages, (4) Spatial data storage and indexing, (5) Spatial search processing and optimization, and (6) Spatial networks. In addition, with the advances in computing techniques and environments, we also explore the recent trends of spatial databases, such as distributed databases, big spatial data, vector databases, and how AI models help.\n在本課程中，我們將介紹空間資料庫的角色、原則和廣泛的應用。我們將先討論空間資料庫與傳統資料庫的關係，然後再介紹空間資料庫的整體架構。在理解空間資料的概念和相關模型後，我們將討論管理和處理空間資料的有效方法。主題包括：(1) 空間資料庫的介紹和應用；(2) 空間概念和資料模型；(3) 空間搜尋語言；(4) 空間資料儲存和索引；(5) 空間搜尋處理和最佳化；以及 (6) 空間網路。此外，隨著運算技術和環境的進步，我們也將探討空間資料庫的最新趨勢，例如分散式資料庫、空間大數據、向量資料庫以及人工智慧模型如何助力空間資料庫的發展。",
+    "schedule": "Introduction to Spatial Databases (3hrs)\nSpatial Concepts and Data Models (3hrs)\npaper review (4hrs)\nSpatial Query Languages (3hrs)\nSpatial Storage and Indexing (6hrs)\npapre review (4hrs)\nproject proposal discussion (3hrs)\nSpatial Query Processing and Optimization (3hrs)\nSpatial Networks (3hrs)\nMoving Objects Databases (3hrs)\nBig Spatial Databases (3hrs)\nRecent Trends in Spatial Databases (12hrs)\nproject demo (4hrs)",
     "scorePolicy": "* Class Participation: 10%\n* Presentation: 30%\n* Project: 60%\n  - Proposal 20%\n  - Final Demo 15%\n  - Report 25%",
     "materials": "Referred Books\n*Shashi Shekhar and Sanjay Chawla, Spatial Databases: A Tour, Prentice Hall, 2003. ISBN: 0-13-017480-7\n*Ralf Hartmut Gutting and Markus Schneider, Moving Objects Databases, Morgan Kaufmann, 2005. ISBN-10: 0-12-088799-6",
     "consultation": "Emails: cmliu@ntut.edu.tw( school); 11107@cc.ntut.edu.tw (Microsoft Teams)Line ID: mobile.profFB: facebook.com/howard.liu.5Phone: 4251 (in school)",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 無（None）",
-    "remarks": "",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "For the distance learning, the on-line teaching will be given during the official class hours using Microsoft Teams. In addition, all the related material and homework sets will be released and collected with the NTUT i-school plus (https://istudy.ntut.edu.tw/learn/index.php) platform.",
     "foreignLanguageTextbooks": true
   }
 ]
