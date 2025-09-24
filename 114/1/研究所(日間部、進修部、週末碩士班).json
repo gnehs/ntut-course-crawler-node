@@ -8928,7 +8928,7 @@
         "code": "528"
       }
     ],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14682,7 +14682,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "28",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20662,7 +20662,7 @@
         "code": "117"
       }
     ],
-    "people": "13",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20721,7 +20721,7 @@
         "code": "117"
       }
     ],
-    "people": "12",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27405,7 +27405,7 @@
         "code": "211"
       }
     ],
-    "people": "48",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28898,7 +28898,7 @@
         "code": "570"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37004,7 +37004,7 @@
         "code": "117"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45254,6 +45254,400 @@
     "language": "",
     "notes": "經系所核准可修第二門論文始得修習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4507001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "6607008",
+    "description": {
+      "zh": "本課程之目的為讓技術導向博士班學生於學期間至本所各分組專業相關之企業、政府單位或具規模之其他機構從事全職實務技術研發工作，讓技術導向博士生除發展學術理論外，更擁有業界實務經驗，以成為學養精湛且具有實務技能之高階專業人才。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the technique-orientated Ph.D. students . During the semester, students are required to go to government-based organizations or industry / business-oriented agencies working as a full-time R & D practical job. Course takers are in addition to developing technology-oriented doctoral level academic theory, but also has practical experience in the industry, to become a highly specialized personnel with practical professional skills."
+    },
+    "id": "358114",
+    "name": {
+      "zh": "實務技術研發實習",
+      "en": "Internship of practical technology research and development"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3186",
+        "code": "3186"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5607008",
+    "description": {
+      "zh": "本課程之目的為讓技術導向博士班學生於學期間至本所各分組專業相關之企業、政府單位或具規模之其他機構從事全職實務技術研發工作，讓技術導向博士生除發展學術理論外，更擁有業界實務經驗，以成為學養精湛且具有實務技能之高階專業人才。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the technique-orientated Ph.D. students . During the semester, students are required to go to government-based organizations or industry / business-oriented agencies working as a full-time R & D practical job. Course takers are in addition to developing technology-oriented doctoral level academic theory, but also has practical experience in the industry, to become a highly specialized personnel with practical professional skills."
+    },
+    "id": "358118",
+    "name": {
+      "zh": "實務技術研發實習",
+      "en": "Internship of practical technology research and development"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "製科所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3160",
+        "code": "3160"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5607008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358119",
+    "name": {
+      "zh": "資料探勘與應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "清大陳宜欣 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358145",
+    "name": {
+      "zh": "生態學原理與應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358146",
+    "name": {
+      "zh": "環境工程科學概論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "2",
+        "3",
+        "4"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358147",
+    "name": {
+      "zh": "神經科學研究與臨床應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺北醫學大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358148",
+    "name": {
+      "zh": "分子免疫學特論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺北醫學大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358149",
+    "name": {
+      "zh": "產品設計暨服務創新",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺北醫學大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358150",
+    "name": {
+      "zh": "問題解決之「研究方法」",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
 ]

@@ -888,7 +888,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "42",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2342,7 +2342,7 @@
         "code": "42"
       }
     ],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6754,7 +6754,7 @@
         "code": "117"
       }
     ],
-    "people": "13",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6813,7 +6813,7 @@
         "code": "117"
       }
     ],
-    "people": "12",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14748,7 +14748,7 @@
         "code": "154"
       }
     ],
-    "people": "16",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14865,7 +14865,7 @@
         "code": "570"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19666,7 +19666,7 @@
         "code": "117"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20507,7 +20507,7 @@
         "code": "157"
       }
     ],
-    "people": "15",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20629,6 +20629,47 @@
     "language": "",
     "notes": "UTA，11.8-9",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3003808",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生至機械相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative mechanical engineering company, practice and learn the real operation of the mechanical engineering related fields. A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "358101",
+    "name": {
+      "zh": "校外實習 (三)",
+      "en": "Intern Practice(3)"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "36",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "訓四機四",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2753",
+        "code": "2753"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3003808",
     "syllabusLinks": []
   }
 ]
