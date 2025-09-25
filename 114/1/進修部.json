@@ -428,7 +428,7 @@
         "code": "437"
       }
     ],
-    "people": "4",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5448,7 +5448,7 @@
         "code": "51"
       }
     ],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6697,7 +6697,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6754,7 +6754,7 @@
         "code": "117"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10853,7 +10853,7 @@
         "code": "53"
       }
     ],
-    "people": "51",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11265,7 +11265,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18065,7 +18065,7 @@
         "code": "118"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18963,7 +18963,7 @@
         "code": "490"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19312,7 +19312,7 @@
         "code": "450"
       }
     ],
-    "people": "55",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19666,7 +19666,7 @@
         "code": "117"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20670,6 +20670,170 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3003808",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358115",
+    "name": {
+      "zh": "建築設計 (一)",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "4.0",
+    "hours": "8",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "中國科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "358143",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "22",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "113 學年度暑期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "358170",
+    "name": {
+      "zh": "動力學 (一)",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "9",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立勤益科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB04021",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用課餘至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "358172",
+    "name": {
+      "zh": "校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "5.0",
+    "hours": "24",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "10",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "114 學年度第 1 學期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
     "syllabusLinks": []
   }
 ]
