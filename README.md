@@ -18,7 +18,9 @@ https://ntut-course.gnehs.net/api
 - clone repo
 - `cd ./path/ntut-course-crawler-node`
 - `npm i`
-- `node fetchAll.js` or `node fetchCourse.js`
+- `node fetchAll.js`
+- `node fetchCourse.js`
+- `node fetchMProgram.js`
 
 ## 提醒
 - 課程網站若抓取過快很容易被封鎖，因此本爬蟲有限制同一時間抓取頁面數量，可自行調整。
