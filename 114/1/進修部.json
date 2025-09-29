@@ -183,7 +183,63 @@
         "code": "2876"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李仁貴",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11070",
+        "code": "11070"
+      },
+      {
+        "name": "李昭賢",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11636",
+        "code": "11636"
+      },
+      {
+        "name": "范育成",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11246",
+        "code": "11246"
+      },
+      {
+        "name": "崔紘嘉",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12442",
+        "code": "12442"
+      },
+      {
+        "name": "郭宏源",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12376",
+        "code": "12376"
+      },
+      {
+        "name": "陳建中",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11158",
+        "code": "11158"
+      },
+      {
+        "name": "陳晏笙",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11678",
+        "code": "11678"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "潘孟鉉",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12231",
+        "code": "12231"
+      },
+      {
+        "name": "賴冠廷",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12084",
+        "code": "12084"
+      },
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12245",
+        "code": "12245"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -200,7 +256,17 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350853&code=11636",
+      "ShowSyllabus.jsp?snum=350853&code=11246",
+      "ShowSyllabus.jsp?snum=350853&code=12442",
+      "ShowSyllabus.jsp?snum=350853&code=12376",
+      "ShowSyllabus.jsp?snum=350853&code=11678",
+      "ShowSyllabus.jsp?snum=350853&code=11991",
+      "ShowSyllabus.jsp?snum=350853&code=12231",
+      "ShowSyllabus.jsp?snum=350853&code=12084",
+      "ShowSyllabus.jsp?snum=350853&code=12245"
+    ]
   },
   {
     "code": "3603072",
@@ -2686,7 +2752,7 @@
         "code": "48"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4350,7 +4416,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "9/30~10/14，11/25~12/9 綜科 322",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105031",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351012&code=11438"
@@ -6754,7 +6820,7 @@
         "code": "117"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6813,7 +6879,7 @@
         "code": "117"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9092,11 +9158,7 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [
-        "A",
-        "B",
-        "C"
-      ],
+      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -9414,7 +9476,7 @@
         "code": "489"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9730,7 +9792,7 @@
         "code": "474"
       }
     ],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10228,7 +10290,7 @@
         "code": "474"
       }
     ],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15646,7 +15708,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19666,7 +19728,7 @@
         "code": "117"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19886,27 +19948,17 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "2",
-        "3",
-        "4"
-      ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓640",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=485",
-        "code": "485"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管所 工管 4 甲乙丙合開，科研 640",
+    "notes": "工管所 工管 4 甲乙丙合開，科研 640【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3734009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352746&code=11051"
