@@ -3012,6 +3012,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=347003&code=10796",
       "ShowSyllabus.jsp?snum=347003&code=11236",
+      "ShowSyllabus.jsp?snum=347003&code=11711",
       "ShowSyllabus.jsp?snum=347003&code=12175",
       "ShowSyllabus.jsp?snum=347003&code=12535",
       "ShowSyllabus.jsp?snum=347003&code=11929",
@@ -140453,6 +140454,47 @@
     },
     "classroom": [],
     "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "累計",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "358178",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "資財四甲",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2805",
+        "code": "2805"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
