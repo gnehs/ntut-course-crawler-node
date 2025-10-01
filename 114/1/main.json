@@ -3368,7 +3368,11 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3404122",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=347035&code=11397",
+      "ShowSyllabus.jsp?snum=347035&code=11320",
+      "ShowSyllabus.jsp?snum=347035&code=10986"
+    ]
   },
   {
     "code": "3403033",
@@ -3561,7 +3565,43 @@
         "code": "2786"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹世洵",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11309",
+        "code": "11309"
+      },
+      {
+        "name": "王柄雄",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12400",
+        "code": "12400"
+      },
+      {
+        "name": "陳世楷",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11461",
+        "code": "11461"
+      },
+      {
+        "name": "陳映竹",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12081",
+        "code": "12081"
+      },
+      {
+        "name": "陳起鳳",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12339",
+        "code": "12339"
+      },
+      {
+        "name": "黃中和",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11734",
+        "code": "11734"
+      },
+      {
+        "name": "羅元隆",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12243",
+        "code": "12243"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -3578,7 +3618,11 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3404122",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=347062&code=11309",
+      "ShowSyllabus.jsp?snum=347062&code=12339",
+      "ShowSyllabus.jsp?snum=347062&code=12243"
+    ]
   },
   {
     "code": "1004001",
@@ -13632,11 +13676,13 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3503003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=347760&code=11113",
       "ShowSyllabus.jsp?snum=347760&code=11151",
       "ShowSyllabus.jsp?snum=347760&code=11905",
       "ShowSyllabus.jsp?snum=347760&code=10914",
       "ShowSyllabus.jsp?snum=347760&code=11395",
       "ShowSyllabus.jsp?snum=347760&code=11535",
+      "ShowSyllabus.jsp?snum=347760&code=12181",
       "ShowSyllabus.jsp?snum=347760&code=12353",
       "ShowSyllabus.jsp?snum=347760&code=10995",
       "ShowSyllabus.jsp?snum=347760&code=11165",
@@ -15613,7 +15659,48 @@
         "code": "2907"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "朴維鎮",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12101",
+        "code": "12101"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "徐昕煒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12436",
+        "code": "12436"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "劉建浩",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11537",
+        "code": "11537"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11435",
+        "code": "11435"
+      },
+      {
+        "name": "應國卿",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11400",
+        "code": "11400"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -15630,7 +15717,15 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=347842&code=11225",
+      "ShowSyllabus.jsp?snum=347842&code=12436",
+      "ShowSyllabus.jsp?snum=347842&code=10988",
+      "ShowSyllabus.jsp?snum=347842&code=11401",
+      "ShowSyllabus.jsp?snum=347842&code=11537",
+      "ShowSyllabus.jsp?snum=347842&code=11435",
+      "ShowSyllabus.jsp?snum=347842&code=11400"
+    ]
   },
   {
     "code": "3723013",
@@ -16243,7 +16338,58 @@
         "code": "2908"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
+        "name": "田方治",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11051",
+        "code": "11051"
+      },
+      {
+        "name": "李育奇",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12494",
+        "code": "12494"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "張秉宸",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12499",
+        "code": "12499"
+      },
+      {
+        "name": "陳隆昇",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12566",
+        "code": "12566"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "鄭辰仰",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11764",
+        "code": "11764"
+      },
+      {
+        "name": "應國卿",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11400",
+        "code": "11400"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -16260,7 +16406,16 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=347860&code=11051",
+      "ShowSyllabus.jsp?snum=347860&code=12494",
+      "ShowSyllabus.jsp?snum=347860&code=11225",
+      "ShowSyllabus.jsp?snum=347860&code=12298",
+      "ShowSyllabus.jsp?snum=347860&code=12499",
+      "ShowSyllabus.jsp?snum=347860&code=12566",
+      "ShowSyllabus.jsp?snum=347860&code=11401",
+      "ShowSyllabus.jsp?snum=347860&code=11400"
+    ]
   },
   {
     "code": "3723013",
@@ -17564,6 +17719,11 @@
         "code": "11020"
       },
       {
+        "name": "陳柏端",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12239",
+        "code": "12239"
+      },
+      {
         "name": "陳嘉勳",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11469",
         "code": "11469"
@@ -17621,6 +17781,7 @@
       "ShowSyllabus.jsp?snum=347929&code=12285",
       "ShowSyllabus.jsp?snum=347929&code=11937",
       "ShowSyllabus.jsp?snum=347929&code=11020",
+      "ShowSyllabus.jsp?snum=347929&code=12239",
       "ShowSyllabus.jsp?snum=347929&code=11469",
       "ShowSyllabus.jsp?snum=347929&code=12143",
       "ShowSyllabus.jsp?snum=347929&code=11321",
@@ -18358,7 +18519,7 @@
         "code": "416"
       }
     ],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18475,7 +18636,7 @@
         "code": "495"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18593,7 +18754,7 @@
         "code": "416"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34515,7 +34676,7 @@
         "code": "416"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45774,7 +45935,7 @@
         "code": "30"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -62298,7 +62459,7 @@
         "code": "21"
       }
     ],
-    "people": "44",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -62416,7 +62577,7 @@
         "code": "292"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -69305,7 +69466,7 @@
         "code": "343"
       }
     ],
-    "people": "152",
+    "people": "151",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -69841,7 +70002,7 @@
         "code": "562"
       }
     ],
-    "people": "67",
+    "people": "66",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -70274,7 +70435,7 @@
         "code": "399"
       }
     ],
-    "people": "96",
+    "people": "98",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74347,9 +74508,9 @@
     },
     "classroom": [
       {
-        "name": "三教504",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=61",
-        "code": "61"
+        "name": "先鋒403 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=555",
+        "code": "555"
       }
     ],
     "people": "21",
@@ -75947,7 +76108,9 @@
     "language": "",
     "notes": "博士班 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4207002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350763&code=11309"
+    ]
   },
   {
     "code": "4207003",
@@ -86595,65 +86758,6 @@
     ]
   },
   {
-    "code": "5605037",
-    "description": {
-      "zh": "先修課程：負責教授同意基本守恒定理，流體運動學，特殊形式方程式，理想流體（二維，三維勢流）表面波，低雷諾數流體，邊界層流體振波．",
-      "en": "Basic Conservation Laws , Flow Kinematics , Special Forms of Governing Equations, Ideal-Fluid Flow ( Two-dimensional , Three-dimensional Potential Flows )Surface Waves , Low-Reynolds-Number Solutions , Boundary Layers , Shock Waves"
-    },
-    "id": "352102",
-    "name": {
-      "zh": "流體力學導論",
-      "en": "Fundamental Mechanics of Fluids"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "製科所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3160",
-        "code": "3160"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "許書涵",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12043",
-        "code": "12043"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "綜科110_1",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=94",
-        "code": "94"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "限 20 人【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605037",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352102&code=12043"
-    ]
-  },
-  {
     "code": "C767001",
     "description": {
       "zh": "專題報告、專題演講、研究小組討論",
@@ -93071,7 +93175,7 @@
         "code": "15"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -105922,7 +106026,9 @@
     "language": "",
     "notes": "碩二 / 甲乙組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352733&code=12243"
+    ]
   },
   {
     "code": "4236123",
@@ -105978,7 +106084,9 @@
     "language": "",
     "notes": "碩一 / 甲乙組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236123",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352734&code=12243"
+    ]
   },
   {
     "code": "4236057",
@@ -106034,7 +106142,9 @@
     "language": "",
     "notes": "碩二 / 丙丁戊組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352735&code=12339"
+    ]
   },
   {
     "code": "4236123",
@@ -106090,7 +106200,9 @@
     "language": "",
     "notes": "碩一 / 丙丁戊組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236123",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352736&code=12339"
+    ]
   },
   {
     "code": "3604122",
@@ -115035,7 +115147,7 @@
         "code": "75"
       }
     ],
-    "people": "85",
+    "people": "86",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119849,7 +119961,7 @@
         "code": "63"
       }
     ],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120455,7 +120567,7 @@
         "code": "161"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -122037,65 +122149,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C504009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353130&code=12084"
-    ]
-  },
-  {
-    "code": "C503004",
-    "description": {
-      "zh": "本課程讓學生深入瞭解射頻模組的基本架構及其在無線通訊技術中的應用，並且掌握人工智慧與深度強化學習的基本概念，學習如何利用人工智慧技術優化射頻模組性能，如增強信號強度和降低干擾。此外，課程將涵蓋電磁模擬軟體及其在射頻模組中的應用，並指導學生設置環境，編寫人工智慧演算法，實現自動化模擬與優化，最終培養獨立解決問題的能力。",
-      "en": "This course enables students to gain an in-depth understanding of the basic structure of RF modules and their applications in wireless communication technology. It also covers the fundamental concepts of artificial intelligence and deep reinforcement learning, teaching students how to use AI techniques to optimize RF module performance, such as enhancing signal strength and reducing interference. Additionally, the course will introduce electromagnetic simulation software and its applications in RF module simulation, guiding students to set up the environment, write AI algorithms, and achieve automated simulation and optimization, ultimately cultivating the ability to solve problems independently."
-    },
-    "id": "353131",
-    "name": {
-      "zh": "人工智慧於射頻模組優化",
-      "en": "Artificial Intelligence  in RF Module Optimization"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電資學院(大)",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2767",
-        "code": "2767"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鍾明桉",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12232",
-        "code": "12232"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": [
-        "A",
-        "B",
-        "C"
-      ]
-    },
-    "classroom": [
-      {
-        "name": "綜科305",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=287",
-        "code": "287"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "大研合開，核心課程【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C503004",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=353131&code=12232"
     ]
   },
   {
@@ -124437,7 +124490,7 @@
         "code": "416"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -138703,7 +138756,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -140453,7 +140506,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -140500,6 +140553,47 @@
     "language": "",
     "notes": "累計",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB04021",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用課餘至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "358179",
+    "name": {
+      "zh": "校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "5.0",
+    "hours": "24",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四甲",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2805",
+        "code": "2805"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "21",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
     "syllabusLinks": []
   }
 ]

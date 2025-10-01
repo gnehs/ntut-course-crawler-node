@@ -505,47 +505,6 @@
     ]
   },
   {
-    "code": "3713002",
-    "description": {
-      "zh": "以實務性專題提供管理組學生獨立研究、設計、實驗之機會。",
-      "en": "This course provides the students the opportunity to do the practical project independently."
-    },
-    "id": "350861",
-    "name": {
-      "zh": "專題製作",
-      "en": "Independent Study"
-    },
-    "stage": "2",
-    "credit": "2.0",
-    "hours": "6",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管四丙",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2877",
-        "code": "2877"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3713002",
-    "syllabusLinks": []
-  },
-  {
     "code": "3860005",
     "description": {
       "zh": "為加強學生設計實務能力，本課程規劃學生赴家具相關產業，至少為期 4.5 個月之校外實習，並於期滿後須由接受實習單位提具實習證明及成績考核。次一學期開學後，學生必須繳交書面或經口頭實習成果發表，由指導教師檢核實習單位成績考核，以給予實習學生最後評量成績。",
@@ -1853,28 +1812,18 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
-        "A",
-        "B",
-        "C"
-      ],
+      "tue": [],
       "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=47",
-        "code": "47"
-      }
-    ],
-    "people": "4",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403020",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=350924&code=11469"
@@ -17013,7 +16962,7 @@
         "code": "45"
       }
     ],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19846,7 +19795,7 @@
         "code": "51"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19889,22 +19838,12 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=49",
-        "code": "49"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20886,6 +20825,47 @@
     "language": "",
     "notes": "114 學年度第 1 學期校外實習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "358173",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "114 學年度第 1 學期校外實習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
     "syllabusLinks": []
   }
 ]

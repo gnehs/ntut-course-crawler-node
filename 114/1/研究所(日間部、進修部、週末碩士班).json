@@ -1562,7 +1562,7 @@
         "code": "21"
       }
     ],
-    "people": "44",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1680,7 +1680,7 @@
         "code": "292"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8569,7 +8569,7 @@
         "code": "343"
       }
     ],
-    "people": "152",
+    "people": "151",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9105,7 +9105,7 @@
         "code": "562"
       }
     ],
-    "people": "67",
+    "people": "66",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9538,7 +9538,7 @@
         "code": "399"
       }
     ],
-    "people": "96",
+    "people": "98",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13611,9 +13611,9 @@
     },
     "classroom": [
       {
-        "name": "三教504",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=61",
-        "code": "61"
+        "name": "先鋒403 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=555",
+        "code": "555"
       }
     ],
     "people": "21",
@@ -15211,7 +15211,9 @@
     "language": "",
     "notes": "博士班 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4207002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350763&code=11309"
+    ]
   },
   {
     "code": "4207003",
@@ -30139,65 +30141,6 @@
     ]
   },
   {
-    "code": "5605037",
-    "description": {
-      "zh": "先修課程：負責教授同意基本守恒定理，流體運動學，特殊形式方程式，理想流體（二維，三維勢流）表面波，低雷諾數流體，邊界層流體振波．",
-      "en": "Basic Conservation Laws , Flow Kinematics , Special Forms of Governing Equations, Ideal-Fluid Flow ( Two-dimensional , Three-dimensional Potential Flows )Surface Waves , Low-Reynolds-Number Solutions , Boundary Layers , Shock Waves"
-    },
-    "id": "352102",
-    "name": {
-      "zh": "流體力學導論",
-      "en": "Fundamental Mechanics of Fluids"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "製科所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3160",
-        "code": "3160"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "許書涵",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12043",
-        "code": "12043"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "綜科110_1",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=94",
-        "code": "94"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "限 20 人【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605037",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352102&code=12043"
-    ]
-  },
-  {
     "code": "C767001",
     "description": {
       "zh": "專題報告、專題演講、研究小組討論",
@@ -37269,7 +37212,9 @@
     "language": "",
     "notes": "碩二 / 甲乙組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352733&code=12243"
+    ]
   },
   {
     "code": "4236123",
@@ -37325,7 +37270,9 @@
     "language": "",
     "notes": "碩一 / 甲乙組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236123",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352734&code=12243"
+    ]
   },
   {
     "code": "4236057",
@@ -37381,7 +37328,9 @@
     "language": "",
     "notes": "碩二 / 丙丁戊組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352735&code=12339"
+    ]
   },
   {
     "code": "4236123",
@@ -37437,7 +37386,9 @@
     "language": "",
     "notes": "碩一 / 丙丁戊組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236123",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352736&code=12339"
+    ]
   },
   {
     "code": "5807030",
@@ -37547,7 +37498,7 @@
         "code": "51"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37590,22 +37541,12 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=49",
-        "code": "49"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
