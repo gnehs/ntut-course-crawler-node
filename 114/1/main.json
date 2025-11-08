@@ -4183,7 +4183,7 @@
       }
     ],
     "people": "59",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -8586,7 +8586,7 @@
       }
     ],
     "people": "39",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "機械三合開；限 40 人",
@@ -10572,7 +10572,7 @@
       }
     ],
     "people": "28",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "預選限 30 人。",
@@ -12069,7 +12069,7 @@
       }
     ],
     "people": "89",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "請排 80 人大教室",
@@ -12715,7 +12715,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "70 人教室",
@@ -12792,8 +12792,8 @@
   {
     "code": "3403008",
     "description": {
-      "zh": "概論，降雨，降雨逕流模擬，水文演算，水文統計 (1), 無因次單位歷線，基隆河流域水文分析，21 世紀台灣水利事及水文發展.",
-      "en": "Introduction,Precipitation,Rainfall-Runoff routing,Hydrological routing,Hydrological statistics,Dimensionless unit hydrograph,Case study,Future development in hydrology(21-century)."
+      "zh": "本課程為土木學門之基礎課程，目的在講授水文定性現象，及相關水文循環過程之定量計算理論。課程內容涵蓋地球上水的發生、循環、分佈、物理與化學特性以及和所有生物間的關係；並藉由工程觀點，依照水文循環特性進行系統化介紹，培養學生具有基礎水文能力，應用水文學原理解決人類在水資源開發所面臨的問題。",
+      "en": "This foundational course for the civil engineering covers both qualitative hydrological phenomena elaboration and quantitative assessment theories related to the processes of hydrological cycle. It aims to prepare students with basic hydrological knowledge and skills to apply hydrology principles in problem-solving of water resources development."
     },
     "id": "347722",
     "name": {
@@ -12850,8 +12850,8 @@
   {
     "code": "3403095",
     "description": {
-      "zh": "本課程主要教授學生瞭解：(1) 流體靜力學之各種實驗、(2) 流體運動現象之觀摩實驗、(3) 流體能量及連續方程式之運用實驗、(4) 流體動量－衝量方程式之運用實驗、(5) 水力機械之測試實驗。",
-      "en": "The basic principles and several applications of fluid mechanics are covered in weekly laboratory sessions.Fundamentals of fluid mechanics will be demonstrated featuring Model similitude, Pipe flow, Open channel flow."
+      "zh": "1.\t流體力學試驗為流體力學現象與理論之橋樑，藉由實驗過程可加強流體力學之觀念。2.\t學習並加強科技報告之寫作與基本之組織技巧及團體合作。",
+      "en": "1. Fluid mechanics experiments aim to bridge the fluid mechanics phenomena and theory. The concepts of fluid mechanics will be delivered and strengthened through the experimental process.2. Learn and improve technical report writing, basic organizational skills and teamwork."
     },
     "id": "347723",
     "name": {
@@ -12909,8 +12909,8 @@
   {
     "code": "3403054",
     "description": {
-      "zh": "模型理論，管流理論，渠流理論，渠變理論，數值理論.",
-      "en": "Introduction,Model similitude,Pipe flow,Open channel  flow,Gradually varied flow(Backwatercomputation...),Computation fluid mechanics(ex:FDM,FEM,...)"
+      "zh": "中等流體力學的主題，包括：場論和張量代數； 牛頓流體的納維斯托克斯方程式； 非黏性流體； 相似度和維度分析； 潤滑理論； 和邊界層理論。",
+      "en": "Topics in intermediate fluid mechanics, including field theory and tensor algebra, Constitutive relations and the Navier Stokes equation for Newtonian fluids, inviscid flows, Similarity and dimensional analysis, lubrication theory, and Boundary layer theory."
     },
     "id": "347726",
     "name": {
@@ -13376,8 +13376,8 @@
   {
     "code": "3403008",
     "description": {
-      "zh": "概論，降雨，降雨逕流模擬，水文演算，水文統計 (1), 無因次單位歷線，基隆河流域水文分析，21 世紀台灣水利事及水文發展.",
-      "en": "Introduction,Precipitation,Rainfall-Runoff routing,Hydrological routing,Hydrological statistics,Dimensionless unit hydrograph,Case study,Future development in hydrology(21-century)."
+      "zh": "本課程為土木學門之基礎課程，目的在講授水文定性現象，及相關水文循環過程之定量計算理論。課程內容涵蓋地球上水的發生、循環、分佈、物理與化學特性以及和所有生物間的關係；並藉由工程觀點，依照水文循環特性進行系統化介紹，培養學生具有基礎水文能力，應用水文學原理解決人類在水資源開發所面臨的問題。",
+      "en": "This foundational course for the civil engineering covers both qualitative hydrological phenomena elaboration and quantitative assessment theories related to the processes of hydrological cycle. It aims to prepare students with basic hydrological knowledge and skills to apply hydrology principles in problem-solving of water resources development."
     },
     "id": "347743",
     "name": {
@@ -13434,8 +13434,8 @@
   {
     "code": "3403095",
     "description": {
-      "zh": "本課程主要教授學生瞭解：(1) 流體靜力學之各種實驗、(2) 流體運動現象之觀摩實驗、(3) 流體能量及連續方程式之運用實驗、(4) 流體動量－衝量方程式之運用實驗、(5) 水力機械之測試實驗。",
-      "en": "The basic principles and several applications of fluid mechanics are covered in weekly laboratory sessions.Fundamentals of fluid mechanics will be demonstrated featuring Model similitude, Pipe flow, Open channel flow."
+      "zh": "1.\t流體力學試驗為流體力學現象與理論之橋樑，藉由實驗過程可加強流體力學之觀念。2.\t學習並加強科技報告之寫作與基本之組織技巧及團體合作。",
+      "en": "1. Fluid mechanics experiments aim to bridge the fluid mechanics phenomena and theory. The concepts of fluid mechanics will be delivered and strengthened through the experimental process.2. Learn and improve technical report writing, basic organizational skills and teamwork."
     },
     "id": "347744",
     "name": {
@@ -17057,7 +17057,7 @@
       }
     ],
     "people": "19",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "家室組，上限 35 人",
@@ -21846,7 +21846,7 @@
       }
     ],
     "people": "30",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "三教 210，可外系選修",
@@ -23781,7 +23781,7 @@
       }
     ],
     "people": "47",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24459,7 +24459,7 @@
       }
     ],
     "people": "75",
-    "peopleWithdraw": "10",
+    "peopleWithdraw": "12",
     "ta": [],
     "language": "",
     "notes": "電機二合開，預選限 70 人。",
@@ -26689,7 +26689,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -27435,7 +27435,7 @@
       }
     ],
     "people": "81",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -27791,7 +27791,7 @@
       }
     ],
     "people": "46",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -27969,7 +27969,7 @@
       }
     ],
     "people": "29",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -33173,7 +33173,7 @@
       }
     ],
     "people": "34",
-    "peopleWithdraw": "13",
+    "peopleWithdraw": "16",
     "ta": [],
     "language": "",
     "notes": "新聘兼任老師",
@@ -34130,7 +34130,7 @@
       }
     ],
     "people": "66",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -34255,7 +34255,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -39567,7 +39567,7 @@
       }
     ],
     "people": "71",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "排 PBL 教室，互動二與外生二合開，限 25 人，請自備筆電",
@@ -46747,7 +46747,7 @@
       }
     ],
     "people": "55",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -47711,7 +47711,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -50876,7 +50876,7 @@
       }
     ],
     "people": "87",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -54734,7 +54734,7 @@
       }
     ],
     "people": "81",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -54854,7 +54854,7 @@
       }
     ],
     "people": "79",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -57854,7 +57854,7 @@
       }
     ],
     "people": "68",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "建築一和創意一合開 (限主修建築系選課)",
@@ -61522,7 +61522,7 @@
       }
     ],
     "people": "37",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "電機系和創新 AI、資安合開，預選限 36 人。",
@@ -63651,7 +63651,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -63769,7 +63769,7 @@
       }
     ],
     "people": "18",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "土木 206",
@@ -71097,7 +71097,7 @@
       }
     ],
     "people": "31",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -75412,7 +75412,7 @@
       }
     ],
     "people": "56",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "材料所、創新半導體和 EOMP 合開",
@@ -78401,7 +78401,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "排一般教室，互動二與外生二合開，限本系生 30 人",
@@ -78726,7 +78726,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "丙組選修",
@@ -80288,7 +80288,7 @@
       }
     ],
     "people": "39",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "",
@@ -80643,7 +80643,7 @@
       }
     ],
     "people": "77",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "三選二項目",
@@ -81736,7 +81736,7 @@
       }
     ],
     "people": "68",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "",
@@ -86938,8 +86938,8 @@
   {
     "code": "3404020",
     "description": {
-      "zh": "隨著台灣農工型態的轉變以及越來越高的生活品質要求，地下水所扮演的角將日益重要，地下水的領域涵蓋水量，水質及防災三方面，修習此一學科，可以了解地下水水文及水力學之基本原理，進而掌握地下水水理與污染傳輸之特性，以作為規劃與管理地下水資源之依據.",
-      "en": "The objective of this course is to introduce the theory and application of groundwater flow modeling, focusing on MODFLOW. The topic is including numerical methods, discreteness and boundaries, parameterization and calibration, problems and case-histories."
+      "zh": "伴隨著台灣經濟高度發展， 地下水資源在民生、工業及民生用水所扮演的角色日益重要。地下水學科的領域涵蓋水量、水質及防災三方面。修習此課程，學生可以了解地下水文及水井水力學之基本原理，推估區域性地下水蘊藏量及安全出水量，以作為規劃與管理地下水資源之依據。",
+      "en": "As the economy in Taiwan develops, groundwater resources play an increasingly important role in both industry and domestic water supply. The discipline of groundwater covers three aspects: water quantity, water quality and disaster prevention. This course mainly introduces the basic principles of groundwater hydrology and well hydraulics, and tackles how to estimate the amount of regional groundwater resources and determine their safe yield, as a basis for planning and managing groundwater resources."
     },
     "id": "352106",
     "name": {
@@ -86990,7 +86990,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "上限 40 人 / 三甲乙合開 / 適合三大四修讀",
@@ -90906,7 +90906,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "上限 30 人",
@@ -91460,7 +91460,7 @@
       }
     ],
     "people": "6",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "資財四甲、資財所合開",
@@ -94147,7 +94147,7 @@
       }
     ],
     "people": "52",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -96186,7 +96186,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "工管二甲乙合開  配合 USR 計畫",
@@ -97383,7 +97383,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "經管所和 IMBA 合開",
@@ -102973,7 +102973,7 @@
       }
     ],
     "people": "19",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "高級",
@@ -105701,7 +105701,7 @@
       }
     ],
     "people": "71",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "7",
     "ta": [],
     "language": "",
     "notes": "機械大二合開",
@@ -108106,7 +108106,7 @@
     },
     "classroom": [],
     "people": "24",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "排球 B",
@@ -108782,7 +108782,7 @@
     },
     "classroom": [],
     "people": "29",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "籃球 D",
@@ -108834,7 +108834,7 @@
     },
     "classroom": [],
     "people": "29",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "民俗體育 B",
@@ -109250,7 +109250,7 @@
     },
     "classroom": [],
     "people": "31",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "身心美學 A",
@@ -112954,7 +112954,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -113882,7 +113882,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "10",
+    "peopleWithdraw": "11",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -114224,7 +114224,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度",
@@ -114398,7 +114398,7 @@
       }
     ],
     "people": "68",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -116138,7 +116138,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -116196,7 +116196,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -117066,7 +117066,7 @@
       }
     ],
     "people": "39",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -117472,7 +117472,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -117588,7 +117588,7 @@
       }
     ],
     "people": "70",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度",
@@ -118632,7 +118632,7 @@
       }
     ],
     "people": "81",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -121212,7 +121212,7 @@
       }
     ],
     "people": "34",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "以 CEFR B1 為目標，新制多益",
@@ -121497,7 +121497,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -122017,7 +122017,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "5",
+    "peopleWithdraw": "6",
     "ta": [],
     "language": "",
     "notes": "",
@@ -123031,7 +123031,7 @@
     },
     "classroom": [],
     "people": "12",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "台大鄭文皇，大三以上 https://ppt.cc/fCH4qx",
@@ -140842,11 +140842,61 @@
     },
     "classroom": [],
     "people": "27",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C005006",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C005007",
+    "description": {
+      "zh": "協助學員在完成訓練後：1. 對半導體設備元件原理與作用有基礎的了解 2. 對半導體設備實務工作有初步的了解 3. 能結合學校所學理論與產業實務。",
+      "en": "After completing the training, the trainees will: 1.Have a basic understanding of the principles and functions of semiconductor equipment components.2.Have a preliminary understanding of what an equipment engineer does in Fab.3.Be able to combine the theories learned from the school with industrial practices."
+    },
+    "id": "359406",
+    "name": {
+      "zh": "半導體設備元件基礎",
+      "en": "Introduction of Equipment Components in Semiconductor"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2772",
+        "code": "2772"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林懷恩",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12283",
+        "code": "12283"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [],
+    "people": "16",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "密集授課，至台積電，詳教學大綱",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005007",
     "syllabusLinks": []
   }
 ]
