@@ -1,0 +1,16 @@
+[
+  {
+    "name": "王秋玄",
+    "email": "wanglolly821014@gmail.com",
+    "latestUpdate": "2025-12-15 22:21:45",
+    "objective": "本課程將聚焦於「即時互動系統」與「即時視覺表現」，透過感測輸入、資料處理、狀態轉換與視覺回饋構成一套互動的動態系統。\n課程前半將透過 TouchDesigner，讓學生快速建立互動系統的核心概念，包括即時資料流、參數映射、時間性變化，以及以 WebCam 為基礎的人體、手勢與環境互動。\n課程後半則引入 Unity，聚焦於即時視覺表現的設計與實作，包含 Shader Graph 與 Visual Effect Graph。學生將學習如何以節點式方式設計動態材質、粒子系統與互動視覺效果，並在必要時接觸基礎程式碼，理解互動資料如何驅動視覺呈現。\n透過 TouchDesigner 與 Unity 的分工與整合，本課程旨在培養學生設計具備互動性、時間性與視覺敘事能力的即時互動作品，並能完成可展示、可操作的期末專題。\nThis course focuses on the design of real-time interactive systems and visual experiences. Through combining sensing, data processing, state transitions, and visual feedback together, students can realize a dynamic interactive system.\nIn the first half of the course, students will use TouchDesigner to develop an understanding of real-time data flow, parameter mapping, temporal behaviors, and interaction logic. Webcam-based interaction, including body movement, gestures, and environmental input, will be introduced to allow students to explore complex interaction scenarios with minimal technical overhead. \nIn the second half of the course, Unity is introduced as the primary platform for real-time visual output. Students will learn to design dynamic materials and visual effects using Shader Graph and Visual Effect Graph, and will be introduced to basic scripting when necessary to connect interaction data with visual behavior.",
+    "schedule": "1. Course Introduction\n2. Introduction to TouchDesigner\n3. Time-based Interaction and Parameter Mapping\n4. Webcam-based Interaction I\n5. Webcam-based Interaction II\n6. Interactive System Design with TouchDesigner\n7. Introduction to Unity for Interactive Visuals\n8. Shader Graph Fundamentals\n9. Dynamic Materials and Interaction\n10. Introduction to Visual Effect Graph\n11. Interactive VFX Design\n12. Connecting Interaction and Visual Output\n13. Final Project Proposal\n14. Interaction Narrative and Experience Flow\n15. Interaction States and System Robustness\n16. Final Project Discussion\n17. Final Project Presentation\n18. Final Project Demonstration",
+    "scorePolicy": "Homework 40%\nClass Performance 20%\nFinal Project Proposal 10%\nFinal Project Presentation 15%\nFinal Project Demonstration 15%",
+    "materials": "https://learn.unity.com/",
+    "consultation": "Discord Channel 王秋玄老師 (wanglolly821014@gmail.com)",
+    "課程對應SDGs指標": "無（None）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

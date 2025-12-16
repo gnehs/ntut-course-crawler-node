@@ -1,0 +1,16 @@
+[
+  {
+    "name": "莊承義",
+    "email": "cyzhuang@ntut.edu.tw",
+    "latestUpdate": "2025-12-11 15:48:03",
+    "objective": "System packaging employs multilayer structures to provide power to chips. However, power delivery networks are affected by factors such as parallel-plate resonance and switching noise resulting from coupling between parallel plates and transmission lines, which can cause power integrity issues. This course will introduce the causes of the aforementioned problems from an electromagnetic field perspective and utilize circuit theory to establish models and perform simulation analysis. Finally, improved design methods will be introduced through practical examples to enhance the power quality of power distribution networks. This enables understanding of analog circuit design and integrated system packaging for power and signal design, thereby establishing a foundation for the research and development of high-speed digital systems.\n\n系統構裝使用多層結構提供晶片電源，然而，電源遞送網路會受到平板共振、以及平板與傳輸線耦合的切換雜訊等因素影響，造成電源完整度的問題。本課程將從電磁場的角度介紹上述問題的成因，並利用電路的理論進行模型的建立及模擬分析，最後且以實例介紹改良設計方法，使電源分佈網路的電源品質可以改善，以了解類比電路設計及整合系統構裝的電源及訊號設計，進而建立研發高速數位系統的基礎。",
+    "schedule": "Week 1.Introduction\nWeek 2.Fundamental Issues of Power Integrity.\nWeek 3.Fundamental Issues of Power Integrity.\nWeek 4.Power Delivery Network (PDN) Components and Basic Design.\nWeek 5.Power Delivery Network (PDN) Components and Basic Design.\nWeek 6.Analysis and Measurement of PDN.\nWeek 7.Analysis and Measurement of PDN.\nWeek 8.Circuit Modeling of Planes\nWeek 9.Circuit Modeling of Planes\nWeek 10.Midterm\nWeek 11.Modeling of Multiple Plane Pairs\nWeek 12.Modeling of Multiple Plane Pairs\nWeek 13.Modeling for Tx-Lines and Planes for Simultaneous Switching Noise\nWeek 14.Modeling for Tx-Lines and Planes for Simultaneous Switching Noise\nWeek 15.Time-Domain Simulation: Macro-modeling\nWeek 16.Time-Domain Simulation: Macro-modeling\nWeek 17.Time-Domain Simulation by Convolution\nWeek 18.Time-Domain Simulation by Convolution",
+    "scorePolicy": "Homework: 40%\nMidterm: 30%\nFinal Project Report: 30%\n\nThe above grading criteria may change depending on the number of enrolled students.",
+    "materials": "Textbook:\n1. Power integrity modeling and design for semiconductors and systems.\n\nReference:\n2. Power Distribution Network Design Methodology",
+    "consultation": "Office hour",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

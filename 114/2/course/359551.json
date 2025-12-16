@@ -1,0 +1,16 @@
+[
+  {
+    "name": "莊賀喬",
+    "email": "hchuang@ntut.edu.tw",
+    "latestUpdate": "2025-12-11 10:52:24",
+    "objective": "上課地點：先國際研發大樓一樓城市科學實驗室\n上課時間：每周五 9:10-10:00\n備註：教學以實作課程為主，選課人數限制 15 人。\n學生自備：電腦及 Python3 環境\n課程大綱:\n本課程旨在教授學生如何使用物理模擬引擎 Mujoco 進行機器人模擬與控制，並透過實作來加深對控制理論（如 LQR、PID）的理解與應用。課程將涵蓋 Mujoco 的基本操作，包括環境設置、模型建立、動力學模擬等，並進一步探討機器人系統的狀態估計與控制策略。透過動手實作與專案練習，學生將學習如何利用 Mujoco 來測試與驗證各種控制演算法，為未來從事機器人研究或開發奠定堅實基礎。\nThis course aims to teach students how to use the physics simulation engine Mujoco for robotic simulation and control while deepening their understanding of control theories such as LQR and PID through hands-on implementation. The course covers the fundamental operations of Mujoco, including environment setup, model creation, and dynamics simulation. Students will also explore state estimation and control strategies for robotic systems. Through practical exercises and projects, students will learn how to leverage Mujoco to test and validate various control algorithms, building a solid foundation for future research or development in robotics.",
+    "schedule": "wk1   遇見機器人\nwk3   Mujoco 介紹\nwk4   URDF 介紹\nwk5   實作 URDF\nwk6   建置環境    \nwk8   Actuator in Mujoco   \nwk9   感測器   \nwk10 機器人模擬環境   \nwk11 控制系統理論\nwk12 PD 控制及實作\nwk13 PID 控制\nwk14 LQR 控制\nwk15 實作\nwk16 期末報告",
+    "scorePolicy": "出席率：10%\n期末報告： 30%\n實作表現： 40%\n上課表現：20%",
+    "materials": "本課程使用 自編講義 教材\n[1] How to Make (Almost) Anything\n[2] MAS.863 (2019) , (2020)\n[3] Final Project",
+    "consultation": "每周二 上午 9-12 點為 Office hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
