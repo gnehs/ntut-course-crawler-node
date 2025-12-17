@@ -482,7 +482,9 @@
     "language": "",
     "notes": "電機所。半導體碩班。創新 AI. 機械自動化和電資外生班合",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105219",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356008&code=11007"
+    ]
   },
   {
     "code": "3105220",
@@ -1396,7 +1398,9 @@
     "language": "",
     "notes": "馬偕醫院上課；限丙組學生",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005104",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356164&code=21595"
+    ]
   },
   {
     "code": "4005145",
@@ -2133,7 +2137,9 @@
     "language": "",
     "notes": "機電、製科、自動化合開；限 20 人；甲組選修；英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356218&code=11826"
+    ]
   },
   {
     "code": "4007010",
@@ -3968,7 +3974,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505606",
     "syllabusLinks": []
   },
@@ -4019,7 +4025,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4506202",
     "syllabusLinks": []
   },
@@ -5581,7 +5587,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231411",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356537&code=11016"
+    ]
   },
   {
     "code": "5231418",
@@ -5946,7 +5954,9 @@
     "language": "",
     "notes": "綜三演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356572&code=11840"
+    ]
   },
   {
     "code": "4005059",
@@ -6060,7 +6070,9 @@
     "language": "",
     "notes": "限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005076",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356575&code=11388"
+    ]
   },
   {
     "code": "4007006",
@@ -9218,7 +9230,8 @@
     "notes": "網路預選限 80 人；化工所生化所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805064",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=357002&code=24552"
+      "ShowSyllabus.jsp?snum=357002&code=24552",
+      "ShowSyllabus.jsp?snum=357002&code=11357"
     ]
   },
   {
@@ -9287,6 +9300,7 @@
     "notes": "EMI 生化所和化工所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805076",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357008&code=11357",
       "ShowSyllabus.jsp?snum=357008&code=11975"
     ]
   },
@@ -11762,7 +11776,9 @@
     "language": "",
     "notes": "英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405112",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357226&code=11931"
+    ]
   },
   {
     "code": "A405153",
@@ -12502,7 +12518,9 @@
     "language": "",
     "notes": "全英語",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05104",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357295&code=11982"
+    ]
   },
   {
     "code": "AB05117",
@@ -13123,6 +13141,7 @@
     "notes": "限本班生 16 人修，外系勿選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05005",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357361&code=12304",
       "ShowSyllabus.jsp?snum=357361&code=11533"
     ]
   },
@@ -14541,7 +14560,9 @@
     "language": "",
     "notes": "EMI 網路預選限 40 人；化工所 EOMP 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357533&code=12301"
+    ]
   },
   {
     "code": "7815141",
@@ -17700,7 +17721,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415308",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358720&code=11092"
+    ]
   },
   {
     "code": "5605001",
@@ -17904,7 +17927,9 @@
     "language": "",
     "notes": "綜科 110-2",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005124",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358731&code=11826"
+    ]
   },
   {
     "code": "5605055",
@@ -18552,13 +18577,28 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王立邦",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11725",
+        "code": "11725"
+      },
+      {
+        "name": "許晉源",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24373",
+        "code": "24373"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
       "fri": [],
       "sat": []
     },
@@ -18593,14 +18633,24 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "楊任軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12305",
+        "code": "12305"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
       "sat": []
     },
     "classroom": [],
@@ -18634,12 +18684,22 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "簡慧貞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=21896",
+        "code": "21896"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -18675,10 +18735,20 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "江謝令涵",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12492",
+        "code": "12492"
+      }
+    ],
     "time": {
       "sun": [],
-      "mon": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
       "tue": [],
       "wed": [],
       "thu": [],
@@ -18993,7 +19063,9 @@
     "language": "",
     "notes": "限碩一選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358969&code=10549"
+    ]
   },
   {
     "code": "7305072",
@@ -19109,7 +19181,9 @@
     "language": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405209",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359019&code=11931"
+    ]
   },
   {
     "code": "A405214",
@@ -19281,7 +19355,8 @@
     "notes": "進修部教室，限本班生 13 人修 (非本班生勿選)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359023&code=11393"
+      "ShowSyllabus.jsp?snum=359023&code=11393",
+      "ShowSyllabus.jsp?snum=359023&code=12304"
     ]
   },
   {
@@ -20216,6 +20291,11 @@
         "code": "11403"
       },
       {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12298",
+        "code": "12298"
+      },
+      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11440",
         "code": "11440"
@@ -20299,7 +20379,9 @@
     "language": "",
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359104&code=11982"
+    ]
   },
   {
     "code": "C275015",
@@ -21451,7 +21533,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359152&code=11982"
+    ]
   },
   {
     "code": "C285022",
@@ -22109,7 +22193,9 @@
     "language": "",
     "notes": "限碩二選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359218&code=10549"
+    ]
   },
   {
     "code": "A406001",
@@ -22753,11 +22839,21 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王立邦",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11725",
+        "code": "11725"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
       "wed": [],
       "thu": [],
       "fri": [],
@@ -23651,7 +23747,9 @@
     "language": "",
     "notes": "機電。製科。機電博含外生合開，限 20 人；英文授課；甲◎",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005022",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359299&code=11273"
+    ]
   },
   {
     "code": "4005003",
@@ -24269,7 +24367,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905142",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359332&code=11247"
+    ]
   },
   {
     "code": "5925105",
@@ -24485,7 +24585,9 @@
     "language": "",
     "notes": "丙組選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005144",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359343&code=21595"
+    ]
   },
   {
     "code": "8517007",
@@ -24719,7 +24821,9 @@
     "language": "",
     "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3115009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359351&code=24589"
+    ]
   },
   {
     "code": "3105196",
@@ -27204,7 +27308,9 @@
     "language": "",
     "notes": "限 15 人，需具微處理機基礎，綜科 327",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359415&code=11018"
+    ]
   },
   {
     "code": "4006001",
@@ -27590,7 +27696,9 @@
     "language": "",
     "notes": "EMI 網路預選限 40 人；計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359459&code=12301"
+    ]
   },
   {
     "code": "AW00001",
@@ -28616,7 +28724,9 @@
     "language": "",
     "notes": "英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405213",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359564&code=11931"
+    ]
   },
   {
     "code": "A405113",
@@ -28730,7 +28840,9 @@
     "language": "",
     "notes": "英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405108",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359569&code=11931"
+    ]
   },
   {
     "code": "AB05091",
@@ -29372,6 +29484,11 @@
         "code": "11403"
       },
       {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12298",
+        "code": "12298"
+      },
+      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11440",
         "code": "11440"
@@ -30003,7 +30120,9 @@
     "language": "",
     "notes": "互動日碩、外碩和設計博班合開，一般教室，限 20 人 (英)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05206",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359603&code=12304"
+    ]
   },
   {
     "code": "AC06211",
@@ -33291,7 +33410,7 @@
     ],
     "teacher": [
       {
-        "name": "黃琮昇",
+        "name": "黃昇",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=12338",
         "code": "12338"
       }
@@ -34103,107 +34222,6 @@
     "language": "",
     "notes": "新老師 / 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105010",
-    "syllabusLinks": []
-  },
-  {
-    "code": "A405187",
-    "description": {
-      "zh": "公平交易法是經濟憲法，也是維持市場交易秩序的根本大法。當現代企業與市場的結構愈趨複雜，公平交易法的角色也愈顯重要。本課程將以案例分析，帶領學生了解公平交易法的基本原則。最後，本課程將規劃呈現科技發展下的新興壟斷議題，帶領學生一起探討。",
-      "en": "The Fair Trade Act is often considered as the economic constitution also a set of fundamental rules to maintain the order of market. This Act is getting more and more important in the modern economy while the market is getting more and more chaotic and complicated. This course is designed for students who intend to understand the principles of the Fair Trade Act by case studies, and who is interested to learn about emerging technology monopoly issues."
-    },
-    "id": "359912",
-    "name": {
-      "zh": "科技壟斷與公平交易法",
-      "en": "Technology Monopoly and Fair Trade Act"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智財所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3173",
-        "code": "3173"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [
-        "2",
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "先鋒1401",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=569",
-        "code": "569"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "英文授課；新聘專任教師",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405187",
-    "syllabusLinks": []
-  },
-  {
-    "code": "A405203",
-    "description": {
-      "zh": "公平交易法是經濟憲法，也是維持市場交易秩序的根本大法。當現代企業與市場的結構愈趨複雜，公平交易法的角色也愈顯重要。本課程將以案例分析，帶領學生了解公平交易法的基本原則。最後，本課程將規劃呈現科技發展下的新興議題，特別偏重科技產業的創新與競爭、數位經濟所帶來的新挑戰，帶領學生一起探討。",
-      "en": "The Fair Trade Act is often considered as the economic constitution also a set of fundamental rules to maintain the order of market. This Act is getting more and more important in the modern economy while the market is getting more and more chaotic and complicated due to the technology advancement. This course is designed for students who intend to understand the principles of the Fair Trade Act both in books and in action, and who are interested to learn about the interplay of innovation and competition with particular emphasis on technology industries and digital economy."
-    },
-    "id": "359913",
-    "name": {
-      "zh": "創新、競爭與公平交易法",
-      "en": "Innovation, Competition and Fair Trade Act"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智財所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3173",
-        "code": "3173"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "3",
-        "4"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=570",
-        "code": "570"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "新聘專任教師",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405203",
     "syllabusLinks": []
   },
   {
@@ -36235,6 +36253,379 @@
     "language": "",
     "notes": "碩二丙丁戊組 / 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5231411",
+    "description": {
+      "zh": "我國古蹟與歷史建築之文化遺產防災計畫實施現況，至今因欠缺有系統之調查研究，因此難以了解問題點所在。此外台灣現有之古蹟與歷史建築多為日治時期所遺留下來，而日本至今已有相當多具有良好防災計畫之古蹟與歷史建築案例，應可作為我國相關研究參考，但國內對此課題亦缺少有系統之調查。本課程的授課內容如下：1. 概論 2. 文化遺產防災之重要性 3. 文化遺產防災之基本策略 4. 文化遺產防災之進行方式 5. 文化遺產之災害種類與對策。",
+      "en": "Due to the lack of systematic research work carried out in Taiwan, it is difficult to find out the problems of the current disaster prevention plans for the cultural heritage. Taiwan has many existing vestiges and relics from Japanese colonial period at the moment. Despite the fact that there are numerous excellent examples of disaster prevention plans in Japan for us to consult and to research, little systematic work regarded the subject can be found in the literature in our own country. The course content about followings: 1. Introduction2. Importance of disaster prevention of cultural heritage3. Disaster prevention plans of cultural heritage 4. Approach of disaster prevention plans of cultural heritage5. Type of cultural heritage disaster and guideline"
+    },
+    "id": "360125",
+    "name": {
+      "zh": "文化遺產防災學",
+      "en": "Disaster prevention plans of cultural heritage"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職建都所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3199",
+        "code": "3199"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林裕昌",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11016",
+        "code": "11016"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5231411",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360125&code=11016"
+    ]
+  },
+  {
+    "code": "4907117",
+    "description": {
+      "zh": "本課程之開設旨再協助學生了解質化研究典範之特質，熟悉質化訪談的相關技巧與資料分析之方法。其內容包括：質化研究之特質 、研究設計與樣本選擇、質化研究之信度、效度與研究倫理、質化訪談法與訪談經驗分享、資料分析之技巧、質化研究實例介紹，以及質化研究之寫作。",
+      "en": "The course is designed to make a brief introduction about qualitative research. The contents include: (a) the characteristics of qualitative research ; (b)  its research design and sampling; (c) the validity, reliability and ethics; (d) the techniques  of qualitative research; and(e) the writing and evaluation of qualitative research  proposal and thesis."
+    },
+    "id": "360163",
+    "name": {
+      "zh": "質化研究",
+      "en": "Qualitative Research"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "技職所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3156",
+        "code": "3156"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張嘉育",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10922",
+        "code": "10922"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "8",
+        "9"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同303A",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=119",
+        "code": "119"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "開學第一周上課未出席不得加選",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4907117",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360163&code=10922"
+    ]
+  },
+  {
+    "code": "5607004",
+    "description": {
+      "zh": "研究生在教授之個別指導下，針對特定研究主題進行研究 ，並將研究成果寫成論文。",
+      "en": "Graduate students are required to complete a specific research topic under the instruction of their advisor. The results should be written as a thesis."
+    },
+    "id": "360175",
+    "name": {
+      "zh": "博士論文",
+      "en": "Doctoral Dissertation"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "製科所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3160",
+        "code": "3160"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5607004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA02001",
+    "description": {
+      "zh": "為了鼓勵以及幫助學生用技術或者商業模式，聯合學校老師或是跨校同學，用商業的手段共同解決社會或者商業問題，本課程將以衝刺班的形式，邀請有創業經驗的老師、業師，透過工作坊的形式，幫助學生逐週的推進創業進度以及創業競賽演練，目標是幫助學生落實創業想法，應用在社會中並且帶來改變。",
+      "en": "To encourage and help students using new technologies or new business models to solve problems in the society and the business world, this intense, pre-accelerator, 18-week course invites different professors and mentors with entrepreneurship experiences to help students develop their start-up ideas through workshops and startup competitions. The goal of this course is to help students realize their ideas and create actionable business solutions that can change the society."
+    },
+    "id": "360323",
+    "name": {
+      "zh": "創業 0 到 2 的思維與實作",
+      "en": "Start up: from 0 to all"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "產業接軌課程(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1569",
+        "code": "1569"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA02008",
+    "description": {
+      "zh": "課程將以體驗式教學訓練，提升學員表達技巧、舞台技巧、臨場反應。本課程主要目的在教授學生以設計思考思維與策略，運用主題式課程實戰小組簡報及個人簡報，快速釐清簡報製作及表達過程中重點，提升修課學員個人簡報製作能力及表達能力，幫助學生在未來創業及就業上以出色之個人簡報能力獲得面試者及投資者的青睞，領先於起跑點取得優勢。",
+      "en": "The course will use experiential teaching training to improve students' expression skills, stage skills, and on-the-spot reactions. The main purpose of this course is to teach students establishing design thinking strategies. During the course practice group presentations and personal presentations training students to quickly clarify the key points in the process of presentation production and presentation, to improve the students' personal presentation production and presentation skills. Furthermore, assist students' entrepreneurship and employment in the future. Students who finished this course will be favored by interviewers and investors with his excellent personal presentation skills. And he will gain an advantage over the starting point."
+    },
+    "id": "360324",
+    "name": {
+      "zh": "企業最愛：高質感簡報溝通力",
+      "en": "Corporate's Favorite: High-quality Communication and Presentation Ability"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "產業接軌課程(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1569",
+        "code": "1569"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA02009",
+    "description": {
+      "zh": "本課程的主要目的在教授學生創新創業的實務，讓學生實際組成團隊進行創業，並有老師全程指導實踐創業，學校並提供基本創業基金與創業場地，輔導學生實際體會創業的過程。課程內容包括：創新創業精神、創新思考、自我了解、團隊組成、經營模式建立、創業財務、創業專題進行、創業競賽等。",
+      "en": "This course is to instruct students to practice the entrepreneurship and innovation. Students will form an entrepreneurship team. Teacher will guide the students throughout the entrepreneurship processes. University will offer students initial funds and incubation assistances. Students will gain practical experiences on how to establish entrepreneurship. The contents include entrepreneurial thoughts and actions, design thinking, self-understanding, team formation, business model development, entrepreneurship finance, entrepreneurship practices, entrepreneurship contests, and so on."
+    },
+    "id": "360325",
+    "name": {
+      "zh": "微型創業實戰",
+      "en": "Foundations of Management and Entrepreneurship"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "產業接軌課程(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1569",
+        "code": "1569"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02009",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA04056",
+    "description": {
+      "zh": "本校為強化學生的就業能力，加強學生的職場競爭力，開設「職涯講座課程」，藉由業界主管與人員介紹不同種類的工作模式，如派遣、公職、舒活族、獵人頭公司、國外企業等，提升學生對於國內外職場的認識，並進一步提升學生的就業率與競爭力。",
+      "en": "This course is designed to enhance student’s competitive ability in the workplace. The course contents include tips of interview, self-marketing in the workplace and the planning of the career life etc. By the topics, students will be equipped with a variety of presentation skills that needed in the workplace to raise the employment rate."
+    },
+    "id": "360326",
+    "name": {
+      "zh": "職涯講座課程",
+      "en": "Career Lecture"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "產業接軌課程(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1569",
+        "code": "1569"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA04056",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AA02001",
+    "description": {
+      "zh": "為了鼓勵以及幫助學生用技術或者商業模式，聯合學校老師或是跨校同學，用商業的手段共同解決社會或者商業問題，本課程將以衝刺班的形式，邀請有創業經驗的老師、業師，透過工作坊的形式，幫助學生逐週的推進創業進度以及創業競賽演練，目標是幫助學生落實創業想法，應用在社會中並且帶來改變。",
+      "en": "To encourage and help students using new technologies or new business models to solve problems in the society and the business world, this intense, pre-accelerator, 18-week course invites different professors and mentors with entrepreneurship experiences to help students develop their start-up ideas through workshops and startup competitions. The goal of this course is to help students realize their ideas and create actionable business solutions that can change the society."
+    },
+    "id": "360333",
+    "name": {
+      "zh": "創業 0 到 2 的思維與實作",
+      "en": "Start up: from 0 to all"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "姚長安",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=23683",
+        "code": "23683"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=15",
+        "code": "15"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02001",
     "syllabusLinks": []
   }
 ]

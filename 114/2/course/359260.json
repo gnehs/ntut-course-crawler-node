@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "張文中",
+    "email": "wchang@ntut.edu.tw",
+    "latestUpdate": "2025-12-16 12:22:53",
+    "objective": "Robotics course is offered to junior or senior undergraduate students interested in learning fundamentals of robotics. In addition to lectures on robotic manipulation, oral presentations and reports on robotics papers are required.  Main topics in the course are as follow.\n機器人學適合對機器人領域有興趣的大三或大四大學生修習，除教授機器人學相關學習內容外，鼓勵修課同學閱讀相關論文並演示簡報與撰寫報告，課程相關主題如下：\n1. Spatial descriptions and transformations 空間描述與數學轉換 \n2. Manipulator kinematics 機械臂運動學 \n3. Manipulator inverse kinematics 機械臂反向運動學 \n4. EKF-SLAM 擴展卡爾曼濾波器同步定位與建圖  \n5. Paper presentation and report 論文簡報與書面報告。\n\nCourse handouts will be available via iStudy web. A number of homework questions, based on problem sets in the textbook, will be assigned for students to complete in class in an open-book fashion. Each student is required to make an oral presentation and submit a report based on a technical paper in related topics. \n本課程於每週課前公布講義於北科 i 學園 +，修課同學將於課堂中開卷完成特選作業問題，藉以評估作業及學習狀況。期末簡報應研讀相關論文、撰寫書面報告並於課堂上口頭報告。",
+    "schedule": "Tentative schedule 暫定課程進度\n\n1\t02/25&02/26\t簡介 Introduction\n2\t03/04&03/05\t空間描述 Spatial descriptions\n3\t03/11&03/12\t轉換 Transformations\n4\t03/18&03/19\t方向表示 Representations for orientation\n5\t03/25&03/26\t連桿描述 Link description\n6\t04/01&04/02\t連桿座標系統 Affixing frames to links\n7\t04/08&04/09\t連桿轉換 Link transformations\n8\t04/15&04/16\t順向運動學範例 Forward kinematics examples\n9\t04/22&04/23\t期中考 Midterm examination\n10\t04/29&04/30\t代數與幾何解 Algebraic vs geometric solutions\n11\t05/06&05/07\t皮珀的解決方案 Pieper’s solution\n12\t05/13&05/14\t雅可比速度 Jacobians for velocities\n13\t05/20&05/21\t擴展卡爾曼濾波器 Extended Kalman Filter\n14\t05/27&05/28\t運動與測量 Motion And Measurement\n15\t06/03&06/04\t擴展卡爾曼濾波器同步定位與建圖 EKF-SLAM\n16\t06/10&06/11\t期末簡報 Final presentations (1/2)\n17\t06/17&06/18\t期末簡報 Final presentations (2/2)\n18\t06/24&06/25\t期末報告繳交 Final report due\n\nPS: The contents and order of lectures and final presentations will be adjusted according to actual needs 上述授課與期末簡報之順序將因應實際狀況調整",
+    "scorePolicy": "The final grade will be a weighted average of attendance 10%, in-class open-book homework 30%, midterm 30%, paper presentation and report 30%. 學期成績權重比例為出席 10%、課堂開卷作業 30%，期中考 30%，論文簡報與書面報告 30%。",
+    "materials": "Introduction to Robotics: Mechanics and Control, John J. Craig, Addison-Wesley Publishing Company.",
+    "consultation": "Prof. Wen-Chung Chang (02) 27712171 Ext. 2125, wchang@ntut.edu.twOffice hours: Check official EE websiteTA: Chi-Fu Ho 何基輔 (02) 27712171 Ext. 2130, t113318133@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "Contact Professor or TA via emails announced in iStudy. 請參考北科 i 學園 +(iStudy) 公告，以 email 聯絡授課教授或助教。Class group such as Line will be established in the first class.  Contact TA if you need to join class group or ask any questions. 將於第一週上課成立課程群組如 Line，請聯繫助教加入群組或詢問課程問題。",
+    "foreignLanguageTextbooks": true
+  }
+]

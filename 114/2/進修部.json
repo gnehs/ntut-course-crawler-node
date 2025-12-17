@@ -2729,7 +2729,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358324&code=22396"
+    ]
   },
   {
     "code": "1419998",
@@ -5835,7 +5837,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415308",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358720&code=11092"
+    ]
   },
   {
     "code": "5605001",
@@ -6039,7 +6043,9 @@
     "language": "",
     "notes": "綜科 110-2",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005124",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358731&code=11826"
+    ]
   },
   {
     "code": "5605055",
@@ -6687,13 +6693,28 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王立邦",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11725",
+        "code": "11725"
+      },
+      {
+        "name": "許晉源",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24373",
+        "code": "24373"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
       "fri": [],
       "sat": []
     },
@@ -6728,14 +6749,24 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "楊任軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12305",
+        "code": "12305"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
       "sat": []
     },
     "classroom": [],
@@ -6769,12 +6800,22 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "簡慧貞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=21896",
+        "code": "21896"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -6810,10 +6851,20 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "江謝令涵",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12492",
+        "code": "12492"
+      }
+    ],
     "time": {
       "sun": [],
-      "mon": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
       "tue": [],
       "wed": [],
       "thu": [],
@@ -7128,7 +7179,9 @@
     "language": "",
     "notes": "限碩一選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358969&code=10549"
+    ]
   },
   {
     "code": "7305072",
@@ -7244,7 +7297,9 @@
     "language": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405209",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359019&code=11931"
+    ]
   },
   {
     "code": "A405214",
@@ -7416,7 +7471,8 @@
     "notes": "進修部教室，限本班生 13 人修 (非本班生勿選)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359023&code=11393"
+      "ShowSyllabus.jsp?snum=359023&code=11393",
+      "ShowSyllabus.jsp?snum=359023&code=12304"
     ]
   },
   {
@@ -8351,6 +8407,11 @@
         "code": "11403"
       },
       {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12298",
+        "code": "12298"
+      },
+      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11440",
         "code": "11440"
@@ -8434,7 +8495,9 @@
     "language": "",
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359104&code=11982"
+    ]
   },
   {
     "code": "C275015",
@@ -9586,7 +9649,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359152&code=11982"
+    ]
   },
   {
     "code": "C285022",
@@ -9755,7 +9820,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359155&code=24132"
+    ]
   },
   {
     "code": "1401032",
@@ -11152,7 +11219,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359192&code=24316"
+    ]
   },
   {
     "code": "1401032",
@@ -12174,7 +12243,9 @@
     "language": "",
     "notes": "限碩二選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359218&code=10549"
+    ]
   },
   {
     "code": "A406001",
@@ -12390,11 +12461,21 @@
         "code": "3204"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王立邦",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11725",
+        "code": "11725"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
       "wed": [],
       "thu": [],
       "fri": [],
@@ -12627,7 +12708,9 @@
     "language": "",
     "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3115009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359351&code=24589"
+    ]
   },
   {
     "code": "3105196",
@@ -12735,7 +12818,9 @@
     "language": "",
     "notes": "限 15 人，需具微處理機基礎，綜科 327",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359415&code=11018"
+    ]
   },
   {
     "code": "4006001",
@@ -13632,6 +13717,11 @@
         "name": "林淑玲",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11403",
         "code": "11403"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12298",
+        "code": "12298"
       },
       {
         "name": "翁頌舜",
@@ -16091,7 +16181,9 @@
     "language": "",
     "notes": "工管四甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704055",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359902&code=22419"
+    ]
   },
   {
     "code": "3724012",
@@ -16752,7 +16844,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231411",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360125&code=11016"
+    ]
   },
   {
     "code": "4403025",

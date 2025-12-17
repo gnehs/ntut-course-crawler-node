@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "曾百由",
+    "email": "stephen@ntut.edu.tw",
+    "latestUpdate": "2025-12-16 12:46:23",
+    "objective": "嵌入式即時作業系統 (Real-Time OS) 與進階微控制器硬體架構與操作原理，程式語言介紹，數位及類比系統訊號感測與控制，通訊介面程式設計，韌體設計與專題實作。\nHardware structure and operating principles of micro-controllers, programming language, digital/analog signal sensing and control, communication protocols, firmware design and hands-on project.",
+    "schedule": "Week 1-2: Architecture of MCU\nWeek 3: Heap Memory Management\nWeek 4-5: Task Management\nWeek 6-7: Queue Management\nWeek 8:  Midtern\nWeek 9-10: Software Timer Management\nWeek 11-12: Interrupt Management\nWeek 13-14: Resource Management\nWeek 15-16: Event Groups\nWeek 17: Task Notifications\nWeek 18: Final &Project Presentation",
+    "scorePolicy": "Midterm 25%\nFinal 30%\nProject 30%\nParticipation 15%",
+    "materials": "Mastering the FreeRTOS Real Time Kernel",
+    "consultation": "上課及諮詢時間",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 無（None）",
+    "remarks": "須具備嵌入式控制器基礎開發能力",
+    "foreignLanguageTextbooks": true
+  }
+]
