@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "林郁修",
+    "email": "yhlin@ntut.edu.tw",
+    "latestUpdate": "2025-12-18 15:22:44",
+    "objective": "類神經網路具有 universal approximation 的特性（非線性函數近似器）；因此，其可被應用於控制器設計。另外，其也可被應用於解決分類 / 迴歸（函數近似）（時間序列建模與預測）問題。本課程內容包含：(1) 介紹，(2) 類神經網路，(3) 類神經網路應用於分類問題，(4) 類神經網路應用於迴歸（函數近似）問題以及 (5) 應用。\nThis course covers important concepts and topics of Artificial Neural Networks (ANN) that can be developed and used to solve classification or function approximation problems. The outline of this course is given as follows. (1) Introduction, (2) ANN, (3) ANN applied in classification, (4) ANN applied in function approximation, and (5) Applications.",
+    "schedule": "(若授課教室非為電腦教室，同學可攜帶筆電；於課堂練習，至多兩人一組)\n週次\t主題說明 (課程內容依實際授課情況彈性調整)\n1\t課程內容介紹與評分方式說明 (Overview of this course)\n2\t基礎 Python 程式設計介紹\n3\tAI 介紹 (Introduction to IoT/AI/Machine Learning/Deep Learning) (含數據分析 (監督式學習與非監督式學習) 先備基礎)\n\n4\t監督式學習 -- 感知器 (Perceptron) (I) (分類問題)\n5\t監督式學習 -- 感知器 (Perceptron) (II)\n6\t監督式學習 -- 感知器 (Perceptron) (III) (迴歸 / 函數近似問題) (Programming assignment #1)\n7\t監督式學習 -- 感知器 (Perceptron) (IV)\n8\tProgramming assignment #1 Due / Oral presentation\n\n9\t期中考 (口頭報告) (mid-term paper reading report Due / Oral presentation)\n\n10\t監督式學習 -- 多層感知器 / 倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (I) (分類問題)\n11\t監督式學習 -- 多層感知器 / 倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (II)\n12\t監督式學習 -- 多層感知器 / 倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (III) (迴歸 / 函數近似問題) (Programming assignment #2)\n13\t監督式學習 -- 多層感知器 / 倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (IV)\n14\tProgramming assignment #2 Due / Oral presentation\n\n15\t非監督式學習 -- k-Means clustering\n\n16\t課程彈性調整\n17\t期末考 I (口頭報告) (Term-/final-project or paper reading report Due / Oral presentation (Part I))\n18\t期末考 II (口頭報告) (Term-/final-project or paper reading report Due / Oral presentation (Part II))",
+    "scorePolicy": "- 學習總成績: 85 起算\n- 作業 (assignments): 至多 +5 (Optional) (兩次 / PPT only) (Two programming assignments: No assignment turned in late will be accepted)\n- 期中論文口頭報告 (mid-term paper reading report): 至多 +5 (Optional)\n- 期末專題 / 論文報告 (term-/final-project report): 至多 +5 (Optional) (每人) (The term-/final project provides an opportunity for you to use tools/principles and techniques from class to build something interesting of your choice.)",
+    "materials": "- Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, Learning From Data, AMLBook, 2012.\n- Chin-Teng Lin and C. S. George Lee, Neural Fuzzy Systems: A NeuroFuzzy Synergism to Intelligent Systems, Prentice Hall, 1996.\n- 李允中、王小璠、蘇木春．模糊理論及其應用 (精裝本)(第三版)．出版商：全華．出版日：101/1/18．\n- 教師自編教材 /lecture notes (Lectures will be distributed through our University's iPlus-learning system)",
+    "consultation": "1. e-mail: yhlin@ntut.edu.tw2. 課程 LINE 群組 (將於開學第二週創立供修課同學加入)",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

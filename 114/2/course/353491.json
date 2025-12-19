@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "許穎超",
+    "email": "yingchaohsu@ntut.edu.tw",
+    "latestUpdate": "2025-12-18 13:45:47",
+    "objective": "本課程旨在介紹現代電子與半導體元件構裝（Electronic/Device Packaging）的基本原理、材料特性與製程技術。課程內容涵蓋由晶片（die）至系統層級（system-level）的構裝架構，說明封裝在電性、熱管理、機械可靠度與系統整合中的關鍵角色。\n學生將學習各類封裝形式（如 wire bonding、flip chip、BGA、CSP、2.5D/3D IC 等），並理解常用構裝材料（如金屬、介電層、封裝樹脂、基板材料）之物理、化學與熱機械特性。\n此外，課程亦介紹先進封裝趨勢，包括晶圓級封裝（WLP/FOWLP）、中介層（interposer）、Through-Silicon Via (TSV)／Through-Glass Via (TGV)、異質整合（heterogeneous integration）與可靠度測試方法。",
+    "schedule": "第 1 週\n課程介紹與元件構裝概論：電子產品發展趨勢、封裝在半導體產業中的角色\n\n第 2 週\n半導體元件與封裝層級：晶片（Die）、封裝（Package）、基板（Substrate）與系統整合\n\n第 3 週\n傳統封裝技術（一）：Wire Bonding 封裝原理、材料與應用\n\n第 4 週\n傳統封裝技術（二）：Flip Chip、BGA、CSP 封裝結構比較\n\n第 5 週\n封裝用材料（一）：金屬材料（Cu、Al、Au）與互連機制\n\n第 6 週\n封裝用材料（二）：介電層、封裝樹脂（EMC）與基板材料\n\n第 7 週\n封裝製程流程：Die attach、RDL、Underfill、Molding 製程介紹\n\n第 8 週\n晶圓級封裝（WLP）與扇出型晶圓級封裝（FOWLP）技術\n\n第 9 週\n期中考週\n\n第 10 週\n2.5D/3D IC 封裝概念：中介層（Interposer）與異質整合\n\n第 11 週\n垂直互連技術：Through-Silicon Via（TSV）製程與材料議題\n\n第 12 週\n新興互連技術：Through-Glass Via（TGV）與玻璃基板應用\n\n第 13 週\n熱管理與散熱設計：封裝中之熱傳機制與材料選擇\n\n第 14 週\n封裝可靠度（一）：熱應力、CTE 不匹配與失效機制\n\n第 15 週\n封裝可靠度（二）：可靠度測試方法（Thermal Cycling、HTOL 等）\n\n第 16 週\n先進封裝趨勢：Chiplet、CoWoS、異質整合封裝案例介紹\n\n第 17 週\n產業案例分析與技術發展趨勢討論\n\n第 18 週\n期末考週或專題報告",
+    "scorePolicy": "出席率 : 10% (請假請預先告知)\n 測驗 - 1 (Week 5): 15%\n 期中考 (Week 9): 15%\n 測驗 - 2 (Week 14): 15%\n 期末考 (Week 18): 35%\n 討論 Q&A: 10% (1Q +1 分，上限 10 分)\n 通知補考 (補考者學期末最高成績：70 分)",
+    "materials": "使用自編教材 / Use of self-made materials",
+    "consultation": "1. 陳金聖教授，自動化科技研究所暨創新前瞻科技研究學院院長 (Pro. Chin-Sheng Chen, Dean of iFirst) 2. 曾釋鋒教授，半導體科技碩士學位 學程主任)( Pro. Shih-Feng Tseng, Direct, Master Program in Semiconductor Technology )",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 無（None）",
+    "remarks": "NA",
+    "foreignLanguageTextbooks": false
+  }
+]

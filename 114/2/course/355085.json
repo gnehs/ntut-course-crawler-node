@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "張漢利",
+    "email": "hendri@mail.ntut.edu.tw",
+    "latestUpdate": "2025-12-18 09:58:40",
+    "objective": "課程目的在於培養學生運用統計軟體進行資料分析與統計推論的實務能力，並透過實作與討論深化對統計方法的理解。課程強調以互動、說明與同儕學習作為學習歷程的一部分，鼓勵學生透過解釋、提問與討論來建構統計思維。課程內容配合統計推論之核心概念，透過 Python 與 R 進行操作、模擬、診斷與結果解讀。\n\nThe course aims to develop students’ ability to apply statistical tools for data analysis and statistical inference through hands-on practice. Learning emphasizes interaction, explanation, and peer learning as integral parts of the process. Students are encouraged to build statistical understanding by discussing, explaining, and questioning methods and results. Course activities align with core concepts of statistical inference and are implemented using Python and R for computation, simulation, diagnostics, and interpretation.",
+    "schedule": "Week 1: Course orientation and software setup\nWeek 2: Joint distributions and correlation\nWeek 3: Random variables and simulation\nWeek 4: Descriptive statistics\nWeek 5: Sampling distributions\nWeek 6: Point estimation and standard error\nWeek 7: Confidence intervals\nWeek 8: Hypothesis testing\nWeek 9: Two-sample inference\nWeek 10: Nonparametric methods\nWeek 11: Simple linear regression\nWeek 12: Regression diagnostics\nWeek 13: Introduction to multiple regression\nWeek 14: Integrated simulation and inference practice\nWeek 15: Comprehensive lab practice\nWeeks 16–18: Flexible use for review or assessment",
+    "scorePolicy": "In-Class Lab Assignments: 55%\nInteraction and Peer Teaching: 35%\nLearning Engagement: 10%",
+    "materials": "Rigdon, S. E., Fricker, Jr, R. D., and Montgomery, D. C. (2024). Introduction to Probability and Statistics for Data Science: with R. Cambridge: Cambridge University Press.",
+    "consultation": "Email and Office Hours. Consultations are available during the instructor’s announced office hours. Prior email appointment is recommended.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

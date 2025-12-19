@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "傅遠智",
+    "email": "fuyc20@gmail.com",
+    "latestUpdate": "2025-12-18 20:14:50",
+    "objective": "本門課程旨在提供給博士生熟悉並掌握最先進的資料分析技術，以具備與國際頂尖研究型大學博士生相當甚至超越的資料分析能力。課程的第一部分將介紹準實驗設計，幫助博士生掌握因果關係的理念與技術，第二部分將介紹自然語言處理，幫助博士生掌握文字等非結構性資料，並從中獲得寶貴訊息，第三部分將介紹公開資料取得的技術，以掌握全世界的數位足跡以作為研究素材之用，第四部份將介紹人工智慧在數據分析技術上的應用，熟悉並掌握人機協同合作的數據科學家的日常工作，第五部分將介紹 LLM 在模擬社會科學上的潛力，包括代理人模型等。本課程最終將打開本所博士生的視野，奠定日後在數據科學以及人工智慧時代成為第一流社會科學研究人員的堅實基礎。\nThis course is designed to provide doctoral students with the opportunity to become familiar with and master cutting-edge data analysis techniques, enabling them to acquire data analysis capabilities comparable to, or even surpassing, those of doctoral students at leading international research universities. The first part of the course introduces quasi-experimental designs, helping doctoral students grasp the concepts and techniques of causal inference. The second part covers natural language processing, equipping students with the skills to analyze unstructured data such as text and extract valuable insights. The third part focuses on techniques for accessing open data, enabling students to harness global digital footprints as research materials. The fourth part explores the application of artificial intelligence in data analysis, training students to understand and master the daily practices of data scientists working in human–AI collaboration. The fifth part introduces the potential of large language models (LLMs) in simulating social sciences, including applications such as agent-based modeling. Ultimately, this course aims to broaden the horizons of doctoral students, laying a solid foundation for them to become first-rate social science researchers in the era of data science and artificial intelligence.",
+    "schedule": "第一周：Python 作業環境介紹與設定\n第二周：資料清理\n第三周：人工智慧在資料視覺化的應用\n第四周：迴歸模型\n第五周：準實驗設計 - 傾向分數配對法\n第六周：準實驗設計 - 斷點迴歸法\n第七周：準實驗設計 - 倍差法\n第八周：機器學習因果關係\n第九周：動態爬蟲與數位資料擷取\n第十周：網路 API 實作\n第十一周：自然語言處理\n第十二周：人工智慧應用在文本判讀\n第十三周：對話式人工智慧在社會科學的應用\n第十四周：地理資訊系統與開放街道圖\n第十五周：LLM 與代理人模型\n第十六周：運動健康照護 AI 場域參訪\n第十七周：小組期末報告\n第十八周：小組期末報告",
+    "scorePolicy": "小組期末報告 50%、個人出缺席 50%",
+    "materials": "課程將提供 python 程式碼",
+    "consultation": "請於每周一或周三預約諮詢，本課程並備有課程助教，協助教學 python 程式撰寫",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "本課程涉及最前瞻的數據分析技術，修課學生除了上課掌握數據分析的邏輯外，需自行規畫課後練習時間，才能有助於提升學習成效。",
+    "foreignLanguageTextbooks": false
+  }
+]
