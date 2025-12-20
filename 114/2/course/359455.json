@@ -2,13 +2,13 @@
   {
     "name": "莊賀喬",
     "email": "hchuang@ntut.edu.tw",
-    "latestUpdate": "2025-12-11 10:51:50",
-    "objective": "藉由主流神經網路 TensorFlow 框架，操作 Python3 程式，實作諸多機器學習與深度學習神經網路應用，包含影像分類、物件偵測、生成式 AI 與大型語言模型 (LLM) 等等。此課程會使用到 Google Colab 及 PC 端安裝的 Anaconda Python 程式。\n\nUse the mainstream TensorFlow framework to implement many machine learning and deep learning neural network applications, including image classification, object detection and natural language processing, etc.",
-    "schedule": "第 1 週\t人工智慧的基本觀念\n資料、問題類型、演算法的分類與範例\n人工智慧演算法用途的基本常識與概念\n第 2 週\t迴歸分析 － 單因子線性迴歸\n第 3 週\t機器學習 － 決策樹 - 1、2\n第 4 週\t深度學習神經網路 － 神經網路架構、如何學習\n第 5 週\t運動會，放假一次\n第 6 週\t深度學習神經網路 － 推論、資料增強\n第 7 週\t深度學習神經網路 － 預訓練模型\n第 8 週\t深度學習神經網路 － 遷移學習、微調\n第 9 週\t期中考\n第 10 週\t淺談 LLM / DLI 課程 RAG\n第 11 週\t物件偵測 YOLOV4\n第 12 週\tNLP 自然語言處理 － 遞歸神經網路 - 1\n第 13 週\tNLP 自然語言處理 － 遞歸神經網路 - 2\n第 14 週\tNLP 自然語言處理 － 遞歸神經網路 - 3\n第 15 週\t淺談生成網路 － 自動編碼器\n第 16 週\t淺談生成網路 － GAN / 神經風格轉換\n第 17 週\t準備期末展示\n第 18 週\t期末展示",
+    "latestUpdate": "2025-12-19 14:41:05",
+    "objective": "提升學生對於生成式 AI / 大語言模型之理論基礎與程式設計能力，藉由實作練習\n熟悉 AI 技術與程式設計之實務應用，培養未來科技時代的 AI 技術人才。\n\nThis course aims to enhance students' theoretical foundation and programming skills in generative AI/large language models, and through hands-on exercises, familiarize them with the practical applications of AI technology and programming, thereby cultivating AI talent for the future technological era",
+    "schedule": "第 1 週 人工智慧的基本觀念資料、問題類型、演算法的分類與範例人工智慧演算法用途的基本常識與概念\n第 2 週 迴歸分析 - 單因子線性迴歸\n第 3 週 迴歸分析 - 多因子迴歸\n第 4 週 機器學習 - 決策樹 - 1\n第 5 週 機器學習 - 決策樹 - 2\n第 6 週 深度學習神經網路 - 神經網路架構、如何學習深度學習神經網路 - 推論、資料增強\n第 7 週 深度學習神經網路 - 預訓練模型、遷移學習、微調\n第 8 週 Hugging Face LLM 管線實作 \n第 9 週 期中考 \n第 10 週 LLM 應用開發 1 / DLI 課程 - Building LLM Applications With Prompt Engineering\n第 11 週 LLM 應用開發 2 / DLI 課程 - Building LLM Applications With Prompt Engineering\n第 12 週 LLM 應用開發 3 / DLI 課程 - Building LLM Applications With Prompt Engineering\n第 13 週 LLM 應用進階 1 / DLI 課程 - Rapid Application Development with Large Language Models\n第 14 週 LLM 應用進階 2 / DLI 課程 - Rapid Application Development with Large Language Models\n第 15 週 LLM 應用進階 3 / DLI 課程 - Rapid Application Development with Large Language Models\n第 16 週 簡介各類多模態 AI 代理、AI Curation、Ethical AI\n第 17 週 準備期末展示 作業\n第 18 週 期末展示 期末成果展示",
     "scorePolicy": "出席率 10%\n作業 30%\n期中考 25%\n期末展示 35%",
-    "materials": "自編教材，課程完成之後可取得 NVIDIA 原廠電子證書一張",
+    "materials": "自編教材，課程完成之後可取得 NVIDIA DLI 原廠電子證書兩張。",
     "consultation": "透過 每週五上午 9:00 的 Office Hour 綜合科館 325 室 可諮詢所有與課程相關的內容第 17、18 周 課程諮詢管道 Line ID: hochiao0917  與線上課程為 https://meet.google.com/kre-kjaz-uza",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
     "foreignLanguageTextbooks": false

@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "彭祖乙",
+    "email": "johnpeng@mail.ntut.edu.tw",
+    "latestUpdate": "2025-12-19 16:09:19",
+    "objective": "本課程旨在介紹人工智慧（AI）領域包含各種機器學習的開發與實作，特別關注如何使用 Python 進行模型的開發與部屬。課程將涵蓋深度學習的基本概念、常見的 AI 框架（如 TensorFlow、Keras），並深入探討如何利用 Python 編程語言來設計、訓練與優化 AI 模型。此外，課程也將重點討論人工智慧在開發與部屬過程中需要考量的安全性問題，從資料安全與可稽核性，AI 透明度，模型加密與攻擊防範等，提供學生一套全面的安全檢核框架。學生將學習如何確保 AI 系統在實際應用中具備高度的安全性與可靠性，並瞭解如何在 AI 部屬的不同階段識別與解決潛在的安全風險。\nThis course aims to introduce the development and implementation of various machine learning techniques in the field of Artificial Intelligence (AI), with a particular focus on how to use Python for model development and deployment. The course will cover the fundamental concepts of deep learning, popular AI frameworks (such as TensorFlow and Keras), and will delve into how to use the Python programming language to design, train, and optimize AI models. Additionally, the course will emphasize the security considerations necessary during the development and deployment of AI systems, including data security and auditability, AI transparency, model encryption, and attack prevention. Students will be provided with a comprehensive security framework to evaluate these concerns. They will also learn how to ensure the high security and reliability of AI systems in practical applications, and how to identify and mitigate potential security risks at various stages of AI deployment.",
+    "schedule": "Week 1: Introduction \nWeek 2: Python review  \nWeek 3: ML data processing\nWeek 4: Supervised learning algorithm \nWeek 5: Unsupervised learning algorithm \nWeek 6:  NN Basic and PBL project\nWeek 7:  Forward propagation and Back propagation \nWeek 8:   CNN and Dataset \nWeek 9: Mid-term\nWeek 10:　RNN & LSTM\nWeek 11-13:    Generative AI\nWeek  14:   Reinforcement Learning\nWeek   15,16  AI DevOPS Security \nWeek 17 & 18 Final Term",
+    "scorePolicy": "• Homework, class participation: 30%\n• Midterm report & presentation: 30%\n• Final project: 40%",
+    "materials": "Google ML Course : https://developers.google.com/machine-learning\nHands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (3nd Ed.)",
+    "consultation": "johnpeng@mail.ntut.edu.twThe course website will be listed on https://tipeng.wixsite.com/school/",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

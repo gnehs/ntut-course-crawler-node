@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "賴冠廷",
+    "email": "ktlai@ntut.edu.tw",
+    "latestUpdate": "2025-12-19 13:38:49",
+    "objective": "The goal of this course is to give students a broad overview of state-of-the-art deep learning algorithms, and teach students how to develop deep learning applications by hands-on coding examples. Most examples taught in this class are based on the TensorFlow framework. We will cover many different fields including image classification, object detection, natural language processing, reinforcement learning and generative adversarial networks.",
+    "schedule": "Course website: http://www.aiotlab.org/teaching/dl_app.html\n\n1.\tIntroduction to Deep Learning\n2.\tApplied Math (Linear Algebra, Probability, Calculus)\n3.\tMachine Learning Basics\n4.\tTensorFlow & Keras        \n5.\tConvolutional Neural Networks  (CNN)      \n6.\tAdvanced Keras API & PyTorch\n7.\tNatural Language Processing (NLP), Word Embedding, Self-supervised Learning\n8.\tMidterm exam\n9.\tRecurrent Neural Networks (RNN) & Long Short-term Memory (LSTM)\n10.\tAttention is all you need! Attention and Transformer\n11.\tLarge Language Models (LLMs), ChatGPT, Gemini, DeepSeek\n12.\tRetrieval Augmentation Generation (RAG)\n13.\tObject Detection and Segmentation\n14.\tGenerative Adversarial Networks (GAN) and Diffusion models\n15.\tDeep Reinforcement Learning and Stable Baseline\n16.\tGraph Convolution Networks (GCNs)\n17.\tFinal project demo\n18.\tFinal exam",
+    "scorePolicy": "Homework (40%), Midterm and Final Exam (35%), Final Project (15%), Quizzes and attendance (10%)",
+    "materials": "1. Francois Chollet, “Deep Learning with Python, 2nd edition” Manning, 2021\n2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, “Deep Learning,” MIT Press, 2017\n3. Latest publications on CVPR, NIPS, ICML, AAAI, ICLR\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html",
+    "consultation": "FB Group: https://www.facebook.com/groups/2231151677158713Email: ktlai@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG10：減少不平等（Reduced Inequalities）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.Any announcements will be posted in Microsoft Teams.Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713",
+    "foreignLanguageTextbooks": true
+  }
+]

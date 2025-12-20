@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "孔繁傑",
+    "email": "fjkung@ntut.edu.tw",
+    "latestUpdate": "2025-12-19 13:42:07",
+    "objective": "培養學生使用多通道波束形成器技術應用在降噪、降混響，並使用 Matlab 撰寫多通道語音增強演算法。學生可以學習到: 1. 空間取樣概念。2. 延遲相加波束形成器技術。3. 最小變異無失真響應波束形成器技術。4. 線性限制最小變異波束形成器技術。5. 廣義旁辦消除波束形成器技術。6. 多通道維也納濾波器降噪降混響技術。7. 線性卡爾曼濾波器結和廣義旁辦消除波束形成器技術。\nStudents will learn to use multichannel beamformer techniques and MATLAB for speech enhancement. Students will learn: 1. The Spatial sampling concept. 2. Delay-and-sum (DAS) beamforming technique. 3. Minimum variance distortionless response (MVDR) beamforming technique. 4. Linearly constrained minimum variance (LCMV) beamforming technique. 5. Generalized sidelobe canceller (GSC) beamforming technique. 6. Multichannel Wiener filtering for denoising and dereverberation. 7. Integrated sidelobe cancellation and linear prediction Kalman filter (ISCLP)",
+    "schedule": "Week 1: Course introduction\nWeeks. 2-4: Review of STFT and classical optimal filtering (Homework 1)\nWeeks. 5-8: Spatial filtering introduction: DAS, LCMP, LCMV, GSC, MPDR, MVDR algorithms (Homework 2)\nWeeks. 9-12: Multichannel Wiener filtering (MWF), BMWF, ISCLP algorithms introduction (Homework 3)\nWeeks. 13-16: Subspace-based methods for source counting (Homework 4)\nWeeks. 17-18: Final presentation",
+    "scorePolicy": "Quiz: 30%, Homework: 30%, Term project: 30%, Participation: 10%, Bonus",
+    "materials": "References-\n1. J. Benesty, J. Chen, and Y. Huang. Microphone Array Signal Processing, Springer\n2. M. R. Bai, J.-G. Ih, and J. Benesty. Acoustic Array Systems: Theory, Implementation, and Application, Wiley\n3. I. Kodrasi and S. Doclo, \"Joint late reverberation and noise power spectral density estimation in a spatially homogeneous noise field,\" ICASSP, 2018.\n4. T. Dietzen, S. Doclo, M. Moonen, and T. van. Waterschoot, \"Integrated sidelobe cancellation and linear prediction Kalman filter for joint multi-microphone speech dereverberation, interfering speech cancellation, and noise reduction,\" IEEE Transactions on Audio, Speech, and Language Processing, 2020.\n5. F.-J. Kung, Microphone array signal processing for speaker counting, speech enhancement, and source separation in adverse environments, Ph.D. dissertation, National Tsing Hua University, Taiwan, Jan. 2024",
+    "consultation": "Email: fjkung@ntut.edu.twOffice hours: Tuesday (9:00-10:00), Thursday (9:00-12:00) Office: 綜合科館 518",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

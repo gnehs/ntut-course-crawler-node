@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "彭祖乙",
+    "email": "johnpeng@mail.ntut.edu.tw",
+    "latestUpdate": "2025-12-19 16:10:10",
+    "objective": "本課程將帶領學生從基礎的機器學習概念開始，逐步學習各種機器學習演算法與實作技巧，並將所學應用於實際問題中。課程內容涵蓋監督式學習、非監督式學習、強化學習等機器學習範疇，並將使用 Python 程式語言與 scikit-learn、TensorFlow 等熱門機器學習框架進行實作。本課程預計使用 EMI 授課。\nThis course will guide students from fundamental machine learning concepts, gradually learning various machine learning algorithms and implementation techniques, and applying what they have learned to real-world problems. The course content covers supervised learning, unsupervised learning, reinforcement learning, and other areas of machine learning. Students will use Python programming language along with popular machine learning frameworks such as scikit-learn and TensorFlow for hands-on implementation.",
+    "schedule": "Week 1: Introduction \nWeek 2: Python review \nWeek 3: ML tools \nWeek 4: ML data processing\nWeek 5: Regression \nWeek 6: Supervised learning algorithm (1)\nWeek 7: Supervised learning algorithm (2)\nWeek 8: Unsupervised learning algorithm (2)\nWeek 9: Mid-term\nWeek 10:  NN Basic and PBL project\nWeek 11:  Forward propagation \nWeek 12:  Back Propagation \nWeek 13:   CNN(1)\nWeek 14:   CNN(2) and Dataset \nWeek 15:　RNN & LSTM\nWeek 16:    ML Deployment\nWeek 17 & 18 Final Term",
+    "scorePolicy": "• Homework, class participation: 30%\n• Midterm report & presentation: 30%\n• Final project: 40%",
+    "materials": "Google ML Course : https://developers.google.com/machine-learning\nHands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (3nd Ed.)",
+    "consultation": "johnpeng@mail.ntut.edu.twThe course website will be listed on https://tipeng.wixsite.com/school/",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
