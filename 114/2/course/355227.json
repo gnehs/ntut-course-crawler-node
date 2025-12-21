@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "白敦文",
+    "email": "twp@ntut.edu.tw",
+    "latestUpdate": "2025-12-21 08:42:48",
+    "objective": "本課程將初步介紹資料科學之基礎，帶領學程學生學習基本程式設計及相關工具應用，如何由手上之現有資料或網路資料進行發想及定義問題、學習使用適當演算法技術，由數據中探索資料之特殊樣式，提供最佳 AI 決策支援之依據。\nThis course introduces fundamental concepts of data science. Guide students to learn basic programming and application tools. Students will learn how to analyze data in hand or collect practical data from Internet, and try to define new and creative problems. In addition, students will also learn basic algorithms to approach the solutions. Exploring and discovering the special patterns of data can provide a way for the best AI decision support.",
+    "schedule": "第 1 週：課程介紹 / 資料分析概觀 / 商業智慧 (0224/0226)\n   \t第 2 週：統計基礎 (0303/0306) \n\t第 3 週：資料倉儲 (0310/0313)\n\t第 4 週：資料探勘 / 資料視覺化 (0317/0320)\n\t第 5 週：決策樹分析 (0324/0327)\n\t第 6 週：迴歸分析 (0331) **0403 清明節補假\n\t第 7 週：迴歸分析 (0407/0409)  \n\t第 8 週：單純貝式分析 (0414/0416)  **0414 第一次小考\n..      第 9 週：期中考週 0424 期中考試週  0421 不上課 (學生複習及詢問) \n\t第 10 週：類神經網路 (0428) 0501 放假\n\t第 11 週：類神經網路 (0512/0515)\n\t第 12 週：類神經網路 / 群集分析............  (0515/0508)\n\t第 13 週：群集分析 (0519/0522)\n\t第 14 週：群集分析 / 關聯規則探勘 (0526/0529)\n\t第 15 週：關聯規則探勘 (0602/0605)\n\t第 16 週：推薦系統支持向量機 (0609/0912) \n\t第 17 週：支持向量機 / 網路探勘 (0616)  0619 端午節放假一天\n\t第 18 週：第二次小考 (0623) 期末考 (0626)",
+    "scorePolicy": "程式相關作業 (20%)、小考 (20%)、期中考試 (30%)、期末考試 (30%)",
+    "materials": "1.\tLecture notes:  北科 i 學園\n(https://istudy.ntut.edu.tw/learn/index.php)\n1.\tPython Data Science Handbook by Jake VanderPlas (https://github.com/jakevdp/PythonDataScienceHandbook)\n2.\tData Analytics made accessible by Anil Maheshwari\n3.\tData Science from Scratch : First Principles with Python, 2/e by Joel Grus \n4.\tAn Introduction to Statistical Learning by Gareth James/Daniela Witten/Trevor Hastie/Robert Tibshirani (https://www.statlearning.com/)",
+    "consultation": "每週一、週二 16:00-18:00 @ 1524 室 (Dr. Pai) / 週四 16:00~18:30 @ 1621 (古雲鄉) (宏裕科技大樓 Hung-Yu Research Tech. Building  )",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "本課程主要是學習資料科學之數據分析技術基礎，目標是帶領學生學習如何使用機器學習技術分析大數據。",
+    "foreignLanguageTextbooks": true
+  }
+]

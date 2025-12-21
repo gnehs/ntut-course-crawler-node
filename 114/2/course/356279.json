@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "紀乃文",
+    "email": "nwchi@ntut.edu.tw",
+    "latestUpdate": "2025-12-20 15:43:33",
+    "objective": "資訊檢索（Information Retrieval）是搜尋引擎背後的技術基礎，以給定的查詢詞彙找出帶有相關資訊的文件，能夠處理與比較未結構化或半結構化的文字資料。在人工智慧與機器學習技術飛越成長的當代，自然語言處理（Natural Language Processing）及文本探勘（Text Mining）輔助人們在散亂的文本當中發掘有意義的資訊。傳統的資訊檢索理論在文本探勘的任務當中則扮演了重要的輔助角色，其賦與將文件以向量表達的基礎，亦即使諸多人工智慧應用能夠順利的與文本探勘任務接軌。\n\n本課程將教導修課同學資訊檢索、自然語言處理與資料探勘的理論基礎，以及各種新穎的人工智慧與機器學習應用如何取代傳統方法。並且訓練修課同學使用現成的程式語言套件來分析自己手邊的文本資料。\nInformation Retrieval (IR) is the process that retrieves the information which is relevant to a specific information need from a data collection. Search engine systems provides a famous example of IR applications. In recent years, with the growth of Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP), many of the AI applications can help discover useful information in unstructured or semi-structured text collections, such a process is called Text Mining. The traditional IR technique also play an important role to support the AI applications. It can vectorize the texts and make it possible to compare the similarities between different pieces of text.\n\nThis course aims to train the enrolled students to learn the basic concept of IR, NLP, and AI applications which are relevant to Text Mining tasks. In addition, this course also trains the enrolled students to use existing tools and software packages which can support the AI applications.",
+    "schedule": "1\t課程介紹\n2-3\t資訊檢索的理論基礎\n4-6\t類神經網路的基礎\n7-8   捲積神經網路與 YOLO\n9\t期中提案報告\n10-11\t循環神經網路：RNN, LSTM 與 GRU\n12-13\tseq2seq 問題與 Encoder-Decoder 架構\n14-15\tAttention：注意力機制與 Transformer\n16-17\t生成式 AI 與多模態 AI\n18\t期末報告",
+    "scorePolicy": "課堂表現 (35%)、作業 (35%)、期末報告（30%）",
+    "materials": "C. D. Manning, P. Raghavan, and H. Schütze, Introduction to Information Retrieval, Cambridge University Press, 2008.\nChristopher D. Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, The MIT Press, 1999.",
+    "consultation": "nwchi@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
