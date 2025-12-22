@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "陳紅章",
+    "email": "hctran@ntut.edu.tw",
+    "latestUpdate": "2025-12-21 20:39:31",
+    "objective": "本課程介紹主題包括基本的影像處理算法，如直方圖均衡化；影像濾波與卷積；輪廓提取、霍夫變換，以及模式辨識與分類。\nThis course introduce basic image processing algorithm such as histogram equalization; Image Filtering and Convolution; Contour Extractions, Hough Transform , Pattern Recognition and Classification",
+    "schedule": "Weeks 1-2: Introduction to Image and Signal Processing\nOverview of image and signal processing\nBasics of digital image representation\nIntroduction to MATLAB or Python for image and signal processing\n\nWeeks 3-4: Image Enhancement Techniques\nHistogram equalization\nSpatial domain methods (smoothing, sharpening)\nFrequency domain methods (Fourier transform)\n\nWeeks 5-6: Image Filtering and Convolution\nConvolution operation\nLinear and nonlinear filtering\nEdge detection techniques\n\nWeeks 7-8: Image Transformations\nImage rotation, scaling, and translation\nGeometric transformations\nIntroduction to wavelet transforms\n\nWeeks 9-10: Image Segmentation\nThresholding methods\nRegion-based segmentation\nClustering algorithms for segmentation\n\nWeeks 11-12: Image Feature Extraction\nFeature extraction techniques\nCorner detection and Harris corner detector\nSIFT and SURF feature descriptors\n\nWeeks 13-14: Introduction to Signal Recognition\nOverview of signal recognition\nSignal processing techniques\nFeature extraction from signals\n\nWeeks 15-16: Pattern Recognition and Classification\nIntroduction to pattern recognition\nSupervised and unsupervised learning\nClassification algorithms (e.g., SVM, k-NN)\n\nWeeks 17-18: Final Project and Review\nApplication of image and signal recognition techniques in a final project\nReview of key concepts\nPreparation for final assessments",
+    "scorePolicy": "Homework 30%\nMidterm 30%\nFinal Projects 40%",
+    "materials": "\"Image Processing, Analysis, and Machine Vision\" by Milan Sonka, Vaclav Hlavac, and Roger Boyle",
+    "consultation": "If students would like to consult about the course, please contact me via mail email address: hctran@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
