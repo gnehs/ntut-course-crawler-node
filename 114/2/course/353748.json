@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "田方治",
+    "email": "fctien@ntut.edu.tw",
+    "latestUpdate": "2025-12-22 15:23:16",
+    "objective": "本課程為程式語言之延伸，主要以 python 為程式語言，學習以下之相關主題\nObjective I: 熟悉 Python + CV2 + PyQt5 (Homework)\nObjective II: 熟悉基本數位影像處理之技術 (DIP) – Low level MV\nObjective III: 機器視覺相關軟硬體之使用 (CCD、鏡頭、光源)\nObjective IV: 加入 深度學習 (AI) 於機器視覺之應用 – High level MV\nObjective V: 訓練三種能力：團隊合作 、解決問題及自我學習\n\n主要工作包括：課堂作業、期末考、期末競賽 (Project)、Paper Reading\nNote: 建議自備隨身電腦上課",
+    "schedule": "Prerequisite:\n1. 本課程必須熟悉 Python 程式語言\n2.  建議修過程式語言 I, II\n\n本課程為程式語言之延伸，主要以 python 為程式語言，學習以下之相關主題\n1. CPU 及 GPU-based DIP (影像處理)  - CV2 及 Kornia: 為 PyTorch 之延伸 ，主要介紹: Image Load/Save/Display、enhancement、Filtering、Edge detection、Morphology、Warp * Geometry Transformation、Color、Segmentation、Data augmentation 等\n\n2. 深度學習：以 PyTorch、TorchVision 為主，介紹基本 Torch 語法，再深入介紹 CNN 網路架構 (LeNet、ResNet、DenseNet、EfficientNet)，Object Detection 網路 (Yolo)、AutoEncoder、UNet (Semantic Segmentation)、Anomaly Detection 等應用 (視課程進度)\n\n主要工作包括：課堂作業、期末考、期末競賽 (Project)、Paper Reading",
+    "scorePolicy": "課堂參與及作業 (Present in class) (15%)\nTest (Final: 上機考 or Take home，Week 17) (30%)\nLab 1 – 5 (PBL) (30%)\nProject – 小組專題競賽報告 (每組 30 分鐘) (25%)",
+    "materials": "Textbooks:\nA: Image Engineering, Processing, Analysis, and Understanding, Zhang, Yu-Jin, Cengage Learning Asia Pte Ltd. 2009.\nB: Digital Image Processing, R.Gonzalez, R.E. Woods, 2nd Edition, Prentice Hall\nC: Learning OpenCV, Coumputer Vision with the OpenCV Library, Gary Bradski and Adrian kaehler, O’Reilly (or other\nOpenCV books)\n 個人教材 (PPT) + Video\n 相關網頁: DeltaMooc (數位影像處理，請上網登錄)\n YouTube – 請搜尋 北科大 田方治 youtube，包括: Python、Machine Vision",
+    "consultation": "周三下午   office Hours. 15:00- 16:00",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "remarks": "Google Meet 上課網址：https://meet.google.com/pwu-amgf-sgm",
+    "foreignLanguageTextbooks": true
+  }
+]

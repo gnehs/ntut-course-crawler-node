@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "李達生",
+    "email": "f11167@ntut.edu.tw",
+    "latestUpdate": "2025-12-22 08:55:39",
+    "objective": "數學基礎簡介，轉換函數，訊號流程圖，實際系統數學模式之求得，狀態變數分析，線性系統之穩定度分析，控制系統之時域分析，根值軌跡圖，控制系統之頻域分析，另加入 AI 輔助控制之討論。\nBasic concepts of control systems and the mathematical background, transfer function, block diagram, signal flow graph, mathematical modeling of control systems, state variable analysis, stability analysis, time-domain analysis, root locus techniques, frequency-domain analysis. Additionally, AI assisted control will be discussed.",
+    "schedule": "1\t   控制理論課程綱要簡介\n2-3\t   古典控制理論\n4-5\t   PID Controller 設計\n6\t   線性代數基礎\n7\t   自動控制系統狀態空間\n8-9\t   狀態空間設計\n10\t   期中考\n11-12  強健控制系統設計\n13\t   模糊控制理論\n14-15  模糊控制系統設計實例\n16-17  AI 輔助控制\n18-19  AI 輔助控制系統設計實例",
+    "scorePolicy": "作業 50% + 考試 50%",
+    "materials": "參考書:\n1. Benjamin C. Kuo, Farid Golnaraghi, Automatic Control Systems, 8th Edition, WILEY, 2002.\n2. George Ellis., Control System Design Guide, 2nd Edition, ACADEMIC PRESS, 2000.\n3. Gene F. Franklin, J. David Powell, Abbas Emami-Naeini, Feedback Control of Dynamic Systems, 2nd Edition, ADDISON WESLEY, 1991.",
+    "consultation": "每週二下午綜合科館 610-1 提供諮詢",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "無",
+    "foreignLanguageTextbooks": false
+  }
+]

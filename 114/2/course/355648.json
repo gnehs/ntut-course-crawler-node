@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "田方治",
+    "email": "fctien@ntut.edu.tw",
+    "latestUpdate": "2025-12-22 15:28:48",
+    "objective": "本課程之目的在訓練大學部學生於撰寫程式之能力，程式語言 (一) 以 Python 為實踐主體，課程內容包含：複習 Operators and Expression、流程控制 (while, for, if-elif-else)、函式 (function)、module、data structure；並學習 input/output、OOP (Class 概念)、及 exception；並將介紹廣泛使用之標準程式庫，包括: sys、datetime、os、random、argparse、numpy、pandas、matplotlib、pillow、pyqt、scipy， scikit-learn、opencv-python、request、Selenium、beautifulsoup4、FastAPI 等；並將配合學期之 project，訓練同學團隊合作及系統開法之經驗。\n本學期開始，加入小組 project，建議使用 Vibe coding 方式建構個人喜歡之應用\n\nThe objective of this course is to cultivate the programming ability for undergraduates. Python is the language used in this course since its simplicity and widely applicable. The content of this course includes: reviewing operators and expression, flow control, functions, module, data structure, and extensively learning input/output, class (OOP), and exception. Besides, this course will introduce the commonly used packages, such as os, numpy, sys, pandas, matplotlib, pillow, pyqt, etc.  There will be a term project to let student experience team-working and system design and management.",
+    "schedule": "Week 1: Introduction to Python and python installation\nWeek 2: Operators and Expression\nWeek 3: 流程控制 I (Logic control)\nWeek 4: 流程控制 II (Logic control)\nWeek 5: 函式 (Function)\nWeek 6: module and function\nWeek 7: datta structure: tuple、list、dictionary\nWeek 8: input/output (file)\nWeek 9: Test #1\nWeek 10: Class I\nWeek 11: Class II\nWeek 12: Problem-Based Learning: Topic I – Database, openxl\nWeek 13: Problem-Based Learning: Topic II – Image Processing\nWeek 14: Problem-Based Learning: Topic III – Webserver\nWeek 15: Problem-Based Learning: Topic IV – GUI (PyQt)\nWeek 16: Problem-Based Learning: Topic IV – GUI (Statistics)\nWeek 17: Final\nWeek 18: Project Demo",
+    "scorePolicy": "作業及課堂練習\t\t                10%\n期中考 x2\t\t\t\t15% x2 = 25%\n期末考\t\t\t\t20% x2 = 25% \n小考 (多次，每次 1~2%)                 20%\nTeam Project                                   20%",
+    "materials": "1. byte-of-python (電子書 網路費版 中 / English)\n2. 個人教材 (PPT) + Video\n3. 相關網頁\n4. 個人  YouTube",
+    "consultation": "每週二下午  諮詢時間  14:00~16:00",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "Google meet 上課網址:https://meet.google.com/tqp-izpk-xfh 本課主要為工管系同學所設計之課程，外系同學建議不要選修此課程",
+    "foreignLanguageTextbooks": false
+  }
+]
