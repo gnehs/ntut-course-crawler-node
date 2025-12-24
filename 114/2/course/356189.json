@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "楊侑倫",
+    "email": "y.yang@ntut.edu.tw",
+    "latestUpdate": "2025-12-23 20:33:52",
+    "objective": "在諸多工程應用實例中，如 LED、晶片之散熱問題、流體在能源系統中之熱交換、燃料電池衍生之熱問題等，都與材料之規格選用、處理方法、加工方式、製造過程有明顯的相關性。本門課程主要針對材料工程與熱管理相關的技術問題，提出探討與對策，期使學生對熱管理在材料與系統工程上的應用提供適當的專業知識。\nIn engineering applications, such as LED, chip cooling, heat exchange in energy systems, fuel cells, are always comes with the problems of thermal generation. Meanwhile, manufacturing process and heat treatment of these products are also strongly dependent of the selection of material specifications. The purpose of this course would like to employ practical problems and lead the students in finding appropriate solutions or technical approaches to solve the related problems they could meet.",
+    "schedule": "本課程關注板金成形 (全英語授課)。第一部分主要探討 2 系列與 7 系列鋁合金之材料特性，及其於潛變時效成形熱處理之析出硬化機制及變形行為。第二部分為探討鋼鐵材料於熱衝壓成型過程之材料特性及熱管理。\n修課前提：須具備基礎材料科學及材料力學知識、及能解基本偏微分方程式之能力、基礎 matlab 程式語言能力、有限元素軟體 (Forge) 操作。",
+    "scorePolicy": "week 1: Introduction of the course\nweek 2: Introduction of Creep age forming\nweek 3: basic of constitutive equations for Creep age forming\nweek 4: basic of constitutive equations for Creep age forming2\nweek 5: matlab coding of constitutive equations\nweek 6: matlab coding of constitutive equations 2\nweek 7: Subroutine code\nweek 8: Implementation of subroutine code to FE \n\nweek 9: Midterm exam\n\nweek 10: Introduction of hot stamping\nweek 11: PDE constitutive equations for hot stamping\nweek 12: PDE constitutive equations for hot stamping\nweek 13: matlab coding of constitutive equations\nweek 14: matlab coding of constitutive equations 2\nweek 15: Subroutine code\nweek 16: Implementation of subroutine code to FE \nweek 17: Summary of course/ Repetition\nweek 18: Final exam",
+    "materials": "homework x10   20%\n作業 10 次\n\nattendence        10%\n出席\n\nIn class english oral report  40%\n每週課堂全英文口頭報告\n\nFinal Exam  30%\n期末考",
+    "consultation": "LIN, Jianguo. Fundamentals of materials modelling for metals processing technologies: theories and applications. World Scientific Publishing Company, 2015.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
