@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "莊澤光",
+    "email": "s2300072ray@ntut.edu.tw",
+    "latestUpdate": "2025-12-31 12:18:50",
+    "objective": "本課程旨在教授動畫與遊戲引擎（Unreal）於多媒體產業中的應用，並培養學生建置遊戲引擎可用素材（Game-Ready Models）的能力，內容涵蓋美術設計與基礎程式製作。\n課程採專案導向教學，帶領學生熟悉建模、材質設定、綁定等進階應用，並銜接遊戲引擎的整體製作流程。學生將實作使用 Unreal Blueprint、State Machine、State Tree 與 HLSL 等程式工具，有效控制素材於引擎中的呈現方式，建立設計與技術整合的能力。\n\nThis course introduces the use of animation and Unreal Engine in the multimedia industry, focusing on developing students’ ability to create Game-Ready Models for engine integration. The content covers both visual design and fundamental programming.\nThrough project-based learning, students will explore advanced workflows in modeling, texturing, and rigging, as well as how to integrate these assets into a game engine. They will work with tools such as Unreal Blueprint, State Machine, State Tree, and HLSL Code to gain hands-on experience in controlling and presenting assets within the engine, bridging design and programming skills.\nThe final assessment will be based on the completion of a simple game project.",
+    "schedule": "第 1 週\t課程目標、學期安排、上課評分規則、軟體準備、分組規劃說明。\t\t\n第 2 週\t遊戲引擎架構介紹、Unreal 介面介紹、基本軟體操作\n第 3 週\tUnreal 場景建構 - 室內關卡設計\t\t\n第 4 週\tUnreal 場景建構 - 室外關卡設計\t\t\n第 5 週\t介紹 Blueprint 函式庫與繼承種類的概念\t\t\n第 6 週\t使用 Level Blueprint 與 Blueprint Class \t\t\n第 7 週\t使用變數與時間軸創建關卡_關卡閘門\t\t\n第 8 週\t使用變數與運算優化關卡_關卡閘門與燈光\t\t\n第 9 週\t建構可程式化並動態改變的 Blueprint Class 場景_迷宮關卡\t\t\n第 10 週\t期中作品呈現\t期中遊戲關卡呈現。請附上藍圖程式的資料以利評分。本週無課程進度，請專心完成作業。\n第 11 週\t建構 Blueprint Class 簡易遊戲 AI 建構_A\t\t\n第 12 週\t建構 Blueprint Class 簡易遊戲 AI 建構_B\t\t\n第 13 週\tState Machine 建構，State Tree 應用\t\t\n第 14 週\t簡易特效說明\t\t\n第 15 週\t材質球功能與頻道介紹\t\t\n第 16 週\t後製特效 & Fog 場景霧\t\t\n第 17 週\t程式專案打包 (PC)\t\t\n第 18 週\t期末作品呈現\t期末遊戲專案呈現\t完整打包後上傳雲端。本週無課程進度，但請帶作品至現場測試。",
+    "scorePolicy": "A. 上課出缺席與課程參與 (含態度、課程互動、課堂作業)_30%\n\nB. 期中作業進度 (場景與 level Blueprint 應用)_30%\n1. 遊戲場景與藍圖程式完成 (詳情參考課程相簿)\n2. 繳交時間: Week 10\n\nC. 期末作業完整度 (課堂技術的應用、設計完整度、整體呈現)_40%\n1. 遊戲整體完成 (詳情參考課程相簿)\n2. 專案與藍圖報告書\n3. 繳交方式: Week 18，當週現場試玩評比。",
+    "materials": "<教材>\n1. 無，教師自編素材與影片。\n2. 參考 EpicGame 官方教學與手冊。\n\n< 其他 >\n1. 本課程建議同學先修過” 電腦輔助設計 (一) (二)”，再修習此課程為佳。\n2. 另本課程建議同學自備筆電，以利管理素材與程式版次。",
+    "consultation": "個人信箱: s2300072ray@gmail.com",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "FB Teaching Group: https://www.facebook.com/groups/226842116327396/",
+    "foreignLanguageTextbooks": false
+  }
+]
