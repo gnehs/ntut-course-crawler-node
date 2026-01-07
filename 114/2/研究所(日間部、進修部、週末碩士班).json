@@ -7903,9 +7903,9 @@
     ],
     "teacher": [
       {
-        "name": "江謝令涵",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12492",
-        "code": "12492"
+        "name": "林文印",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11110",
+        "code": "11110"
       },
       {
         "name": "胡憲倫",
@@ -7925,7 +7925,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7933,7 +7939,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=356845&code=12492",
+      "ShowSyllabus.jsp?snum=356845&code=11110",
       "ShowSyllabus.jsp?snum=356845&code=11128"
     ]
   },
@@ -7961,9 +7967,9 @@
     ],
     "teacher": [
       {
-        "name": "王立邦",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11725",
-        "code": "11725"
+        "name": "林文印",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11110",
+        "code": "11110"
       },
       {
         "name": "楊任軒",
@@ -7983,7 +7989,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7991,7 +8003,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006005",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=356846&code=11725",
+      "ShowSyllabus.jsp?snum=356846&code=11110",
       "ShowSyllabus.jsp?snum=356846&code=12305"
     ]
   },
@@ -9818,68 +9830,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=357050&code=12573"
     ]
-  },
-  {
-    "code": "7305073",
-    "description": {
-      "zh": "本課程為培育學生創業與品牌智財管理能力的課程。課程規劃一系列主題講座，邀請不同領域的專家學者組成授課團隊，分享自己的創業與品牌智財管理經驗，著重培養學生的創業管理能力，品牌管理能力與智財管理能力。",
-      "en": "The objective of this course is to develop the management abilities of entrepreneurship, brand, and intellectual property for students. The curriculum is designed to include the special lectures given by the experts in various fields. The lecture will focus on the experience sharing and case studies."
-    },
-    "id": "357052",
-    "name": {
-      "zh": "創業與品牌智財管理",
-      "en": "Management of entrepreneurship, brand, and intellectual property"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "化工所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3168",
-        "code": "3168"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "方旭偉",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11138",
-        "code": "11138"
-      },
-      {
-        "name": "陳春山",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11541",
-        "code": "11541"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "5",
-        "6",
-        "7"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "化工101",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=399",
-        "code": "399"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "網路預選限 45 人 (研究所)；大四化工所合開【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7305073",
-    "syllabusLinks": []
   },
   {
     "code": "7805004",
@@ -23508,7 +23458,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "博班必修，碩班選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007103",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359288&code=12492",
@@ -37720,6 +37670,47 @@
     "language": "",
     "notes": "2/28 輔課；3/6-9 正課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515011",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515003",
+    "description": {
+      "zh": "本課程在介紹如何運用企業內與員工之有關資源，包括其能力、知識、技術、態度和激勵，以配合企業整體競爭策略與形式。其內容有：人力資源分析、策略及目標、支援性作業之取得、發展及報酬、人力資源的維護。",
+      "en": "This course introduce how to apply the resource of the inter-corporation and employee, such as capacity, knowledge, technology, attitude and incentive, in order to cooperate business integrate competitive strategy."
+    },
+    "id": "360354",
+    "name": {
+      "zh": "人力資源管理",
+      "en": "Human Resource Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "12",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515003",
     "syllabusLinks": []
   }
 ]

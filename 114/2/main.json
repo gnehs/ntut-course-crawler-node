@@ -64656,9 +64656,9 @@
     ],
     "teacher": [
       {
-        "name": "江謝令涵",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12492",
-        "code": "12492"
+        "name": "林文印",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11110",
+        "code": "11110"
       },
       {
         "name": "胡憲倫",
@@ -64678,7 +64678,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -64686,7 +64692,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=356845&code=12492",
+      "ShowSyllabus.jsp?snum=356845&code=11110",
       "ShowSyllabus.jsp?snum=356845&code=11128"
     ]
   },
@@ -64714,9 +64720,9 @@
     ],
     "teacher": [
       {
-        "name": "王立邦",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11725",
-        "code": "11725"
+        "name": "林文印",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11110",
+        "code": "11110"
       },
       {
         "name": "楊任軒",
@@ -64736,7 +64742,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -64744,7 +64756,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006005",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=356846&code=11725",
+      "ShowSyllabus.jsp?snum=356846&code=11110",
       "ShowSyllabus.jsp?snum=356846&code=12305"
     ]
   },
@@ -66571,68 +66583,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=357050&code=12573"
     ]
-  },
-  {
-    "code": "7305073",
-    "description": {
-      "zh": "本課程為培育學生創業與品牌智財管理能力的課程。課程規劃一系列主題講座，邀請不同領域的專家學者組成授課團隊，分享自己的創業與品牌智財管理經驗，著重培養學生的創業管理能力，品牌管理能力與智財管理能力。",
-      "en": "The objective of this course is to develop the management abilities of entrepreneurship, brand, and intellectual property for students. The curriculum is designed to include the special lectures given by the experts in various fields. The lecture will focus on the experience sharing and case studies."
-    },
-    "id": "357052",
-    "name": {
-      "zh": "創業與品牌智財管理",
-      "en": "Management of entrepreneurship, brand, and intellectual property"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "化工所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3168",
-        "code": "3168"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "方旭偉",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11138",
-        "code": "11138"
-      },
-      {
-        "name": "陳春山",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11541",
-        "code": "11541"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "5",
-        "6",
-        "7"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "化工101",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=399",
-        "code": "399"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "網路預選限 45 人 (研究所)；大四化工所合開【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7305073",
-    "syllabusLinks": []
   },
   {
     "code": "7805004",
@@ -79932,7 +79882,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "博班必修，碩班選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007103",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359288&code=12492",
@@ -80784,78 +80734,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359313&code=11765"
     ]
-  },
-  {
-    "code": "3203102",
-    "description": {
-      "zh": "本課程為培育學生創業與品牌智財管理能力的課程。課程規劃一系列主題講座，邀請不同領域的專家學者組成授課團隊，分享自己的創業與品牌智財管理經驗，著重培養學生的創業管理能力，品牌管理能力與智財管理能力。",
-      "en": "The objective of this course is to develop the management abilities of entrepreneurship, brand, and intellectual property for students. The curriculum is designed to include the special lectures given by the experts in various fields. The lecture will focus on the experience sharing and case studies."
-    },
-    "id": "359314",
-    "name": {
-      "zh": "創業與品牌智財管理",
-      "en": "Management of entrepreneurship, brand, and intellectual property"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "化工四甲",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2780",
-        "code": "2780"
-      },
-      {
-        "name": "化工四乙",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2781",
-        "code": "2781"
-      },
-      {
-        "name": "化工四丙",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2782",
-        "code": "2782"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "方旭偉",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11138",
-        "code": "11138"
-      },
-      {
-        "name": "陳春山",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11541",
-        "code": "11541"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "5",
-        "6",
-        "7"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "化工101",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=399",
-        "code": "399"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "網路預選限 20 人 (大學部)；大四化工所合開【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3203102",
-    "syllabusLinks": []
   },
   {
     "code": "3104107",
@@ -102550,7 +102428,8 @@
     "notes": "桌球 K",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360109&code=23277"
+      "ShowSyllabus.jsp?snum=360109&code=23277",
+      "ShowSyllabus.jsp?snum=360109&code=10627"
     ]
   },
   {
@@ -113021,9 +112900,9 @@
       "wed": [],
       "thu": [],
       "fri": [
-        "1",
         "2",
-        "3"
+        "3",
+        "4"
       ],
       "sat": []
     },
@@ -113079,6 +112958,92 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003014",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C003015",
+    "description": {
+      "zh": "指導學生進行微學程相關研究，以培育其研發能力。每一位學生必須經指導教授選定微學程相關題目，獨立或數位同學成一組完成專題，並書寫印製。",
+      "en": "Supervise students in conducting research related to micro-curricula to cultivate their research and development capabilities. Each student must select a topic related to the micro-curriculum under the guidance of a faculty advisor and complete the project either individually or in groups with a few classmates, followed by writing and printing a final report."
+    },
+    "id": "360363",
+    "name": {
+      "zh": "微學程專題",
+      "en": "Micro course projects"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "4",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2772",
+        "code": "2772"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C003015",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C104006",
+    "description": {
+      "zh": "1. 台灣海域的地質概述，2. 海域的工程地質調查，3. 不同環境下的風場結構，4. 海流特性的調查與評估，5. 波浪特性的調查與評估，6. 鋼結構施工，7. 風機之運輸與安裝，8. 灌漿工程，9. 離岸變電站與基礎，10. 風機葉片之製作、安裝、維護與維修 11. 海纜鋪設工程 12. 構材防蝕技術 13. 沖刷防治 14 基樁鑽掘與噪音降檢",
+      "en": "1. Offshore geology description nearby Taiwan, 2. Offshore geotechnical site investigation, 3. Wind farm structures under different environmental conditions, 4. Investigation and evaluation of current properties, 5. Investigation and evaluation of wave properties, 6. Construction of steel structure, 7. Transportation and installation of wind turbines, 8. Grouting engineering, 9. Offshore substation and foundation , 10. Fabrication, installation, maintenance and repair of wind turbine blades, 11. Laying procedures of subsea power cables, 12. Corrosion-proof technologies, 13. Scouring-proof technologies, 14 Pile drilling and noise reduction"
+    },
+    "id": "360364",
+    "name": {
+      "zh": "離岸風機工程調查與施工",
+      "en": "Engineering investigation and construction for offshore wind turbines"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2561",
+        "code": "2561"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "6",
+        "7",
+        "8"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開，總整課程",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C104006",
     "syllabusLinks": []
   }
 ]
