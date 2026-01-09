@@ -32384,7 +32384,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "計中電腦教室，EMI",
+    "notes": "計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6502108",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355243&code=12242"
@@ -32443,7 +32443,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "計中電腦教室，EMI",
+    "notes": "計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6503112",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355245&code=12242"
@@ -59796,7 +59796,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木 205",
+    "notes": "土木三",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4216001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356292&code=11734"
@@ -67424,6 +67424,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3171",
         "code": "3171"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3175",
+        "code": "3175"
       }
     ],
     "teacher": [
@@ -67451,7 +67456,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA 和資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805117",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=357153&code=21405"
@@ -67535,6 +67540,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3171",
         "code": "3171"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3175",
+        "code": "3175"
       }
     ],
     "teacher": [
@@ -67562,7 +67572,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA 和資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805146",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=357163&code=24406"
@@ -74521,9 +74531,9 @@
     },
     "classroom": [
       {
-        "name": "一教302",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=10",
-        "code": "10"
+        "name": "一教1F",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=493",
+        "code": "493"
       }
     ],
     "people": "0",
@@ -74579,9 +74589,9 @@
     },
     "classroom": [
       {
-        "name": "一教1F",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=493",
-        "code": "493"
+        "name": "一教302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=10",
+        "code": "10"
       }
     ],
     "people": "0",
@@ -74808,11 +74818,6 @@
       "sat": []
     },
     "classroom": [
-      {
-        "name": "一教302",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=10",
-        "code": "10"
-      },
       {
         "name": "一教1F",
         "link": "Croom.jsp?format=-3&year=114&sem=2&code=493",
@@ -75162,9 +75167,9 @@
     },
     "classroom": [
       {
-        "name": "一教1F",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=493",
-        "code": "493"
+        "name": "一教302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=10",
+        "code": "10"
       },
       {
         "name": "一教301",
@@ -89818,7 +89823,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教303",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=46",
+        "code": "46"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -92491,9 +92502,9 @@
     },
     "classroom": [
       {
-        "name": "一教1F",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=493",
-        "code": "493"
+        "name": "一教302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=10",
+        "code": "10"
       }
     ],
     "people": "30",
@@ -96344,6 +96355,11 @@
         "name": "高分所",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3157",
         "code": "3157"
+      },
+      {
+        "name": "能源光電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3189",
+        "code": "3189"
       }
     ],
     "teacher": [],
@@ -96371,7 +96387,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新老師 / 英文授課",
+    "notes": "高分所和 EOMP 合開 / 新老師 / 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105010",
     "syllabusLinks": []
   },
@@ -113234,7 +113250,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "葉京澔老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003016",
     "syllabusLinks": []
   },
@@ -113260,7 +113276,13 @@
         "code": "2772"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林明",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24556",
+        "code": "24556"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -113320,7 +113342,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "欲修本課程請洽機電學院古先生，分機 4504",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003015",
     "syllabusLinks": []
   },
@@ -113413,5 +113435,58 @@
     "notes": "大研合開，總整課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C104006",
     "syllabusLinks": []
+  },
+  {
+    "code": "6016020",
+    "description": {
+      "zh": "本課程著重於環境污染物之微量監測與分析內容，此包括有機有毒物、重金屬之儀器分析原理、化學理論及分析方法。修習本課程宜有化學基礎。",
+      "en": "The course introduces monitoring and analysis for environment pollutants. It focuses the micro quantity analysis based on chemical theory. Modern instruments with high sensitivity will be also discussed."
+    },
+    "id": "360366",
+    "name": {
+      "zh": "污染監測與分析",
+      "en": "Monitoring and Analysis for Environmental Pollutants"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "環境所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3164",
+        "code": "3164"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林文印",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11110",
+        "code": "11110"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "億光 1342",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6016020",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360366&code=11110"
+    ]
   }
 ]

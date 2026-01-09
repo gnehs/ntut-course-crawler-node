@@ -2,7 +2,7 @@
   {
     "name": "莊賀喬",
     "email": "hchuang@ntut.edu.tw",
-    "latestUpdate": "2025-12-22 15:58:44",
+    "latestUpdate": "2026-01-08 16:56:25",
     "objective": "上課地點：先國際研發大樓一樓城市科學實驗室\n上課時間: 9 週密集式授課，周二 10:10-12:00\n課程大綱:\n本課程以實踐機器人和人工智慧應用為核心，採用美國麻省理工學院 (MIT) 的專案任務導向學習模式。透過結合講授、討論、實際應用和案分析，課程將會幫助學生深入理解人工智慧和機器人技術。學生有機會積極參與小組專案，透過情境思考實際應用所學知識，並親自操作機器學習工具和機器人平臺，以培養實際技能。\nThis course is designed for practical application of robotics and artificial intelligence (AI). It adopts the project-based learning model inspired by the Massachusetts Institute of Technology (MIT). The course combines lectures, discussions, practical applications, and case studies to provide students with an in-depth understanding of AI and robotics technology. Students will have the opportunity to engage in group projects, apply their knowledge in real-world scenarios, and gain hands-on experience with machine learning tools and robot platforms.",
     "schedule": "第 1 週\nROS 2 與機器人架構\n第 2 週\n節點與 Topic 通訊\n第 3 週\nROS 2 控制與操作\n第 4 週\nROS2 系統建構與機器人模擬\n第 5 週\n控制與硬體抽象\n第 6 週\n感測器整合與資料處理\n第 7 週\n應用案例分享：機器人操控與多機器人\n第 8 週\n專案進度與實作指導\n第 9 週\n專案展示與課程回顧",
     "scorePolicy": "個人每周實作作業 (第 1~5 周) 30%\n小組期中報告 (第八周) 40%\n成果展示 20%\n課堂參與討論 10%",
@@ -10,7 +10,7 @@
     "consultation": "每周二 上午 9-12 點為 Office hours",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "",
+    "remarks": "1. 需自備電腦，安裝 ROS2",
     "foreignLanguageTextbooks": false
   }
 ]

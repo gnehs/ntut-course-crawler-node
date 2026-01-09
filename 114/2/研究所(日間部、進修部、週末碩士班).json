@@ -3042,7 +3042,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木 205",
+    "notes": "土木三",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4216001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356292&code=11734"
@@ -10670,6 +10670,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3171",
         "code": "3171"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3175",
+        "code": "3175"
       }
     ],
     "teacher": [
@@ -10697,7 +10702,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA 和資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805117",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=357153&code=21405"
@@ -10781,6 +10786,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3171",
         "code": "3171"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3175",
+        "code": "3175"
       }
     ],
     "teacher": [
@@ -10808,7 +10818,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA 和資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805146",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=357163&code=24406"
@@ -16807,7 +16817,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16900,7 +16916,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同303A",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=119",
+        "code": "119"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16952,7 +16974,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17004,7 +17032,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17037,17 +17071,32 @@
         "code": "3197"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林宜玄",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=21643",
+        "code": "21643"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "C",
+        "D"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17329,7 +17378,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同303A",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=119",
+        "code": "119"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34615,6 +34670,11 @@
         "name": "高分所",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3157",
         "code": "3157"
+      },
+      {
+        "name": "能源光電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3189",
+        "code": "3189"
       }
     ],
     "teacher": [],
@@ -34642,7 +34702,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新老師 / 英文授課",
+    "notes": "高分所和 EOMP 合開 / 新老師 / 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105010",
     "syllabusLinks": []
   },
@@ -35862,7 +35922,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=118",
+        "code": "118"
+      }
+    ],
     "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
