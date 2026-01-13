@@ -1,5 +1,22 @@
 [
   {
+    "name": "教務處",
+    "href": "Subj.jsp?format=-3&year=114&sem=2&code=01",
+    "class": [
+      {
+        "id": "450",
+        "name": "遠距教學班(大學部)",
+        "href": "Subj.jsp?format=-4&year=114&sem=2&code=450"
+      },
+      {
+        "id": "3113",
+        "name": "遠距教學班(研究所)",
+        "href": "Subj.jsp?format=-4&year=114&sem=2&code=3113"
+      }
+    ],
+    "category": "校院級"
+  },
+  {
     "name": "體育室",
     "href": "Subj.jsp?format=-3&year=114&sem=2&code=10",
     "class": [
