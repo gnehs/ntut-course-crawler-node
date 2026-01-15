@@ -1538,7 +1538,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "100",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2174,13 +2180,7 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教307",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=48",
-        "code": "48"
-      }
-    ],
+    "classroom": [],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2486,7 +2486,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科610",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=301",
+        "code": "301"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2866,7 +2872,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "土木2F",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=260",
+        "code": "260"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3502,7 +3514,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3722,7 +3740,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科610",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=301",
+        "code": "301"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3832,7 +3856,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6083,7 +6113,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7672,57 +7708,6 @@
     ]
   },
   {
-    "code": "5905128",
-    "description": {
-      "zh": "本課程主要探討下列音訊編碼技術：MP-3,Dolby AC-3 及 DTS。課程內容涵蓋下列項目：1. 複習數位訊號處理 2.CD 片聲音還原 3. 多相位分解 4. 次頻段音訊編碼 5. 個案研究：MP-3,MPEG-2 AAC,AC-3 及 DTS 6.MPEG-4 合成音樂簡介",
-      "en": "1.This course mainly discusses various audio coding schemes such as MP-3,Dolby AC-3,and DTS.Topics covered in the course include:1.Review of digital signal processing 2.Audio reproduction from CD3.Polyphase decomposition4.Subband coding of audio signals5.Psychoacoustic models6.Case studies:MP-3,MPEG-2 AAC, AC-3,and DTS7.Introduction to Synthetic audio in MPEG-4"
-    },
-    "id": "356793",
-    "name": {
-      "zh": "音訊信號處理",
-      "en": "Digital Processing of Audio Signals"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資工所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3163",
-        "code": "3163"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [
-        "2",
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓234",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=467",
-        "code": "467"
-      }
-    ],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "英語授課，新聘",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905128",
-    "syllabusLinks": []
-  },
-  {
     "code": "5905131",
     "description": {
       "zh": "1. 單元測試 2. 互動測試 3. 整合測試 4. 分析與設計模型測試 5. 功能測試 6. 圖形介面測試 7. 系統測試",
@@ -8467,7 +8452,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8535,7 +8526,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=566",
+        "code": "566"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8588,7 +8585,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8651,7 +8654,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8816,7 +8825,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒202 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=573",
+        "code": "573"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10938,7 +10953,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=422",
+        "code": "422"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13264,7 +13285,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=566",
+        "code": "566"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13545,7 +13572,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13598,7 +13631,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1035",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=530",
+        "code": "530"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13656,7 +13695,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13709,7 +13754,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13762,7 +13813,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13814,7 +13871,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13867,7 +13930,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13920,7 +13989,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13972,7 +14047,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14524,7 +14605,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18996,7 +19083,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計106",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=387",
+        "code": "387"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19049,7 +19142,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計603",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=139",
+        "code": "139"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19984,7 +20083,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "光華館409",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=512",
+        "code": "512"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22671,7 +22776,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22724,7 +22835,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24362,7 +24479,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "思源講堂",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=505",
+        "code": "505"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24474,7 +24597,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "思源講堂",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=505",
+        "code": "505"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -25754,7 +25883,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27866,7 +28001,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -28598,7 +28739,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30971,7 +31118,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計603",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=139",
+        "code": "139"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31674,7 +31827,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31999,7 +32158,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計306",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=392",
+        "code": "392"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32105,7 +32270,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計106",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=387",
+        "code": "387"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34440,7 +34611,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35026,7 +35203,9 @@
     "language": "",
     "notes": "經管所和 IMBA 合開 / 哈佛",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705343",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359926&code=24629"
+    ]
   },
   {
     "code": "6505163",
@@ -35535,7 +35714,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "土木2F",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=260",
+        "code": "260"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35638,7 +35823,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36253,7 +36444,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37238,9 +37435,9 @@
     },
     "classroom": [
       {
-        "name": "先鋒402 ",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=554",
-        "code": "554"
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=566",
+        "code": "566"
       }
     ],
     "people": "18",
@@ -37635,7 +37832,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒601 ",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=565",
+        "code": "565"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38134,7 +38337,13 @@
         "code": "3152"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "許東亞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11098",
+        "code": "11098"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
