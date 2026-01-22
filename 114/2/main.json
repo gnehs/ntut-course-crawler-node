@@ -12630,7 +12630,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教504",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=61",
+        "code": "61"
+      }
+    ],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15700,7 +15706,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=438",
+        "code": "438"
+      }
+    ],
     "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15754,7 +15766,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教525",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
+        "code": "437"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18912,67 +18930,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2B02015",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354796&code=12440"
-    ]
-  },
-  {
-    "code": "2B02023",
-    "description": {
-      "zh": "1. 影像處理教學基礎 2. 影像輸出入系統 3. 點處理運算 4. 範圍影像處理 5. 頻域影像處理 6. 影像幾何轉換 7. 影像編碼 8. 影像分析",
-      "en": "1.Mathematic background of image processing 2.Input and output systems for the image processing 3.Point processes 4.Area processes 5.Image processes in the frequency domain 6.Geometric transformation 7.Image coding 8.Image analysis"
-    },
-    "id": "354802",
-    "name": {
-      "zh": "影像處理與實習",
-      "en": "Image Processing and Lab"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "4",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智動二",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3008",
-        "code": "3008"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "莊政達",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12201",
-        "code": "12201"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "7",
-        "8"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "3",
-        "4"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "六教226",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=423",
-        "code": "423"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "自備筆電",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=2B02023",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=354802&code=12201"
     ]
   },
   {
@@ -27630,9 +27587,9 @@
     },
     "classroom": [
       {
-        "name": "六教625",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=445",
-        "code": "445"
+        "name": "六教727",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=452",
+        "code": "452"
       }
     ],
     "people": "40",
@@ -27752,7 +27709,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教626",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=446",
+        "code": "446"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27876,9 +27839,9 @@
     },
     "classroom": [
       {
-        "name": "六教525",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
-        "code": "437"
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=438",
+        "code": "438"
       }
     ],
     "people": "20",
@@ -28170,9 +28133,9 @@
     },
     "classroom": [
       {
-        "name": "六教527",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=439",
-        "code": "439"
+        "name": "六教325",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=427",
+        "code": "427"
       }
     ],
     "people": "40",
@@ -28233,6 +28196,11 @@
         "name": "六教525",
         "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
         "code": "437"
+      },
+      {
+        "name": "六教625",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=445",
+        "code": "445"
       }
     ],
     "people": "39",
@@ -28288,7 +28256,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教626",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=446",
+        "code": "446"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -40682,9 +40656,9 @@
     ],
     "teacher": [
       {
-        "name": "鍾仁傑",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11357",
-        "code": "11357"
+        "name": "魏暘",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11975",
+        "code": "11975"
       }
     ],
     "time": {
@@ -40712,9 +40686,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3202033",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=355480&code=11357"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1400104",
@@ -41258,9 +41230,9 @@
     ],
     "teacher": [
       {
-        "name": "魏暘",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11975",
-        "code": "11975"
+        "name": "鍾仁傑",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11357",
+        "code": "11357"
       }
     ],
     "time": {
@@ -41288,9 +41260,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3202033",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=355497&code=11975"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1400104",
@@ -46151,7 +46121,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教525",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
+        "code": "437"
+      }
+    ],
     "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
@@ -46249,7 +46225,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教325",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=427",
+        "code": "427"
+      }
+    ],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
@@ -46305,9 +46287,9 @@
     },
     "classroom": [
       {
-        "name": "六教625",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=445",
-        "code": "445"
+        "name": "六教527",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=439",
+        "code": "439"
       }
     ],
     "people": "37",
@@ -46608,9 +46590,9 @@
     },
     "classroom": [
       {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=47",
-        "code": "47"
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=438",
+        "code": "438"
       }
     ],
     "people": "27",
@@ -46754,7 +46736,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
@@ -46851,7 +46839,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
@@ -46907,14 +46901,9 @@
     },
     "classroom": [
       {
-        "name": "六教625",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=445",
-        "code": "445"
-      },
-      {
-        "name": "六教525",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
-        "code": "437"
+        "name": "六教527",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=439",
+        "code": "439"
       }
     ],
     "people": "44",
@@ -53235,6 +53224,11 @@
       "sat": []
     },
     "classroom": [
+      {
+        "name": "三教201",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=333",
+        "code": "333"
+      },
       {
         "name": "六教325",
         "link": "Croom.jsp?format=-3&year=114&sem=2&code=427",
@@ -73313,7 +73307,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73371,7 +73365,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73423,7 +73417,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73475,7 +73469,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73533,7 +73527,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73579,7 +73573,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73635,7 +73629,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73687,7 +73681,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73745,7 +73739,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73803,7 +73797,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73855,7 +73849,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73907,7 +73901,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73965,7 +73959,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74017,7 +74011,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74075,7 +74069,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74127,7 +74121,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74179,7 +74173,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74231,7 +74225,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74283,7 +74277,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74335,7 +74329,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74387,7 +74381,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74445,7 +74439,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74497,7 +74491,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74549,7 +74543,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74607,7 +74601,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74659,7 +74653,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74711,7 +74705,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74757,7 +74751,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74813,7 +74807,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74871,7 +74865,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74929,7 +74923,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74981,7 +74975,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75033,7 +75027,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75085,7 +75079,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75135,7 +75129,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75191,7 +75185,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75243,7 +75237,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75295,7 +75289,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75347,7 +75341,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75405,7 +75399,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75463,7 +75457,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75521,7 +75515,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75579,7 +75573,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75633,7 +75627,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75693,7 +75687,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75753,7 +75747,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75807,7 +75801,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75861,7 +75855,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75921,7 +75915,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75981,7 +75975,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76041,7 +76035,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76095,7 +76089,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76155,7 +76149,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76215,7 +76209,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76263,7 +76257,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76321,7 +76315,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76375,7 +76369,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76440,7 +76434,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76505,7 +76499,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76565,7 +76559,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76619,7 +76613,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76673,7 +76667,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76733,7 +76727,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76793,7 +76787,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76853,7 +76847,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76907,7 +76901,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76961,7 +76955,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77015,7 +77009,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77080,7 +77074,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77140,7 +77134,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77205,7 +77199,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77265,7 +77259,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77330,7 +77324,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77390,7 +77384,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77438,7 +77432,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77496,7 +77490,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77556,7 +77550,7 @@
         "code": "9"
       }
     ],
-    "people": "0",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77615,7 +77609,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77678,7 +77672,7 @@
         "code": "493"
       }
     ],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77732,7 +77726,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77792,7 +77786,7 @@
         "code": "10"
       }
     ],
-    "people": "0",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77857,7 +77851,7 @@
         "code": "11"
       }
     ],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -92123,7 +92117,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 22 人",
+    "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 22 人 /new",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -92173,7 +92167,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀，限 22 人",
+    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀，限 22 人 /new",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -97033,13 +97027,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教525",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
-        "code": "437"
-      }
-    ],
+    "classroom": [],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -97163,9 +97151,9 @@
     },
     "classroom": [
       {
-        "name": "六教625",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=445",
-        "code": "445"
+        "name": "六教727",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=452",
+        "code": "452"
       }
     ],
     "people": "60",
@@ -104304,9 +104292,9 @@
     },
     "classroom": [
       {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=47",
-        "code": "47"
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=497",
+        "code": "497"
       }
     ],
     "people": "15",
@@ -112645,58 +112633,6 @@
     ]
   },
   {
-    "code": "9100149",
-    "description": {
-      "zh": "無論就量而言或就質而言，債編均為民法中最為重要之部分。本課程旨在向修課同學作民法債編之概括介紹，包括債編總論及債編各論。再者，此一介紹包含下列四個重點：一、民法債編之背景及理論二、民法債編之解釋三、民法債編於案例事實之適用四、民法債編與民法其他部分及民事訴訟法之結合參與本課程乃理解民法債編及民法整體之關鍵一步，修課同學將受益匪淺。",
-      "en": "\"Obligations\" is the most important part of the Civil Law, not only in quantity but in quality. This course aims to give participants a general introduction to \"Obligations\", including \"General Provisions for Obligations\" and \"Kinds of Obligations\". Furthermore, the introduction contains the following four points: 1. Background and theories of \"Obligations\".2. Interpretation of \"Obligations\".3. Application of \"Obligations\" to the facts.4. Combination of \"Obligations\", other parts of the Civil Law and the Civil Procedure Law.Attending this course is the critical step to understanding \"Obligations\" and the Civil Law as a whole, and it benefits participants a lot."
-    },
-    "id": "360315",
-    "name": {
-      "zh": "民法債編",
-      "en": "Civil Code Obligations"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "科技法律學程",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1212",
-        "code": "1212"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蘇倚德",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12438",
-        "code": "12438"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "8",
-        "9"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=9100149",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360315&code=12438"
-    ]
-  },
-  {
     "code": "9100140",
     "description": {
       "zh": "導引學生了解現今社會不同的科技公司所可能面對的智慧財產權訴訟相關議題，以此提高各公司對於智慧財產權之保護與運用，進而讓各科技公司在這全球化競爭的市場下，能夠更了解自己的優勢與權益。本課程將由不同的智慧財產權法律基礎開始介紹，內容包括權利取得要件與申請過程程序。透過了解基礎概念後，將此知識應用到訴訟實務上，包括各類智慧財產權法的訴訟程序問題與訴訟技巧。",
@@ -115260,6 +115196,215 @@
     "language": "",
     "notes": "台大謝舒凱，https://wooo.tw/XKbGmE8",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "360393",
+    "name": {
+      "zh": "機器導航與探索",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳亦超",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12605",
+        "code": "12605"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "清大胡敏君，https://wooo.tw/XKbGmE8",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360393&code=12605"
+    ]
+  },
+  {
+    "code": "AZF0001",
+    "description": {
+      "zh": "「金融科技創新專題實作」課程旨在結合理論與實務，培養學生於金融科技領域的創新思維與跨域應用能力。課程將引導學生運用人工智慧、大數據分析、區塊鏈、數位支付等新興技術，解決實際金融問題並發展具創新性的解決方案。透過專題導向學習方式，學生需組成團隊，從問題定義、技術選擇、原型設計到成果展示，完整經歷一個金融科技創新專案的開發流程。課程過程中將邀請業界專家進行實務分享與技術指導，並安排期中與期末專案簡報，以強化學生的表達與簡報能力。最終目標是提升學生的實作經驗與創業潛能，為未來投身金融科技相關職涯奠定堅實基礎。",
+      "en": "This course combines theory and practice to cultivate students’ innovative and interdisciplinary skills in financial technology. It explores the application of artificial intelligence, big data analytics, blockchain, and digital payments in solving real-world financial problems. Through project-based learning, students work in teams to complete the full FinTech project lifecycle, from problem identification to prototype development and presentation. Industry guest lectures and project presentations enhance practical experience, communication skills, and readiness for careers in the FinTech sector."
+    },
+    "id": "360394",
+    "name": {
+      "zh": "金融科技創新專題實作",
+      "en": "Practical Project in FinTech Innovation"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "管理學院(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3006",
+        "code": "3006"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12342",
+        "code": "12342"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "6",
+        "7",
+        "8"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "總整課程，先鋒教室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AZF0001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360394&code=12342"
+    ]
+  },
+  {
+    "code": "AZG0001",
+    "description": {
+      "zh": "本課程旨在結合理論與實務，深入探究比特幣區塊鏈的核心技術、在傳統金融以及去中心化金融（DeFi）的創新應用。課程分成三大主軸：1. 技術基礎：深入解析比特幣的核心技術架構，包括共識機制、加密算法、去中心化網絡等關鍵技術原理；2. 金融生態：探討比特幣在傳統金融與去中心化金融中的創新應用，分析其對現有金融體系的潛在衝擊。結合理論與實務，研究區塊鏈技術在跨境支付、實體資產代幣化（Real World Asset Tokenization）等領域的具體應用案例；3. 專題實作：通過專題實作模組，學生將運用所學設計並開發基於比特幣區塊鏈或 DeFi 的創新應用，從需求分析、技術設計到實際開發，完成一個具實用價值的專案。專題成果將通過展示與技術審查檢視，並輔以市場分析與報告撰寫，提升學生的實務能力與創新思維。本課程不僅幫助學生掌握比特幣區塊鏈與去中心化金融的理論與技術，還著重於培養解決問題的能力，並為學生在區塊鏈與數位資產領域的職業發展奠定堅實基礎。",
+      "en": "This course integrates theory and practice to examine Bitcoin blockchain technology and its applications in traditional finance and decentralized finance (DeFi). It introduces Bitcoin’s core architecture, including consensus mechanisms, cryptography, and decentralized networks, and explores use cases such as cross-border payments and real-world asset tokenization. Through project-based learning, students design and implement Bitcoin- or DeFi-based applications. Assessment includes technical reviews, presentations, and analytical reports, preparing students for careers in blockchain and digital asset ecosystems."
+    },
+    "id": "360395",
+    "name": {
+      "zh": "比特幣系統與去中心化金融專題",
+      "en": "Bitcoin System and Decentralized Finance Projects"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "管理學院(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3006",
+        "code": "3006"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12342",
+        "code": "12342"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "8",
+        "9",
+        "A"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "總整課程，Prof. Zucco2 小時",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AZG0001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360395&code=12342"
+    ]
+  },
+  {
+    "code": "C003009",
+    "description": {
+      "zh": "協助學員在完成訓練後：1. 對半導體機台的設計原理、操作與預防保養有基礎的概念。2. 對半導體設備實務工作有初步的了解。3. 能結合學校所學理論與產業實務。",
+      "en": "After completing the training, the trainees will: 1.Know the basic concept of the design principle, operation and preventive maintenance about semiconductor tools.2.Have a preliminary understanding of what an equipment engineer does in Fab.3.Be able to combine the theories learned from the school with industrial practices."
+    },
+    "id": "360397",
+    "name": {
+      "zh": "半導體機台基礎",
+      "en": "Tool Introduction in Semiconductor"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2772",
+        "code": "2772"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾百由",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11018",
+        "code": "11018"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "密集授課，至台積電，詳教學大綱",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C003009",
     "syllabusLinks": []
   }
 ]
