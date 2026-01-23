@@ -41260,7 +41260,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3202033",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=355497&code=11357"
+    ]
   },
   {
     "code": "1400104",
@@ -47774,7 +47776,13 @@
         "code": "3132"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "巴鎮",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24655",
+        "code": "24655"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -47791,7 +47799,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "需修習本課程始可畢業，巴鎮",
+    "notes": "需修習本課程始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400104",
     "syllabusLinks": []
   },
@@ -55198,7 +55206,13 @@
         "code": "3144"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "巴鎮",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24655",
+        "code": "24655"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -55215,7 +55229,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "需修習本課程始可畢業，巴鎮",
+    "notes": "需修習本課程始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400104",
     "syllabusLinks": []
   },
