@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "尤信程",
+    "email": "scyou@ntut.edu.tw",
+    "latestUpdate": "2026-02-06 19:15:33",
+    "objective": "人類在從事數學演算、推理交談、觀察等各類動作時，均展現出 \"智慧\" 的現象。人工智慧即是利用電腦結合基本理論在有限度的範圍內從事上述各項工作，其中涵蓋了－自然語言了解、機器人學、電腦視覺、類神經網路、專家系統、自動化定理證明等，而本課程則主要在於提供必要之基礎，主要內容包括：1. 搜尋法則，2. 命題與敘述邏輯，3. 知識系統與知識表達， 4. 馬可夫鍊及其應用，5. 最佳化技術，6. 機器學習， 7. 增強式學習，8. 其他相關技術。\nArtificial intelligence seeks to introduce the elements of intelligence into programs and systems in application domain. Topics will include 1. Searching methods 2. Propositional and Predicate logic 3. Knowledge-based systems and representation of knowledge 4. Markov chain and its applications, 5. Optimization techniques, 6.Machine learning, 7. Reinforcement learning, 8. Related topics.",
+    "schedule": "Week 1\n Class announcement\n Introduction to artificial intelligence\nWeek 2 \n Knowledge representation\n Semantic network\n Propositional logic & first-order logic\n Expert system\n Frames\n Problem solving & search\n BFS, DFS, UCS\nWeek 3 \n Problem solving & search (Cont’d)\n Heuristics Search and A*\n Game trees\n Minimax\n α-β pruning\n Dynamic programming\nWeek 4\n Constraint satisfaction problems (CSP) \n Overview of optimalization\n Continuous & discrete functions\nWeek 5: \n Continuous optimalization\n Gradient descent\n Lagrange multiplier\n Discrete functions\n Linear programming and interior-point method\n Branch-and-bound method\n Dynamic programming (again)\nWeek 6\n Metaheuristic optimization algorithms\n Genetic algorithm\n Simulated annealing\n Others\n Intro to probability\nWeek 7\n Markov chain\n Monte Carlo (MC) methods\n Computing pi via MC\nWeek 8\n MCMC (Markov Chain Monte Carlo) & Metropolis–Hastings algorithm\n Computing pi via MCMC \n Gibbs sampling\n Application in topic modeling (LDA) with Gibbs sampling\n Bayesian Networks & inference\nWeek 9 MT\nWeek 10 \n MT sol\n Hidden Markov chain (HMM)\nWeek 11\n HMM (cont’d)\n Application of HMM\nWeek 12 \n Quick review of feedforward neural networks\n CNN and deep learning\nWeek 13\n Markov decision process (MDP) \n Introduction to reinforcement learning\n Policy function and value function\nWeek 14 \n Introduction to reinforcement learning (Cont’d)\n Q learning\n DQN\n Policy-based RL\n REINFORCE \nWeek 15\n Policy-based RL (Cont’d)\n A3C\n PPO\nWeek 16\n Spare time if progress lags\n Additional topics (if time permits)\n Monte Carlo Tree Search (MCTS)\n Large-language models (LLMs)\nWeek 17 \n Final exam\nWeek 18\n Presentation (Morning 10 -12, Internet)",
+    "scorePolicy": "MT 50 %\nFinal 50 %\nTerm Project (Bonus) 10 %",
+    "materials": "Lecture noted available.",
+    "consultation": "Contact me withEmail: scyou@mail.ntut.edu.twto arrange time for consulting.",
+    "課程對應SDGs指標": "無（None）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "Exam time is 3 hoursExam dates MT: 4/21Final 6/16Project presentation: 6/23 online using re Teams",
+    "foreignLanguageTextbooks": false
+  }
+]

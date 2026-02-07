@@ -6503,6 +6503,11 @@
     ],
     "teacher": [
       {
+        "name": "李宜庭",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12271",
+        "code": "12271"
+      },
+      {
         "name": "張元震",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=12501",
         "code": "12501"
@@ -20839,7 +20844,9 @@
     "language": "",
     "notes": "電機二甲乙丙合開，預選限 40 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3102100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=354848&code=24666"
+    ]
   },
   {
     "code": "3102102",
@@ -21039,7 +21046,9 @@
     "language": "",
     "notes": "電機二甲乙丙合開，預選限 40 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3112702",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=354856&code=24666"
+    ]
   },
   {
     "code": "1001002",
@@ -33868,7 +33877,13 @@
         "code": "3034"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李宜庭",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12271",
+        "code": "12271"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -33894,7 +33909,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機械二乙、機電二合開；新聘教師",
+    "notes": "機械二乙、機電二合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3003009",
     "syllabusLinks": []
   },
@@ -57469,7 +57484,9 @@
     "language": "",
     "notes": "新聘專任教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=355885&code=12677"
+    ]
   },
   {
     "code": "1400103",
@@ -60871,7 +60888,13 @@
         "code": "3152"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李宜庭",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12271",
+        "code": "12271"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -60896,7 +60919,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "甲、乙組選修；新聘教師",
+    "notes": "甲、乙組選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005127",
     "syllabusLinks": []
   },
@@ -65076,7 +65099,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -66059,7 +66082,7 @@
         "code": "489"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -66512,9 +66535,9 @@
     ],
     "teacher": [
       {
-        "name": "李東明",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12437",
-        "code": "12437"
+        "name": "范政揆",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11463",
+        "code": "11463"
       }
     ],
     "time": {
@@ -66543,7 +66566,7 @@
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5816202",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=356642&code=12437"
+      "ShowSyllabus.jsp?snum=356642&code=11463"
     ]
   },
   {
@@ -71297,7 +71320,7 @@
         "code": "529"
       }
     ],
-    "people": "2",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -72623,7 +72646,7 @@
         "code": "566"
       }
     ],
-    "people": "20",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73396,7 +73419,7 @@
         "code": "343"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73539,7 +73562,7 @@
         "code": "553"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73592,7 +73615,7 @@
         "code": "573"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73643,7 +73666,7 @@
         "code": "27"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73762,7 +73785,7 @@
         "code": "156"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74107,7 +74130,7 @@
         "code": "474"
       }
     ],
-    "people": "18",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74165,7 +74188,7 @@
         "code": "439"
       }
     ],
-    "people": "15",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74617,7 +74640,7 @@
         "code": "551"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -79542,7 +79565,7 @@
         "code": "10"
       }
     ],
-    "people": "47",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -79928,7 +79951,9 @@
     "language": "",
     "notes": "中級 3",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E0204",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357650&code=12676"
+    ]
   },
   {
     "code": "14E0304",
@@ -81229,7 +81254,13 @@
         "code": "2900"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "謝心心",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12674",
+        "code": "12674"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -81255,9 +81286,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘二",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3314148",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359230&code=12674"
+    ]
   },
   {
     "code": "3314191",
@@ -81346,6 +81379,11 @@
         "name": "邱德威",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11370",
         "code": "11370"
+      },
+      {
+        "name": "謝心心",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12674",
+        "code": "12674"
       }
     ],
     "time": {
@@ -81365,10 +81403,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限碩二修習   ，  新聘二",
+    "notes": "限碩二修習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7805005",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359233&code=11370"
+      "ShowSyllabus.jsp?snum=359233&code=11370",
+      "ShowSyllabus.jsp?snum=359233&code=12674"
     ]
   },
   {
@@ -81932,7 +81971,13 @@
         "code": "3169"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "謝心心",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12674",
+        "code": "12674"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -81957,9 +82002,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘二，EMI",
+    "notes": "EMI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815126",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359253&code=12674"
+    ]
   },
   {
     "code": "3113602",
@@ -89713,7 +89760,7 @@
         "code": "156"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -90019,7 +90066,7 @@
         "code": "399"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -90077,7 +90124,7 @@
         "code": "399"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -90135,7 +90182,7 @@
         "code": "87"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -91361,7 +91408,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905107",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359540&code=24671"
+    ]
   },
   {
     "code": "A504257",
@@ -92071,64 +92120,6 @@
     ]
   },
   {
-    "code": "5403222",
-    "description": {
-      "zh": "本課程著重於商業溝通及實務的應用。每個實例討論均能幫助學生了解英文商務應用，並且提供學生去研習，分析並將個人論點英文表達。課程的重點有二：加強學生理解英文在商業領域的重要性，增強學生在商業案件中的綜合分析的表達能力。此外，由實際的商業實務中反應出各種未來可能出現的不同挑戰，讓學生有機會學習應對。根據課程規定，學生須具備高級英文的能力跟基本的商業知識。",
-      "en": "The course explores the intersection of the English language communication and cases in real business world. Each case to be discussed in this course illustrates the many aspects of business operations and provides students with the opportunities to examine, to analyze and to present their views in English. The emphasis of the course is two-fold. While reinforcing the importance of business communications in English and enhancing students' analytical competence in discussing the cases, real-world business stories reflect a multitude of challenges to resolve and opportunities to embrace in hopes that students are well-prepare to cope with all these in the future to come. As the course prescribes, students are required to have an advanced English level and fundamental business knowledge."
-    },
-    "id": "359579",
-    "name": {
-      "zh": "經貿英文個案研討",
-      "en": "Business Case Studies in English"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "英文二",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3030",
-        "code": "3030"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "楊韻華",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11171",
-        "code": "11171"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "5",
-        "6"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同401",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=120",
-        "code": "120"
-      }
-    ],
-    "people": "5",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "計入 <全球商務英語溝通微學程> 原課程學分由 3 調整為 2",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5403222",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359579&code=11171"
-    ]
-  },
-  {
     "code": "5403206",
     "description": {
       "zh": "文化研究以文學，社會批評，通俗文化，人類學、科學、女性主義和種族批評等觀點，對文化現象做深入的觀察、思考、及批判。本課程著重應用文化研究之豐碩成果，啟發學生認識文化問題，並培養其觀察，思考，及批判能力。不僅能因之促成社會進步，更重要的是能藉由對本國及異國文化差異及價值觀的深入瞭解，將知識應用在跨文化溝通上，協助本國企業成功地國際化。",
@@ -92834,64 +92825,6 @@
     ]
   },
   {
-    "code": "5825225",
-    "description": {
-      "zh": "1. 體認永續在設計之重要性 2. 熟悉永續之理論、知識、方法與應用 3. 解析綠色設計、生態環保、節能減碳 4. 綜合永續設計與工業設計實務",
-      "en": "This course will assist in laying a basic foundation of knowledge for using 'sustainable design' assessment tools and rating schemes to inform the design process. The course will also enable students to engage in self-directed studies such as research and continuing development of professional careers."
-    },
-    "id": "359609",
-    "name": {
-      "zh": "永續設計講座",
-      "en": "Special Topics on Sustainable Design"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3162",
-        "code": "3162"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "范政揆",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11463",
-        "code": "11463"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計207",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=389",
-        "code": "389"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "講座課程",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5825225",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359609&code=11463"
-    ]
-  },
-  {
     "code": "5807073",
     "description": {
       "zh": "產品企劃對於一家公司來說非常重要，因為如果做得好，它可以減少資源支出，增加收入並創造利潤。新產品開發時，產品企劃的嚴謹與洞見為影響產品成敗的重要因素，本課程將介紹產品企劃的基本觀念、產品開發流程、產品策略、產品生命週期、市場區隔與企畫書的撰寫等。本課程以實際產品企劃案例作為教材，導入情境式教學，讓學生融入產品企劃個案之實境，於課堂上共同討論如何擬定個案的處理方式與企劃方法，達到理論與實務充分的對話。",
@@ -93058,7 +92991,7 @@
         "code": "490"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -93265,7 +93198,13 @@
         "code": "2911"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張烔堡",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12684",
+        "code": "12684"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -93291,9 +93230,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課，新進教師 - 張老師",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359638&code=12684"
+    ]
   },
   {
     "code": "6105097",
@@ -96734,7 +96675,9 @@
     "language": "",
     "notes": "以 CEFR B1 為目標，新制多益",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400521",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359799&code=12676"
+    ]
   },
   {
     "code": "1400521",
@@ -96790,7 +96733,9 @@
     "language": "",
     "notes": "以 CEFR B2 為目標，新制多益",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400521",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359800&code=12676"
+    ]
   },
   {
     "code": "3204124",
@@ -96919,7 +96864,7 @@
         "code": "87"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -101239,7 +101184,13 @@
         "code": "2794"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "張烔堡",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12684",
+        "code": "12684"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -101270,9 +101221,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課，新進教師 - 張老師",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404064",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359983&code=12684"
+    ]
   },
   {
     "code": "5605039",
@@ -102558,7 +102511,9 @@
     "language": "",
     "notes": "新聘專任教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05129",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360023&code=12677"
+    ]
   },
   {
     "code": "3105036",
@@ -103365,7 +103320,13 @@
         "code": "447"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -103383,7 +103344,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "籃球 A, 陳人瑜",
+    "notes": "籃球 A",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": []
   },
@@ -103825,7 +103786,13 @@
         "code": "580"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -103843,7 +103810,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "籃球 C, 陳人瑜",
+    "notes": "籃球 C",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": []
   },
@@ -104441,7 +104408,13 @@
         "code": "581"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -104459,7 +104432,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "籃球 D, 陳人瑜",
+    "notes": "籃球 D",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": []
   },
@@ -104901,7 +104874,13 @@
         "code": "583"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -104919,7 +104898,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "籃球 F, 陳人瑜",
+    "notes": "籃球 F",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": []
   },
@@ -105645,7 +105624,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "桌球 G",
+    "notes": "桌球 H",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360089&code=10697"
@@ -105829,7 +105808,13 @@
         "code": "585"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -105847,7 +105832,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "籃球 H, 陳人瑜",
+    "notes": "籃球 H",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": []
   },
@@ -107902,7 +107887,13 @@
         "code": "2642"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -107920,7 +107911,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "籃球 M, 陳人瑜",
+    "notes": "籃球 M",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
     "syllabusLinks": []
   },
@@ -109367,7 +109358,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410142",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360172&code=12675"
+    ]
   },
   {
     "code": "1418003",
@@ -111204,7 +111197,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410068",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360207&code=12675"
+    ]
   },
   {
     "code": "1415001",
@@ -112188,7 +112183,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360224&code=12675"
+    ]
   },
   {
     "code": "1410240",
@@ -117944,7 +117941,13 @@
         "code": "2561"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "徐偉朝",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24673",
+        "code": "24673"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -117995,7 +117998,13 @@
         "code": "2595"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "徐偉朝",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24673",
+        "code": "24673"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -119247,7 +119256,9 @@
     "language": "",
     "notes": "重修班：限重修或補修學生修習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3534065",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360401&code=11395"
+    ]
   },
   {
     "code": "AC05206",
@@ -119293,27 +119304,140 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [
+      "thu": [],
+      "fri": [
         "5",
         "6",
         "7"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "互動日碩、外碩和設計博班合開，一般教室，限 20 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05206",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3714015",
+    "description": {
+      "zh": "在現今產業激烈競爭與利潤微薄之階段，落實執行 \"系統化創新\" 是企業不可或缺的競爭策略及唯一的生存之道，但鮮少有企業真正瞭解與實際地應用。本課程以 TRIZ 創新方法為基礎，詳細的介紹系統性創新理論及實務的解題手法及落實創新方法之實務應用，可以很有系統地帶領學生們拓展革新思維，有效及系統化之應用於各種產業。讓學生也有機會應用於生活問題的解決。",
+      "en": "Nowadays, enterprises in the phase of violating competence and decreasing profit. To make it survival, enterprises need to implement a systematic innovation technique, but only few companies really understanding and implement. The aim of this course is based on the applications of TRIZ creative method in detail which including the theory of systematic innovation and application, and also leading students to learn how the TRIZ works, and practice to solve their real life and various industries problems."
+    },
+    "id": "360406",
+    "name": {
+      "zh": "萃思創新方法應用",
+      "en": "The applications of TRIZ creative method"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四甲",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2790",
+        "code": "2790"
+      },
+      {
+        "name": "工管四乙",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2791",
+        "code": "2791"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林永",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24660",
+        "code": "24660"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "6",
+        "7",
+        "8"
       ],
       "fri": [],
       "sat": []
     },
     "classroom": [
       {
-        "name": "六教626",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=446",
-        "code": "446"
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=497",
+        "code": "497"
       }
     ],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "互動日碩、外碩和設計博班合開，一般教室，限 20 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05206",
+    "notes": "工管四甲乙合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3714015",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3715007",
+    "description": {
+      "zh": "在現今產業激烈競爭與利潤微薄之階段，落實執行 \"系統化創新\" 是企業不可或缺的競爭策略及唯一的生存之道，但鮮少有企業真正瞭解與實際地應用。本課程以 TRIZ 創新方法為基礎，詳細的介紹系統性創新理論及實務的解題手法及落實創新方法之實務應用，可以很有系統地帶領學生們拓展革新思維，有效及系統化之應用於各種產業。讓學生也有機會應用於生活問題的解決。",
+      "en": "Nowadays, enterprises in the phase of violating competence and decreasing profit. To make it survival, enterprises need to implement a systematic innovation technique, but only few companies really understanding and implement. The aim of this course is based on the applications of TRIZ creative method in detail which including the theory of systematic innovation and application, and also leading students to learn how the TRIZ works, and practice to solve their real life and various industries problems."
+    },
+    "id": "360408",
+    "name": {
+      "zh": "萃思創新方法應用",
+      "en": "The applications of TRIZ creative method"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3151",
+        "code": "3151"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林永",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24660",
+        "code": "24660"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "6",
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=480",
+        "code": "480"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩 四甲乙開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3715007",
     "syllabusLinks": []
   }
 ]
