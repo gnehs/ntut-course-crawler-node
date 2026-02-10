@@ -14423,6 +14423,11 @@
     ],
     "teacher": [
       {
+        "name": "張烔堡",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12684",
+        "code": "12684"
+      },
+      {
         "name": "陳斌豪",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=12143",
         "code": "12143"
@@ -14452,9 +14457,10 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新進教師 - 張老師 2",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403068",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=354577&code=12684",
       "ShowSyllabus.jsp?snum=354577&code=12143"
     ]
   },
@@ -23009,9 +23015,9 @@
     },
     "classroom": [
       {
-        "name": "三教209",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=43",
-        "code": "43"
+        "name": "化工101",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=399",
+        "code": "399"
       }
     ],
     "people": "40",
@@ -26372,16 +26378,16 @@
     },
     "classroom": [
       {
-        "name": "分子205",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=277",
-        "code": "277"
+        "name": "三教505",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=62",
+        "code": "62"
       }
     ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英文授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3534061",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355019&code=12353"
@@ -64469,7 +64475,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "分四＋高分所合開 / 英文授課",
+    "notes": "分四＋高分所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105065",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356473&code=11981"
@@ -73613,7 +73619,13 @@
         "code": "3182"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "史明嘉",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24656",
+        "code": "24656"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -73638,7 +73650,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘師資：史明嘉，限 60 人",
+    "notes": "限 60 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C025003",
     "syllabusLinks": []
   },
@@ -73664,7 +73676,13 @@
         "code": "3182"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "廖崑亮",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24657",
+        "code": "24657"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -73689,7 +73707,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘師資：廖崑亮，限 30 人",
+    "notes": "限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C025004",
     "syllabusLinks": []
   },
@@ -75635,7 +75653,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "高級，新聘",
+    "notes": "高級，王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3082",
     "syllabusLinks": []
   },
@@ -76903,7 +76921,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "高級，新聘",
+    "notes": "高級，王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -77301,7 +77319,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "高級，新聘",
+    "notes": "高級，王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3065",
     "syllabusLinks": []
   },
@@ -82935,7 +82953,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "NEW/B 組 - 學號尾號偶數，僅限英文系學生修讀",
+    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀 / 王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5402113",
     "syllabusLinks": []
   },
@@ -92193,7 +92211,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "NEW",
+    "notes": "王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5403206",
     "syllabusLinks": []
   },
@@ -94366,7 +94384,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=22",
+        "code": "22"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -94799,7 +94823,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 22 人 /new",
+    "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 22 人 / 王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -94849,7 +94873,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀，限 22 人 /new",
+    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀，限 22 人 / 王可",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -97407,9 +97431,9 @@
     },
     "classroom": [
       {
-        "name": "先鋒403 ",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=555",
-        "code": "555"
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=15",
+        "code": "15"
       }
     ],
     "people": "23",
@@ -100220,7 +100244,13 @@
         "code": "3189"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳威丞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12681",
+        "code": "12681"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -100360,7 +100390,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英文授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3514015",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359918&code=11535"
@@ -103367,7 +103397,9 @@
     "language": "",
     "notes": "籃球 A",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360043&code=12685"
+    ]
   },
   {
     "code": "1001002",
@@ -103833,7 +103865,9 @@
     "language": "",
     "notes": "籃球 C",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360053&code=12685"
+    ]
   },
   {
     "code": "1001002",
@@ -104455,7 +104489,9 @@
     "language": "",
     "notes": "籃球 D",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360066&code=12685"
+    ]
   },
   {
     "code": "1001002",
@@ -104921,7 +104957,9 @@
     "language": "",
     "notes": "籃球 F",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360075&code=12685"
+    ]
   },
   {
     "code": "1001002",
@@ -105855,7 +105893,9 @@
     "language": "",
     "notes": "籃球 H",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360093&code=12685"
+    ]
   },
   {
     "code": "1001002",
@@ -107934,7 +107974,9 @@
     "language": "",
     "notes": "籃球 M",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360138&code=12685"
+    ]
   },
   {
     "code": "1001002",
@@ -119459,6 +119501,62 @@
     "language": "",
     "notes": "碩 四甲乙開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3715007",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1410081",
+    "description": {
+      "zh": "以視覺藝術為探討重點，研究藝術起源以及原始美術、民俗與大眾藝術分野。探究式覺元素和設計原理以及應用媒材、使用技巧，涵蓋素描、水彩、油畫、版畫、混合媒材、雕塑、建築，廣告、包裝、服裝設計、工業產品設計及攝影等。配合幻燈教學，使同學對於視覺藝術有整體性、概括性的認識，以奠定將來從事藝術鑑賞和研究創造之基礎。",
+      "en": "The focus of this course is the exploration of visual arts.  Students will study the origin of art and the distinction among primitive art, folk and popular art. This course also provides students with visual elements, design principles, applied media material, and techniques including charcoal drawing, water-colored painting, oil painting, graphic art, compound material, sculpture, architecture, advertisement, packaging, fashion design, industrial design, and photography. Slide teaching is adopted to give students a comprehensive and general understanding on visual art in order to foster students to appreciate, study, and create art."
+    },
+    "id": "360409",
+    "name": {
+      "zh": "藝術概論",
+      "en": "Introduction to Art Theories"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "博雅課程(十四)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2887",
+        "code": "2887"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "劉秋蘭",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11222",
+        "code": "11222"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教508",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=65",
+        "code": "65"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "人文與藝術向度",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1410081",
     "syllabusLinks": []
   }
 ]
