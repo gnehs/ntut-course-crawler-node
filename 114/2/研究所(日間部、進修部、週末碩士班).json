@@ -1232,7 +1232,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩 四甲乙合開",
+    "notes": "工管四甲乙、工管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706041",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356134&code=11051"
@@ -7765,7 +7765,9 @@
     "language": "",
     "notes": "碩士班  科研國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356780&code=24424"
+    ]
   },
   {
     "code": "5905108",
@@ -18071,7 +18073,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子107",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=337",
+        "code": "337"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18165,7 +18173,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=277",
+        "code": "277"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18218,7 +18232,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=277",
+        "code": "277"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18272,7 +18292,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=277",
+        "code": "277"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18574,7 +18600,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18666,7 +18698,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18719,7 +18757,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22231,6 +22275,11 @@
         "code": "24355"
       },
       {
+        "name": "林家振",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24302",
+        "code": "24302"
+      },
+      {
         "name": "謝閔瑜",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=24356",
         "code": "24356"
@@ -24190,7 +24239,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=117",
+        "code": "117"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35809,7 +35864,9 @@
     "language": "",
     "notes": "高分所和 EOMP 合開 / 新老師 / 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359911&code=12681"
+    ]
   },
   {
     "code": "5105026",
@@ -35853,7 +35910,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=277",
+        "code": "277"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35886,7 +35949,13 @@
         "code": "3157"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳威丞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12681",
+        "code": "12681"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -35912,7 +35981,9 @@
     "language": "",
     "notes": "雙號選課 (新老師）",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359921&code=12681"
+    ]
   },
   {
     "code": "5705343",
@@ -36348,7 +36419,13 @@
         "code": "3195"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃振軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12679",
+        "code": "12679"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -36399,7 +36476,13 @@
         "code": "3154"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃振軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12679",
+        "code": "12679"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -36762,7 +36845,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=277",
+        "code": "277"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36795,7 +36884,13 @@
         "code": "3151"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "汪志堅",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=22836",
+        "code": "22836"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -36820,7 +36915,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘兼任汪老師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706082",
     "syllabusLinks": []
   },
@@ -39365,6 +39460,58 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360399&code=11018"
+    ]
+  },
+  {
+    "code": "C003010",
+    "description": {
+      "zh": "協助學員在完成訓練後：1. 對半導體設備元件原理與作用有基礎的了解 2. 對半導體設備實務工作有初步的了解 3. 能結合學校所學理論與產業實務。",
+      "en": "After completing the training, the trainees will: 1.Have a basic understanding of the principles and functions of semiconductor equipment components.2.Have a preliminary understanding of what an equipment engineer does in Fab.3.Be able to combine the theories learned from the school with industrial practices."
+    },
+    "id": "360400",
+    "name": {
+      "zh": "半導體設備元件基礎",
+      "en": "Introduction of Equipment Components in Semiconductor"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2773",
+        "code": "2773"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林懷恩",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12283",
+        "code": "12283"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "1",
+        "2"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "密集授課，至台積電，詳教學大綱",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C003010",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360400&code=12283"
     ]
   }
 ]

@@ -3377,7 +3377,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管碩、四甲乙合開",
+    "notes": "工管四甲乙、工管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3714017",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353748&code=11051"
@@ -13809,6 +13809,11 @@
         "code": "12454"
       },
       {
+        "name": "游偉哲",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24667",
+        "code": "24667"
+      },
+      {
         "name": "黃光廷",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=12144",
         "code": "12144"
@@ -16991,6 +16996,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "創新創業(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2397",
+        "code": "2397"
+      },
+      {
         "name": "文發三",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=2921",
         "code": "2921"
@@ -17027,7 +17037,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "上限 24 人",
+    "notes": "上限 24 人，文發三和創創專區合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A503236",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354692&code=11979"
@@ -28530,6 +28540,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "創新創業(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2397",
+        "code": "2397"
+      },
+      {
         "name": "工管二甲",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3024",
         "code": "3024"
@@ -28571,7 +28586,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管二甲乙合開",
+    "notes": "工管二甲乙和創創專區合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3725006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355079&code=12389"
@@ -30187,7 +30202,13 @@
         "code": "3027"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李義行",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24668",
+        "code": "24668"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -30213,7 +30234,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3902023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=355150&code=24668"
+    ]
   },
   {
     "code": "3902025",
@@ -30591,7 +30614,13 @@
         "code": "3028"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃振軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12679",
+        "code": "12679"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -31856,7 +31885,7 @@
     ],
     "teacher": [
       {
-        "name": "吳霙",
+        "name": "吳",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=24191",
         "code": "24191"
       }
@@ -38321,7 +38350,7 @@
     ],
     "teacher": [
       {
-        "name": "吳霙",
+        "name": "吳",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=24191",
         "code": "24191"
       }
@@ -47529,23 +47558,12 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教325",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=427",
-        "code": "427"
-      },
-      {
-        "name": "二教201",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=19",
-        "code": "19"
-      }
-    ],
+    "classroom": [],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "改兼任，二 567 節上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355631&code=11175"
@@ -56570,6 +56588,11 @@
     "courseType": "▲",
     "class": [
       {
+        "name": "創新創業(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2397",
+        "code": "2397"
+      },
+      {
         "name": "文發一",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3144",
         "code": "3144"
@@ -56605,7 +56628,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "文發一和創創專區合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A501008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355862&code=11979"
@@ -56859,6 +56882,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "創新創業(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2397",
+        "code": "2397"
+      },
+      {
         "name": "文發一",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=3144",
         "code": "3144"
@@ -56894,7 +56922,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "上限 30 人",
+    "notes": "上限 30 人，文發一和創創專區合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A501211",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355869&code=12037"
@@ -60332,7 +60360,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩 四甲乙合開",
+    "notes": "工管四甲乙、工管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706041",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356134&code=11051"
@@ -66865,7 +66893,9 @@
     "language": "",
     "notes": "碩士班  科研國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=356780&code=24424"
+    ]
   },
   {
     "code": "5905108",
@@ -97289,6 +97319,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "創新創業(大)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2397",
+        "code": "2397"
+      },
+      {
         "name": "建築三",
         "link": "Subj.jsp?format=-4&year=114&sem=2&code=2910",
         "code": "2910"
@@ -97324,7 +97359,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "建築三和創創專區合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3908505",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359824&code=12344"
@@ -100277,7 +100312,9 @@
     "language": "",
     "notes": "高分所和 EOMP 合開 / 新老師 / 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359911&code=12681"
+    ]
   },
   {
     "code": "3534088",
@@ -100478,7 +100515,13 @@
         "code": "3157"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳威丞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12681",
+        "code": "12681"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -100504,7 +100547,9 @@
     "language": "",
     "notes": "雙號選課 (新老師）",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=359921&code=12681"
+    ]
   },
   {
     "code": "3502018",
@@ -101300,7 +101345,13 @@
         "code": "3154"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃振軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12679",
+        "code": "12679"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -101762,7 +101813,13 @@
         "code": "3151"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "汪志堅",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=22836",
+        "code": "22836"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -101787,7 +101844,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘兼任汪老師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706082",
     "syllabusLinks": []
   },
@@ -102827,7 +102884,13 @@
         "code": "3222"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳威丞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12681",
+        "code": "12681"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -102854,7 +102917,9 @@
     "language": "",
     "notes": "分子系新聘教師 英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=B202007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360033&code=12681"
+    ]
   },
   {
     "code": "B202008",
@@ -117518,7 +117583,7 @@
     ],
     "teacher": [
       {
-        "name": "吳霙",
+        "name": "吳",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=24191",
         "code": "24191"
       }
@@ -119292,25 +119357,20 @@
       "mon": [],
       "tue": [],
       "wed": [
-        "5",
-        "6"
+        "8"
       ],
       "thu": [
-        "5"
+        "5",
+        "6"
       ],
       "fri": [],
       "sat": []
     },
     "classroom": [
       {
-        "name": "三教310",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=51",
-        "code": "51"
-      },
-      {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=47",
-        "code": "47"
+        "name": "分子207",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=109",
+        "code": "109"
       }
     ],
     "people": "0",
@@ -119442,7 +119502,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管四甲乙合開",
+    "notes": "工管四甲乙、工管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3714015",
     "syllabusLinks": []
   },
@@ -119499,7 +119559,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩 四甲乙開",
+    "notes": "工管四甲乙、工管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3715007",
     "syllabusLinks": []
   },
@@ -119558,5 +119618,122 @@
     "notes": "人文與藝術向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410081",
     "syllabusLinks": []
+  },
+  {
+    "code": "1400040",
+    "description": {
+      "zh": "本課程提供大一學生必備之英語文語言技巧，強調專業領域之英文溝通能力之訓練。課程內容依學院專業內容區分，並整合英語文之聽、說、讀、寫之能力，提升英語文在專業領域的應用。",
+      "en": "This course equips first-year students with essential English language skills, focusing on developing their communication abilities in specific professional fields. The content is customized to each college's discipline and integrates the four language skills (listening, speaking, reading, and writing), thereby enhancing the application of English in professional contexts."
+    },
+    "id": "360410",
+    "name": {
+      "zh": "學院專業英文",
+      "en": "College-Specific ESP Courses"
+    },
+    "stage": "2",
+    "credit": "2.0",
+    "hours": "3",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "特殊學生專班課程",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1345",
+        "code": "1345"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "劉慧雯",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12177",
+        "code": "12177"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "國百館102",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=404",
+        "code": "404"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400040",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360410&code=12177"
+    ]
+  },
+  {
+    "code": "14E0003",
+    "description": {
+      "zh": "以英語語言、教學法、及學生在專業領域的英語需求為主軸，專業英文 ESP 系列課程涵蓋以下關鍵面向：學術英文、專業實踐 / 應用英文、內容和語言整合英文教學，議題與趨勢，以及語言技巧能力。 此系列課程專為本校大二修習校訂共同英文的學生設計，強化英語能力，並應用英文於專業領域之發展。",
+      "en": "Drawing upon the English language, pedagogy, students’ needs for English in specialized domains, the ESP series encompass the following key dimensions: English for general academic purposes, English for professional practice / application, content and language integrated learning, issues and trends, and integrative language skills for testing and communication. The courses are designed for the second year (sophomore), non-native English speaking students to strengthen their English competence and become more proficient in their fields of study."
+    },
+    "id": "360411",
+    "name": {
+      "zh": "專業英文",
+      "en": "English for Specific Purposes (ESP Course)"
+    },
+    "stage": "2",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "特殊學生專班課程",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=1345",
+        "code": "1345"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林家薇",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24397",
+        "code": "24397"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "9",
+        "A"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "國百館102",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=404",
+        "code": "404"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=14E0003",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360411&code=24397"
+    ]
   }
 ]
