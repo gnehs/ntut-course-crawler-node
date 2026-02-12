@@ -3603,9 +3603,9 @@
     },
     "classroom": [
       {
-        "name": "三教206",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
-        "code": "40"
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=211",
+        "code": "211"
       }
     ],
     "people": "10",
@@ -6916,7 +6916,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358803&code=23585"
+    ]
   },
   {
     "code": "5705514",
@@ -13948,6 +13950,11 @@
     ],
     "teacher": [
       {
+        "name": "翁如音",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24659",
+        "code": "24659"
+      },
+      {
         "name": "耿慶瑞",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=10938",
         "code": "10938"
@@ -15725,7 +15732,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教502",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=59",
+        "code": "59"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18254,5 +18267,62 @@
       "ShowSyllabus.jsp?snum=360351&code=11130",
       "ShowSyllabus.jsp?snum=360351&code=11248"
     ]
+  },
+  {
+    "code": "C515021",
+    "description": {
+      "zh": "本課程運用問題分析能力，以企業實際問題為基礎，採用問題導向學習（PBL）模式，進行人工智慧跨域專題實作。課程的目的是幫助學生理解如何運用人工智慧技術來解決現實世界中的問題。透過學習機器學習、光學檢測、影像辨識、生成式 AI、自然語言處理等 AI 技術，學生將能跨域應用這些知識於數據分析、高速通訊、資訊安全、專案管理、企業管理與決策、金融商業服務、智慧製造、無人載具、國防太空、智慧農業、醫療、法律、半導體、藝術創作、環境監測等領域。本課程將培養學生實際操作人工智慧的能力，提升其問題解決和創新思維，並培育具有創業和創新精神的人才，讓學生了解在 AI 轉型和導入過程中產業所面臨的挑戰與困難。",
+      "en": "This course uses a problem-based learning (PBL) approach to tackle real-world business issues, guiding students through interdisciplinary AI projects. Itaims to teach students how to apply AI technologies such as machine learning,image recognition, and natural language processing across various domainslike data analysis, healthcare, and smart manufacturing. Students will gainpractical skills, enhance problem-solving abilities, and develop innovativethinking. The course prepares students to handle AI projects, understandindustry challenges, and cultivate entrepreneurial and innovative spirits."
+    },
+    "id": "360352",
+    "name": {
+      "zh": "人工智慧跨領域專題實作",
+      "en": "Interdisciplinary Project in Artificial Intelligence Applications"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "范育成",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11246",
+        "code": "11246"
+      },
+      {
+        "name": "彭朋群",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11369",
+        "code": "11369"
+      },
+      {
+        "name": "蔣欣翰",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12354",
+        "code": "12354"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "13",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "3/15.28; 4/18; 5/9.16.30",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515021",
+    "syllabusLinks": []
   }
 ]

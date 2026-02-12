@@ -3164,7 +3164,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木三",
+    "notes": "土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4216001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356292&code=11734"
@@ -14554,7 +14554,9 @@
     "language": "",
     "notes": "限 60 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C025003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357426&code=24656"
+    ]
   },
   {
     "code": "C025004",
@@ -16152,9 +16154,9 @@
     },
     "classroom": [
       {
-        "name": "三教206",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=40",
-        "code": "40"
+        "name": "綜科511",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=211",
+        "code": "211"
       }
     ],
     "people": "10",
@@ -19465,7 +19467,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=358803&code=23585"
+    ]
   },
   {
     "code": "5705514",
@@ -30395,6 +30399,11 @@
     ],
     "teacher": [
       {
+        "name": "翁如音",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24659",
+        "code": "24659"
+      },
+      {
         "name": "耿慶瑞",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=10938",
         "code": "10938"
@@ -32921,7 +32930,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教502",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=59",
+        "code": "59"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38522,16 +38537,16 @@
     },
     "classroom": [
       {
-        "name": "二教204",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=22",
-        "code": "22"
+        "name": "土木2F",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=260",
+        "code": "260"
       }
     ],
     "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "土木 206",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205093",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360342&code=24566"
@@ -39456,7 +39471,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "密集授課，至台積電，詳教學大綱",
+    "notes": "寒假密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360399&code=11018"
@@ -39508,10 +39523,71 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "密集授課，至台積電，詳教學大綱",
+    "notes": "寒假密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003010",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360400&code=12283"
     ]
+  },
+  {
+    "code": "AC05206",
+    "description": {
+      "zh": "本課程旨在講授互動式廣告的規劃與製作原理，包括互動式媒體的特性、廣告製作可如何掌握、發揮互動式媒體的特性，以及建置、設計、發展、與維護互動式廣告所需的相關概念、科技與技能。本課程亦教導同學如何應用電腦影像（computer imaging）與多媒體的科技與技術，來製作互動式廣告。",
+      "en": "This course is mainly about the planning and principles of interactive advertisement production such as features of interactive media, how can advertisement production control and develop the features of interactive media, as well as the related concepts, technology, and skills needed in order to build, design, develop, and maintain interactive advertisement. Students will learn how to use computer imaging and the technology and techniques of multi-media to make an interactive advertisement."
+    },
+    "id": "360403",
+    "name": {
+      "zh": "互動式廣告研究",
+      "en": "Interactive Advertisement"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "互動所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3176",
+        "code": "3176"
+      },
+      {
+        "name": "互動與創新外生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3179",
+        "code": "3179"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3188",
+        "code": "3188"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "黃儀婷",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12304",
+        "code": "12304"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "互動日碩、外碩和設計博班合開，一般教室，限 20 人",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05206",
+    "syllabusLinks": []
   }
 ]

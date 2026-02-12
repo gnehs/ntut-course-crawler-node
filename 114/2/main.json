@@ -10715,7 +10715,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "上限 40 人",
+    "notes": "上限 40 人 土木 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3404108",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354347&code=11272"
@@ -13870,6 +13870,7 @@
       "ShowSyllabus.jsp?snum=354556&code=12200",
       "ShowSyllabus.jsp?snum=354556&code=11014",
       "ShowSyllabus.jsp?snum=354556&code=12454",
+      "ShowSyllabus.jsp?snum=354556&code=24667",
       "ShowSyllabus.jsp?snum=354556&code=12144",
       "ShowSyllabus.jsp?snum=354556&code=12230",
       "ShowSyllabus.jsp?snum=354556&code=20165",
@@ -56866,69 +56867,6 @@
     ]
   },
   {
-    "code": "A501211",
-    "description": {
-      "zh": "本課程旨在建立學子對觀光旅遊休閒遊憩之正確認知，舉凡觀光產業的組成、市場管理、行銷策略、活動型態，以及未來發展的趨勢與影響等，以達到宏觀觀光行旅雙重面貌〈供給面與需求面〉的目的，課程進行包括講座及分組實習體驗。",
-      "en": "This course aims to build the correct understanding of tourism and recreation. It also includes the composition of the tourism industry, market management, marketing strategy, activity patterns and the future trends and influences. In order to achieve the twofold features of macroscopic tourism, this course will be carried out by lecturing and experiencing practical training."
-    },
-    "id": "355869",
-    "name": {
-      "zh": "觀光學概論",
-      "en": "Introduction to Tourism"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新創業(大)",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2397",
-        "code": "2397"
-      },
-      {
-        "name": "文發一",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3144",
-        "code": "3144"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳涵秀",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12037",
-        "code": "12037"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "7",
-        "8"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同614",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=159",
-        "code": "159"
-      }
-    ],
-    "people": "30",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "上限 30 人，文發一和創創專區合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A501211",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=355869&code=12037"
-    ]
-  },
-  {
     "code": "A501216",
     "description": {
       "zh": "學習邏輯思考的目的在於幫助我們培養一種邏輯能力，使我們能夠邏輯理性地以語言進行思考。要達成上述目的，我們首先要了解語言做為一種符號的內在邏輯架構。我們要明白什麼是概念、與概念所指涉的對象、與概念具備的意義和觀念；然後，語句的性質，包含其真假值，它們與字詞和概念的關係。之後，如何用語句去建構論證。為了建構論證，我們要學習傳統的歸納法、三段論法、自然演繹法的基本推論規則與自然語言和形式語言之間的翻譯。總之，我們要會在生活中如何理性地思辨問題並有效地與他人溝通。課程講授將配合一些心理測驗、課堂遊戲與電影教學。",
@@ -56984,64 +56922,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A501216",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=355870&code=11223"
-    ]
-  },
-  {
-    "code": "A502232",
-    "description": {
-      "zh": "人類在遠古時代，就有採集或遊耕的遷徙行動。旅行依其目的可分成宗教、商業、軍事、教育、研究與觀光休憩等種類。但是具近代意義的旅行與近代社會制度、交通建設、生活文化息息相關。其中教育、調查研究與觀光等尤其是近代旅行文化與過去最大之差異，本課程介紹近代旅行的開始、近代旅行性質與景點的變遷，並展望未來旅遊文化的發展。",
-      "en": "Far from ancient times, humans traveled for various purposes like religion, commerce, military, education, studies, and expedition. In recent years, the motives and meanings of travel have changed; people leave their home under the influence and needs of social systems, transportation industry, living cultures, and particularly education, research, and tourism. This course aims at  giving an overview of the travel culture in modern times, dealing with issues such as changing attraction spots, positive and negative impacts on our societies, and how the scale and importance of travel will evolve in the future."
-    },
-    "id": "355875",
-    "name": {
-      "zh": "旅行文化史",
-      "en": "History of Travel"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "文發一",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3144",
-        "code": "3144"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鄭麗玲",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11147",
-        "code": "11147"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "6",
-        "7"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教503",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=60",
-        "code": "60"
-      }
-    ],
-    "people": "8",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "上限 30 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A502232",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=355875&code=11147"
     ]
   },
   {
@@ -62292,7 +62172,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木三",
+    "notes": "土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4216001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356292&code=11734"
@@ -73682,7 +73562,9 @@
     "language": "",
     "notes": "限 60 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C025003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357426&code=24656"
+    ]
   },
   {
     "code": "C025004",
@@ -89740,6 +89622,11 @@
     ],
     "teacher": [
       {
+        "name": "張世豪",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12384",
+        "code": "12384"
+      },
+      {
         "name": "張敬源",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11762",
         "code": "11762"
@@ -100369,7 +100256,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "自備電腦、需三小時連 > 排英文授課",
+    "notes": "自備電腦、需三小時連",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3534088",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359917&code=11395"
@@ -115969,9 +115856,9 @@
     },
     "classroom": [
       {
-        "name": "二教307",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=32",
-        "code": "32"
+        "name": "土木201",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=382",
+        "code": "382"
       }
     ],
     "people": "40",
@@ -117256,16 +117143,16 @@
     },
     "classroom": [
       {
-        "name": "二教204",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=22",
-        "code": "22"
+        "name": "土木2F",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=260",
+        "code": "260"
       }
     ],
     "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "土木 206",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205093",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360342&code=24566"
@@ -118338,70 +118225,6 @@
     ]
   },
   {
-    "code": "3403105",
-    "description": {
-      "zh": "高性能混凝土之特性，材料，配比設計及試驗，品質管制，施工規範及構件行為。",
-      "en": "This course focuses on the characteristics of high performance concrete, composition materials, mixture design and testing, quality management, construction specifications, as well as structural behavior."
-    },
-    "id": "360372",
-    "name": {
-      "zh": "高性能混凝土",
-      "en": "High Performance Concrete"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "土木三甲",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2902",
-        "code": "2902"
-      },
-      {
-        "name": "土木三乙",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2903",
-        "code": "2903"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "黃中和",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11734",
-        "code": "11734"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "2",
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "土木2F",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=260",
-        "code": "260"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "土木三",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3403105",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360372&code=11734"
-    ]
-  },
-  {
     "code": "2B04034",
     "description": {
       "zh": "課程為可程式控制基礎課程之延伸，著重於 PLC 進階應用與自動化控制系統整合。內容涵蓋電控系統設計、I/O 規劃、先進梯形圖程式撰寫、感測器與致動元件整合、氣壓控制應用、以及設備除錯與優化。透過實務導向的專題製作，使學生能利用 PLC、人機界面、工業配線與控制邏輯等技術，完成小型自動化控制系統之開發。課程強調 學、做合一，以考取勞動部機電整合丙級技術士技能檢定為主要訓練目標。",
@@ -119161,7 +118984,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "密集授課，至台積電，詳教學大綱",
+    "notes": "寒假密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360397&code=11018"
@@ -119213,7 +119036,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "密集授課，至台積電，詳教學大綱",
+    "notes": "寒假密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003010",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360398&code=12283"
@@ -119265,7 +119088,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "密集授課，至台積電，詳教學大綱",
+    "notes": "寒假密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360399&code=11018"
@@ -119317,7 +119140,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "密集授課，至台積電，詳教學大綱",
+    "notes": "寒假密集授課，至台積電，詳教學大綱",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003010",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360400&code=12283"
@@ -119550,9 +119373,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓430",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=480",
-        "code": "480"
+        "name": "科研大樓440",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=497",
+        "code": "497"
       }
     ],
     "people": "0",
@@ -119617,7 +119440,9 @@
     "language": "",
     "notes": "人文與藝術向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410081",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360409&code=11222"
+    ]
   },
   {
     "code": "1400040",
