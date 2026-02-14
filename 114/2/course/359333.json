@@ -2,16 +2,16 @@
   {
     "name": "何承運",
     "email": "cyho@ntut.edu.tw",
-    "latestUpdate": "2026-02-07 11:33:06",
+    "latestUpdate": "2026-02-13 15:13:48",
     "objective": "1. 電腦通訊網路簡介\n2. 階層結構\n3. 路由與交換技術\n4. 流量與壅塞控制\n5. 介質存取控制機制\n6. 區域網路\n7. 網路互連技術\n8. 無線網路\n9. 高速網路\n\n1. Introduction to Computer Communication Networks\n2. Layered Structure\n3. Routing and Switching Techniques\n4. Flow and Congestion Control\n5. Medium Access Control Mechanism \n6. Local Area Networks\n7. Network Interconnection\n8. Wireless Networks\n9. High Speed Networks",
-    "schedule": "1. Foundation\n2. Direct Link Networks\n3. Packet Switching\n4. Internetworking\n5. End-to-end Protocols\n6. Congestion Control and Resource Allocation\n7. End-to-End Data\n8. Network Security\n9. Applications",
+    "schedule": "Week 1 – Course Overview & Network Foundations\nIntroduction to network architecture, layering principles, performance metrics (delay, throughput), and system abstraction.\n\nWeek 2 – Network Abstractions and Design Principles\nProtocol layering, encapsulation, end-to-end argument, and system design trade-off.\n\nWeek 3 – Framing and Error Detection\nFraming techniques, error detection (CRC), reliable transmission over point-to-point links.\n\nWeek 4 – Media Access Control and LAN Technologies\nMultiple access protocols, Ethernet, switching, and wireless LAN fundamentals.\n\nWeek 5 – Switching and Forwarding\nPacket switching fundamentals, store-and-forward, queueing basics.\n\nWeek 6 – Routing Algorithms\nDistance-vector and link-state routing; shortest-path algorithms.\n\nWeek 7 – Internet Protocol (IP)\nIP addressing, subnetting, CIDR, IPv4/IPv6, ARP.\n\nWeek 8 – Internet Routing and BGP\nInterdomain routing, BGP fundamentals, Internet architecture.\n\nWeek 9 – Midterm Examination\n\nWeek 10 – Transport Layer Fundamentals\nEnd-to-end communication, multiplexing, UDP and TCP overview.\n\nWeek 11 – Reliable Data Transfer\nSliding window protocols, flow control, TCP mechanisms.\n\nWeek 12 – Congestion Control Mechanisms\nTCP congestion control algorithms (slow start, AIMD, fast recovery).\n\nWeek 13 – Resource Allocation and QoS\nFairness, scheduling algorithms, quality of service principles.\n\nWeek 14 – Distributed Systems and Data Delivery\nRPC, distributed storage concepts, content distribution.\n\nWeek 15 – Network Security Fundamentals\nThreat models, cryptographic foundations, secure channels (TLS).\n\nWeek 16 – Application Layer Protocols\nHTTP, DNS, email protocols, application design patterns.\n\nWeek 17 – Emerging Topics and System Integration\nCloud networking, SDN overview, performance evaluation, student presentations (if applicable).\n\nWeek 18 – Final Examination",
     "scorePolicy": "1. Midterm exam: 25%\n2. Final exam: 25%\n3. Homework: 25%\n4. Project: 20%\n5. Attendance and participation: 5%",
     "materials": "Textbook:\nL. L. Peterson and B.S. Davie, Computer Networks: A System Approach, 6th Ed., Morgan Kaufmann, 2021.\n\nReference book:\nA.S. Tanenbaum, N. Feamster, and D. J. Wetherall, Computer Networks, 6th Ed., Pearson FT Press, 2022.",
-    "consultation": "1. Zuvio IRS 上課隨堂問答與點名。2. 北科 i 學園 + https://istudy.ntut.edu.tw/learn/index.php 課程公告。請同學確認所留之 email 可聯繫。隨班附讀同學須待完成選課程序才能使用。3. Microsoft Teams 有需要遠距上課時進行同步線上教學。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）",
+    "consultation": "1. Zuvio2. i-School Plus3. Microsoft Teams4. E-mail",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "延伸教學與資源": "",
-    "remarks": "",
+    "remarks": "If I need to take leave due to business trips or other reasons, I will make up the lessons at another time.",
     "foreignLanguageTextbooks": true
   }
 ]

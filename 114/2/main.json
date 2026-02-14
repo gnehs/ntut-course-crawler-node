@@ -1350,13 +1350,7 @@
         "code": "2774"
       }
     ],
-    "teacher": [
-      {
-        "name": "莊政達",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12201",
-        "code": "12201"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [
@@ -1388,11 +1382,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "一般教室，須自備筆電",
+    "notes": "一般教室，須自備筆電，新聘兼任",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2B04010",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=353220&code=12201"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "2B04011",
@@ -5365,7 +5357,13 @@
         "code": "2891"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -5383,7 +5381,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "陳人瑜",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2A00012",
     "syllabusLinks": []
   },
@@ -5704,13 +5702,7 @@
         "code": "2891"
       }
     ],
-    "teacher": [
-      {
-        "name": "莊政達",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12201",
-        "code": "12201"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -5737,11 +5729,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "需自備筆電",
+    "notes": "需自備筆電，新聘兼任",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2B03013",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=353979&code=12201"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "2B03014",
@@ -12547,9 +12537,9 @@
     ],
     "teacher": [
       {
-        "name": "蘇威豪",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12457",
-        "code": "12457"
+        "name": "紀勝財",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24674",
+        "code": "24674"
       }
     ],
     "time": {
@@ -12577,9 +12567,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3723017",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=354471&code=12457"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3704031",
@@ -12604,6 +12592,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "林秋堂",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=20410",
+        "code": "20410"
+      },
       {
         "name": "林榮禾",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=10821",
@@ -12635,7 +12628,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "與新聘兼任田老師合授",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704031",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354473&code=10821"
@@ -13064,9 +13057,9 @@
     ],
     "teacher": [
       {
-        "name": "蘇威豪",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12457",
-        "code": "12457"
+        "name": "紀勝財",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24674",
+        "code": "24674"
       }
     ],
     "time": {
@@ -13094,9 +13087,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3723017",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=354495&code=12457"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3704031",
@@ -13121,6 +13112,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "林秋堂",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=20410",
+        "code": "20410"
+      },
       {
         "name": "林榮禾",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=10821",
@@ -13152,7 +13148,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "與新聘兼任田老師合授",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704031",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354497&code=10821"
@@ -17870,59 +17866,6 @@
     ]
   },
   {
-    "code": "AC03513",
-    "description": {
-      "zh": "本課程設定為專題實務的課程。將導引學生透過簡單但完整的專案，認知互動設計於體驗行銷的實踐規劃。本課程也也將討論現在以及未來互動設計於使用者行為、服務行銷、以及品牌管理整合發展的議題與趨勢。",
-      "en": "This is a practical course that will lead students to do a simple but comprehensive project for implementing interaction design in experiential marketing. This course covers contemporary topics in experiential marketing and includes discussion of recent and future developments in the integration of interaction design with consumer behavior, services marketing, and brand management."
-    },
-    "id": "354761",
-    "name": {
-      "zh": "體驗行銷互動設計專題",
-      "en": "Project of Experiential Marketing Interaction Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "互動三",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2923",
-        "code": "2923"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "黃儀婷",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12304",
-        "code": "12304"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "一般教室，限本系 40 人修【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC03513",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=354761&code=12304"
-    ]
-  },
-  {
     "code": "AC03519",
     "description": {
       "zh": "生成式人工智慧 (GAI) 的快速發展已經徹底改變了多媒體設計，AI 生成的影片、圖像和文本已達到專業水準。本課程從神經網路的基礎理論開始，例如線性回歸、分類器、遞歸神經網路 (RNN)、自編碼器 (AE) 以及變分自編碼器 (VAE)，最終涵蓋兩項關鍵技術的核心知識及多樣應用：大型語言模型 (LLM) 和擴散模型 (Diffusion Model)。通過使用開源工具如 Llama 和 Stable Diffusion 進行實作練習，學生將深入了解 AI 的運作方式，並學習如何高效地創作高品質且具創意的 AI 內容。掌握這些技術後，學生將能將 AI 生成的內容整合至資訊系統中，提升系統功能、美感和用戶體驗。這門課程將幫助學生培養與 AI 共同創作超媒體內容的核心技能。",
@@ -18956,7 +18899,13 @@
         "code": "3008"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳人瑜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12685",
+        "code": "12685"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -18974,7 +18923,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "陳人瑜",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2A00011",
     "syllabusLinks": []
   },
@@ -64689,7 +64638,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356481&code=12638",
       "ShowSyllabus.jsp?snum=356481&code=10450",
-      "ShowSyllabus.jsp?snum=356481&code=12078"
+      "ShowSyllabus.jsp?snum=356481&code=12078",
+      "ShowSyllabus.jsp?snum=356481&code=12392"
     ]
   },
   {
@@ -73257,6 +73207,7 @@
     "notes": "億光 405 教室，與電子所跨所合開，與電資學院",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15026",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357397&code=24672",
       "ShowSyllabus.jsp?snum=357397&code=10823"
     ]
   },
@@ -75554,7 +75505,13 @@
         "code": "2155"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -75578,7 +75535,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "高級，王可",
+    "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3082",
     "syllabusLinks": []
   },
@@ -76822,7 +76779,13 @@
         "code": "2157"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -76846,7 +76809,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "高級，王可",
+    "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -77220,7 +77183,13 @@
         "code": "2158"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -77244,7 +77213,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "高級，王可",
+    "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3065",
     "syllabusLinks": []
   },
@@ -82854,7 +82823,13 @@
         "code": "3030"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -82878,7 +82853,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀 / 王可",
+    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5402113",
     "syllabusLinks": []
   },
@@ -92115,7 +92090,13 @@
         "code": "2913"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -92146,7 +92127,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "王可",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5403206",
     "syllabusLinks": []
   },
@@ -94734,7 +94715,13 @@
         "code": "3030"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -94758,7 +94745,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 22 人 / 王可",
+    "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 22 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -94784,7 +94771,13 @@
         "code": "3030"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12689",
+        "code": "12689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -94808,7 +94801,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀，限 22 人 / 王可",
+    "notes": "B 組 - 學號尾號偶數，僅限英文系學生修讀，限 22 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3087",
     "syllabusLinks": []
   },
@@ -97087,65 +97080,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706098",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359813&code=24592"
-    ]
-  },
-  {
-    "code": "3706084",
-    "description": {
-      "zh": "針對存貨理論之簡單介紹，課程內容為確定性模式之經濟批量，連續性與週期性盤點策略，動態性模型與多階段系統。",
-      "en": "Introduced simply in view of the goods in stock theory, curriculum content economy of batch for definite pattern, continuous and periodic inventory strategy, dynamic model and multi-stage system."
-    },
-    "id": "359814",
-    "name": {
-      "zh": "存貨理論",
-      "en": "Inventory Theory"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3151",
-        "code": "3151"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "楊明",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=21963",
-        "code": "21963"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "2",
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓823",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=489",
-        "code": "489"
-      }
-    ],
-    "people": "45",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3706084",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359814&code=21963"
     ]
   },
   {
@@ -102177,7 +102111,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課合班 (車二、機電二、機械二甲)，週一 12",
+    "notes": "合班 (車二、機電二、機械二甲)，週一 12",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402013",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360018&code=11321"
@@ -102536,67 +102470,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360025&code=10940"
     ]
-  },
-  {
-    "code": "3104011",
-    "description": {
-      "zh": "配電系統規劃及自動化，負載特性，配電變壓器的應用，二次輸電線及配電站設計，一次系統的設計考慮，二次系統的設計考慮，電壓降落及電力損失計算，電容器在配電系統上的應用，配電系統電壓調整，配電系統負載潮流分析，配電系統故障分析。",
-      "en": "Course Title:Industrial power distribution Labs.Description:To familiarize students with the techniques of analyzing,designing, operating, maintaining high and low voltage powerdistribution systems."
-    },
-    "id": "360026",
-    "name": {
-      "zh": "配電工程",
-      "en": "Power Distribution Engineering"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電機四甲",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2777",
-        "code": "2777"
-      },
-      {
-        "name": "電機四乙",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2778",
-        "code": "2778"
-      },
-      {
-        "name": "電機四丙",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2779",
-        "code": "2779"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [
-        "5",
-        "6",
-        "7"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教402",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=52",
-        "code": "52"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "電機四甲乙丙合開，電力組新聘",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3104011",
-    "syllabusLinks": []
   },
   {
     "code": "B202005",
@@ -103449,9 +103322,9 @@
     ],
     "teacher": [
       {
-        "name": "林惟鐘",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10697",
-        "code": "10697"
+        "name": "黎天生",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24675",
+        "code": "24675"
       }
     ],
     "time": {
@@ -103473,9 +103346,7 @@
     "language": "",
     "notes": "桌球 B",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360047&code=10697"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1001002",
@@ -104541,9 +104412,9 @@
     ],
     "teacher": [
       {
-        "name": "林惟鐘",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10697",
-        "code": "10697"
+        "name": "黎天生",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24675",
+        "code": "24675"
       }
     ],
     "time": {
@@ -104565,9 +104436,7 @@
     "language": "",
     "notes": "桌球 E",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360069&code=10697"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1001002",
@@ -112798,7 +112667,7 @@
         "code": "53"
       }
     ],
-    "people": "27",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -112856,7 +112725,7 @@
         "code": "71"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -112914,7 +112783,7 @@
         "code": "334"
       }
     ],
-    "people": "30",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -113030,7 +112899,7 @@
         "code": "63"
       }
     ],
-    "people": "30",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -113038,64 +112907,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415021",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360241&code=24073"
-    ]
-  },
-  {
-    "code": "1416031",
-    "description": {
-      "zh": "本課程之內容為：一、資訊與網路通訊基本概念，二、電腦功能與應用，三、資料處理與通訊網路，四、資訊管理，五、資訊與通訊網路，六、電腦的聲光世界與多彩多姿的應用服務，七、量子安全與網路的安全問題與防治，八、未來的資訊社會與行動網路。",
-      "en": "This course is designed to help students learn new skills, better understand technology, enrich their lives, and inspire their interest in further study. The course includes: (1) basic knowledge of information and network communication, (2) the application of computers, (3) data processing and communication networks, (4) information management, (5) information and communication networks, (6) multimedia and applications, (7) quantum-safe and network security, and (8) the world of information and mobile networks."
-    },
-    "id": "360242",
-    "name": {
-      "zh": "通訊與生活",
-      "en": "Communication Technology and Human Life"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "△",
-    "class": [
-      {
-        "name": "博雅課程(九)",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2765",
-        "code": "2765"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蔡宜學",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=24564",
-        "code": "24564"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "1",
-        "2"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "二教204",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=22",
-        "code": "22"
-      }
-    ],
-    "people": "24",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "自然與科學向度",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=1416031",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360242&code=24564"
     ]
   },
   {
@@ -113146,7 +112957,7 @@
         "code": "336"
       }
     ],
-    "people": "30",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114712,7 +114523,7 @@
         "code": "336"
       }
     ],
-    "people": "30",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114770,7 +114581,7 @@
         "code": "562"
       }
     ],
-    "people": "50",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114886,7 +114697,7 @@
         "code": "65"
       }
     ],
-    "people": "48",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115002,7 +114813,7 @@
         "code": "334"
       }
     ],
-    "people": "50",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115060,7 +114871,7 @@
         "code": "29"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115068,64 +114879,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360284&code=21704"
-    ]
-  },
-  {
-    "code": "1418019",
-    "description": {
-      "zh": "未來，網際網路中存在著如「互聯網＋」和「互聯網應用」等機會，而我們每天的食衣住行育樂所衍生出的各項產業，又如何與互聯網相加，創造無限商機與無限可能呢？工具＋社群的商業模式，產生了數化經濟。數位經濟不是艱深的研究專題，原來與我們的生活息息相關！ 平日網購的電子商務平台、行動支付、演算法出現的廣告都屬於數位經濟的範疇。數位科技的創新，需要建立在解決使用者的痛點上，因此它就不單純是一項技術創新的議題，同時要兼具對於人類社會與行為的觀察力，對於既有市場的洞察力，因此科技來自於人性這句話，也可以理解為科技來自於人的需求。這本書帶您認識數位科技在商業經濟上的運用實例：行動支付、訂閱制、會員制、嵌入式廣告、遊戲化…… 等等。並提供經濟學的思考方式，核心理念是商業模式思考要有經濟學的基本功，了解市場運作的經濟邏輯，再了解全球創新商業模式，從中找到適合自身企業的模式。",
-      "en": "E-commerce platforms for daily online shopping, mobile payments, and algorithm-based advertisements all fall into the category of the digital economy. Innovation in digital technology needs to be based on solving the pain points of users. Therefore, it is not just a matter of technological innovation, but also requires observation of human society and behavior, as well as insight into the existing market. Therefore, The saying that technology comes from human nature can also be understood to mean that technology comes from human needs. It also provides a way of thinking in economics. The core concept is that when thinking about business models, you need to have basic skills in economics, understand the economic logic of market operations, and then understand global innovative business models to find a model that suits your own enterprise."
-    },
-    "id": "360285",
-    "name": {
-      "zh": "數位創新",
-      "en": "Digital Innovation"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "△",
-    "class": [
-      {
-        "name": "博雅課程(十三)",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2886",
-        "code": "2886"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蘇威豪",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12457",
-        "code": "12457"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "1",
-        "2"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "六教525",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=437",
-        "code": "437"
-      }
-    ],
-    "people": "35",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "創新與創業向度",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=1418019",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360285&code=12457"
     ]
   },
   {
@@ -115176,7 +114929,7 @@
         "code": "452"
       }
     ],
-    "people": "50",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118891,9 +118644,9 @@
     },
     "classroom": [
       {
-        "name": "二教204",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=22",
-        "code": "22"
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=460",
+        "code": "460"
       }
     ],
     "people": "0",
@@ -119712,7 +119465,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360420&code=12531"
+    ]
   },
   {
     "code": "A503222",
@@ -132442,6 +132197,141 @@
     "language": "",
     "notes": "教師周怡 / SAH704 教室 / A",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "360712",
+    "name": {
+      "zh": "電腦網路之工程應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)－國立臺灣海洋大學",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2521",
+        "code": "2521"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "2"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "教師施佑羲 / MEA317 教室 / A",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "360713",
+    "name": {
+      "zh": "機器人理論與控制",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－國立臺灣海洋大學",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2524",
+        "code": "2524"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "教師陳聖化 / MEA316 教室 / A",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "360714",
+    "name": {
+      "zh": "消費者行為",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)－國立臺灣海洋大學",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2521",
+        "code": "2521"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "1",
+        "2"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "教師黃昱凱 / SAH701 教室 / A / 遠距教學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
     "syllabusLinks": []
   }
 ]

@@ -13,5 +13,20 @@
     "延伸教學與資源": "",
     "remarks": "",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "蔣欣翰",
+    "email": "hsinhan1001@gmail.com",
+    "latestUpdate": "2026-02-13 23:24:26",
+    "objective": "This course is based on the management problems that students encounter at work, including operations research (OR), production planning and management, financial analysis, etc., and explores the technical principles of using machine learning, as well as the feasibility and scalability of application in these fields. The discussion scope of the machine learning will not only cover the most basic concepts and principles of convolutional neural networks (CNN), self-attention, transformer, generative model, large language models (LLM), linear programming, and probabilistic programming, but also guide students to understand the importance of one or more of these architectures.\nIn terms of teaching aids, in line with current trends, the programming development environment will be combined with an LLM approach to make it easier for students to quickly get started with programming languages. While looking at their own examples to achieve their own results, they will have a higher sense of accomplishment. The students can also accept the meaning of LLM’s most popular prompt engineering and parameter quantities. In addition, we will discuss some AI case studies, including applications of AI in medical, verbal communication, autonomous driving, education, and in multiple fields. Students will be able to apply AI technology to various fields.",
+    "schedule": "This course uses a problem-based learning (PBL) approach to tackle real-world business issues, guiding students through interdisciplinary AI projects. It aims to teach students to apply AI technologies, such as machine learning, image recognition, and natural language processing, across domains including data analysis, healthcare, and smart manufacturing. Students will gain practical skills, enhance problem-solving abilities, and develop innovative thinking. The course prepares students to handle AI projects, understand industry challenges, and cultivate entrepreneurial and innovative spirits.\n\nBasic knowledge:\nA. History and Origin of OR\nB. Basic concepts of production planning and control\nC. Financial Management and Quantitative Science\nD. Differences and discussions between basic probability and statistics and Bayesian statistics\nE. Models of artificial intelligence\n\nTools and Techniques:\nA. Programming language\nB. LLM prompt engineering and common prompts\nC. Google Colaboratory and Gemini\nD. How to analyze and preprocess the data form and content given to the computer",
+    "scorePolicy": "Based on a comprehensive score of class attendance and course participation.",
+    "materials": "1. Frederick S. Hillier, Gerald J. Lieberman, “Introduction to Operations Research”\n2. Stephen N. Chapman, “The fundamentals of production planning and control”\n3. QuantInsti Quantitative Learning Pvt. Ltd., “Python Basics with Illustrations from the Financial Markets”\n4. Other related documents and briefings are provided at separate download URLs.",
+    "consultation": "During office hours or via email to discuss course-related questions.Instructor contact information:Email: hsinhan@mail.ntut.edu.twInternal extension: 3615",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "延伸教學與資源": "● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]

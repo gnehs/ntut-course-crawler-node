@@ -5678,7 +5678,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=356481&code=12638",
       "ShowSyllabus.jsp?snum=356481&code=10450",
-      "ShowSyllabus.jsp?snum=356481&code=12078"
+      "ShowSyllabus.jsp?snum=356481&code=12078",
+      "ShowSyllabus.jsp?snum=356481&code=12392"
     ]
   },
   {
@@ -14246,6 +14247,7 @@
     "notes": "億光 405 教室，與電子所跨所合開，與電資學院",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15026",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357397&code=24672",
       "ShowSyllabus.jsp?snum=357397&code=10823"
     ]
   },
@@ -19128,7 +19130,8 @@
     "notes": "陳擎文 0.5",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705038",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=358765&code=12246"
+      "ShowSyllabus.jsp?snum=358765&code=12246",
+      "ShowSyllabus.jsp?snum=358765&code=24664"
     ]
   },
   {
@@ -34253,65 +34256,6 @@
     ]
   },
   {
-    "code": "3706084",
-    "description": {
-      "zh": "針對存貨理論之簡單介紹，課程內容為確定性模式之經濟批量，連續性與週期性盤點策略，動態性模型與多階段系統。",
-      "en": "Introduced simply in view of the goods in stock theory, curriculum content economy of batch for definite pattern, continuous and periodic inventory strategy, dynamic model and multi-stage system."
-    },
-    "id": "359814",
-    "name": {
-      "zh": "存貨理論",
-      "en": "Inventory Theory"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管所",
-        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3151",
-        "code": "3151"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "楊明",
-        "link": "Teach.jsp?format=-3&year=114&sem=2&code=21963",
-        "code": "21963"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "2",
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓823",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=489",
-        "code": "489"
-      }
-    ],
-    "people": "45",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3706084",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=359814&code=21963"
-    ]
-  },
-  {
     "code": "4505302",
     "description": {
       "zh": "超低溫冷凍通常指進行在 - 100℃以下特定低溫範圍之冷凍技術應用，譬如高能能物理同步輻射冷卻，生物醫學胚胎冷凍保存，大型超低溫冷能氣化發電廠與中、長程飛彈推進系統冷卻技術等，現代微系統科技多方面高層次應用上之必要技術。故如何進行實質而有效整合超低溫系統技術，是決定未來國力競爭之主要關鍵項目。本課程主要內容將涵蓋：1. 多段多元化自動冷卻系統技術。2. . 超低溫循環冷媒特性。3. 生物基因晶化冷凍技術應用。4. 系統裝置之材料選擇。5. 電子微觀系統應用。6. 超低溫冷卻劑之檢測與分析。",
@@ -38743,6 +38687,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515024",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360351&code=11213",
       "ShowSyllabus.jsp?snum=360351&code=11130",
       "ShowSyllabus.jsp?snum=360351&code=11248"
     ]
@@ -38803,7 +38748,8 @@
     "notes": "3/15.28; 4/18; 5/9.16.30",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515021",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=360352&code=11246"
+      "ShowSyllabus.jsp?snum=360352&code=11246",
+      "ShowSyllabus.jsp?snum=360352&code=12354"
     ]
   },
   {
@@ -39731,7 +39677,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360420&code=12531"
+    ]
   },
   {
     "code": "3615032",
@@ -44640,6 +44588,50 @@
     "ta": [],
     "language": "",
     "notes": "教師饒瑞正 / SAH703 教室 / A",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "360710",
+    "name": {
+      "zh": "國際法專題研究",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)－國立臺灣海洋大學",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2524",
+        "code": "2524"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "教師張文寧 / SAH703 教室 / B",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
