@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "紀勝財",
+    "email": "Charles.jih@gmail.com",
+    "latestUpdate": "2026-02-14 14:12:41",
+    "objective": "本課程在二技為品質管理實習。使學生瞭解品質管理的觀念、原理、領域。品管部門的組織、功能，如何管理產品或服務的品質，品管的工具、方法，如何持續改善品質的方法，品質表示法，如何評估品質管理成效，相關法令，品質管理未來趨勢。\nThis course let the students understand the concepts, theories, and areas of qualify control, organization and functions of quality department.  Besides, the way to manage the products or the service quality, tools and methods of quality control, the way to improve the quality, quality representation method, evaluation of quality control, related regulations and future trends are also included.",
+    "schedule": "週次\t階段 (DMAIC)\t課程主題 (Lecture)\t實作內容 (Workshop/Lab)\n第 1 週\t導論\t品質管理演進與現代意義品質大師理念 (Deming, Juran)、PDCA 循環\t【紅珠實驗 (Red Bead Experiment)】完整版實驗。紀錄數據並繪製簡單趨勢圖，討論「共同變異」與「特殊變異」。\n第 2 週\tDefine\t數據收集與層別法數據種類 (計量 / 計數)、查檢表設計、層別法應用\t【M&M 巧克力數據庫】建立全班的巧克力顏色、重量數據庫 (Excel)，練習資料清洗與分類。\n第 3 週\tDefine\t問題定義與圖表分析柏拉圖 (Pareto)、特性要因圖 (魚骨圖)\t【生活痛點提案】各組提出期末改善主題 (如：提升讀書效率、減少外送等待時間)，繪製魚骨圖與柏拉圖。\n第 4 週\tMeasure\t基礎統計與常態分配平均數、標準差、中位數、常態機率圖\t【高爾頓板 (Quincunx) 模擬】(若無設備可用軟體模擬) 觀察落珠分布，理解中央極限定理與標準差的意義。\n第 5 週\tMeasure\t量測系統分析 (MSA) GR&R (重複性與再現性) 原理\t【游標卡尺量測實戰】3 人 × 10 工件 × 3 次量測。利用 Excel 計算 % GR&R，判定量具是否可信。\n第 6 週\tMeasure\t製程能力分析 (Process Capability) Cp, Cpk, Pp, Ppk 的差異與計算\t【投石機大賽 (Phase I)】設定規格界限，發射 50 次，計算初始 Cpk。討論為何 Cpk 低？\n第 7 週 (4/6) 清明節國定假日補假\n第 8 週\tAnalyze\t統計製程管制 (SPC) - 計量值 X-bar R 管制圖、X-bar S 管制圖\t【Excel SPC 儀表板】將投石機數據繪製成自動連動的管制圖，判讀 8 大異常法則。\n第 9 週\tAnalyze\t統計製程管制 (SPC) - 計數值不良率 (p, np) 與 缺點數 (c, u) 管制圖\t【挑錯字 / 瑕疵檢測大賽】給定一篇文章或一盒混雜豆子，統計不良品，繪製 p-chart 監控不良率變化。\n第 10 週\t期中\t期中評量 (實作測驗)\t【SPC 實戰測驗】提供一組異常製程數據，學生需用電腦繪圖並圈出異常點、寫出判讀結果。\n第 11 週\tAnalyze\t相關與迴歸分析散佈圖、相關係數 (r)、判定係數 (R²)\t【相關性探討】收集身高 / 體重或讀書時間 / 成績數據，用 Excel 跑回歸分析，解讀變數間關係。\n第 12 週\tImprove\t失效模式與效應分析 (FMEA) 風險優先數 (RPN)、嚴重度 / 發生度 / 難檢度\t【流程風險掃描】針對各組專案題目，進行 FMEA 分析，找出 RPN 最高的前三項風險並擬定對策。\n第 13 週\tImprove\t實驗設計 (DOE) 導論因子、水準、交互作用圖 (Interaction Plot)\t【紙直升機 (Paper Helicopter) 實驗】設計 2 因子 2 水準實驗 (2^2 Full Factorial)，製作直升機並收集滯空時間。\n第 14 週\tImprove\tDOE 數據分析與最佳化主效應圖分析、最佳參數驗證\t【DOE 軟體分析】將上週數據輸入 Excel/Minitab，找出影響飛行時間的關鍵因子 (是翼長還是翼寬？)。\n第 15 週\tControl\t防呆法 (Poka-Yoke) 與標準化防呆等級、SOP 撰寫要點\t【防呆模型製作】利用樂高或回收材料，製作一個物理防呆裝置 (如：防插錯的接頭)。\n第 16 週\tControl\t抽樣計畫 (AQL) MIL-STD-105E (ANSI Z1.4) 表格查閱\t【抽樣檢驗模擬】模擬進料檢驗情境，根據 AQL 表決定抽樣數與允收水準 (Ac/Re)。\n第 17 週\t統整\t期末專題衝刺與諮詢\t【專案診斷】老師一對一檢視各組「改善前後 (Before/After)」的數據對比是否顯著。\n第 18 週\t期末\t期末成果發表會 (Capstone)\t【品質改善專案競賽】完整 DMAIC 報告發表，包含數據分析、改善對策與標準化文件。",
+    "scorePolicy": "1.\t平時實作 (30%)：\no\t每次上課的 Lab 練習結果（如 Excel 檔、圖表分析）。這部分要在課堂內完成，確保學生跟上進度。\n2.\t期中實作測驗 (20%)：\no\t實際上機考（Excel 操作）。題目範例：「請分析這 100 筆數據，判斷製程是否穩定？Cpk 是多少？如果不穩定，請指出哪幾點異常。」\n3.\t期末改善專案 (30%)：\no\t分組專題 (3-5 人一組)。\no\t題目需具備「可量測的數據」。(例如：改善校車排隊時間、降低某個社團活動的浪費、提升投籃命中率等)。\no\t評分重點：邏輯是否連貫 (DMAIC)？數據是否真實？改善是否有效 (最好有統計檢定佐證，如 t-test)？\n4. 出席率 (20%)",
+    "materials": "自編教材及如下參考書目:\n\n1. Excel 品質管理 (第二版)，陳耀茂 編著，五南圖書，2022/09。\n2. 品質管制實習 (初版)， 林成益、張東孟 編著， 揚智文化事業，2000/08。",
+    "consultation": "一、 即時與社群管道 (快速解惑用) 1.\t課程專屬 LINE 社群 (匿名 / 公開皆可) 2.\tMoodle / 數位教學平台討論區二、 深度諮詢管道 (專題與觀念用) 3.\tOffice Hours (每週固定時段) 4.\tGoogle Meet 線上預約 (Virtual Office Hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
