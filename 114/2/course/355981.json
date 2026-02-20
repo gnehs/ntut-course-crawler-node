@@ -2,15 +2,15 @@
   {
     "name": "楊勝明",
     "email": "smyang@ntut.edu.tw",
-    "latestUpdate": "2025-12-17 18:09:14",
+    "latestUpdate": "2026-02-19 16:04:32",
     "objective": "本課程的主要目的在使用 Matlab/Simulink 軟體，建立馬達及其控制系統的模型，以模擬的方式學習馬達控制系統設計的方法。控制的馬達包含直流馬達、永磁交流馬達、及無刷直流馬達等三種。系統設計的主題包含：(1) 位置、速度及電流控制，(2) 數位控制，(3) 觀測器設計，(4) 直接轉矩控制，(5) 脈寬調變模，(6) 交流 - 直流轉換。\n\nThe objectives of this course are using Matlab/Simulink software as the simulation tool to learn practical control schemes for electric machines. Three types of machines are studied: DC Machine, permanent magnetic synchronous machines (PMSM), and brushless DC (BLDC). Control projects include: (1) position, velocity, and current control, (2) digital control, (3) estimators, (4) direct torque control, (5) pulse width modulation (PWM), (6) AC-DC conversion.",
-    "schedule": "1. Introduction of Matlab/Simulink, DC motor model, speed control (lab1)\n2. PMSM model and V/H control (lab2)\n3. Current control and frequency response measurement (lab3)\n4. Digital position control and velocity estimator (lab4)\n5. DC-AC Inverter (SPWM) (lab5)\n6. Position and velocity estimation with extended back-EMF (lab6)\n7. Sensorless vector control with extended back-EMF (lab7)\n8. Sensorless vector with square voltage HFVI (lab8)\n9. Mid-term exam.\n10. DC motor control with Simscape (lab9)\n11. PMSM control with Simscape (lab10)\n12. Input AC-DC converter with dynamic braking (lab11)\n13. Electrical and mechanical parameter measurement (lab12)\n14. BLDC commutation (lab13)\n15. BLDC speed control (lab14)\n16. BLDC speed control with Hall feedback (lab15)\n17. Review\n18. Final exam.",
-    "scorePolicy": "Lab:30% (Completion)\nMid-term exam: 30%\nFinal exam: 40%",
+    "schedule": "1. Introduction of Matlab/Simulink, DC motor model, speed control (lab1)\n2. PMSM model and V/H control (lab2)\n3. Control systems and frequency response measurement (lab3)\n4. Digital control and velocity estimator (lab4)\n5. DC-AC Inverter (SPWM, SVPWM) (lab5)\n6. Position and velocity estimation with extended back-EMF (lab6)\n7. Sensorless vector control with extended back-EMF (lab7)\n8. Sensorless vector with square voltage HFVI (lab8)\n9. Mid-term exam.\n10. Direct torque control lecture (lab9)\n11. Direct torque control (lab10)\n12. Direct torque control with switching table (lab11)\n13. PMSM control with Simscape (lab12)\n14. Input AC-DC converter with dynamic braking (lab13)\n15. Input DC-DC converter (lab14)\n16. Sensorless direct torque control with Simscape (lab15)\n17. Review\n18. Final exam.",
+    "scorePolicy": "Lab:60% (出席 + 完成)\nFinal exam: 40%",
     "materials": "1. 永磁同步電動機之原理與應用，北科大電機系 115/01 學期 class note.\n2. Control System Design Guide, 3th Editions, George Ellis, Elsevier-Academic Press.\n3. Observers in Control Systems, George Ellis, Elsevier-Academic Press, 2010.",
     "consultation": "email: smyang@ntut.edu.twLine group (開始上課時建立)",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
     "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "延伸教學與資源": "",
+    "延伸教學與資源": "● 參與式創新教學 (Participatory & Innovative Teaching) 強調學生參與與產出，導入翻轉、PBL / 專題、設計思考或遊戲化等策略。Emphasizes student engagement and outcomes by adopting strategies such as Flipped Classroom, PBL (Problem/Project- Based Learning), Design Thinking, or Gamification.● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }
