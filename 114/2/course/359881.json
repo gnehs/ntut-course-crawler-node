@@ -2,15 +2,15 @@
   {
     "name": "黃榮堂",
     "email": "jthuang@ntut.edu.tw",
-    "latestUpdate": "2026-02-13 14:02:11",
+    "latestUpdate": "2026-02-23 08:48:41",
     "objective": "本課程主要在講述醫學工程基本觀念，內容包括解剖學及生理學、醫學工程簡介、生物力學、復建工程及輔具科技、生醫材料、組織工程、生醫電子系統、生醫感測系統、生醫訊號處理、生醫影像處理、生醫超音波、生醫光學及雷射。\nThis course mainly introduces the basic concepts of Geriatric Medical Engineering, including anatomy and physiology, geriatrics, biomechanics, rehabilitation engineering and assistive device technology, biomaterials, tissue engineering, biomedical electronics, biomedical sensing systems, biomedical signal processing, biomedical image processing, biomedical ultrasound, biomedical optics and laser.",
-    "schedule": "WEEK 1     Biomedical Engineering: A Historical Perspective\nWEEK 2-3   Anatomy and Physiology\nWEEK 4-5   Biomechanics\nWEEK 6-7   Biochemical Reactions and Enzyme Kinetic\nWEEK 8     Bioinstrumentation\nWEEK 9     MIDERM EXAM\nWEEK 10-11. \tBiomedical Sensors\nWEEK 12. \tBiosignal Processing\nWEEK 13. \tBioelectric Phenomena\nWEEK 14-. \tRadiation Imaging\nWEEK 15-16.\tMedical Imaging\nWEEK 17. \tBiomedical Optics and Lasers\nWEEK 18     FINAL EXAM",
-    "scorePolicy": "期中考  35%\n\n期末考  50%\n\n出席與平時作業 15%",
+    "schedule": "單元 1\nWEEK 1     Biomedical Engineering: A Historical Perspective\nWEEK 2-3   Anatomy and Physiology\nWEEK 4-5   Biomechanics\n\n單元 2\nWEEK 6-7   Biochemical Reactions and Enzyme Kinetic\nWEEK 8     Bioinstrumentation\nWEEK 9     MIDERM EXAM 或專題\n\n單元 3\nWEEK 10-11. \tBiomedical Sensors\nWEEK 12. \tBiosignal Processing\nWEEK 13. \tBioelectric Phenomena\n\n單元 4\nWEEK 14-. \tRadiation Imaging\nWEEK 15-16.\tMedical Imaging\nWEEK 17. \tBiomedical Optics and Lasers\nWEEK 18     FINAL EXAM 或專題\n醫學工程概論\n新的教學方式，採用數位雙生的映照方式，來實體化既有的知識與新興的知識。\n融合基礎學理，模擬軟體，生成式 AI，以及實驗室參觀實習，讓學生學到實質可用的工具 (模擬軟體、實驗方法)，並因此能深入善用生成式 AI，有助於就業業與就讀研究所。\n\n專題作業 四周完成。共四個專題。可能沒有期中考與期末考\n\n單元 1\n學習 COMSOL 用於肌力測 足力測 動態血壓感測器的設計，運動力學\n直接體驗 sEMG (助教晨屹)\n學習 COMSOL 用於壓電 pump 的設計 drug delivery (助教建廷)\n學習 ROS 2 用於外骨骼設計與照護機器人設計 （助教閔、Vishal）\n直接體驗 3D 印表機的列印與測試機構的設計，基於學生已知的 SolidWork\n學習 OPENSIM （助教峻幃）\n\n單元 2\n學習 ANSYS 軟體於微創手術刀的設計與控制（助教淳如）\n學習 COMSOL 用於生物晶片設計 病毒偵測器設計 (助教瑞仁)\n學習 Alpha fold 用於 DNA 適體 與蛋白質的設計 (並使用於生醫感測器的設計\n直接體驗快篩試片 (助教增榮)\n\n單元 3\n學習 AD 電路板的繪製與佈局軟體 送洗，（助教家勛）\n微針量測（助教易秦 增榮）\n學習 AD5940\n學習物聯網與穿戴裝置 （韌體設計）(助教蘇宴)\n直接體驗平安符 (助教 patty)\n動態血壓量測 (助教郁美)\nECG/SpO2/HR/HRV（助教 William）\n\n單元 4\n學習 COMSOL 用於 MPI 用無創診療技術 (助教合萱)\n學習 AI 醫學影像處理\n學習 Agentic workflowm 用於多模態健康數據的整合， (助教 Admial Fidal)",
+    "scorePolicy": "期中考或專題  35%\n\n期末考或專題  50%\n\n出席 15%",
     "materials": "參考書目: INTRODUCTION TO BIOMEDICAL ENGINEERING  JOHN D. ENDERLE and  JOSEPH D. BRONZINO  3rd Edition\n\n主要自編教材：投影片  教學",
     "consultation": "jthuang007@gmail.com",
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "延伸教學與資源": "",
+    "延伸教學與資源": "● 參與式創新教學 (Participatory & Innovative Teaching) 強調學生參與與產出，導入翻轉、PBL / 專題、設計思考或遊戲化等策略。Emphasizes student engagement and outcomes by adopting strategies such as Flipped Classroom, PBL (Problem/Project- Based Learning), Design Thinking, or Gamification.",
     "remarks": "中文授課   中文考題",
     "foreignLanguageTextbooks": true
   }
