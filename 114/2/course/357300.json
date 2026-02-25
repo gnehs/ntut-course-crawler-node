@@ -1,5 +1,20 @@
 [
   {
+    "name": "黃朝秋",
+    "email": "daniel@bsos.co",
+    "latestUpdate": "2026-02-24 23:26:05",
+    "objective": "區塊鏈和數位資產是未來金融和科技領域的重要趨勢之一，本課程將介紹區塊鏈以及數位資產的基本知識與原理，並探討如何利用區塊鏈以及比特幣技術搭建新型態的金融基礎設施與永續的生態系統，內容包含 (1) 區塊鏈基礎；(2) 比特幣運作原理；(3) 穩定幣等數位資產；(4) 比特幣進階，含閃電網路、側鏈、智能合約層、永續挖礦… 等；(5) 實體世界資產 (RWA，Real World Asset)；(6) 區塊鏈分析；(7) 法規與監管… 等，為參與課程的學生建立正確的區塊鏈與數位資產的觀念。\nBlockchain and Digital Asset are one of the important trends in the future of finance and technology. This course will introduce the basic knowledge and principles of blockchain and digital assets, as well as explore how to use blockchain and Bitcoin technology to build a new type of financial infrastructure and sustainable ecosystem, the content includes (1) Blockchain basics; (2) Bitcoin operating principles; (3) Digital assets such as stable coins; (4) Bitcoin advanced including Lightning Network, Rootstock, Stacks, sustainable mining...etc. (5) Real World Asset (RWA); (6) Blockchain analysis; (7) Regulations and supervision... etc., to establish a correct concept of blockchain and digital assets for students participating in the course.",
+    "schedule": "第 1 堂：課程簡介\n●\t課程大綱：每周課程內容說明。\n●\t評分標準：學期成績計算說明。\n●\t雙聯學制：與新加坡南洋理工大學區塊鏈碩士學程合作說明。\n第 2 堂：區塊鏈與金融科技概論\n●\t金融科技版圖：集中式帳本 vs 分散式帳本，在支付、清算、融資裡的痛點。\n●\t區塊鏈基本結構：區塊、鏈、節點、共識與去中心化的直覺。\n●\t公鏈、私鏈、聯盟鏈在金融機構裡可能扮演的角色。\n第 3 堂：密碼學基礎與公私鑰機制\n●\t雜湊函數、非對稱加密、數位簽章的基本概念與用途。\n●\t公私鑰、地址與授權：一筆交易「為什麼」代表資產所有人同意。\n●\t助記詞、私鑰生成與備份的實務風險（釣魚、惡意錢包、社工等）。\n第 4 堂：帳戶模型、UTXO 與錢包實務\n●\t帳戶模型 vs UTXO 模型：餘額計算邏輯與代表公鏈。\n●\t交易輸入輸出範例，了解「找零」與 trace 資金流。\n●\t熱／冷錢包、硬體錢包、單簽、多簽、MPC 錢包的基本概念與使用情境。\n第 5 堂：比特幣設計與金融定位\n●\t比特幣的設計目標：點對點電子現金與「數位黃金」敘事。\n●\t區塊結構、PoW 共識、挖礦與安全性（51% 攻擊等）的直覺。\n●\t比特幣在支付、價值儲存上的優缺點，與法幣、黃金、支付網路的比較。\n第 6 堂：以太坊與智能合約入門\n●\t以太坊帳本與 EVM：EOA／合約帳戶、Gas 與交易結構。\n●\t智能合約的概念、常見應用（ERC-20、簡單治理合約等）。\n●\tDApp 架構：前端、合約、節點／RPC 的分工。\n第 7 堂：國定假日\n第 8 堂：DeFi 與穩定幣\n●\tDeFi 的定位：從 CeFi 到 DeFi，基礎設施與技術堆疊。\n●\tAMM 與 DEX：流動性池、價格曲線、滑價與無常損失的直覺。\n●\t借貸協議：超額抵押、清算機制與利率形成。\n●\t穩定幣在 DeFi 中的角色：抵押物、交易媒介、風險傳染來源。\n第 9 堂：外部講師＿金融機構區塊鏈與數位資產策略\n講者：銀行 / 金控數位金融部門、虛擬資產合規長、交易所高管。\n\n第 10 堂：DeFi 高階應用與代幣經濟\n●\t衍生品協議：槓桿、永續合約、結構化產品等基本機制。\n●\t收益聚合、流動性挖礦與「Money Legos」組合性概念。\n●\t代幣經濟學：治理代幣、激勵設計、常見失敗模式（龐氏、死亡螺旋）。\n第 11 堂：支付、跨境匯款與實務案例\n●\t公鏈跨境匯款流程與成本結構，與 SWIFT／傳統 remittance 的對照。\n●\t商戶收單、薪資發放、供應鏈金融等鏈上支付案例。\n●\t銀行與金控如何實驗 tokenized deposits、鏈上結算或區塊鏈投資產品。\n第 12 堂：區塊鏈／DeFi 安全、監管與未來趨勢\n●\t常見攻擊：閃電貸攻擊、價格預言機操縱、智能合約漏洞、橋接攻擊。\n●\t合規與監管：VASP、交易所與 DeFi 協議涉及的 KYC／AML、證券／商品認定等。\n●\tDAO 與治理、L2、RWA、ZK 等未來趨勢的簡介與職涯／研究方向。\n\n第 13 堂：外部講師＿DeFi／Web3 創業與產品實務\n講者：DeFi 協議團隊、Web3 錢包 / 基礎設施創辦人或 PM、資安研究員。\n\n第 14 堂：穩定幣發展趨勢與金融業策略應對\n●\t穩定幣的定義與基本概念。\n●\t穩定幣的發展歷史。\n●\t穩定幣的種類與央行的數位貨幣。\n●\t穩定幣的應與未來展望。\n●\t金融產業的策略應對。\n\n第 15 堂：RWA 代幣化實戰應用設計工作坊 (上)\n●\tRWA 先備知識。\n●\t生成式 AI 應用方式及技巧。\n●\t國際應用案例解析。\n\n第 16 堂：RWA 代幣化實戰應用設計工作坊 (下)\n●\tRWA 代幣化設計五大面向。\n●\t分組設計任務。\n●\t分組簡報與評分。\n\n第 17 堂：期末分組專題報告 (上)\n第 18 堂：期末分組專題報告 (下)",
+    "scorePolicy": "成績評量方式：\n\n期中考\t                  30% （區塊鏈與數位資產基礎知識，50 題選擇題）\n期末分組報告\t          50%\t\n平常成績\t                  20%  （出席及作業）\n加分項目                    10%  （證照考試、出席活動與演講等）",
+    "materials": "自製投影片",
+    "consultation": "上課時說明",
+    "延伸教學與資源": "● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.● 參與式創新教學 (Participatory & Innovative Teaching) 強調學生參與與產出，導入翻轉、PBL / 專題、設計思考或遊戲化等策略。Emphasizes student engagement and outcomes by adopting strategies such as Flipped Classroom, PBL (Problem/Project- Based Learning), Design Thinking, or Gamification.● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "鍾建屏",
     "email": "thomas6311@mail.ntut.edu.tw",
     "latestUpdate": "2025-12-18 01:01:59",
@@ -8,9 +23,9 @@
     "scorePolicy": "期中考\t30%\t （區塊鏈與數位資產基礎知識）\n期末分組報告\t50%\t\n平常成績\t20%\t出席及作業",
     "materials": "上課時說明",
     "consultation": "上課時公布",
+    "延伸教學與資源": "",
     "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
     "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "延伸教學與資源": "",
     "remarks": "7 確保人人都能享有可負擔、穩定、永續且現代的能源",
     "foreignLanguageTextbooks": false
   }
