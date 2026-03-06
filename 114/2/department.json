@@ -52,6 +52,18 @@
     "category": "校院級"
   },
   {
+    "name": "進修部",
+    "href": "Subj.jsp?format=-3&year=114&sem=2&code=05",
+    "class": [
+      {
+        "id": "483",
+        "name": "職跨校選課(大)",
+        "href": "Subj.jsp?format=-4&year=114&sem=2&code=483"
+      }
+    ],
+    "category": "校院級"
+  },
+  {
     "name": "體育室",
     "href": "Subj.jsp?format=-3&year=114&sem=2&code=10",
     "class": [
@@ -385,6 +397,11 @@
         "id": "2773",
         "name": "機電學院(研)",
         "href": "Subj.jsp?format=-4&year=114&sem=2&code=2773"
+      },
+      {
+        "id": "3007",
+        "name": "管理學院(研)",
+        "href": "Subj.jsp?format=-4&year=114&sem=2&code=3007"
       }
     ],
     "category": "校院級"
@@ -393,11 +410,6 @@
     "name": "智動科",
     "href": "Subj.jsp?format=-3&year=114&sem=2&code=2B",
     "class": [
-      {
-        "id": "2652",
-        "name": "智動五",
-        "href": "Subj.jsp?format=-4&year=114&sem=2&code=2652"
-      },
       {
         "id": "2774",
         "name": "智動四",
