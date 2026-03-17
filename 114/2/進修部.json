@@ -1888,7 +1888,7 @@
         "code": "452"
       }
     ],
-    "people": "46",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1961,7 +1961,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=358276&code=11710",
       "ShowSyllabus.jsp?snum=358276&code=10662",
-      "ShowSyllabus.jsp?snum=358276&code=12391"
+      "ShowSyllabus.jsp?snum=358276&code=12391",
+      "ShowSyllabus.jsp?snum=358276&code=11396"
     ]
   },
   {
@@ -6154,7 +6155,15 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415220",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=358704&code=11589"
+      "ShowSyllabus.jsp?snum=358704&code=11733",
+      "ShowSyllabus.jsp?snum=358704&code=11589",
+      "ShowSyllabus.jsp?snum=358704&code=12565",
+      "ShowSyllabus.jsp?snum=358704&code=12207",
+      "ShowSyllabus.jsp?snum=358704&code=12233",
+      "ShowSyllabus.jsp?snum=358704&code=11082",
+      "ShowSyllabus.jsp?snum=358704&code=11278",
+      "ShowSyllabus.jsp?snum=358704&code=11538",
+      "ShowSyllabus.jsp?snum=358704&code=11227"
     ]
   },
   {
@@ -9356,7 +9365,7 @@
         "code": "490"
       }
     ],
-    "people": "28",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11126,7 +11135,7 @@
         "code": "311"
       }
     ],
-    "people": "25",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12347,7 +12356,7 @@
       ]
     },
     "classroom": [],
-    "people": "105",
+    "people": "106",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15576,7 +15585,7 @@
         "code": "42"
       }
     ],
-    "people": "51",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15634,7 +15643,7 @@
         "code": "46"
       }
     ],
-    "people": "82",
+    "people": "84",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18190,7 +18199,7 @@
         "code": "334"
       }
     ],
-    "people": "41",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18778,5 +18787,87 @@
       "ShowSyllabus.jsp?snum=364789&code=12389",
       "ShowSyllabus.jsp?snum=364789&code=11401"
     ]
+  },
+  {
+    "code": "AB04021",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用課餘至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "364797",
+    "name": {
+      "zh": "校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "5.0",
+    "hours": "24",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB04013",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用學期間至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during semester period, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "364798",
+    "name": {
+      "zh": "學期校外實習",
+      "en": "Semester Practical Training"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2881",
+        "code": "2881"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "4",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04013",
+    "syllabusLinks": []
   }
 ]
