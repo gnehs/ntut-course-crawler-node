@@ -5080,7 +5080,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "62",
+    "people": "63",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6112,6 +6112,7 @@
       "ShowSyllabus.jsp?snum=356551&code=11733",
       "ShowSyllabus.jsp?snum=356551&code=11589",
       "ShowSyllabus.jsp?snum=356551&code=11423",
+      "ShowSyllabus.jsp?snum=356551&code=11679",
       "ShowSyllabus.jsp?snum=356551&code=12382",
       "ShowSyllabus.jsp?snum=356551&code=12565",
       "ShowSyllabus.jsp?snum=356551&code=12207",
@@ -6119,6 +6120,7 @@
       "ShowSyllabus.jsp?snum=356551&code=11082",
       "ShowSyllabus.jsp?snum=356551&code=11278",
       "ShowSyllabus.jsp?snum=356551&code=11092",
+      "ShowSyllabus.jsp?snum=356551&code=11171",
       "ShowSyllabus.jsp?snum=356551&code=11538",
       "ShowSyllabus.jsp?snum=356551&code=11227",
       "ShowSyllabus.jsp?snum=356551&code=11436"
@@ -18761,6 +18763,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=358704&code=11733",
       "ShowSyllabus.jsp?snum=358704&code=11589",
+      "ShowSyllabus.jsp?snum=358704&code=11679",
       "ShowSyllabus.jsp?snum=358704&code=12565",
       "ShowSyllabus.jsp?snum=358704&code=12207",
       "ShowSyllabus.jsp?snum=358704&code=12233",
@@ -21764,7 +21767,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 7) 資訊管理，停開 (2 週)【停開】",
+    "notes": "停開 (2 週，魏銪志)【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359130&code=24062",
@@ -22283,7 +22286,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 2) 組織領導與人力資源管理，停開 2 週【停開】",
+    "notes": "停開 (2 週，吳斯偉)【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215040",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359143&code=11985",
@@ -27213,7 +27216,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "71",
+    "people": "72",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30536,7 +30539,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理，停開 (2 週)【停開】",
+    "notes": "停開 (2 週，林鳳儀)【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359582&code=11315",
@@ -32435,7 +32438,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 3) 工業與科技管理 (台北上課)，停開 (2 週)【停開】",
+    "notes": "停開 (2 週，徐昕煒)【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215049",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=359624&code=11225",
@@ -32818,7 +32821,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33693,7 +33696,7 @@
         "code": "438"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35718,7 +35721,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38864,6 +38867,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515021",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360352&code=11246",
+      "ShowSyllabus.jsp?snum=360352&code=11369",
       "ShowSyllabus.jsp?snum=360352&code=12354"
     ]
   },
@@ -45023,7 +45027,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45064,7 +45068,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45632,6 +45636,50 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105167",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "364804",
+    "name": {
+      "zh": "進階長期照護",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺北醫學大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
 ]
