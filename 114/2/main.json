@@ -1809,7 +1809,7 @@
         "code": "47"
       }
     ],
-    "people": "39",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4622,7 +4622,7 @@
         "code": "532"
       }
     ],
-    "people": "35",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8613,6 +8613,7 @@
       "ShowSyllabus.jsp?snum=354152&code=11966",
       "ShowSyllabus.jsp?snum=354152&code=11277",
       "ShowSyllabus.jsp?snum=354152&code=10955",
+      "ShowSyllabus.jsp?snum=354152&code=12462",
       "ShowSyllabus.jsp?snum=354152&code=11728",
       "ShowSyllabus.jsp?snum=354152&code=11338",
       "ShowSyllabus.jsp?snum=354152&code=12562",
@@ -9011,6 +9012,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354191&code=11138",
       "ShowSyllabus.jsp?snum=354191&code=11765",
+      "ShowSyllabus.jsp?snum=354191&code=12462",
       "ShowSyllabus.jsp?snum=354191&code=12302",
       "ShowSyllabus.jsp?snum=354191&code=10330",
       "ShowSyllabus.jsp?snum=354191&code=11190",
@@ -9362,9 +9364,11 @@
       "ShowSyllabus.jsp?snum=354230&code=12301",
       "ShowSyllabus.jsp?snum=354230&code=11277",
       "ShowSyllabus.jsp?snum=354230&code=10955",
+      "ShowSyllabus.jsp?snum=354230&code=12462",
       "ShowSyllabus.jsp?snum=354230&code=11726",
       "ShowSyllabus.jsp?snum=354230&code=12302",
       "ShowSyllabus.jsp?snum=354230&code=10330",
+      "ShowSyllabus.jsp?snum=354230&code=12506",
       "ShowSyllabus.jsp?snum=354230&code=11337",
       "ShowSyllabus.jsp?snum=354230&code=12573",
       "ShowSyllabus.jsp?snum=354230&code=11355",
@@ -9783,7 +9787,8 @@
       "ShowSyllabus.jsp?snum=354269&code=10506",
       "ShowSyllabus.jsp?snum=354269&code=12597",
       "ShowSyllabus.jsp?snum=354269&code=11820",
-      "ShowSyllabus.jsp?snum=354269&code=11235"
+      "ShowSyllabus.jsp?snum=354269&code=11235",
+      "ShowSyllabus.jsp?snum=354269&code=11173"
     ]
   },
   {
@@ -10713,6 +10718,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354326&code=12400",
       "ShowSyllabus.jsp?snum=354326&code=11258",
+      "ShowSyllabus.jsp?snum=354326&code=12388",
+      "ShowSyllabus.jsp?snum=354326&code=10843",
       "ShowSyllabus.jsp?snum=354326&code=11397"
     ]
   },
@@ -11399,9 +11406,84 @@
     ],
     "teacher": [
       {
+        "name": "余琬琴",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11113",
+        "code": "11113"
+      },
+      {
+        "name": "呂良賜",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11151",
+        "code": "11151"
+      },
+      {
+        "name": "李宜桓",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11981",
+        "code": "11981"
+      },
+      {
+        "name": "林群哲",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11905",
+        "code": "11905"
+      },
+      {
+        "name": "張淑美",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10914",
+        "code": "10914"
+      },
+      {
+        "name": "許益瑞",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11395",
+        "code": "11395"
+      },
+      {
         "name": "郭霽慶",
         "link": "Teach.jsp?format=-3&year=114&sem=2&code=11535",
         "code": "11535"
+      },
+      {
+        "name": "陳秀慧",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12181",
+        "code": "12181"
+      },
+      {
+        "name": "陳錦文",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12353",
+        "code": "12353"
+      },
+      {
+        "name": "程耀毅",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10995",
+        "code": "10995"
+      },
+      {
+        "name": "華國媛",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11165",
+        "code": "11165"
+      },
+      {
+        "name": "蔡福裕",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11149",
+        "code": "11149"
+      },
+      {
+        "name": "蔡麗珠",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=11108",
+        "code": "11108"
+      },
+      {
+        "name": "蘇昭瑾",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10913",
+        "code": "10913"
+      },
+      {
+        "name": "蘇昱瑋",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=12530",
+        "code": "12530"
+      },
+      {
+        "name": "芮祥鵬",
+        "link": "Teach.jsp?format=-3&year=114&sem=2&code=10714",
+        "code": "10714"
       }
     ],
     "time": {
@@ -11421,7 +11503,21 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3503003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=354388&code=11535"
+      "ShowSyllabus.jsp?snum=354388&code=11113",
+      "ShowSyllabus.jsp?snum=354388&code=11151",
+      "ShowSyllabus.jsp?snum=354388&code=11981",
+      "ShowSyllabus.jsp?snum=354388&code=11905",
+      "ShowSyllabus.jsp?snum=354388&code=10914",
+      "ShowSyllabus.jsp?snum=354388&code=11535",
+      "ShowSyllabus.jsp?snum=354388&code=12181",
+      "ShowSyllabus.jsp?snum=354388&code=12353",
+      "ShowSyllabus.jsp?snum=354388&code=10995",
+      "ShowSyllabus.jsp?snum=354388&code=11165",
+      "ShowSyllabus.jsp?snum=354388&code=11149",
+      "ShowSyllabus.jsp?snum=354388&code=11108",
+      "ShowSyllabus.jsp?snum=354388&code=10913",
+      "ShowSyllabus.jsp?snum=354388&code=12530",
+      "ShowSyllabus.jsp?snum=354388&code=10714"
     ]
   },
   {
@@ -13560,9 +13656,11 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713022",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354493&code=12389",
+      "ShowSyllabus.jsp?snum=354493&code=11051",
       "ShowSyllabus.jsp?snum=354493&code=12494",
       "ShowSyllabus.jsp?snum=354493&code=11225",
       "ShowSyllabus.jsp?snum=354493&code=10821",
+      "ShowSyllabus.jsp?snum=354493&code=12298",
       "ShowSyllabus.jsp?snum=354493&code=12499",
       "ShowSyllabus.jsp?snum=354493&code=12566",
       "ShowSyllabus.jsp?snum=354493&code=11401",
@@ -14396,7 +14494,7 @@
         "code": "499"
       }
     ],
-    "people": "53",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14461,7 +14559,7 @@
         "code": "427"
       }
     ],
-    "people": "66",
+    "people": "65",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14519,7 +14617,7 @@
         "code": "427"
       }
     ],
-    "people": "57",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14653,7 +14751,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "52",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15121,7 +15219,7 @@
         "code": "31"
       }
     ],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16304,7 +16402,9 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5703117",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=354637&code=11429",
+      "ShowSyllabus.jsp?snum=354637&code=11893",
       "ShowSyllabus.jsp?snum=354637&code=10938",
+      "ShowSyllabus.jsp?snum=354637&code=11224",
       "ShowSyllabus.jsp?snum=354637&code=12532",
       "ShowSyllabus.jsp?snum=354637&code=11073"
     ]
@@ -18403,7 +18503,7 @@
         "code": "424"
       }
     ],
-    "people": "83",
+    "people": "82",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18573,7 +18673,7 @@
         "code": "509"
       }
     ],
-    "people": "38",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25038,7 +25138,7 @@
         "code": "333"
       }
     ],
-    "people": "39",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29684,9 +29784,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓235",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=465",
-        "code": "465"
+        "name": "六教727",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=452",
+        "code": "452"
       }
     ],
     "people": "75",
@@ -32412,9 +32512,9 @@
     },
     "classroom": [
       {
-        "name": "共同401",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=120",
-        "code": "120"
+        "name": "共同403",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=122",
+        "code": "122"
       }
     ],
     "people": "23",
@@ -59763,7 +59863,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "152",
+    "people": "158",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -61637,7 +61737,7 @@
         "code": "401"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -62365,7 +62465,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -63407,7 +63507,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "46",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -64297,13 +64397,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "共同103A",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=454",
-        "code": "454"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -64589,9 +64683,9 @@
     },
     "classroom": [
       {
-        "name": "共同303C",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=338",
-        "code": "338"
+        "name": "共同103A",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=454",
+        "code": "454"
       }
     ],
     "people": "10",
@@ -64811,7 +64905,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "63",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -65324,7 +65418,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -66067,7 +66161,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "69",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -66598,7 +66692,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -68065,7 +68159,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -81248,7 +81342,7 @@
         "code": "52"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -84259,9 +84353,9 @@
     },
     "classroom": [
       {
-        "name": "共同301_1",
-        "link": "Croom.jsp?format=-3&year=114&sem=2&code=117",
-        "code": "117"
+        "name": "共同401",
+        "link": "Croom.jsp?format=-3&year=114&sem=2&code=120",
+        "code": "120"
       }
     ],
     "people": "17",
@@ -86737,7 +86831,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -87106,7 +87200,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -87220,7 +87314,7 @@
         "code": "454"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -87278,7 +87372,7 @@
         "code": "337"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -87321,7 +87415,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -87403,7 +87497,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -88449,7 +88543,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -97979,7 +98073,7 @@
         "code": "62"
       }
     ],
-    "people": "27",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -98346,7 +98440,7 @@
         "code": "548"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -109665,7 +109759,7 @@
         "code": "331"
       }
     ],
-    "people": "23",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -112664,7 +112758,7 @@
         "code": "572"
       }
     ],
-    "people": "56",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114050,7 +114144,7 @@
         "code": "98"
       }
     ],
-    "people": "38",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116619,7 +116713,7 @@
         "code": "37"
       }
     ],
-    "people": "88",
+    "people": "90",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117615,7 +117709,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "39",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118482,8 +118576,11 @@
     "notes": "可選老師：能源系或機械系汪家昌、阮于軒",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C003015",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360363&code=11167",
       "ShowSyllabus.jsp?snum=360363&code=10996",
       "ShowSyllabus.jsp?snum=360363&code=12351",
+      "ShowSyllabus.jsp?snum=360363&code=10958",
+      "ShowSyllabus.jsp?snum=360363&code=10870",
       "ShowSyllabus.jsp?snum=360363&code=11684",
       "ShowSyllabus.jsp?snum=360363&code=11319",
       "ShowSyllabus.jsp?snum=360363&code=12561",
@@ -133430,7 +133527,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -133471,7 +133568,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -133594,7 +133691,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -134227,7 +134324,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -136973,6 +137070,129 @@
     "language": "",
     "notes": "經系所同意可修第 2 門論文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "364813",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "互動四",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2806",
+        "code": "2806"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AC03003",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "364814",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "互動三",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2923",
+        "code": "2923"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "14",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC03003",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "364815",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "2",
+    "credit": "1.0",
+    "hours": "20",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "建築四",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=2793",
+        "code": "2793"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
     "syllabusLinks": []
   }
 ]
