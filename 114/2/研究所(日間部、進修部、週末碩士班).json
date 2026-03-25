@@ -6919,7 +6919,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "哈佛",
@@ -7278,7 +7278,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -14090,7 +14090,7 @@
       }
     ],
     "people": "21",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "太空所和創新 AI 合開，億光 405 教室",
@@ -21891,7 +21891,7 @@
         "code": "489"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21966,7 +21966,7 @@
         "code": "490"
       }
     ],
-    "people": "27",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26568,7 +26568,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "44",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29942,7 +29942,7 @@
       }
     ],
     "people": "9",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電機所和創新 AI 合開，計網電腦教室",
@@ -45759,6 +45759,47 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906035",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4906001",
+    "description": {
+      "zh": "中文概述：碩士學位論文寫作",
+      "en": "A student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "364812",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "技職所",
+        "link": "Subj.jsp?format=-4&year=114&sem=2&code=3156",
+        "code": "3156"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "經系所同意可修第 2 門論文",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4906001",
     "syllabusLinks": []
   }
 ]
