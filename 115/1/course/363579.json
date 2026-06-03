@@ -1,0 +1,17 @@
+[
+  {
+    "name": "李春穎",
+    "email": "leech@ntut.edu.tw",
+    "latestUpdate": "2026-06-02 11:24:16",
+    "objective": "先修課程：負責教授同意\n本課程介紹有限元素分析法基本原理及其在各種工程問題上之應用。\n1. 有限元素分析法之基本觀念\n2. 利用變分原理建立有限元素模式\n3. 形狀函數及等參數元素\n4. 一維問題：桿、桁架、樑及骨架等\n5. 二維問題：平面應力應變及板殼問題。\n6. 三維問題：一般實體\n7. 有限元素分析之計算機程式處理\n8. 有限元素分析於動態問題之應用\n9. 相關有限元素分析套裝軟體簡介\nTo introduce the basic principle of the finite element analysis and its application in solving various types of engineering problems.\n1. Introduction to the basic concepts of the finite element analysis\n2. Formulation of the finite models through the use of variational principles\n3. Shape functions and isoparametric elements\n4. One dimensional problems: rod, truss, beam, frame, etc.\n5. Two dimensional problems: plane stress, plane strain and plate, etc.\n6. Three dimensional problems: typical solids\n7. Implementation of the FEM computation by computer\n8. Finite element applications in dynamic problems\n9. Survey of some finite-element software systems",
+    "schedule": "1. Overview of Finite Element Method (1 week)\n2. Discretization of the Domain (1 week)\n3. Interpolation Models (2 weeks)\n4. Higher Order and Isoparametric Elements (2 weeks)\n5. Derivation of Element Matrices and Vectors (2 weeks)\n6. Assembly of Element Matrices and Vectors, and Derivation of System Equations (1 week)\n7. Numerical Solution of Finite Element Equations (1 week)\n8. Application to Solid Mechanics Problems: Basic Equations and Solution Procedure (1 week)\n9. Analysis of Trusses, Beams, and Frames (1 week)\n10. Analysis of Plates (1 week)\n11. Analysis of Three-Dimensional Problems (1 week)\n12. Dynamic Analysis (1 week)\n13. Finite Element Analysis Using ABAQUS, ANSYS (1 week)",
+    "scorePolicy": "\t出席及上課表現 10%\n\t作業 30%\n\t期中考 30%\n\t期末考 30%",
+    "materials": "The Finite Element Method in Engineering, by S. S. Rao, 6th ed., Elsevier, 2018.\n(北科大圖書館 eBook)\nA First Course in Finite Element Method, by Daryl L. Logan, 4th ed., Thomson Learning, 2007.",
+    "consultation": "Email: leech@ntut.edu.twTel: 02-27712171 分機 2070Tel: 02-87731614 研究室：綜合科館 6013C",
+    "延伸教學與資源": "● 無 (None)",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
