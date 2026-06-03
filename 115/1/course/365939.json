@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "王正豪",
+    "email": "jhwang@ntut.edu.tw",
+    "latestUpdate": "2026-06-03 12:55:42",
+    "objective": "本課程為大學部的巨量資料分析導論基礎課程，主要介紹資料前處理、資料探勘概念、關聯分析、分類、分群、平行化程式設計、分散式計算、以及實際分析平台工具如: MapReduce, Spark 等。除了基本概念的介紹外，透過程式練習以及期末專題，能讓學生深入理解巨量資料分析的基本原理以及實際工具的運用。",
+    "schedule": "Part I: Data mining concepts (8 wks)\n1. Introduction to big data & preprocessing (1 wk)\n2. Frequent pattern mining (2 wks)\n3. Data classification (2 wks)\n4. Data clustering (2 wks)\n5. Midterm exam (1 wk)\n\nPart II: Distributed platforms & Parallel programming (4 wks)\n1. Introduction to distributed platforms: Hadoop & Spark  (1 wk)\n2. Parallel programming paradigm & concepts (1 wk)\n3. MapReduce programming: pairs & stripes, relational algebra (1 wk)\n4. More examples: matrix multiplication, similarity (1 wk)\n\nTerm project presentation (4 wks)\n\nFlexible Learning: (2 wks)\n1. Group-based project implementation and discussions: \nfor make-up homeworks, and extra bonus",
+    "scorePolicy": "Homework assignments and programming exercises: ~40%\nMid-term exam: ~25-30%\nTerm project and presentation: ~30-35%\nExtra bonus: <=10% (for makeup homeworks in flexible learning)",
+    "materials": "- Textbooks:\n1. Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2011.\n2. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, \nMorgan & Claypool Publishers, 2010.\n\n- References:\n1. Jure Leskovec, Anand Rajaraman, Jeff Ullman, Mining of Massive Datasets,  2nd edition, Cambridge University Press, 2014.\n2. Recent academic papers, tutorials, and slides.\n\n- Latest information available soon at: https://myweb.ntut.edu.tw/~jhwang/BDA/",
+    "consultation": "1. 可以透過 e-mail 或 Microsoft Teams 裡的訊息聯絡到老師。2. 助教可建立 Facebook 的課程社群，以供同學詢問作業或考試相關問題。",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "1. 課程會盡可能同步錄影，並於課後放上北科 i 學園，教材與相關訊息將公布在以下管道: 北科 i 學園、Teams、或課程網頁。2.  所有修課同學將自動被加入課程 Teams 團隊。如果你是特殊情形加選，或是需要在開學後才能選課完成，目前仍未被加入本課程之 Teams 團隊，請來信: jhwang@ntut.edu.tw，並註明課程名稱與你的班級、姓名。彈性學習: 一、類別 學生分組實作及討論二、內容 (1) 第 17-18 週: 各組針對自選程式作業，可額外進行分組程式實作與討論 (2) 第 18 週結束前: 各組繳交額外程式作業三、時數共 6 小時四、學習成果第 18 週課程結束前各組須繳交額外完成之程式作業五、評量比例 17-18 週額外程式作業: 不超過 10% (總分額外加分)",
+    "foreignLanguageTextbooks": true
+  }
+]

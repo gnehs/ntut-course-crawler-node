@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "林郁修",
+    "email": "yhlin@ntut.edu.tw",
+    "latestUpdate": "2026-06-03 11:53:31",
+    "objective": "類神經網路，機器學習分支之一，具有 universal approximation 的特性 (非線性函數近似器)；因此，其可被應用於控制器設計。另外，其也可被應用於解決分類/函數近似/時間序列預測等問題。本課程內容包含：(1) 介紹、(2) 類神經網路、(3) 類神經網路應用於分類問題、(4) 類神經網路應用於迴歸 (函數近似) 問題、(5) 其它機器學習技術並應用於分類/迴歸問題及 (6) 應用。\nThis course covers important concepts and topics of Artificial Neural Networks (ANN) that can be developed and used to solve classification or function approximation problems. The outline of this course is given as follows. (1) Introduction, (2) ANN, (3) ANN applied in classification, (4) ANN applied in function approximation, (5) ANN applied in time-series data forecasting, and (6) Applications.",
+    "schedule": "週次\t主題說明 (課程內容依實際授課情況彈性調整)\n(若授課教室非為電腦教室，同學需攜帶筆電於課堂練習)\n1\t課程內容介紹與評分方式說明 (overview of this course)\n2\tPython\n3\tAI 介紹 (Introduction to IoT/AI/Machine Learning/Deep Learning) (含數據分析先備基礎 (監督式學習與非監督式學習的流程))\n4\t監督式學習 -- 感知器 (Perceptron) (I) (分類問題)\n5\t監督式學習 -- 感知器 (Perceptron) (II) (Programming assignment #1)\n6\t監督式學習 -- 感知器 (Perceptron) (III) (迴歸問題)\n7\t監督式學習 -- 多層感知器/倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (I) (分類問題)\n8\tProgramming assignment #1 Oral presentation/Due（期中考週）\n9\t監督式學習 -- 多層感知器/倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (II) (分類問題)\n10\t監督式學習 -- 多層感知器/倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (III) (迴歸問題)\n11\t監督式學習 -- 多層感知器/倒傳遞類神經網路 (Multi-Layer Perceptron/Back-Propagation) (IV) (迴歸問題) (Programming assignment #2)\n12\tProgramming assignment #2 Oral presentation/Due\n13\t監督式學習 -- k- 近鄰演算法 (k Nearest Neighbors) (分類/迴歸問題)\n14\t監督式學習 -- 集成學習 (Ensemble Learning) - Bagging (Bootstrap aggregating) (I) (分類/迴歸問題)\n15\t監督式學習 -- 集成學習 (Ensemble Learning) - Bagging (Bootstrap aggregating) (II) (分類/迴歸問題)\n16\t非監督式學習 -- k-Means clustering (聚類問題)",
+    "scorePolicy": "考量學生適應學習與研究生活＆將來學習成績可有競爭力，本課程的要求及評分標準如下，以使得學生可自適應學習與時間管理更具彈性：\n- 學習總成績: 85 起算\n- 作業口頭報告: 至多 + 5  (兩次)  (optional)\n- 學期口頭報告: 至多 + 10  (optional)\n\n（It's not my true job to make you happy! You should avoid Positive Fantasies!）",
+    "materials": "- https://scikit-learn.org/stable/；https://www.tensorflow.org/\n- Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, Learning From Data, AMLBook, 2012.\n- Chin-Teng Lin and C. S. George Lee, Neural Fuzzy Systems: A NeuroFuzzy Synergism to Intelligent Systems, Prentice Hall, 1996.\n- 教師自編教材/lecture notes (Lectures will be distributed through our University's iPlus-learning system)",
+    "consultation": "1. e-mail: yhlin@ntut.edu.tw2. 課程 LINE 群組 (將於開學第二週創立供修課同學加入)",
+    "延伸教學與資源": "● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）SDG17：夥伴關係（Partnerships for the Goals）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "一、類別　學生學期專案實作及討論二、內容 (optional)　(1) 第 17 週: 第一梯次學生學期專案實作及討論（每人 10–15 分鐘 oral）　(2) 第 18 週: 第二梯次學生學期專案實作及討論（每人 10–15 分鐘 oral）(期末考週) 三、時數　總共 6 小時四、學習成果　每梯次於 oral 報告前一日，上傳繳交 PPT 簡報檔五、評量比例　PPT 簡報與 oral 報告: 至多 + 10（10%）",
+    "foreignLanguageTextbooks": false
+  }
+]
