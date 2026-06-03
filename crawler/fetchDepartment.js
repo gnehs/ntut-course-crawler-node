@@ -42,7 +42,7 @@ async function fetchDepartment(year = 110, sem = 2) {
   }
 
   cheerioTableparser($);
-  data = rotation2DArray($("table").parsetable(false, true, true));
+  let data = rotation2DArray($("table").parsetable(false, true, true));
   for (let col of data) {
     let college = col[0].replace(/\n| /g, "");
     if (college == "") college = "校院級";
@@ -73,4 +73,3 @@ function rotation2DArray(data) {
   return result;
 }
 module.exports = { fetchDepartment };
-fetchDepartment();

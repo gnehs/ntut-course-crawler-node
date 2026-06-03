@@ -1,6 +1,6 @@
 const cheerio = require("cheerio");
 const axios = require("axios").default;
-const axiosRetry = require("axios-retry");
+const axiosRetry = require("axios-retry").default;
 axiosRetry(axios, { retries: 10, shouldResetTimeout: true });
 const delay = (s) => new Promise((resolve) => setTimeout(resolve, s));
 

@@ -14,13 +14,13 @@ jobs:
       matrix:
         department: [0, 1, 2]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           cache: "npm"
       - name: Install npm packages
-        run: npm install
+        run: npm ci
       - name: fetch course data
         run: node fetchCourse.js ${{ matrix.department }}
       - uses: actions/upload-artifact@v4
@@ -35,15 +35,15 @@ jobs:
       matrix:
         department: [0, 1, 2]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           cache: "npm"
       - name: Install npm packages
-        run: npm install
+        run: npm ci
       - name: get artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: course-${{ matrix.department }}
           path: ./dist/
@@ -59,10 +59,10 @@ jobs:
     needs: [FetchCurrent, FetchSyllabus]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
+      - uses: actions/checkout@v6
+      - uses: actions/download-artifact@v5
         with:
-          pattern: "*"
+          pattern: syllabus-*
           path: ./dist/
           merge-multiple: true
       - name: Show All years

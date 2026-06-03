@@ -1,6 +1,6 @@
 const fs = require("fs");
 const ical = require("node-ical");
-const pangu = require("pangu");
+const pangu = require("./tools/pangu").spacing;
 let url =
   "https://calendar.google.com/calendar/ical/docfuhim9b22fqvp2tk842ak3c%40group.calendar.google.com/public/basic.ics";
 
@@ -13,7 +13,7 @@ let url =
     .sort((a, b) => new Date(a.start) - new Date(b.start))
     .map((x) => {
       console.log(x);
-      x.summary = pangu.spacing(x.summary);
+      x.summary = pangu(x.summary);
       return x;
     });
   fs.mkdirSync("./dist/", { recursive: true });

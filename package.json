@@ -17,13 +17,15 @@
   },
   "homepage": "https://github.com/gnehs/ntut-course-crawler-node#readme",
   "dependencies": {
-    "axios": "^0.21.4",
-    "axios-retry": "^3.9.1",
-    "cheerio": "^1.0.0-rc.11",
+    "axios": "^1.16.1",
+    "axios-retry": "^4.5.0",
+    "cheerio": "^1.2.0",
     "cheerio-tableparser": "^1.0.1",
+    "clsx": "^2.1.1",
     "colors": "^1.4.0",
-    "jsonfile": "^6.1.0",
-    "node-ical": "^0.15.3",
-    "pangu": "^4.0.7"
+    "jsonfile": "^6.2.1",
+    "node-ical": "^0.26.1",
+    "pangu": "^7.2.1",
+    "tailwind-merge": "^3.6.0"
   }
 }
