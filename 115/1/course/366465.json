@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "張文中",
+    "email": "wchang@ntut.edu.tw",
+    "latestUpdate": "2026-06-03 17:00:07",
+    "objective": "Advanced robotic manipulation is offered to graduate students interested in learning issues in design and analysis of robotics.  In addition to lectures on advances in robotic manipulation and/or mobile robotics, oral presentations and reports on robotics research papers are required.  Main topics in the course are as follow.\n\n1. Spatial descriptions, transformations, and representations for orientation   2. Manipulator kinematics  3. Manipulator inverse kinematics  4. Jacobians: velocities and static forces  5. Manipulator dynamics   6. Trajectory generation and manipulator design 7. EKF-SLAM  8. Advances in manipulators and mobile robotics  9. Paper presentations and reports.\n\nCourse handouts will be available via iStudy web. A number of homework questions, based on problem sets in the textbook, will be assigned for students to complete in class in an open-book fashion. Each student is required to make an oral presentation and submit a report based on a technical paper in related topics.",
+    "schedule": "1\t09/09\tIntroduction\n2\t09/16\tSpatial descriptions, transformations, and representations \n\t\tfor orientation\n3\t09/23\tLink description and affixing frames to links\n4\t09/30\tLink transformations and forward kinematics examples\n5\t10/07\tInverse kinematics\n6\t10/14\tPieper’s solution\n7\t10/21\tJacobians: velocities and static forces\n8\t10/28\tManipulator dynamics (1/2)\n9\t11/04\tMidterm examination\n10\t11/11\tManipulator dynamics (2/2)\n11\t11/18\tTrajectory generation and manipulator design\n12\t11/25\tExtended Kalman Filter\n13\t12/02\tMotion And Measurement\n14\t12/09\tEKF-SLAM\n15\t12/16\tAdvances in manipulators and mobile robotics\n16\t12/23\tFinal presentations (1/2)\n17\t12/30\tFinal presentations (1/2) or optional Final examination\n18\t01/06\tFinal reports due\n\nPS: The contents and order of lectures and final presentations will be adjusted according to actual needs",
+    "scorePolicy": "The final grade will be a weighted average of attendance 10%, in-class open-book homework 30%, midterm 30%, final presentation and report (or optional final examination) 30%.",
+    "materials": "1.\tIntroduction to Robotics: Mechanics and Control, 4th Edition, John J. Craig, Pearson Education.",
+    "consultation": "Prof. Wen-Chung Chang(02)27712171 Ext. 2125, wchang@ntut.edu.twOffice hours: Check official EE websiteTA: Mr. Shao-Jie Kuo(02)27712171 Ext. 2130, t114318112@ntut.edu.tw",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "Response to government epidemic alert, course lecture and presentations will be offered online via Microsoft Teams at class hours and recorded lectures are available in iStudy.  Please refer to Taipei Tech's iStudy for details about this course.",
+    "foreignLanguageTextbooks": true
+  }
+]

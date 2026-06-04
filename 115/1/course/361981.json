@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "陳柏全",
+    "email": "bochen@ntut.edu.tw",
+    "latestUpdate": "2026-06-03 20:23:49",
+    "objective": "先修課程: 負責教授同意\n控制系統簡介、時域建模、多次系統簡化、時間響應、穩定性、穩態誤差、根軌跡、頻域建模、頻率響應。並將以車輛控制與電力控制為例，說明控制器的應用與設計，並將簡介軌道車輛集電弓控制與 TCMS 的控制觀念。",
+    "schedule": "1 Introduction of Control System (控制系統簡介)(Ex. TCMS)\n2 Dynamic Models (時域建模) (Ex. 車輛控制、電力控制、集電弓控制)\n3 Review of Laplace Transform (時間響應)\n4 Effect of Pole and Zero Locations (多次系統簡化)\n5 Routh's Stability Criterion (穩定性)\n6 Basic Properties of Feedback (穩態誤差)(Ex. 車輛控制、電力控制、集電弓控制)\n7 期中翻轉作業課堂報告\n8 Midterm Exam\n9 Guidelines for Sketching a Root Locus\n10 Dynamic Compensations - Rootlocus\n11 Frequency Response\n12 Bode Plot (頻域建模、多次系統簡化、穩態誤差)\n13 Nyquist Criterion and Stability Margin (穩定性)\n14 Dynamic Compensations – Frequency Resp.\n15 期末翻轉作業課堂報告\n16 Final Exam\n17 (彈性學習 1)\n18 (彈性學習 2)",
+    "scorePolicy": "分組翻轉作業簡報 30%、期中考 35%、期末考 35%",
+    "materials": "Feedback Control of Dynamic Systems, 8th Edition, by Gene F. Franklin, J. David Powell, and Abbas Emami-Naeini, Pearson Education.",
+    "consultation": "研究室分機：3672 辦公室位置：綜合科館 526-25 如果 office hour 時段不行的話，請再另外以 email 跟老師約時間，或者是 concall 也可以。",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "彈性學習 / Flexible Learning 教師需於「課程進度」填寫 1 至 16 週課程內容，並於下列欄位填寫 17 至 18 週彈性學習內容。一、類別 (可複選)□學生分組實作及討論二、內容 (1) 第 17 週: 針對期中翻轉作業，各組歸納出一份簡報，並在課堂中抽題用 15 分鐘報告。(2) 第 18 週: 針對期末翻轉作業，各組歸納出一份簡報，並在課堂中抽題用 15 分鐘報告。三、時數總共 6 小時。四、學習成果第 7 週上課前需繳交期中翻轉作業簡報；第 15 週上課前需繳交期末翻轉作業簡報。五、評量比例 (1) 翻轉作業簡報資料: 10%(2) 17-18 週課堂報告翻轉作業表現: 20%",
+    "foreignLanguageTextbooks": true
+  }
+]

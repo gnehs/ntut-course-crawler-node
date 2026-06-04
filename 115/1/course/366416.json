@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "林濬璈",
+    "email": "jalin@ntut.edu.tw",
+    "latestUpdate": "2026-06-03 17:26:00",
+    "objective": "本課程將涵蓋電腦科學的理論基礎。其內容包含自動機理論，電腦語言學，以及計算形式等。電腦相關的基本數學也將涵蓋在課程範圍之中。包括集合論，基本關係及及操作，以及理論證明工具與技術。課程大綱: 基礎理論介紹，有限狀態自動機 / 一般敘述語法，Regular 集合的基本性質，前後文無相關文法， Pushdown 自動機，杜林機（turning machines），Chomsky 層次結構，基本關係及操作，理論證明技術及工具。\nThis course will look the theoretical foundation in computer science.  Automata theory, languages, and computation formalism will be examined in details.  Various fundamental computer-related mathematics will also be covered.  They include, sets/subsets, basic relations and operations and tools/techniques for proving theorems. Course Outline: Introduction to Theoretical Foundations, Finite Automata / Regular Expression, Properties of Regular Sets, Context-Free Grammars, Pushdown Automata, Turing Machines, The Chomsky Hierarchy (tentative), Basic Relations and Operations, Tools/Techniques for Proving Theorems.",
+    "schedule": "1)\tRegular Languages (4 weeks): Deterministic and non-deterministic finite automata, closure properties, regular expressions, Brzozowski derivatives, the pumping lemma for regular languages, DFA minimization, the Myhill-Nerode theorem.   \n2)\tContext-Free Languages (4 weeks): Context-free grammars, normal forms, the pumping lemma for context-free languages, pushdown automata, closure properties.\n3)\tDecidable and Undecidable Languages (5 weeks): Turing machines, the Church-Turing thesis, computability, undecidability, the Halting Problem, reductions, basic complexity classes.\n4)    Model Checking (3 weeks): Buechi-Automata, Kripke system, Linear Temporal Logic, Conputational Tree Logic, Model Checking Problem, Algorithms for MC.\n\n\nWeek 1: Introduction\nWeek 2--5: Finite State Automata & Regular Language\nWeek 6--8: Context-Free Languages & Pushdown Automata\nWeek 9: mid-term\nWeek 10--12: Turing Machine & Complexity Theorem\nWeek 13--14: Model Checking\nWeek 15: Final Project Presentation\nWeek 16: Final Project Presentation\nWeek 17&18: TBA",
+    "scorePolicy": "Assignment 50%\nMid-term 20%\nFinal 30%",
+    "materials": "There is no required textbook for this course. However, lectures are based largely on the following sources—you can consider one of these if you're looking for a reference:\n\n1. Michael Sipser, “Introduction to the Theory of Computation”\n2. John Hopcroft and Jeffrey Ullman, “Introduction to Automata Theory, Languages, and Computation”\n\nOther supplementary resources: \n\n3. Alexandra Silva, \"Kleene Coalgebra\", Ph.D. thesis\n4. Javier Esparza and Michael Blondin, \"Automata Theory -- An Algorithmic Approach\", https://michaelblondin.com/automata/\n5. C. Baier, J.-P. Katoen, \"Principal of Model Checking\"",
+    "consultation": "Email: jalin@ntut.edu.tw",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "Course Website: TBA",
+    "foreignLanguageTextbooks": false
+  }
+]

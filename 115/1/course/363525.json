@@ -2,16 +2,16 @@
   {
     "name": "葉賜旭",
     "email": "ssyeh@ntut.edu.tw",
-    "latestUpdate": "2026-06-02 15:53:59",
-    "objective": "先修課程：線性代數、微分方程、三角函數、動力學、自動控制、電工原理。\n本課程可使得同學們瞭解手臂機器人的運動學分析方式、軌跡運動技術、動態系統分析與力量控制方式等，作為深入機器人技術研究與應用的學習。課程首先簡介各種固定式機械臂機器人的可能架構與產業應用，當同學們對機器人技術有適當的概念後，可進入細部技術的介紹：運動學分析、動力學分析、動態控制器設計與分析、路徑與軌跡規劃等。",
-    "schedule": "1. Introduction\n2. Rigid Motions and Homogeneous Transformations\n3. Forward and Inverse Kinematics\n4. Velocity Kinematics – The Jacobian\n5. Independent Joint Control\n6. Path and Trajectory Planning\n7. Dynamics\n8. Multivariable Control\n9. Force Control",
-    "scorePolicy": "第一次測驗：30%\n第二次測驗：30%\n第三次測驗：30%\n平時成績：10%",
+    "latestUpdate": "2026-06-03 15:22:22",
+    "objective": "先修課程：線性代數、微分方程、三角函數、動力學、自動控制、電工原理。\n本課程可使得同學們瞭解手臂機器人的運動學分析方式、軌跡運動技術、以及獨立關節控制設計等，作為深入機器人技術研究與應用的學習。課程首先簡介各種固定式機械臂機器人的可能架構與產業應用，當同學們對機器人技術有適當的概念後，可進入細部技術的介紹：運動學分析、關節控制器設計與分析、路徑與軌跡規劃等。",
+    "schedule": "1. Introduction\n2. Rigid Motions and Homogeneous Transformations\n3. Forward and Inverse Kinematics\n4. Velocity Kinematics – The Jacobian\n5. Independent Joint Control\n6. Path and Trajectory Planning",
+    "scorePolicy": "第一次測驗：30%\n第二次測驗：30%\n第三次測驗：20%\n彈性學習書面報告：10%\n平時成績：10%",
     "materials": "Robot Modeling and Control, M. K. Spong, S. Hutchinson, M. Vidyasagar, WILEY, 2006.",
     "consultation": "學生可以 email (ssyeh@ntut.edu.tw) 或課程 LINE 群組與老師聯絡討論，或是於教師諮商時間到老師辦公室討論。",
-    "延伸教學與資源": "● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "延伸教學與資源": "● 無 (None)",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "",
+    "remarks": "彈性學習 / Flexible Learning  一、類別線上數位教材學習 (DeltaMOOCx)。二、內容 (1) 第 17 週: 機器手臂之動力學 (上)(下)。 (2) 第 18 週: 機器手臂之多軸控制。 三、時數 總共 6 小時。  四、學習成果 第 18 週課程結束前須繳交書面報告。  五、評量比例 書面報告: 10%",
     "foreignLanguageTextbooks": true
   }
 ]
