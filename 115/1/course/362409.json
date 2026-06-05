@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "李仁貴",
+    "email": "evans@ntut.edu.tw",
+    "latestUpdate": "2026-06-04 14:08:39",
+    "objective": "瞭解微算機之基本組織架構及應用，內容包含：1.PC 之使用，2. 微電腦學習機之使用，3. 邏輯分析儀之使用，4. 組合語言之設計與除錯，5. 記憶體設計 ROM/RAM，6. 輸出入埠設計及程式控制，7. 輸出入埠應用 (鍵盤介面、LED 顯示介面)，8.A/D、D/A 介面設計，9. 簡單 PC 介面卡設計 (PIO 及 SIO) 介面，單晶片之設計與應用。",
+    "schedule": "微算機原理及應用實習:\n1.\t實驗一: 環境介紹與範例程式\n2.\t實驗二: GPIO 的應用 - LED 與按鈕\n3.\t實驗三: UART 的原理與應用\n4.\t實驗四: UART - 輪巡傳接值\n5.\t實驗五: ADC 應用\n6.\t實驗六: Timer 計數器\n7.\t實驗七: LCD 顯示圖形英數字\n8.\t實驗八: LCD 自繪圖型工具\n生醫平台之資訊:\n9.\t生醫平台的組裝及測試。\n10.\t開放 API：量測生理訊號，並轉換成心跳、血壓及血氧等參數。",
+    "scorePolicy": "(每周實習成果評分 * 10 + 期末專題評分 * 3 + 平常成績)/14",
+    "materials": "(1) Cortex-M3 平台使用手冊, 意法半導體\n(2) 李仁貴等, 穿戴式生醫量測原理與實驗, 全華圖書 2016",
+    "consultation": "每周二、四上午到綜合科館 404 研究室 或到 綜科館 406 實驗室找助教。",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "採實體實驗課為主，若有疫情將採錄影方式進行。",
+    "foreignLanguageTextbooks": true
+  }
+]

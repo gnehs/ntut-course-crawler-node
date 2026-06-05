@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "林敬皇",
+    "email": "gbox@ntut.edu.tw",
+    "latestUpdate": "2026-06-04 14:31:05",
+    "objective": "企業網路常遭遇的問題及先進的網路應用等議題建構課程內容，並配合專題實作或問題解決方式實作，規畫進行業界參訪及邀請業界專家示範，將目前最新進的技術知能及企業現場之網路議題介紹給學生，讓其能獲得更新更深入的學習體驗，提昇學習理解，進而培育學生以所學技術去解決企業網路應用及問題的能力，進而促進合作學習與分析企業資料通訊及網路架構之規畫、設計與實現。\n本課程規劃課程以 8 週來教授課堂上的理論知識，另外 10 週將以實作工作坊、業界講師協同教學等相關活動。\nWe construct course content on topics such as common problems encountered by enterprise networks and advanced network applications, and coordinate with the implementation of special topics or problem-solving methods. We plan to conduct industry visits and invite industry experts for demonstrations, so as to integrate the latest technical knowledge. and corporate on-site network issues are introduced to students, so that they can obtain newer and more in-depth learning experiences, improve learning understanding, and then cultivate students' ability to use the learned technologies to solve corporate network applications and problems, thereby promoting cooperative learning and analysis Planning, design and implementation of enterprise data communication and network architecture.\nThis course is planned to teach theoretical knowledge in the classroom for 8 weeks, and the other 10 weeks will include practical workshops, collaborative teaching by industry lecturers, and off-campus visit-related activities.",
+    "schedule": "週次\t課程主題\n1\t開學 - 企業網路應用\n2\t網路參考模型與資料通訊\n3\t網路協議與 IP 位址 - 實作工作坊：封包擷取\n4\t子網劃分與路由\n5\t實作工作坊：IPv4 路由設定\n6\t實體層 (Physical Layer)\n7\t網路連接線路材質、有線、無線、光網路\n8\t實作工作坊：網路連接線路\n9\t期中考 - 課程期中考試\n10\tLayer 2~7 設備及用途介紹\n11\t無線網路應用\n12\t網路架構設計\n13\t網路監控與故障排除\n14\t軟體定義網路 (SDN)\n15\t實作工作坊：網路模擬器實作\n16\t網路安全\n17\t專題報告\n18\t期末考週 - 專題報告",
+    "scorePolicy": "1. 前後測、問卷調查 \n2. 課堂出席 10%\n3. 期中考試 20%\n3. 實作與課堂作業 40%\n4. 期末分組專題報告  30%",
+    "materials": "使用教材：\nOpenTextbook:\nComputer Networking : Principles, Protocols and Practice, https://open.umn.edu/opentextbooks/textbooks/computer-networking-principles-protocols-and-practice\nAn Introduction to Computer Networks - Second Edition, https://open.umn.edu/opentextbooks/textbooks/an-introduction-to-computer-networks\nComputer Networks: A Systems Approach, https://book.systemsapproach.org/\n\nSoftware Denfine network, \n1.https://github.com/SystemsApproach/sdn\n2.https://sdn.systemsapproach.org/\n\n其他：\n1.https://ithelp.ithome.com.tw/tags/articles/% E4% BC%81% E6% A5% AD% E8% B3%87% E6%96%99% E9%80%9A% E8% A8%8A\n2.https://learn.saylor.org/mod/page/view.php?id = 27461 & forceview = 1\n3.http://www.tsnien.idv.tw/Network_WebBook/Network.html\n4.http://www.tsnien.idv.tw/Manager_WebBook/% E7%9B% AE% E9%8C%84.html",
+    "consultation": "1. Office Hour: 週一下午 13:00-16:00, 週三 13:00-17:00 (科技大樓 637 室) 2. E-mail: gbox@ntut.edu.tw",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

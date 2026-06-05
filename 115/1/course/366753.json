@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "曾百由",
+    "email": "stephen@ntut.edu.tw",
+    "latestUpdate": "2026-06-04 13:03:51",
+    "objective": "先修課程：電子軟體系統或相當之課程\n數位訊號處理簡介，DSP 架構與控制器硬體簡介，計時器、輸入捕捉、輸出比較，波寬調變，類比訊號轉換週邊功能與通訊架構介紹，DSP 訊號處理與控制應用。",
+    "schedule": "1.    數位訊號控制器介紹\n2.     Microchip 開發工具，組合語言介紹\n3.     實驗板介紹\n4.     數位輸出入埠\n5.     控制器的設定\n6.     LCD 液晶顯示器\n7.     計時器／計數器\n8.     期中考\n10.   高速類比數位訊號轉換器\n11.   通用非同步接收傳輸模組\n12.   輸出比較模組\n13.   輸入捕捉模組\n14.   馬達控制 PWM 模組\n15.   定位編碼器介面模組\n16.   Data EEPROM 電氣可抹除唯讀資料記憶體\n17.   DSP 數位訊號處理功能\n18.   期末考",
+    "scorePolicy": "Quiz 20%\nMidterm Test 25%,\nFinal Test 25%,\nHands-on Project 20%,\nParticipation 10%",
+    "materials": "組合語言與 PIC18 微控制器\nC 語言與 PIC18 微控制器\ndsPIC 數位訊號控制器原理與應用\n曾百由著\n五南文化股份有限公司\n\nMicrochip 技術手冊",
+    "consultation": "Office Hours or In Class",
+    "延伸教學與資源": "● 參與式創新教學 (Participatory & Innovative Teaching) 強調學生參與與產出，導入翻轉、PBL/專題、設計思考或遊戲化等策略。Emphasizes student engagement and outcomes by adopting strategies such as Flipped Classroom, PBL (Problem/Project- Based Learning), Design Thinking, or Gamification.● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "remarks": "實作課程，須具備微處理器與 C 語言程式基礎",
+    "foreignLanguageTextbooks": false
+  }
+]
