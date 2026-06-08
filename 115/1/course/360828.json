@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "陳世剛",
+    "email": "chensg@ntut.edu.tw",
+    "latestUpdate": "2026-06-07 10:32:00",
+    "objective": "各種時域響應之電腦繪圖，矩陣各項特性分析與應用，根值軌跡圖，波德圖，奈奎士圖，PID 控制器之設計，Lead-Lag 補償器之設計，控制器時域及頻域分析，控制器在狀態空間之設計，實例探討，書報研讀。\nCourse Title:Automatic Control Practice\nDescription:This course is first to introduce the basic concepts of\ncontrol systems and the mathematical background, second, state the\ntransfer function, block diagram and signal  flow graph, third,\ndiscuss the mathematical modeling of control systems and elements, and\nforth, describe the time-domain analysis, root locus techniques and\nfrequency-domain of control systems, and then to measure the character\nof control systems, Finally, the design of control system will be\nintroduced.",
+    "schedule": "Week 1:    Course Overview and Introduction \nWeek 2:    Introduction of MATLAB\nWeek 3:    Introduction of Simulink \nWeek 4:    Modeling in the Frequency Domain and Time Domain \nWeek 5:    Time Responses Analysis and Steady-State Errors\nWeek 6:    Root Locus Analysis\nWeek 7:    PID Controller Design\nWeek 8:    Frequency Response Analysis\nWeek 9:    Frequency Response-Compensation\nWeek 10:  Frequency Response-Nyquist Plot and Stability\nWeek 11:  Converter Control Applications\nWeek 12:  Converter Control Applications\nWeek 13:  Open Loop Speed Control of Three Phase PMSM\nWeek 14:  Closed Loop Speed Control of Three Phase PMSM\nWeek 15:  Design of PI Current Controller for Synchronous Motor\nWeek 16:  Final Project\nWeek 17:  Final Project\nWeek 18:  Final Report",
+    "scorePolicy": "Attendance/learning attitude 25%\nLab reports 45%\nFinal report 30%",
+    "materials": "1. Norman S. Nise, Control Systems Engineering, 8/e, John Wiley & Sons, 2019.\n2. 控制系統設計與模擬：使用 MATLAB/SIMULINK，李宜達編著。\n3. Self-made PPT",
+    "consultation": "1. Please contact me via email (chensg@mail.ntut.edu.tw)2. 316 Lab. TA",
+    "延伸教學與資源": "● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
