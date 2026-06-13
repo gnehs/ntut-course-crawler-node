@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "紀乃文",
+    "email": "nwchi@ntut.edu.tw",
+    "latestUpdate": "2026-06-12 17:42:43",
+    "objective": "許多現成的工程軟體並無法滿足所有客製化的需求，因此會開放作謂的「應用程式介面」（Application Programming Interfaces, API）供使用者進行二次開發，使其能自行拼湊、重組與創造需要的功能。本課程以建築資訊塑模（BIM）或人工智慧（AI）應用為主要示範案例，訓練學生有系統地理解 API 的規格說明文件，並且有效率地開發 API 應用程式，以達到各種工程應用軟體的客製化應用，並提升不同軟體間的交互操作性。\nMany engineering software packages may not fully meet all customized requirements, thus they provide Application Programming Interfaces (APIs) for users to engage in secondary development. This course takes Building Information Modeling (BIM) and Artificial Intelligence (AI) applications as primary demonstration examples, and trains the enrolled students to systematically understand API documentations as well as efficiently develop API applications. It can help the enrolled students to customize their software for solving the engineering problems. In addition, it also enhances the  interoperability between different engineering software packages.",
+    "schedule": "1\tCourse introduction\n2\tIntroduction to BIM and Revit API: Basic settings for IDE and Revit API\n3\tIntroduction to C# programming language: Standard IO and windows form\n4\tIntroduction to C# programming language: Variables\n5\tIntroduction to C# programming language: Control flow \n6\tIntroduction to C# programming language:Array and containers \n7\tIntroduction to C# programming language: Loop \n8\tIntroduction to C# programming language: Function\n9\tTerm project proposal presentation\n10\tIntroduction to C# programming language: Object Oriented Programming(1)\n11\tIntroduction to C# programming language: Object Oriented Programming(2)\n12\tRevit API implementation: Access the parameters in BIM model\n13\tRevit API implementation: Data exchange between BIM model and database\n14\tRevit API implementation: Create/Modify components for BIM model(1)\n15\tRevit API implementation: Create/Modify components for BIM model(2)\n16\tFinal presentation",
+    "scorePolicy": "作業 Assignments (40%)\n課堂練習 Lab Exercise (30%) \n期末專題（需以英文上台發表） Term Project (30%)",
+    "materials": "Autodesk (2023), Revit API Developers Guide, <available: http://help.autodesk.com/view/RVT/2023/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42 >",
+    "consultation": "nwchi@ntut.edu.tw",
+    "延伸教學與資源": "● 無 (None)",
+    "課程對應SDGs指標": "無（None）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
