@@ -2,16 +2,16 @@
   {
     "name": "邱家吉",
     "email": "ccchiu@ntut.edu.tw",
-    "latestUpdate": "2026-06-07 03:18:38",
+    "latestUpdate": "2026-06-21 16:30:34",
     "objective": "This course introduces common mathematical methods for engineering applications and helps students know how to solve engineering problems by using mathematical methods. The course includes (1) First-order ordinary differential equation; (2) Higher-order ordinary differential equation; (3) System of ordinary differential equations; (4) Power series method; (5) Laplace transforms and helps students to gain knowledge of engineering mathematics through theories and calculations.",
-    "schedule": "Week 1 First order ODEs\nWeek 2 First order ODEs\nWeek 3 First order ODEs\nWeek 4 Second and higher order linear ODEs\nWeek 5 Second and higher order linear ODEs \nWeek 6 Second and higher order linear ODEs\nWeek 7 1st Midterm exam\nWeek 8 Second and higher order linear ODEs\nWeek 9 Second and higher order linear ODEs\nWeek 10 Systems of ODEs\nWeek 11 Systems of ODEs\nWeek 12 2nd Midterm exam (11/25 Conference break)\nWeek 13 Laplace transforms\nWeek 14 Laplace transforms\nWeek 15 Laplace transforms\nWeek 16 Power series method \nWeek 17 Legendre’s equation\nWeek 18 Final exam",
-    "scorePolicy": "1st Midterm (33%), 2nd Midterm (33%), Final exam (33%), Attendance (+5%)\n(Vote on 1st week)",
+    "schedule": "Week 1 First order ODEs\nWeek 2 First order ODEs: Exact and non-Exact ODEs\nWeek 3 First order ODEs: Linear ODEs\nWeek 4 Second order linear ODEs\nWeek 5 Second order linear ODEs \nWeek 6 Higher order linear ODEs\nWeek 7 Higher order linear ODEs\nWeek 8 Midterm exam \nWeek 9 Systems of ODEs\nWeek 10 Systems of ODEs\nWeek 11 Laplace transforms\nWeek 12 (11/25 Conference break)\nWeek 13 Laplace transforms\nWeek 14 Laplace transforms\nWeek 15 Power series method\nWeek 16 Final exam\nWeek 17-18 Practice of solving ODE problems by AI",
+    "scorePolicy": "Midterm (50%), Final exam (50%), Attendance (+5%)",
     "materials": "Kreyszig, E. (2011): Advanced engineering mathematics, 10th edition.",
     "consultation": "寫 Email 或至材資館 304 室找老師",
     "延伸教學與資源": "● 無 (None)",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 無（None）",
-    "remarks": "",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "During Weeks 17-18, students will practice using AI tools to analyze ordinary differential equation problems. If students encounter any issues while using these tools, they are encouraged to consult the instructor.",
     "foreignLanguageTextbooks": true
   }
 ]
