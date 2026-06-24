@@ -2,16 +2,16 @@
   {
     "name": "宋國明",
     "email": "gmsung@ntut.edu.tw",
-    "latestUpdate": "2026-06-03 16:50:24",
-    "objective": "瞭解 CMOS 超大型積體電路之電路元件特性及其組合電路之分析與設計方法，其內容包含：金氧半電晶體電路特性分析、電路性能評估、電路模擬、組合電路設計、序向電路設計、設計方法分析、測試與驗證、CMOS 案例討論與 Verilog HDL 設計等課程內容。\nThis course covers the electric specification, circuit analyses, and design methods of the CMOS VLSI. The contents of this course include: Circuit characterization, performance estimation, Circuit simulation, Combinational circuit, Sequential circuit, Design methodology, Testing and verification, CMOS case study, and Verilog HDL design.",
-    "schedule": "Week 1: Course introduction\nWeek 2: CMOS Transistor Theory\nWeek 3-4: Nonideal Transistor Theory\nWeek 5-6: DC and Transient Response\nWeek 7-8: Logic Effort\nWeek 9: Midterm exam.\nWeek 10-11: Power\nWeek 12-13: Wires\nWeek 14-15: SPICE Simulation (Homework)\nWeek 16: Circuit Families and Combinational Circuit\nWeek 17: Sequential Circuit Design\nWeek 18: Final exam.",
-    "scorePolicy": "Coursework and Grading:\nCourse grades will be based on the following work. The final weighting may be changed slightly.\nClass participation: 30%\nMidterm exam: 30%\nFinal project: 40%",
+    "latestUpdate": "2026-06-23 16:18:38",
+    "objective": "This course covers the electric specification, circuit analyses, and design methods of the CMOS VLSI. The contents of this course include: Circuit characterization, performance estimation, Circuit simulation, Combinational circuit, Sequential circuit, Design methodology, Testing and verification, CMOS case study, and Verilog HDL design.\n瞭解 CMOS 超大型積體電路之電路元件特性及其組合電路之分析與設計方法，其內容包含：金氧半電晶體電路特性分析、電路性能評估、電路模擬、組合電路設計、序向電路設計、設計方法分析、測試與驗證、CMOS 案例討論與 Verilog HDL 設計等課程內容。",
+    "schedule": "Week 1: CMOS Transistor Theory\nWeek 2-3: Nonideal Transistor Theory\nWeek 4-5: DC and Transient Response\nWeek 6-7: Logic Effort\nWeek 8: Midterm exam.\nWeek 9-10: SPICE Simulation (Homework)\nWeek 11-13: Combination Circuit Design\nWeek 14-15: Sequential Circuit Design\nWeek 16: Final exam.\nWeek 17-18: Circuit simulation of assigned project.",
+    "scorePolicy": "Coursework and Grading:\nCourse grades will be based on the following work. The final weighting may be changed slightly.\nClass participation: 30%\nMidterm exam: 30%\nFinal project: 40%\nWeek 17-18: Does not count as a grade.",
     "materials": "Neil H. E. Weste and David Harris, “CMOS VLSI Design－A Circuit and System Perspective,” Third Edition, 2005. 偉明圖書有限公司 (www.wmbook.com.tw, TEL：2363-8586, 2363-6567, ISBN：0-321-14901-7)",
-    "consultation": "請至老師研究室 (綜合科館 317 室) 討論。",
+    "consultation": "Curricular consultation at Room 317, Mixed Building.",
     "延伸教學與資源": "● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
     "課程對應SDGs指標": "SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "課程是否導入AI": "● 無（None）",
-    "remarks": "因應疫情防疫規定，調整教學方式為遠距教學，使用 google meet 教學軟體，代碼為: tmd-ictd-ifr，老師連絡方式：(02) 27712171#2121、0939-941496 或　gmsung@ntut.edu.tw。",
+    "remarks": "google meet code: tmd-ictd-ifr，TEL：(02)27712171#2121、Mobile: 0939-941496, Email: gmsung@ntut.edu.tw。",
     "foreignLanguageTextbooks": true
   }
 ]
