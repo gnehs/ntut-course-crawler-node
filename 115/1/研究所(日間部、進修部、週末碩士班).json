@@ -35396,5 +35396,101 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366995&code=11729"
     ]
+  },
+  {
+    "code": "C005005",
+    "description": {
+      "zh": "本課程為本校「智慧鐵道學程」的選修課程。本課程開授之目標，是希望修課學生能夠瞭解現今整個鐵道通訊及資訊系統與行控中心的架構、配置、功能及目標。前瞻資通訊技術（Information and Communication Technology, ICT）的發展與創新應用，將定義了整個鐵道產業的未來。由於鐵道通訊及資訊系統本身屬於跨管理、通訊與資訊等專業領域的技術，因此，本課程是針對選讀學程之學生，邀請鐵道通訊及資訊技術應用專家，以業師的身份共同參與授課。 本課程會要求修課同學於期末報告時，針對管理、通訊及資訊三部分提出通訊系統與行控中心之創新想法規劃與評估報告，並邀請學者與產業專家共同擔任評審及評比分數。",
+      "en": "This course is the elective subject of Intelligent Railway Curriculum. The main purpose of this course is to provide the students an overall understanding of the structure, configuration, function, and the objective of the domestic railway industry and operation control center (OCC). The course will be composed with advanced development and innovative application of Information and Communication Technology (ICT), and will dictate the future of railway industry. ICT of railway industry is interdisciplinary which involves management, communication, and information, etc. This intercollegiate course will invite industrial instructors, i.e. ICT experts from some relevant fields in intelligent railway industry to our course. In the final project and report, students are required to plan and assess the communication system and OCC focused on advanced management, communication, and information, and evaluated by qualified experts."
+    },
+    "id": "367005",
+    "name": {
+      "zh": "鐵道通訊與資訊系統",
+      "en": "Railway Communication and Information Systems"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3762",
+        "code": "3762"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6",
+        "7"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "彭君晏老師",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005005",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4005071",
+    "description": {
+      "zh": "如何藉由商務模型的分析，建置數位化協同產品設計與開發環境，並說明資料管理、構型管隨著網路時代的來臨，不但造成數位化協同產品設計與開發觀念的興起，也造成數位化協同平台技術逐漸成熟，並且將同步工程觀念的實現更往前邁進一大步。本課程是從數位化協同產品設計與開發概念之介紹開始，使學生明白數位化協同產品設計與開發在現代製造業中的重要性，接著介紹理與工作流程管理等相關實務應用觀念。",
+      "en": "Information and network technologies have promoted the traditional concurrent engineering to the next generation. The collaborative e-design and e-development concept has been more popular in industries. This course is introduced from the concept of collaborative product design and development to help students understanding the importance of collaborative e-design and e-development in modern industries. Furthermore, the business model analysis method is provided to construct the collaborative environment of e-design and e-development. In addition, some real cases of data management, configuration management, and workflow management are mentioned."
+    },
+    "id": "367006",
+    "name": {
+      "zh": "數位化設計與開發特論",
+      "en": "Special Topics on e-Design and e-Development"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3732",
+        "code": "3732"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陸元平",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11132",
+        "code": "11132"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
+    "syllabusLinks": []
   }
 ]

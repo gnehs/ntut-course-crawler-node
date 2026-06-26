@@ -95872,7 +95872,9 @@
     "language": "",
     "notes": "民俗體育 A",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366482&code=24236"
+    ]
   },
   {
     "code": "1001002",
@@ -96908,7 +96910,9 @@
     "language": "",
     "notes": "民俗體育 B",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1001002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366503&code=24236"
+    ]
   },
   {
     "code": "1001002",
@@ -111829,7 +111833,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9100119",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366913&code=24429"
+    ]
   },
   {
     "code": "9100134",
@@ -113440,6 +113446,390 @@
     "language": "",
     "notes": "人文與藝術向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410082",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C005005",
+    "description": {
+      "zh": "本課程為本校「智慧鐵道學程」的選修課程。本課程開授之目標，是希望修課學生能夠瞭解現今整個鐵道通訊及資訊系統與行控中心的架構、配置、功能及目標。前瞻資通訊技術（Information and Communication Technology, ICT）的發展與創新應用，將定義了整個鐵道產業的未來。由於鐵道通訊及資訊系統本身屬於跨管理、通訊與資訊等專業領域的技術，因此，本課程是針對選讀學程之學生，邀請鐵道通訊及資訊技術應用專家，以業師的身份共同參與授課。 本課程會要求修課同學於期末報告時，針對管理、通訊及資訊三部分提出通訊系統與行控中心之創新想法規劃與評估報告，並邀請學者與產業專家共同擔任評審及評比分數。",
+      "en": "This course is the elective subject of Intelligent Railway Curriculum. The main purpose of this course is to provide the students an overall understanding of the structure, configuration, function, and the objective of the domestic railway industry and operation control center (OCC). The course will be composed with advanced development and innovative application of Information and Communication Technology (ICT), and will dictate the future of railway industry. ICT of railway industry is interdisciplinary which involves management, communication, and information, etc. This intercollegiate course will invite industrial instructors, i.e. ICT experts from some relevant fields in intelligent railway industry to our course. In the final project and report, students are required to plan and assess the communication system and OCC focused on advanced management, communication, and information, and evaluated by qualified experts."
+    },
+    "id": "367005",
+    "name": {
+      "zh": "鐵道通訊與資訊系統",
+      "en": "Railway Communication and Information Systems"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3762",
+        "code": "3762"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6",
+        "7"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "彭君晏老師",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005005",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4005071",
+    "description": {
+      "zh": "如何藉由商務模型的分析，建置數位化協同產品設計與開發環境，並說明資料管理、構型管隨著網路時代的來臨，不但造成數位化協同產品設計與開發觀念的興起，也造成數位化協同平台技術逐漸成熟，並且將同步工程觀念的實現更往前邁進一大步。本課程是從數位化協同產品設計與開發概念之介紹開始，使學生明白數位化協同產品設計與開發在現代製造業中的重要性，接著介紹理與工作流程管理等相關實務應用觀念。",
+      "en": "Information and network technologies have promoted the traditional concurrent engineering to the next generation. The collaborative e-design and e-development concept has been more popular in industries. This course is introduced from the concept of collaborative product design and development to help students understanding the importance of collaborative e-design and e-development in modern industries. Furthermore, the business model analysis method is provided to construct the collaborative environment of e-design and e-development. In addition, some real cases of data management, configuration management, and workflow management are mentioned."
+    },
+    "id": "367006",
+    "name": {
+      "zh": "數位化設計與開發特論",
+      "en": "Special Topics on e-Design and e-Development"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3732",
+        "code": "3732"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陸元平",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11132",
+        "code": "11132"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
+    "syllabusLinks": []
+  },
+  {
+    "code": "A405194",
+    "description": {
+      "zh": "本課程之目的係為使學生了解現今我國專利權之熱門爭議議題，尤指智慧財產局所審定的相關專利案。透過對於案例的閱讀與研討，使同學生能學習到法規的實際運用實例，此外也能瞭專利之未來發展趨勢。",
+      "en": "The course provides some important issues, especially for cases relating to TIPO. Students can learn how to apply the patent laws by the cases, as well as the tendency of them."
+    },
+    "id": "367007",
+    "name": {
+      "zh": "專利法案例分析",
+      "en": "Case Analysis on Patent Law"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智財所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3753",
+        "code": "3753"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "郭宏杉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11609",
+        "code": "11609"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "先鋒1402",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=570",
+        "code": "570"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A405194",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C203001",
+    "description": {
+      "zh": "協助學員在完成課程後：1. 對於 TFT - LCD 的製程有基礎認識 2. 對於 TFT - LCD 機台設備及元件的設備原理、操作、保養有基礎概念 3. 智慧化生產技術於 TFT - LCD 製造業的應用概念 4. 學校所學理論於產業應用的創意發想",
+      "en": "Students achieve the following learning outcomes upon completing the course:1.Develop a fundamental understanding of the TFT-LCD manufacturing process.2.Gain basic concepts of the design principles, operation, and maintenance of TFT-LCD machine equipment and components.3.Understand the concept of applying intelligent production technology in the TFT-LCD manufacturing industry.4.Generate creative ideas for applying theoretical knowledge learned in school to industry practices."
+    },
+    "id": "367016",
+    "name": {
+      "zh": "製程設備理論及實務",
+      "en": "Manufacturing Equipment and Process Technology Practical Course"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2772",
+        "code": "2772"
+      },
+      {
+        "name": "管理學院(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3006",
+        "code": "3006"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳柏輝",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12398",
+        "code": "12398"
+      },
+      {
+        "name": "鄭辰仰",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11764",
+        "code": "11764"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "限 32 人，另需觀看友達線上課程 2.5 小時",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C203001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C403002",
+    "description": {
+      "zh": "課程旨在引導學生在就學期間提前規劃未來的學習與發展方向，透過跨領域的專題演講與交流，學生將接觸最新的科技應用、理解永續發展的重要性，並在多元人文視野中培養創新與社會責任感。課程涵蓋： 1. 永續願景：與國際接軌，使永續成為大學社會責任的行動。 2. 科技與人文並進：透過跨領域講座，深化學生在科技與創新、智慧與文化間的連結度。 3. 深耕跨領域人才培育：課程類型將包含，講座、工作坊、企業參訪、博物館走讀、合作研究等建構跨領域人才之行動策略。",
+      "en": "This course equips students to shape their academic and professional careers by exploring the vital intersection of technology, humanities, and sustainable development. Through an interdisciplinary framework, students will be exposed to the latest technological applications, cultivate a strong sense of innovation, and integrate social responsibility grounded in diverse humanistic perspectives. Practical aspects, such as expert speeches, company visits, workshops, and projects, are included to cultivate workplace-ready, interdisciplinary talents."
+    },
+    "id": "367017",
+    "name": {
+      "zh": "拓凱永續科技人文專題講座",
+      "en": "Topkey Lecture Series on Sustainability, Technology, and the Humanities"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "人文與社會科學學院(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2768",
+        "code": "2768"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王怡惠",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11785",
+        "code": "11785"
+      },
+      {
+        "name": "吳欣怡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12099",
+        "code": "12099"
+      },
+      {
+        "name": "賴冠廷",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12084",
+        "code": "12084"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C403002",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C103008",
+    "description": {
+      "zh": "本課程從 IPCC 的氣候變遷評估報告出發，引導學生了解氣候變遷的重要性以及未來企業活動如何與氣候變遷結合，除著重介紹組織實體如何計算其營運活動的溫室氣體排放量外，亦介紹如何運用溫室氣體盤查數據設定組織轉型策略及淨零目標。本課程內容結合國際通用方法 GHG Protocol 與 ISO 14064-1:2018、IPCC 2006 與 2019 修訂之計算理論，並介紹我國環境部的計算要求以及與淨零目標設定、轉型風險相關之國際倡議，透過完整的計算理論與實務演練，來完成一份組織溫室氣體盤查與計算。",
+      "en": "This course is based on the IPCC's Climate Change Assessment Report and aims to guide students in understanding the importance of climate change and how future cooperation activities can integrate with it. Apart from focusing on how organizations calculate the greenhouse gas emissions from operational activities, it also introduces how to utilize greenhouse gas inventory data to set transformation strategies and net-zero targets. The course integrates internationally recognized methods like the GHG Protocol, ISO 14064-1:2018, as well as IPCC 2006 and 2019 revisions for calculation theories. It also covers national calculation requirements from Taiwan's Ministry of Environment (MOENV) and international initiatives related to setting net-zero goals and transformation risks. Through comprehensive theoretical approach and practical application, students will complete an organizational greenhouse gas inventory and calculation."
+    },
+    "id": "367018",
+    "name": {
+      "zh": "氣候變遷與組織溫室氣體計算理論",
+      "en": "Climate change and organization greenhouse gases accounting: theoretical approach"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2561",
+        "code": "2561"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "郭建宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24584",
+        "code": "24584"
+      },
+      {
+        "name": "黃泓維",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24348",
+        "code": "24348"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C103008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C103008",
+    "description": {
+      "zh": "本課程從 IPCC 的氣候變遷評估報告出發，引導學生了解氣候變遷的重要性以及未來企業活動如何與氣候變遷結合，除著重介紹組織實體如何計算其營運活動的溫室氣體排放量外，亦介紹如何運用溫室氣體盤查數據設定組織轉型策略及淨零目標。本課程內容結合國際通用方法 GHG Protocol 與 ISO 14064-1:2018、IPCC 2006 與 2019 修訂之計算理論，並介紹我國環境部的計算要求以及與淨零目標設定、轉型風險相關之國際倡議，透過完整的計算理論與實務演練，來完成一份組織溫室氣體盤查與計算。",
+      "en": "This course is based on the IPCC's Climate Change Assessment Report and aims to guide students in understanding the importance of climate change and how future cooperation activities can integrate with it. Apart from focusing on how organizations calculate the greenhouse gas emissions from operational activities, it also introduces how to utilize greenhouse gas inventory data to set transformation strategies and net-zero targets. The course integrates internationally recognized methods like the GHG Protocol, ISO 14064-1:2018, as well as IPCC 2006 and 2019 revisions for calculation theories. It also covers national calculation requirements from Taiwan's Ministry of Environment (MOENV) and international initiatives related to setting net-zero goals and transformation risks. Through comprehensive theoretical approach and practical application, students will complete an organizational greenhouse gas inventory and calculation."
+    },
+    "id": "367019",
+    "name": {
+      "zh": "氣候變遷與組織溫室氣體計算理論",
+      "en": "Climate change and organization greenhouse gases accounting: theoretical approach"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2595",
+        "code": "2595"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "郭建宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24584",
+        "code": "24584"
+      },
+      {
+        "name": "黃泓維",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24348",
+        "code": "24348"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C103008",
     "syllabusLinks": []
   }
 ]
