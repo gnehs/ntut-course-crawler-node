@@ -4613,13 +4613,13 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
+      "tue": [],
+      "wed": [],
+      "thu": [
         "7",
         "8",
         "9"
       ],
-      "wed": [],
-      "thu": [],
       "fri": [],
       "sat": []
     },
@@ -4870,6 +4870,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504100",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361306&code=10911",
       "ShowSyllabus.jsp?snum=361306&code=10996",
       "ShowSyllabus.jsp?snum=361306&code=10822",
       "ShowSyllabus.jsp?snum=361306&code=11684",
@@ -16832,7 +16833,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503603",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362010&code=23792"
+    ]
   },
   {
     "code": "1420005",
@@ -32867,64 +32870,6 @@
     ]
   },
   {
-    "code": "5402112",
-    "description": {
-      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
-      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
-    },
-    "id": "362527",
-    "name": {
-      "zh": "進階英文寫作 (一)",
-      "en": "Advanced English Writing (I)"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "英文二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
-        "code": "3136"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "莊惠鈞",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12565",
-        "code": "12565"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同301_1",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=117",
-        "code": "117"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "A 組 - 學號尾號除 3 餘 1，01/04/07 等，僅限英文系學生修讀【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=362527&code=12565"
-    ]
-  },
-  {
     "code": "5402207",
     "description": {
       "zh": "本科目旨在探討現實世界裡語言和溝通的種種現象，如：社會中之語言變化、大眾媒體的語言使用等，並介紹應用語言學門之緣起和現況。學生將需要分享自己對於本地或國際有關語言應用議題的觀察，例如：職場溝通模式、辨識性言詞分析、語言教學 / 測試趨勢、口筆翻譯項目、語言在新型媒體中之應用等。",
@@ -36137,64 +36082,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A502244",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362623&code=11979"
-    ]
-  },
-  {
-    "code": "A502237",
-    "description": {
-      "zh": "「生活美學」是文化生活發展的重要內核，也是文化產業化、產業文化化過程中必要關涉的範疇與議題，本課程旨在探索中國歷代文化生活的重要元素及其呈現模式，取材雅富美感的行為文化，進而尋覓發展成為體驗經濟模式的途徑，達到由文化復育到文化設計的目的。「生活美學」是現代人據各家美學定義所推論出的新名詞，專應用於生活；「文化設計」乃取用生活美學諸元素，作人際禮儀的規劃設計。透過提煉、體驗設計與推廣，實現傳承古風、用古於今、達到充實且深刻的現代生活美學追求。      課程的規劃結合三個面向，將人際互動需求、「茶」與「香」的美席設計、茶鄉文化實務再造三者連結，作實驗性文化美學設計。期擬提供人情交流重整的精緻平台，並可望成為一項跨域連結新創產業的前導。",
-      "en": "Life Aesthetics is the kernel of cultural life; it has become integral in the process toward cultural industrialization and industrial culturalization. Life aesthetics is not only inscribed in our cultural experiences, but also affiliated with the \"creative life,\" This course will examine the important elements constituting cultural lives across different dynasties in Chinese history and investigate their patterns of presentations. By integrating old with new, tradition with modernity, cultural heritage with contemporary practices, students are empowered in their imagination and creativity in cultural designs, This course comprises three stages. the focus is primarily on the ideas of heaven and mankind and their correlativity, including concepts of solar terms and rhythm of life, permanence and non-permanence, patriarchal clan system and people's beliefs and ethics. The course ends with presentations of students' application projects."
-    },
-    "id": "362632",
-    "name": {
-      "zh": "生活美學文化設計",
-      "en": "Course Description Seminars on the Aesthetics of Life"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "文發二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3144",
-        "code": "3144"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "劉秋蘭",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11222",
-        "code": "11222"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "5",
-        "6"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同616",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=537",
-        "code": "537"
-      }
-    ],
-    "people": "15",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "上限 15 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=A502237",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=362632&code=11222"
     ]
   },
   {
@@ -40722,7 +40609,13 @@
         "code": "3694"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳雅苓",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24689",
+        "code": "24689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -56507,7 +56400,9 @@
     "language": "",
     "notes": "材資系必修; 餘三系選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3301022",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363208&code=12175"
+    ]
   },
   {
     "code": "3401007",
@@ -58685,7 +58580,9 @@
     "language": "",
     "notes": "排一般教室, 限本系媒體組必修優先, 限 50 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC11001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363284&code=24017"
+    ]
   },
   {
     "code": "C300002",
@@ -63891,7 +63788,9 @@
     "language": "",
     "notes": "計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505509",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363750&code=10911"
+    ]
   },
   {
     "code": "4505515",
@@ -65470,13 +65369,13 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
+      "tue": [],
+      "wed": [],
+      "thu": [
         "7",
         "8",
         "9"
       ],
-      "wed": [],
-      "thu": [],
       "fri": [],
       "sat": []
     },
@@ -65523,14 +65422,14 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
         "5",
         "6",
         "7"
       ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -70022,7 +69921,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815157",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364421&code=12175"
+    ]
   },
   {
     "code": "7815203",
@@ -76998,62 +76899,6 @@
     ]
   },
   {
-    "code": "5402112",
-    "description": {
-      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
-      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
-    },
-    "id": "365974",
-    "name": {
-      "zh": "進階英文寫作 (一)",
-      "en": "Advanced English Writing (I)"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "英文二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
-        "code": "3136"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳心怡",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12207",
-        "code": "12207"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同714",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=416",
-        "code": "416"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "B 組 - 學號尾號除 3 餘 2，02/05/08 等，僅限英文系學生修讀【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
-    "syllabusLinks": []
-  },
-  {
     "code": "5403114",
     "description": {
       "zh": "本課程介紹研究方法和論文寫作知識，期能培養學生獨立研究和撰寫學術報告、論文的基本能力。主要分為三部份：（一）研究內涵與步驟,（二）主要的研究方法,（三）如何撰寫英文論文及報告。涵蓋主題包括：運用圖書館資源選擇研究主題、研究計劃的撰寫、問卷調查法、訪問法、觀察法、田野工作研究方法、文獻資料分析法（內容分析法）、個案研究法、相關研究法、實驗法、文學研究法，研究報告論文格式與寫作要領，如何撰寫文獻探討，參考書目寫法等。",
@@ -81039,64 +80884,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5402208",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366102&code=12382"
-    ]
-  },
-  {
-    "code": "5402112",
-    "description": {
-      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
-      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
-    },
-    "id": "366103",
-    "name": {
-      "zh": "進階英文寫作 (一)",
-      "en": "Advanced English Writing (I)"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "英文二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
-        "code": "3136"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "王可",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12689",
-        "code": "12689"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同715",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=161",
-        "code": "161"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "C 組 - 學號尾號 3 的倍數，03/06/09 等，僅限英文系學生修【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=366103&code=12689"
     ]
   },
   {
@@ -86418,7 +86205,9 @@
     "language": "",
     "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3094",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366279&code=12380"
+    ]
   },
   {
     "code": "14E3083",
@@ -86832,7 +86621,9 @@
     "language": "",
     "notes": "中級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E2084",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366287&code=12380"
+    ]
   },
   {
     "code": "14E2092",
@@ -87454,7 +87245,9 @@
     "language": "",
     "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3094",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366299&code=12380"
+    ]
   },
   {
     "code": "14E3083",
@@ -88391,7 +88184,9 @@
     "language": "",
     "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E3094",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366321&code=12380"
+    ]
   },
   {
     "code": "14E0109",
@@ -88713,7 +88508,9 @@
     "language": "",
     "notes": "中級 1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E0209",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366327&code=12380"
+    ]
   },
   {
     "code": "14E0309",
@@ -89249,7 +89046,9 @@
     "language": "",
     "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E0305",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366337&code=12380"
+    ]
   },
   {
     "code": "14E0305",
@@ -89839,7 +89638,9 @@
     "language": "",
     "notes": "高級",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E0301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366348&code=12380"
+    ]
   },
   {
     "code": "14E0207",
@@ -94762,75 +94563,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05222",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366459&code=11533"
-    ]
-  },
-  {
-    "code": "AC05217",
-    "description": {
-      "zh": "本課程的目的在於培養學生具備以下的能力：1. 使學生具備能夠把「抽象概念」轉換成實務設計的基本能力。2. 培養學生有美感欣賞與基本應用技巧的能力。3. 訓練學生具有獨立思考與解決問題的視覺構成能力。4. 具備認識感官資訊處理過程以及傳遞原理的基本能力。5. 能了解視覺、聽覺以及空間互動資訊如何運作以及應用的能力。6. 學習如何運用相關的方法、整合相關專業知識與技能於資訊設計上。",
-      "en": "This course is expected to train students to be equipped with the following abilities: 1. Ability to transforming the abstract ideas into practical design. 2. Ability of aesthetic appreciation and basic application skills. 3. Visual construction ability of independent thinking and problem-solving. 4. Understanding of perceived information processing and communication principle. 5 Understanding of knowledge and application of visual, acoustic and spacial interaction information. 6. Learning how to apply relevant methods and integrate knowledge and techniques to practical information design."
-    },
-    "id": "366460",
-    "name": {
-      "zh": "視覺與資訊設計",
-      "en": "Visual and Information Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "互動所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3756",
-        "code": "3756"
-      },
-      {
-        "name": "互動與創新外生專班",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3759",
-        "code": "3759"
-      },
-      {
-        "name": "設計博所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3768",
-        "code": "3768"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "戴楠青",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11633",
-        "code": "11633"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "2",
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "光華館409",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=512",
-        "code": "512"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "日碩、外碩和設計博合開, 光華 409, 本系限碩一修【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05217",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=366460&code=11633"
     ]
   },
   {
@@ -105713,7 +105445,13 @@
         "code": "2648"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭婷玉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24688",
+        "code": "24688"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -105731,7 +105469,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "人文與藝術向度, 郭婷玉",
+    "notes": "人文與藝術向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1412011",
     "syllabusLinks": []
   },
@@ -105911,7 +105649,13 @@
         "code": "2648"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "余志偉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24691",
+        "code": "24691"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -106098,7 +105842,13 @@
         "code": "2760"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭婷玉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24688",
+        "code": "24688"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -106116,7 +105866,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "人文與藝術向度, 郭婷玉",
+    "notes": "人文與藝術向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1412009",
     "syllabusLinks": []
   },
@@ -106246,7 +105996,13 @@
         "code": "2760"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "余志偉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24691",
+        "code": "24691"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -109087,7 +108843,13 @@
         "code": "2883"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳翰堂",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24692",
+        "code": "24692"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -109545,7 +109307,13 @@
         "code": "2884"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳翰堂",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24692",
+        "code": "24692"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -109745,7 +109513,13 @@
         "code": "2885"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳雅苓",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24689",
+        "code": "24689"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -109763,7 +109537,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "人文與藝術向度, 陳雅苓",
+    "notes": "人文與藝術向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410096",
     "syllabusLinks": []
   },
@@ -110513,7 +110287,13 @@
         "code": "2886"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陸瑞玲",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24690",
+        "code": "24690"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -110531,7 +110311,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "自然與科學向度, 陸瑞玲",
+    "notes": "自然與科學向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410046",
     "syllabusLinks": []
   },
@@ -110971,7 +110751,13 @@
         "code": "2887"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陸瑞玲",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24690",
+        "code": "24690"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -110989,7 +110775,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "自然與科學向度, 陸瑞玲",
+    "notes": "自然與科學向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410046",
     "syllabusLinks": []
   },
@@ -113830,6 +113616,356 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C104007",
+    "description": {
+      "zh": "1. 混凝土結構概述與支撐結構混凝土材料特性, 2. 支撐結構設計載重與材料強度規定, 3. 離岸風機地震載重設計, 4. 離岸風機風載重設計, 5. 離岸風機波浪載重設計, 6. 支撐結構之疲勞設計, 7. 支撐結構之鋼結構設計與案例, 8. 支撐結構之混凝土結構設計與案例, 9. 離岸風機基礎設計",
+      "en": "1. Concepts of concrete structures and concrete material properties, 2. Loads and material strength required for designing supporting structures, 3. Seismic design of offshore wind turbines, 4. Wind resistance design of offshore wind turbines, 5. Wave resistance design of offshore wind turbines, 6. Fatigue design of supporting structures, 7. Case studies of steel structure design for supporting structures, 8. Case studies of concrete structure design for supporting structures, 9. Footing design of offshore wind turbines"
+    },
+    "id": "367020",
+    "name": {
+      "zh": "離岸風機支撐結構分析與設計",
+      "en": "Analysis and design of supporting structures for offshore wind turbines"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2595",
+        "code": "2595"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "尹世洵",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11309",
+        "code": "11309"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "3",
+        "4",
+        "N"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "土木201",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=382",
+        "code": "382"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C104007",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C104007",
+    "description": {
+      "zh": "1. 混凝土結構概述與支撐結構混凝土材料特性, 2. 支撐結構設計載重與材料強度規定, 3. 離岸風機地震載重設計, 4. 離岸風機風載重設計, 5. 離岸風機波浪載重設計, 6. 支撐結構之疲勞設計, 7. 支撐結構之鋼結構設計與案例, 8. 支撐結構之混凝土結構設計與案例, 9. 離岸風機基礎設計",
+      "en": "1. Concepts of concrete structures and concrete material properties, 2. Loads and material strength required for designing supporting structures, 3. Seismic design of offshore wind turbines, 4. Wind resistance design of offshore wind turbines, 5. Wave resistance design of offshore wind turbines, 6. Fatigue design of supporting structures, 7. Case studies of steel structure design for supporting structures, 8. Case studies of concrete structure design for supporting structures, 9. Footing design of offshore wind turbines"
+    },
+    "id": "367021",
+    "name": {
+      "zh": "離岸風機支撐結構分析與設計",
+      "en": "Analysis and design of supporting structures for offshore wind turbines"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2561",
+        "code": "2561"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "尹世洵",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11309",
+        "code": "11309"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "3",
+        "4",
+        "N"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "土木201",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=382",
+        "code": "382"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C104007",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C103003",
+    "description": {
+      "zh": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。",
+      "en": "This course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning."
+    },
+    "id": "367022",
+    "name": {
+      "zh": "先進材料化學特論",
+      "en": "Special Topics on Advanced Materials Chemistry"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2561",
+        "code": "2561"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李文亞",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11765",
+        "code": "11765"
+      },
+      {
+        "name": "李紹先",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12175",
+        "code": "12175"
+      },
+      {
+        "name": "陳秀慧",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12181",
+        "code": "12181"
+      },
+      {
+        "name": "陳柏均",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11820",
+        "code": "11820"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "N",
+        "5",
+        "6"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C103003",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367022&code=12175"
+    ]
+  },
+  {
+    "code": "5402112",
+    "description": {
+      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
+      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
+    },
+    "id": "367026",
+    "name": {
+      "zh": "進階英文寫作 (一)",
+      "en": "Advanced English Writing (I)"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "英文二",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
+        "code": "3136"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "莊惠鈞",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12565",
+        "code": "12565"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同301_1",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=117",
+        "code": "117"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "A 組 - 學號尾號除 3 餘 1，01/04/07 等，僅限英文系學生修讀",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5402112",
+    "description": {
+      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
+      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
+    },
+    "id": "367027",
+    "name": {
+      "zh": "進階英文寫作 (一)",
+      "en": "Advanced English Writing (I)"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "英文二",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
+        "code": "3136"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳心怡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12207",
+        "code": "12207"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同714",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=416",
+        "code": "416"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "B 組 - 學號尾號除 3 餘 2，02/05/08 等，僅限英文系學生修讀",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5402112",
+    "description": {
+      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
+      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
+    },
+    "id": "367028",
+    "name": {
+      "zh": "進階英文寫作 (一)",
+      "en": "Advanced English Writing (I)"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "英文二",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
+        "code": "3136"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王可",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12689",
+        "code": "12689"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "共同715",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=161",
+        "code": "161"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "C 組 - 學號尾號 3 的倍數，03/06/09 等，僅限英文系學生修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
     "syllabusLinks": []
   }
 ]

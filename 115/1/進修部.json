@@ -729,6 +729,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504100",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=364932&code=12398",
+      "ShowSyllabus.jsp?snum=364932&code=10911",
       "ShowSyllabus.jsp?snum=364932&code=10996",
       "ShowSyllabus.jsp?snum=364932&code=10822",
       "ShowSyllabus.jsp?snum=364932&code=11684",
@@ -12420,7 +12421,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505305",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366020&code=10911"
+    ]
   },
   {
     "code": "4505503",
@@ -17504,6 +17507,47 @@
     "language": "",
     "notes": "UTA, 碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275004",
+    "description": {
+      "zh": "專注於戰略和機構的國際層面，並提供了一個框架，在日益複雜的全球經濟裡制定戰略。本課程旨在為學生提供對跨國公司經營裡的文化，政治，競爭，技術，法律和人口環境的理解。然後，它通過在國際背景下獲得成功的全球產業和戰略來探討全球競爭的性質。還涵蓋了跨國公司管理中的組織設計與戰略控制相關問題。",
+      "en": "Focuses on the international dimensions of strategy and organization and provides a framework for formulating strategies in an increasingly complex global economy. The course seeks to provide students with an understanding of the cultural, political, competitive, technological, legal, and demographic environments in which multinational firms operate. It then examines the nature of global competition by exploring the characteristics of global industries and strategies that have been successful in an international context. Also covered are issues related to organizational design and strategic control in the management of multinational enterprises."
+    },
+    "id": "366988",
+    "name": {
+      "zh": "跨國企業管理",
+      "en": "Management of Multinational Enterprises"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3789",
+        "code": "3789"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩一修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
     "syllabusLinks": []
   }
 ]
