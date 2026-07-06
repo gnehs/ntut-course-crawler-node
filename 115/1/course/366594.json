@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "蕭榮修",
+    "email": "rshsiao@ntut.edu.tw",
+    "latestUpdate": "2026-07-05 21:45:47",
+    "objective": "瞭解程式語言所常用之各種資結構，１.抽象資料類別及運算複雜度之概念，２.靜態結構及其儲存法，３.遞迴、堆疊、前序、中序、後序運算式，４.佇列，５.串列、鏈結串列，６.樹、二元樹、平衡樹、堆積，７.圖形，８.排序，９.搜尋、雜湊。\nThis course is mainly aimed at introducing the data structures commonly used in programming, including: (1) the concept of ADT (abstract data type) and C++ programming language, (2) static structures and their storage representations, array and linked lists (3) computational complexity, (4) recursion, stacks, and prefix, infix, and postfix expressions, (5) queues, (6) lists and linked lists, (7) trees, tree traversal algorithms, and binary trees, (8) heaps and priority queues, (9) soring, searching and hashing, (10) graphs.",
+    "schedule": "1.\tIntroduction\n2.\tC++ and Object-Oriented Programming\n3.\tNo Class (中秋節)\n4.     Array and Linked Lists\n5.\tNo Class (國慶日補假)\n6.\tAnalysis of Algorithms\n7.\tStacks\n8.\tMid-term Exam\n9.\tQueues\n10.\tVector, List and Sequence\n11.\tTrees\n12.\tHeaps and Priority Queues\n13.\tHash Tables, Search Trees\n14.\tSorting, Sets, and Selection\n15.\tFinal Exam",
+    "scorePolicy": "Grading:\n   20% Attendance and Quizzes\n   20% Assignments (Term project)\n   30% Mid-term Exam\n   30% Final Exam",
+    "materials": "Reference books:\n1. Michael T. Goodrich, Roberto Tamassia, and David M. Mount, Data Structures and Algorithms in C++, Second Edition, John Wiley & Sons, Inc, 2011. (ISBN-13 978-0-470-38327-8)\n2. Robert Lafore, Teach Yourself Data Structures and Algorithms in 24 hours, Sams Publishing, 1999. (ISBN 0-67231-633-1)\n3. Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed, Fundamentals of Data Structures in C, 2nd Edition, Silicon Press, 2008. (ISBN 9780929306407)",
+    "consultation": "rshsiao@ntut.edu.tw",
+    "延伸教學與資源": "● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
