@@ -3641,7 +3641,13 @@
         "code": "2908"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "謝當敏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24694",
+        "code": "24694"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -6127,6 +6133,11 @@
         "code": "23680"
       },
       {
+        "name": "邱渝涵",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24695",
+        "code": "24695"
+      },
+      {
         "name": "張瑞光",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=23676",
         "code": "23676"
@@ -6135,6 +6146,11 @@
         "name": "龍祈澔",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11680",
         "code": "11680"
+      },
+      {
+        "name": "謝瑩奕",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24053",
+        "code": "24053"
       }
     ],
     "time": {
@@ -6204,6 +6220,11 @@
         "code": "23680"
       },
       {
+        "name": "邱渝涵",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24695",
+        "code": "24695"
+      },
+      {
         "name": "張瑞光",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=23676",
         "code": "23676"
@@ -6212,6 +6233,11 @@
         "name": "龍祈澔",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11680",
         "code": "11680"
+      },
+      {
+        "name": "謝瑩奕",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24053",
+        "code": "24053"
       }
     ],
     "time": {
@@ -37096,6 +37122,16 @@
         "code": "12304"
       },
       {
+        "name": "劉躍",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24697",
+        "code": "24697"
+      },
+      {
+        "name": "蔡欣蓓",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24696",
+        "code": "24696"
+      },
+      {
         "name": "龍祈澔",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11680",
         "code": "11680"
@@ -37215,6 +37251,16 @@
         "name": "黃儀婷",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12304",
         "code": "12304"
+      },
+      {
+        "name": "劉躍",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24697",
+        "code": "24697"
+      },
+      {
+        "name": "蔡欣蓓",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24696",
+        "code": "24696"
       },
       {
         "name": "龍祈澔",
@@ -110861,7 +110907,9 @@
     "language": "",
     "notes": "自然與科學向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410045",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366886&code=24563"
+    ]
   },
   {
     "code": "1418021",
@@ -114457,63 +114505,5 @@
     "notes": "B 組 - 學號尾號除 3 餘 2，02/05/08 等，僅限英文系學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
     "syllabusLinks": []
-  },
-  {
-    "code": "5402112",
-    "description": {
-      "zh": "本課程旨在提昇學生撰寫結構完整段落和短文之能力, 並著重如何重寫、摘要、 轉述、 陳述、筆記、編排、起草、修改等相關技巧。",
-      "en": "This course is expected to expand students’ writing capacity and experience by helping them to formulate, organize, and present ideas clearly in well-formed paragraphs and compositions. Students will learn about rewriting, outlining, paraphrasing, synthesizing, documenting, note-taking, writing the draft and editing their own work."
-    },
-    "id": "367028",
-    "name": {
-      "zh": "進階英文寫作 (一)",
-      "en": "Advanced English Writing (I)"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "英文二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3136",
-        "code": "3136"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "王可",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12689",
-        "code": "12689"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同715",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=161",
-        "code": "161"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "C 組 - 學號尾號 3 的倍數，03/06/09 等，僅限英文系學生修",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5402112",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=367028&code=12689"
-    ]
   }
 ]

@@ -312,7 +312,13 @@
         "code": "2999"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "謝當敏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24694",
+        "code": "24694"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -17399,7 +17405,9 @@
     "language": "",
     "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515015",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366984&code=11213"
+    ]
   },
   {
     "code": "C515022",
