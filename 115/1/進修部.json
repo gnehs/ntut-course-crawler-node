@@ -10192,47 +10192,6 @@
     ]
   },
   {
-    "code": "3601006",
-    "description": {
-      "zh": "瞭解各種數位邏輯閘，基本數位電路之特性及設計和應用，內容包含：1.TTL，CMOS 邏輯閘之特性實習，2. 組合邏輯電路設計實習含：算術電路，比較器，解碼器，編碼器，多工器，解多工器等，3. 序向邏輯電路設計實習含：正反器，計數器，記錄器，及移位暫存器等，.D/A 和 A/D 之轉換實習，5. 利用 ASM 圖之電路設計實習，6.PLD 設計實習，7.ORCAD/VST，PSPICE 數位電路模擬實習，8. 專題實作。",
-      "en": "Experiments with various logic gates and basic digital circuits.Contents include:1.TTL and CMOS lab.2.Combinational logic circuit design lab.3.Sequential logic circuit design lab.4.D/A and A/D converters lab.5.PLD design lab.6.Digital circuit design lab.7.Special projects."
-    },
-    "id": "365870",
-    "name": {
-      "zh": "數位邏輯設計實習",
-      "en": "Digital Logic Design Lab."
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "攜四子一",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3798",
-        "code": "3798"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "訓練場代開課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3601006",
-    "syllabusLinks": []
-  },
-  {
     "code": "3601009",
     "description": {
       "zh": "瞭解程式語言的基本結構，並以 C 語言為主要實習對象，其內容包含：1. 程式語言簡介：介紹各種程式語言及其特性，並對 C 語言之發展沿革架構及持點詳加討論，2. 資料型態：介紹 C 語言之資料型態及各種運算子，3. 基本輸入：介紹各種輸出入函數及輸出入實習，4. 流程控制：介紹指定指述，選擇敘述及迴圈敘述，並做實習，5. 前置處理：介紹前置處理觀念及程式實作，6. 函式：介紹主副程式及實作，7. 陣列與字串：介紹各種陣列之特性及字串與陣列之關係，並做實習，8. 結構型態：介紹結構，列舉及同位資料型態及應用實習，9. 指標：介紹指標之觀念及應用實習，10. 位元運算：介紹位元運算及應用實習，11. 檔案處理：各種檔案之介紹及檔案輸出入函數，12. 鍵盤與游標控制：介紹鍵盤、游標之控制及字元之特性，並作相關實習，13. 繪圖與音樂：介紹文字模式及繪圖模式函數，並作實習，14. C 語言與物件導向：介紹 C++ 與物件導向之關係，及物件與類別之基本定義，並作相關實習。",
@@ -10271,47 +10230,6 @@
     "language": "",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3601009",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3602061",
-    "description": {
-      "zh": "1. 資料表示法：定點系統 (Fixed Point System)，浮點系統 (Floating Point System)，2. 運算工作：定點之加減乘除，快速之運算，浮點運算，3. 指令與控制：各種指令介紹，中斷，硬體控制單元設計 (Hardwired Control)，微程式控制單元設計 (Microprogramming)，4. 記憶系統：記憶體之層次 (Memory Hierarchy)，虛擬記憶系統 (Virtualmemory)，快速記憶 (Cache Memory)。",
-      "en": "1.Data representation 2.Logic operations3.Command and control4.Memory organization5.Processor organization"
-    },
-    "id": "365872",
-    "name": {
-      "zh": "計算機結構",
-      "en": "Computer Architecture"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "攜四子一",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3798",
-        "code": "3798"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "訓練場代開課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3602061",
     "syllabusLinks": []
   },
   {
@@ -14871,47 +14789,6 @@
     ]
   },
   {
-    "code": "3604098",
-    "description": {
-      "zh": "1. 各種感測器結構、特性及工作原理簡介。2. 各種感測器之測量系統及轉換界面電路設計。3. 監控系統及感測器應用設計。",
-      "en": "1.Introduction of sensors.2.Measurement system of sensors.3.Application and design of sensors."
-    },
-    "id": "366597",
-    "name": {
-      "zh": "感測器與轉換技術",
-      "en": "Sensors and conversion techniques"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "攜四子一",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3798",
-        "code": "3798"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "訓練場代開課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3604098",
-    "syllabusLinks": []
-  },
-  {
     "code": "3603097",
     "description": {
       "zh": "本課程在訓練學生如何使用硬體描述語言來分析與設計數位積體電路及系統, 進而能培養學生具有設計積體電路的能力, 課程內容包括： 1. 電腦輔助設計積體電路介紹 2. 硬體描述語言程式設計與模擬介紹 3. 積體電路設計軟體之介紹及使用 (Verilog) 4.FPGA (Xilinx) 的設計 5. 專題設計",
@@ -15038,88 +14915,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "3602002",
-    "description": {
-      "zh": "瞭解電路元件之基本特性及其組合電路之分析方法，內容包含：1. 電路元件：電壓及電流源，主動元件，2. 電路特性：歐姆定律，柯希荷夫電壓與電流定律等，3. 一階及二階電路：電路之微分方程描述及各種輸入信號之響應，4. 穩態分析與頻率響應：分析電路之頻域，5. 電腦輔助電路分析：如使用 SPICE 工具。",
-      "en": "1.Introduction to linear circuit analysis2.Resistve circuit 3.Kirchhoff laws4.Thevenin and Norton theorem5.First and second order circuit6.Node and loop analysis7.Steady state response and analysis8.SPICE tool"
-    },
-    "id": "366601",
-    "name": {
-      "zh": "電路學 (一)",
-      "en": "Circuit Theory (I)"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "攜四子一",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3798",
-        "code": "3798"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "訓練場代開課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3602002",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3602008",
-    "description": {
-      "zh": "(1) 半導體二極體特性曲線; (2) 半導體二極體之應用: 整流器, 濾波器, 剪波器, 箝位器, 倍壓器; (3) 發光二極體驅動電路; (4) 齊納二極體穩壓電路; (5) 雙極接合面電晶體之辨別與參數量測; (6) 雙極接合面電晶體輸入及輸出特性曲線; (7) 雙極接合面電晶體直流偏壓電路; (8) 共射極放大電路; (9) 射極隨耦電路; (10) 共基極定電流源電路; (11) 場效電晶體之辨別與參數量測; (12) 場效電晶體轉移及輸出特性曲線; (13) 場效電晶體直流偏壓電路; (14) 場效電晶體放大電路; (15) 整流及濾波電路; (16) 偏壓分析與設計; (17) 基本放大器 (共射，共基，共集模式，共源，共汲，共閘等); (18) 串級放大器; (19) 差動放大器。",
-      "en": "(1)The characteristic curve of PN diode; (2)The applications of PN diode : Rectifier, Filter, Clipper, Clamper, and Voltage-doubler; (3)Light Emitting Diode drivers; (4)Zener diode for voltage regulation; (5)The identification of BJT's leads and the measurement of b parameter; (6)The input and output characteristic curves of BJTs; (7)DC biasing circuits for BJTs; (8)Common-Emitter(CE) amplifiers; (9)Emitter-follower(EF) circuits; (10)Common-Base(CB) constant current sources; (11)The identification of FET's leads and the measurement of device parameters; (12)The transfer and output characteristic curves of FETs; (13)DC biasing circuits for FETs; (14)The amplifying circuits of FETs; (15)Retifier circuit and Filter; (16)Bias analysis and design; (17)Common Emitter amplifier, Common base amplifier, Common collector amplifier; (18)Differential amplifier."
-    },
-    "id": "366602",
-    "name": {
-      "zh": "電子學實習 (一)",
-      "en": "Electronic Lab. (I)"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "攜四子一",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3798",
-        "code": "3798"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "訓練場代開課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3602008",
-    "syllabusLinks": []
-  },
-  {
     "code": "3603062",
     "description": {
       "zh": "本課程內容包括邏輯閘的特性與功能測試，能利用積體電路完成各種基礎邏輯電路的組裝及設計，並能利用電子儀器進行量測、檢修。探討最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之 VLSI 設計，使用 MSI 與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI 之設計與測試技巧，各種 CAD 軟體工具介紹。基礎邏輯閘實驗、組合邏輯實驗、加法器及減法器實驗、組合邏輯應用實驗、正反器邏輯實驗、循序邏輯電路應用實驗。",
@@ -15158,47 +14953,6 @@
     "language": "",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603062",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3603006",
-    "description": {
-      "zh": "使學生熟悉，應用程式設計之環境、方法、及原則，內容含：（１）作業系統與應用程式之關係（２）視窗環境（３）網路環境（４）整合設計學生將窗撰寫完整之應用程式",
-      "en": "To familiarize the student with the environments,methodologies,and principles of application softwaredesign.Topics include :1.Run-time environments2.Window environments3.Networking environments4.Integrated designThe student will write application programs with actual function."
-    },
-    "id": "366604",
-    "name": {
-      "zh": "應用軟體設計實習",
-      "en": "Application Software Design Lab."
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "攜四子一",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3798",
-        "code": "3798"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "訓練場代開課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603006",
     "syllabusLinks": []
   },
   {

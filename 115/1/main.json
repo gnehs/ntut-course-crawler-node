@@ -8634,7 +8634,13 @@
         "code": "3013"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "鄭哲燊",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=23954",
+        "code": "23954"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8653,7 +8659,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "電機大三合開, 預選限 100 人, 鄭哲燊, 3 選 2",
+    "notes": "電機大三合開, 預選限 100 人, 3 選 2",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3103034",
     "syllabusLinks": []
   },
@@ -17563,7 +17569,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5723012",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362043&code=24664"
+    ]
   },
   {
     "code": "1420005",
@@ -33534,7 +33542,9 @@
     "language": "",
     "notes": "經管專業選修；其它系所學生修跨域及自由學分。",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5704049",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362547&code=23989"
+    ]
   },
   {
     "code": "1001002",
@@ -39327,55 +39337,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362733&code=12355"
     ]
-  },
-  {
-    "code": "1419998",
-    "description": {
-      "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
-    },
-    "id": "362734",
-    "name": {
-      "zh": "通識課程",
-      "en": "Liberal Education"
-    },
-    "stage": "3",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "△",
-    "class": [
-      {
-        "name": "互動外生二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3147",
-        "code": "3147"
-      },
-      {
-        "name": "半導體外生二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3225",
-        "code": "3225"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "5",
-        "6"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "37",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
-    "syllabusLinks": []
   },
   {
     "code": "B302001",
@@ -53628,7 +53589,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5701025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363130&code=24664"
+    ]
   },
   {
     "code": "1001002",
@@ -71699,7 +71662,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364597&code=24521"
+    ]
   },
   {
     "code": "AY25001",
