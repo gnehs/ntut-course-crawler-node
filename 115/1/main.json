@@ -15860,6 +15860,11 @@
         "code": "12200"
       },
       {
+        "name": "李金威",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24709",
+        "code": "24709"
+      },
+      {
         "name": "張崑振",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11014",
         "code": "11014"
@@ -16169,7 +16174,13 @@
         "code": "3027"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳冠帆",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24703",
+        "code": "24703"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -16187,7 +16198,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘兼任教師陳冠帆",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3904419",
     "syllabusLinks": []
   },
@@ -17545,7 +17556,9 @@
     "language": "",
     "notes": "英語",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5723008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362042&code=12343"
+    ]
   },
   {
     "code": "5723012",
@@ -31341,6 +31354,11 @@
         "code": "12531"
       },
       {
+        "name": "蘇天儀",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24702",
+        "code": "24702"
+      },
+      {
         "name": "蘇育民",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12458",
         "code": "12458"
@@ -31376,7 +31394,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新增新聘兼任教師蘇天儀",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3900008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362488&code=24046",
@@ -32625,6 +32643,7 @@
     "notes": "能源二和機電二合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502907",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362519&code=24459",
       "ShowSyllabus.jsp?snum=362519&code=10997"
     ]
   },
@@ -35107,6 +35126,7 @@
     "notes": "能源二和機電二合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502907",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362592&code=24459",
       "ShowSyllabus.jsp?snum=362592&code=10997"
     ]
   },
@@ -51448,6 +51468,16 @@
         "code": "12638"
       },
       {
+        "name": "侯彥卉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24700",
+        "code": "24700"
+      },
+      {
+        "name": "翁振瑋",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24701",
+        "code": "24701"
+      },
+      {
         "name": "陳盈棻",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12344",
         "code": "12344"
@@ -51456,6 +51486,11 @@
         "name": "黃宏裕",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12230",
         "code": "12230"
+      },
+      {
+        "name": "蕭驩庭",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24699",
+        "code": "24699"
       },
       {
         "name": "蘇育民",
@@ -51493,7 +51528,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "建築一和創意一合開 (限主修建築系選課) 新增新聘兼任教",
+    "notes": "建築一和創意一合開 (限主修建築系選課)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3900008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363065&code=12455",
@@ -53001,8 +53036,8 @@
     "teacher": [
       {
         "name": "黃如瑩",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11092",
-        "code": "11092"
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24713",
+        "code": "24713"
       }
     ],
     "time": {
@@ -53030,9 +53065,7 @@
     "language": "",
     "notes": "A 組 - 學號尾號除 3 餘 1，01/04/07 等，僅限英文系學生修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5401102",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=363112&code=11092"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "5401107",
@@ -53237,8 +53270,8 @@
     "teacher": [
       {
         "name": "黃如瑩",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11092",
-        "code": "11092"
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24713",
+        "code": "24713"
       }
     ],
     "time": {
@@ -53267,9 +53300,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5401206",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=363119&code=11092"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1001002",
@@ -86025,7 +86056,13 @@
         "code": "2910"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蕭驩庭",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24699",
+        "code": "24699"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -86043,7 +86080,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘兼任教師蕭驩庭授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3902408",
     "syllabusLinks": []
   },
@@ -108687,7 +108724,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1414006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366840&code=24506"
+    ]
   },
   {
     "code": "1418008",
@@ -109983,7 +110022,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1414006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366865&code=24506"
+    ]
   },
   {
     "code": "1415016",
