@@ -25499,6 +25499,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366141&code=10938",
+      "ShowSyllabus.jsp?snum=366141&code=12343",
       "ShowSyllabus.jsp?snum=366141&code=10988",
       "ShowSyllabus.jsp?snum=366141&code=12342"
     ]
@@ -25736,6 +25737,7 @@
       "ShowSyllabus.jsp?snum=366145&code=12389",
       "ShowSyllabus.jsp?snum=366145&code=12494",
       "ShowSyllabus.jsp?snum=366145&code=11315",
+      "ShowSyllabus.jsp?snum=366145&code=12343",
       "ShowSyllabus.jsp?snum=366145&code=12173",
       "ShowSyllabus.jsp?snum=366145&code=12148"
     ]
@@ -32400,6 +32402,7 @@
       "ShowSyllabus.jsp?snum=366660&code=12389",
       "ShowSyllabus.jsp?snum=366660&code=12494",
       "ShowSyllabus.jsp?snum=366660&code=11315",
+      "ShowSyllabus.jsp?snum=366660&code=12343",
       "ShowSyllabus.jsp?snum=366660&code=12173",
       "ShowSyllabus.jsp?snum=366660&code=12148"
     ]
@@ -32553,6 +32556,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366662&code=10938",
+      "ShowSyllabus.jsp?snum=366662&code=12343",
       "ShowSyllabus.jsp?snum=366662&code=10988",
       "ShowSyllabus.jsp?snum=366662&code=12342"
     ]
@@ -35644,5 +35648,333 @@
       "ShowSyllabus.jsp?snum=367019&code=24584",
       "ShowSyllabus.jsp?snum=367019&code=24348"
     ]
+  },
+  {
+    "code": "C104007",
+    "description": {
+      "zh": "1. 混凝土結構概述與支撐結構混凝土材料特性, 2. 支撐結構設計載重與材料強度規定, 3. 離岸風機地震載重設計, 4. 離岸風機風載重設計, 5. 離岸風機波浪載重設計, 6. 支撐結構之疲勞設計, 7. 支撐結構之鋼結構設計與案例, 8. 支撐結構之混凝土結構設計與案例, 9. 離岸風機基礎設計",
+      "en": "1. Concepts of concrete structures and concrete material properties, 2. Loads and material strength required for designing supporting structures, 3. Seismic design of offshore wind turbines, 4. Wind resistance design of offshore wind turbines, 5. Wave resistance design of offshore wind turbines, 6. Fatigue design of supporting structures, 7. Case studies of steel structure design for supporting structures, 8. Case studies of concrete structure design for supporting structures, 9. Footing design of offshore wind turbines"
+    },
+    "id": "367020",
+    "name": {
+      "zh": "離岸風機支撐結構分析與設計",
+      "en": "Analysis and design of supporting structures for offshore wind turbines"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2595",
+        "code": "2595"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "尹世洵",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11309",
+        "code": "11309"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "3",
+        "4",
+        "N"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "土木201",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=382",
+        "code": "382"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C104007",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367020&code=11309"
+    ]
+  },
+  {
+    "code": "AC05217",
+    "description": {
+      "zh": "本課程的目的在於培養學生具備以下的能力：1. 使學生具備能夠把「抽象概念」轉換成實務設計的基本能力。2. 培養學生有美感欣賞與基本應用技巧的能力。3. 訓練學生具有獨立思考與解決問題的視覺構成能力。4. 具備認識感官資訊處理過程以及傳遞原理的基本能力。5. 能了解視覺、聽覺以及空間互動資訊如何運作以及應用的能力。6. 學習如何運用相關的方法、整合相關專業知識與技能於資訊設計上。",
+      "en": "This course is expected to train students to be equipped with the following abilities: 1. Ability to transforming the abstract ideas into practical design. 2. Ability of aesthetic appreciation and basic application skills. 3. Visual construction ability of independent thinking and problem-solving. 4. Understanding of perceived information processing and communication principle. 5 Understanding of knowledge and application of visual, acoustic and spacial interaction information. 6. Learning how to apply relevant methods and integrate knowledge and techniques to practical information design."
+    },
+    "id": "367029",
+    "name": {
+      "zh": "視覺與資訊設計",
+      "en": "Visual and Information Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "互動所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3756",
+        "code": "3756"
+      },
+      {
+        "name": "互動與創新外生專班",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3759",
+        "code": "3759"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3768",
+        "code": "3768"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "戴楠青",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11633",
+        "code": "11633"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "光華館409",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=512",
+        "code": "512"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "日碩、外碩和設計博合開, 光華 409, 本系限碩一修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05217",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367029&code=11633"
+    ]
+  },
+  {
+    "code": "AC05232",
+    "description": {
+      "zh": "互動設計可視為三大傳統設計領域：平面設計、工業設計，與建築設計的延伸。在許許多多延伸出來的新設計領域如 UI、UX、響應式網頁、互動產品、智慧空間等等，圖像依舊是所有設計在發想、討論，與實現設計上所仰賴的根本工具。本課程以圖像為設計語言的架構下，介紹由圖像所發展出來的數位生產線，以模組技術介紹互動設計在設計發想、原型製作，以至到設計討論與提案所需要之圖像技術，並鼓勵學生以一設計提案來總結課堂之所學。",
+      "en": "Interaction design can be considered as an extension of the long-established fields of architectural, industrial, and graphical design. Regardless what types of the recent emerging field of interaction design such as UI, UX, responsive website, tangible interaction design, or smart environment, the image remains as the visual language for design ideation to realization. This course introduces the concept of digital pipeline which is mediated on wide range of image related digital technologies. Through those modularized technologies, we can form a working pipeline to create a prototype for an interaction design proposal."
+    },
+    "id": "367037",
+    "name": {
+      "zh": "原型製作與互動設計",
+      "en": "Prototyping and Interaction Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職互動所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3788",
+        "code": "3788"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "戴楠青",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11633",
+        "code": "11633"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "光華館409",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=512",
+        "code": "512"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "光華 409，限本系生，限碩一 (碩二勿選)，自備 MAC 筆電",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05232",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367037&code=11633"
+    ]
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367084",
+    "name": {
+      "zh": "金融科技導論",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "台大張智星 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367085",
+    "name": {
+      "zh": "自然語言處理",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "2",
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "清大高宏宇 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367086",
+    "name": {
+      "zh": "生成式 AI 文字與圖像生成原理實務",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "黃正民",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11551",
+        "code": "11551"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "8",
+        "9",
+        "A"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "政大蔡炎龍 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
   }
 ]
