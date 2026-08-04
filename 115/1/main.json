@@ -31007,68 +31007,6 @@
     ]
   },
   {
-    "code": "3814012",
-    "description": {
-      "zh": "引導學生透過課堂上的遊戲、討論、體驗、演練等創意活動，從實作中學習設計思考的原理、過程與應用，進而反思自己所建構的設計思考方法。課程內容包含：設計主題、設計概念、靈感來源、空間功能、風格與材質、情感與氛圍等。",
-      "en": "This course is to lead students a learning-by-doing fashion to help them understand the theories, processes, and application of design thinking by means of playing games, discussion, experience, and doing exercises at classroom, and accordingly, reflect their own approach to design thinking. The content of this course includes:1.Design Theme (Theme)2.Design Concept (Concept / Philosophy)3.Inspiration (Inspiration)4.Space Function (Functionality)5.Style and Materials (Style & Materials)6.Emotion and Atmosphere (Emotion & Atmosphere)"
-    },
-    "id": "362467",
-    "name": {
-      "zh": "設計思考實務",
-      "en": "Design Thinking In Practice"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工設二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3132",
-        "code": "3132"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "周炘賢",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24050",
-        "code": "24050"
-      },
-      {
-        "name": "張意",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24618",
-        "code": "24618"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "9",
-        "A",
-        "B"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計207",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=389",
-        "code": "389"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "工設二、建築二合開【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3814012",
-    "syllabusLinks": []
-  },
-  {
     "code": "3843009",
     "description": {
       "zh": "本課程通過理論與實際案例介紹 3D 創作與空間設計軟體：3DS MAX 的概念與應用範圍，接續將 3D 環境建構的方法導入實務案例練習操作，最後透過專題設定進行學生自己的內容創作。課程目的是訓練學生在運用 3DS MAX 軟體進行 3D 模型、角色造型、空間和相關物件的建構能力，並接續應用在空間展示的內容設計和表現。",
@@ -31668,62 +31606,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362496&code=12459"
     ]
-  },
-  {
-    "code": "3902425",
-    "description": {
-      "zh": "This course is to lead students a learning-by-doing fashion to help them understand the theories, processes, and application of design thinking by means of playing games, discussion, experience, and doing exercises at classroom, and accordingly, reflect their own approach to design thinking. The content of this course includes:1.Design Theme (Theme)2.Design Concept (Concept / Philosophy)3.Inspiration (Inspiration)4.Space Function (Functionality)5.Style and Materials (Style & Materials)6.Emotion and Atmosphere (Emotion & Atmosphere)",
-      "en": "引導學生透過課堂上的遊戲、討論、體驗、演練等創意活動，從實作中學習設計思考的原理、過程與應用，進而反思自己所建構的設計思考方法。課程內容包含：設計主題、設計概念、靈感來源、空間功能、風格與材質、情感與氛圍等。"
-    },
-    "id": "362497",
-    "name": {
-      "zh": "設計思考實務",
-      "en": "Design Thinking In Practice"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "建築二",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3133",
-        "code": "3133"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "周炘賢",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24050",
-        "code": "24050"
-      },
-      {
-        "name": "張意",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24618",
-        "code": "24618"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "9",
-        "A",
-        "B"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "工設二、建築二合開 (EMI)【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3902425",
-    "syllabusLinks": []
   },
   {
     "code": "1001002",
@@ -40747,7 +40629,9 @@
     "language": "",
     "notes": "限五專學生修習, 陳雅苓",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2A10001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362762&code=24689"
+    ]
   },
   {
     "code": "2A10005",
@@ -51546,6 +51430,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363065&code=12455",
       "ShowSyllabus.jsp?snum=363065&code=12638",
+      "ShowSyllabus.jsp?snum=363065&code=24701",
       "ShowSyllabus.jsp?snum=363065&code=12344",
       "ShowSyllabus.jsp?snum=363065&code=12230",
       "ShowSyllabus.jsp?snum=363065&code=24699",
@@ -57647,7 +57532,13 @@
         "code": "3724"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "葉宗軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12724",
+        "code": "12724"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -57697,7 +57588,13 @@
         "code": "3724"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "葉宗軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12724",
+        "code": "12724"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -71014,7 +70911,13 @@
         "code": "3754"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "葉宗軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12724",
+        "code": "12724"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -91053,7 +90956,9 @@
     "language": "",
     "notes": "中級 1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=14E0203",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366358&code=22291"
+    ]
   },
   {
     "code": "14E0303",
@@ -102501,7 +102406,13 @@
         "code": "3038"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "葉宗軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12724",
+        "code": "12724"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -115516,6 +115427,57 @@
     "language": "",
     "notes": "清大陳宜欣 https://ppt.cc/fCH4qx",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367089",
+    "name": {
+      "zh": "統計學暨實習",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(大學部)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=450",
+        "code": "450"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張漢利",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12603",
+        "code": "12603"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "台大李宗穎 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
     "syllabusLinks": []
   }
 ]
