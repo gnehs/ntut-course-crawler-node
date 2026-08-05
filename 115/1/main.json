@@ -6190,7 +6190,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361439&code=23680",
       "ShowSyllabus.jsp?snum=361439&code=23676",
-      "ShowSyllabus.jsp?snum=361439&code=11680"
+      "ShowSyllabus.jsp?snum=361439&code=11680",
+      "ShowSyllabus.jsp?snum=361439&code=24053"
     ]
   },
   {
@@ -6277,7 +6278,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361440&code=23680",
       "ShowSyllabus.jsp?snum=361440&code=23676",
-      "ShowSyllabus.jsp?snum=361440&code=11680"
+      "ShowSyllabus.jsp?snum=361440&code=11680",
+      "ShowSyllabus.jsp?snum=361440&code=24053"
     ]
   },
   {
@@ -9759,7 +9761,13 @@
         "code": "3014"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王儀雯",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12719",
+        "code": "12719"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -9790,7 +9798,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "EMI 新聘專任 115.8",
+    "notes": "EMI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3203062",
     "syllabusLinks": []
   },
@@ -9881,7 +9889,13 @@
         "code": "3014"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王儀雯",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12719",
+        "code": "12719"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9906,7 +9920,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘專任 115.8",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3204016",
     "syllabusLinks": []
   },
@@ -49299,7 +49313,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400098",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363013&code=10988"
+    ]
   },
   {
     "code": "1404006",
@@ -54692,7 +54708,13 @@
         "code": "3719"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王儀雯",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12719",
+        "code": "12719"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -54712,7 +54734,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘專任",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6501006",
     "syllabusLinks": []
   },
@@ -69550,7 +69572,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "EMI 網路預選限 50 人",
+    "notes": "網路預選限 50 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=364369&code=12678"
@@ -78980,7 +79002,9 @@
     "language": "",
     "notes": "需選修始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366040&code=24710"
+    ]
   },
   {
     "code": "1400105",
@@ -79036,7 +79060,9 @@
     "language": "",
     "notes": "需選修始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366041&code=24710"
+    ]
   },
   {
     "code": "1400105",
@@ -79092,7 +79118,9 @@
     "language": "",
     "notes": "需選修始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366042&code=24710"
+    ]
   },
   {
     "code": "1400105",
@@ -79372,7 +79400,9 @@
     "language": "",
     "notes": "需選修始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366047&code=24710"
+    ]
   },
   {
     "code": "1400105",
@@ -79428,7 +79458,9 @@
     "language": "",
     "notes": "需選修始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366048&code=24710"
+    ]
   },
   {
     "code": "1400105",
@@ -79596,7 +79628,9 @@
     "language": "",
     "notes": "需選修始可畢業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366051&code=24710"
+    ]
   },
   {
     "code": "1400105",
@@ -107404,7 +107438,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366811&code=24073"
+    ]
   },
   {
     "code": "1416004",
@@ -107818,7 +107854,9 @@
     "language": "",
     "notes": "社會與法治向度",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366820&code=24073"
+    ]
   },
   {
     "code": "1416013",
