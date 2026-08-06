@@ -6189,6 +6189,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC14001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361439&code=23680",
+      "ShowSyllabus.jsp?snum=361439&code=24695",
       "ShowSyllabus.jsp?snum=361439&code=23676",
       "ShowSyllabus.jsp?snum=361439&code=11680",
       "ShowSyllabus.jsp?snum=361439&code=24053"
@@ -6277,6 +6278,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC24001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361440&code=23680",
+      "ShowSyllabus.jsp?snum=361440&code=24695",
       "ShowSyllabus.jsp?snum=361440&code=23676",
       "ShowSyllabus.jsp?snum=361440&code=11680",
       "ShowSyllabus.jsp?snum=361440&code=24053"
@@ -6885,7 +6887,9 @@
     "language": "",
     "notes": "綜科館 328",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2B03003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361455&code=11098"
+    ]
   },
   {
     "code": "2B03004",
@@ -7861,6 +7865,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361491&code=11840",
       "ShowSyllabus.jsp?snum=361491&code=11230",
+      "ShowSyllabus.jsp?snum=361491&code=11098",
       "ShowSyllabus.jsp?snum=361491&code=11018",
       "ShowSyllabus.jsp?snum=361491&code=12036"
     ]
@@ -9800,7 +9805,9 @@
     "language": "",
     "notes": "EMI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3203062",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361601&code=12719"
+    ]
   },
   {
     "code": "3203067",
@@ -9922,7 +9929,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3204016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361603&code=12719"
+    ]
   },
   {
     "code": "3203003",
@@ -11784,6 +11793,11 @@
         "name": "林祐正",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11258",
         "code": "11258"
+      },
+      {
+        "name": "黃千溥",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12723",
+        "code": "12723"
       }
     ],
     "time": {
@@ -11805,7 +11819,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "林祐正老師與新聘老師合授",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3403007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361757&code=11258"
@@ -12373,6 +12387,11 @@
         "name": "林祐正",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11258",
         "code": "11258"
+      },
+      {
+        "name": "黃千溥",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12723",
+        "code": "12723"
       }
     ],
     "time": {
@@ -12394,7 +12413,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "林祐正老師與新聘老師合授",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3403007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361779&code=11258"
@@ -19596,7 +19615,13 @@
         "code": "3040"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -19621,7 +19646,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限本系生修 82 人, 大三與外生三合開, 自備筆電_新聘教師",
+    "notes": "限本系生修 82 人, 大三與外生三合開, 自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC03002",
     "syllabusLinks": []
   },
@@ -20100,7 +20125,13 @@
         "code": "3041"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -20125,7 +20156,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "大三 / 外生三合開, 限合開班生修, 自備筆電_新聘教師",
+    "notes": "大三 / 外生三合開, 限合開班生修, 自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AT03003",
     "syllabusLinks": []
   },
@@ -24689,6 +24720,11 @@
         "name": "化工二乙",
         "link": "Subj.jsp?format=-4&year=115&sem=1&code=3121",
         "code": "3121"
+      },
+      {
+        "name": "化工二丙",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3122",
+        "code": "3122"
       }
     ],
     "teacher": [
@@ -24719,7 +24755,7 @@
         "code": "45"
       }
     ],
-    "people": "38",
+    "people": "76",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25137,58 +25173,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362296&code=12506"
     ]
-  },
-  {
-    "code": "3202005",
-    "description": {
-      "zh": "介紹化工程序中物質於一系統中流進、流出間質量、能量均衡之原理與計算，使學生學習列出質能均衡之基本式子並查尋相關文獻，手冊上所登錄之物性資料以解決問題。",
-      "en": "The course introduces the material and energy balances of the chemical process.  Students learn to define the system, practice the conservation law of mass and energy, and look up handbook for necessary information."
-    },
-    "id": "362297",
-    "name": {
-      "zh": "質能均衡",
-      "en": "Material and Energy Balance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "化工二丙",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3122",
-        "code": "3122"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "7"
-      ],
-      "fri": [
-        "5",
-        "6"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "二教301",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=26",
-        "code": "26"
-      }
-    ],
-    "people": "38",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "EMI 新聘專任 115.8",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3202005",
-    "syllabusLinks": []
   },
   {
     "code": "3202010",
@@ -33288,7 +33272,13 @@
         "code": "3137"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "Keerthana K. B.",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24716",
+        "code": "24716"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -33307,7 +33297,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "Keerthana / 英語",
+    "notes": "英語",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5702004",
     "syllabusLinks": []
   },
@@ -37081,7 +37071,13 @@
         "code": "3146"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37106,7 +37102,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "大二 / 外生二合開, 限本系生 70 人修, 自備筆電_新聘教師",
+    "notes": "大二 / 外生二合開, 限本系生 70 人修, 自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC02002",
     "syllabusLinks": []
   },
@@ -37133,6 +37129,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      },
       {
         "name": "黃儀婷",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12304",
@@ -37265,6 +37266,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      },
       {
         "name": "黃儀婷",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12304",
@@ -37729,7 +37735,13 @@
         "code": "3147"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -37758,7 +37770,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "一般教室, 限本系生 15 人修, 交換生勿選_新聘教師",
+    "notes": "一般教室, 限本系生 15 人修, 交換生勿選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AT02001",
     "syllabusLinks": []
   },
@@ -37784,7 +37796,13 @@
         "code": "3147"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37809,7 +37827,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "大二 / 外生二合開, 限本系生 15 人修, 自備筆電_新聘教師",
+    "notes": "大二 / 外生二合開, 限本系生 15 人修, 自備筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AT02003",
     "syllabusLinks": []
   },
@@ -52541,7 +52559,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0712",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=524",
+        "code": "524"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -52828,7 +52852,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400098",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363108&code=11423"
+    ]
   },
   {
     "code": "1404006",
@@ -54616,7 +54642,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0612",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=522",
+        "code": "522"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -54736,7 +54768,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6501006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363157&code=12719"
+    ]
   },
   {
     "code": "1001002",
@@ -55218,7 +55252,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3001024",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363170&code=11098"
+    ]
   },
   {
     "code": "3001056",
@@ -55279,7 +55315,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3001056",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=363171&code=12236"
+      "ShowSyllabus.jsp?snum=363171&code=12236",
+      "ShowSyllabus.jsp?snum=363171&code=11098"
     ]
   },
   {
@@ -59156,7 +59193,13 @@
         "code": "3727"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -59174,7 +59217,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "一般教室, 限本系生 20 人修 (外系 / 交換生勿選)_新聘教師",
+    "notes": "一般教室, 限本系生 20 人修 (外系 / 交換生勿選)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AT01003",
     "syllabusLinks": []
   },
@@ -66248,7 +66291,9 @@
     "language": "",
     "notes": "製科◎，限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363924&code=11098"
+    ]
   },
   {
     "code": "5605022",
@@ -67914,6 +67959,11 @@
         "name": "胡憲倫",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11128",
         "code": "11128"
+      },
+      {
+        "name": "鄭婉婷",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24718",
+        "code": "24718"
       }
     ],
     "time": {
@@ -74672,56 +74722,6 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005050",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4207002",
-    "description": {
-      "zh": "以演講，討論，口頭及書面報告方式，探討土木與防災之相關課題，如結構檢測評估與補強，水土防災技術，防災體系與資訊，都市防災，消防防災，施工災變，環境防災規劃與管理等。",
-      "en": "By means of addresses discussion, oral presentations and reports to learn and investigate the related civil and disaster prevention subjects, such as structure testing, evaluation and repairing, soil and water disaster prevention, urban precaution, fire fighting, construction safety, environmental planning, and management for disaster prevention."
-    },
-    "id": "364876",
-    "name": {
-      "zh": "專題討論",
-      "en": "Seminar"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "防災所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3733",
-        "code": "3733"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "7",
-        "8"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "土木5F_2",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=264",
-        "code": "264"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "博班 / 土木館 5F 電化教室",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4207002",
     "syllabusLinks": []
   },
   {
@@ -81596,56 +81596,6 @@
     ]
   },
   {
-    "code": "4236123",
-    "description": {
-      "zh": "以結構工程、大地工程、防災科學、運輸交通、營建管理、營建材料及營建技術為專題討論主題之主要範疇。",
-      "en": "Seminar Special subject discussion of structure engineering , geography engineering pretecting calamity science, transportation, construction management , construction material and construction technique."
-    },
-    "id": "366115",
-    "name": {
-      "zh": "專題討論",
-      "en": "Seminar"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "防災所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3733",
-        "code": "3733"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "7",
-        "8"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "土木5F_2",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=264",
-        "code": "264"
-      }
-    ],
-    "people": "1",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "丙丁戊組 / 土木館 5F 電化教室",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4236123",
-    "syllabusLinks": []
-  },
-  {
     "code": "4205095",
     "description": {
       "zh": "本課程旨在培養學生在土木與營建專案中進行風險與防災管理的分析與決策能力，課程內容涵蓋風險管理理論、量化分析方法、防災減災概念、法規制度、專案合約風險分攤、施工安全，以及環境與氣候韌性議題。",
@@ -81785,7 +81735,13 @@
         "code": "3733"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃千溥",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12723",
+        "code": "12723"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -81810,7 +81766,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘教師/全英/土木館 205",
+    "notes": "全英 / 土木館 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205060",
     "syllabusLinks": []
   },
@@ -113826,6 +113782,11 @@
     ],
     "teacher": [
       {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      },
+      {
         "name": "韓秉軒",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11969",
         "code": "11969"
@@ -113884,6 +113845,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "王秋玄",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12721",
+        "code": "12721"
+      },
       {
         "name": "韓秉軒",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11969",
