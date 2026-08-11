@@ -192,7 +192,9 @@
     "language": "",
     "notes": "丙組及己組 (指導教授為丙組)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105097",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363318&code=11323"
+    ]
   },
   {
     "code": "3105217",
@@ -627,7 +629,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105171",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363364&code=11323"
+    ]
   },
   {
     "code": "3105209",
@@ -1904,7 +1908,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3072,7 +3082,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "甲乙組 / 土木館 5F 電化教室",
+    "notes": "碩士班 / 土木館 5F 電化教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236123",
     "syllabusLinks": []
   },
@@ -3485,7 +3495,9 @@
     "language": "",
     "notes": "土木館 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4235003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363651&code=12081"
+    ]
   },
   {
     "code": "4235006",
@@ -6235,7 +6247,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6838,7 +6856,13 @@
         "code": "3741"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "劉時玟",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12728",
+        "code": "12728"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -6863,7 +6887,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英文 / 劉時玟",
+    "notes": "英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": []
   },
@@ -7408,7 +7432,13 @@
         "code": "3741"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "劉時玟",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12728",
+        "code": "12728"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -7433,7 +7463,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英文 / 劉時玟",
+    "notes": "英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
     "syllabusLinks": []
   },
@@ -8186,7 +8216,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=364179&code=11725",
-      "ShowSyllabus.jsp?snum=364179&code=11128"
+      "ShowSyllabus.jsp?snum=364179&code=11128",
+      "ShowSyllabus.jsp?snum=364179&code=24718"
     ]
   },
   {
@@ -9926,7 +9957,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒404 ",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=560",
+        "code": "560"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10936,7 +10973,13 @@
         "code": "3753"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃天偉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12720",
+        "code": "12720"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10963,7 +11006,9 @@
     "language": "",
     "notes": "新聘專任教師; 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364479&code=12720"
+    ]
   },
   {
     "code": "A405180",
@@ -11751,7 +11796,8 @@
     "notes": "資財四甲和資財所合開 / 哈佛講堂",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05120",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=364555&code=12342"
+      "ShowSyllabus.jsp?snum=364555&code=12342",
+      "ShowSyllabus.jsp?snum=364555&code=24585"
     ]
   },
   {
@@ -11865,7 +11911,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=15",
+        "code": "15"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11919,7 +11971,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=15",
+        "code": "15"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11972,7 +12030,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=566",
+        "code": "566"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12078,7 +12142,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=571",
+        "code": "571"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12131,7 +12201,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=571",
+        "code": "571"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12184,7 +12260,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=571",
+        "code": "571"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12236,7 +12318,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=571",
+        "code": "571"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12294,7 +12382,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=571",
+        "code": "571"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12347,7 +12441,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13063,7 +13163,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13191,7 +13297,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364692&code=11573"
+    ]
   },
   {
     "code": "8507001",
@@ -13311,7 +13419,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=15",
+        "code": "15"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14832,7 +14946,9 @@
     "language": "",
     "notes": "工管博和管理博班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3707033",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364873&code=11573"
+    ]
   },
   {
     "code": "3707029",
@@ -14970,7 +15086,9 @@
     "language": "",
     "notes": "博班 / 土木館 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4207003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364877&code=12081"
+    ]
   },
   {
     "code": "4207001",
@@ -19518,7 +19636,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=365583&code=12492",
-      "ShowSyllabus.jsp?snum=365583&code=12305"
+      "ShowSyllabus.jsp?snum=365583&code=12305",
+      "ShowSyllabus.jsp?snum=365583&code=24718"
     ]
   },
   {
@@ -21269,7 +21388,9 @@
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215014",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365844&code=11764"
+    ]
   },
   {
     "code": "C215026",
@@ -23486,7 +23607,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "光華館409",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=512",
+        "code": "512"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -25171,7 +25298,9 @@
     "language": "",
     "notes": "全英 / 土木館 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205060",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366119&code=12723"
+    ]
   },
   {
     "code": "C205001",
@@ -25294,9 +25423,19 @@
         "code": "11429"
       },
       {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12560",
+        "code": "12560"
       }
     ],
     "time": {
@@ -25433,6 +25572,7 @@
     "notes": "碩二必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366141&code=11573",
       "ShowSyllabus.jsp?snum=366141&code=10938",
       "ShowSyllabus.jsp?snum=366141&code=12343",
       "ShowSyllabus.jsp?snum=366141&code=10988",
@@ -26227,7 +26367,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "四教203",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=74",
+        "code": "74"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -26570,7 +26716,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27215,7 +27367,13 @@
         "code": "3753"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃天偉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12720",
+        "code": "12720"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -27242,7 +27400,9 @@
     "language": "",
     "notes": "新聘專任教師; 英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366246&code=12720"
+    ]
   },
   {
     "code": "A405114",
@@ -27500,7 +27660,13 @@
         "code": "3787"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃天偉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12720",
+        "code": "12720"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -27527,7 +27693,9 @@
     "language": "",
     "notes": "先鋒 1401 教室; 新聘專任教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366251&code=12720"
+    ]
   },
   {
     "code": "6505164",
@@ -27763,7 +27931,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=571",
+        "code": "571"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27821,7 +27995,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=15",
+        "code": "15"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29965,7 +30145,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒201 ",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=572",
+        "code": "572"
+      }
+    ],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32490,6 +32676,7 @@
     "notes": "碩二 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366662&code=11573",
       "ShowSyllabus.jsp?snum=366662&code=10938",
       "ShowSyllabus.jsp?snum=366662&code=12343",
       "ShowSyllabus.jsp?snum=366662&code=10988",
@@ -33055,7 +33242,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理和經營策略實務",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366713&code=24421"
+    ]
   },
   {
     "code": "C215039",
@@ -34508,9 +34697,19 @@
         "code": "11429"
       },
       {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12560",
+        "code": "12560"
       }
     ],
     "time": {
@@ -34590,7 +34789,9 @@
     "language": "",
     "notes": "全英 / 土木館 208",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236110",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366905&code=11258"
+    ]
   },
   {
     "code": "4505003",
@@ -34685,7 +34886,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -34864,7 +35071,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "光華館400",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=525",
+        "code": "525"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35919,6 +36132,149 @@
     "ta": [],
     "language": "",
     "notes": "政大蔡炎龍 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367087",
+    "name": {
+      "zh": "實體人工智慧",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鄭智成",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11337",
+        "code": "11337"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "5",
+        "6",
+        "7"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "陽交陳奕廷 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367087&code=11337"
+    ]
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367088",
+    "name": {
+      "zh": "資料探勘與應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "清大陳宜欣 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367090",
+    "name": {
+      "zh": "機器學習",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "台大林軒田 https://ppt.cc/fCH4qx",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }

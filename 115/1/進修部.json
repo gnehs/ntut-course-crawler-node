@@ -738,7 +738,9 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=364932&code=12398",
       "ShowSyllabus.jsp?snum=364932&code=10911",
+      "ShowSyllabus.jsp?snum=364932&code=11167",
       "ShowSyllabus.jsp?snum=364932&code=10996",
+      "ShowSyllabus.jsp?snum=364932&code=10958",
       "ShowSyllabus.jsp?snum=364932&code=10822",
       "ShowSyllabus.jsp?snum=364932&code=11684",
       "ShowSyllabus.jsp?snum=364932&code=12467",
@@ -7510,7 +7512,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=365583&code=12492",
-      "ShowSyllabus.jsp?snum=365583&code=12305"
+      "ShowSyllabus.jsp?snum=365583&code=12305",
+      "ShowSyllabus.jsp?snum=365583&code=24718"
     ]
   },
   {
@@ -9261,7 +9264,9 @@
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215014",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365844&code=11764"
+    ]
   },
   {
     "code": "C215026",
@@ -13258,9 +13263,19 @@
         "code": "11429"
       },
       {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12560",
+        "code": "12560"
       }
     ],
     "time": {
@@ -13397,6 +13412,7 @@
     "notes": "碩二必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366141&code=11573",
       "ShowSyllabus.jsp?snum=366141&code=10938",
       "ShowSyllabus.jsp?snum=366141&code=12343",
       "ShowSyllabus.jsp?snum=366141&code=10988",
@@ -14193,7 +14209,13 @@
         "code": "3787"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃天偉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12720",
+        "code": "12720"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -14220,7 +14242,9 @@
     "language": "",
     "notes": "先鋒 1401 教室; 新聘專任教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366251&code=12720"
+    ]
   },
   {
     "code": "5221424",
@@ -15801,6 +15825,7 @@
     "notes": "碩二 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366662&code=11573",
       "ShowSyllabus.jsp?snum=366662&code=10938",
       "ShowSyllabus.jsp?snum=366662&code=12343",
       "ShowSyllabus.jsp?snum=366662&code=10988",
@@ -16069,7 +16094,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理和經營策略實務",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366713&code=24421"
+    ]
   },
   {
     "code": "C215039",
@@ -17145,9 +17172,19 @@
         "code": "11429"
       },
       {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
         "name": "梁曉帆",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
         "code": "11088"
+      },
+      {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12560",
+        "code": "12560"
       }
     ],
     "time": {
