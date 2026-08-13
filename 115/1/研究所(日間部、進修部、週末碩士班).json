@@ -2667,59 +2667,6 @@
     ]
   },
   {
-    "code": "4006001",
-    "description": {
-      "zh": "微加工程序含 MUMPS，打樣、沉積、蝕刻；設計工具含 MEMCAD, Matlab, EM software, and Ansys 等；應用例含壓力感測器、加速度計、探針卡、微波元件、生物晶片等；最後介紹封裝與測試技術。",
-      "en": "1. Introductions of Microsystem 2. Micromachining Processes include MUMPS, Pattern, Deposition, Etching 3. Design Tool include MEMCAD, Matlab, EM software, and Ansys 4.Applications include Pressure sensor, Accelerometer, …,etc, -probe card and other, RFMEMS, BioMEMS 5.Packaging and testing."
-    },
-    "id": "363565",
-    "name": {
-      "zh": "微機電技術與應用",
-      "en": "MEMS Technology and Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3732",
-        "code": "3732"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "呂志誠",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11230",
-        "code": "11230"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "6",
-        "7",
-        "8"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "7",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "限 40 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4006001",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=363565&code=11230"
-    ]
-  },
-  {
     "code": "4007011",
     "description": {
       "zh": "奈微米工程於生物醫學之應用日趨重要，量測與操作工具的開發與實際的生醫應用對象的大小尺寸具有密切的相關性，對於生物系統的充份瞭解是工程表現的重要過程之一。在此課程中將配合本校實驗室目前之相關研究設備進行原理講解與應用討論，包括之項目將由分子、細胞到組織之感測、分析與操縱。選修學生須依下列重點：奈微米生醫感測系統、奈米生醫材料、奈米生醫光電以及實驗室晶片等領域選擇期中期末報告之題目與計畫內容，主要要求在尋求創新思考方向，以求在原理或應用上的突破，積極推動跨領域與技術先進之整合性研究。",
@@ -3892,7 +3839,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5143,9 +5096,9 @@
     },
     "classroom": [
       {
-        "name": "分子205",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=277",
-        "code": "277"
+        "name": "分子207",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=109",
+        "code": "109"
       }
     ],
     "people": "1",
@@ -5202,9 +5155,9 @@
     },
     "classroom": [
       {
-        "name": "分子207",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=109",
-        "code": "109"
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=277",
+        "code": "277"
       }
     ],
     "people": "4",
@@ -5379,9 +5332,9 @@
     },
     "classroom": [
       {
-        "name": "分子207",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=109",
-        "code": "109"
+        "name": "分子107",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=337",
+        "code": "337"
       }
     ],
     "people": "8",
@@ -6889,7 +6842,9 @@
     "language": "",
     "notes": "英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363971&code=12728"
+    ]
   },
   {
     "code": "5706001",
@@ -7465,7 +7420,9 @@
     "language": "",
     "notes": "英文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=363989&code=12728"
+    ]
   },
   {
     "code": "5705504",
@@ -8544,7 +8501,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8666,7 +8629,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8729,7 +8698,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8782,7 +8757,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8835,7 +8816,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11253,7 +11240,9 @@
     "language": "",
     "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505108",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364502&code=12724"
+    ]
   },
   {
     "code": "A505115",
@@ -12835,7 +12824,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15313,7 +15308,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15376,7 +15377,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=566",
+        "code": "566"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20789,8 +20796,8 @@
       },
       {
         "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10632",
-        "code": "10632"
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24719",
+        "code": "24719"
       },
       {
         "name": "翁頌舜",
@@ -20827,7 +20834,6 @@
       "ShowSyllabus.jsp?snum=365813&code=11429",
       "ShowSyllabus.jsp?snum=365813&code=10821",
       "ShowSyllabus.jsp?snum=365813&code=11315",
-      "ShowSyllabus.jsp?snum=365813&code=10632",
       "ShowSyllabus.jsp?snum=365813&code=11440"
     ]
   },
@@ -21224,6 +21230,11 @@
         "name": "陳煒朋",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11729",
         "code": "11729"
+      },
+      {
+        "name": "劉亮志",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11982",
+        "code": "11982"
       }
     ],
     "time": {
@@ -25425,9 +25436,9 @@
         "code": "11429"
       },
       {
-        "name": "翁頌舜",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11440",
-        "code": "11440"
+        "name": "林淑玲",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11403",
+        "code": "11403"
       },
       {
         "name": "梁曉帆",
@@ -25983,7 +25994,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=422",
+        "code": "422"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -26371,9 +26388,9 @@
     },
     "classroom": [
       {
-        "name": "四教203",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=74",
-        "code": "74"
+        "name": "四教303",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=78",
+        "code": "78"
       }
     ],
     "people": "5",
@@ -26491,7 +26508,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子207",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=109",
+        "code": "109"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29306,7 +29329,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31001,7 +31030,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教626",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=446",
+        "code": "446"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31202,7 +31237,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
+        "code": "40"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31760,9 +31801,9 @@
     },
     "classroom": [
       {
-        "name": "分子207",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=109",
-        "code": "109"
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=277",
+        "code": "277"
       }
     ],
     "people": "0",
@@ -31818,9 +31859,9 @@
     },
     "classroom": [
       {
-        "name": "分子205",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=277",
-        "code": "277"
+        "name": "分子207",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=109",
+        "code": "109"
       }
     ],
     "people": "2",
@@ -32214,9 +32255,9 @@
     },
     "classroom": [
       {
-        "name": "分子107",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=337",
-        "code": "337"
+        "name": "紡織503",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=275",
+        "code": "275"
       }
     ],
     "people": "3",
@@ -34699,9 +34740,9 @@
         "code": "11429"
       },
       {
-        "name": "翁頌舜",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11440",
-        "code": "11440"
+        "name": "林淑玲",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11403",
+        "code": "11403"
       },
       {
         "name": "梁曉帆",
@@ -34836,7 +34877,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=342",
+        "code": "342"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36279,6 +36326,50 @@
     "language": "",
     "notes": "台大林軒田 https://ppt.cc/fCH4qx",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4207002",
+    "description": {
+      "zh": "以演講，討論，口頭及書面報告方式，探討土木與防災之相關課題，如結構檢測評估與補強，水土防災技術，防災體系與資訊，都市防災，消防防災，施工災變，環境防災規劃與管理等。",
+      "en": "By means of addresses discussion, oral presentations and reports to learn and investigate the related civil and disaster prevention subjects, such as structure testing, evaluation and repairing, soil and water disaster prevention, urban precaution, fire fighting, construction safety, environmental planning, and management for disaster prevention."
+    },
+    "id": "367125",
+    "name": {
+      "zh": "專題討論",
+      "en": "Seminar"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "防災所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3733",
+        "code": "3733"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "博士班 / 土木館 5F 電化教室",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4207002",
     "syllabusLinks": []
   }
 ]
