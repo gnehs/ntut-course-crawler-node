@@ -2436,7 +2436,8 @@
     "notes": "設計館 703 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872114",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=364995&code=24220"
+      "ShowSyllabus.jsp?snum=364995&code=24220",
+      "ShowSyllabus.jsp?snum=364995&code=23108"
     ]
   },
   {
@@ -2666,7 +2667,9 @@
     "language": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872110",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365004&code=24479"
+    ]
   },
   {
     "code": "3872111",
@@ -6207,7 +6210,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201402",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365333&code=24025"
+    ]
   },
   {
     "code": "5201429",
@@ -7198,6 +7203,11 @@
         "name": "張世豪",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12384",
         "code": "12384"
+      },
+      {
+        "name": "楊侑倫",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12276",
+        "code": "12276"
       }
     ],
     "time": {
@@ -7469,9 +7479,9 @@
     ],
     "teacher": [
       {
-        "name": "江謝令涵",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12492",
-        "code": "12492"
+        "name": "曾昭衡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11021",
+        "code": "11021"
       },
       {
         "name": "楊任軒",
@@ -7511,7 +7521,6 @@
     "notes": "億光大樓 1343 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=365583&code=12492",
       "ShowSyllabus.jsp?snum=365583&code=12305",
       "ShowSyllabus.jsp?snum=365583&code=24718"
     ]
@@ -8458,6 +8467,7 @@
     "notes": "碩一修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365718&code=11297",
       "ShowSyllabus.jsp?snum=365718&code=12095"
     ]
   },
@@ -8739,11 +8749,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "2",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 1) 經營與策略管理",
+    "notes": "(群組 1) 經營與策略管理【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": []
   },
