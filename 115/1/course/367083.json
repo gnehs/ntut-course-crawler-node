@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "黃正民",
+    "email": "cmhuang@ntut.edu.tw",
+    "latestUpdate": "2026-08-18 15:10:05",
+    "objective": "「生成式 AI: 文字與圖像生成的原理與實務」是一門兼具理論深度與實作樂趣的課程, 專為希望深入了解生成式 AI 的技術與應用的學生而設計。不論對 AI 的認識是基礎還是進階, 都希望透過這門課程, 帶領同學探索生成式 AI 的無限可能。學生將會學習神經網路、GAN、Transformer、大型語言模型、RAG、AI Agents、Diffusion Models 等技術, 並運用工具如 OpenAI API、LangChain、HuggingFace 及 AISuite 等等, 完成從文字生成到圖像生成的多樣應用。",
+    "課程進度(1-16週)": "** 配合政大課程 開課 **\n\n週次 1  課程介紹與生成式 AI 概述 \n課程目標與內容簡介, 為什麼要研究生成式 AI, 介紹 Colab 平台的基礎操作。\n\n週次 2  神經網路的概念 \n簡介神經網路的核心概念 (感知器、多層感知器)、激發函數與反向傳播, 實作一個簡單的 MNIST 手寫數字分類。\n\n週次 3  紅極一時的生成對抗網路 (GAN) \n介紹曾經被當作生成式 AI 希望的生成對抗網路 (GAN),包括 GAN 的生成原理、著名的應用範例, 及為什麼暫時不再是主流的原因。\n\n週次 4  大型語言模型原來這麼簡單 \n文字生成 AI 的基本概念, 包括 RNN 及 transformers 有「記憶」的神經網路簡介, 及 seq2seq 模型、詞嵌入等等原理。\n\n週次 5  Transformers 全攻略 \nRNN 及 transformers 的數學基礎與架構, 複習基本矩陣運算、瞭解注意力模式的原理。\n\n週次 6  大型語言模型 (LLM) 的應用及倫理議題的挑戰\n著名的大型語言模型 (LLM),常見應用, 及倫理議題的討論。\n\n週次 7  打造自己的對話機器人 \n使用 AISuite, 用程式的方式打造自己的對話機器人。\n\n週次 8  專家講座 \n學界或業界專家分享生成式 AI 相關實務主題。\n\n週次 9  檢索增強生成 (RAG) 的原理及實作 \nRAG 的概念、資料檢索與生成的結合方法, 實作基於 LangChain 的 RAG 系統\n\n週次 10  Agentic AI 與 AI Agents \n什麼是 AI Agents? 學習不同的 AI Agent 設計模式, 並且運用 AISuite 實作\n\n週次 11  變分自編碼器 (VAE) 開始的冒險旅程 \n解釋 VAE 的原理, 及為什麼這相對簡單的模型, 會成為圖像生成 AI 的重要想法, 發展出目前重要圖像生成的 diffusion models\n\n週次 12  文字生圖 AI 的原理及實作\nDiffusion Models 的進階主題, 包括 CLIP、排程器、LoRA 等概念。並且用 Hugging Face 的 diffusers 套件打造自己的圖像生成 AI Web APP。\n\n週次 13  用 Fooocus 實現 Diffusion Models 的進階技術\n介紹「理解」使用者輸入文字的 CLIP 模型, 著名的圖像生成 AI 模型及運用方式\n\n週次 14  生成式 AI 流行工具及應用範例 \n介紹主流生成式 AI 工具, 及應用範例。\n\n週次 15  生成式 AI 應用與發展趨勢 \n介紹生成式 AI 新近發展。例如我們介紹文字生成預測 token 的模型, 還有圖像生成 diffusion models, 有「互相攻佔」對方地盤的現象。探討其中的原理和可能走向這個方向的原因。\n\n週次 16  在 Gather.town 線上研討會型式的期末專題成果分享",
+    "彈性學習(17-18週)": "類別\n\t\t  \n\t\t    ● 線上數位教材學習 (Coursera、edX、磨課師等)(Online digital learning (Coursera, edX, MOOCs, etc.))\n● AI 輔助學習與工具應用 (AI-assisted learning and tool application)\n\t\t  \n      \n\n      \n        內容\n        \n          期末專題實作報告, 成果應用與結果分析\n        \n      \n\n      \n        時數 (小時)\n        \n          4\n        \n      \n\n      \n        學習成果\n        \n          繳交報告\n        \n      \n\n      \n        評量比例\n        \n          5%",
+    "類別": "● 線上數位教材學習 (Coursera、edX、磨課師等)(Online digital learning (Coursera, edX, MOOCs, etc.))\n● AI 輔助學習與工具應用 (AI-assisted learning and tool application)",
+    "內容": "期末專題實作報告, 成果應用與結果分析",
+    "時數(小時)": "4",
+    "學習成果": "繳交報告",
+    "評量比例": "5%",
+    "scorePolicy": "作業及反思: 75%\n期末專案: 20%\n上課參與 5%\n額外加分",
+    "materials": "課程網頁: Facebook【政大應數系直播中心】\nhttps://facebook.com/groups/nccumathonline/",
+    "consultation": "協同老師 emailcmhuang@mail.ntut.edu.tw",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "** 配合政大課程開課 **",
+    "foreignLanguageTextbooks": true
+  }
+]

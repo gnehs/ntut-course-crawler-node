@@ -7001,7 +7001,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705401",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365446&code=24463"
+    ]
   },
   {
     "code": "5705472",
@@ -8888,6 +8890,11 @@
     ],
     "teacher": [
       {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11396",
         "code": "11396"
@@ -9879,7 +9886,8 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=365860&code=12343"
+      "ShowSyllabus.jsp?snum=365860&code=12343",
+      "ShowSyllabus.jsp?snum=365860&code=24463"
     ]
   },
   {
@@ -9991,9 +9999,24 @@
     ],
     "teacher": [
       {
+        "name": "陳宏佳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24062",
+        "code": "24062"
+      },
+      {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11396",
         "code": "11396"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12173",
+        "code": "12173"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12148",
+        "code": "12148"
       }
     ],
     "time": {
@@ -14306,11 +14329,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221424",
     "syllabusLinks": []
   },
