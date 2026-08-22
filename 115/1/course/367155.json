@@ -1,0 +1,23 @@
+[
+  {
+    "name": "蔣政諺",
+    "email": "dcychiang@ntut.edu.tw",
+    "latestUpdate": "2026-08-21 16:47:19",
+    "objective": "本課程主要目的在於使用各種深度學習的方法，應用在微波遙測資料上面。主要以案例的方式介紹各種應用，因此除了會說明核心的演算法之外，也會介紹使用的訓練資料集的格式、前處理等內容。課程前段會先回顧基本的遙測影像特性以及深度學習技術，包含 CNNs, RNNs, GANs 和 YOLOs 等，常見於遙測資料應用的方法。課程中段會已實際的範例說明上述幾種方法的使用情境與成效。課程最後會要求學生以文獻研讀的方式說明不同深度學習方法在微波遙測上的實例。\n\nThe primary objective of this course is to apply various deep learning methods to microwave remote sensing data. It introduces diverse applications primarily through case studies, covering not only core algorithms but also the format of training datasets and preprocessing techniques. The initial part reviews fundamental remote sensing image characteristics and deep learning techniques, including CNNs, RNNs, GANs, and YOLOs—methods commonly applied to remote sensing data. The middle part demonstrates the practical scenarios and effectiveness of these approaches through real-world examples. The final part requires students to conduct literature reviews, presenting case studies of different deep learning methods applied to microwave remote sensing.",
+    "課程進度(1-16週)": "Week 1, Syllabus\nWeek 2, Fundamental remote sensing image characteristics - 1\nWeek 3, Fundamental remote sensing image characteristics - 2\nWeek 4, Review on variant CNNs\nWeek 5, Review on variant GANs & RNNs\nWeek 6, Review on variant YOLOs\nWeek 7, Case study on the GAN: MSTAR dataset generation\nWeek 8, Case study on the RCNN & YOLO: Ship detection using SAR data\nWeek 9, Case study on the U-net and optimzation: SAR & Optical remote sensing images image fusion\nWeek 11, Case study on the Convolutional Learning Machine: AutofocusSAR, Machine learning-based Synthetic Aperture Radar (SAR) autofocus algorithms\nWeek 12, Case stduy on the NN: SAR2SAR, A Semi-Supervised Despeckling Algorithm for SAR Images\nWeek 13, Literature reviews and presenting by students\nWeek 14, Literature reviews and presenting by students\nWeek 15, Literature reviews and presenting by students\nWeek 16, Literature reviews and presenting by students\nWeek 17-18, (Flexible Learning) Final presentation report",
+    "彈性學習(17-18週)": "類別\n\t\t  \n\t\t    ● 參與課程相關作業、作品、實驗、田野調查 (Participation in course-related assignments, works, experiments, or field research)\n\t\t  \n      \n\n      \n        內容\n        \n          「文獻閱讀成果回顧與綜合討論」讓學生整理前面文獻閱讀的成果、比較不同方法，並透過同儕回饋深化理解。學生再次檢視所閱讀之論文，整理研究問題、方法、實驗結果與主要貢獻，並比較不同研究方法的優缺點。透過同儕報告與討論，給予回饋並分享個人學習心得，最後完成期末文獻閱讀成果報告。\n        \n      \n\n      \n        時數 (小時)\n        \n          6\n        \n      \n\n      \n        學習成果\n        \n          能整理與歸納所閱讀之文獻，理解不同深度學習方法於遙測影像分析之應用，並能比較研究方法與成果、提出個人觀點及研究心得。\n        \n      \n\n      \n        評量比例\n        \n          20%。依據期末文獻閱讀成果、報告內容完整性、研究方法分析、同儕回饋參與及個人學習心得進行評量。",
+    "類別": "● 參與課程相關作業、作品、實驗、田野調查 (Participation in course-related assignments, works, experiments, or field research)",
+    "內容": "「文獻閱讀成果回顧與綜合討論」讓學生整理前面文獻閱讀的成果、比較不同方法，並透過同儕回饋深化理解。學生再次檢視所閱讀之論文，整理研究問題、方法、實驗結果與主要貢獻，並比較不同研究方法的優缺點。透過同儕報告與討論，給予回饋並分享個人學習心得，最後完成期末文獻閱讀成果報告。",
+    "時數(小時)": "6",
+    "學習成果": "能整理與歸納所閱讀之文獻，理解不同深度學習方法於遙測影像分析之應用，並能比較研究方法與成果、提出個人觀點及研究心得。",
+    "評量比例": "20%。依據期末文獻閱讀成果、報告內容完整性、研究方法分析、同儕回饋參與及個人學習心得進行評量。",
+    "scorePolicy": "出席狀況與課程參與 (Attendance & Participation): 20%\n文獻閱讀與報告 (Literature reviews and presenting): 60%\n期末文獻閱讀報告 (Report): 20%",
+    "materials": "相關網路資源",
+    "consultation": "Email: dcychiang@ntut.edu.tw",
+    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
