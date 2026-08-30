@@ -2,7 +2,7 @@ const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
 const cheerioTableparser = require("cheerio-tableparser");
 const axios = require("axios").default;
-const axiosRetry = require("axios-retry");
+const axiosRetry = require("axios-retry").default;
 const pangu = require("./tools/pangu").spacing;
 const fs = require("fs");
 axiosRetry(axios, { retries: 3 });
