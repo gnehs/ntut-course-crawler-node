@@ -8,7 +8,7 @@ https://ntut-course.gnehs.net/
 https://ntut-course.gnehs.net/about
 
 ## API 文件
-https://ntut-course.gnehs.net/api
+https://ntut-course.gnehs.net/doc
 
 ## 資料
 你可以切換到 `gh-pages` 分支查看或下載抓取的資料
