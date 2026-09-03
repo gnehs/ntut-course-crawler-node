@@ -917,7 +917,13 @@
         "code": "3730"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "邱弘緯",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11232",
+        "code": "11232"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -1060,70 +1066,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3635005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363454&code=12601"
-    ]
-  },
-  {
-    "code": "3635022",
-    "description": {
-      "zh": "一、射頻網路分析 二、射頻集總元件 三、射頻耦合線圈與變壓器 四、射頻集總元件阻抗匹配 五、射頻分佈元件 六、射頻傳輸線變壓器 七、射頻分佈元件阻抗匹配  八、射頻放大器阻抗匹配",
-      "en": "1.RF Network Analysis 2.RF Lumped Elements 3.RF Coupled Coils and Transformers 4.RF Impedance Matching Using Lumped Ellements 5.RF Distributed Elements 6.RF Traansmission Line Transformers 7.RF Impedance Matching Using Distributed Elements 8.RF Amplifier Impedance Matching"
-    },
-    "id": "363463",
-    "name": {
-      "zh": "射頻阻抗匹配",
-      "en": "RF Impedance Matching"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電子所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3730",
-        "code": "3730"
-      },
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3762",
-        "code": "3762"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鍾明桉",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12232",
-        "code": "12232"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "二教306",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=31",
-        "code": "31"
-      }
-    ],
-    "people": "17",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "電子所和智慧鐵道合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3635022",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=363463&code=12232"
     ]
   },
   {
@@ -7097,9 +7039,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓734",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=487",
-        "code": "487"
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=474",
+        "code": "474"
       }
     ],
     "people": "51",
@@ -13513,7 +13455,9 @@
     "language": "",
     "notes": "機電博班、機電博外生及機械外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364688&code=11083"
+    ]
   },
   {
     "code": "7407002",
@@ -16570,7 +16514,13 @@
         "code": "3772"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -16585,9 +16535,9 @@
     },
     "classroom": [
       {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=49",
-        "code": "49"
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=334",
+        "code": "334"
       }
     ],
     "people": "23",
@@ -16638,65 +16588,6 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605002",
     "syllabusLinks": []
-  },
-  {
-    "code": "3615046",
-    "description": {
-      "zh": "可穿戴式應用已成了全球科技產業的新寵兒之一。因此，漸漸地，穿戴式裝置已成為人們生活用品的一部分。本課程討論可穿戴式系統導論、無線感測網路導論、生醫資訊模組設計、可穿戴式教學平台之設計、情境感知遠距監控與定位救援手仗之設計、非視覺型之不穩步態偵測分析設計、自行車玩家生醫資訊守護神設計、遠距醫療照護系統設計、與客製化谷歌智慧型眼鏡設計。本課程主要達成跨領域的高度整合應用訓練課程。",
-      "en": "Wearable applications have been become one new darling of the global technology industries. Hence, gradually, the wearable devices have become part of people's daily necessities. This course will discuss the topics of “Introduction of wearable system, Introduction of wireless sensor network, Design of Bio-information module, Design of wearable teaching platform, Design of Context-Aware Tele-monitor and Position-rescue Staff, Detection Analysis and Design for Unstable Gait with Non-vision Base, Bicycler-Player Bio-information Guardian, Design of Tele-Medicine care system, and Design of customized Google Smart-glass”. This course is highly integrated applications to achieve interdisciplinary training."
-    },
-    "id": "365088",
-    "name": {
-      "zh": "可穿戴式系統設計",
-      "en": "Design of the wearable system"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職電子所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3772",
-        "code": "3772"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鍾明桉",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12232",
-        "code": "12232"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "A",
-        "B",
-        "C"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教406",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=54",
-        "code": "54"
-      }
-    ],
-    "people": "16",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3615046",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=365088&code=12232"
-    ]
   },
   {
     "code": "3625048",
@@ -21558,47 +21449,6 @@
     ]
   },
   {
-    "code": "C225019",
-    "description": {
-      "zh": "公司治理已成為廿一世紀企業組織架構調整之重大議題，如何經由管理策略及法制設計使台灣企業經營回歸股東長期價值及利益，為政府、交易所與公會等自律機關、及企業經營者必須面對之問題。在法制上，獨立董事監察人、審計委員會之設置、公司自律守則之擬議、股東會之運作，均衝擊我國公司法、證券交易法及交易所規則現行管理架構及規範；在實務上，上市櫃公司如何順利接受公司治理之理念及管理規範，以提昇公司營運的外在評價與體質。",
-      "en": "The corporate governance had been the enterprise framework adjustment of the main issue of the 21 century. How do the manage the corporate strategy and system of the law to make the profit for the shareholder, government and enterprise. The main purpose of the course to help the learner to understand the law of corporate and the practice of the enterprise."
-    },
-    "id": "365833",
-    "name": {
-      "zh": "公司治理專題",
-      "en": "Seminar on Corporate Governance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA桃園",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3796",
-        "code": "3796"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "(群組 1) 經營與策略管理【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
-    "syllabusLinks": []
-  },
-  {
     "code": "C205022",
     "description": {
       "zh": "本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。",
@@ -23749,7 +23599,9 @@
     "language": "",
     "notes": "IMBA 和經管所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805132",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=365967&code=21405"
+    ]
   },
   {
     "code": "5907003",
@@ -27753,7 +27605,9 @@
     "language": "",
     "notes": "機電博班、機電博外生及機械外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AG05001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366188&code=11083"
+    ]
   },
   {
     "code": "AG05002",
@@ -29218,47 +29072,6 @@
     ]
   },
   {
-    "code": "5221424",
-    "description": {
-      "zh": "1. 授課目的：  現代都市計劃及都市設計作業內容中，必須考量都市永續環境生態之議題。本課程之目的即在於傳述都市之生態概念在規劃實務上之應用，並探討其作業技術內容及其行政程序，以培養學生永續都市及敷地計畫規劃能力。2. 授課內容：  由基本永續都市中，思考生態環境、人類生活環境及建築之間的相互關係。綠建築、永續都市之內容。引介各項生態技術原理及其指標講授，進而指導實證操作技術實驗並撰寫論文，再而論證其都計管制規範。3. 作業練習：  本學期藉由實驗操作、論文報告撰寫，特別著重研討式論辯，訓練學術思辯及技術應用規劃能力，以利學生認識都市生態技術及都計行政作業之整體關聯性，進而建立其全方位規劃思辯能力。",
-      "en": "This course focuses on the issues of the environmental planning, green buildings and sustainable urban design. Its major content includes: 1. Study of relation between Ecosystem, human environment and architecture, 2. essay of Green Building and Sustainable Cities, 3. The case study of Green Building design and Sustainable City Planning."
-    },
-    "id": "366268",
-    "name": {
-      "zh": "環境規劃與都市設計",
-      "en": "Environmental Planning and Urban Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職建都所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3779",
-        "code": "3779"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5221424",
-    "syllabusLinks": []
-  },
-  {
     "code": "5211432",
     "description": {
       "zh": "本課程以都市再生理念為中心，講述推動都市再生過程中面對相關文化資產保存議題之理論與實際操作架構。第一部份探討歷史文化保存相關理念手法。第二部份探討各國文化保存再生案例實踐之相關課題與借鏡，第三部份針對台灣本土都市更新過程中面臨歷史文化保存議題深入研討。",
@@ -29835,6 +29648,11 @@
         "name": "綜科501",
         "link": "Croom.jsp?format=-3&year=115&sem=1&code=291",
         "code": "291"
+      },
+      {
+        "name": "綜科104",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=353",
+        "code": "353"
       }
     ],
     "people": "15",
@@ -30964,9 +30782,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓735",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=488",
-        "code": "488"
+        "name": "六教527",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=439",
+        "code": "439"
       }
     ],
     "people": "85",
@@ -31855,9 +31673,9 @@
     },
     "classroom": [
       {
-        "name": "綜科610",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=301",
-        "code": "301"
+        "name": "綜科B05",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=189",
+        "code": "189"
       }
     ],
     "people": "20",
@@ -32606,7 +32424,13 @@
         "code": "3772"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -32621,9 +32445,9 @@
     },
     "classroom": [
       {
-        "name": "三教310",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=51",
-        "code": "51"
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=334",
+        "code": "334"
       }
     ],
     "people": "19",
@@ -38063,6 +37887,147 @@
     "language": "",
     "notes": "大研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503005",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C504010",
+    "description": {
+      "zh": "本課程介紹主權 AI 於智慧醫療之應用場景與法規要求，涵蓋醫療器材法規架構、品質管理、風險管理、人因工程、互操作性、資料交換標準，以及 AI 法規、資安與隱私議題，協助學員建立智慧醫療系統開發與合規實務能力。",
+      "en": "This course introduces the applications and regulatory requirements of Sovereign AI in smart healthcare. Topics include medical device regulatory frameworks, quality management, risk management, human factors engineering, interoperability, data exchange standards, and AI-related cybersecurity and privacy issues, helping learners build practical competence in smart healthcare development and compliance."
+    },
+    "id": "367159",
+    "name": {
+      "zh": "智慧醫療標準與法規",
+      "en": "Smart Healthcare Standards and Regulations"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳香君",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12386",
+        "code": "12386"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "7",
+        "8",
+        "9"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教509",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=66",
+        "code": "66"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504010",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367159&code=12386"
+    ]
+  },
+  {
+    "code": "6506001",
+    "description": {
+      "zh": "研究生在教授的個別指導下，針對特定研究主題進行研究，並將研究成果寫成論文。",
+      "en": "Graduate students are required to complete specific research topic under the restruction of their advisor.The results should be written as a thesis."
+    },
+    "id": "367171",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "光電所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3746",
+        "code": "3746"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6506001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "6507001",
+    "description": {
+      "zh": "研究生在教授之個別指導下，針對特定研究主題進行研究 ，並將研究成果寫成論文。",
+      "en": "Graduate students are required to complete a specific research topic under the instruction of their advisor. The results should be written as a thesis."
+    },
+    "id": "367172",
+    "name": {
+      "zh": "博士論文",
+      "en": "Doctoral Dissertation"
+    },
+    "stage": "3",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "光電所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3746",
+        "code": "3746"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6507001",
     "syllabusLinks": []
   }
 ]

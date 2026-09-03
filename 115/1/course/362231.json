@@ -2,7 +2,7 @@
   {
     "name": "曾傳蘆",
     "email": "cltseng@ee.ntut.edu.tw",
-    "latestUpdate": "2026-08-19 22:02:55",
+    "latestUpdate": "2026-09-02 18:38:44",
     "objective": "本課程將介紹工程上、物理上系統解析的相關數學工具，內容包括四大項：\n一 常微分方程式：一階，二階，及高階常微分方程，拉譜拉斯轉換\n二 向量幾何與分析\n三 傅立葉級數，積分及轉換。\n四 偏微分方程及邊界值問題。\n上學期課程包含第一大項，下學期課程包括第二、三、四項。",
     "課程進度(1-16週)": "第一週\nFirst Order Differential Equations: Preliminary Concepts\nSeparable Equations & Linear Differential Equations\n第二週\nExact Differential Equations & Integrating Factors\n第三週\nHomogeneous, Bernoulli, and Reccati Equations\n Applications of Electrical Circuits\n第四週\nSecond Order Differential Equations: Preliminary Concepts\n第五週\nTheory of Solutions & Reduction of OrderThe Constant Coefficient Homogeneous Linear Equations\nEuler Equations\n第六週\nThe Nonhomogeneous Equation (I)\n第七週\nThe Nonhomogeneous Equation (II)\n第八週\n期中考\n第九週\nThe Laplace Transform & Definition and Properties\n第十週\nSolution of Initial Value Problems\n第十一週\nShifting Theorems & Convolution Theorem\nUnit Impulses and The Dirac Delta Function\n第十二週\nLaplace Transform Solution of Systems\n第十三週\nDifferential Equations with Polynomial Coefficients\n第十四週\nSeries Solution\n第十五週\nFrobenius Solution\n第十六週\n期末考\n第十七週\nApplications of Differential Equations (線上)\n第十八週\nApplications of Laplace transform (線上)",
     "彈性學習(17-18週)": "類別\n\t\t  \n\t\t    ● 遠距教學 (Distance learning)\n\t\t  \n      \n\n      \n        內容\n        \n          專案名稱：「從汽車避震器到 RLC 電路：二階微分方程式的工程意義」\n17 週課程: 微分方程式的工程建模與響應\n核心案例：質量 — 彈簧 — 阻尼系統\n主要問題：為何系統會振盪、衰減或過度震盪？\n數學重點：二階常係數 ODE、初始條件、阻尼比\n程式工具： Matlab ODE45\n18 週課程: 拉氏轉換、轉移函數與工程響應\n核心案例：質量 — 彈簧 — 阻尼系統\n主要問題：系統突然受外力時如何求響應？\n數學重點：單位階躍、拉氏與反拉氏、極點、轉移函數\n程式工具： Matlab laplace, ilaplace\n        \n      \n\n      \n        時數 (小時)\n        \n          6\n        \n      \n\n      \n        學習成果\n        \n          1. 建立方程式並解釋參數\n2. 由微分方程式建立轉移函數並解釋響應\n        \n      \n\n      \n        評量比例\n        \n          分組繳交專案報告，佔分：10%",
@@ -13,7 +13,7 @@
     "評量比例": "分組繳交專案報告，佔分：10%",
     "scorePolicy": "1.Homework & Quiz 30%\n2.Participation 10%\n3.Midterm exam 30%\n4.Final exam 30%\n5. 第十七、十八周線上線上課程，佔分 10% 外加。\n期末總成績以 t 分數調整",
     "materials": "Textbook: Advanced Engineering Mathematics\nPeter V. O'Neil, 8th ed.\n* 講義請至北科大網路 i 學園 plus 下載",
-    "consultation": "北科大綜合科館 506 室，分機 2189email: f10940@ntut.edu.tw 開學後會在 line 建立群組，以利課程互動與訊息通知 * 如果國定假日甚多，進度不足需要補課，另行在群組通知。",
+    "consultation": "北科大綜合科館 506 室，分機 2189email: f10940@ntut.edu.tw 開學後會在 line 建立群組，以利課程互動與訊息通知 Line 群組 QR code 已經放入北科 i 學園 plus 的工數前言單元投影片。* 如果國定假日甚多，進度不足需要補課，另行在群組通知。",
     "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
     "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",

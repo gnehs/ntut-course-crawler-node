@@ -4226,7 +4226,13 @@
         "code": "3772"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -4241,9 +4247,9 @@
     },
     "classroom": [
       {
-        "name": "三教308",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=49",
-        "code": "49"
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=334",
+        "code": "334"
       }
     ],
     "people": "23",
@@ -4294,65 +4300,6 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605002",
     "syllabusLinks": []
-  },
-  {
-    "code": "3615046",
-    "description": {
-      "zh": "可穿戴式應用已成了全球科技產業的新寵兒之一。因此，漸漸地，穿戴式裝置已成為人們生活用品的一部分。本課程討論可穿戴式系統導論、無線感測網路導論、生醫資訊模組設計、可穿戴式教學平台之設計、情境感知遠距監控與定位救援手仗之設計、非視覺型之不穩步態偵測分析設計、自行車玩家生醫資訊守護神設計、遠距醫療照護系統設計、與客製化谷歌智慧型眼鏡設計。本課程主要達成跨領域的高度整合應用訓練課程。",
-      "en": "Wearable applications have been become one new darling of the global technology industries. Hence, gradually, the wearable devices have become part of people's daily necessities. This course will discuss the topics of “Introduction of wearable system, Introduction of wireless sensor network, Design of Bio-information module, Design of wearable teaching platform, Design of Context-Aware Tele-monitor and Position-rescue Staff, Detection Analysis and Design for Unstable Gait with Non-vision Base, Bicycler-Player Bio-information Guardian, Design of Tele-Medicine care system, and Design of customized Google Smart-glass”. This course is highly integrated applications to achieve interdisciplinary training."
-    },
-    "id": "365088",
-    "name": {
-      "zh": "可穿戴式系統設計",
-      "en": "Design of the wearable system"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職電子所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3772",
-        "code": "3772"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鍾明桉",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12232",
-        "code": "12232"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "A",
-        "B",
-        "C"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教406",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=54",
-        "code": "54"
-      }
-    ],
-    "people": "16",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3615046",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=365088&code=12232"
-    ]
   },
   {
     "code": "3625048",
@@ -9212,47 +9159,6 @@
       "ShowSyllabus.jsp?snum=365813&code=11315",
       "ShowSyllabus.jsp?snum=365813&code=11440"
     ]
-  },
-  {
-    "code": "C225019",
-    "description": {
-      "zh": "公司治理已成為廿一世紀企業組織架構調整之重大議題，如何經由管理策略及法制設計使台灣企業經營回歸股東長期價值及利益，為政府、交易所與公會等自律機關、及企業經營者必須面對之問題。在法制上，獨立董事監察人、審計委員會之設置、公司自律守則之擬議、股東會之運作，均衝擊我國公司法、證券交易法及交易所規則現行管理架構及規範；在實務上，上市櫃公司如何順利接受公司治理之理念及管理規範，以提昇公司營運的外在評價與體質。",
-      "en": "The corporate governance had been the enterprise framework adjustment of the main issue of the 21 century. How do the manage the corporate strategy and system of the law to make the profit for the shareholder, government and enterprise. The main purpose of the course to help the learner to understand the law of corporate and the practice of the enterprise."
-    },
-    "id": "365833",
-    "name": {
-      "zh": "公司治理專題",
-      "en": "Seminar on Corporate Governance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA桃園",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3796",
-        "code": "3796"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "(群組 1) 經營與策略管理【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
-    "syllabusLinks": []
   },
   {
     "code": "C205022",
@@ -15020,47 +14926,6 @@
     ]
   },
   {
-    "code": "5221424",
-    "description": {
-      "zh": "1. 授課目的：  現代都市計劃及都市設計作業內容中，必須考量都市永續環境生態之議題。本課程之目的即在於傳述都市之生態概念在規劃實務上之應用，並探討其作業技術內容及其行政程序，以培養學生永續都市及敷地計畫規劃能力。2. 授課內容：  由基本永續都市中，思考生態環境、人類生活環境及建築之間的相互關係。綠建築、永續都市之內容。引介各項生態技術原理及其指標講授，進而指導實證操作技術實驗並撰寫論文，再而論證其都計管制規範。3. 作業練習：  本學期藉由實驗操作、論文報告撰寫，特別著重研討式論辯，訓練學術思辯及技術應用規劃能力，以利學生認識都市生態技術及都計行政作業之整體關聯性，進而建立其全方位規劃思辯能力。",
-      "en": "This course focuses on the issues of the environmental planning, green buildings and sustainable urban design. Its major content includes: 1. Study of relation between Ecosystem, human environment and architecture, 2. essay of Green Building and Sustainable Cities, 3. The case study of Green Building design and Sustainable City Planning."
-    },
-    "id": "366268",
-    "name": {
-      "zh": "環境規劃與都市設計",
-      "en": "Environmental Planning and Urban Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職建都所",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3779",
-        "code": "3779"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5221424",
-    "syllabusLinks": []
-  },
-  {
     "code": "5211432",
     "description": {
       "zh": "本課程以都市再生理念為中心，講述推動都市再生過程中面對相關文化資產保存議題之理論與實際操作架構。第一部份探討歷史文化保存相關理念手法。第二部份探討各國文化保存再生案例實踐之相關課題與借鏡，第三部份針對台灣本土都市更新過程中面臨歷史文化保存議題深入研討。",
@@ -15801,7 +15666,13 @@
         "code": "3772"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -15816,9 +15687,9 @@
     },
     "classroom": [
       {
-        "name": "三教310",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=51",
-        "code": "51"
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=334",
+        "code": "334"
       }
     ],
     "people": "19",
@@ -17774,7 +17645,7 @@
         "code": "60"
       }
     ],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17832,7 +17703,7 @@
         "code": "62"
       }
     ],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17890,7 +17761,7 @@
         "code": "55"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17948,7 +17819,7 @@
         "code": "56"
       }
     ],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18006,7 +17877,7 @@
         "code": "37"
       }
     ],
-    "people": "0",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18064,7 +17935,7 @@
         "code": "46"
       }
     ],
-    "people": "0",
+    "people": "84",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18122,7 +17993,7 @@
         "code": "53"
       }
     ],
-    "people": "0",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
