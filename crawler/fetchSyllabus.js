@@ -42,9 +42,19 @@ async function fetchSyllabus(matricKey = "日間部", year = 109, sem = 2) {
 async function fetchSyllabusData(
   url = "ShowSyllabus.jsp?snum=305082&code=23885"
 ) {
-  let $ = await fetchSinglePage("https://aps.ntut.edu.tw/course/tw/" + url);
+  let $ = await fetchSinglePage("https://aps.ntut.edu.tw/course/mobile/" + url);
   cheerioTableparser($);
-  let data = $(`body > p:nth-child(3) > table`).parsetable(true, true, true);
+  let syllabusTable = $("table")
+    .filter((_, table) =>
+      $(table)
+        .find("tr")
+        .toArray()
+        .some(
+          (row) => $(row).children().first().text().trim() == "課程大綱"
+        )
+    )
+    .first();
+  let data = syllabusTable.parsetable(true, true, true);
   let dataKeyMap = {
     教師姓名: `name`,
     Email: `email`,
