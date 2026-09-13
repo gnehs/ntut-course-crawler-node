@@ -8,22 +8,31 @@ on:
   schedule:
     - cron: "0 0 */1 * *"
 
+permissions:
+  contents: read
+
 jobs:
   Prepare:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     outputs:
       year: ${{ steps.semester.outputs.year }}
       sem: ${{ steps.semester.outputs.sem }}
     steps:
       - uses: actions/checkout@v7
+        timeout-minutes: 5
       - uses: actions/setup-node@v7
+        timeout-minutes: 5
         with:
           node-version: 24
           cache: npm
       - run: npm ci
+        timeout-minutes: 10
       - run: npm test
+        timeout-minutes: 5
       - name: Resolve one semester for every job
         id: semester
+        timeout-minutes: 5
         run: |
           node <<'NODE'
           const fs = require('node:fs');
@@ -33,90 +42,141 @@ jobs:
           }).catch((error) => { console.error(error.message); process.exitCode = 1; });
           NODE
       - uses: actions/upload-artifact@v7
+        timeout-minutes: 5
         with:
           name: semester-manifest
           path: ./dist/main.json
+          if-no-files-found: error
           retention-days: 2
   FetchCurrent:
     needs: Prepare
     runs-on: ubuntu-latest
+    timeout-minutes: 75
     strategy:
+      fail-fast: false
       matrix:
         department: [0, 1, 2]
     steps:
       - uses: actions/checkout@v7
+        timeout-minutes: 5
       - uses: actions/setup-node@v7
+        timeout-minutes: 5
         with:
           node-version: 24
           cache: npm
       - run: npm ci
+        timeout-minutes: 10
       - name: Fetch course data
+        timeout-minutes: 60
         run: node fetchCourse.js ${{ matrix.department }} ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
       - uses: actions/upload-artifact@v7
+        timeout-minutes: 10
         with:
           name: course-${{ matrix.department }}
           path: ./dist/
+          if-no-files-found: error
           retention-days: 2
   FetchSyllabus:
+    if: ${{ !cancelled() && needs.Prepare.result == 'success' }}
     needs: [Prepare, FetchCurrent]
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     strategy:
+      fail-fast: false
       matrix:
         department: [0, 1, 2]
     steps:
       - uses: actions/checkout@v7
+        timeout-minutes: 5
       - uses: actions/setup-node@v7
+        timeout-minutes: 5
         with:
           node-version: 24
           cache: npm
       - run: npm ci
+        timeout-minutes: 10
       - uses: actions/download-artifact@v8
+        timeout-minutes: 10
         with:
           name: course-${{ matrix.department }}
           path: ./dist/
       - name: Fetch syllabus data
+        timeout-minutes: 165
         run: node fetchSyllabus.js ${{ matrix.department }} ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
       - uses: actions/upload-artifact@v7
+        timeout-minutes: 10
         with:
           name: syllabus-${{ matrix.department }}
           path: ./dist/
+          if-no-files-found: error
           retention-days: 2
   Deploy:
+    # Let the finalizer inspect the artifacts even when a fetch matrix failed;
+    # it refuses to publish unless all three department snapshots are complete.
+    if: ${{ !cancelled() && needs.Prepare.result == 'success' }}
     concurrency:
       group: course-data-gh-pages
       queue: max
       cancel-in-progress: false
     needs: [Prepare, FetchCurrent, FetchSyllabus]
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
+        timeout-minutes: 5
       - uses: actions/setup-node@v7
+        timeout-minutes: 5
         with:
           node-version: 24
           cache: npm
       - run: npm ci
+        timeout-minutes: 10
       - uses: actions/download-artifact@v8
+        timeout-minutes: 10
         with:
           pattern: syllabus-*
           path: ./dist/
           merge-multiple: true
       - uses: actions/download-artifact@v8
+        timeout-minutes: 5
         with:
           name: semester-manifest
           path: ./dist/
       - name: Validate snapshot and build syllabus search index
         id: snapshot
+        timeout-minutes: 10
         run: node finalizeCourseData.js ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
-      - name: Publish manifests and index while preserving other datasets
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Check out the currently published dataset
+        uses: actions/checkout@v7
+        timeout-minutes: 5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          keep_files: true
-      - name: Replace only this semester's complete syllabus directory
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ${{ steps.snapshot.outputs.directory }}
-          destination_dir: ${{ steps.snapshot.outputs.destination }}
-          keep_files: false
+          ref: gh-pages
+          path: .published
+      - name: Stage one atomic publication
+        timeout-minutes: 5
+        env:
+          PUBLISH_YEAR: ${{ needs.Prepare.outputs.year }}
+          PUBLISH_SEM: ${{ needs.Prepare.outputs.sem }}
+          SYLLABUS_DIRECTORY: ${{ steps.snapshot.outputs.directory }}
+        run: |
+          [[ "$PUBLISH_YEAR" =~ ^[0-9]+$ && "$PUBLISH_SEM" =~ ^[12]$ ]]
+          test -d "$SYLLABUS_DIRECTORY"
+          rsync -a dist/ .published/
+          semester_course=".published/$PUBLISH_YEAR/$PUBLISH_SEM/course"
+          rm -rf "$semester_course"
+          mkdir -p "$semester_course"
+          rsync -a "$SYLLABUS_DIRECTORY/" "$semester_course/"
+      - name: Publish the complete dataset in one commit
+        timeout-minutes: 10
+        run: |
+          git -C .published config user.name "github-actions[bot]"
+          git -C .published config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C .published add -A
+          if git -C .published diff --cached --quiet; then
+            echo "Published course data is already current."
+            exit 0
+          fi
+          git -C .published commit -m "chore(data): refresh current courses"
+          git -C .published push origin HEAD:gh-pages

@@ -7,28 +7,105 @@ on:
   schedule:
     - cron: "0 0 */1 * *"
 
+permissions:
+  contents: read
+
 jobs:
-  Analytics:
+  FetchAnalytics:
+    name: Fetch analytics data
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Run analytics
+        timeout-minutes: 12
+        run: node ./analytics/withdrawal.js
+      - name: Upload analytics artifact
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: analytics-data
+          path: dist/analytics/*.json
+          if-no-files-found: error
+          retention-days: 2
+
+  FetchCalendar:
+    name: Fetch calendar data
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch calendar data
+        timeout-minutes: 5
+        run: node ./crawler/fetchCalendar.js
+      - name: Upload calendar artifact
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: calendar-data
+          path: dist/calendar.json
+          if-no-files-found: error
+          retention-days: 2
+
+  Deploy:
+    name: Deploy available datasets
+    if: ${{ !cancelled() }}
+    needs: [FetchAnalytics, FetchCalendar]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
     concurrency:
       group: course-data-gh-pages
       queue: max
       cancel-in-progress: false
-    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+        timeout-minutes: 2
+      - name: Download analytics artifact
+        if: ${{ !cancelled() && needs.FetchAnalytics.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
         with:
-          node-version: 24
-          cache: "npm"
-      - name: Install npm packages
-        run: npm ci
-      - name: Run Analytics
-        run: node ./analytics/withdrawal.js
-      - name: fetch calendar data
-        run: node ./crawler/fetchCalendar.js
-      - name: Deploy to GitHub Pages
+          name: analytics-data
+          path: publish/analytics
+      - name: Download calendar artifact
+        if: ${{ !cancelled() && needs.FetchCalendar.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
+        with:
+          name: calendar-data
+          path: publish
+      - name: Refuse an empty deployment
+        timeout-minutes: 1
+        if: ${{ !cancelled() && needs.FetchAnalytics.result != 'success' && needs.FetchCalendar.result != 'success' }}
+        run: |
+          echo "All dataset fetches failed; refusing to publish an empty deployment."
+          exit 1
+      - name: Deploy available datasets to GitHub Pages
+        if: ${{ !cancelled() && (needs.FetchAnalytics.result == 'success' || needs.FetchCalendar.result == 'success') }}
+        timeout-minutes: 10
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: publish
           keep_files: true
+          commit_message: "chore(data): refresh analytics and calendar"

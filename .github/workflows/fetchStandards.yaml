@@ -8,28 +8,107 @@ on:
   schedule:
     - cron: "0 0 1 * *"
 
+permissions:
+  contents: read
+
 jobs:
   FetchStandards:
+    name: Fetch course standards data
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch course standards data
+        timeout-minutes: 17
+        run: node fetchStandards.js
+      - name: Upload course standards artifact
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: standards-data
+          path: |
+            dist/standards.json
+            dist/*/standard.json
+          if-no-files-found: error
+          retention-days: 2
+
+  FetchCompetencies:
+    name: Fetch core competency data
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch core competency data
+        timeout-minutes: 10
+        run: node fetchCompetencies.js
+      - name: Upload core competency artifact
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: competencies-data
+          path: dist/competencies.json
+          if-no-files-found: error
+          retention-days: 2
+
+  Deploy:
+    name: Deploy available datasets
+    if: ${{ !cancelled() }}
+    needs: [FetchStandards, FetchCompetencies]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
     concurrency:
       group: course-data-gh-pages
       queue: max
       cancel-in-progress: false
-    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+        timeout-minutes: 2
+      - name: Download course standards artifact
+        if: ${{ !cancelled() && needs.FetchStandards.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
         with:
-          node-version: 24
-          cache: "npm"
-      - name: Install npm packages
-        run: npm ci
-      - name: Fetch department data
-        run: node fetchStandards.js
-      - name: Fetch core competency data
-        run: node fetchCompetencies.js
-      - name: Deploy to GitHub Pages
+          name: standards-data
+          path: publish
+      - name: Download core competency artifact
+        if: ${{ !cancelled() && needs.FetchCompetencies.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
+        with:
+          name: competencies-data
+          path: publish
+      - name: Refuse an empty deployment
+        timeout-minutes: 1
+        if: ${{ !cancelled() && needs.FetchStandards.result != 'success' && needs.FetchCompetencies.result != 'success' }}
+        run: |
+          echo "All dataset fetches failed; refusing to publish an empty deployment."
+          exit 1
+      - name: Deploy available datasets to GitHub Pages
+        if: ${{ !cancelled() && (needs.FetchStandards.result == 'success' || needs.FetchCompetencies.result == 'success') }}
+        timeout-minutes: 10
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: publish
           keep_files: true
+          commit_message: "chore(data): refresh standards and competencies"

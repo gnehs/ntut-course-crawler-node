@@ -7,27 +7,65 @@ on:
   schedule:
     - cron: "0 0 */1 * *"
 
+permissions:
+  contents: read
+
 jobs:
-  FetchDepartment:
+  Fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 2
+      - uses: actions/setup-node@v7
+        timeout-minutes: 2
+        with:
+          node-version: 24
+          cache: "npm"
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch department data
+        timeout-minutes: 3
+        run: node fetchDepartment.js
+      - name: Upload department data
+        if: ${{ success() }}
+        timeout-minutes: 2
+        uses: actions/upload-artifact@v7
+        with:
+          name: department-data
+          path: ./dist/**/department.json
+          if-no-files-found: error
+          retention-days: 2
+
+  Deploy:
+    if: ${{ !cancelled() && needs.Fetch.result == 'success' }}
+    needs: Fetch
     concurrency:
       group: course-data-gh-pages
       queue: max
       cancel-in-progress: false
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+        timeout-minutes: 2
+      - name: Download department data
+        timeout-minutes: 2
+        uses: actions/download-artifact@v8
         with:
-          node-version: 24
-          cache: "npm"
-      - name: Install npm packages
-        run: npm ci
-      - name: Fetch department data
-        timeout-minutes: 3
-        run: node fetchDepartment.js
+          name: department-data
+          path: ./publish
+      - name: Verify department data
+        timeout-minutes: 1
+        run: test -s ./publish/*/*/department.json
       - name: Deploy to GitHub Pages
+        timeout-minutes: 5
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: publish
           keep_files: true
+          commit_message: "chore(data): refresh departments"
