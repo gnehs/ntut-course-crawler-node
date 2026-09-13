@@ -9,9 +9,11 @@ const EXPECTED_TIMEOUT_MS = 10 * 1000;
 
 test("fetchSinglePage applies a bounded default timeout", async () => {
   let observedTimeout;
+  let observedSignal;
   const page = await fetchSinglePage("https://example.invalid/success", {
     adapter: async (config) => {
       observedTimeout = config.timeout;
+      observedSignal = config.signal;
       return {
         config,
         data: "<h1>ok</h1>",
@@ -23,6 +25,8 @@ test("fetchSinglePage applies a bounded default timeout", async () => {
   });
 
   assert.equal(observedTimeout, EXPECTED_TIMEOUT_MS);
+  assert.ok(observedSignal instanceof AbortSignal);
+  assert.equal(observedSignal.aborted, false);
   assert.equal(page("h1").text(), "ok");
 });
 
@@ -84,11 +88,33 @@ test("fetchSinglePage enforces a shorter timeout without retrying it", async (t)
   await assert.rejects(
     fetchSinglePage(`http://127.0.0.1:${port}/timeout`, { timeout: 25 }),
     (error) => {
-      assert.equal(error.code, "ECONNABORTED");
+      assert.equal(error.code, "ERR_CANCELED");
       return true;
     }
   );
 
   assert.equal(requests, 1);
+  assert.ok(Date.now() - startedAt < 1000);
+});
+
+test("fetchSinglePage aborts when DNS resolution never completes", async () => {
+  let lookupStarted = false;
+  const startedAt = Date.now();
+
+  await assert.rejects(
+    fetchSinglePage("http://dns-never-completes.test/timeout", {
+      timeout: 25,
+      proxy: false,
+      lookup: () => {
+        lookupStarted = true;
+      },
+    }),
+    (error) => {
+      assert.equal(error.code, "ERR_CANCELED");
+      return true;
+    }
+  );
+
+  assert.equal(lookupStarted, true);
   assert.ok(Date.now() - startedAt < 1000);
 });

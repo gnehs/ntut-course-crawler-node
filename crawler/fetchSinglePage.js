@@ -6,10 +6,15 @@ const REQUEST_TIMEOUT_MS = 10 * 1000;
 const REQUEST_RETRIES = 2;
 const http = axios.create();
 
+function isCanceledError(error) {
+  return error?.code === "ERR_CANCELED" || axios.isCancel(error);
+}
+
 axiosRetry(http, {
   retries: REQUEST_RETRIES,
   retryDelay: axiosRetry.exponentialDelay,
-  retryCondition: axiosRetry.isSafeRequestError,
+  retryCondition: (error) =>
+    !isCanceledError(error) && axiosRetry.isSafeRequestError(error),
   shouldResetTimeout: false,
   onRetry: (retryCount, error, requestConfig) => {
     console.warn(
@@ -32,13 +37,19 @@ async function getResp(url, options = {}) {
     Number.isFinite(requestedTimeout) && requestedTimeout > 0
       ? Math.min(requestedTimeout, REQUEST_TIMEOUT_MS)
       : REQUEST_TIMEOUT_MS;
+  const timeoutSignal = AbortSignal.timeout(timeout);
+  const signal = options.signal
+    ? AbortSignal.any([options.signal, timeoutSignal])
+    : timeoutSignal;
 
+  console.log(`[fetch] ${url} start.`);
   try {
     const result = await http.request({
       method: "GET",
       url,
       ...options,
       timeout,
+      signal,
     });
     console.log(`[fetch] ${url} done. (${new Date() - now}ms)`);
     return result;
