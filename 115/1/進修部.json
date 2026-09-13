@@ -39,6 +39,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419995",
     "syllabusLinks": []
@@ -80,6 +83,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "鐵道車輛系統學程\n面板微學程\n智慧鐵道微學程\n智慧感測科技微學程\n太空科技微學程\n先進電動自駕車輛微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603009",
     "syllabusLinks": []
@@ -121,6 +127,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603109",
     "syllabusLinks": []
@@ -129,7 +138,7 @@
     "code": "3603072",
     "description": {
       "zh": "本課程探討現代通訊的基本原理，內容重點放在類比通訊的調變技巧與雜訊分析．課程大綱包括：1. 簡介 2. 信號與系統 3. 機率、隨機程序與雜訊 4. 振幅調變：雙旁波帶、調幅、單旁波帶與殘旁波帶 5. 角度調變：頻率調變與相位調變 6. 脈波調變：脈幅調變、脈寬調變、脈位調變、脈碼調變與步差調變 7. 數位通訊簡介對於數位通訊有進一步興趣的同學可繼續選修『數位通訊系統』課程",
-      "en": "Fundamental principles of modern communication will be investigated in depth in this course, with emphasis on analog communications.Basic modulation techniques will be introduced with nosie analysis.Contents include1.Introduction 2.Signals and Systems3.Probability ,Random Process,and Nosie4.Amplitude Modulations:DSB,AM,SSB,and VSB5.Angle Modulations:FMand PM6.Pulse Modulations:PAM,PWM,PPM,PCM,and DM7.Intorduction to Digital Communication Students who want to know more details sbout digital commmunication are encouraged to take the course Digital Communication Systems"
+      "en": "Fundamental principles of modern communication will be investigated in depth in this course, with emphasis on analog communications.Basic modulation techniques will be introduced with nosie analysis.Contents include1.Introduction2.Signals and Systems3.Probability ,Random Process,and Nosie4.Amplitude Modulations:DSB,AM,SSB,and VSB5.Angle Modulations:FMand PM6.Pulse Modulations:PAM,PWM,PPM,PCM,and DM7.Intorduction to Digital CommunicationStudents who want to know more details sbout digital commmunication are encouraged to take the course Digital Communication Systems"
     },
     "id": "364906",
     "name": {
@@ -178,6 +187,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "通訊電路與天線學程\n電資_第二專長【電子系_無線通訊與天線設計】\n太空科技微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603072",
     "syllabusLinks": [
@@ -188,7 +200,7 @@
     "code": "3604054",
     "description": {
       "zh": "1. 積體電路的分類，2. 積體電路晶片設計的流程，3.CMOS 元件的基本結構與佈局，4.CMOS 元件的設計規範技術，5.CMOS 元件組成各種數位電路，6. 以高階方法探討積體電路之設計，7. 系統分割，8. 設計問題之探討，9.IC 的構造， 10. 設計方法，11. 時序問題之探討，12. 鐘脈問題之探討，13.VLSI 之測試，14. 有助於設計與測試的結構化技巧探討，15. 專題製作。",
-      "en": "1.Classification of VLSI circuit 2.Flow of VLSI design 3.VLSI characterization 4.CMOS design methods5.CMOS digital circuit 6.High-level VLSI design7.System partiton 8.Time squence9.Clock10.VLSI testing 11.Special projects"
+      "en": "1.Classification of VLSI circuit2.Flow of VLSI design3.VLSI characterization4.CMOS design methods5.CMOS digital circuit6.High-level VLSI design7.System partiton8.Time squence9.Clock10.VLSI testing11.Special projects"
     },
     "id": "364908",
     "name": {
@@ -233,10 +245,13 @@
         "code": "291"
       }
     ],
-    "people": "39",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "半導體科技學程\n通訊電路與天線學程\n電資_第二專長【電子系_積體電路與系統設計】",
     "notes": "綜科 501",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604054",
     "syllabusLinks": [
@@ -247,7 +262,7 @@
     "code": "3704001",
     "description": {
       "zh": "介紹設施規劃，合理化的觀念、原理、方法步驟，舊規劃合理化的理由、重要性、方法及步驟。設施搬運系統及位置的遴選、及其考慮因素及決定方法",
-      "en": "This course introduces the concepts, theories, and approaches of facilities planning.  Material handling and site selection are also included."
+      "en": "This course introduces the concepts, theories, and approaches of facilities planning. Material handling and site selection are also included."
     },
     "id": "364909",
     "name": {
@@ -296,6 +311,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "四甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704001",
     "syllabusLinks": [
@@ -355,6 +373,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "四甲乙丙合開，新聘兼任老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704056",
     "syllabusLinks": [
@@ -398,6 +419,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "是",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3870003",
     "syllabusLinks": []
@@ -470,6 +494,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "鐵道車輛系統學程\n智慧鐵道微學程\n智慧感測科技微學程\n先進電動自駕車輛微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403006",
     "syllabusLinks": []
@@ -527,6 +554,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404011",
     "syllabusLinks": [
@@ -537,7 +567,7 @@
     "code": "4404021",
     "description": {
       "zh": "介紹台灣軌道車輛現況及未來、軌道車輛名詞、轉向架與懸吊系統、軌道與設施、車輛動態、輪軌界面、推進傳動與制動、行控號誌、大眾捷運系統、輕軌電車、高速鐵路、軌道公司參訪。",
-      "en": "This course is a basic course of railroad vehicle system.  Topics will be mentioned: railroad vehicles in Taiwan, terminology, bogie and suspension systems, rail and construction, vehicle dynamics, wheel and rail, drive / transmission and brake, train control and communication, mass rapid transit system, light rail transit system, high speed rail transit system, and tours in railway company.."
+      "en": "This course is a basic course of railroad vehicle system. Topics will be mentioned: railroad vehicles in Taiwan, terminology, bogie and suspension systems, rail and construction, vehicle dynamics, wheel and rail, drive / transmission and brake, train control and communication, mass rapid transit system, light rail transit system, high speed rail transit system, and tours in railway company.."
     },
     "id": "364926",
     "name": {
@@ -586,6 +616,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【車輛系_車輛動力與能源】",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404021",
     "syllabusLinks": [
@@ -629,6 +662,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404078",
     "syllabusLinks": []
@@ -686,6 +722,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_能源】",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503103",
     "syllabusLinks": [
@@ -800,6 +839,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "鐵道車輛系統學程\n智慧鐵道微學程\n智慧感測科技微學程\n綠能與節能微學程\n先進電動自駕車輛微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504100",
     "syllabusLinks": [
@@ -809,6 +851,7 @@
       "ShowSyllabus.jsp?snum=364932&code=10996",
       "ShowSyllabus.jsp?snum=364932&code=10958",
       "ShowSyllabus.jsp?snum=364932&code=10822",
+      "ShowSyllabus.jsp?snum=364932&code=10870",
       "ShowSyllabus.jsp?snum=364932&code=11684",
       "ShowSyllabus.jsp?snum=364932&code=12467",
       "ShowSyllabus.jsp?snum=364932&code=11319",
@@ -870,6 +913,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504914",
     "syllabusLinks": [
@@ -913,6 +959,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502915",
     "syllabusLinks": []
@@ -970,6 +1019,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504505",
     "syllabusLinks": [
@@ -1029,6 +1081,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "綠能與節能微學程\n綠色製造微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504602",
     "syllabusLinks": [
@@ -1093,6 +1148,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03052",
     "syllabusLinks": [
@@ -1106,7 +1164,7 @@
     "code": "1419998",
     "description": {
       "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
+      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
     },
     "id": "364952",
     "name": {
@@ -1142,6 +1200,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
     "syllabusLinks": []
@@ -1183,6 +1244,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602066",
     "syllabusLinks": []
@@ -1190,8 +1254,8 @@
   {
     "code": "3603005",
     "description": {
-      "zh": "1. 訊號時域與須域特性的量測  7.  類比訊號的取樣與重整 2. 比式濾波器的設計          8.  脈幅調變系統 3. 雙旁波帶 AM 調變系統        9.  脈碼調變系統 4. 單旁波帶 AM 調變系統        10. 數位通頻傳輸 5. FM 調變系統與解調          11. 訊號多工的傳送與接收 6. 鎖相迴路檢波器的設計      12. 通訊系統的設計與模擬",
-      "en": "The lab course is designed for supplementing the lecture course'Communication Systems' and 'Digital Communication Systems'.sStudents can learn the principles and practive of analog and digital communication systems from laboratory experiments and projects.The cintents include1.measuremnts of signals in time domain and frequency domain 2.design of analog filters3.double sideband AM systems4.single sideband AM systems5.FM systems6.dessign of phase-locked-loop detectors7.sampling and regeneration of analog signals8.pulse amplitude modulation(PAM)systems9.pulse coded modulation(PCM)systems10.digital passband transmission11.multiplexing systems12.design and simulation of communication systems"
+      "zh": "1. 訊號時域與須域特性的量測 7. 類比訊號的取樣與重整 2. 比式濾波器的設計 8. 脈幅調變系統 3. 雙旁波帶 AM 調變系統 9. 脈碼調變系統 4. 單旁波帶 AM 調變系統 10. 數位通頻傳輸 5. FM 調變系統與解調 11. 訊號多工的傳送與接收 6. 鎖相迴路檢波器的設計 12. 通訊系統的設計與模擬",
+      "en": "The lab course is designed for supplementing the lecture course'Communication Systems' and 'Digital Communication Systems'.sStudents can learn the principles and practive of analog and digital communication systems from laboratory experiments and projects.The cintents include1.measuremnts of signals in time domain and frequency domain2.design of analog filters3.double sideband AM systems4.single sideband AM systems5.FM systems6.dessign of phase-locked-loop detectors7.sampling and regeneration of analog signals8.pulse amplitude modulation(PAM)systems9.pulse coded modulation(PCM)systems10.digital passband transmission11.multiplexing systems12.design and simulation of communication systems"
     },
     "id": "364954",
     "name": {
@@ -1224,6 +1288,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "通訊電路與天線學程\n電資_第二專長【電子系_無線通訊與天線設計】",
     "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603005",
     "syllabusLinks": []
@@ -1281,6 +1348,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603051",
     "syllabusLinks": [
@@ -1291,7 +1361,7 @@
     "code": "3603062",
     "description": {
       "zh": "本課程內容包括邏輯閘的特性與功能測試，能利用積體電路完成各種基礎邏輯電路的組裝及設計，並能利用電子儀器進行量測、檢修。探討最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之 VLSI 設計，使用 MSI 與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI 之設計與測試技巧，各種 CAD 軟體工具介紹。基礎邏輯閘實驗、組合邏輯實驗、加法器及減法器實驗、組合邏輯應用實驗、正反器邏輯實驗、循序邏輯電路應用實驗。",
-      "en": "1.Properties and function tests of logic gates. 2. Implementations of and designs of basic logic circuits using ICs. 3.Algorithms for the optimization of combinational logic circuits. 4.Programmable logic devices. 5.VLSI design of combinational logic circuits. 6.Multi-layer logic circuits using MSI and standard circuit  elements. 7.Gate array design. 8.Sequential Logic components. 9.Analysis and synthesis of sequential Logic circuits. 10. Technologies of VLSI design and test. 11. CAD software tools. 12.Basic logic gate experiments. 13.Combinational logic experiments. 14. Adder and subtractor experiments. 15. Combinational logic application experiments. 16. Flip-flop experiments. 17. Sequential circuit application experiments."
+      "en": "1.Properties and function tests of logic gates. 2. Implementations of and designs of basic logic circuits using ICs. 3.Algorithms for the optimization of combinational logic circuits. 4.Programmable logic devices. 5.VLSI design of combinational logic circuits. 6.Multi-layer logic circuits using MSI and standard circuit elements. 7.Gate array design. 8.Sequential Logic components. 9.Analysis and synthesis of sequential Logic circuits. 10. Technologies of VLSI design and test. 11. CAD software tools. 12.Basic logic gate experiments. 13.Combinational logic experiments. 14. Adder and subtractor experiments. 15. Combinational logic application experiments. 16. Flip-flop experiments. 17. Sequential circuit application experiments."
     },
     "id": "364956",
     "name": {
@@ -1324,6 +1394,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "電資_第二專長【電子系_積體電路與系統設計】",
     "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603062",
     "syllabusLinks": []
@@ -1365,6 +1438,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "是",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3870001",
     "syllabusLinks": []
@@ -1373,7 +1449,7 @@
     "code": "1419998",
     "description": {
       "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
+      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
     },
     "id": "364963",
     "name": {
@@ -1409,6 +1485,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
     "syllabusLinks": []
@@ -1466,6 +1545,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "鐵道車輛系統學程\n離岸風電跨域微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402012",
     "syllabusLinks": [
@@ -1525,6 +1607,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402014",
     "syllabusLinks": [
@@ -1584,6 +1669,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "鐵道車輛系統學程\n先進電動自駕車輛微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402032",
     "syllabusLinks": [
@@ -1627,6 +1715,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402078",
     "syllabusLinks": []
@@ -1684,6 +1775,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "離岸風電跨域微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403054",
     "syllabusLinks": [
@@ -1694,7 +1788,7 @@
     "code": "1419998",
     "description": {
       "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
+      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
     },
     "id": "364975",
     "name": {
@@ -1730,6 +1824,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
     "syllabusLinks": []
@@ -1738,7 +1835,7 @@
     "code": "4501911",
     "description": {
       "zh": "計算機系統之基礎觀念介紹及應用。主要內容包括：計算機系統簡介,，資料的表示法、數字系統、邏輯，周邊裝置及儲存體，程式語言與程式設計，作業系統，檔案與資料庫。本課程引入程式設計的觀念與方法，於熟習基本程式語法後，再導入進階程式語言。著重邏輯思考與程式設計能力之訓練，同時輔以程式設計過程所應注意之程式結構、偵錯、可攜性、軟體工程的基本概念，使修習者得以奠定程式設計之基礎。",
-      "en": "This introductory course covers the fundamentals and applications of computers, including: introduction to computer systems, data representation, number systems, and logic, peripherals and storage,  programming languages and programming, operating systems, files and database systems. This course introduces to the students the basic computer programming concepts. Syntax and semantics of the programming language."
+      "en": "This introductory course covers the fundamentals and applications of computers, including: introduction to computer systems, data representation, number systems, and logic, peripherals and storage, programming languages and programming, operating systems, files and database systems. This course introduces to the students the basic computer programming concepts. Syntax and semantics of the programming language."
     },
     "id": "364976",
     "name": {
@@ -1787,6 +1884,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501911",
     "syllabusLinks": [
@@ -1846,6 +1946,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_冷凍空調】",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502808",
     "syllabusLinks": [
@@ -1889,6 +1992,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502914",
     "syllabusLinks": []
@@ -1946,6 +2052,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_冷凍空調】",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503601",
     "syllabusLinks": [
@@ -1956,7 +2065,7 @@
     "code": "1400028",
     "description": {
       "zh": "教導學生閱讀囊括全球議題的文章，並藉由文章的內容作技巧的訓練，字彙的建構，語言的解析，及思維的啟發。課中延展活動將閱讀內容與聽力、會話、寫作做進一步的連結，並引導學生將所學做有效的應用。",
-      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology.  Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
+      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology. Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
     },
     "id": "364984",
     "name": {
@@ -2005,6 +2114,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
@@ -2015,7 +2127,7 @@
     "code": "1419998",
     "description": {
       "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
+      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
     },
     "id": "364985",
     "name": {
@@ -2051,6 +2163,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
     "syllabusLinks": []
@@ -2108,6 +2223,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 501",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3601013",
     "syllabusLinks": [
@@ -2151,6 +2269,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3601058",
     "syllabusLinks": []
@@ -2208,6 +2329,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602001",
     "syllabusLinks": [
@@ -2218,7 +2342,7 @@
     "code": "3602002",
     "description": {
       "zh": "瞭解電路元件之基本特性及其組合電路之分析方法，內容包含：1. 電路元件：電壓及電流源，主動元件，2. 電路特性：歐姆定律，柯希荷夫電壓與電流定律等，3. 一階及二階電路：電路之微分方程描述及各種輸入信號之響應，4. 穩態分析與頻率響應：分析電路之頻域，5. 電腦輔助電路分析：如使用 SPICE 工具。",
-      "en": "1.Introduction to linear circuit analysis2.Resistve circuit 3.Kirchhoff laws4.Thevenin and Norton theorem5.First and second order circuit6.Node and loop analysis7.Steady state response and analysis8.SPICE tool"
+      "en": "1.Introduction to linear circuit analysis2.Resistve circuit3.Kirchhoff laws4.Thevenin and Norton theorem5.First and second order circuit6.Node and loop analysis7.Steady state response and analysis8.SPICE tool"
     },
     "id": "364989",
     "name": {
@@ -2251,6 +2375,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "無人機微學程",
     "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602002",
     "syllabusLinks": []
@@ -2308,6 +2435,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "半導體科技學程\n無人機微學程\n低軌衛星通訊電路與天線微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602007",
     "syllabusLinks": [
@@ -2351,6 +2481,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602008",
     "syllabusLinks": []
@@ -2359,7 +2492,7 @@
     "code": "1400028",
     "description": {
       "zh": "教導學生閱讀囊括全球議題的文章，並藉由文章的內容作技巧的訓練，字彙的建構，語言的解析，及思維的啟發。課中延展活動將閱讀內容與聽力、會話、寫作做進一步的連結，並引導學生將所學做有效的應用。",
-      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology.  Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
+      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology. Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
     },
     "id": "364992",
     "name": {
@@ -2408,6 +2541,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
@@ -2466,6 +2602,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1413003",
     "syllabusLinks": [
@@ -2525,9 +2664,14 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "木藝數位製造與管理微學程",
     "notes": "設計館 301 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364994&code=24505"
+    ]
   },
   {
     "code": "3872114",
@@ -2588,6 +2732,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 703 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872114",
     "syllabusLinks": [
@@ -2647,6 +2794,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "木藝數位製造與管理微學程",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872104",
     "syllabusLinks": [
@@ -2706,6 +2856,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 301 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872106",
     "syllabusLinks": [
@@ -2764,6 +2917,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 207 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872107",
     "syllabusLinks": [
@@ -2822,6 +2978,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872110",
     "syllabusLinks": [
@@ -2874,6 +3033,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館地下一樓演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872111",
     "syllabusLinks": [
@@ -2926,6 +3088,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館地下一樓演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872112",
     "syllabusLinks": [
@@ -2936,7 +3101,7 @@
     "code": "1400028",
     "description": {
       "zh": "教導學生閱讀囊括全球議題的文章，並藉由文章的內容作技巧的訓練，字彙的建構，語言的解析，及思維的啟發。課中延展活動將閱讀內容與聽力、會話、寫作做進一步的連結，並引導學生將所學做有效的應用。",
-      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology.  Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
+      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology. Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
     },
     "id": "365008",
     "name": {
@@ -2979,6 +3144,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "中分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
@@ -3022,6 +3190,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401019",
     "syllabusLinks": []
@@ -3063,6 +3234,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401027",
     "syllabusLinks": []
@@ -3104,6 +3278,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402019",
     "syllabusLinks": []
@@ -3145,6 +3322,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403019",
     "syllabusLinks": []
@@ -3186,6 +3366,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404019",
     "syllabusLinks": []
@@ -3227,6 +3410,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401031",
     "syllabusLinks": []
@@ -3268,6 +3454,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402020",
     "syllabusLinks": []
@@ -3309,6 +3498,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403029",
     "syllabusLinks": []
@@ -3317,7 +3509,7 @@
     "code": "1400028",
     "description": {
       "zh": "教導學生閱讀囊括全球議題的文章，並藉由文章的內容作技巧的訓練，字彙的建構，語言的解析，及思維的啟發。課中延展活動將閱讀內容與聽力、會話、寫作做進一步的連結，並引導學生將所學做有效的應用。",
-      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology.  Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
+      "en": "The course provides students with explicit skills-based instruction in learning how to process, and decipher the readings that serve as springboards for reading skills development, vocabulary building, language analysis, and thought-provoking discussions. The readings include a variety of viewpoints on global topics centered around social issues, the environment, psychology, business, and technology. Extension activities are designed to encourage students to go beyond the reading text, and to put what they acquire from the readings into listening, speaking and writing practices."
     },
     "id": "365017",
     "name": {
@@ -3366,6 +3558,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
@@ -3376,7 +3571,7 @@
     "code": "1419998",
     "description": {
       "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
+      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
     },
     "id": "365018",
     "name": {
@@ -3412,6 +3607,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
     "syllabusLinks": []
@@ -3469,6 +3667,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_冷凍空調】\n綠能與節能微學程",
     "notes": "限單數號學生上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501505",
     "syllabusLinks": [
@@ -3528,6 +3729,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_能源】\n機電_第二專長【能源冷凍空調系_冷凍空調】",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501802",
     "syllabusLinks": [
@@ -3577,6 +3781,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "單號 - 暑假 7/4~8/29 開課，每周六上課六小時，六教 227",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502111",
     "syllabusLinks": [
@@ -3636,6 +3843,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502608",
     "syllabusLinks": [
@@ -3679,6 +3889,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502914",
     "syllabusLinks": []
@@ -3720,6 +3933,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105001",
     "syllabusLinks": []
@@ -3770,6 +3986,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "電力及電力電子組, 綜科館 216A 室 (階梯教室)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105103",
     "syllabusLinks": [
@@ -3828,6 +4047,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "控制、計算機及 AI、資安組, 綜科館 318 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105104",
     "syllabusLinks": [
@@ -3887,6 +4109,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 511",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105005",
     "syllabusLinks": [
@@ -3946,6 +4171,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105006",
     "syllabusLinks": [
@@ -4005,6 +4233,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105008",
     "syllabusLinks": [
@@ -4064,6 +4295,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105031",
     "syllabusLinks": [
@@ -4123,6 +4357,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105035",
     "syllabusLinks": [
@@ -4182,6 +4419,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105100",
     "syllabusLinks": [
@@ -4192,12 +4432,12 @@
     "code": "3105188",
     "description": {
       "zh": "課程介紹雲端資訊計算與運用相關技術，使學生對雲端平台、架構、服務有全面性瞭解。課程內容包括： 1. 雲端運算發展近況及基本概念 2. 資源虛擬化之基本概念與技術，3. 雲端運算相關技術、效能與安全，4. 虛擬化資料中心建置 - 虛擬計算、儲存、網路與應用，6. 雲端服務規劃，7. 雲端之基礎設施服務、平台服務、軟體服務介紹，8. 專題討論。",
-      "en": "Cloud Computing, either private, public or hybrid, is dramatically transforming every aspect of IT. Now it has become ubiquitous these days, and is the key foundation for developing technologies of Big Data and Internet of Things (IoT). Its deployment starts delivering applications with more benefits than the existing legacy infrastructure.Because the terms are broadly quoted and adopted, then by this course, the Cloud Computing core technologies and the associated below will be well introduced:1.Cloud Computing Basic Concept 2.Resources Virtualization & Software Defined Data Center (SDDC)3.Cloud Computing Security 4.Cloud Technologies5.Cloud Service Planning and Deployment 6.Infrastructure as a Service (IaaS)7.Platform as a Service (PaaS)8.Software as a Services (SaaS)9.Cloud Service Operations 10.Case Studies and presentation"
+      "en": "Cloud Computing, either private, public or hybrid, is dramatically transforming every aspect of IT. Now it has become ubiquitous these days, and is the key foundation for developing technologies of Big Data and Internet of Things (IoT). Its deployment starts delivering applications with more benefits than the existing legacy infrastructure.Because the terms are broadly quoted and adopted, then by this course, the Cloud Computing core technologies and the associated below will be well introduced:1.Cloud Computing Basic Concept2.Resources Virtualization & Software Defined Data Center (SDDC)3.Cloud Computing Security4.Cloud Technologies5.Cloud Service Planning and Deployment6.Infrastructure as a Service (IaaS)7.Platform as a Service (PaaS)8.Software as a Services (SaaS)9.Cloud Service Operations10.Case Studies and presentation"
     },
     "id": "365061",
     "name": {
       "zh": "雲端運算原理與實務",
-      "en": "Principles and Practices of  Cloud Computing"
+      "en": "Principles and Practices of Cloud Computing"
     },
     "stage": "1",
     "credit": "3.0",
@@ -4241,6 +4481,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 318, 預選限 12 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105188",
     "syllabusLinks": [
@@ -4250,7 +4493,7 @@
   {
     "code": "3605001",
     "description": {
-      "zh": "專題報告專題演講 研究小組討論",
+      "zh": "專題報告專題演講研究小組討論",
       "en": "Case Study.Seminar.Group meeting."
     },
     "id": "365066",
@@ -4299,6 +4542,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
     "syllabusLinks": [
@@ -4342,6 +4588,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605002",
     "syllabusLinks": []
@@ -4349,8 +4598,8 @@
   {
     "code": "3625048",
     "description": {
-      "zh": "課程主要為介紹人工智慧概念和基本原理，學習 DNN/CNN/LSTM 的神經網路架構和學習方法，並舉資通訊技術應用實例說明，進而在雲端或非雲端平台實作人工智慧。課程內容包括：1. 人工智慧概念和基本原理 2.DNN 與深度學習 3.DNN 應用實例: 5G 無線資源分配 4.CNN5.LSTM 6.LSTM 應用實例: 5G 極化碼解碼和 Federated Learning7.Attention 神經網路 8.CNN 和 Attention 應用實例: 影片場景分段 9. 學習方法: 監督式，非監督式，強化學習 10.Amazon 雲端平台 11.Amazon DeepLens 智慧鏡頭平台 12.Amazon Alexsa 智慧音箱平台 13. 分組實作",
-      "en": "The goal of this course is to introduce ideas and principles behind artificial intelligence. We will teach the structure of DNN/CNN/LSTM neural network structure and learning methods, and implement artificial intelligence in cloud or non-cloud platforms. The course content includes:1.Ideas and principles of artificial intelligence2.DNN and deep learning3.DNN example: 5G wireless resource allocation4.CNN5.RNN/LSTM6.LSTM example: 5G Polar code decoder and Federated Learning7.Attention neural network8.CNN and attention example: video scene boundary detection9.Learning methods: supervised, unsupervised, reinforcement10.Amazon cloud platform11.Amazon DeepLens12.Amazon Alexsa13.Project implementation"
+      "zh": "課程主要為介紹人工智慧概念和基本原理，學習 DNN/CNN/LSTM 的神經網路架構和學習方法，並舉資通訊技術應用實例說明，進而在雲端或非雲端平台實作人工智慧。課程內容包括：1. 人工智慧概念和基本原理 2.DNN 與深度學習 3.DNN 應用實例: 5G 無線資源分配 4.CNN5.LSTM6.LSTM 應用實例: 5G 極化碼解碼和 Federated Learning7.Attention 神經網路 8.CNN 和 Attention 應用實例: 影片場景分段 9. 學習方法: 監督式，非監督式，強化學習 10.Amazon 雲端平台 11.Amazon DeepLens 智慧鏡頭平台 12.Amazon Alexsa 智慧音箱平台 13. 分組實作",
+      "en": "The goal of this course is to introduce ideas and principles behind artificial intelligence. We will teach the structure of DNN/CNN/LSTM neural network structure and learning methods, and implement artificial intelligence in cloud or non-cloud platforms.The course content includes:1.Ideas and principles of artificial intelligence2.DNN and deep learning3.DNN example: 5G wireless resource allocation4.CNN5.RNN/LSTM6.LSTM example: 5G Polar code decoder and Federated Learning7.Attention neural network8.CNN and attention example: video scene boundary detection9.Learning methods: supervised, unsupervised, reinforcement10.Amazon cloud platform11.Amazon DeepLens12.Amazon Alexsa13.Project implementation"
     },
     "id": "365102",
     "name": {
@@ -4399,6 +4648,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3625048",
     "syllabusLinks": [
@@ -4409,7 +4661,7 @@
     "code": "3635016",
     "description": {
       "zh": "1. 傳輸線 2. 散射參數 3. 微波主動元件 4. 寬頻放大電路 5. 低雜訊放大電路 6. 功率放大器 7. 高穩定振盪器 8. 壓控振盪器 9. 鎖相迴路 10. 混波器",
-      "en": "1.Transmission line2.Scattering parameters3.Microwave active components4.Wideband amplifier5. Low noise Amplifier 6.Power amplifier 7.Highly-stable oscillator8.Voltage-controlled oscillators9. Phase-locked loop10. Mixers"
+      "en": "1.Transmission line2.Scattering parameters3.Microwave active components4.Wideband amplifier5. Low noise Amplifier6.Power amplifier7.Highly-stable oscillator8.Voltage-controlled oscillators9. Phase-locked loop10. Mixers"
     },
     "id": "365110",
     "name": {
@@ -4458,6 +4710,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 305",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3635016",
     "syllabusLinks": [
@@ -4501,6 +4756,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005050",
     "syllabusLinks": []
@@ -4551,6 +4809,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜三演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005086",
     "syllabusLinks": [
@@ -4611,6 +4872,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 328",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005087",
     "syllabusLinks": [
@@ -4670,6 +4934,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 327，限 24 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005020",
     "syllabusLinks": [
@@ -4725,10 +4992,13 @@
         "code": "94"
       }
     ],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 110-1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005072",
     "syllabusLinks": [
@@ -4793,6 +5063,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "一般教室，限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005929",
     "syllabusLinks": [
@@ -4852,6 +5125,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "半導體設備微學程",
     "notes": "一般教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605008",
     "syllabusLinks": [
@@ -4895,6 +5171,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4206999",
     "syllabusLinks": []
@@ -4903,7 +5182,7 @@
     "code": "4205023",
     "description": {
       "zh": "引介混凝土材料微巨觀性質、力學行為與新設計觀念。",
-      "en": "(1)Basic Material Porperties-An Overview.(2)Coment Hydration and Microstructure.(3)Concrete Strength Development.(4)Creep and Shrinkage of Plain and Structural Concrete.(5)Durabiltiy.(6)High-Temmperature Effent:Design of Fire Resistance of    Concrete Structural Members.(7)Very Low Temperature Effects:Design of Concrete Vessels    for Cryogenic Liquids.(8)Linear Elastic Fracture Mechanics:tress Approach and    Energy Approach.(9)Special Type of Concrete Materials(High Performance    Concrete).(10)Micromecanics of Fibrous Composites-Elastic Modules and    Stress-Strain Relation Tensile Strength of Fiber    Reinforced Reinforced Composites."
+      "en": "(1)Basic Material Porperties-An Overview.(2)Coment Hydration and Microstructure.(3)Concrete Strength Development.(4)Creep and Shrinkage of Plain and Structural Concrete.(5)Durabiltiy.(6)High-Temmperature Effent:Design of Fire Resistance of Concrete Structural Members.(7)Very Low Temperature Effects:Design of Concrete Vessels for Cryogenic Liquids.(8)Linear Elastic Fracture Mechanics:tress Approach and Energy Approach.(9)Special Type of Concrete Materials(High Performance Concrete).(10)Micromecanics of Fibrous Composites-Elastic Modules and Stress-Strain Relation Tensile Strength of Fiber Reinforced Reinforced Composites."
     },
     "id": "365161",
     "name": {
@@ -4952,6 +5231,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205023",
     "syllabusLinks": [
@@ -4962,7 +5244,7 @@
     "code": "4205064",
     "description": {
       "zh": "本課程旨在闡述專案工程規劃與控制之系統架構，主要介紹各種專案規劃與控制之方法及專案管理方法，內容包工程專案管理方法，專案工期規劃與控制，專案成本控制方法，專案資源管理，專案風險整合管理，專案品質管理，及專案人力及目標管理等介紹。",
-      "en": "英課名：Investigation engineering control        System framework of investigation engineering         control.        Investigation plan and period procedure arrange.        A method that rate of progress control.        Natural resources to allocate and the most suitable         schedule.        Cost accounting and cost control.        Complete cost/System control of time limit for a           project."
+      "en": "英課名：Investigation engineering controlSystem framework of investigation engineering control.Investigation plan and period procedure arrange.A method that rate of progress control.Natural resources to allocate and the most suitable schedule.Cost accounting and cost control.Complete cost/System control of time limit for a project."
     },
     "id": "365181",
     "name": {
@@ -5011,6 +5293,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205064",
     "syllabusLinks": [
@@ -5070,6 +5355,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4206005",
     "syllabusLinks": [
@@ -5129,6 +5417,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4215008",
     "syllabusLinks": [
@@ -5188,6 +5479,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "必選課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236074",
     "syllabusLinks": [
@@ -5246,6 +5540,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
     "syllabusLinks": [
@@ -5289,6 +5586,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406002",
     "syllabusLinks": []
@@ -5297,7 +5597,7 @@
     "code": "4406145",
     "description": {
       "zh": "介紹各種潔淨且高效率的先進車輛動力系統的型式及其工作原理並分析技巧。項目包含車輛能源所面臨的一些問題及可能的解決方案、優良動力源的特性、電動系統、複合電動系統、複合氣動系統、氫燃料電池動力系統、金屬燃料電池動力系統、各種替代性燃料的特性及優缺點、太陽光電輔助動力系統等。",
-      "en": "This course introduces various kinds of clean and high-efficiency vehicular power systems, their operation principles, and analytical skills.  Topics include: problems and possible solutions the vehicular power system faces, characteristics of a good vehicular power system, electric power system, hybrid electric power system, hybrid pneumatic power system, fuel cell power system, metallic fuel-cell power system, substitutive fuels, and solar-energy auxiliary power system."
+      "en": "This course introduces various kinds of clean and high-efficiency vehicular power systems, their operation principles, and analytical skills. Topics include: problems and possible solutions the vehicular power system faces, characteristics of a good vehicular power system, electric power system, hybrid electric power system, hybrid pneumatic power system, fuel cell power system, metallic fuel-cell power system, substitutive fuels, and solar-energy auxiliary power system."
     },
     "id": "365241",
     "name": {
@@ -5346,6 +5646,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【車輛系_車輛動力與能源】",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406145",
     "syllabusLinks": [
@@ -5405,6 +5708,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "兼任盧錫全老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406160",
     "syllabusLinks": [
@@ -5448,6 +5754,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505002",
     "syllabusLinks": []
@@ -5456,7 +5765,7 @@
     "code": "4505008",
     "description": {
       "zh": "本課程之目標為增進研究生之英文閱讀能力與寫作技巧。介紹英文科技論文的慣用語法、用字與閱讀技巧，並分析撰寫英文報告與學術論文之章法與組織要領。",
-      "en": "Objective of this course is to improve reading ability and writing skill for graduate students.  This course introduces grammar, terms and phrases that are frequently used in English technical articles.  Structures of English essay and thesis will also be explained."
+      "en": "Objective of this course is to improve reading ability and writing skill for graduate students. This course introduces grammar, terms and phrases that are frequently used in English technical articles. Structures of English essay and thesis will also be explained."
     },
     "id": "365250",
     "name": {
@@ -5504,6 +5813,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505008",
     "syllabusLinks": [
@@ -5547,6 +5859,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906001",
     "syllabusLinks": []
@@ -5603,6 +5918,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
     "syllabusLinks": [
@@ -5662,6 +5980,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906005",
     "syllabusLinks": [
@@ -5705,6 +6026,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4916007",
     "syllabusLinks": []
@@ -5761,6 +6085,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905019",
     "syllabusLinks": [
@@ -5819,6 +6146,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "共同 302",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
     "syllabusLinks": [
@@ -5877,6 +6207,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905731",
     "syllabusLinks": [
@@ -5935,6 +6268,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "共同 302",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906557",
     "syllabusLinks": [
@@ -5989,10 +6325,13 @@
         "code": "383"
       }
     ],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906707",
     "syllabusLinks": [
@@ -6051,6 +6390,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906737",
     "syllabusLinks": [
@@ -6061,7 +6403,7 @@
     "code": "5105001",
     "description": {
       "zh": "本課程將透過每週專題演講方式，讓學生了解有機材料之最新開發成品或最先進之研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
-      "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area.  Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
+      "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area. Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
     },
     "id": "365313",
     "name": {
@@ -6109,6 +6451,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "研一 (教室 107)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
     "syllabusLinks": [
@@ -6119,7 +6464,7 @@
     "code": "5105002",
     "description": {
       "zh": "學生與教授討論擬定之研究題目, 在教授個別指導下, 進行實驗之研究, 以培養學生尋找相關資料, 文獻及獨立研究的訓練, 並將其研究成果撰寫成碩士論文。",
-      "en": "To make students able to carry out independent study in master level.  Students will be assigned a research topic.  An independent experimental design, data analysis, and final master thesis are necessary for this course."
+      "en": "To make students able to carry out independent study in master level. Students will be assigned a research topic. An independent experimental design, data analysis, and final master thesis are necessary for this course."
     },
     "id": "365314",
     "name": {
@@ -6152,6 +6497,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "發展太陽光電科技學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105002",
     "syllabusLinks": []
@@ -6209,6 +6557,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "教室 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105004",
     "syllabusLinks": [
@@ -6219,7 +6570,7 @@
     "code": "5105005",
     "description": {
       "zh": "本課程包含材料的結構鑑定和材料的性質分析。材料的結構鑑定方法有：元素分析、吸收光譜法、振動光譜法、核磁共振光譜法、質譜法、x- 射線光譜法和電子顯微鏡法。材料的性質分析包含：材料熱性質 (DSC, TGA, TMA,DMA) 和材料機械性質 (伸張、壓縮、剪力強度等)。",
-      "en": "The materials of the course include structure identification and property analysis of materials. Methods of structure identification  of materials are : elemental analysis, absorption spectroscopy, vibration spectroscopy, nuclear magnetic resonance spectroscopy, mass spectrometry, x-ray spectroscopy and electron microscopy. Metheds of property analysis of materials are : thermal properties of materials (DSC,TGA,TMA,DMA) and mechanical properties of materials (tensile, compression and shear strengths)."
+      "en": "The materials of the course include structure identification and property analysis of materials. Methods of structure identification of materials are : elemental analysis, absorption spectroscopy, vibration spectroscopy, nuclear magnetic resonance spectroscopy, mass spectrometry, x-ray spectroscopy and electron microscopy. Metheds of property analysis of materials are : thermal properties of materials (DSC,TGA,TMA,DMA) and mechanical properties of materials (tensile, compression and shear strengths)."
     },
     "id": "365316",
     "name": {
@@ -6268,6 +6619,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "生醫材料學程",
     "notes": "教室 207",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105005",
     "syllabusLinks": [
@@ -6317,6 +6671,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "軟質材料與智慧紡織科技",
     "notes": "教室 207，一週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105006",
     "syllabusLinks": [
@@ -6327,7 +6684,7 @@
     "code": "5105032",
     "description": {
       "zh": "此課程屬於高等無機化學特論，針對研究所學生有志於從事應用研究或投入化學工業而開設，有機金屬不只是化學家重要的研究工具也是化學工程師在設計反應的利器。課程內容包括: 主族有機金屬、過渡元素之有機金屬化合物、硼族有機金屬、銅銀金之有機金屬、18 價電子原理、s, p 受體予體、有機錫",
-      "en": "The advanced course for inorganic chemistry is designed for graduates who plan to initiate their academic research in the chemical field or work in chemical plants. Organometallics provides not only the powerful tools for chemist in their research but also for chemical engineers in the design of their reactors.  The course covers the following topics: (1) Main-group organometallics (2) Organometallic compounds of the transition elements (3) Organometallics of the boron group (4) Organometallics of Copper, Silver and Gold (5) The 18-Valence-Electron (18-VE) Rule (6) s, p donors and acceptors (7) Organotin"
+      "en": "The advanced course for inorganic chemistry is designed for graduates who plan to initiate their academic research in the chemical field or work in chemical plants. Organometallics provides not only the powerful tools for chemist in their research but also for chemical engineers in the design of their reactors. The course covers the following topics: (1) Main-group organometallics (2) Organometallic compounds of the transition elements (3) Organometallics of the boron group (4) Organometallics of Copper, Silver and Gold (5) The 18-Valence-Electron (18-VE) Rule (6) s, p donors and acceptors (7) Organotin"
     },
     "id": "365329",
     "name": {
@@ -6376,6 +6733,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "教室 207",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105032",
     "syllabusLinks": [
@@ -6415,10 +6775,13 @@
       "sat": []
     },
     "classroom": [],
-    "people": "39",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5202101",
     "syllabusLinks": []
@@ -6426,8 +6789,8 @@
   {
     "code": "5201402",
     "description": {
-      "zh": "本課程主要在論述計畫於都市發展過程的干預以及維護環境永續發展之分派與管理角色，其內容包括：    一、 規劃、規劃師與計畫    二、 1800 年到 1900 年的都市發展    三、 都市計畫的先驅著    四、 戰後規劃的開創    五、 國土與區域計畫    六、 都市與都市區域計畫    七、 歐美的都市計畫    八、 未來聚落的都市規劃",
-      "en": "This course is mainly to discuss the role of planning as a form of intervention in the development process, and introduce the role of planning in the allocation and management of a sustainable environment. Thus the course including:    1. Planning, planners and plans    2. The origins: urban growth from 1800 to 1940    3. The seers: pioneer thinkers in urban planning, from        1880 to 1945    4. The creation of the postwar planning machine, from        1940 to 1952    5. National/regional planning from 1945 to 1990    6. Planning for cities and city regions from 1945 to        1990    7. Planning in Western Europe, United States since 1945    8. Settlements into the 21st century"
+      "zh": "本課程主要在論述計畫於都市發展過程的干預以及維護環境永續發展之分派與管理角色，其內容包括：一、 規劃、規劃師與計畫二、 1800 年到 1900 年的都市發展三、 都市計畫的先驅著四、 戰後規劃的開創五、 國土與區域計畫六、 都市與都市區域計畫七、 歐美的都市計畫八、 未來聚落的都市規劃",
+      "en": "This course is mainly to discuss the role of planning as a form of intervention in the development process, and introduce the role of planning in the allocation and management of a sustainable environment. Thus the course including:1. Planning, planners and plans2. The origins: urban growth from 1800 to 19403. The seers: pioneer thinkers in urban planning, from 1880 to 19454. The creation of the postwar planning machine, from 1940 to 19525. National/regional planning from 1945 to 19906. Planning for cities and city regions from 1945 to 19907. Planning in Western Europe, United States since 19458. Settlements into the 21st century"
     },
     "id": "365333",
     "name": {
@@ -6476,6 +6839,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201402",
     "syllabusLinks": [
@@ -6486,7 +6852,7 @@
     "code": "5201429",
     "description": {
       "zh": "台灣傳統建築史的研究已歷多年發展，累積了相當豐富的研究成果。本課程擬由傳統閩客建築類型所屬之空間文化進行研討，透過 \"環境與構造\"、\"儀式與空間\"、\"政治與建築\" 等進階專題研討，期待引領修課同學進入並體驗台灣傳統建築的深層特色與意涵，過程中除了相關文獻的閱讀，案例調查報告外，並由田野實地參觀，帶領同學感受台灣傳統閩客建築的獨特環境與空間文化。",
-      "en": "The research of the history of Taiwanese traditional architecture has got a great achievement after many years of development. This course is focus on the spatial culture of different types of traditional Hakka and Fujian architecture. I hopes that every students could understand and experience the deep social cultural meanings and features through the study of following three issues :\"environment and construction\", \"rite and space\" and \"politics and architecture\".  This course would not only be proceeded by the reading of related documents and the reporting of different case, it also combined the field visiting and investment to lead students to enjoy the very special cultural heritage."
+      "en": "The research of the history of Taiwanese traditional architecture has got a great achievement after many years of development. This course is focus on the spatial culture of different types of traditional Hakka and Fujian architecture. I hopes that every students could understand and experience the deep social cultural meanings and features through the study of following three issues :\"environment and construction\", \"rite and space\" and \"politics and architecture\". This course would not only be proceeded by the reading of related documents and the reporting of different case, it also combined the field visiting and investment to lead students to enjoy the very special cultural heritage."
     },
     "id": "365337",
     "name": {
@@ -6531,10 +6897,13 @@
         "code": "52"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201429",
     "syllabusLinks": [
@@ -6594,6 +6963,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231416",
     "syllabusLinks": [
@@ -6609,7 +6981,7 @@
     "id": "365378",
     "name": {
       "zh": "防疫型建築專題",
-      "en": "Special Topics on Epidemic Prevention  Architecture"
+      "en": "Special Topics on Epidemic Prevention Architecture"
     },
     "stage": "1",
     "credit": "3.0",
@@ -6653,6 +7025,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235438",
     "syllabusLinks": [
@@ -6663,7 +7038,7 @@
     "code": "5416100",
     "description": {
       "zh": "同學們在修過第一年所開的所有的必修課之後，從第三個學期開始，在指導老師的引領下，必須開始著手準備碩士論文的撰寫: 選擇論文題目，收集資料，通過論文大綱審查，開始撰寫論文. . .等等的步驟。從第三個學期開始須修二期之「論文」課程。在論文口試委員們接受該論文並在文件上簽名後，同學們可同時拿到六個學分，完成本碩士課程 \"論文\" 這一項的要求。",
-      "en": "After completing all the required courses in the first year, every student is encouraged to initiate the working process toward the completion of his/her MA thesis under the supervision of an advisor. Starting from the third semester, it is required for the student to register for \"Thesis\" for two semesters.  The \"Thesis\" courses aim to lead graduate students through the process of preparing, writing and completing an MA thesis.  After the committee members agree on the acceptability of the thesis and sign the official document, the student will get a total of 6 credits for \"Thesis,\" fulfilling part of the requirement for a MA degree."
+      "en": "After completing all the required courses in the first year, every student is encouraged to initiate the working process toward the completion of his/her MA thesis under the supervision of an advisor. Starting from the third semester, it is required for the student to register for \"Thesis\" for two semesters. The \"Thesis\" courses aim to lead graduate students through the process of preparing, writing and completing an MA thesis. After the committee members agree on the acceptability of the thesis and sign the official document, the student will get a total of 6 credits for \"Thesis,\" fulfilling part of the requirement for a MA degree."
     },
     "id": "365380",
     "name": {
@@ -6696,6 +7071,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5416100",
     "syllabusLinks": []
@@ -6758,6 +7136,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415125",
     "syllabusLinks": [
@@ -6818,6 +7199,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415126",
     "syllabusLinks": [
@@ -6877,6 +7261,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415210",
     "syllabusLinks": [
@@ -6936,6 +7323,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425217",
     "syllabusLinks": [
@@ -6995,6 +7385,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425608",
     "syllabusLinks": [
@@ -7038,6 +7431,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605001",
     "syllabusLinks": []
@@ -7088,6 +7484,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜二演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605002",
     "syllabusLinks": [
@@ -7098,7 +7497,7 @@
     "code": "5605020",
     "description": {
       "zh": "先修課程：負責教授同意表面現象, 介面反應等與近代高科技技術, 如鍍膜工程, 表面處理, 腐蝕, 磨潤, 微機電, 感測器, 半導體技術等息息相關, 且日益重要。表面分析是原子層次的相關研究, 它包括振動, 電子或離子頻譜分析, 微技術等之應用。主要的項目包含, 表面形貌觀察 (SEM, BSEM, AFM), 成份分析 (光譜分析, 質譜分析, EDX), 結構分析 (XRD, AES, ESCA, XPS), 鍵結分析 (Raman 光譜, FTIR), 表面粗糙度, 膜厚, 附著力, 內應力等膜之特性分析。",
-      "en": "Surface phenomena and processes occurring at interface are becoming increasingly important in a wide variety of industrial applications including the areas of films coating surface treatments, conclusion, triobology, microelectronics, sensors and semi-conductor technologies.  Accompanying this is an ever-growing need for surface characterization allowing better definition of processes occurring at a microscopic level.Surface analysis is the use of vibration, electron or ion spectroscopic and microscopic techniques for the study of material at the atomic level, it includesSEM, AFM, XRD, EDX, ESCA, XPS, AES, Raman Spectrum, and FTIR analysis."
+      "en": "Surface phenomena and processes occurring at interface are becoming increasingly important in a wide variety of industrial applications including the areas of films coating surface treatments, conclusion, triobology, microelectronics, sensors and semi-conductor technologies. Accompanying this is an ever-growing need for surface characterization allowing better definition of processes occurring at a microscopic level.Surface analysis is the use of vibration, electron or ion spectroscopic and microscopic techniques for the study of material at the atomic level, it includesSEM, AFM, XRD, EDX, ESCA, XPS, AES, Raman Spectrum, and FTIR analysis."
     },
     "id": "365421",
     "name": {
@@ -7147,6 +7546,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 110-1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605020",
     "syllabusLinks": [
@@ -7202,10 +7604,13 @@
         "code": "47"
       }
     ],
-    "people": "14",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "一般教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605060",
     "syllabusLinks": [
@@ -7265,6 +7670,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "智慧感測科技微學程",
     "notes": "一般教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605090",
     "syllabusLinks": [
@@ -7329,6 +7737,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705401",
     "syllabusLinks": [
@@ -7388,6 +7799,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705472",
     "syllabusLinks": [
@@ -7457,6 +7871,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
@@ -7501,6 +7918,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5706001",
     "syllabusLinks": []
@@ -7568,6 +7988,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "楊侑倫 1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705268",
     "syllabusLinks": []
@@ -7625,6 +8048,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705461",
     "syllabusLinks": [
@@ -7683,6 +8109,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修；設計 106 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5806002",
     "syllabusLinks": [
@@ -7742,6 +8171,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "文化永續與社會創新-社會實踐微學程",
     "notes": "設計 603 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5815006",
     "syllabusLinks": [
@@ -7785,6 +8217,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007001",
     "syllabusLinks": []
@@ -7852,6 +8287,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "億光大樓 1343 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
@@ -7913,6 +8351,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "億光大樓 1343 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007203",
     "syllabusLinks": [
@@ -7923,7 +8364,7 @@
     "code": "6016016",
     "description": {
       "zh": "政策研究能檢視理論和實務的切合程度。本課程將帶領大家認識環境政策的經濟分析方法，學習經濟的思維觀點，以及如何運用經濟方法瞭解解決環境問題。除此之外上課內容並與法律結合，探討環境法的經濟分析觀點和傳統思維有何不同，尤其是對環境行為上之改變效果。希望學生能夠具體瞭解經濟分析方法幫助政府解決環境問題及規劃環境政策時所扮演的角色。",
-      "en": "There is a significant trade-off between economic growth and environmental quality.  From this course, students will learn fundamental concepts in Environmental Economics and how to analyze environmental policy issues by using economic tools.  In additions, this course combines economic analysis to law, especially shows students how regulations affect people's behavior.  After this class, students not only know how economic approaches help the government deal with environmental issues and the differences between theory and practices."
+      "en": "There is a significant trade-off between economic growth and environmental quality. From this course, students will learn fundamental concepts in Environmental Economics and how to analyze environmental policy issues by using economic tools. In additions, this course combines economic analysis to law, especially shows students how regulations affect people's behavior. After this class, students not only know how economic approaches help the government deal with environmental issues and the differences between theory and practices."
     },
     "id": "365593",
     "name": {
@@ -7972,6 +8413,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "循環經濟與淨零永續微學程",
     "notes": "億光大樓 1343 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6016016",
     "syllabusLinks": [
@@ -8031,6 +8475,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "億光大樓 1343 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6027031",
     "syllabusLinks": [
@@ -8090,6 +8537,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "循環經濟與淨零永續微學程",
     "notes": "億光大樓 1343 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6027034",
     "syllabusLinks": [
@@ -8100,7 +8550,7 @@
     "code": "6105001",
     "description": {
       "zh": "碩士學位論文寫作。",
-      "en": "Master  thesis  studying  and  writing ."
+      "en": "Master thesis studying and writing ."
     },
     "id": "365605",
     "name": {
@@ -8129,10 +8579,13 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105001",
     "syllabusLinks": []
@@ -8141,7 +8594,7 @@
     "code": "6105002",
     "description": {
       "zh": "專題報告，專題演講，研究小組討論。",
-      "en": "Seminar  report ， seminar  speech ， seminar  discussion。"
+      "en": "Seminar report ， seminar speech ， seminar discussion。"
     },
     "id": "365606",
     "name": {
@@ -8189,6 +8642,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105002",
     "syllabusLinks": [
@@ -8248,6 +8704,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105071",
     "syllabusLinks": [
@@ -8291,6 +8750,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "擬 115-1 畢業者, 須累計加選 2 門 6 學分論文",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306002",
     "syllabusLinks": []
@@ -8346,6 +8808,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "限碩一選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
     "syllabusLinks": [
@@ -8356,7 +8821,7 @@
     "code": "7305001",
     "description": {
       "zh": "本課程說明如何利用質量及動量守恆建立可以描述速度、應力及壓力等流體系統物理量間關係之統制方程式。其內容包括：線及角動量守衡、應力張量、平滑近似理論、非穩態流動、邊界層近似法、線性穩定度理論及紊流系統。",
-      "en": "We will learn how fundamental principles such as conservation of mass and momentum lead to equations that govern or describe the interrelationships of velocity, stress, pressure, and so on. Content includes macroscopic balance for linear and angular momentum, the stress tensor, lubrication approximation, unsteady flow、the boundary layer approximation, linear stability theory, and turbulent flows."
+      "en": "We will learn how fundamental principles such as conservation of mass and momentum lead to equations that govern or describe the interrelationships of velocity, stress, pressure, and so on. Content includes macroscopic balance for linear and angular momentum, the stress tensor,lubrication approximation, unsteady flow、the boundary layer approximation, linear stability theory, and turbulent flows."
     },
     "id": "365651",
     "name": {
@@ -8405,6 +8870,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305001",
     "syllabusLinks": [
@@ -8464,6 +8932,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305014",
     "syllabusLinks": [
@@ -8523,6 +8994,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305086",
     "syllabusLinks": [
@@ -8581,6 +9055,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405185",
     "syllabusLinks": [
@@ -8639,6 +9116,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "排進修部教室, 限本系生 14 人修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05102",
     "syllabusLinks": [
@@ -8708,6 +9188,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "排進修部教室, 限本系生 14 人修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05103",
     "syllabusLinks": [
@@ -8769,6 +9252,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "排進修部教室, 限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05301",
     "syllabusLinks": [
@@ -8822,7 +9308,10 @@
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
     "syllabusLinks": [
@@ -8898,6 +9387,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
@@ -8974,6 +9466,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
@@ -9052,6 +9547,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
@@ -9128,6 +9626,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C255054",
     "syllabusLinks": [
@@ -9207,6 +9708,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
@@ -9305,6 +9809,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
@@ -9379,6 +9886,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205025",
     "syllabusLinks": [
@@ -9458,6 +9968,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205003",
     "syllabusLinks": [
@@ -9539,6 +10052,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205004",
     "syllabusLinks": [
@@ -9625,6 +10141,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
@@ -9707,6 +10226,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": [
@@ -9781,6 +10303,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215014",
     "syllabusLinks": [
@@ -9790,8 +10315,8 @@
   {
     "code": "C215026",
     "description": {
-      "zh": "1.\t建立企業經營管理的基本認知 2.\t企業管理的經營模式認知 3.\t導入運用的方法與案例 4.\t提升學生經營管理能力",
-      "en": "1.\tEstablish basic understanding of business management2.\tCognition of business model of enterprise management3.\tMethods and cases of introduction and application4.\tImprove students' management ability"
+      "zh": "1. 建立企業經營管理的基本認知 2. 企業管理的經營模式認知 3. 導入運用的方法與案例 4. 提升學生經營管理能力",
+      "en": "1. Establish basic understanding of business management2. Cognition of business model of enterprise management3. Methods and cases of introduction and application4. Improve students' management ability"
     },
     "id": "365845",
     "name": {
@@ -9865,6 +10390,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 1) 經營與策略管理 (聯輔會) 台北上課 (關聯群 2)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215026",
     "syllabusLinks": [
@@ -9939,6 +10467,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215027",
     "syllabusLinks": [
@@ -10019,7 +10550,10 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 4) 行銷管理 　",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=365848&code=12389",
@@ -10100,6 +10634,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 7) 資訊管理 (關聯群 3)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
     "syllabusLinks": [
@@ -10181,6 +10718,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 6) 財金管理，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
     "syllabusLinks": [
@@ -10265,6 +10805,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 1) 經營與策略管理 (關聯群 2)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
@@ -10347,6 +10890,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 2) 組織領導與人力資源管理 (吳祉芸兼任副教授)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225005",
     "syllabusLinks": [
@@ -10432,6 +10978,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
     "syllabusLinks": [
@@ -10513,6 +11062,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
@@ -10599,6 +11151,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
@@ -10612,7 +11167,7 @@
     "code": "1400027",
     "description": {
       "zh": "課程重點：(1) 藉由適合其程度的教材加強學生必備的基礎文法觀念和句型結構；(2) 使學生確切把握閱讀要領以及充分瞭解寫作的各種技巧，重心在生字、片語、句法的解釋和基本寫作技巧的分析；(3) 熟悉英語人士日常生活情境及與學生將來就業環境相關之會話及適當之應對方式；(4) 透過練習加強聽、說、讀、寫的知能及表達。",
-      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to  familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
+      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
     },
     "id": "365865",
     "name": {
@@ -10661,6 +11216,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
     "syllabusLinks": [
@@ -10719,6 +11277,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
     "syllabusLinks": [
@@ -10772,6 +11333,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "北分署上課；因場地關係，該班僅提供電子系同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
     "syllabusLinks": [
@@ -10782,7 +11346,7 @@
     "code": "1401041",
     "description": {
       "zh": "本校之普通物理課程專為工程科系背景之同學設計，主要的目的是鼓勵同學參與大自然運行奧秘、法則之探索，並供給爾後修習專業課程之堅實基礎。本課程之內容包含力學、熱力學、聲學、電磁學、光學及近代物理。教授者可按每週三小時、二個學期的時間設計、再參酌各系不同之需求、加強或節略某些章節。",
-      "en": "The course is designed for the students with engineering background. The theme of this course is to encourage students to participate in the discovery of laws and wonder of nature, and to solidate the foundation for the particular courses of study for different departments. The contents of this course include mechanics, dynamics, thermodynamics, electromagnetics, optics, and foundation of modern physics, etc.. The lecturers will emphasize or abridge certain contents based on the individual needs of departments. For this course, there will be 3 credits for each of two semesters,  and 3 lecture hours per week."
+      "en": "The course is designed for the students with engineering background. The theme of this course is to encourage students to participate in the discovery of laws and wonder of nature, and to solidate the foundation for the particular courses of study for different departments. The contents of this course include mechanics, dynamics, thermodynamics, electromagnetics, optics, and foundation of modern physics, etc.. The lecturers will emphasize or abridge certain contents based on the individual needs of departments. For this course, there will be 3 credits for each of two semesters, and 3 lecture hours per week."
     },
     "id": "365868",
     "name": {
@@ -10831,6 +11395,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "面板微學程\n智慧感測科技微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
     "syllabusLinks": [
@@ -10840,7 +11407,7 @@
   {
     "code": "3601005",
     "description": {
-      "zh": "瞭解組合邏輯與序向邏輯電路之分析，設計及簡化之方法，內容包含：１.數系：數位系統所使用之各種數系及其轉換之方法２.布氏代數：了解布氏代數的基本運算法和定律，及認識基本邏輯   及邏輯閘３.布氏代數之簡化：介紹各種布氏代數之簡化方法４.組合邏輯：據布氏代數及邏輯閘，計分析各種組合邏輯電路５.可程式邏輯陣列：介紹ＰＬＡ，ＰＡＬ，ＦＰＧＡ等之設計方法６.正反器：介紹各種正反器電路及了解其基特性７.同步與非同步序向電路：介紹各種同步與非同步序向電路分析與   設計之方法 ８.遞迴網路：介紹遞迴網路之設計方法９.ＶＨＤＬ：介紹如何使用ＶＨＤＬ語言設計數位電路",
+      "zh": "瞭解組合邏輯與序向邏輯電路之分析，設計及簡化之方法，內容包含：１.數系：數位系統所使用之各種數系及其轉換之方法２.布氏代數：了解布氏代數的基本運算法和定律，及認識基本邏輯 及邏輯閘３.布氏代數之簡化：介紹各種布氏代數之簡化方法４.組合邏輯：據布氏代數及邏輯閘，計分析各種組合邏輯電路５.可程式邏輯陣列：介紹ＰＬＡ，ＰＡＬ，ＦＰＧＡ等之設計方法６.正反器：介紹各種正反器電路及了解其基特性７.同步與非同步序向電路：介紹各種同步與非同步序向電路分析與 設計之方法８.遞迴網路：介紹遞迴網路之設計方法９.ＶＨＤＬ：介紹如何使用ＶＨＤＬ語言設計數位電路",
       "en": "The course covers the analysis,design and simplification of bath combinational and sequential systems.Contents include:1.Number systems and codes2.Booolean algebra3.Simplification of Boolean algebra4.Combinational logic5.Programmable logic array6.Flip-flops7.Synchronous and asynchronous sequential circuits8.Recursive networks9.VHDL"
     },
     "id": "365869",
@@ -10890,6 +11457,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "半導體科技學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3601005",
     "syllabusLinks": [
@@ -10933,6 +11503,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "工程數位科技與人工智慧微學程",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3601009",
     "syllabusLinks": []
@@ -10941,7 +11514,7 @@
     "code": "3603078",
     "description": {
       "zh": "1. 程式語言類別介紹 2. 物件導向與資料抽象化 3. 類別與方法 4. 訊息﹐實例與初始化 5. 繼承 6. 靜態與動態繫結 7. 多型性 8. 發展環境及工具 9. C++ Java Smalltalk 簡介 10. 應用程式實例介紹",
-      "en": "1.Programming Language Paradigms  2.Object-Orientation and Data Abstraction  3.Classes and Methods 4.Messages, Instances, and Initialization 5.Inheritance  6.Static and Dynamic Binding7.Polymorphism  8.Environment and Tools  9.Introduction to C++, Java, and Smalltalk 10.Case Study"
+      "en": "1.Programming Language Paradigms2.Object-Orientation and Data Abstraction3.Classes and Methods4.Messages, Instances, and Initialization5.Inheritance6.Static and Dynamic Binding7.Polymorphism8.Environment and Tools9.Introduction to C++, Java, and Smalltalk10.Case Study"
     },
     "id": "365873",
     "name": {
@@ -10974,6 +11547,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "軟體工程學程\n多媒體人機互動應用與設計微學程\n無人機微學程",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603078",
     "syllabusLinks": []
@@ -11015,6 +11591,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603095",
     "syllabusLinks": []
@@ -11023,7 +11602,7 @@
     "code": "1400027",
     "description": {
       "zh": "課程重點：(1) 藉由適合其程度的教材加強學生必備的基礎文法觀念和句型結構；(2) 使學生確切把握閱讀要領以及充分瞭解寫作的各種技巧，重心在生字、片語、句法的解釋和基本寫作技巧的分析；(3) 熟悉英語人士日常生活情境及與學生將來就業環境相關之會話及適當之應對方式；(4) 透過練習加強聽、說、讀、寫的知能及表達。",
-      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to  familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
+      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
     },
     "id": "365875",
     "name": {
@@ -11072,6 +11651,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
     "syllabusLinks": [
@@ -11130,6 +11712,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
     "syllabusLinks": [
@@ -11176,6 +11761,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1420008",
     "syllabusLinks": []
@@ -11220,6 +11808,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1420009",
     "syllabusLinks": []
@@ -11278,6 +11869,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 703 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871101",
     "syllabusLinks": []
@@ -11334,6 +11928,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871102",
     "syllabusLinks": [
@@ -11392,6 +11989,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館地下一樓木工廠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871103",
     "syllabusLinks": [
@@ -11402,7 +12002,7 @@
     "code": "3871114",
     "description": {
       "zh": "包括製作模型所需用之各種機械設備操作、使用工具、紙模型、工業油土等之加工技術。",
-      "en": "English Description\tTraining students to operate some basically equipment such as bench work, sheet metal, machining, and welding machines safely and correctly, giving them the primary skills in model making."
+      "en": "English Description Training students to operate some basically equipment such as bench work, sheet metal, machining, and welding machines safely and correctly, giving them the primary skills in model making."
     },
     "id": "365882",
     "name": {
@@ -11457,6 +12057,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館地下一樓木工廠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871114",
     "syllabusLinks": [
@@ -11516,6 +12119,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "木藝數位製造與管理微學程",
     "notes": "設計館 207 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871105",
     "syllabusLinks": [
@@ -11574,6 +12180,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871106",
     "syllabusLinks": [
@@ -11632,6 +12241,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871109",
     "syllabusLinks": []
@@ -11688,6 +12300,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "木藝數位製造與管理微學程",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871111",
     "syllabusLinks": [
@@ -11746,6 +12361,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 301 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871112",
     "syllabusLinks": [
@@ -11756,7 +12374,7 @@
     "code": "1400027",
     "description": {
       "zh": "課程重點：(1) 藉由適合其程度的教材加強學生必備的基礎文法觀念和句型結構；(2) 使學生確切把握閱讀要領以及充分瞭解寫作的各種技巧，重心在生字、片語、句法的解釋和基本寫作技巧的分析；(3) 熟悉英語人士日常生活情境及與學生將來就業環境相關之會話及適當之應對方式；(4) 透過練習加強聽、說、讀、寫的知能及表達。",
-      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to  familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
+      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
     },
     "id": "365893",
     "name": {
@@ -11805,6 +12423,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
     "syllabusLinks": [
@@ -11863,6 +12484,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
     "syllabusLinks": [
@@ -11921,6 +12545,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1413002",
     "syllabusLinks": [
@@ -11931,7 +12558,7 @@
     "code": "1419998",
     "description": {
       "zh": "提供本校四技學生在本行以外，對其他領域的認識，以彌補其只鑽研專業課程的偏頗，訓練學生整合知識，使不致在知識爆炸的時代中迷失，促進各種專材的溝通，培養共識；培育人文素養，啟發人文關懷，使具有完整的人生觀。",
-      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that  students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
+      "en": "This course offers a good opportunity for four-year college students in this university to have an easier access to a completely different field of knowledge, in the hope that students can add their individual professional knowledge and broaden their minds. The students will be furnished with integrated knowledge, discovering a better way towards professional communication, developing more common sense and never losing themselves in this information-explosive age. With a solid basis on humanity and liberal ideology, they are sure to find a more complete picture of human life."
     },
     "id": "365896",
     "name": {
@@ -11967,6 +12594,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1419998",
     "syllabusLinks": []
@@ -12024,6 +12654,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "學校上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
     "syllabusLinks": [
@@ -12034,7 +12667,7 @@
     "code": "1401041",
     "description": {
       "zh": "本校之普通物理課程專為工程科系背景之同學設計，主要的目的是鼓勵同學參與大自然運行奧秘、法則之探索，並供給爾後修習專業課程之堅實基礎。本課程之內容包含力學、熱力學、聲學、電磁學、光學及近代物理。教授者可按每週三小時、二個學期的時間設計、再參酌各系不同之需求、加強或節略某些章節。",
-      "en": "The course is designed for the students with engineering background. The theme of this course is to encourage students to participate in the discovery of laws and wonder of nature, and to solidate the foundation for the particular courses of study for different departments. The contents of this course include mechanics, dynamics, thermodynamics, electromagnetics, optics, and foundation of modern physics, etc.. The lecturers will emphasize or abridge certain contents based on the individual needs of departments. For this course, there will be 3 credits for each of two semesters,  and 3 lecture hours per week."
+      "en": "The course is designed for the students with engineering background. The theme of this course is to encourage students to participate in the discovery of laws and wonder of nature, and to solidate the foundation for the particular courses of study for different departments. The contents of this course include mechanics, dynamics, thermodynamics, electromagnetics, optics, and foundation of modern physics, etc.. The lecturers will emphasize or abridge certain contents based on the individual needs of departments. For this course, there will be 3 credits for each of two semesters, and 3 lecture hours per week."
     },
     "id": "365898",
     "name": {
@@ -12083,6 +12716,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "面板微學程\n智慧感測科技微學程",
     "notes": "自 1150909 更換教室為三教 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
     "syllabusLinks": [
@@ -12138,10 +12774,13 @@
         "code": "53"
       }
     ],
-    "people": "35",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "離岸風電跨域微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401091",
     "syllabusLinks": [
@@ -12201,6 +12840,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401033",
     "syllabusLinks": [
@@ -12260,6 +12902,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "需使用電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401092",
     "syllabusLinks": [
@@ -12270,7 +12915,7 @@
     "code": "1400027",
     "description": {
       "zh": "課程重點：(1) 藉由適合其程度的教材加強學生必備的基礎文法觀念和句型結構；(2) 使學生確切把握閱讀要領以及充分瞭解寫作的各種技巧，重心在生字、片語、句法的解釋和基本寫作技巧的分析；(3) 熟悉英語人士日常生活情境及與學生將來就業環境相關之會話及適當之應對方式；(4) 透過練習加強聽、說、讀、寫的知能及表達。",
-      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to  familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
+      "en": "This course is designed (1) to strengthen students' previously required knowledge in English with basic grammatical ideas and sentence patterns reviewed through reading materials appropriate to their levels; (2) to develop reading skill by giving explanation of difficult words, phrases, and syntax, as well as analysis of basic writing skill; (3)to familiarize students with useful expressions in conversation and build up their confidence in cross-cultural communication; (4)to reinforce the competence and performance of listening, speaking, reading and writing by practice."
     },
     "id": "365906",
     "name": {
@@ -12319,6 +12964,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
     "syllabusLinks": [
@@ -12377,6 +13025,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
     "syllabusLinks": [
@@ -12420,6 +13071,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503202",
     "syllabusLinks": []
@@ -12471,6 +13125,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課；因場地關係，該班僅提供能源系同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
     "syllabusLinks": [
@@ -12481,7 +13138,7 @@
     "code": "1401041",
     "description": {
       "zh": "本校之普通物理課程專為工程科系背景之同學設計，主要的目的是鼓勵同學參與大自然運行奧秘、法則之探索，並供給爾後修習專業課程之堅實基礎。本課程之內容包含力學、熱力學、聲學、電磁學、光學及近代物理。教授者可按每週三小時、二個學期的時間設計、再參酌各系不同之需求、加強或節略某些章節。",
-      "en": "The course is designed for the students with engineering background. The theme of this course is to encourage students to participate in the discovery of laws and wonder of nature, and to solidate the foundation for the particular courses of study for different departments. The contents of this course include mechanics, dynamics, thermodynamics, electromagnetics, optics, and foundation of modern physics, etc.. The lecturers will emphasize or abridge certain contents based on the individual needs of departments. For this course, there will be 3 credits for each of two semesters,  and 3 lecture hours per week."
+      "en": "The course is designed for the students with engineering background. The theme of this course is to encourage students to participate in the discovery of laws and wonder of nature, and to solidate the foundation for the particular courses of study for different departments. The contents of this course include mechanics, dynamics, thermodynamics, electromagnetics, optics, and foundation of modern physics, etc.. The lecturers will emphasize or abridge certain contents based on the individual needs of departments. For this course, there will be 3 credits for each of two semesters, and 3 lecture hours per week."
     },
     "id": "365910",
     "name": {
@@ -12524,6 +13181,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "面板微學程\n智慧感測科技微學程",
     "notes": "桃分署上課；因場地關係，該班僅提供能源系同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
     "syllabusLinks": [
@@ -12567,6 +13227,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501605",
     "syllabusLinks": []
@@ -12608,6 +13271,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501910",
     "syllabusLinks": []
@@ -12649,6 +13315,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_冷凍空調】",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502907",
     "syllabusLinks": []
@@ -12690,6 +13359,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501111",
     "syllabusLinks": []
@@ -12731,6 +13403,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501507",
     "syllabusLinks": []
@@ -12772,6 +13447,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503908",
     "syllabusLinks": []
@@ -12780,7 +13458,7 @@
     "code": "6105044",
     "description": {
       "zh": "本課程在使學生認識嵌入式系統，瞭解其系統架構，並學習嵌入式系統之硬體與軟體之設計技術。內容包含：(1) 嵌入式系統介紹 (2) 嵌入式系統應用 (3) 嵌入式系統硬體 (4) 嵌入式系統軟體架構 (5) 中斷處理 (6) 記憶體管理 (7) 週邊應用 (8) 即時作業系統。",
-      "en": "This course let students to understand the embedded system and learn the skill to design the hardware and software of embedded system.  The contents of this course are: (1)Embedded System Introduction, (2)Embedded System Application, (3)Embedded System Hardware, (4)Embedded System Software Architectures, (5)Interrupts, (6)Memory (7) Peripherals, (8)Real-Time Operating System."
+      "en": "This course let students to understand the embedded system and learn the skill to design the hardware and software of embedded system. The contents of this course are: (1)Embedded System Introduction, (2)Embedded System Application, (3)Embedded System Hardware, (4)Embedded System Software Architectures, (5)Interrupts, (6)Memory (7) Peripherals, (8)Real-Time Operating System."
     },
     "id": "365917",
     "name": {
@@ -12829,6 +13507,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105044",
     "syllabusLinks": [
@@ -12839,7 +13520,7 @@
     "code": "6105070",
     "description": {
       "zh": "本課程主要介紹最佳控制之相關原理與應用，內容包括如下：最佳控制簡介，性能指標，動態規劃法，變分法, 變分法在最佳控制之應用，最佳控制之數值解與個案研究等。",
-      "en": "English Description:  This subject is arranged to introduce the principles and applications of optimal control. The subject includes the following subtopics: introduction of optimal control, performance measure, dynamic programming, calculus of variations, variational approach to optimal control problems, numerical solution of optimal control, and case studies."
+      "en": "English Description: This subject is arranged to introduce the principles and applications of optimal control. The subject includes the following subtopics: introduction of optimal control, performance measure, dynamic programming, calculus of variations, variational approach to optimal control problems, numerical solution of optimal control, and case studies."
     },
     "id": "365918",
     "name": {
@@ -12884,10 +13565,13 @@
         "code": "52"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105070",
     "syllabusLinks": [
@@ -12897,8 +13581,8 @@
   {
     "code": "6105049",
     "description": {
-      "zh": "微奈米量測工程技術為是現代科技發展之重要前瞻技術，它將探討有效尺寸在微奈米等級範圍之精密量測儀器與技術. 本課程將涵括下列各項現代精密量測主題: 1. 近代光電量測系統與技術 2. 量測統計原理 3. 量測信號處理 4. 三次元座標量測系統與技術 5. 雷射干涉系統與技術 6. 影像量測系統與技術 7. 微奈米量測系統與技術 - 干涉術、相位移術、調變術、光共焦 及   自動聚焦術 8. 微奈米量測系統與技術 -- 掃瞄探針顯微鏡 (SPM), STM, AFM 及   SNOM.9. 奈米粉體量測系統與技術 10. 量測實驗 11. 小型量測儀器之專題製作",
-      "en": "This subject is arranged to introduce the advanced systems and technology associated with micro- and nano-scale measurement. The subject includes the following subtopics:1.Modern opto-electro measurement systems and techniques2.Statistic principles for measurement3.Signal processing techniques4.Three-dimensional measurement systems and techniques5.Laser interferometric metrology and systems6.Image processing techniques for metrology7.Micro and nano-measurement systems and techniques (I) -   Moire interferometry, phase shifting, signal modulation,   confocal and auto-focusing techniques.8.Micro- and nano-measurement systems and techniques (II) -   SPM, STM, AFM and SNOM.9.Nano-particle measurement systems and techniques10.Student laboratory/practices11.Team project work for design and fabrication of    small-scaled measurement instrument"
+      "zh": "微奈米量測工程技術為是現代科技發展之重要前瞻技術，它將探討有效尺寸在微奈米等級範圍之精密量測儀器與技術. 本課程將涵括下列各項現代精密量測主題: 1. 近代光電量測系統與技術 2. 量測統計原理 3. 量測信號處理 4. 三次元座標量測系統與技術 5. 雷射干涉系統與技術 6. 影像量測系統與技術 7. 微奈米量測系統與技術 - 干涉術、相位移術、調變術、光共焦 及 自動聚焦術 8. 微奈米量測系統與技術 -- 掃瞄探針顯微鏡 (SPM), STM, AFM 及 SNOM.9. 奈米粉體量測系統與技術 10. 量測實驗 11. 小型量測儀器之專題製作",
+      "en": "This subject is arranged to introduce the advanced systems and technology associated with micro- and nano-scale measurement. The subject includes the following subtopics:1.Modern opto-electro measurement systems and techniques2.Statistic principles for measurement3.Signal processing techniques4.Three-dimensional measurement systems and techniques5.Laser interferometric metrology and systems6.Image processing techniques for metrology7.Micro and nano-measurement systems and techniques (I) - Moire interferometry, phase shifting, signal modulation, confocal and auto-focusing techniques.8.Micro- and nano-measurement systems and techniques (II) - SPM, STM, AFM and SNOM.9.Nano-particle measurement systems and techniques10.Student laboratory/practices11.Team project work for design and fabrication of small-scaled measurement instrument"
     },
     "id": "365919",
     "name": {
@@ -12943,10 +13627,13 @@
         "code": "54"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105049",
     "syllabusLinks": [
@@ -13006,6 +13693,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406104",
     "syllabusLinks": [
@@ -13066,10 +13756,13 @@
         "code": "211"
       }
     ],
-    "people": "34",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 511, 預選限 24 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105164",
     "syllabusLinks": [
@@ -13125,10 +13818,13 @@
         "code": "211"
       }
     ],
-    "people": "52",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105135",
     "syllabusLinks": [
@@ -13184,10 +13880,13 @@
         "code": "156"
       }
     ],
-    "people": "10",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "循環經濟與淨零永續微學程\n綠色製造微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505305",
     "syllabusLinks": [
@@ -13247,6 +13946,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505503",
     "syllabusLinks": [
@@ -13306,6 +14008,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505705",
     "syllabusLinks": [
@@ -13316,7 +14021,7 @@
     "code": "4505208",
     "description": {
       "zh": "本課程之目的為訓練學生有關電子設備散熱設計之相關原理與技術。介紹各項電子元件之發熱量、溫度與元件穩定性之關係，熱對流、熱輻射等熱傳原理在電子設備散熱之的應用法則；解說電子設備散熱器之演進與設計原理，如：熱管之原理與演進、小型風散之特性與設計原則等。探討電子設備的熱阻抗分析、溫度計算、熱應力分析，並介紹相關電腦輔助分析軟體。",
-      "en": "This course introduces principles and techniques of thermal management and cooling design of electronic equipments.  Subjects of this course include: thermal and physical properties of electronic components, thermo-fluid phenomena and principles of thermal management for electronic devices, and the evolution of cooling devices such as heat pipes and micro fans, discussion of analysis methodologies and computer software of thermal management problems including thermal resistances, temperature gradient, and thermal stress."
+      "en": "This course introduces principles and techniques of thermal management and cooling design of electronic equipments. Subjects of this course include: thermal and physical properties of electronic components, thermo-fluid phenomena and principles of thermal management for electronic devices, and the evolution of cooling devices such as heat pipes and micro fans, discussion of analysis methodologies and computer software of thermal management problems including thermal resistances, temperature gradient, and thermal stress."
     },
     "id": "366024",
     "name": {
@@ -13365,6 +14070,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505208",
     "syllabusLinks": [
@@ -13429,6 +14137,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4506202",
     "syllabusLinks": [
@@ -13488,6 +14199,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
     "syllabusLinks": [
@@ -13552,6 +14266,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "日職碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
@@ -13611,6 +14328,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505007",
     "syllabusLinks": [
@@ -13664,6 +14384,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "中分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404017",
     "syllabusLinks": [
@@ -13717,6 +14440,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "中分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404074",
     "syllabusLinks": [
@@ -13776,6 +14502,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計 603 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5855017",
     "syllabusLinks": [
@@ -13835,6 +14564,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計 603 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5826208",
     "syllabusLinks": [
@@ -13844,7 +14576,7 @@
   {
     "code": "4007003",
     "description": {
-      "zh": "先修課程：動態分析與模擬或負責教授同意。  非線性系統現象介紹，參數影響及應用模擬方法，數值分析及案例研究。",
+      "zh": "先修課程：動態分析與模擬或負責教授同意。非線性系統現象介紹，參數影響及應用模擬方法，數值分析及案例研究。",
       "en": "Nonlinear phenomena, Effects of parameters, Simulations and analyses, Case study."
     },
     "id": "366092",
@@ -13894,6 +14626,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 110-2，限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007003",
     "syllabusLinks": [
@@ -13937,6 +14672,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -13978,6 +14716,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -14052,6 +14793,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
@@ -14093,10 +14837,13 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -14165,10 +14912,13 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
@@ -14216,6 +14966,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -14288,6 +15041,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
@@ -14335,6 +15091,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -14407,6 +15166,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
@@ -14455,6 +15217,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -14496,6 +15261,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
     "syllabusLinks": []
@@ -14537,6 +15305,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515001",
     "syllabusLinks": []
@@ -14593,6 +15364,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871113",
     "syllabusLinks": []
@@ -14649,6 +15423,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "科研 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03057",
     "syllabusLinks": [
@@ -14659,7 +15436,7 @@
     "code": "3105055",
     "description": {
       "zh": "1. 簡介 2. 類神經網路（ANN）應用 2-1 ANN 基礎 2-2 類神經網路 3. 模糊邏輯基礎 3-1 模糊邏輯基礎 3-2 模糊控制應用 4. 基因演算法 4-1 概述 4-2 基因演算法在控制器調制之應用",
-      "en": "1 Introduction2 Application of artificial neural networks (ANN)2-1 ANN fundamentals2-2 Neur-control3 Fuzzy logic control3-1 Fuzzy logic basics3-2 Application of Fuzzy Control4 Genetic algorithms4-1 Preliminarg    4-2 Tuning of Controllers using genetic algorithms"
+      "en": "1 Introduction2 Application of artificial neural networks (ANN)2-1 ANN fundamentals2-2 Neur-control3 Fuzzy logic control3-1 Fuzzy logic basics3-2 Application of Fuzzy Control4 Genetic algorithms4-1 Preliminarg4-2 Tuning of Controllers using genetic algorithms"
     },
     "id": "366226",
     "name": {
@@ -14708,6 +15485,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "預選限 8 人, 綜科 514",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105055",
     "syllabusLinks": [
@@ -14718,7 +15498,7 @@
     "code": "A405114",
     "description": {
       "zh": "本課程主要以公平交易法與營業秘密法之立法目的、沿革及發展趨勢為出發點，探討此二法律在規範對象、方法及競合等之差異；深入分析公平交易法與營業秘密法之內涵，進而個別探討公平交易法與營業秘密法等之智財權利行使的課題。",
-      "en": "This course majors in the purpose, evolution, and development trend of legislation on the Fair Trade Act and the Trade Secret Act, with an attempt to differentiate between the two Acts in respect of objects, approaches, and choice of law that the Acts apply to.  In this course, analyses are also made, in depth, on the essence of the Fair Trade Act and the Trade Secret Act, together with discussion, respectively, on implementation of Intellectual Property Rights involved in the Fair Trade Act and the Trade Secret Act."
+      "en": "This course majors in the purpose, evolution, and development trend of legislation on the Fair Trade Act and the Trade Secret Act, with an attempt to differentiate between the two Acts in respect of objects, approaches, and choice of law that the Acts apply to. In this course, analyses are also made, in depth, on the essence of the Fair Trade Act and the Trade Secret Act, together with discussion, respectively, on implementation of Intellectual Property Rights involved in the Fair Trade Act and the Trade Secret Act."
     },
     "id": "366247",
     "name": {
@@ -14767,6 +15547,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "先鋒 1402 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405114",
     "syllabusLinks": [
@@ -14825,6 +15608,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "先鋒 1402 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405153",
     "syllabusLinks": [
@@ -14835,7 +15621,7 @@
     "code": "A405005",
     "description": {
       "zh": "本課程將探討 (1) 智財商業模式與智財交易 (2) 英美契約法 (3) 智財授權契約規範 (4) 授權程序與稽核 (5) 技術合作契約 (6) 智財合資契約及章程",
-      "en": "This course will illustrate the following issues: (1) IP Business Model and IP Transactions, (2) Anglo-American Contract Law,  (3) Definition,  Regulation, Types & Management of IP License,  (4)License Agreement Auditing for Licensing Business, (5)  Technical Cooperation Contract, (6) IP Joint Venture Contract and Articles of Association."
+      "en": "This course will illustrate the following issues: (1) IP Business Model and IP Transactions, (2) Anglo-American Contract Law, (3) Definition, Regulation, Types & Management of IP License, (4)License Agreement Auditing for Licensing Business, (5) Technical Cooperation Contract, (6) IP Joint Venture Contract and Articles of Association."
     },
     "id": "366249",
     "name": {
@@ -14884,6 +15670,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405005",
     "syllabusLinks": [
@@ -14942,6 +15731,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "先鋒 1402 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405191",
     "syllabusLinks": [
@@ -14952,7 +15744,7 @@
     "code": "A405106",
     "description": {
       "zh": "本課程旨在使學員掌握 (1) 併購法規架構、 (2) 併購實務、 (3) 併購英文，中長目標為：培育併購律師、法務長、財經法官。",
-      "en": "This course is to achieve the following purposes:(1)\tTo understand the structure of M&A laws.(2)\tTo be familiar with M&A practice.(3)\tTo be fluent in M&A EnglishFor the mid-long term goals, this course is to cultivate M&A lawyer, chief legal officer and financial-economic law judge."
+      "en": "This course is to achieve the following purposes:(1) To understand the structure of M&A laws.(2) To be familiar with M&A practice.(3) To be fluent in M&A EnglishFor the mid-long term goals, this course is to cultivate M&A lawyer, chief legal officer and financial-economic law judge."
     },
     "id": "366251",
     "name": {
@@ -15001,6 +15793,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "行政_第二專長【教務處教資中心_創新創業】",
     "notes": "先鋒 1401 教室; 新聘專任教師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405106",
     "syllabusLinks": [
@@ -15011,7 +15806,7 @@
     "code": "5211432",
     "description": {
       "zh": "本課程以都市再生理念為中心，講述推動都市再生過程中面對相關文化資產保存議題之理論與實際操作架構。第一部份探討歷史文化保存相關理念手法。第二部份探討各國文化保存再生案例實踐之相關課題與借鏡，第三部份針對台灣本土都市更新過程中面臨歷史文化保存議題深入研討。",
-      "en": "This course regards urban revitalization as the central concept to discuss about the theory & implementation of history & culture conservation issues of urban revitalization. This course consisted of three parts. The first part is considered of relevant concepts & strategies of history and culture conservation. The second part is to survey different implemented examples of history and culture conservation of different country. The third part involves the regional issues by local-oriented issues of Taiwan. A few of cultural conservation topics are introduced to be further interpreted."
+      "en": "This course regards urban revitalization as the central concept to discuss about the theory & implementation of history & culture conservation issues of urban revitalization. This course consisted of three parts.The first part is considered of relevant concepts & strategies of history and culture conservation. The second part is to survey different implemented examples of history and culture conservation of different country. The third part involves the regional issues by local-oriented issues of Taiwan. A few of cultural conservation topics are introduced to be further interpreted."
     },
     "id": "366269",
     "name": {
@@ -15050,6 +15845,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "永續環境設計學程",
     "notes": "停開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211432",
     "syllabusLinks": [
@@ -15109,6 +15907,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505203",
     "syllabusLinks": [
@@ -15168,6 +15969,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615035",
     "syllabusLinks": [
@@ -15211,6 +16015,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二生需上及下學期各一次選課紀錄",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06101",
     "syllabusLinks": []
@@ -15266,6 +16073,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "限碩二選課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7306006",
     "syllabusLinks": [
@@ -15325,6 +16135,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "機電_第二專長【能源冷凍空調系_冷凍空調】\n綠能與節能微學程",
     "notes": "限雙數號學生上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501505",
     "syllabusLinks": [
@@ -15374,6 +16187,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "雙號 - 暑假 7/4~8/29 開課，每周六上課六小時，六教 325",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502111",
     "syllabusLinks": [
@@ -15384,7 +16200,7 @@
     "code": "3105032",
     "description": {
       "zh": "1. 數位通訊系統簡介 2. 隨機程序 3. 數位調變與多工技術 4. 最佳接收器 5. 載波與符碼同步 6. 消息理論 7. 訊源編碼 8. 通道編碼 9. 展頻通訊系統 10. 行動通訊系統",
-      "en": "1. Introduction 2. Random Processes3. Digital Modulation and Multiplexing4. Optimal Receiver5. Carrier and Symbol Synchronization6. Information Theory7. Source Coding 8. Channel Coding9. Spread Spectrum Systems10. Mobile Communication Systems"
+      "en": "1. Introduction2. Random Processes3. Digital Modulation and Multiplexing4. Optimal Receiver5. Carrier and Symbol Synchronization6. Information Theory7. Source Coding8. Channel Coding9. Spread Spectrum Systems10. Mobile Communication Systems"
     },
     "id": "366572",
     "name": {
@@ -15433,6 +16249,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105032",
     "syllabusLinks": [
@@ -15443,7 +16262,7 @@
     "code": "3603054",
     "description": {
       "zh": "線性代數為工程類學科之基礎數學之一, 著重於訓練學生矩陣運算及基本數學証明. 課程大綱如下：1. 解聯立方程式 2. 矩陣運算 3. 行列式 4. 向量空間 5. 線性轉換 6. 特徵值及特徵向量 7. 選擇性題材, 視時間充許教授下列之一：矩陣數值方法, Jordan form ,或線性規劃",
-      "en": "As a basic mathematics in engineering,the course Linear Algebraemphasizes on the subjest of matrix computation(theory) and thetechnique of mathematical proving.The outline of the course includes the following:1.Systems of Linear Equations2.Matrices3.Determinants4.Vector Spaces5.Linear Transformations6.Eigenvalues and Eigenvectors7.Advanced Topics: selet one of the following if time permitted:  Numerical Techniques in Matrix operations,Jordan form,or     Linear Programming."
+      "en": "As a basic mathematics in engineering,the course Linear Algebraemphasizes on the subjest of matrix computation(theory) and thetechnique of mathematical proving.The outline of the courseincludes the following:1.Systems of Linear Equations2.Matrices3.Determinants4.Vector Spaces5.Linear Transformations6.Eigenvalues and Eigenvectors7.Advanced Topics: selet one of the following if time permitted:Numerical Techniques in Matrix operations,Jordan form,orLinear Programming."
     },
     "id": "366593",
     "name": {
@@ -15488,10 +16307,13 @@
         "code": "42"
       }
     ],
-    "people": "41",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "人工智慧科技學程\n人工智慧與深度學習微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603054",
     "syllabusLinks": [
@@ -15502,7 +16324,7 @@
     "code": "3602050",
     "description": {
       "zh": "瞭解程式語言所常用之各種資結構，１.抽象資料類別及運算複雜度之概念，２.靜態結構及其儲存法，３.遞迴、堆疊、前序、中序、後序運算式，４.佇列，５.串列、鏈結串列，６.樹、二元樹、平衡樹、堆積，７.圖形，８.排序，９.搜尋、雜湊。",
-      "en": "This course is mainly aimed at introducing the data  structures commonly used in programming languages, including: (1) the concept of ADT (abstract data type) and computational complexity, (2) static structures and their storage representations , (3) recursion, stacks, and prefix, infix, and posfix expressions, (4) queues, (5) lists and linked lists, (6) trees, binary trees, height balanced trees, and heaps,  (7) graphs, (8) soring, and (9) searching and hashing."
+      "en": "This course is mainly aimed at introducing the data structures commonly used in programming languages, including: (1) the concept of ADT (abstract data type) and computational complexity, (2) static structures and their storage representations , (3) recursion, stacks, and prefix, infix, and posfix expressions, (4) queues, (5) lists and linked lists, (6) trees, binary trees, height balanced trees, and heaps, (7) graphs, (8) soring, and (9) searching and hashing."
     },
     "id": "366594",
     "name": {
@@ -15551,6 +16373,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "軟體工程學程\n人工智慧科技學程\n人工智慧與深度學習微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602050",
     "syllabusLinks": [
@@ -15610,6 +16435,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "低軌衛星系統應用微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602068",
     "syllabusLinks": [
@@ -15620,7 +16448,7 @@
     "code": "3603059",
     "description": {
       "zh": "1. 發展歷史與演進 2. 程序觀念 3. 非同步平行程序 4. 死結及無限等待 5. 主記憶體管理 6. 虛擬記憶體結構與管理 7. 處理器排程 8. 磁碟管理 9. 網路及系統安全",
-      "en": "1.History and evolution 2.Process concepts3.ASynchronous concurrent processes4.Desdlock and indefinite postponrmrnt5.Real storage management6.Virtual storage organization and management 7.Processor scheduling 8.Disk mansgement9.Network and security"
+      "en": "1.History and evolution2.Process concepts3.ASynchronous concurrent processes4.Desdlock and indefinite postponrmrnt5.Real storage management6.Virtual storage organization and management7.Processor scheduling8.Disk mansgement9.Network and security"
     },
     "id": "366596",
     "name": {
@@ -15669,6 +16497,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "低軌衛星通訊與接取網路微學程",
     "notes": "綜科 501",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603059",
     "syllabusLinks": [
@@ -15679,7 +16510,7 @@
     "code": "3603097",
     "description": {
       "zh": "本課程在訓練學生如何使用硬體描述語言來分析與設計數位積體電路及系統, 進而能培養學生具有設計積體電路的能力, 課程內容包括： 1. 電腦輔助設計積體電路介紹 2. 硬體描述語言程式設計與模擬介紹 3. 積體電路設計軟體之介紹及使用 (Verilog) 4.FPGA (Xilinx) 的設計 5. 專題設計",
-      "en": "This course is trained the student to use hardware-description language tools for the analysis and simulation of integrated circuits(digital & analysis) .Therefore, the student have the design capability of integrated circuit. The contents of this course: 1.Introduction to the Computer-aided IC design 2.System design using hardware description language 3.Introduction to the computer-aided design of digital integrated circuits (Verilog) and computer-exercise 4.FPGA(XILINX)design and computer-exercise 5.Project"
+      "en": "This course is trained the student to use hardware-description language tools for the analysis and simulation of integrated circuits(digital & analysis) .Therefore, the student have the design capability of integrated circuit. The contents of this course:1.Introduction to the Computer-aided IC design2.System design using hardware description language3.Introduction to the computer-aided design of digital integrated circuits (Verilog) and computer-exercise4.FPGA(XILINX)design and computer-exercise5.Project"
     },
     "id": "366598",
     "name": {
@@ -15712,6 +16543,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603097",
     "syllabusLinks": []
@@ -15719,7 +16553,7 @@
   {
     "code": "3605001",
     "description": {
-      "zh": "專題報告專題演講 研究小組討論",
+      "zh": "專題報告專題演講研究小組討論",
       "en": "Case Study.Seminar.Group meeting."
     },
     "id": "366599",
@@ -15768,6 +16602,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
     "syllabusLinks": [
@@ -15778,7 +16615,7 @@
     "code": "3602054",
     "description": {
       "zh": "瞭解微算機之基本組織架構及應用，內容包含：1.PC 之使用，2. 微電腦學習機之使用，3. 邏輯分析儀之使用，4. 組合語言之設計與除錯，5. 記憶體設計 ROM/RAM，6. 輸出入埠設計及程式控制，7. 輸出入埠應用 (鍵盤介面、LED 顯示介面)，8.A/D、D/A 介面設計，9. 簡單 PC 介面卡設計 (PIO 及 SIO) 介面，單晶片之設計與應用。",
-      "en": "The experiment covers the basic architecture and application of microcomputer.The lab. work includes:1.The usage of PC2.The usage of microcomputer training machine3.Logic analysis4.The design and debug of assembly language5.ROM/RAM design6.I/O design and control 7.A/D, D/A design8.PC interfacing design9.Single-chip microcomputer system design"
+      "en": "The experiment covers the basic architecture and applicationof microcomputer.The lab. work includes:1.The usage of PC2.The usage of microcomputer training machine3.Logic analysis4.The design and debug of assembly language5.ROM/RAM design6.I/O design and control7.A/D, D/A design8.PC interfacing design9.Single-chip microcomputer system design"
     },
     "id": "366600",
     "name": {
@@ -15811,6 +16648,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "電資_第二專長【電子系_積體電路與系統設計】",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602054",
     "syllabusLinks": []
@@ -15819,7 +16659,7 @@
     "code": "3603062",
     "description": {
       "zh": "本課程內容包括邏輯閘的特性與功能測試，能利用積體電路完成各種基礎邏輯電路的組裝及設計，並能利用電子儀器進行量測、檢修。探討最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之 VLSI 設計，使用 MSI 與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI 之設計與測試技巧，各種 CAD 軟體工具介紹。基礎邏輯閘實驗、組合邏輯實驗、加法器及減法器實驗、組合邏輯應用實驗、正反器邏輯實驗、循序邏輯電路應用實驗。",
-      "en": "1.Properties and function tests of logic gates. 2. Implementations of and designs of basic logic circuits using ICs. 3.Algorithms for the optimization of combinational logic circuits. 4.Programmable logic devices. 5.VLSI design of combinational logic circuits. 6.Multi-layer logic circuits using MSI and standard circuit  elements. 7.Gate array design. 8.Sequential Logic components. 9.Analysis and synthesis of sequential Logic circuits. 10. Technologies of VLSI design and test. 11. CAD software tools. 12.Basic logic gate experiments. 13.Combinational logic experiments. 14. Adder and subtractor experiments. 15. Combinational logic application experiments. 16. Flip-flop experiments. 17. Sequential circuit application experiments."
+      "en": "1.Properties and function tests of logic gates. 2. Implementations of and designs of basic logic circuits using ICs. 3.Algorithms for the optimization of combinational logic circuits. 4.Programmable logic devices. 5.VLSI design of combinational logic circuits. 6.Multi-layer logic circuits using MSI and standard circuit elements. 7.Gate array design. 8.Sequential Logic components. 9.Analysis and synthesis of sequential Logic circuits. 10. Technologies of VLSI design and test. 11. CAD software tools. 12.Basic logic gate experiments. 13.Combinational logic experiments. 14. Adder and subtractor experiments. 15. Combinational logic application experiments. 16. Flip-flop experiments. 17. Sequential circuit application experiments."
     },
     "id": "366603",
     "name": {
@@ -15852,6 +16692,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "電資_第二專長【電子系_積體電路與系統設計】",
     "notes": "訓練場代開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603062",
     "syllabusLinks": []
@@ -15909,6 +16752,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 514, 限職電機所電力組學生修讀。限 8 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105018",
     "syllabusLinks": [
@@ -15968,6 +16814,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603100",
     "syllabusLinks": [
@@ -16027,6 +16876,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "四甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713015",
     "syllabusLinks": [
@@ -16086,6 +16938,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503603",
     "syllabusLinks": [
@@ -16096,7 +16951,7 @@
     "code": "5105001",
     "description": {
       "zh": "本課程將透過每週專題演講方式，讓學生了解有機材料之最新開發成品或最先進之研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
-      "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area.  Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
+      "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area. Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
     },
     "id": "366639",
     "name": {
@@ -16144,6 +16999,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "研二 (教室 207)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
     "syllabusLinks": [
@@ -16203,6 +17061,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "生醫材料學程",
     "notes": "教室 207",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105021",
     "syllabusLinks": [
@@ -16266,6 +17127,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 3) 工業與科技管理 (關聯群 7)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
     "syllabusLinks": [
@@ -16331,6 +17195,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 7) 資訊管理 (關聯群 6)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
     "syllabusLinks": [
@@ -16396,6 +17263,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
@@ -16472,6 +17342,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
@@ -16551,6 +17424,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C255055",
     "syllabusLinks": [
@@ -16625,10 +17501,13 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265003",
     "syllabusLinks": [
@@ -16707,6 +17586,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245004",
     "syllabusLinks": [
@@ -16785,6 +17667,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩一 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245039",
     "syllabusLinks": [
@@ -16845,6 +17730,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "共同 302",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906003",
     "syllabusLinks": [
@@ -16855,7 +17743,7 @@
     "code": "4905581",
     "description": {
       "zh": "組織行為是採用分析的方法，了解研究解個體行為在個人、團體、組織三個層次中的行為表現，並應用相關學理知識提高組織效能，尤其將焦點放在如何提高員工的生產力、降低離職率與曠職率，增加滿意度等四個變項上。",
-      "en": "Organizational behavior (OB) is a field of research that investigates the impact that individuals, groups, and structure have on behavior within an organization, and then it applies that knowledge to make organizations work more effectively.  Specifically, OB focuses on how to improve productivity, reduce absenteeism and turnover, and increase employee citizenship and job satisfaction."
+      "en": "Organizational behavior (OB) is a field of research that investigates the impact that individuals, groups, and structure have on behavior within an organization, and then it applies that knowledge to make organizations work more effectively. Specifically, OB focuses on how to improve productivity, reduce absenteeism and turnover, and increase employee citizenship and job satisfaction."
     },
     "id": "366697",
     "name": {
@@ -16903,6 +17791,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "共同 302",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905581",
     "syllabusLinks": [
@@ -16977,6 +17868,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理和經營策略實務",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
     "syllabusLinks": [
@@ -17041,6 +17935,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 8) 社會人文藝術與其他領域",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215039",
     "syllabusLinks": [
@@ -17111,10 +18008,13 @@
         "code": "490"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
@@ -17195,6 +18095,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215023",
     "syllabusLinks": [
@@ -17207,7 +18110,7 @@
     "code": "4906403",
     "description": {
       "zh": "本課程在探究技職教育的本質、目標、歷史發展及相關哲學思潮，期培養學生發展批判思考能力分析技職教育相關議題。",
-      "en": "This course is designed to investigate the purpose, essence, history,    and related philosophical thinking of Vocational and Technological Technical Education (VTE)；to develop students forming critical thinking to analyze the current issues in VTE."
+      "en": "This course is designed to investigate the purpose, essence, history, and related philosophical thinking of Vocational and Technological Technical Education (VTE)；to develop students forming critical thinking to analyze the current issues in VTE."
     },
     "id": "366731",
     "name": {
@@ -17255,6 +18158,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "共同 302",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906403",
     "syllabusLinks": [
@@ -17265,7 +18171,7 @@
     "code": "5826151",
     "description": {
       "zh": "藉由國內外設計競賽主題與產學合作設計案進行實際演練，著重於資料蒐集、商品分析、創新構想與成果表達之進階能力養成，期讓學生在國內外設計競賽舞台上展現光芒，在產學合作中習得實務經驗並獲致產業界肯定。因此本課程旨在以實際演練達成兼具創新性與商品化專業設計能力養成。",
-      "en": "Advanced Product Design (I) educates students to identify and resolve design problems - innovatively and with sensitivity to the social, physical and ecological environment.  Students learn to analyze and solve diverse design problems from technical, aesthetic, social and ecological viewpoints. Students are given the resources to identify, expand and test personal and professional development through an intensive exploration of design ideas.  Innovation is stressed, along with the ability to refine formal design issues.  There are numerous opportunities for students to work with industry through corporate-sponsored studio projects and design competitions."
+      "en": "Advanced Product Design (I) educates students to identify and resolve design problems - innovatively and with sensitivity to the social, physical and ecological environment. Students learn to analyze and solve diverse design problems from technical, aesthetic, social and ecological viewpoints. Students are given the resources to identify, expand and test personal and professional development through an intensive exploration of design ideas. Innovation is stressed, along with the ability to refine formal design issues. There are numerous opportunities for students to work with industry through corporate-sponsored studio projects and design competitions."
     },
     "id": "366732",
     "name": {
@@ -17315,6 +18221,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "設計 306 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5826151",
     "syllabusLinks": [
@@ -17357,7 +18266,10 @@
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
@@ -17398,7 +18310,10 @@
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
     "syllabusLinks": []
@@ -17439,7 +18354,10 @@
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275001",
     "syllabusLinks": []
@@ -17480,7 +18398,10 @@
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA，碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275024",
     "syllabusLinks": []
@@ -17522,6 +18443,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275014",
     "syllabusLinks": []
@@ -17563,6 +18487,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275015",
     "syllabusLinks": []
@@ -17620,6 +18547,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "綜科 327",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006005",
     "syllabusLinks": [
@@ -17629,7 +18559,7 @@
   {
     "code": "3704046",
     "description": {
-      "zh": "本課程中包含下列主題：1. 簡介；2. 電子商店的行銷策略；3. 電子商店的建   置；4. 電子商店的經營與管理；5. 電子商店的法律問題；6. 案例介紹；7. 結論。",
+      "zh": "本課程中包含下列主題：1. 簡介；2. 電子商店的行銷策略；3. 電子商店的建 置；4. 電子商店的經營與管理；5. 電子商店的法律問題；6. 案例介紹；7. 結論。",
       "en": "In the course, the following topics will be discussed：1.Overview of EC；2.The marketing strategies of EC；3.How to install an EC；4.The management of EC；5.The current problems of EC；6.Cases study；7.Conclusion。"
     },
     "id": "366763",
@@ -17679,6 +18609,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "四甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704046",
     "syllabusLinks": [
@@ -17737,6 +18670,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "生醫材料學程",
     "notes": "自然與科學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1416004",
     "syllabusLinks": [
@@ -17795,6 +18731,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "創新與創業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418012",
     "syllabusLinks": [
@@ -17853,6 +18792,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "低碳與永續管理微學程",
     "notes": "自然與科學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1416009",
     "syllabusLinks": [
@@ -17863,7 +18805,7 @@
     "code": "1411004",
     "description": {
       "zh": "中國文化博大精深，淵源流長，是以本課程講授內容在於介紹中國文化的特徵，如人類的起源、文化的演進、農業社會的產生、政治制度的發展、學術思想的演變、教育設施、科學與藝術的發展、工商業的發展，以及宗教信仰等，都是本課程所要探討的內容。藉此引導學生掌握古今之間的相關性，並探索中國傳統文化對台灣、東亞與世界的影響。",
-      "en": "Chinese culture is broad and profound, so the course introduces the characteristics of it.  It includes the origin of Chinese races, the changes of the culture and the academic thoughts, the formation of the agricultural society, the developments on politics, sciences, arts, and religions……etc. The students are expected to understand the relationship between the ancient and modern China and then do further research about the influences of the traditional culture of China on Taiwan, the eastern Asia and the whole world."
+      "en": "Chinese culture is broad and profound, so the course introduces the characteristics of it. It includes the origin of Chinese races, the changes of the culture and the academic thoughts, the formation of the agricultural society, the developments on politics, sciences, arts, and religions……etc. The students are expected to understand the relationship between the ancient and modern China and then do further research about the influences of the traditional culture of China on Taiwan, the eastern Asia and the whole world."
     },
     "id": "366767",
     "name": {
@@ -17911,6 +18853,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1411004",
     "syllabusLinks": [
@@ -17969,6 +18914,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410111",
     "syllabusLinks": [
@@ -18027,6 +18975,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415019",
     "syllabusLinks": [
@@ -18085,6 +19036,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1414001",
     "syllabusLinks": [
@@ -18151,6 +19105,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
@@ -18212,6 +19169,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "是",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705466",
     "syllabusLinks": []
@@ -18263,7 +19223,10 @@
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515015",
     "syllabusLinks": [
@@ -18275,7 +19238,7 @@
     "code": "C515022",
     "description": {
       "zh": "本課程主要分為專利權的觀念建立，及並以自然語言處理（NLP）作為主要工具，專利權進行量化分析。專利權部份：壹、保護創新：1. 如何透過專利保護科技創新、2. 專利的迷思。貳、專利與創新：1. 如何由需求或靈感取得創新、2. 如何使創新轉化為實質專利 3. 如何從專利撰寫演化出創新。參、專利概念與規法：1. 我國專利體系介紹、2. 專利相關法規之介紹、3. 專利取得的流程、4. 發明專利實體審查基、5. 專利說明書及圖示的撰寫格式、6. 何謂發明單一性及優先權的使用。肆、專利說明書搜尋及閱讀：1. 各國專利的搜尋引擎、2. 專利工具的使用、3. 閱讀專利說明書。伍、專利說明書的撰寫與申請：1. 專利說明書撰寫之重要 2. 專利說明書之格式 3. 專利說明書之撰寫技巧。陸、專利戰略與佈局：1. 商戰專利佈局模式、2. 專利舉發實務、3. 專利舉發方式、4. 專利舉發程序、5. 專利舉發策略運用、6. 舉發撤銷要件。柒、專利侵害及訴訟實例：1. 從案例中學習專利侵害的攻防與法院訴訟的爭點、2. 專家演講 (法官，技審官，審查官，律師) 邀請領域的專家分享實務經驗。專利權數據部份：壹、專利數據收集：深入探討數據清理，篩選，確保學生能夠為分析準備適當的數據集",
-      "en": "Patent-related aspects include:1.\tProtecting Innovation: Learn how to protect technological innovations through patents and debunk common myths surrounding patents.2.\tPatent and Innovation: Understand how to derive innovation from demands or inspirations, turn innovations into substantial patents, and evolve innovations from patent writing.3.\tPatent Concepts and Laws: Get introduced to the patent system in our country, learn about related regulations, understand the process of acquiring a patent, delve into invention patent review basics, and learn the format of writing patent specifications and illustrations. Furthermore, understand what constitutes an invention's singularity and the use of priority rights.4.\tSearching and Reading Patent Specifications: Get accustomed to search engines of patents across various countries and patent tools, and learn how to read patent specifications.5.\tWriting and Applying Patent Specifications: Understand the importance of patent specificati"
+      "en": "Patent-related aspects include:1. Protecting Innovation: Learn how to protect technological innovations through patents and debunk common myths surrounding patents.2. Patent and Innovation: Understand how to derive innovation from demands or inspirations, turn innovations into substantial patents, and evolve innovations from patent writing.3. Patent Concepts and Laws: Get introduced to the patent system in our country, learn about related regulations, understand the process of acquiring a patent, delve into invention patent review basics, and learn the format of writing patent specifications and illustrations. Furthermore, understand what constitutes an invention's singularity and the use of priority rights.4. Searching and Reading Patent Specifications: Get accustomed to search engines of patents across various countries and patent tools, and learn how to read patent specifications.5. Writing and Applying Patent Specifications: Understand the importance of patent specificati"
     },
     "id": "366985",
     "name": {
@@ -18313,7 +19276,10 @@
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515022",
     "syllabusLinks": [
@@ -18356,7 +19322,10 @@
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA, 碩二修【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
     "syllabusLinks": []
@@ -18397,7 +19366,10 @@
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA, 碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
@@ -18438,7 +19410,10 @@
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "UTA, 碩一修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
     "syllabusLinks": []
@@ -18485,7 +19460,10 @@
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "半導體科技學程",
     "notes": "碩一修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515019",
     "syllabusLinks": [
@@ -18544,6 +19522,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "(群組 6) 財金管理領域，劉福運 (新聘) 2.0",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285029",
     "syllabusLinks": [
@@ -18604,6 +19585,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "光華 409，限本系生，限碩一 (碩二勿選)，自備 MAC 筆電",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05232",
     "syllabusLinks": [
@@ -18658,10 +19642,13 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
@@ -18706,6 +19693,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5807001",
     "syllabusLinks": []
@@ -18747,6 +19737,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A406001",
     "syllabusLinks": []
@@ -18788,6 +19781,9 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "大同大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
     "syllabusLinks": []
@@ -18829,7 +19825,142 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
     "notes": "大同大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367449",
+    "name": {
+      "zh": "數位系統設計",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "宏國德霖科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "367451",
+    "name": {
+      "zh": "物件導向程式設計",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "宏國德霖科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371910",
+    "name": {
+      "zh": "機動學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "海洋大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
     "syllabusLinks": []
   }
