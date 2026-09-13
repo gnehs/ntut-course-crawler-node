@@ -1,14 +1,19 @@
-name: fetch current mprograms
+name: fetch current programs
 
 on:
   push:
     branches:
       - 蹦蹦
+  workflow_dispatch:
   schedule:
     - cron: "0 0 */1 * *"
 
 jobs:
   FetchMProgram:
+    concurrency:
+      group: course-data-gh-pages
+      queue: max
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -20,6 +25,8 @@ jobs:
         run: npm ci
       - name: Fetch micro program data
         run: node fetchMProgram.js
+      - name: Fetch general program data
+        run: node fetchPrograms.js
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

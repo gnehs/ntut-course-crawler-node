@@ -4,11 +4,16 @@ on:
   push:
     branches:
       - 蹦蹦
+  workflow_dispatch:
   schedule:
     - cron: "0 0 1 * *"
 
 jobs:
   FetchStandards:
+    concurrency:
+      group: course-data-gh-pages
+      queue: max
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -20,6 +25,8 @@ jobs:
         run: npm ci
       - name: Fetch department data
         run: node fetchStandards.js
+      - name: Fetch core competency data
+        run: node fetchCompetencies.js
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

@@ -3,7 +3,7 @@ const fetchYearSem = require("./crawler/fetchYearSem");
 const { fetchCourse } = require("./crawler/fetchCourse");
 
 (async () => {
-  let year, sem;
+  let year = process.argv[3], sem = process.argv[4];
   let departmentList = [
     "日間部",
     "進修部",
@@ -28,4 +28,7 @@ const { fetchCourse } = require("./crawler/fetchCourse");
     ]);
     console.log("All done!");
   }
-})();
+})().catch((error) => {
+  console.error(error.message);
+  process.exitCode = 1;
+});

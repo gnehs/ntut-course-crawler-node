@@ -9,6 +9,10 @@ on:
 
 jobs:
   Analytics:
+    concurrency:
+      group: course-data-gh-pages
+      queue: max
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6

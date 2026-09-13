@@ -4,44 +4,81 @@ const fs = require("fs");
 const axios = require("axios").default;
 const axiosRetry = require("axios-retry").default;
 const pangu = require("./tools/pangu").spacing;
+const { parseQueryCourseHtml } = require("./parsers/queryCourse");
 const globalRegexParse = /\n|^ | $/g;
 axiosRetry(axios, { retries: 3 });
-async function fetchCourseDescription(url = "Curr.jsp?format=-2&code=1400037") {
-  let $ = await fetchSinglePage("https://aps.ntut.edu.tw/course/tw/" + url);
-  let res = {
-    code: $("body > table > tbody > tr:nth-child(2) > td:nth-child(1)")
-      .text()
-      .trim()
-      .replace(globalRegexParse, ""),
+function normaliseDescriptionText(value) {
+  return String(value ?? "")
+    .replace(/\r\n?/g, "\n")
+    .split("\n")
+    .map((line) => line.replace(/[ \t]+/g, " ").trim())
+    .join("\n")
+    .trim()
+    .replace(globalRegexParse, "");
+}
+
+function findCourseDescriptionTable($) {
+  return $("table")
+    .toArray()
+    .find((table) => {
+      const header = normaliseDescriptionText($(table).find("tr").first().text());
+      return (
+        /課程編碼|Course\s*Code/i.test(header) &&
+        /課程名稱|Course\s*Name/i.test(header)
+      );
+    });
+}
+
+async function fetchCourseDescription(
+  url = "Curr.jsp?format=-2&code=1400037",
+  fetchPage = fetchSinglePage
+) {
+  if (typeof fetchPage !== "function") {
+    throw new TypeError("fetchCourseDescription expects a page fetch function");
+  }
+  const $ = await fetchPage("https://aps.ntut.edu.tw/course/tw/" + url);
+  if (typeof $ !== "function") {
+    throw new Error("Course description response is not an HTML document");
+  }
+
+  const table = findCourseDescriptionTable($);
+  if (!table) {
+    throw new Error("Course description table not found");
+  }
+  const rows = $(table).find("tr").toArray();
+  if (rows.length < 2) {
+    throw new Error("Course description table has no data row");
+  }
+
+  const dataCells = $(rows[1]).children("th,td");
+  if (dataCells.length < 3) {
+    throw new Error("Course description data row is missing name columns");
+  }
+  const code = normaliseDescriptionText($(dataCells[0]).text());
+  const zhName = normaliseDescriptionText($(dataCells[1]).text());
+  const enName = normaliseDescriptionText($(dataCells[2]).text());
+  if (!code || !zhName) {
+    throw new Error("Course description is missing course code or Chinese name");
+  }
+
+  const descriptionCell = (rowIndex) => {
+    if (!rows[rowIndex]) return "";
+    const cells = $(rows[rowIndex]).children("th,td");
+    return normaliseDescriptionText(cells.last().text());
+  };
+  return {
+    code,
     name: {
-      zh: pangu(
-        $("body > table > tbody > tr:nth-child(2) > td:nth-child(2)")
-          .text()
-          .trim()
-          .replace(globalRegexParse, "")
-      ),
-      en: $("body > table > tbody > tr:nth-child(2) > td:nth-child(3)")
-        .text()
-        .trim()
-        .replace(globalRegexParse, ""),
+      zh: pangu(zhName),
+      // Some older records use Nil for the English name. Preserve the valid
+      // Chinese name while representing the unavailable translation as empty.
+      en: enName === "Nil" ? "" : enName,
     },
     description: {
-      zh: pangu(
-        $("body > table > tbody > tr:nth-child(3) > td")
-          .text()
-          .trim()
-          .replace(globalRegexParse, "")
-      ),
-      en: $("body > table > tbody > tr:nth-child(4) > td")
-        .text()
-        .trim()
-        .replace(globalRegexParse, ""),
+      zh: pangu(descriptionCell(2)),
+      en: descriptionCell(3),
     },
   };
-  if (res.name.en == "Nil") {
-    res.name = { zh: "", en: "" };
-  }
-  return res;
 }
 
 async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
@@ -66,96 +103,18 @@ async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
       },
     }
   );
-  $("tr:first-child").remove();
-  $("tr:last-child").remove();
-  $("tr:last-child").remove();
-  $("tr:last-child").remove();
-  let courseData = $("tr")
-    .map(function () {
-      function parseLinks(els) {
-        let res = [];
-        for (let el of els)
-          res.push({
-            name: $(el).text().replace(globalRegexParse, ""),
-            link: $(el).attr("href"),
-            code: $(el)
-              .attr("href")
-              .match(/code=(.+)/)[1],
-          });
-        return res;
-      }
-      function parseSyllabusLinks(els) {
-        let res = [];
-        for (let el of els) res.push($(el).attr("href"));
-        return res;
-      }
-      function parseTime(timeString) {
-        let splitedArray = timeString.replace(/\n|^ | $|　/g, "").split(" ");
-        return splitedArray.filter((x) => x.length);
-      }
-      let notes = $($(this).children("td")[20])
-        .text()
-        .replace(globalRegexParse, "");
-
-      if (notes) {
-        notes = pangu(notes);
-        if (notes.length == 1) notes = "";
-      }
-      return {
-        id: $($(this).children("td")[0]).text().replace(globalRegexParse, ""),
-        name: {
-          zh: pangu(
-            $($(this).children("td")[1]).text().replace(globalRegexParse, "")
-          ),
-          en: null,
-        },
-        stage: $($(this).children("td")[2])
-          .text()
-          .replace(globalRegexParse, ""),
-        credit: $($(this).children("td")[3])
-          .text()
-          .replace(globalRegexParse, ""),
-        hours: $($(this).children("td")[4])
-          .text()
-          .replace(globalRegexParse, ""),
-        courseType: $($(this).children("td")[5])
-          .text()
-          .replace(globalRegexParse, ""),
-        class: parseLinks($($(this).children("td")[6]).children("a")),
-        teacher: parseLinks($($(this).children("td")[7]).children("a")),
-        time: {
-          sun: parseTime($($(this).children("td")[8]).text()),
-          mon: parseTime($($(this).children("td")[9]).text()),
-          tue: parseTime($($(this).children("td")[10]).text()),
-          wed: parseTime($($(this).children("td")[11]).text()),
-          thu: parseTime($($(this).children("td")[12]).text()),
-          fri: parseTime($($(this).children("td")[13]).text()),
-          sat: parseTime($($(this).children("td")[14]).text()),
-        },
-        classroom: parseLinks($($(this).children("td")[15]).children("a")).map(
-          (y) => {
-            y.name = y.name.replace(/e$|\(e\)$/, "");
-            return y;
-          }
-        ),
-        people: $($(this).children("td")[16])
-          .text()
-          .replace(globalRegexParse, ""),
-        peopleWithdraw: $($(this).children("td")[17])
-          .text()
-          .replace(globalRegexParse, ""),
-        ta: parseLinks($($(this).children("td")[18]).children("a")),
-        language: "",
-        notes,
-        courseDescriptionLink: $($(this).children("td")[1])
-          .children("a")
-          .attr("href"),
-        syllabusLinks: parseSyllabusLinks(
-          $($(this).children("td")[19]).children("a")
-        ),
-      };
-    })
-    .toArray();
+  let courseData = parseQueryCourseHtml($);
+  if (!Array.isArray(courseData)) {
+    throw new Error(`[fetch] ${matricKey} QueryCourse parser did not return a list`);
+  }
+  if (
+    courseData.some(
+      (course) =>
+        !/^\d+$/.test(String(course.id)) || !course.courseDescriptionLink
+    )
+  ) {
+    throw new Error(`[fetch] ${matricKey} QueryCourse contains an incomplete course row`);
+  }
   let result = [];
   let coursesDone;
 
@@ -175,6 +134,10 @@ async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
       result.push({ ...courseDescriptionData, ...x });
     } catch (e) {
       console.log(`[error][fetch] course description error.`, e);
+      throw new Error(
+        `[fetch] ${matricKey} course description failed for ${x.id}`,
+        { cause: e }
+      );
     }
   }
   console.log(
@@ -187,6 +150,7 @@ async function fetchCourse(matricKey = "日間部", year = 109, sem = 2) {
   );
 
   console.log(`[fetch] ${matricKey} done.`);
+  return result;
 }
 
-module.exports = { fetchCourse };
+module.exports = { fetchCourse, fetchCourseDescription };

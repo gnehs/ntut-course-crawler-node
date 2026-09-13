@@ -1,9 +1,9 @@
-// node fetchCourse.js <m> <year> <sem>
+// node fetchSyllabus.js <m> <year> <sem>
 const fetchYearSem = require("./crawler/fetchYearSem");
 const { fetchSyllabus } = require("./crawler/fetchSyllabus");
 
 (async () => {
-  let year, sem;
+  let year = process.argv[3], sem = process.argv[4];
   let departmentList = [
     "日間部",
     "進修部",
@@ -28,4 +28,7 @@ const { fetchSyllabus } = require("./crawler/fetchSyllabus");
     ]);
     console.log("All done!");
   }
-})();
+})().catch((error) => {
+  console.error(error.message);
+  process.exitCode = 1;
+});

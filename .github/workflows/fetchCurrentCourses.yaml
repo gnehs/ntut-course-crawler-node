@@ -4,11 +4,41 @@ on:
   push:
     branches:
       - 蹦蹦
+  workflow_dispatch:
   schedule:
     - cron: "0 0 */1 * *"
 
 jobs:
+  Prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      year: ${{ steps.semester.outputs.year }}
+      sem: ${{ steps.semester.outputs.sem }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - name: Resolve one semester for every job
+        id: semester
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          require('./crawler/fetchYearSem')().then(({ current }) => {
+            if (!/^\d+$/.test(current.year) || !/^[12]$/.test(String(current.sem))) throw new Error('Invalid semester');
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `year=${current.year}\nsem=${current.sem}\n`);
+          }).catch((error) => { console.error(error.message); process.exitCode = 1; });
+          NODE
+      - uses: actions/upload-artifact@v4
+        with:
+          name: semester-manifest
+          path: ./dist/main.json
+          retention-days: 2
   FetchCurrent:
+    needs: Prepare
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -18,18 +48,17 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 24
-          cache: "npm"
-      - name: Install npm packages
-        run: npm ci
-      - name: fetch course data
-        run: node fetchCourse.js ${{ matrix.department }}
+          cache: npm
+      - run: npm ci
+      - name: Fetch course data
+        run: node fetchCourse.js ${{ matrix.department }} ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
       - uses: actions/upload-artifact@v4
         with:
           name: course-${{ matrix.department }}
           path: ./dist/
           retention-days: 2
   FetchSyllabus:
-    needs: FetchCurrent
+    needs: [Prepare, FetchCurrent]
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -39,38 +68,55 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 24
-          cache: "npm"
-      - name: Install npm packages
-        run: npm ci
-      - name: get artifact
-        uses: actions/download-artifact@v5
+          cache: npm
+      - run: npm ci
+      - uses: actions/download-artifact@v5
         with:
           name: course-${{ matrix.department }}
           path: ./dist/
-          merge-multiple: true
-      - name: fetch course data
-        run: node fetchSyllabus.js ${{ matrix.department }}
+      - name: Fetch syllabus data
+        run: node fetchSyllabus.js ${{ matrix.department }} ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
       - uses: actions/upload-artifact@v4
         with:
           name: syllabus-${{ matrix.department }}
           path: ./dist/
           retention-days: 2
   Deploy:
-    needs: [FetchCurrent, FetchSyllabus]
+    concurrency:
+      group: course-data-gh-pages
+      queue: max
+      cancel-in-progress: false
+    needs: [Prepare, FetchCurrent, FetchSyllabus]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
       - uses: actions/download-artifact@v5
         with:
           pattern: syllabus-*
           path: ./dist/
           merge-multiple: true
-      - name: Show All years
-        run: ls -R
-        working-directory: ./dist/
-      - name: Deploy to GitHub Pages
+      - uses: actions/download-artifact@v5
+        with:
+          name: semester-manifest
+          path: ./dist/
+      - name: Validate snapshot and build syllabus search index
+        id: snapshot
+        run: node finalizeCourseData.js ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
+      - name: Publish manifests and index while preserving other datasets
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           keep_files: true
+      - name: Replace only this semester's complete syllabus directory
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ${{ steps.snapshot.outputs.directory }}
+          destination_dir: ${{ steps.snapshot.outputs.destination }}
+          keep_files: false
