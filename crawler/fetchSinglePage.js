@@ -1,7 +1,23 @@
 const cheerio = require("cheerio");
 const axios = require("axios").default;
 const axiosRetry = require("axios-retry").default;
-axiosRetry(axios, { retries: 10, shouldResetTimeout: true });
+
+const REQUEST_TIMEOUT_MS = 10 * 1000;
+const REQUEST_RETRIES = 2;
+const http = axios.create();
+
+axiosRetry(http, {
+  retries: REQUEST_RETRIES,
+  retryDelay: axiosRetry.exponentialDelay,
+  retryCondition: axiosRetry.isSafeRequestError,
+  shouldResetTimeout: false,
+  onRetry: (retryCount, error, requestConfig) => {
+    console.warn(
+      `[retry] ${requestConfig.url} (${retryCount}/${REQUEST_RETRIES}): ${error.message}`
+    );
+  },
+});
+
 const delay = (s) => new Promise((resolve) => setTimeout(resolve, s));
 
 async function fetchSinglePage(url, options) {
@@ -9,25 +25,26 @@ async function fetchSinglePage(url, options) {
   const resp = await getResp(url, options);
   return cheerio.load(resp.data);
 }
-async function getResp(url, options = {}, retry = 0) {
+async function getResp(url, options = {}) {
+  const now = new Date();
+  const requestedTimeout = options.timeout;
+  const timeout =
+    Number.isFinite(requestedTimeout) && requestedTimeout > 0
+      ? Math.min(requestedTimeout, REQUEST_TIMEOUT_MS)
+      : REQUEST_TIMEOUT_MS;
+
   try {
-    let now = new Date();
-    let result = await axios.request({
+    const result = await http.request({
       method: "GET",
       url,
-      timeout: 10 * 60 * 1000, // 10 minutes,
       ...options,
+      timeout,
     });
     console.log(`[fetch] ${url} done. (${new Date() - now}ms)`);
     return result;
   } catch (e) {
-    if (retry < 10) {
-      retry += 1;
-      await delay(1000 * retry * retry);
-      return getResp(url, options, retry);
-    } else {
-      console.log(`[error] ${url}`);
-    }
+    console.error(`[error] ${url}: ${e.message} (${new Date() - now}ms)`);
+    throw e;
   }
 }
 

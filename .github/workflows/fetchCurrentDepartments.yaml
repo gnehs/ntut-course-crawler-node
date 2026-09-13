@@ -23,6 +23,7 @@ jobs:
       - name: Install npm packages
         run: npm ci
       - name: Fetch department data
+        timeout-minutes: 3
         run: node fetchDepartment.js
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
