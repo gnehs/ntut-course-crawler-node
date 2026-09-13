@@ -3,26 +3,60 @@
 const axios = require("axios").default;
 const fs = require("fs");
 const color = require("colors");
-(async () => {
+const REQUEST_TIMEOUT_MS = 30 * 1000;
+const MAIN_URL =
+  "https://gnehs.github.io/ntut-course-crawler-node/main.json";
+
+function requestOptions() {
+  return {
+    timeout: REQUEST_TIMEOUT_MS,
+    signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
+  };
+}
+
+function errorCode(error) {
+  const candidate =
+    typeof error?.code === "string"
+      ? error.code
+      : typeof error?.name === "string"
+        ? error.name
+        : "unknown";
+  return /^[A-Za-z][A-Za-z0-9_:-]{0,63}$/.test(candidate)
+    ? candidate
+    : "unknown";
+}
+
+async function main() {
   async function fetchCourse(y, s, department) {
+    const startedAt = Date.now();
+    console.log(`[fetch] ${y}-${s} ${department} started`);
     try {
-      let now = new Date();
-      let { data: res } = await axios.get(
+      const { data: res } = await axios.get(
         `https://gnehs.github.io/ntut-course-crawler-node/${y}/${s}/${encodeURI(
           department
-        )}.json`
+        )}.json`,
+        requestOptions()
       );
       console.log(
-        `[fetch] ${y}-${s} ${department}` + ` -- ${new Date() - now}ms`.gray
+        `[fetch] ${y}-${s} ${department} done -- ${Date.now() - startedAt}ms`.gray
       );
       return res;
-    } catch (e) {
-      console.error(`[error] ${y}-${s} ${department} ${e.code}`.red);
+    } catch (error) {
+      console.error(
+        `[error] ${y}-${s} ${department} failed (${errorCode(error)}) after ${
+          Date.now() - startedAt
+        }ms`.red
+      );
       return [];
     }
   }
-  let { data: main } = await axios.get(
-    "https://gnehs.github.io/ntut-course-crawler-node/main.json"
+
+  console.log("[start] withdrawal analytics");
+  const manifestStartedAt = Date.now();
+  console.log("[fetch] course manifest started");
+  let { data: main } = await axios.get(MAIN_URL, requestOptions());
+  console.log(
+    `[fetch] course manifest done -- ${Date.now() - manifestStartedAt}ms`.gray
   );
   main = Object.entries(main)
     .map(([y, s]) => s.map((x) => ({ year: y, sem: x })))
@@ -161,6 +195,8 @@ const color = require("colors");
   filterPeriod(data, 10 + 1, `recent-5-years`); // 最近五年
   filterPeriod(data, 6 + 1, `recent-3-years`); // 最近三年
 
+  console.log("[complete] withdrawal analytics done");
+
   // 推薦博雅課程
   /*
   function getRateByTeachers(teachers) {
@@ -182,4 +218,9 @@ const color = require("colors");
     console.log(`[info] save ${yearSem} done`.green)
   }
   */
-})();
+}
+
+main().catch((error) => {
+  console.error(`[error] withdrawal analytics failed (${errorCode(error)})`.red);
+  process.exitCode = 1;
+});
