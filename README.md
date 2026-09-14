@@ -40,6 +40,24 @@ node fetchPrograms.js 115 1
 node fetchCompetencies.js
 ```
 
+課程標準的系所索引可單獨更新，不會逐一抓取課程標準明細：
+
+```bash
+# 取得 APS 列出的所有入學年度
+node fetchStandardDepartments.js
+
+# 只取得指定年度；可傳多個參數或逗號分隔
+node fetchStandardDepartments.js 109 115
+node fetchStandardDepartments.js 109,115
+```
+
+這個輕量爬蟲只請求課程標準的 `format=-1`（年度）、`format=-2`（學制）與
+`format=-3`（系所連結）頁面，不請求 `format=-4` 課程內容。每個年度會輸出
+`dist/{year}/standard-departments.json`，每筆資料的格式為
+`{ system, department, division, matric }`。完整的 `node fetchStandards.js`
+流程也會在既有 `standard.json` 中保留原有欄位，並將系所官方 URL 的
+`division`、`matric` 寫入系所節點，同步產生同一份索引。
+
 課程與課綱指令的第一個參數可用 `0`、`1`、`2` 指定日間部、進修部、研究所；`all` 取得三部別。省略年度學期則依學校目前選定的學期執行。`finalizeCourseData.js` 需要同一學期三部別清單與完整課綱，不能在僅完成一個部別時執行。
 
 `fetchAll.js` 會跨歷年取得課程、班級、微學程、一般學程，最後更新核心能力；它不會逐年抓所有教師課綱。要更新個別學期課綱，請使用上面的課綱與索引指令。

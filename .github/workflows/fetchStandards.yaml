@@ -38,6 +38,7 @@ jobs:
           path: |
             dist/standards.json
             dist/*/standard.json
+            dist/*/standard-departments.json
           if-no-files-found: error
           retention-days: 2
 
