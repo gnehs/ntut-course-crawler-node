@@ -307,7 +307,7 @@
         "code": "445"
       }
     ],
-    "people": "18",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1077,7 +1077,7 @@
         "code": "40"
       }
     ],
-    "people": "17",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4415,7 +4415,7 @@
         "code": "201"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4752,7 +4752,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15605,7 +15605,7 @@
         "code": "570"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16873,7 +16873,7 @@
         "code": "445"
       }
     ],
-    "people": "12",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18790,7 +18790,7 @@
         "code": "55"
       }
     ],
-    "people": "21",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19964,6 +19964,50 @@
     "interdisciplinary": "",
     "notes": "海洋大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4402079",
+    "description": {
+      "zh": "本課程主要是讓學生在畢業之前即獲得車輛產業的職場經驗，此經驗包括有職場倫理外，也讓學生意識到學校教育與現實職場間的差異、產業對人才的選擇標準、自我能力基本要求的考驗、和未來可就業的相關企業。進而檢討自我的未來生涯規劃。學生需每週 40 小時於企業實習，並於期末繳交實習報告。",
+      "en": "The course is designed to help students' career developments and to enhance their working experiences prior to their graduation. Students will work at a vehicle engineering related company. Students would learn the real-life operations of professional technology, acknowledge the differences between the school and working environments, understand the business needs, and develop their professional ethics. Through the program, students would be able to self-evaluate the gaps between their own capabilities and the professional needs, and establish or adjust their career development plans accordingly. A student would require to work full-time on-site the company and submit a full semester paper to fulfill the program requirements."
+    },
+    "id": "371912",
+    "name": {
+      "zh": "企業實習 (二)",
+      "en": "Enterprise Internship (II)"
+    },
+    "stage": "1",
+    "credit": "6.0",
+    "hours": "40",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "訓四車四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2879",
+        "code": "2879"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4402079",
     "syllabusLinks": []
   }
 ]
