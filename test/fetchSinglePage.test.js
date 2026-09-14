@@ -5,7 +5,7 @@ const test = require("node:test");
 const { fetchSinglePage } = require("../crawler/fetchSinglePage");
 
 const EXPECTED_REQUEST_ATTEMPTS = 3;
-const EXPECTED_TIMEOUT_MS = 10 * 1000;
+const EXPECTED_TIMEOUT_MS = 20 * 60 * 1000;
 
 test("fetchSinglePage applies a bounded default timeout", async () => {
   let observedTimeout;

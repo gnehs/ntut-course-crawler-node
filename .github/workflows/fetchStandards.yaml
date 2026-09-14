@@ -15,7 +15,7 @@ jobs:
   FetchStandards:
     name: Fetch course standards data
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v7
         timeout-minutes: 5
@@ -28,7 +28,7 @@ jobs:
         timeout-minutes: 5
         run: npm ci
       - name: Fetch course standards data
-        timeout-minutes: 17
+        timeout-minutes: 110
         run: node fetchStandards.js
       - name: Upload course standards artifact
         timeout-minutes: 5
@@ -44,7 +44,7 @@ jobs:
   FetchCompetencies:
     name: Fetch core competency data
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v7
         timeout-minutes: 5
@@ -57,7 +57,7 @@ jobs:
         timeout-minutes: 5
         run: npm ci
       - name: Fetch core competency data
-        timeout-minutes: 10
+        timeout-minutes: 40
         run: node fetchCompetencies.js
       - name: Upload core competency artifact
         timeout-minutes: 5

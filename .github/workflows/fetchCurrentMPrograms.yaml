@@ -15,7 +15,7 @@ jobs:
   FetchMProgram:
     name: Fetch micro program data
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v7
         timeout-minutes: 5
@@ -28,7 +28,7 @@ jobs:
         timeout-minutes: 5
         run: npm ci
       - name: Fetch micro program data
-        timeout-minutes: 15
+        timeout-minutes: 30
         run: node fetchMProgram.js
       - name: Upload micro program artifact
         timeout-minutes: 5
@@ -42,7 +42,7 @@ jobs:
   FetchPrograms:
     name: Fetch general program data
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v7
         timeout-minutes: 5
@@ -55,7 +55,7 @@ jobs:
         timeout-minutes: 5
         run: npm ci
       - name: Fetch general program data
-        timeout-minutes: 15
+        timeout-minutes: 30
         run: node fetchPrograms.js
       - name: Upload general program artifact
         timeout-minutes: 5

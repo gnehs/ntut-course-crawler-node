@@ -14,7 +14,7 @@ permissions:
 jobs:
   Prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 35
     outputs:
       year: ${{ steps.semester.outputs.year }}
       sem: ${{ steps.semester.outputs.sem }}
@@ -32,7 +32,7 @@ jobs:
         timeout-minutes: 5
       - name: Resolve one semester for every job
         id: semester
-        timeout-minutes: 5
+        timeout-minutes: 25
         run: |
           node <<'NODE'
           const fs = require('node:fs');

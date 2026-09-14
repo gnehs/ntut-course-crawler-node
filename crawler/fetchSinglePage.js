@@ -2,8 +2,13 @@ const cheerio = require("cheerio");
 const axios = require("axios").default;
 const axiosRetry = require("axios-retry").default;
 
-const REQUEST_TIMEOUT_MS = 10 * 1000;
+// APS is a legacy server and can legitimately take well over ten seconds to
+// produce a page. Keep a generous per-request deadline; GitHub Actions applies
+// a separate dataset-level timeout so one permanently stuck request still
+// cannot block publishing indefinitely.
+const REQUEST_TIMEOUT_MS = 20 * 60 * 1000;
 const REQUEST_RETRIES = 2;
+const REQUEST_HEARTBEAT_MS = 60 * 1000;
 const http = axios.create();
 
 function isCanceledError(error) {
@@ -42,7 +47,11 @@ async function getResp(url, options = {}) {
     ? AbortSignal.any([options.signal, timeoutSignal])
     : timeoutSignal;
 
-  console.log(`[fetch] ${url} start.`);
+  console.log(`[fetch] ${url} start (deadline ${timeout}ms).`);
+  const heartbeat = setInterval(() => {
+    console.log(`[fetch] ${url} still waiting (${new Date() - now}ms).`);
+  }, REQUEST_HEARTBEAT_MS);
+  heartbeat.unref?.();
   try {
     const result = await http.request({
       method: "GET",
@@ -56,6 +65,8 @@ async function getResp(url, options = {}) {
   } catch (e) {
     console.error(`[error] ${url}: ${e.message} (${new Date() - now}ms)`);
     throw e;
+  } finally {
+    clearInterval(heartbeat);
   }
 }
 

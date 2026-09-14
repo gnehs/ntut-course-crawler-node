@@ -13,7 +13,7 @@ permissions:
 jobs:
   Fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v7
         timeout-minutes: 2
@@ -26,7 +26,7 @@ jobs:
         timeout-minutes: 5
         run: npm ci
       - name: Fetch department data
-        timeout-minutes: 3
+        timeout-minutes: 25
         run: node fetchDepartment.js
       - name: Upload department data
         if: ${{ success() }}

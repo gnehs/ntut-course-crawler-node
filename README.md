@@ -60,7 +60,7 @@ node fetchCompetencies.js
 
 每日課程 workflow 先固定年度學期，合併三部別產物後驗證完整性、產生課綱索引，再組合既有 `gh-pages` 資料與新快照，以單一 commit 替換該學期的 `course/` 目錄。這會移除不再被現行清單引用的舊課綱，同時保留其他學期、統計、班級與學程資料。若任一部別的課程或課綱擷取失敗，workflow 會失敗並保留整個學期的既有版本，不發布部分清單。
 
-其他包含多個資料集的 workflow 會把每個抓取器放在獨立 job，成功後才上傳短期 artifact。最後的發布 job 即使部分前置 job 失敗仍會執行，只合併成功的 artifact；失敗資料集沿用 `gh-pages` 上一版。所有網路抓取都有 request deadline 與 workflow timeout。只有最後的發布 job 會取得共用 `course-data-gh-pages` 佇列，因此單一抓取器卡住不會占用發布鎖或阻止其他 workflow 產生資料。
+其他包含多個資料集的 workflow 會把每個抓取器放在獨立 job，成功後才上傳短期 artifact。最後的發布 job 即使部分前置 job 失敗仍會執行，只合併成功的 artifact；失敗資料集沿用 `gh-pages` 上一版。APS 單一請求最多等待二十分鐘，以容許舊伺服器的正常慢回應；更外層的 dataset workflow timeout 負責處理真正卡死的流程。只有最後的發布 job 會取得共用 `course-data-gh-pages` 佇列，因此單一抓取器卡住不會占用發布鎖或阻止其他 workflow 產生資料。
 
 一般學程隨微學程每日更新；核心能力隨課程標準每月更新，兩者也支援手動 workflow 執行。程式碼變更本身不會回填已發布資料，需等對應爬蟲成功執行。
 
