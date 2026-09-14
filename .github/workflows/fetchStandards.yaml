@@ -45,6 +45,47 @@ jobs:
     name: Fetch core competency data
     runs-on: ubuntu-latest
     timeout-minutes: 50
+    outputs:
+      artifact-ready: ${{ steps.fetch.outcome == 'success' && steps.upload.outcome == 'success' }}
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch core competency data
+        id: fetch
+        continue-on-error: true
+        timeout-minutes: 40
+        run: |
+          curl --fail --silent --show-error \
+            --connect-timeout 15 \
+            --max-time 120 \
+            --output /dev/null \
+            "https://aps.ntut.edu.tw/course/tw/CurrCCI.jsp?format=-1"
+          node fetchCompetencies.js
+      - name: Upload core competency artifact
+        id: upload
+        if: ${{ steps.fetch.outcome == 'success' }}
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: competencies-data
+          path: dist/competencies.json
+          if-no-files-found: error
+          retention-days: 2
+
+  RetryCompetencies:
+    name: Retry core competency data on a fresh runner
+    needs: FetchCompetencies
+    if: ${{ always() && !cancelled() && needs.FetchCompetencies.outputs.artifact-ready != 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v7
         timeout-minutes: 5
@@ -58,12 +99,18 @@ jobs:
         run: npm ci
       - name: Fetch core competency data
         timeout-minutes: 40
-        run: node fetchCompetencies.js
+        run: |
+          curl --fail --silent --show-error \
+            --connect-timeout 15 \
+            --max-time 120 \
+            --output /dev/null \
+            "https://aps.ntut.edu.tw/course/tw/CurrCCI.jsp?format=-1"
+          node fetchCompetencies.js
       - name: Upload core competency artifact
         timeout-minutes: 5
         uses: actions/upload-artifact@v7
         with:
-          name: competencies-data
+          name: competencies-data-retry
           path: dist/competencies.json
           if-no-files-found: error
           retention-days: 2
@@ -71,7 +118,7 @@ jobs:
   Deploy:
     name: Deploy available datasets
     if: ${{ !cancelled() }}
-    needs: [FetchStandards, FetchCompetencies]
+    needs: [FetchStandards, FetchCompetencies, RetryCompetencies]
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -91,20 +138,27 @@ jobs:
           name: standards-data
           path: publish
       - name: Download core competency artifact
-        if: ${{ !cancelled() && needs.FetchCompetencies.result == 'success' }}
+        if: ${{ !cancelled() && needs.FetchCompetencies.outputs.artifact-ready == 'true' }}
         uses: actions/download-artifact@v8
         timeout-minutes: 2
         with:
           name: competencies-data
           path: publish
+      - name: Download retried core competency artifact
+        if: ${{ !cancelled() && needs.FetchCompetencies.outputs.artifact-ready != 'true' && needs.RetryCompetencies.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
+        with:
+          name: competencies-data-retry
+          path: publish
       - name: Refuse an empty deployment
         timeout-minutes: 1
-        if: ${{ !cancelled() && needs.FetchStandards.result != 'success' && needs.FetchCompetencies.result != 'success' }}
+        if: ${{ !cancelled() && needs.FetchStandards.result != 'success' && needs.FetchCompetencies.outputs.artifact-ready != 'true' && needs.RetryCompetencies.result != 'success' }}
         run: |
           echo "All dataset fetches failed; refusing to publish an empty deployment."
           exit 1
       - name: Deploy available datasets to GitHub Pages
-        if: ${{ !cancelled() && (needs.FetchStandards.result == 'success' || needs.FetchCompetencies.result == 'success') }}
+        if: ${{ !cancelled() && (needs.FetchStandards.result == 'success' || needs.FetchCompetencies.outputs.artifact-ready == 'true' || needs.RetryCompetencies.result == 'success') }}
         timeout-minutes: 10
         uses: peaceiris/actions-gh-pages@v4
         with:
