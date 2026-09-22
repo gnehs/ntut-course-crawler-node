@@ -910,13 +910,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教626",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=446",
-        "code": "446"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1748,6 +1742,11 @@
         "code": "11438"
       },
       {
+        "name": "陳世剛",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12527",
+        "code": "12527"
+      },
+      {
         "name": "劉邦榮",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11611",
         "code": "11611"
@@ -1779,6 +1778,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3114703",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360854&code=11438",
+      "ShowSyllabus.jsp?snum=360854&code=12527",
       "ShowSyllabus.jsp?snum=360854&code=11611",
       "ShowSyllabus.jsp?snum=360854&code=11214"
     ]
@@ -1921,6 +1921,11 @@
         "name": "張陽郎",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11213",
         "code": "11213"
+      },
+      {
+        "name": "劉宇晨",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12399",
+        "code": "12399"
       }
     ],
     "time": {
@@ -1944,7 +1949,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3114703",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360887&code=10499",
-      "ShowSyllabus.jsp?snum=360887&code=11213"
+      "ShowSyllabus.jsp?snum=360887&code=11213",
+      "ShowSyllabus.jsp?snum=360887&code=12399"
     ]
   },
   {
@@ -4675,68 +4681,6 @@
     ]
   },
   {
-    "code": "3904508",
-    "description": {
-      "zh": "有關建築歷史、理論、批評、構造、營建管理等相關主題討論。",
-      "en": "A theme topic discussion on the field of architecture history, theory, criticism, structure, construction and management, etc."
-    },
-    "id": "361276",
-    "name": {
-      "zh": "建築專題討論（一）",
-      "en": "Seminar on Architecture Special Topics （Ⅰ）"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "建築四",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2910",
-        "code": "2910"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林靜娟",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10450",
-        "code": "10450"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "7",
-        "8",
-        "9"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計252",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=457",
-        "code": "457"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "audit": "",
-    "lab": "",
-    "interdisciplinary": "",
-    "notes": "建築四和都建所合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3904508",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=361276&code=10450"
-    ]
-  },
-  {
     "code": "3908496",
     "description": {
       "zh": "臺灣建築史的發展大約可分成受到漢民族影響的傳統建築，以及日本和西方世界影響的近現代建築，本課程主要探究臺灣近現代建築發展的歷程。本課程係以時間為軸，將台灣近現代建築分為三個主題：(1) 臺灣近現代建築的背景、(2) 臺灣殖民時期、(3) 二次大戰之後的臺灣建築。",
@@ -4935,11 +4879,6 @@
         "code": "10822"
       },
       {
-        "name": "胡石政",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10870",
-        "code": "10870"
-      },
-      {
         "name": "陳清祺",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11684",
         "code": "11684"
@@ -4995,7 +4934,6 @@
       "ShowSyllabus.jsp?snum=361306&code=10996",
       "ShowSyllabus.jsp?snum=361306&code=10958",
       "ShowSyllabus.jsp?snum=361306&code=10822",
-      "ShowSyllabus.jsp?snum=361306&code=10870",
       "ShowSyllabus.jsp?snum=361306&code=11684",
       "ShowSyllabus.jsp?snum=361306&code=11319",
       "ShowSyllabus.jsp?snum=361306&code=12561",
@@ -5880,7 +5818,7 @@
         "code": "561"
       }
     ],
-    "people": "36",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -6479,7 +6417,7 @@
         "code": "525"
       }
     ],
-    "people": "47",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16304,7 +16242,7 @@
         "code": "389"
       }
     ],
-    "people": "38",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16365,7 +16303,7 @@
         "code": "29"
       }
     ],
-    "people": "46",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16463,7 +16401,7 @@
         "code": "379"
       }
     ],
-    "people": "37",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16552,7 +16490,7 @@
         "code": "376"
       }
     ],
-    "people": "25",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16617,7 +16555,7 @@
         "code": "322"
       }
     ],
-    "people": "30",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16678,7 +16616,7 @@
         "code": "319"
       }
     ],
-    "people": "26",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16740,7 +16678,7 @@
         "code": "155"
       }
     ],
-    "people": "37",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16801,7 +16739,7 @@
         "code": "389"
       }
     ],
-    "people": "52",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17505,9 +17443,44 @@
         "code": "10992"
       },
       {
+        "name": "王謹誠",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12236",
+        "code": "12236"
+      },
+      {
+        "name": "張烔堡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12684",
+        "code": "12684"
+      },
+      {
+        "name": "陳柏全",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11020",
+        "code": "11020"
+      },
+      {
+        "name": "陳斌豪",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12143",
+        "code": "12143"
+      },
+      {
         "name": "黃秀英",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11321",
         "code": "11321"
+      },
+      {
+        "name": "黃盈庭",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12447",
+        "code": "12447"
+      },
+      {
+        "name": "蔣欣翰",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12354",
+        "code": "12354"
+      },
+      {
+        "name": "蕭耀榮",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10993",
+        "code": "10993"
       }
     ],
     "time": {
@@ -17531,7 +17504,12 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403015",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361979&code=10992",
-      "ShowSyllabus.jsp?snum=361979&code=11321"
+      "ShowSyllabus.jsp?snum=361979&code=12684",
+      "ShowSyllabus.jsp?snum=361979&code=11020",
+      "ShowSyllabus.jsp?snum=361979&code=11321",
+      "ShowSyllabus.jsp?snum=361979&code=12447",
+      "ShowSyllabus.jsp?snum=361979&code=12354",
+      "ShowSyllabus.jsp?snum=361979&code=10993"
     ]
   },
   {
@@ -19277,6 +19255,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5903214",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362050&code=10772",
+      "ShowSyllabus.jsp?snum=362050&code=12397",
       "ShowSyllabus.jsp?snum=362050&code=12384",
       "ShowSyllabus.jsp?snum=362050&code=11427",
       "ShowSyllabus.jsp?snum=362050&code=12385",
@@ -20570,7 +20549,7 @@
         "code": "460"
       }
     ],
-    "people": "65",
+    "people": "66",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20633,7 +20612,7 @@
         "code": "447"
       }
     ],
-    "people": "80",
+    "people": "81",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -20694,7 +20673,7 @@
         "code": "447"
       }
     ],
-    "people": "66",
+    "people": "67",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -20761,7 +20740,7 @@
         "code": "460"
       }
     ],
-    "people": "68",
+    "people": "69",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20885,7 +20864,7 @@
         "code": "462"
       }
     ],
-    "people": "68",
+    "people": "69",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21099,7 +21078,7 @@
         "code": "424"
       }
     ],
-    "people": "85",
+    "people": "84",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21161,7 +21140,7 @@
         "code": "525"
       }
     ],
-    "people": "65",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -21247,7 +21226,7 @@
         "code": "527"
       }
     ],
-    "people": "36",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26858,7 +26837,7 @@
         "code": "30"
       }
     ],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -29084,7 +29063,7 @@
         "code": "468"
       }
     ],
-    "people": "74",
+    "people": "75",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39049,7 +39028,7 @@
         "code": "47"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -39551,7 +39530,7 @@
         "code": "460"
       }
     ],
-    "people": "82",
+    "people": "83",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -40477,7 +40456,7 @@
         "code": "526"
       }
     ],
-    "people": "37",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -40663,7 +40642,7 @@
         "code": "565"
       }
     ],
-    "people": "53",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -44377,7 +44356,7 @@
         "code": "24"
       }
     ],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -53316,7 +53295,7 @@
         "code": "437"
       }
     ],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -53379,7 +53358,7 @@
         "code": "439"
       }
     ],
-    "people": "88",
+    "people": "89",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -53446,7 +53425,7 @@
         "code": "452"
       }
     ],
-    "people": "85",
+    "people": "86",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -53508,7 +53487,7 @@
         "code": "437"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -53575,7 +53554,7 @@
         "code": "154"
       }
     ],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -54157,7 +54136,7 @@
         "code": "155"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -54375,7 +54354,7 @@
         "code": "466"
       }
     ],
-    "people": "73",
+    "people": "74",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -57305,7 +57284,7 @@
         "code": "161"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -60234,9 +60213,9 @@
         "code": "22"
       },
       {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=47",
-        "code": "47"
+        "name": "六教325",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=427",
+        "code": "427"
       }
     ],
     "people": "48",
@@ -61199,7 +61178,7 @@
         "code": "75"
       }
     ],
-    "people": "2",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -61262,7 +61241,7 @@
     "audit": "",
     "lab": "",
     "interdisciplinary": "",
-    "notes": "工程一和土木一乙合開 (土木系必修; 餘三系選修)",
+    "notes": "0 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3401008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363211&code=24512"
@@ -66079,7 +66058,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "77",
+    "people": "81",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -66991,7 +66970,7 @@
         "code": "553"
       }
     ],
-    "people": "94",
+    "people": "95",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -67789,7 +67768,7 @@
         "code": "49"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -69173,7 +69152,7 @@
         "code": "154"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -70838,7 +70817,7 @@
     "audit": "",
     "lab": "",
     "interdisciplinary": "",
-    "notes": "建築四和都建所合開",
+    "notes": "建築四 (停開) 和都建所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211414",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363843&code=10450"
@@ -71187,7 +71166,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -72459,7 +72438,7 @@
         "code": "486"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76267,13 +76246,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=570",
-        "code": "570"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -76976,7 +76949,7 @@
         "code": "460"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77308,7 +77281,7 @@
         "code": "460"
       }
     ],
-    "people": "35",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -77814,7 +77787,7 @@
         "code": "571"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -78137,7 +78110,7 @@
         "code": "43"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -78199,7 +78172,7 @@
         "code": "555"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -79145,7 +79118,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -80372,7 +80345,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -80837,7 +80810,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -81393,7 +81366,7 @@
         "code": "429"
       }
     ],
-    "people": "17",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -81455,7 +81428,7 @@
         "code": "452"
       }
     ],
-    "people": "35",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -81825,13 +81798,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教407",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=55",
-        "code": "55"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -82594,7 +82561,7 @@
         "code": "70"
       }
     ],
-    "people": "35",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -84203,7 +84170,7 @@
         "code": "525"
       }
     ],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -84913,18 +84880,7 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教209",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=43",
-        "code": "43"
-      },
-      {
-        "name": "三教310",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=51",
-        "code": "51"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -88117,7 +88073,7 @@
         "code": "416"
       }
     ],
-    "people": "35",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -89650,7 +89606,7 @@
         "code": "422"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -90469,7 +90425,7 @@
         "code": "460"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -92364,7 +92320,7 @@
         "code": "569"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -93075,7 +93031,7 @@
         "code": "46"
       }
     ],
-    "people": "76",
+    "people": "77",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -93192,21 +93148,15 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓427",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=548",
-        "code": "548"
-      }
-    ],
-    "people": "3",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
     "audit": "",
     "lab": "",
     "interdisciplinary": "循環經濟與淨零永續微學程",
-    "notes": "",
+    "notes": "1 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235436",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366267&code=12392"
@@ -93926,7 +93876,7 @@
         "code": "61"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -99767,7 +99717,7 @@
         "code": "433"
       }
     ],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -100081,7 +100031,7 @@
         "code": "495"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -101333,7 +101283,7 @@
     "audit": "",
     "lab": "",
     "interdisciplinary": "主權AI智慧醫療學程\n主權AI智慧醫療大數據微學程",
-    "notes": "創新 AI 和電資學院大研合開, 計中電腦教室",
+    "notes": "創新 AI 和電資學院大 (停開) 研合開, 計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C735011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366414&code=12528"
@@ -103043,7 +102993,7 @@
         "code": "30"
       }
     ],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -103671,7 +103621,7 @@
         "code": "389"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -107285,7 +107235,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -108880,7 +108830,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -109217,7 +109167,7 @@
     "audit": "",
     "lab": "",
     "interdisciplinary": "",
-    "notes": "籃球 (選)※以組隊方式選課，洽蔣憶德老師，分機 3321",
+    "notes": "籃球 (選)※以組隊方式選課，洽蔣憶德老師，分機 3321【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1004001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366569&code=11081"
@@ -109773,7 +109723,7 @@
         "code": "309"
       }
     ],
-    "people": "39",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -109834,7 +109784,7 @@
         "code": "387"
       }
     ],
-    "people": "21",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -110827,13 +110777,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教505",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=62",
-        "code": "62"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -111018,7 +110962,7 @@
         "code": "462"
       }
     ],
-    "people": "23",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -111446,7 +111390,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -111939,7 +111883,7 @@
         "code": "62"
       }
     ],
-    "people": "44",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -112238,13 +112182,7 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=570",
-        "code": "570"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -113087,7 +113025,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115416,7 +115354,7 @@
         "code": "98"
       }
     ],
-    "people": "40",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117124,7 +117062,7 @@
         "code": "71"
       }
     ],
-    "people": "60",
+    "people": "62",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118284,7 +118222,7 @@
         "code": "35"
       }
     ],
-    "people": "66",
+    "people": "67",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120358,7 +120296,7 @@
         "code": "562"
       }
     ],
-    "people": "80",
+    "people": "79",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120541,7 +120479,7 @@
         "code": "15"
       }
     ],
-    "people": "28",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120724,7 +120662,7 @@
         "code": "335"
       }
     ],
-    "people": "66",
+    "people": "67",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -121151,7 +121089,7 @@
         "code": "63"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -121273,7 +121211,7 @@
         "code": "35"
       }
     ],
-    "people": "58",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -121334,7 +121272,7 @@
         "code": "564"
       }
     ],
-    "people": "72",
+    "people": "73",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -122598,7 +122536,7 @@
         "code": "565"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -122714,7 +122652,7 @@
         "code": "566"
       }
     ],
-    "people": "45",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -124234,13 +124172,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=570",
-        "code": "570"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -124371,13 +124303,7 @@
       ],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "先鋒502 ",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=562",
-        "code": "562"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -124717,7 +124643,7 @@
         "code": "561"
       }
     ],
-    "people": "121",
+    "people": "122",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -125358,7 +125284,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -126193,7 +126119,7 @@
     "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
-    "language": "",
+    "language": "英語",
     "audit": "",
     "lab": "",
     "interdisciplinary": "",
@@ -126201,68 +126127,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=B302010",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=367154&code=12597"
-    ]
-  },
-  {
-    "code": "C503006",
-    "description": {
-      "zh": "本課程旨在培養學生掌握人工智慧技術於衛星影像分析的應用，涵蓋影像資料處理、模型訓練、最佳化與產業應用。學生將學習如何結合人工智慧模型進行精準偵測，並透過與業界合作解決實務問題，如海事監控及環境監測，提升跨領域協作與問題解決能力，問題導向學習的方式將促進學生獲取實務經驗及就業競爭力，為科技產業發展做好準備。",
-      "en": "This course aims to equip students with expertise in applying artificial intelligence techniques to satellite image analysis, covering image data processing, model training, optimization, and industrial applications. Students will learn how to integrate AI models for precise detection tasks and collaborate with industry partners to solve practical problems, such as maritime surveillance and environmental monitoring. This will enhance students' cross-disciplinary collaboration and problem-solving skills. A problem-based learning approach will facilitate students in gaining practical experience and improving their competitiveness in the job market, thus preparing them for the advancement of the technology industry."
-    },
-    "id": "367155",
-    "name": {
-      "zh": "人工智慧於衛星系統應用",
-      "en": "Artificial Intelligence in Satellite System Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電資學院(大)",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2767",
-        "code": "2767"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蔣政諺",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12460",
-        "code": "12460"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "5",
-        "6",
-        "7"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教402",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=52",
-        "code": "52"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "audit": "",
-    "lab": "",
-    "interdisciplinary": "低軌衛星系統應用微學程",
-    "notes": "大研合開, 排六教",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C503006",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=367155&code=12460"
     ]
   },
   {
@@ -126321,72 +126185,10 @@
     "audit": "",
     "lab": "",
     "interdisciplinary": "低軌衛星系統應用微學程",
-    "notes": "大研合開, 排六教",
+    "notes": "大 (停開) 研合開, 排六教",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=367156&code=12460"
-    ]
-  },
-  {
-    "code": "C503005",
-    "description": {
-      "zh": "本課程旨在培養學生掌握人工智慧技術在通訊網路中的應用，特別是在衛星通訊系統和無線網路中的實踐。學生將學習通訊網路的基礎概念、衛星次系統、軌道力學與資料解析，並瞭解無線網路架構、資源分配及網路切片技術。此外，學生將掌握如何利用人工智慧和深度強化學習技術進行資源優化、訊號處理與異常檢測，並應用實驗平台進行模擬和實驗，最終具備設計、實施並優化通訊網路的能力。",
-      "en": "This course aims to equip students with the skills to apply artificial intelligence techniques in communication networks, particularly in satellite communication systems and wireless networks. Students will learn the fundamental concepts of communication networks, satellite subsystems, orbital mechanics, and data analysis, as well as the architecture of wireless networks, resource allocation, and network slicing technologies. Additionally, students will master how to use artificial intelligence and deep reinforcement learning techniques for resource optimization, signal processing, and anomaly detection. They will also apply experimental platforms for simulations and experiments, ultimately gaining the ability to design, implement, and optimize communication networks."
-    },
-    "id": "367157",
-    "name": {
-      "zh": "人工智慧於通訊網路優化",
-      "en": "Artificial Intelligence in Communication Network Optimization"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電資學院(大)",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2767",
-        "code": "2767"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "彭朋群",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11369",
-        "code": "11369"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "6",
-        "7",
-        "8"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "億光0935",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=529",
-        "code": "529"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "audit": "",
-    "lab": "",
-    "interdisciplinary": "低軌衛星通訊與接取網路微學程",
-    "notes": "大研合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C503005",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=367157&code=11369"
     ]
   },
   {
@@ -126445,7 +126247,7 @@
     "audit": "",
     "lab": "",
     "interdisciplinary": "低軌衛星通訊與接取網路微學程",
-    "notes": "大研合開",
+    "notes": "大 (停開) 研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=367158&code=11369"
@@ -126500,7 +126302,7 @@
         "code": "66"
       }
     ],
-    "people": "14",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -126573,68 +126375,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=B405001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=367162&code=12352"
-    ]
-  },
-  {
-    "code": "B405003",
-    "description": {
-      "zh": "本課程內容涵蓋次世代定序技術之基因體大數據、電子健康紀錄資料與醫電訊號實作與分析，將學習定序資料之分析流程與工具、病歷資料庫使用和訊號處理、特徵擷取與機器學習等應用。",
-      "en": "This course covers genomic big data from next-generation sequencing technologies, electronic health record data, and biomedical signal processing and analysis. Students will learn sequencing data analysis pipelines and tools, the use of clinical databases, and applications of signal processing, feature extraction, and machine learning."
-    },
-    "id": "367163",
-    "name": {
-      "zh": "智慧醫療大數據實作與分析",
-      "en": "Smart Healthcare Big Data Implementation and Analysis"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電資學院(大)",
-        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2767",
-        "code": "2767"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "李建樂",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12528",
-        "code": "12528"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "5",
-        "6",
-        "7"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "共同411",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=383",
-        "code": "383"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "英語",
-    "audit": "",
-    "lab": "",
-    "interdisciplinary": "主權AI智慧醫療學程\n主權AI智慧醫療大數據微學程",
-    "notes": "創新 AI 和電資學院大研合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=B405003",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=367163&code=12528"
     ]
   },
   {
@@ -126944,7 +126684,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -137126,7 +136866,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -140078,6 +139818,2151 @@
     "interdisciplinary": "",
     "notes": "台南大學李香蓮 TNDA 聯盟",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5107002",
+    "description": {
+      "zh": "學生與教授討論擬定之研究題目, 在教授個別指導下, 進行實驗之研究, 以培養學生尋找相關資料, 文獻及獨立研究的訓練, 並將其研究成果撰寫成博士論文及發表於國際期刊。",
+      "en": "To make students able to carry out independent study in master level. Students will be assigned a research topic. An independent experimental design, data analysis, doctoral thesis writing, and paper publication are necessary for this course."
+    },
+    "id": "371925",
+    "name": {
+      "zh": "博士論文",
+      "en": "Ph. D.Thesis"
+    },
+    "stage": "3",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "高分所",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3737",
+        "code": "3737"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "經系所核准可修習第 2 門博士論文",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5107002",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "371926",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "化工四甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2897",
+        "code": "2897"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "工業4.0電資學程\n鐵道車輛系統學程\n智慧鐵道微學程\n太空科技微學程",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "6504588",
+    "description": {
+      "zh": "本課程為「部份工時學期校外實習」之延續性課程，主要目的為增進學生之實務能力，學生須於學期中至光電工程相關機構連續實習 18 週，每週不得低於 2.5 天。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is the extended course and designed to enhance students' on-job practical experiences. Students will work at an electro-optical engineering related company or research organizations for 18 weeks(20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "371927",
+    "name": {
+      "zh": "部份工時學期校外實習 (二)",
+      "en": "Part-time internship (II)"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "20",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "光電四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2916",
+        "code": "2916"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6504588",
+    "syllabusLinks": []
+  },
+  {
+    "code": "6504589",
+    "description": {
+      "zh": "本課程為「彈性工時學期校外實習」之延續性課程，主要目的為增進學生之實務能力，學生須於學期中至光電工程相關機構連續實習 18 週，工時可彈性安排週間但每週不得低於 32 小時。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is the extended course and designed to enhance students' on-job practical experiences. Students will work at an electro-optical engineering related company or research organizations for 18 weeks(20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "371928",
+    "name": {
+      "zh": "彈性工時學期校外實習 (二)",
+      "en": "Flexible Working Hours Internship (II)"
+    },
+    "stage": "1",
+    "credit": "6.0",
+    "hours": "32",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "光電四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2916",
+        "code": "2916"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6504589",
+    "syllabusLinks": []
+  },
+  {
+    "code": "6504565",
+    "description": {
+      "zh": "本課程為「學期校外實習」之延續性課程，須先修習過學期校外實習，始能修習本課程。本課程主要培養學生的職場經驗，此經驗包括有職場倫理外，也讓學生意識到學校教育與現實職場間的差異、產業對人才的選擇標準、自我能力基本要求的考驗、和未來可就業的相關企業。進而檢討自我的未來生涯規劃。",
+      "en": "This is the extended course to help students' career developments and to enhance their working experiences prior to their graduation. Students will work at a electric-optic engineering related company or research organization on-site. The duration is one full-time semester. Students would learn the real-life operations of professional technology, acknowledge the differences between the school and working environments, understand the business needs, and develop their professional ethics. Through the program, students would be able to self-evaluate the gaps between their own capabilities and the professional needs, and establish or adjust their career development plans accordingly. A student would require to work full-time on-site the company and submit a full semester paper to fulfill the program requirements."
+    },
+    "id": "371929",
+    "name": {
+      "zh": "學期校外實習（二）",
+      "en": "Semester Practical Training（Ⅱ）"
+    },
+    "stage": "1",
+    "credit": "12.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "光電四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2916",
+        "code": "2916"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6504565",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3534056",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "he main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer breakor other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "371930",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "分子四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2904",
+        "code": "2904"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3534056",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3813201",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "英文概述English Description The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "371931",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "工設四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2909",
+        "code": "2909"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3813201",
+    "syllabusLinks": []
+  },
+  {
+    "code": "1400029",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "371932",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "△",
+    "class": [
+      {
+        "name": "工設四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2909",
+        "code": "2909"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "工業4.0電資學程\n鐵道車輛系統學程\n智慧鐵道微學程\n太空科技微學程",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400029",
+    "syllabusLinks": []
+  },
+  {
+    "code": "2B05020",
+    "description": {
+      "zh": "(1) 培養學生在職場中的溝通技巧與自我管理能力。(2) 學習與同事之間的溝通、協調能力。(3) 學生利用一學期的時間至校外實習，參與合作企業所提供之訓練。(4) 實習期滿後，實習企業須提出實習證明及成績考核。(5) 學生必須撰寫實習心得報告，彙交到科辦公室保存。",
+      "en": "(1) Develop students' communication skills and self-management skills in the workplace.(2) TO learn the ability to communicate and coordinate with colleagues.(3) Students spend one semester of time internships with companies and participate in training provided by the partner companies.(4) After the internship period, the intern company must submit the internship certificate and performance assessment.(5) Students must write an internship report and submit it to the office for persrevation"
+    },
+    "id": "371933",
+    "name": {
+      "zh": "學期制校外實習 (一)",
+      "en": "Semester intern practice (I)"
+    },
+    "stage": "1",
+    "credit": "12.0",
+    "hours": "40",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "智動五",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2774",
+        "code": "2774"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=2B05020",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3303102",
+    "description": {
+      "zh": "為培養學生自主學習能力，透過學生自發性蒐集資料擬定研究主題，由學生自行建構課程內容，從中學習規劃與執行專案實務，培育學生在特定主題研究中，學習到團隊合作、溝通表達、思考批判與問題解決等能力，由教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。本課程的評量以書面報告或口頭報告進行。",
+      "en": "To help students cultivate the ability of self-learning, this course allows students to engage themselves in developing course content, to plan and to execute a real-world project. \"Active learning\" encourages students to learn by interaction, communication, collaboration, critically analyzing arguments, and problem-solving. Instructors will assist to guide and to support in the process of learning. Students are expected to develop a process to solve real-life problems collaboratively. Written reports and oral presentations are required for course evaluation."
+    },
+    "id": "371934",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "材資四甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2900",
+        "code": "2900"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3303102",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AC02506",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester."
+    },
+    "id": "371935",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "互動四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2923",
+        "code": "2923"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC02506",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3908495",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester."
+    },
+    "id": "371936",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "建築四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2910",
+        "code": "2910"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3908495",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3850001",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it."
+    },
+    "id": "371937",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工設三",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3026",
+        "code": "3026"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "5",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3850001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3104116",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester."
+    },
+    "id": "371938",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電機三甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3011",
+        "code": "3011"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3104116",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371939",
+    "name": {
+      "zh": "商業與管理群教材教法",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺灣科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371940",
+    "name": {
+      "zh": "單元操作與輸送現象 (一)",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
+      ],
+      "fri": [
+        "5"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "中原大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371941",
+    "name": {
+      "zh": "工程數學 (二)",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立中興大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371942",
+    "name": {
+      "zh": "心理學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371943",
+    "name": {
+      "zh": "高等資訊管理",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "7",
+        "8",
+        "9"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺灣大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371944",
+    "name": {
+      "zh": "地理資訊系統應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "7",
+        "8",
+        "9"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺灣大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371945",
+    "name": {
+      "zh": "電源遞送網路設計方法",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "6",
+        "7",
+        "8"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺灣科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371946",
+    "name": {
+      "zh": "人工智慧的應用素養",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "7",
+        "8",
+        "9"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺灣師範大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3600050",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester."
+    },
+    "id": "371947",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子三甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3022",
+        "code": "3022"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3600050",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5904357",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester."
+    },
+    "id": "371948",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資工四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2915",
+        "code": "2915"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5904357",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3003108",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，並於開學前向各系提出申請，由本系專任老師擔任指導教師，審查計畫及評核學期成績。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities and then submit their plans to the departmental office for approval by the beginning of the semester."
+    },
+    "id": "371949",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機械三甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3009",
+        "code": "3009"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3003108",
+    "syllabusLinks": []
+  },
+  {
+    "code": "A503235",
+    "description": {
+      "zh": "為培養大學部學生自主學習能力，由學生主動積極創造並實現自己有興趣之主題。學生於特定主題之創造與實現中，學習到思考批判與問題解決等能力。教師擔任輔助指導角色，引導學生從實踐中學習問題解決能力。學生根據自己的興趣與能力訂定自主學習計畫，向指導教師提出計畫審查。指導教師同意後，學生於加退選週結束前向系辦公室登記申請。",
+      "en": "This course aims to develop undergraduates’ active learning skills by making students engage in the creation and realization of topics of students’ own interest. In the process of specific topic creation and realization, students will proactively learn critical-thinking and problem-solving skills. Instructors cultivate the active engagement of students in problem solving, without actually participating in it.In this course, students are required to draw up self-learning plans based on their own interests and capabilities, and submit to their instructors for approval. With instructors’ approval, they need to make registration to the departmental office for application by the end of the add/drop course selection weeks of the semester."
+    },
+    "id": "371950",
+    "name": {
+      "zh": "自主學習",
+      "en": "Autonomous Learning"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "文發四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2921",
+        "code": "2921"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A503235",
+    "syllabusLinks": []
+  },
+  {
+    "code": "2B02016",
+    "description": {
+      "zh": "(1) 藉由學生主動實現自己有興趣之主題，培養自我學習能力。(2) 於特定的主題當中，學習到思考批判與問題解決等能力。(3) 教師擔任輔助指導角色，引導學生從實踐中學習與成長。(4) 學生根據自己的興趣與能力訂定學習計畫，並於開學前提出申請，由專任教師指導，審查及評核學期成績。",
+      "en": "(1) Develop self-learning skills by actively implementing topics of interest to students(2) Among the specific topics, the ability to think critically and solve problems is learned.(3) Teachers act as mentors and guide students to learn and grow from practice(4) Students set up learning plans according to their own interests and abilities, and apply before the school starts. They are supervised by full-time teachers to review and evaluate semester performance."
+    },
+    "id": "371951",
+    "name": {
+      "zh": "自主學習 (二)",
+      "en": "Autonomous Learning (II)"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智動二",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3114",
+        "code": "3114"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=2B02016",
+    "syllabusLinks": []
+  },
+  {
+    "code": "2B03015",
+    "description": {
+      "zh": "(1) 藉由學生主動實現自己有興趣之主題，培養自我學習能力。(2) 於特定的主題當中，學習到思考批判與問題解決等能力。(3) 教師擔任輔助指導角色，引導學生從實踐中學習與成長。(4) 學生根據自己的興趣與能力訂定學習計畫，並於開學前提出申請，由專任教師指導，審查及評核學期成績。",
+      "en": "(1) Develop self-learning skills by actively implementing topics of interest to students(2) Among the specific topics, the ability to think critically and solve problems is learned.(3) Teachers act as mentors and guide students to learn and grow from practice(4) Students set up learning plans according to their own interests and abilities, and apply before the school starts. They are supervised by full-time teachers to review and evaluate semester performance."
+    },
+    "id": "371952",
+    "name": {
+      "zh": "自主學習 (四)",
+      "en": "Autonomous Learning (IV)"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智動三",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=3008",
+        "code": "3008"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=2B03015",
+    "syllabusLinks": []
+  },
+  {
+    "code": "2B04013",
+    "description": {
+      "zh": "(1) 藉由學生主動實現自己有興趣之主題，培養自我學習能力。(2) 於特定的主題當中，學習到思考批判與問題解決等能力。(3) 教師擔任輔助指導角色，引導學生從實踐中學習與成長。(4) 學生根據自己的興趣與能力訂定學習計畫，並於開學前提出申請，由專任教師指導，審查及評核學期成績。",
+      "en": "(1) Develop self-learning skills by actively implementing topics of interest to students(2) Among the specific topics, the ability to think critically and solve problems is learned.(3) Teachers act as mentors and guide students to learn and grow from practice(4) Students set up learning plans according to their own interests and abilities, and apply before the school starts. They are supervised by full-time teachers to review and evaluate semester performance."
+    },
+    "id": "371953",
+    "name": {
+      "zh": "自主學習 (六)",
+      "en": "Autonomous Learning (VI)"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "智動四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2891",
+        "code": "2891"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=2B04013",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371954",
+    "name": {
+      "zh": "全民國防教育軍事訓練：防衛動員",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "3",
+        "4"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371955",
+    "name": {
+      "zh": "土地政策",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "1",
+        "2"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371956",
+    "name": {
+      "zh": "都市計畫",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371957",
+    "name": {
+      "zh": "個體經濟學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371958",
+    "name": {
+      "zh": "投資學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371959",
+    "name": {
+      "zh": "期貨與選擇權",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371960",
+    "name": {
+      "zh": "心理學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "2",
+        "3",
+        "4"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371961",
+    "name": {
+      "zh": "債券市場",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371962",
+    "name": {
+      "zh": "國際財務管理",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371963",
+    "name": {
+      "zh": "計算機程式設計",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=482",
+        "code": "482"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371964",
+    "name": {
+      "zh": "環保犯罪學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371965",
+    "name": {
+      "zh": "進階幹細胞生物學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "英語",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "臺北醫學大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3302035",
+    "description": {
+      "zh": "本課程主要目的為讓學生可以利用暑期或其它時間至學校認可之校外公私立機構進行或參與實習，以增進學生之實務能力。學生於學校認可之校外機構實習總累計時數不得低於 320 小時。學生實習期滿後，應依據各系規定繳交相關實習相關成果報告，彙交所屬系保存，並作為成績核定之依據。學生校外實習學期成績之評定比例原則：實習單位占 50%，輔導老師占 50%，各系得依其屬性調整之。",
+      "en": "The main purpose of this course is to elevate an all-round ability for the students at NTUT. During the summer break　or other periods of time, students are required to go to government-based organizations or industry/business-oriented agencies with respect to promoting practice of ability. The course takers will need to stay in the same individual organization or agency with an accumulated amount of time of no less than 320 hours. After the students complete the requirements in question, these organizations and agencies will offer them certificates -- or proof of any kind -- in accordance with the real performance on site. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organization or agency (50%), respectively. The individual department or graduate institute may make proper adjustments according to the situations in need."
+    },
+    "id": "371967",
+    "name": {
+      "zh": "校外實習",
+      "en": "Internship"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "40",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "材資四甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2900",
+        "code": "2900"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3302035",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3104097",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用學期至電機相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation is carried out in one of the corporative electrical engineering company during curriculum session. The students practice and learn the real operation of the electrical engineering related fields. A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "371968",
+    "name": {
+      "zh": "學期校外實習",
+      "en": "Semester Internship"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電機四甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2894",
+        "code": "2894"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3104097",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3104131",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生須於學期中至學校認可之校外電機相關機構連續實習 18 週，每週不得低於 2.5 天 (20 小時)。學生實習期滿後須由實習機構出具實習證明並應依據本系規定繳交實習相關成果報告，彙交本系保存，並作為成績核定之依據。",
+      "en": "This course is designed to enhance students’ on-job practical experiences. Students will work at electrical-engineering related companies or research organizations recognized by the school for 18 weeks, at least 2.5 days (20 hours) per week during the semester. After students complete their internships, the internship certificates must be issued by the internship institutions and the relevant internship reports should be submitted in accordance with the regulations of the Department of Electrical Engineering for preservation and used as the basis for the assessment of grades."
+    },
+    "id": "371969",
+    "name": {
+      "zh": "校外實務實習",
+      "en": "On-Job Practical Internship"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電機四甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2894",
+        "code": "2894"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3104131",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C004006",
+    "description": {
+      "zh": "本課程之目的為增進學生之實務能力，學生必須利用暑假至機械、車輛、冷凍空調相關機構實習，參與校外合作企業或研發機構所提供之訓練，學習專業技術之運作。實習期滿後須由實習機構出具實習證明及成績考核。學生必須撰寫實習心得報告，再由指導教師依據學生之心得報告及現場訪評，撰寫實習成果報告交給系上保存，並給予評分。",
+      "en": "The purpose of this course is to improve students' practical ability. Students must use summer vacation to practice in machinery, vehicles, refrigeration and air conditioning related institutions, participate in training provided by off-campus cooperative enterprises or R&D institutions, and learn the operation of professional technology. After the internship period expires, the internship institution must issue an internship certificate and performance assessment. Students must write an internship experience report, and then the instructor will write the internship achievement report to the department for preservation and score based on the student's experience report and on-site interview and evaluation."
+    },
+    "id": "371970",
+    "name": {
+      "zh": "學期制企業實習一",
+      "en": "Semester enterprise internship I"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "技優專班四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2925",
+        "code": "2925"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C004006",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4404080",
+    "description": {
+      "zh": "本課程主要是讓學生在畢業之前即獲得短期體驗車輛產業的職場經驗，此經驗包括有職場倫理外，也讓學生意識到學校教育與現實職場間的差異、產業對人才的選擇標準、自我能力基本要求的考驗、和未來可就業的相關企業。進而檢討自我的未來生涯規劃。",
+      "en": "The course is designed to help students' career developments and to enhance their working experiences prior to their graduation. Students will work at a vehicle engineering related company or research organization on-site. The duration is one full-time semester. Students would learn the real-life operations of professional technology, acknowledge the differences between the school and working environments, understand the business needs, and develop their professional ethics. Through the program, students would be able to self-evaluate the gaps between their own capabilities and the professional needs, and establish or adjust their career development plans accordingly. A student would require to work full-time on-site the company and submit a full semester paper to fulfill the program requirements."
+    },
+    "id": "371972",
+    "name": {
+      "zh": "學期校外實習 (一)",
+      "en": "Semester Practical Training (1)"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "車輛四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2911",
+        "code": "2911"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4404080",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5904346",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生須於學期中至資訊相關機構連續實習 18 週，每週不得低於 2.5 天。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is designed to enhance students' on-job practical experiences. Students will work at a computer science (information engineering) related company or research organizations for 18 weeks(20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "371973",
+    "name": {
+      "zh": "校外實務實習 (一)",
+      "en": "Internship I"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資工四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2915",
+        "code": "2915"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "audit": "",
+    "lab": "",
+    "interdisciplinary": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5904346",
     "syllabusLinks": []
   }
 ]
