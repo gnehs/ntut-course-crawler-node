@@ -855,6 +855,7 @@
       "ShowSyllabus.jsp?snum=360765&code=11840",
       "ShowSyllabus.jsp?snum=360765&code=11826",
       "ShowSyllabus.jsp?snum=360765&code=12383",
+      "ShowSyllabus.jsp?snum=360765&code=12283",
       "ShowSyllabus.jsp?snum=360765&code=10777",
       "ShowSyllabus.jsp?snum=360765&code=12043",
       "ShowSyllabus.jsp?snum=360765&code=11018",
@@ -1599,7 +1600,7 @@
         "code": "574"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2488,7 +2489,10 @@
     "interdisciplinary": "智慧感測科技微學程",
     "notes": "化工大四合開; 選修專題須經指導教授同意",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3204079",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360940&code=12573",
+      "ShowSyllabus.jsp?snum=360940&code=11357"
+    ]
   },
   {
     "code": "1004001",
@@ -3102,9 +3106,12 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361021&code=10796",
       "ShowSyllabus.jsp?snum=361021&code=12535",
+      "ShowSyllabus.jsp?snum=361021&code=11929",
       "ShowSyllabus.jsp?snum=361021&code=11364",
       "ShowSyllabus.jsp?snum=361021&code=10506",
+      "ShowSyllabus.jsp?snum=361021&code=12597",
       "ShowSyllabus.jsp?snum=361021&code=11820",
+      "ShowSyllabus.jsp?snum=361021&code=11235",
       "ShowSyllabus.jsp?snum=361021&code=11173"
     ]
   },
@@ -4158,6 +4165,7 @@
       "ShowSyllabus.jsp?snum=361237&code=12206",
       "ShowSyllabus.jsp?snum=361237&code=11788",
       "ShowSyllabus.jsp?snum=361237&code=11079",
+      "ShowSyllabus.jsp?snum=361237&code=12435",
       "ShowSyllabus.jsp?snum=361237&code=11540"
     ]
   },
@@ -4538,7 +4546,7 @@
         "code": "25"
       }
     ],
-    "people": "69",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5367,6 +5375,7 @@
       "ShowSyllabus.jsp?snum=361319&code=11082",
       "ShowSyllabus.jsp?snum=361319&code=11278",
       "ShowSyllabus.jsp?snum=361319&code=11538",
+      "ShowSyllabus.jsp?snum=361319&code=11227",
       "ShowSyllabus.jsp?snum=361319&code=11436"
     ]
   },
@@ -6482,7 +6491,7 @@
         "code": "525"
       }
     ],
-    "people": "46",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6574,7 +6583,7 @@
         "code": "525"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7899,7 +7908,7 @@
         "code": "46"
       }
     ],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8402,7 +8411,7 @@
         "code": "335"
       }
     ],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9179,7 +9188,7 @@
         "code": "553"
       }
     ],
-    "people": "117",
+    "people": "120",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9552,7 +9561,7 @@
         "code": "28"
       }
     ],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10024,7 +10033,7 @@
         "code": "22"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10087,7 +10096,7 @@
         "code": "64"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10445,7 +10454,7 @@
         "code": "31"
       }
     ],
-    "people": "56",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10579,7 +10588,7 @@
         "code": "65"
       }
     ],
-    "people": "30",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13135,14 +13144,9 @@
     },
     "classroom": [
       {
-        "name": "二教307",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=32",
-        "code": "32"
-      },
-      {
-        "name": "科研大樓235",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=465",
-        "code": "465"
+        "name": "二教206",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=24",
+        "code": "24"
       }
     ],
     "people": "54",
@@ -13526,7 +13530,13 @@
         "code": "3021"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭霽慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11535",
+        "code": "11535"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -13537,7 +13547,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "47",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14168,7 +14178,7 @@
         "code": "157"
       }
     ],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14271,10 +14281,13 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361819&code=10605",
+      "ShowSyllabus.jsp?snum=361819&code=12572",
       "ShowSyllabus.jsp?snum=361819&code=12563",
+      "ShowSyllabus.jsp?snum=361819&code=11232",
       "ShowSyllabus.jsp?snum=361819&code=10618",
       "ShowSyllabus.jsp?snum=361819&code=11678",
-      "ShowSyllabus.jsp?snum=361819&code=11894"
+      "ShowSyllabus.jsp?snum=361819&code=11894",
+      "ShowSyllabus.jsp?snum=361819&code=12231"
     ]
   },
   {
@@ -14386,7 +14399,7 @@
         "code": "35"
       }
     ],
-    "people": "62",
+    "people": "63",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "中英雙語",
@@ -14520,7 +14533,7 @@
         "code": "74"
       }
     ],
-    "people": "66",
+    "people": "68",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14655,7 +14668,7 @@
         "code": "26"
       }
     ],
-    "people": "71",
+    "people": "72",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14923,7 +14936,7 @@
         "code": "564"
       }
     ],
-    "people": "70",
+    "people": "71",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15123,7 +15136,7 @@
         "code": "288"
       }
     ],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15185,7 +15198,7 @@
         "code": "291"
       }
     ],
-    "people": "61",
+    "people": "62",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15275,6 +15288,7 @@
       "ShowSyllabus.jsp?snum=361851&code=10823",
       "ShowSyllabus.jsp?snum=361851&code=11678",
       "ShowSyllabus.jsp?snum=361851&code=11991",
+      "ShowSyllabus.jsp?snum=361851&code=12231",
       "ShowSyllabus.jsp?snum=361851&code=12245"
     ]
   },
@@ -15509,7 +15523,68 @@
         "code": "3024"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "徐昕",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12436",
+        "code": "12436"
+      },
+      {
+        "name": "梁曉帆",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
+        "code": "11088"
+      },
+      {
+        "name": "陳協慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11552",
+        "code": "11552"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "陳隆昇",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12566",
+        "code": "12566"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11435",
+        "code": "11435"
+      },
+      {
+        "name": "鄭辰仰",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11764",
+        "code": "11764"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -15529,7 +15604,12 @@
     "interdisciplinary": "智慧感測科技微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361880&code=11225",
+      "ShowSyllabus.jsp?snum=361880&code=12436",
+      "ShowSyllabus.jsp?snum=361880&code=12566",
+      "ShowSyllabus.jsp?snum=361880&code=11435"
+    ]
   },
   {
     "code": "3723013",
@@ -16110,7 +16190,58 @@
         "code": "3025"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李育奇",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12494",
+        "code": "12494"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10821",
+        "code": "10821"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "徐昕",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12436",
+        "code": "12436"
+      },
+      {
+        "name": "梁曉帆",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
+        "code": "11088"
+      },
+      {
+        "name": "陳協慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11552",
+        "code": "11552"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -16130,7 +16261,13 @@
     "interdisciplinary": "智慧感測科技微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361900&code=12494",
+      "ShowSyllabus.jsp?snum=361900&code=11225",
+      "ShowSyllabus.jsp?snum=361900&code=10821",
+      "ShowSyllabus.jsp?snum=361900&code=12436",
+      "ShowSyllabus.jsp?snum=361900&code=11435"
+    ]
   },
   {
     "code": "3723013",
@@ -16575,6 +16712,7 @@
       "ShowSyllabus.jsp?snum=361921&code=12206",
       "ShowSyllabus.jsp?snum=361921&code=11788",
       "ShowSyllabus.jsp?snum=361921&code=11079",
+      "ShowSyllabus.jsp?snum=361921&code=12435",
       "ShowSyllabus.jsp?snum=361921&code=11540"
     ]
   },
@@ -17283,7 +17421,7 @@
         "code": "333"
       }
     ],
-    "people": "69",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18824,7 +18962,7 @@
         "code": "474"
       }
     ],
-    "people": "67",
+    "people": "69",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18912,6 +19050,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5703117",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362032&code=11429",
+      "ShowSyllabus.jsp?snum=362032&code=11893",
       "ShowSyllabus.jsp?snum=362032&code=10938",
       "ShowSyllabus.jsp?snum=362032&code=11224",
       "ShowSyllabus.jsp?snum=362032&code=12532",
@@ -19029,7 +19168,7 @@
         "code": "488"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -19245,7 +19384,7 @@
         "code": "429"
       }
     ],
-    "people": "87",
+    "people": "89",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19782,7 +19921,13 @@
         "code": "3033"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林家弘",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11291",
+        "code": "11291"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -20250,7 +20395,7 @@
         "code": "60"
       }
     ],
-    "people": "44",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20372,7 +20517,7 @@
         "code": "64"
       }
     ],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24809,7 +24954,7 @@
         "code": "71"
       }
     ],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -25122,7 +25267,7 @@
         "code": "23"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25252,7 +25397,7 @@
         "code": "207"
       }
     ],
-    "people": "48",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25386,7 +25531,7 @@
         "code": "46"
       }
     ],
-    "people": "109",
+    "people": "110",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25772,7 +25917,7 @@
         "code": "26"
       }
     ],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25902,7 +26047,7 @@
         "code": "207"
       }
     ],
-    "people": "41",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27380,7 +27525,7 @@
         "code": "37"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -27824,7 +27969,7 @@
         "code": "79"
       }
     ],
-    "people": "84",
+    "people": "85",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29096,7 +29241,7 @@
         "code": "434"
       }
     ],
-    "people": "88",
+    "people": "89",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -30611,7 +30756,7 @@
         "code": "25"
       }
     ],
-    "people": "69",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30679,7 +30824,7 @@
         "code": "561"
       }
     ],
-    "people": "67",
+    "people": "68",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30804,7 +30949,7 @@
         "code": "561"
       }
     ],
-    "people": "68",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -30996,7 +31141,7 @@
         "code": "25"
       }
     ],
-    "people": "75",
+    "people": "76",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31622,7 +31767,7 @@
         "code": "26"
       }
     ],
-    "people": "52",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -31684,7 +31829,7 @@
         "code": "291"
       }
     ],
-    "people": "68",
+    "people": "69",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32054,9 +32199,14 @@
     },
     "classroom": [
       {
-        "name": "六教625",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=445",
-        "code": "445"
+        "name": "科研大樓232",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=466",
+        "code": "466"
+      },
+      {
+        "name": "六教725",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=450",
+        "code": "450"
       }
     ],
     "people": "69",
@@ -32640,14 +32790,14 @@
     },
     "classroom": [
       {
-        "name": "六教525",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=437",
-        "code": "437"
+        "name": "科研大樓234",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=467",
+        "code": "467"
       },
       {
-        "name": "六教625",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=445",
-        "code": "445"
+        "name": "六教725",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=450",
+        "code": "450"
       }
     ],
     "people": "66",
@@ -33086,6 +33236,7 @@
       "ShowSyllabus.jsp?snum=362450&code=12206",
       "ShowSyllabus.jsp?snum=362450&code=11788",
       "ShowSyllabus.jsp?snum=362450&code=11079",
+      "ShowSyllabus.jsp?snum=362450&code=12435",
       "ShowSyllabus.jsp?snum=362450&code=11540"
     ]
   },
@@ -34005,7 +34156,7 @@
         "code": "561"
       }
     ],
-    "people": "122",
+    "people": "127",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34500,7 +34651,7 @@
         "code": "19"
       }
     ],
-    "people": "59",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36585,7 +36736,7 @@
         "code": "429"
       }
     ],
-    "people": "85",
+    "people": "86",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36648,7 +36799,7 @@
         "code": "429"
       }
     ],
-    "people": "75",
+    "people": "79",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36711,7 +36862,7 @@
         "code": "429"
       }
     ],
-    "people": "71",
+    "people": "73",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38252,7 +38403,7 @@
         "code": "561"
       }
     ],
-    "people": "112",
+    "people": "113",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -38634,7 +38785,7 @@
         "code": "429"
       }
     ],
-    "people": "88",
+    "people": "92",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -39941,7 +40092,7 @@
         "code": "447"
       }
     ],
-    "people": "63",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -40618,7 +40769,7 @@
         "code": "526"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -41931,7 +42082,38 @@
         "code": "3222"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "何昭慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11840",
+        "code": "11840"
+      },
+      {
+        "name": "胡心卉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11467",
+        "code": "11467"
+      },
+      {
+        "name": "范育成",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11246",
+        "code": "11246"
+      },
+      {
+        "name": "張元震",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12501",
+        "code": "12501"
+      },
+      {
+        "name": "廖以勒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12691",
+        "code": "12691"
+      },
+      {
+        "name": "顏毅廣",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11944",
+        "code": "11944"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -41951,7 +42133,11 @@
     "interdisciplinary": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=B203001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362708&code=11840",
+      "ShowSyllabus.jsp?snum=362708&code=11467",
+      "ShowSyllabus.jsp?snum=362708&code=11944"
+    ]
   },
   {
     "code": "B203002",
@@ -44518,7 +44704,7 @@
         "code": "24"
       }
     ],
-    "people": "51",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45051,7 +45237,7 @@
         "code": "22"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45176,7 +45362,7 @@
         "code": "498"
       }
     ],
-    "people": "47",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -45313,7 +45499,7 @@
         "code": "157"
       }
     ],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -46418,7 +46604,7 @@
         "code": "154"
       }
     ],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -46481,7 +46667,7 @@
         "code": "31"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -47060,7 +47246,7 @@
         "code": "52"
       }
     ],
-    "people": "45",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -52396,7 +52582,7 @@
         "code": "19"
       }
     ],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -52869,7 +53055,7 @@
         "code": "523"
       }
     ],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -52999,7 +53185,7 @@
         "code": "32"
       }
     ],
-    "people": "67",
+    "people": "69",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -57904,7 +58090,7 @@
         "code": "452"
       }
     ],
-    "people": "84",
+    "people": "85",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -58487,7 +58673,7 @@
         "code": "429"
       }
     ],
-    "people": "96",
+    "people": "97",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -60505,7 +60691,7 @@
         "code": "333"
       }
     ],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -63731,7 +63917,7 @@
         "code": "424"
       }
     ],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -64845,7 +65031,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "138",
+    "people": "140",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -67514,7 +67700,7 @@
         "code": "94"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -71640,14 +71826,14 @@
         "code": "94"
       }
     ],
-    "people": "5",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "audit": "",
     "lab": "",
     "interdisciplinary": "半導體設備微學程",
-    "notes": "製科◎，限 25 人",
+    "notes": "製科◎/3 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605016",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363924&code=11098"
@@ -72098,7 +72284,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "50",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -72352,7 +72538,7 @@
         "code": "487"
       }
     ],
-    "people": "14",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -75858,7 +76044,7 @@
         "code": "433"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77443,7 +77629,7 @@
         "code": "460"
       }
     ],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -77573,7 +77759,7 @@
         "code": "525"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77697,7 +77883,7 @@
         "code": "571"
       }
     ],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -78642,7 +78828,7 @@
         "code": "46"
       }
     ],
-    "people": "83",
+    "people": "84",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -79645,7 +79831,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "35",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -80049,7 +80235,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -80551,7 +80737,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -80604,7 +80790,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -81272,7 +81458,7 @@
         "code": "473"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -81340,7 +81526,7 @@
         "code": "467"
       }
     ],
-    "people": "48",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -81403,7 +81589,7 @@
         "code": "473"
       }
     ],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -82791,7 +82977,7 @@
         "code": "467"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -86504,7 +86690,7 @@
         "code": "211"
       }
     ],
-    "people": "40",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -86629,7 +86815,7 @@
         "code": "75"
       }
     ],
-    "people": "87",
+    "people": "88",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -86710,7 +86896,10 @@
     "interdisciplinary": "智慧感測科技微學程",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3324178",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366062&code=12279",
+      "ShowSyllabus.jsp?snum=366062&code=11251"
+    ]
   },
   {
     "code": "5605021",
@@ -89727,7 +89916,7 @@
         "code": "399"
       }
     ],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -91022,7 +91211,7 @@
         "code": "553"
       }
     ],
-    "people": "127",
+    "people": "128",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -91997,7 +92186,7 @@
         "code": "62"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -96143,7 +96332,7 @@
         "code": "10"
       }
     ],
-    "people": "34",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -98870,9 +99059,9 @@
     },
     "classroom": [
       {
-        "name": "化工205",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=400",
-        "code": "400"
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=438",
+        "code": "438"
       }
     ],
     "people": "19",
@@ -101598,7 +101787,7 @@
         "code": "433"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -102908,7 +103097,7 @@
         "code": "333"
       }
     ],
-    "people": "45",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -103531,9 +103720,9 @@
     },
     "classroom": [
       {
-        "name": "設計252",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=457",
-        "code": "457"
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=45",
+        "code": "45"
       }
     ],
     "people": "25",
@@ -103876,7 +104065,7 @@
         "code": "44"
       }
     ],
-    "people": "38",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -108468,7 +108657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "48",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -109655,7 +109844,7 @@
         "code": "109"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -111027,7 +111216,7 @@
         "code": "109"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -113105,7 +113294,7 @@
         "code": "462"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -113709,7 +113898,7 @@
         "code": "333"
       }
     ],
-    "people": "52",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114261,7 +114450,7 @@
         "code": "53"
       }
     ],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114383,7 +114572,7 @@
         "code": "63"
       }
     ],
-    "people": "61",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114810,7 +114999,7 @@
         "code": "335"
       }
     ],
-    "people": "61",
+    "people": "66",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114871,7 +115060,7 @@
         "code": "58"
       }
     ],
-    "people": "41",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114932,7 +115121,7 @@
         "code": "574"
       }
     ],
-    "people": "56",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115176,7 +115365,7 @@
         "code": "21"
       }
     ],
-    "people": "31",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115359,7 +115548,7 @@
         "code": "35"
       }
     ],
-    "people": "66",
+    "people": "67",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115481,7 +115670,7 @@
         "code": "574"
       }
     ],
-    "people": "50",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -115725,7 +115914,7 @@
         "code": "564"
       }
     ],
-    "people": "52",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116091,7 +116280,7 @@
         "code": "562"
       }
     ],
-    "people": "80",
+    "people": "83",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116152,7 +116341,7 @@
         "code": "466"
       }
     ],
-    "people": "73",
+    "people": "74",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116213,7 +116402,7 @@
         "code": "334"
       }
     ],
-    "people": "62",
+    "people": "63",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116335,7 +116524,7 @@
         "code": "424"
       }
     ],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116396,7 +116585,7 @@
         "code": "574"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -116701,7 +116890,7 @@
         "code": "467"
       }
     ],
-    "people": "76",
+    "people": "78",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117006,7 +117195,7 @@
         "code": "43"
       }
     ],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117067,7 +117256,7 @@
         "code": "42"
       }
     ],
-    "people": "51",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117372,7 +117561,7 @@
         "code": "554"
       }
     ],
-    "people": "77",
+    "people": "78",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117616,7 +117805,7 @@
         "code": "572"
       }
     ],
-    "people": "72",
+    "people": "74",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117738,7 +117927,7 @@
         "code": "63"
       }
     ],
-    "people": "54",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117983,7 +118172,7 @@
         "code": "554"
       }
     ],
-    "people": "73",
+    "people": "75",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118227,7 +118416,7 @@
         "code": "56"
       }
     ],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118410,7 +118599,7 @@
         "code": "35"
       }
     ],
-    "people": "68",
+    "people": "69",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118471,7 +118660,7 @@
         "code": "554"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "英語",
@@ -118898,7 +119087,7 @@
         "code": "427"
       }
     ],
-    "people": "69",
+    "people": "70",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118959,7 +119148,7 @@
         "code": "574"
       }
     ],
-    "people": "56",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119020,7 +119209,7 @@
         "code": "71"
       }
     ],
-    "people": "58",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119081,7 +119270,7 @@
         "code": "37"
       }
     ],
-    "people": "80",
+    "people": "82",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119264,7 +119453,7 @@
         "code": "55"
       }
     ],
-    "people": "24",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119386,7 +119575,7 @@
         "code": "52"
       }
     ],
-    "people": "51",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119508,7 +119697,7 @@
         "code": "55"
       }
     ],
-    "people": "30",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119569,7 +119758,7 @@
         "code": "574"
       }
     ],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -119874,7 +120063,7 @@
         "code": "466"
       }
     ],
-    "people": "80",
+    "people": "85",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120057,7 +120246,7 @@
         "code": "562"
       }
     ],
-    "people": "80",
+    "people": "82",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120179,7 +120368,7 @@
         "code": "98"
       }
     ],
-    "people": "51",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120240,7 +120429,7 @@
         "code": "48"
       }
     ],
-    "people": "47",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120301,7 +120490,7 @@
         "code": "53"
       }
     ],
-    "people": "86",
+    "people": "90",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120362,7 +120551,7 @@
         "code": "468"
       }
     ],
-    "people": "80",
+    "people": "81",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120484,7 +120673,7 @@
         "code": "562"
       }
     ],
-    "people": "79",
+    "people": "82",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120545,7 +120734,7 @@
         "code": "61"
       }
     ],
-    "people": "49",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120728,7 +120917,7 @@
         "code": "63"
       }
     ],
-    "people": "53",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120789,7 +120978,7 @@
         "code": "98"
       }
     ],
-    "people": "50",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120972,7 +121161,7 @@
         "code": "574"
       }
     ],
-    "people": "56",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -121155,7 +121344,7 @@
         "code": "66"
       }
     ],
-    "people": "49",
+    "people": "51",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -121277,7 +121466,7 @@
         "code": "63"
       }
     ],
-    "people": "55",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -121338,7 +121527,7 @@
         "code": "574"
       }
     ],
-    "people": "53",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -122172,7 +122361,7 @@
         "code": "574"
       }
     ],
-    "people": "46",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -122663,7 +122852,7 @@
         "code": "15"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -122901,7 +123090,7 @@
         "code": "15"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -123257,7 +123446,7 @@
         "code": "439"
       }
     ],
-    "people": "90",
+    "people": "94",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -123318,7 +123507,7 @@
         "code": "439"
       }
     ],
-    "people": "90",
+    "people": "93",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -123379,7 +123568,7 @@
         "code": "35"
       }
     ],
-    "people": "72",
+    "people": "75",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -123440,7 +123629,7 @@
         "code": "35"
       }
     ],
-    "people": "72",
+    "people": "78",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -124058,7 +124247,7 @@
         "code": "401"
       }
     ],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -124426,7 +124615,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -126191,7 +126380,9 @@
     "interdisciplinary": "工程_第二專長【分子系_高分子材料】\n軟質材料與智慧紡織科技",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3534047",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=367137&code=24726"
+    ]
   },
   {
     "code": "B302009",
@@ -126916,7 +127107,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -140426,7 +140617,18 @@
         "code": "2900"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "邱家吉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12176",
+        "code": "12176"
+      },
+      {
+        "name": "邱揚淳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12535",
+        "code": "12535"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -140470,7 +140672,18 @@
         "code": "2923"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "龍祈澔",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11680",
+        "code": "11680"
+      },
+      {
+        "name": "韓秉軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11969",
+        "code": "11969"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -140514,7 +140727,13 @@
         "code": "2910"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林靜娟",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10450",
+        "code": "10450"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -140558,7 +140777,18 @@
         "code": "3026"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃銘智",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11079",
+        "code": "11079"
+      },
+      {
+        "name": "鄭孟淙",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11540",
+        "code": "11540"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -140602,7 +140832,28 @@
         "code": "3011"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "宋國明",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11009",
+        "code": "11009"
+      },
+      {
+        "name": "張致遠",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12303",
+        "code": "12303"
+      },
+      {
+        "name": "莊政達",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12201",
+        "code": "12201"
+      },
+      {
+        "name": "黃正民",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11551",
+        "code": "11551"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141030,7 +141281,28 @@
         "code": "3022"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "胡心卉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11467",
+        "code": "11467"
+      },
+      {
+        "name": "高立人",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11433",
+        "code": "11433"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "譚巽言",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10304",
+        "code": "10304"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141074,7 +141346,13 @@
         "code": "2915"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "孫勤昱",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12387",
+        "code": "12387"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141118,7 +141396,18 @@
         "code": "3009"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林正釧",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12383",
+        "code": "12383"
+      },
+      {
+        "name": "葉奕良",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12086",
+        "code": "12086"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141162,7 +141451,13 @@
         "code": "2921"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王雅璇",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12602",
+        "code": "12602"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141206,7 +141501,13 @@
         "code": "3114"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "粘朝益",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12440",
+        "code": "12440"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141250,7 +141551,18 @@
         "code": "3008"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李政宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12346",
+        "code": "12346"
+      },
+      {
+        "name": "粘朝益",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12440",
+        "code": "12440"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -141294,7 +141606,13 @@
         "code": "2891"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李政宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12346",
+        "code": "12346"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
