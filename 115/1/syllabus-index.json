@@ -723,7 +723,8 @@
       13,
       14,
       15,
-      16
+      16,
+      17
     ],
     "resources": [
       "參與式創新教學 (Participatory & Innovative Teaching)\n強調學生參與與產出，導入翻轉、PBL/專題、設計思考或遊戲化等策略。\nEmphasizes student engagement and outcomes by adopting strategies such as Flipped Classroom, PBL (Problem/Project- Based Learning), Design Thinking, or Gamification.",
@@ -12015,7 +12016,8 @@
     ],
     "sdgs": [
       7,
-      9
+      9,
+      17
     ],
     "resources": [
       "混成學習 (Blended Learning)\n課程結合實體授課與線上學習（同步視訊／非同步活動）。\nCombines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).",
@@ -20449,10 +20451,12 @@
     "sdgs": [
       3,
       4,
+      7,
       8,
       9,
       11,
-      13
+      13,
+      17
     ],
     "resources": [
       "數位科技融入 (Digital Technology Integration)\n運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。\nUtilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
@@ -20997,10 +21001,12 @@
     "sdgs": [
       3,
       4,
+      7,
       8,
       9,
       11,
-      13
+      13,
+      17
     ],
     "resources": [
       "數位科技融入 (Digital Technology Integration)\n運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。\nUtilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
@@ -22358,10 +22364,15 @@
     "hasSyllabus": true
   },
   "366228": {
-    "ai": [],
-    "sdgs": [],
+    "ai": [
+      "簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）"
+    ],
+    "sdgs": [
+      7,
+      17
+    ],
     "resources": [],
-    "hasSyllabus": false
+    "hasSyllabus": true
   },
   "366229": {
     "ai": [],
@@ -33621,10 +33632,15 @@
     "hasSyllabus": true
   },
   "371951": {
-    "ai": [],
-    "sdgs": [],
+    "ai": [
+      "鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）"
+    ],
+    "sdgs": [
+      4,
+      9
+    ],
     "resources": [],
-    "hasSyllabus": false
+    "hasSyllabus": true
   },
   "371952": {
     "ai": [
