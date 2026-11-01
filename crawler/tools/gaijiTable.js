@@ -1,23 +1,262 @@
-// APS stores NTUT's own glyphs (造字) as private-use code points and renders
-// them with the school's MingGaiji webfont. They do not follow HKSCS, so each
-// entry was matched by eye against that font. The school's table is fixed, so
-// a code point means the same character in every semester.
-// An empty string drops a code point that has no glyph even on the school site.
+// Maps private-use characters found in APS text to standard characters.
+// Code points that are still unknown stay out of the table, so replaceGaiji
+// keeps and reports them. An empty string drops a code point that has no
+// glyph even on the school site.
 module.exports = {
-  "": "峯",
-  "": "琮",
-  "": "雯",
-  "": "煒",
-  "": "温",
-  "": "勳",
-  "": "酶",
-  "": "蒄",
-  "": "免",
+  // NTUT's own glyphs (造字), U+E000–E2FF. APS renders them with the school's
+  // MingGaiji webfont from font.ntut.edu.tw. They do not follow HKSCS, so each
+  // entry was matched by eye against that font and confirmed with the IDS
+  // database. A code point means the same character in every semester.
+  //
+  // Left out on purpose:
+  // U+E049 is drawn as 活 (⿰氵舌), but every occurrence is the translator
+  // 「謝永_」 of a 國防部史政編譯局 book, which reads like 湉 (⿰氵恬).
+  "\uE001": "峯",
+  // The glyph is 琼, the simplified 瓊 in the name 周琼.
+  "\uE003": "琼",
+  "\uE005": "綉",
+  "\uE00F": "琮",
+  "\uE010": "堃",
+  "\uE011": "豊",
+  "\uE016": "敍",
+  "\uE017": "况",
+  "\uE019": "鑛",
+  // ⿰火冋. 烱 (⿰火冏) is U+E0E3.
+  "\uE026": "炯",
+  "\uE02E": "暐",
+  "\uE031": "凃",
+  "\uE034": "烟",
+  "\uE03C": "烜",
+  "\uE03F": "羣",
+  "\uE041": "稜",
+  "\uE043": "雯",
+  "\uE046": "煒",
+  "\uE04D": "晧",
+  "\uE04F": "婕",
+  "\uE051": "鉞",
+  "\uE053": "珺",
+  "\uE055": "葳",
+  "\uE058": "媜",
+  "\uE05F": "瀞",
+  "\uE062": "献",
+  "\uE065": "鋒",
+  "\uE069": "叁",
+  "\uE06E": "玎",
+  "\uE077": "姵",
+  "\uE079": "数",
+  "\uE07C": "銹",
+  "\uE081": "庄",
+  "\uE082": "芃",
+  "\uE087": "鋐",
+  "\uE08F": "双",
+  "\uE098": "瑢",
+  "\uE09D": "喆",
+  "\uE0A5": "焄",
+  "\uE0AF": "温",
+  "\uE0B0": "龐",
+  "\uE0B2": "勳",
+  "\uE0BF": "参",
+  "\uE0C7": "咏",
+  "\uE0C8": "运",
+  "\uE0CD": "坂",
+  "\uE0E1": "勳",
+  "\uE0E3": "烱",
+  "\uE0E9": "酶",
+  "\uE0EA": "珏",
+  "\uE0ED": "壎",
+  "\uE0F1": "槺",
+  "\uE0F3": "聿",
+  "\uE101": "蒄",
+  "\uE102": "免",
+  "\uE10A": "肽",
+  "\uE10C": "胜",
+  "\uE10D": "苷",
+  // ⿱𥫗凡.
+  "\uE10E": "竼",
+  "\uE112": "樎",
+  "\uE119": "滙",
+  "\uE11A": "舘",
+  "\uE122": "憙",
+  "\uE12F": "祐",
   // The glyph has the 示 radical, not 衣 (𬡥).
-  "": "禎",
-  "": "迪",
+  "\uE136": "禎",
+  "\uE15C": "脚",
+  "\uE17A": "个",
+  "\uE17B": "関",
+  "\uE183": "諭",
+  // The webfont now draws 塲, but every occurrence from 104 to 115 reads as
+  // 啟 (啟發, 啟動, 啟蒙).
+  "\uE188": "啟",
+  "\uE195": "熺",
+  // ⿰𤣩⿱𱼀缶, the Taiwanese form of 瑤.
+  "\uE19C": "瑤",
+  "\uE19D": "菓",
+  "\uE19E": "庙",
+  "\uE1B3": "迪",
+  "\uE1B5": "酞",
   // The glyph is 姉, not 姊.
-  "": "姉",
-  "": "晣",
-  "": "",
+  "\uE1B7": "姉",
+  "\uE1D0": "俞",
+  "\uE1D1": "綦",
+  "\uE1DA": "啓",
+  "\uE1EA": "虬",
+  "\uE1EB": "爲",
+  "\uE1EC": "腈",
+  // ⿰日彗.
+  "\uE1F4": "暳",
+  "\uE202": "强",
+  "\uE210": "黄",
+  "\uE26C": "晣",
+
+  // Word's Symbol and Wingdings fonts store their glyphs at U+F020–F0FF. The
+  // font name is lost, so each entry follows the context. Wingdings glyphs
+  // that Unicode 7 added in new blocks (🕮, 🞐, ⮚, ⮛, 🗸, 🗹, ornaments) are
+  // missing from most system fonts, so those map to the closest common symbol.
+  //
+  // Left out on purpose:
+  // U+F024 follows "technology" before a full stop, where neither Symbol ∃
+  // nor Wingdings 👓 makes sense.
+  // U+F02A bullets a reading list, where Symbol ∗ and Wingdings 🖂 both fit.
+  "\uF020": " ",
+  "\uF026": "📖",
+  // Symbol Δ, as in "Y接與Δ接".
+  "\uF044": "Δ",
+  "\uF04A": "☺",
+  "\uF052": "☼",
+  "\uF06C": "●",
+  "\uF06E": "■",
+  "\uF06F": "□",
+  "\uF070": "□",
+  "\uF071": "❑",
+  "\uF075": "◆",
+  "\uF076": "❖",
+  "\uF077": "⬥",
+  "\uF078": "⌧",
+  "\uF079": "⍓",
+  "\uF07E": "❞",
+  "\uF081": "①",
+  "\uF082": "②",
+  "\uF083": "③",
+  "\uF084": "④",
+  "\uF085": "⑤",
+  "\uF086": "⑥",
+  "\uF087": "⑦",
+  "\uF088": "⑧",
+  "\uF089": "⑨",
+  "\uF08A": "⑩",
+  // Leaf ornaments used as bullets.
+  "\uF097": "•",
+  "\uF099": "•",
+  "\uF09E": "·",
+  "\uF09F": "•",
+  "\uF0A2": "○",
+  "\uF0A4": "◉",
+  "\uF0A7": "▪",
+  // Symbol ±, as in "平時成績 (±5%)".
+  "\uF0B1": "±",
+  "\uF0B2": "✧",
+  // Symbol's horizontal line, used as a dash in a book title.
+  "\uF0BE": "—",
+  // Symbol ®, as in "MATLAB® and Simulink".
+  "\uF0D2": "®",
+  "\uF0D8": "➢",
+  "\uF0DA": "▼",
+  "\uF0E0": "→",
+  "\uF0E8": "➔",
+  "\uF0F0": "⇨",
+  "\uF0FC": "✓",
+  "\uF0FE": "☑",
+
+  // Microsoft's CP950 maps Big5 user-defined bytes to U+E311–F848. Text typed
+  // with the HKSCS and ETEN extensions lands there, so these entries decode
+  // the Big5 bytes as Big5-HKSCS: accented Latin letters (88xx), and ETEN's
+  // circled numbers, kana and fullwidth marks (C6A1–C8FE).
+  //
+  // Left out on purpose:
+  // U+F320 decodes to È, but sits in "H_UBSCH" (Hübsch).
+  "\uE9AF": "発",
+  "\uF31E": "É",
+  "\uF32B": "á",
+  "\uF32D": "à",
+  "\uF330": "é",
+  "\uF332": "è",
+  "\uF334": "í",
+  "\uF338": "ó",
+  "\uF33C": "ú",
+  "\uF343": "ü",
+  "\uF348": "ê",
+  "\uF3C1": "学",
+  "\uF6B1": "①",
+  "\uF6B2": "②",
+  "\uF6B3": "③",
+  "\uF6B4": "④",
+  "\uF6B5": "⑤",
+  "\uF6B6": "⑥",
+  "\uF6B7": "⑦",
+  "\uF6CF": "丶",
+  // ETEN has the Kangxi radical ⼳ here; this is its unified ideograph.
+  "\uF6DD": "幺",
+  "\uF6EA": "ヽ",
+  "\uF6F3": "ー",
+  "\uF6F4": "［",
+  "\uF6F5": "］",
+  "\uF6F8": "あ",
+  "\uF6FA": "い",
+  "\uF702": "が",
+  "\uF703": "き",
+  "\uF709": "こ",
+  "\uF70E": "じ",
+  "\uF710": "ず",
+  "\uF713": "そ",
+  "\uF715": "た",
+  "\uF717": "ち",
+  "\uF719": "っ",
+  "\uF71C": "て",
+  "\uF71D": "で",
+  "\uF71E": "と",
+  "\uF71F": "ど",
+  "\uF721": "に",
+  "\uF724": "の",
+  "\uF725": "は",
+  "\uF737": "め",
+  "\uF73F": "ら",
+  "\uF741": "る",
+  "\uF74B": "ア",
+  "\uF74D": "イ",
+  "\uF754": "カ",
+  "\uF755": "ガ",
+  "\uF758": "ク",
+  "\uF75B": "ゲ",
+  "\uF75F": "ザ",
+  "\uF761": "ジ",
+  "\uF762": "ス",
+  "\uF765": "ゼ",
+  "\uF768": "タ",
+  "\uF76C": "ッ",
+  "\uF770": "デ",
+  "\uF771": "ト",
+  "\uF772": "ド",
+  "\uF774": "ニ",
+  "\uF77E": "フ",
+  "\uF77F": "ブ",
+  "\uF780": "プ",
+  "\uF787": "マ",
+  "\uF789": "ム",
+  "\uF78E": "ュ",
+  "\uF792": "ラ",
+  "\uF793": "リ",
+  "\uF794": "ル",
+  "\uF795": "レ",
+  "\uF79C": "ン",
+  "\uF81A": "＂",
+  "\uF845": "ø",
+
+  // No glyph in the school's webfont, and no meaningful Big5 decoding; each
+  // sits in garbled text or as a stray mark next to punctuation.
+  "\uE922": "",
+  "\uEEE8": "",
+  "\uEF0D": "",
+  "\uEF0F": "",
+  "\uF87D": "",
+  "\uF87F": "",
 };

@@ -1,6 +1,6 @@
 const GAIJI_TABLE = require("./gaijiTable");
 
-const PRIVATE_USE_PATTERN = /[-]/gu;
+const PRIVATE_USE_PATTERN = /[\uE000-\uF8FF]/gu;
 
 function formatCodePoint(char) {
   return `U+${char.codePointAt(0).toString(16).toUpperCase().padStart(4, "0")}`;
