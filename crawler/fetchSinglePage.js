@@ -1,6 +1,7 @@
 const cheerio = require("cheerio");
 const axios = require("axios").default;
 const axiosRetry = require("axios-retry").default;
+const { replaceGaijiInDocument } = require("./tools/gaiji");
 
 // APS is a legacy server and can legitimately take well over ten seconds to
 // produce a page. Keep a generous per-request deadline; GitHub Actions applies
@@ -46,7 +47,18 @@ const delay = (s) => new Promise((resolve) => setTimeout(resolve, s));
 async function fetchSinglePage(url, options) {
   await delay(100 + Math.random() * 500);
   const resp = await getResp(url, options);
-  return cheerio.load(resp.data);
+  const unknownGaiji = new Map();
+  const $ = replaceGaijiInDocument(cheerio.load(resp.data), (gaiji) => {
+    if (!unknownGaiji.has(gaiji.codePoint)) {
+      unknownGaiji.set(gaiji.codePoint, gaiji.context);
+    }
+  });
+  for (const [codePoint, context] of unknownGaiji) {
+    console.warn(
+      `[gaiji] ${url}: unknown ${codePoint} in "${context}", add it to crawler/tools/gaijiTable.js`
+    );
+  }
+  return $;
 }
 async function getResp(url, options = {}) {
   const now = new Date();
