@@ -50,6 +50,13 @@ test("replaceGaiji decodes Big5 extension characters as Big5-HKSCS", () => {
   assert.equal(replaceGaiji("\uF6B1憲法\uF6B2刑法"), "①憲法②刑法");
 });
 
+test("replaceGaiji corrects 簡媜 where the source text misspells or drops it", () => {
+  assert.equal(replaceGaiji("簡勠〈母者〉"), "簡媜〈母者〉");
+  assert.equal(replaceGaiji("簡《誰在銀閃閃的地方 等你》"), "簡媜《誰在銀閃閃的地方 等你》");
+  assert.equal(replaceGaiji("簡媜《誰在銀閃閃的地方 等你》"), "簡媜《誰在銀閃閃的地方 等你》");
+  assert.equal(replaceGaiji("繁為簡。《論語》"), "繁為簡。《論語》");
+});
+
 test("replaceGaiji removes gaiji that have no glyph", () => {
   assert.equal(replaceGaiji("王\uEF0D小明"), "王小明");
   assert.equal(replaceGaiji("色彩原論／\uF87F全華科技圖書"), "色彩原論／全華科技圖書");
