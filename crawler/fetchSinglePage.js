@@ -7,7 +7,12 @@ const axiosRetry = require("axios-retry").default;
 // a separate dataset-level timeout so one permanently stuck request still
 // cannot block publishing indefinitely.
 const REQUEST_TIMEOUT_MS = 20 * 60 * 1000;
-const REQUEST_RETRIES = 2;
+// APS outages often outlast a few minutes, and each failed connect waits for
+// the OS SYN timeout (~135s). The 20-minute deadline is shared by every
+// attempt, so the backoff (15s, 30s, 60s, 120s) still leaves several minutes
+// for a slow full-dataset response on the last attempt.
+const REQUEST_RETRIES = 4;
+const RETRY_DELAY_FACTOR_MS = 7.5 * 1000;
 const REQUEST_HEARTBEAT_MS = 60 * 1000;
 const http = axios.create();
 
@@ -15,11 +20,19 @@ function isCanceledError(error) {
   return error?.code === "ERR_CANCELED" || axios.isCancel(error);
 }
 
+// A failed TCP connect means the request never reached APS, so even a POST
+// can be resent without risk of the server having processed it.
+function isConnectError(error) {
+  return error?.cause?.syscall === "connect";
+}
+
 axiosRetry(http, {
   retries: REQUEST_RETRIES,
-  retryDelay: axiosRetry.exponentialDelay,
+  retryDelay: (retryCount, error) =>
+    axiosRetry.exponentialDelay(retryCount, error, RETRY_DELAY_FACTOR_MS),
   retryCondition: (error) =>
-    !isCanceledError(error) && axiosRetry.isSafeRequestError(error),
+    !isCanceledError(error) &&
+    (axiosRetry.isSafeRequestError(error) || isConnectError(error)),
   shouldResetTimeout: false,
   onRetry: (retryCount, error, requestConfig) => {
     console.warn(
