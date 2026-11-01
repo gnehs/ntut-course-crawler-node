@@ -27,11 +27,16 @@ async function main() {
   ).filter(([key]) => key != "vcalendar");
   console.log(`[fetch] calendar data received (${entries.length} entries)`);
 
+  // Google stamps dtstamp with the export time and returns same-day events in
+  // varying order; drop the stamp and break ties by uid so an unchanged
+  // calendar serialises identically and does not produce a daily commit.
   let data = entries
     .map(([_, x]) => x)
-    // short by start
-    .sort((a, b) => new Date(a.start) - new Date(b.start))
-    .map((x) => {
+    .sort(
+      (a, b) =>
+        new Date(a.start) - new Date(b.start) || a.uid.localeCompare(b.uid)
+    )
+    .map(({ dtstamp, ...x }) => {
       x.summary = pangu(x.summary);
       return x;
     });

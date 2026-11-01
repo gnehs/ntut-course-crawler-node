@@ -2,16 +2,32 @@
 // 計算各個老師的退選率
 const axios = require("axios").default;
 const fs = require("fs");
+const path = require("path");
 const color = require("colors");
 const REQUEST_TIMEOUT_MS = 30 * 1000;
-const MAIN_URL =
-  "https://gnehs.github.io/ntut-course-crawler-node/main.json";
+const PUBLISHED_URL = "https://gnehs.github.io/ntut-course-crawler-node";
+// CI points this at a checkout of gh-pages, so analytics never reads a Pages
+// build that is still deploying the course data it was triggered by.
+const DATA_DIR = process.env.ANALYTICS_DATA_DIR;
 
 function requestOptions() {
   return {
     timeout: REQUEST_TIMEOUT_MS,
     signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
   };
+}
+
+async function loadPublishedJson(relativePath) {
+  if (DATA_DIR) {
+    return JSON.parse(
+      await fs.promises.readFile(path.join(DATA_DIR, relativePath), "utf8")
+    );
+  }
+  const { data } = await axios.get(
+    `${PUBLISHED_URL}/${encodeURI(relativePath)}`,
+    requestOptions()
+  );
+  return data;
 }
 
 function errorCode(error) {
@@ -31,12 +47,7 @@ async function main() {
     const startedAt = Date.now();
     console.log(`[fetch] ${y}-${s} ${department} started`);
     try {
-      const { data: res } = await axios.get(
-        `https://gnehs.github.io/ntut-course-crawler-node/${y}/${s}/${encodeURI(
-          department
-        )}.json`,
-        requestOptions()
-      );
+      const res = await loadPublishedJson(`${y}/${s}/${department}.json`);
       console.log(
         `[fetch] ${y}-${s} ${department} done -- ${Date.now() - startedAt}ms`.gray
       );
@@ -54,7 +65,7 @@ async function main() {
   console.log("[start] withdrawal analytics");
   const manifestStartedAt = Date.now();
   console.log("[fetch] course manifest started");
-  let { data: main } = await axios.get(MAIN_URL, requestOptions());
+  let main = await loadPublishedJson("main.json");
   console.log(
     `[fetch] course manifest done -- ${Date.now() - manifestStartedAt}ms`.gray
   );

@@ -4,8 +4,14 @@ on:
   push:
     branches:
       - 蹦蹦
+  workflow_dispatch:
+  # Withdrawal analytics only changes when course data does, so it follows
+  # each course refresh; the calendar rarely changes and is checked weekly.
+  workflow_run:
+    workflows: [fetch current courses]
+    types: [completed]
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: "0 0 * * 1"
 
 permissions:
   contents: read
@@ -13,6 +19,7 @@ permissions:
 jobs:
   FetchAnalytics:
     name: Fetch analytics data
+    if: ${{ github.event_name != 'schedule' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success') }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -26,8 +33,23 @@ jobs:
       - name: Install npm packages
         timeout-minutes: 5
         run: npm ci
+      - name: Check out the published course lists
+        uses: actions/checkout@v7
+        timeout-minutes: 5
+        with:
+          ref: gh-pages
+          path: .published
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /main.json
+            /*/*/main.json
+            /*/*/進修部.json
+            /*/*/研究所*.json
       - name: Run analytics
         timeout-minutes: 12
+        env:
+          ANALYTICS_DATA_DIR: .published
         run: node ./analytics/withdrawal.js
       - name: Upload analytics artifact
         timeout-minutes: 5
@@ -40,6 +62,7 @@ jobs:
 
   FetchCalendar:
     name: Fetch calendar data
+    if: ${{ github.event_name != 'workflow_run' }}
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
@@ -67,7 +90,7 @@ jobs:
 
   Deploy:
     name: Deploy available datasets
-    if: ${{ !cancelled() }}
+    if: ${{ !cancelled() && (needs.FetchAnalytics.result != 'skipped' || needs.FetchCalendar.result != 'skipped') }}
     needs: [FetchAnalytics, FetchCalendar]
     runs-on: ubuntu-latest
     timeout-minutes: 15
