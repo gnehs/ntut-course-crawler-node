@@ -1,0 +1,16 @@
+name: Probe APS
+description: >-
+  Fail fast when this runner cannot open a connection to aps.ntut.edu.tw.
+  Some runner IPs never reach APS, and retrying on the same runner does not
+  help, so a quick failure lets the rerun workflow move the job to a fresh one.
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: |
+        curl --fail --silent --show-error \
+          --connect-timeout 20 \
+          --max-time 300 \
+          --retry 1 \
+          --output /dev/null \
+          "https://aps.ntut.edu.tw/course/tw/QueryCurrPage.jsp"

@@ -1,10 +1,7 @@
 const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
-const axios = require("axios").default;
-const axiosRetry = require("axios-retry").default;
 const fs = require("fs");
 const { parseSyllabusHtml } = require("./parsers/syllabus");
-axiosRetry(axios, { retries: 3 });
 async function fetchSyllabus(matricKey = "日間部", year = 109, sem = 2) {
   fs.mkdirSync(`./dist/${year}/${sem}/course`, { recursive: true });
   let result;

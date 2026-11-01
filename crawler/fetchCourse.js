@@ -1,12 +1,9 @@
 const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
 const fs = require("fs");
-const axios = require("axios").default;
-const axiosRetry = require("axios-retry").default;
 const pangu = require("./tools/pangu").spacing;
 const { parseQueryCourseHtml } = require("./parsers/queryCourse");
 const globalRegexParse = /\n|^ | $/g;
-axiosRetry(axios, { retries: 3 });
 function normaliseDescriptionText(value) {
   return String(value ?? "")
     .replace(/\r\n?/g, "\n")

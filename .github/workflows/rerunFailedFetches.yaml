@@ -1,0 +1,28 @@
+name: rerun failed fetches
+
+# Some GitHub runner IPs cannot reach APS at all, and retrying on the same
+# runner never recovers. Re-running the failed jobs schedules them on fresh
+# runners; artifacts from the jobs that already succeeded stay in the run.
+on:
+  workflow_run:
+    workflows:
+      - fetch current courses
+      - fetch current departments
+      - fetch current programs
+      - fetch standards
+    types: [completed]
+
+permissions:
+  actions: write
+
+jobs:
+  Rerun:
+    if: ${{ github.event.workflow_run.conclusion == 'failure' && github.event.workflow_run.run_attempt < 3 }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Re-run failed jobs on fresh runners
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+        run: gh run rerun "$RUN_ID" --failed --repo "$GITHUB_REPOSITORY"
