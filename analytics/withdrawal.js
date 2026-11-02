@@ -177,14 +177,16 @@ async function main() {
     fs.mkdirSync(`./dist/analytics/`, { recursive: true });
     fs.writeFileSync(
       `./dist/analytics/withdrawal${filename}.json`,
-      JSON.stringify({ stat, data: result })
+      JSON.stringify({ stat, data: result }, null, 2)
     );
     fs.writeFileSync(
       `./dist/analytics/withdrawal-rate${filename}.json`,
       JSON.stringify(
         result
           .map((x) => ({ name: x.name, rate: x.rate_percent }))
-          .reduce((a, b) => ({ ...a, [b.name]: b.rate }), {})
+          .reduce((a, b) => ({ ...a, [b.name]: b.rate }), {}),
+        null,
+        2
       )
     );
     return result;

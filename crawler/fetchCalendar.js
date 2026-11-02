@@ -41,7 +41,7 @@ async function main() {
       return x;
     });
   fs.mkdirSync("./dist/", { recursive: true });
-  fs.writeFileSync("./dist/calendar.json", JSON.stringify(data));
+  fs.writeFileSync("./dist/calendar.json", JSON.stringify(data, null, 2));
   console.log(
     `[complete] calendar data saved (${data.length} events, ${
       Date.now() - startedAt
