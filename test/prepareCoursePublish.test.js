@@ -51,3 +51,31 @@ test("unsafe paths and fully empty manifests cannot replace published courses", 
   for (const name of ["main.json", "進修部.json", "研究所(日間部、進修部、週末碩士班).json"]) write(name, []);
   assert.throws(() => prepareCoursePublish("115", "1", root), /empty semester/);
 });
+
+test("a list that loses most of its published courses blocks publication", (t) => {
+  const { root, write } = fixture(t);
+  const published = fs.mkdtempSync(path.join(os.tmpdir(), "ntut-published-test-"));
+  t.after(() => fs.rmSync(published, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(published, "115", "1"), { recursive: true });
+  const publish = (name, count) => fs.writeFileSync(path.join(published, "115", "1", name),
+    JSON.stringify(Array.from({ length: count }, (_, i) => ({ id: String(i) }))));
+
+  publish("main.json", 2);
+  const kept = prepareCoursePublish("115", "1", root, published);
+  fs.rmSync(kept.directory, { recursive: true, force: true });
+
+  publish("main.json", 3);
+  assert.throws(() => prepareCoursePublish("115", "1", root, published), /shrink main\.json from 3 to 1/);
+
+  write("main.json", [{ id: "101", syllabusLinks: ["example"] }, { id: "103", syllabusLinks: [] }]);
+  const recovered = prepareCoursePublish("115", "1", root, published);
+  fs.rmSync(recovered.directory, { recursive: true, force: true });
+});
+
+test("a semester not yet published has no list to compare against", (t) => {
+  const { root } = fixture(t);
+  const published = fs.mkdtempSync(path.join(os.tmpdir(), "ntut-published-test-"));
+  t.after(() => fs.rmSync(published, { recursive: true, force: true }));
+  const result = prepareCoursePublish("115", "1", root, published);
+  fs.rmSync(result.directory, { recursive: true, force: true });
+});

@@ -156,16 +156,16 @@ jobs:
         with:
           name: semester-manifest
           path: ./dist/
-      - name: Validate snapshot and build syllabus search index
-        id: snapshot
-        timeout-minutes: 10
-        run: node finalizeCourseData.js ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }}
       - name: Check out the currently published dataset
         uses: actions/checkout@v7
         timeout-minutes: 5
         with:
           ref: gh-pages
           path: .published
+      - name: Validate snapshot and build syllabus search index
+        id: snapshot
+        timeout-minutes: 10
+        run: node finalizeCourseData.js ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }} .published
       - name: Stage one atomic publication
         timeout-minutes: 5
         env:

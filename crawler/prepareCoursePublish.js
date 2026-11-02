@@ -8,8 +8,19 @@ const departmentFiles = [
   "研究所(日間部、進修部、週末碩士班).json",
 ];
 
+// A semester's list never loses half its courses between runs; APS has
+// returned a truncated QueryCourse table that still parsed cleanly.
+const minimumRetainedShare = 0.5;
+
+function publishedCourseCount(publishedRoot, semesterPath, filename) {
+  const file = path.join(publishedRoot, semesterPath, filename);
+  if (!fs.existsSync(file)) return null;
+  const data = JSON.parse(fs.readFileSync(file, "utf8"));
+  return Array.isArray(data) ? data.length : null;
+}
+
 // Build a complete, isolated snapshot. Never delete from a source dataset.
-function prepareCoursePublish(year, sem, root = "dist") {
+function prepareCoursePublish(year, sem, root = "dist", publishedRoot = null) {
   if (!/^\d+$/.test(String(year)) || !/^[12]$/.test(String(sem))) {
     throw new Error("Invalid semester for course publication");
   }
@@ -18,6 +29,13 @@ function prepareCoursePublish(year, sem, root = "dist") {
   for (const filename of departmentFiles) {
     const data = JSON.parse(fs.readFileSync(path.join(semesterDir, filename), "utf8"));
     if (!Array.isArray(data)) throw new Error(`Invalid course manifest: ${filename}`);
+    const publishedCount = publishedRoot &&
+      publishedCourseCount(publishedRoot, path.join(String(year), String(sem)), filename);
+    if (publishedCount && data.length < publishedCount * minimumRetainedShare) {
+      throw new Error(
+        `Refusing to shrink ${filename} from ${publishedCount} to ${data.length} courses`
+      );
+    }
     for (const course of data) {
       if (!/^\d+$/.test(course.id) || !Array.isArray(course.syllabusLinks)) {
         throw new Error(`Invalid course record in ${filename}`);
