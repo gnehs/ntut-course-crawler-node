@@ -1,17 +1,9 @@
 const fs = require("node:fs");
 const path = require("node:path");
 const { replaceGaiji } = require("./tools/gaiji");
+const { jsonFiles } = require("./tools/jsonFiles");
 
 const EXAMPLES_PER_CODE_POINT = 3;
-
-function* jsonFiles(directory) {
-  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
-    if (entry.name.startsWith(".")) continue;
-    const entryPath = path.join(directory, entry.name);
-    if (entry.isDirectory()) yield* jsonFiles(entryPath);
-    else if (entry.name.endsWith(".json")) yield entryPath;
-  }
-}
 
 // Rewrites gaiji in already published JSON without re-crawling. Private-use
 // characters can only occur inside JSON strings, so replacing them in the raw

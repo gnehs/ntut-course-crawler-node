@@ -1,5 +1,6 @@
 const fs = require("node:fs");
 const path = require("node:path");
+const { jsonFiles } = require("./tools/jsonFiles");
 
 // The school stores syllabi in Big5, so a character Big5 cannot hold comes
 // back as "?" (one per lost character) or as U+FFFD (one per lost byte, often
@@ -11,15 +12,6 @@ const EXAMPLES = 3;
 // One intact copy can itself be wrong (課堂?與 has a lone copy reading 課堂汮與),
 // so a recovery needs this many copies that agree.
 const MIN_COPIES = 2;
-
-function* jsonFiles(directory) {
-  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
-    if (entry.name.startsWith(".")) continue;
-    const entryPath = path.join(directory, entry.name);
-    if (entry.isDirectory()) yield* jsonFiles(entryPath);
-    else if (entry.name.endsWith(".json")) yield entryPath;
-  }
-}
 
 function* stringsIn(value) {
   if (typeof value === "string") yield value;
