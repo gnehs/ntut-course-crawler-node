@@ -95,4 +95,4 @@ async function getResp(url, options = {}) {
   }
 }
 
-module.exports = { fetchSinglePage };
+module.exports = { fetchSinglePage, getResp };

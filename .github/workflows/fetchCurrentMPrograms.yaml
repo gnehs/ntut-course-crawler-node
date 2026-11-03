@@ -74,10 +74,64 @@ jobs:
           if-no-files-found: error
           retention-days: 2
 
+  FetchMProgramDocs:
+    name: Fetch micro program documents
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch micro program documents
+        timeout-minutes: 10
+        run: node fetchMProgramDocs.js
+      - name: Upload micro program documents artifact
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: mprogram-docs-data
+          path: dist/mprogram-docs.json
+          if-no-files-found: error
+          retention-days: 2
+
+  FetchProgramDocs:
+    name: Fetch program documents
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        timeout-minutes: 5
+      - uses: actions/setup-node@v7
+        timeout-minutes: 5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install npm packages
+        timeout-minutes: 5
+        run: npm ci
+      - name: Fetch program documents
+        timeout-minutes: 10
+        run: node fetchProgramDocs.js
+      - name: Upload program documents artifact
+        timeout-minutes: 5
+        uses: actions/upload-artifact@v7
+        with:
+          name: program-docs-data
+          path: dist/program-docs.json
+          if-no-files-found: error
+          retention-days: 2
+
   Deploy:
     name: Deploy available datasets
     if: ${{ !cancelled() }}
-    needs: [FetchMProgram, FetchPrograms]
+    needs: [FetchMProgram, FetchMProgramDocs, FetchPrograms, FetchProgramDocs]
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -96,6 +150,13 @@ jobs:
         with:
           name: mprogram-data
           path: publish
+      - name: Download micro program documents artifact
+        if: ${{ !cancelled() && needs.FetchMProgramDocs.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
+        with:
+          name: mprogram-docs-data
+          path: publish
       - name: Download general program artifact
         if: ${{ !cancelled() && needs.FetchPrograms.result == 'success' }}
         uses: actions/download-artifact@v8
@@ -103,14 +164,21 @@ jobs:
         with:
           name: programs-data
           path: publish
+      - name: Download program documents artifact
+        if: ${{ !cancelled() && needs.FetchProgramDocs.result == 'success' }}
+        uses: actions/download-artifact@v8
+        timeout-minutes: 2
+        with:
+          name: program-docs-data
+          path: publish
       - name: Refuse an empty deployment
         timeout-minutes: 1
-        if: ${{ !cancelled() && needs.FetchMProgram.result != 'success' && needs.FetchPrograms.result != 'success' }}
+        if: ${{ !cancelled() && needs.FetchMProgram.result != 'success' && needs.FetchMProgramDocs.result != 'success' && needs.FetchPrograms.result != 'success' && needs.FetchProgramDocs.result != 'success' }}
         run: |
           echo "All dataset fetches failed; refusing to publish an empty deployment."
           exit 1
       - name: Deploy available datasets to GitHub Pages
-        if: ${{ !cancelled() && (needs.FetchMProgram.result == 'success' || needs.FetchPrograms.result == 'success') }}
+        if: ${{ !cancelled() && (needs.FetchMProgram.result == 'success' || needs.FetchMProgramDocs.result == 'success' || needs.FetchPrograms.result == 'success' || needs.FetchProgramDocs.result == 'success') }}
         timeout-minutes: 10
         uses: peaceiris/actions-gh-pages@v4
         with:
