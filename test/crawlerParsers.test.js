@@ -259,6 +259,23 @@ test("syllabus parser keeps text and URLs as published", () => {
   );
 });
 
+test("materials keep their first line when the foreign textbook answer is blank", () => {
+  const html = `
+    <table>
+      <tr><th>課程大綱</th><td>大綱</td></tr>
+      <tr><th>使用教材、參考書目或其他
+      <td><B>【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】</B><BR><BR>使用外文原文書：
+      <BR><textarea readonly="true">黃玉等　從服務中學習－跨領域服務學習理論與實務
+謝智謀　王怡婷譯　　體驗教育－帶領反思指導手冊</textarea></tr>
+    </table>`;
+  const syllabus = parseSyllabusHtml(html);
+  assert.equal(
+    syllabus.materials,
+    "黃玉等　從服務中學習－跨領域服務學習理論與實務\n謝智謀　王怡婷譯　　體驗教育－帶領反思指導手冊"
+  );
+  assert.equal(syllabus.foreignLanguageTextbooks, null);
+});
+
 test("foreign textbook parsing distinguishes yes, no, and unfilled", () => {
   assert.deepEqual(parseForeignLanguageTextbooks("使用外文原文書：是\n教材"), {
     value: true,

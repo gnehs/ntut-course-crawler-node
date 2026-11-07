@@ -3,6 +3,8 @@ const { LABEL_TO_FIELD, orderSyllabusRecord } = require("../syllabusFields");
 
 const SYLLABUS_PAGE_BASE = "https://aps.ntut.edu.tw/course/mobile/";
 const APS_HOSTNAME = "aps.ntut.edu.tw";
+const COPYRIGHT_NOTICE =
+  /【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】/u;
 
 function normaliseLabel(value) {
   return String(value ?? "")
@@ -85,8 +87,10 @@ function removeOfficeHoursLabel(value) {
 }
 
 function parseForeignLanguageTextbooks(materials) {
-  const text = normaliseMultiline(materials);
-  const marker = text.match(/使用外文原文書\s*[：:]\s*([^\n]*)/u);
+  const text = normaliseMultiline(
+    String(materials ?? "").replace(COPYRIGHT_NOTICE, "")
+  );
+  const marker = text.match(/使用外文原文書[ \t　]*[：:][ \t　]*([^\n]*)/u);
   let value = null;
   if (marker) {
     const answer = marker[1].trim();
