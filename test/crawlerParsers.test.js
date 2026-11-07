@@ -241,7 +241,7 @@ test("syllabus parser keeps optional fields and extracts structured values", () 
   assert.equal(hasSyllabusContent(syllabus), true);
 });
 
-test("syllabus parser preserves encoded and query-string URLs while spacing text", () => {
+test("syllabus parser keeps text and URLs as published", () => {
   const encodedUrl =
     "https://ithelp.ithome.com.tw/tags/articles/%E4%BC%81%E6%A5%AD%E8%B3%87%E6%96%99%E9%80%9A%E8%A8%8A";
   const queryUrl =
@@ -255,14 +255,11 @@ test("syllabus parser preserves encoded and query-string URLs while spacing text
 
   const syllabus = parseSyllabusHtml(html);
 
-  assert.equal(syllabus.objective, "網路 API 課程");
+  assert.equal(syllabus.objective, "網路API課程");
   assert.equal(
     syllabus.materials,
     `其他：1.${encodedUrl} 2.${queryUrl}`
   );
-  assert.equal(syllabus.materials.includes("% E4"), false);
-  assert.equal(syllabus.materials.includes("id = 27461"), false);
-  assert.equal(syllabus.materials.includes("forceview = 1"), false);
 });
 
 test("foreign textbook parsing distinguishes yes, no, and unfilled", () => {

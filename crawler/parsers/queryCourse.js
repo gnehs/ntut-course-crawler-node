@@ -1,5 +1,4 @@
 const cheerio = require("cheerio");
-const pangu = require("../tools/pangu").spacing;
 
 const COURSE_PAGE_BASE = "https://aps.ntut.edu.tw/course/tw/";
 
@@ -204,7 +203,7 @@ function parseQueryCourseHtml(page) {
       const teacherCell = cellAt($, row, columns, "teacher");
       const classroomCell = cellAt($, row, columns, "classroom");
       const courseType = cellText($, cellAt($, row, columns, "courseType"));
-      const notes = pangu(cellText($, cellAt($, row, columns, "notes")));
+      const notes = cellText($, cellAt($, row, columns, "notes"));
       const classroom = parseLinks($, classroomCell).map((item) => ({
         ...item,
         name: item.name.replace(/e$|\(e\)$/i, ""),
@@ -224,7 +223,7 @@ function parseQueryCourseHtml(page) {
       const course = {
         id,
         name: {
-          zh: pangu(cellText($, nameCell)),
+          zh: cellText($, nameCell),
           en: null,
         },
         stage: cellText($, cellAt($, row, columns, "stage")),

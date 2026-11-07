@@ -1,5 +1,4 @@
 const cheerio = require("cheerio");
-const pangu = require("../tools/pangu").spacing;
 
 const SYLLABUS_PAGE_BASE = "https://aps.ntut.edu.tw/course/mobile/";
 const APS_HOSTNAME = "aps.ntut.edu.tw";
@@ -211,17 +210,8 @@ function parseSyllabusHtml(page) {
     .trim();
   if (officeHoursLink) result.officeHoursLink = officeHoursLink;
 
-  for (const key of Object.keys(result)) {
-    if (typeof result[key] === "string") result[key] = pangu(result[key]);
-  }
-
   const covid19 = parseCovid19($, table);
-  if (covid19) {
-    for (const key of Object.keys(covid19)) {
-      if (typeof covid19[key] === "string") covid19[key] = pangu(covid19[key]);
-    }
-    result.covid19 = covid19;
-  }
+  if (covid19) result.covid19 = covid19;
   return result;
 }
 

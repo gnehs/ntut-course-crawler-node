@@ -2,21 +2,18 @@ const cheerio = require("cheerio");
 const jsonfile = require("jsonfile");
 const fs = require("fs");
 const { fetchSinglePage } = require("./fetchSinglePage");
-const pangu = require("./tools/pangu").spacing;
 
 const BASE_URL = "https://aps.ntut.edu.tw/course/tw/";
 const APS_HOSTNAME = "aps.ntut.edu.tw";
 const ENTRY_URL = `${BASE_URL}CurrCCI.jsp?format=-1`;
 
 function normalizeText(value) {
-  return pangu(
-    String(value ?? "")
-      .replace(/\u00a0/g, " ")
-      .replace(/\r/g, "")
-      .replace(/[ \t]+\n/g, "\n")
-      .replace(/\n[ \t]+/g, "\n")
-      .trim()
-  );
+  return String(value ?? "")
+    .replace(/\u00a0/g, " ")
+    .replace(/\r/g, "")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n[ \t]+/g, "\n")
+    .trim();
 }
 
 function asDocument(page) {

@@ -1,7 +1,6 @@
 const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
 const fs = require("fs");
-const pangu = require("./tools/pangu").spacing;
 const {
   parseStandardLink,
   parseSystemLinks,
@@ -150,9 +149,7 @@ async function parseDeaprtment(
       stage: getChildText($, tr, 7),
     });
   }
-  result.rules = pangu(
-    $("body > table:nth-child(9) > tbody > tr > td > font").html()
-  );
+  result.rules = $("body > table:nth-child(9) > tbody > tr > td > font").html();
   result.rules = result.rules
     ? result.rules.split("<br>").map((x) => x.replace(/(.+)\.|\n/g, ""))
     : null;

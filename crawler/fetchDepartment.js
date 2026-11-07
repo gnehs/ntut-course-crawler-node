@@ -1,6 +1,5 @@
 const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
-const pangu = require("./tools/pangu").spacing;
 const fs = require("fs");
 const cheerioTableparser = require("cheerio-tableparser");
 const globalRegexParse = /\n|^ | $/g;
@@ -30,7 +29,7 @@ async function fetchDepartment(year = 110, sem = 2) {
   let departments = $("a");
   let progress = 0;
   for (let department of departments) {
-    let name = pangu($(department).text());
+    let name = $(department).text();
     let href = $(department).attr("href");
     progress++;
     console.log(`[fetch] 正在取得 (${progress}/${departments.length}) ${name}`);

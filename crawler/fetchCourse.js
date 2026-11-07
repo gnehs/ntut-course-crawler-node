@@ -1,7 +1,6 @@
 const { fetchSinglePage } = require("./fetchSinglePage");
 const jsonfile = require("jsonfile");
 const fs = require("fs");
-const pangu = require("./tools/pangu").spacing;
 const { parseQueryCourseHtml } = require("./parsers/queryCourse");
 const globalRegexParse = /\n|^ | $/g;
 function normaliseDescriptionText(value) {
@@ -66,13 +65,13 @@ async function fetchCourseDescription(
   return {
     code,
     name: {
-      zh: pangu(zhName),
+      zh: zhName,
       // Some older records use Nil for the English name. Preserve the valid
       // Chinese name while representing the unavailable translation as empty.
       en: enName === "Nil" ? "" : enName,
     },
     description: {
-      zh: pangu(descriptionCell(2)),
+      zh: descriptionCell(2),
       en: descriptionCell(3),
     },
   };

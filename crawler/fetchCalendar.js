@@ -1,6 +1,5 @@
 const fs = require("fs");
 const ical = require("node-ical");
-const pangu = require("./tools/pangu").spacing;
 const REQUEST_TIMEOUT_MS = 30 * 1000;
 const url =
   "https://calendar.google.com/calendar/ical/docfuhim9b22fqvp2tk842ak3c%40group.calendar.google.com/public/basic.ics";
@@ -36,10 +35,7 @@ async function main() {
       (a, b) =>
         new Date(a.start) - new Date(b.start) || a.uid.localeCompare(b.uid)
     )
-    .map(({ dtstamp, ...x }) => {
-      x.summary = pangu(x.summary);
-      return x;
-    });
+    .map(({ dtstamp, ...x }) => x);
   fs.mkdirSync("./dist/", { recursive: true });
   fs.writeFileSync("./dist/calendar.json", JSON.stringify(data, null, 2));
   console.log(
