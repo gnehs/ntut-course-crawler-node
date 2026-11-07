@@ -14,8 +14,8 @@ function fixture(t) {
   write("main.json", [{ id: "101", syllabusLinks: ["example"] }]);
   write("進修部.json", [{ id: "102", syllabusLinks: [] }]);
   write("研究所(日間部、進修部、週末碩士班).json", [{ id: "101", syllabusLinks: ["example"] }]);
-  write("course/101.json", [{ objective: "Synthetic syllabus" }]);
-  write("course/999.json", [{ objective: "Stale course" }]);
+  write("course/101.json", [{ outline: "Synthetic syllabus" }]);
+  write("course/999.json", [{ outline: "Stale course" }]);
   return { root, dir, write };
 }
 

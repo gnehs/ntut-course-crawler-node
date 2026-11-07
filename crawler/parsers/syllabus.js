@@ -1,31 +1,8 @@
 const cheerio = require("cheerio");
+const { LABEL_TO_FIELD, orderSyllabusRecord } = require("../syllabusFields");
 
 const SYLLABUS_PAGE_BASE = "https://aps.ntut.edu.tw/course/mobile/";
 const APS_HOSTNAME = "aps.ntut.edu.tw";
-
-const SYLLABUS_FIELD_MAP = {
-  教師姓名: "name",
-  Email: "email",
-  最後更新時間: "latestUpdate",
-  課程大綱: "objective",
-  課程進度: "schedule",
-  評量方式與標準: "scorePolicy",
-  "使用教材、參考書目或其他": "materials",
-  課程諮詢管道: "consultation",
-  備註: "remarks",
-};
-
-const STANDARD_FIELDS = [
-  "name",
-  "email",
-  "latestUpdate",
-  "objective",
-  "schedule",
-  "scorePolicy",
-  "materials",
-  "consultation",
-  "remarks",
-];
 
 function normaliseLabel(value) {
   return String(value ?? "")
@@ -160,6 +137,7 @@ function parseSyllabusHtml(page) {
   }
 
   const result = {};
+  const extra = {};
   let officeHoursLink;
   for (const row of $(table).find("tr").toArray()) {
     const cells = $(row).children("th,td");
@@ -167,16 +145,16 @@ function parseSyllabusHtml(page) {
     const label = normaliseLabel($(cells[0]).text());
     if (!label) continue;
     const value = cellText($, cells[1]);
-    const key = SYLLABUS_FIELD_MAP[label] || label;
-    result[key] = value;
-    if (label === "教師姓名") {
-      officeHoursLink = extractOfficeHoursLink($, row);
-      result.name = removeOfficeHoursLabel(value);
+    const field = LABEL_TO_FIELD[label];
+    if (!field) {
+      extra[label] = value;
+      continue;
     }
-  }
-
-  for (const field of STANDARD_FIELDS) {
-    if (result[field] === undefined) result[field] = "";
+    result[field] = value;
+    if (field === "teacher") {
+      officeHoursLink = extractOfficeHoursLink($, row);
+      result.teacher = removeOfficeHoursLabel(value);
+    }
   }
 
   const foreignLanguage = parseForeignLanguageTextbooks(result.materials);
@@ -193,11 +171,10 @@ function parseSyllabusHtml(page) {
 
   const covid19 = parseCovid19($, table);
   if (covid19) result.covid19 = covid19;
-  return result;
+  return orderSyllabusRecord(result, extra);
 }
 
 module.exports = {
-  SYLLABUS_FIELD_MAP,
   normaliseMultiline,
   parseForeignLanguageTextbooks,
   parseSyllabusHtml,

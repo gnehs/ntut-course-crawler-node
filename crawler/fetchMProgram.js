@@ -65,7 +65,7 @@ function discoverMPrograms(page) {
     programs.push({
       id,
       name: normalizeText($(anchor).text()),
-      href: absoluteHref,
+      link: absoluteHref,
     });
   });
   return programs;
@@ -183,12 +183,12 @@ async function fetchMProgram(
     );
     const injectedPage =
       programPages instanceof Map
-        ? programPages.get(program.id) ?? programPages.get(program.href)
+        ? programPages.get(program.id) ?? programPages.get(program.link)
         : programPages
-          ? programPages[program.id] ?? programPages[program.href]
+          ? programPages[program.id] ?? programPages[program.link]
           : null;
-    const course = await fetchProgramCourse(program.href, injectedPage);
-    result.push({ ...program, course });
+    const courses = await fetchProgramCourse(program.link, injectedPage);
+    result.push({ ...program, courses });
   }
 
   fs.mkdirSync(`./dist/${year}/${sem}/`, { recursive: true });

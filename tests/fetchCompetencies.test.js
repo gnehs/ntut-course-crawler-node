@@ -16,7 +16,7 @@ test("discovers competency departments only from the official entry links", () =
     {
       id: "30",
       name: "機械系",
-      href: "https://aps.ntut.edu.tw/course/tw/CurrCCI.jsp?format=-2&&code=30",
+      link: "https://aps.ntut.edu.tw/course/tw/CurrCCI.jsp?format=-2&&code=30",
     },
   ]);
 });

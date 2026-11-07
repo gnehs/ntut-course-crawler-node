@@ -84,7 +84,7 @@ function discoverCompetencyDepartments(page) {
     const id = url.searchParams.get("code");
     if (!id || seen.has(id)) return;
     seen.add(id);
-    departments.push({ id, name: normalizeText($(anchor).text()), href: absoluteHref });
+    departments.push({ id, name: normalizeText($(anchor).text()), link: absoluteHref });
   });
   return departments;
 }
@@ -192,9 +192,9 @@ function parseCompetencyPage(page) {
 function getInjectedPage(pages, department) {
   if (!pages) return null;
   if (pages instanceof Map) {
-    return pages.get(department.id) ?? pages.get(department.href) ?? null;
+    return pages.get(department.id) ?? pages.get(department.link) ?? null;
   }
-  return pages[department.id] ?? pages[department.href] ?? null;
+  return pages[department.id] ?? pages[department.link] ?? null;
 }
 
 async function fetchCompetencies(
@@ -215,12 +215,12 @@ async function fetchCompetencies(
     );
     const injectedPage = getInjectedPage(departmentPages, department);
     const detailDocument =
-      injectedPage == null ? await fetchPage(department.href) : asDocument(injectedPage);
+      injectedPage == null ? await fetchPage(department.link) : asDocument(injectedPage);
     const parsed = parseCompetencyPage(detailDocument);
     result.push({
       id: department.id,
       name: department.name || parsed.title,
-      href: department.href,
+      link: department.link,
       abilities: parsed.abilities,
       courses: parsed.courses,
     });

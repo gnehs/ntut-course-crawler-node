@@ -31,4 +31,4 @@ function indentJson(root = "dist") {
   return { changedFiles };
 }
 
-module.exports = { indentJson };
+module.exports = { indentJson, indentedText };

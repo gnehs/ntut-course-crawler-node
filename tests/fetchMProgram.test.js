@@ -26,7 +26,7 @@ test("discovers only APS HTTPS micro-program links and de-duplicates ids", () =>
     {
       id: "AV2",
       name: "面板微學程",
-      href: "https://aps.ntut.edu.tw/course/tw/SearchMProgram.jsp?format=-2&year=115&sem=1&code=AV2",
+      link: "https://aps.ntut.edu.tw/course/tw/SearchMProgram.jsp?format=-2&year=115&sem=1&code=AV2",
     },
   ]);
 });
@@ -69,7 +69,7 @@ test("does not replace an existing snapshot when a micro-program detail fails", 
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "ntut-mprogram-test-"));
   const previous = process.cwd();
   const outputPath = path.join(root, "dist", "115", "1", "mprogram.json");
-  const oldData = [{ id: "OLD", name: "舊資料", href: "https://aps.ntut.edu.tw/old", course: [] }];
+  const oldData = [{ id: "OLD", name: "舊資料", link: "https://aps.ntut.edu.tw/old", courses: [] }];
   try {
     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
     fs.writeFileSync(outputPath, JSON.stringify(oldData));

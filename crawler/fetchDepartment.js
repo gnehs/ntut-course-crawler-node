@@ -14,7 +14,7 @@ async function fetchClass(page) {
     res.push({
       id: urlParser.searchParams.get("code"),
       name: $($class).text(),
-      href: $($class).attr("href"),
+      link: $($class).attr("href"),
     });
   }
   return res;
@@ -35,7 +35,7 @@ async function fetchDepartment(year = 110, sem = 2) {
     console.log(`[fetch] 正在取得 (${progress}/${departments.length}) ${name}`);
     res.push({
       name,
-      href,
+      link: href,
       class: await fetchClass(href),
     });
   }

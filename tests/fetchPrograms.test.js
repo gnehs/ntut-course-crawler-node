@@ -16,7 +16,7 @@ test("discovers absolute HTTPS program links and stable ids", () => {
     {
       id: "A20",
       name: "創新產業管理學程",
-      href: "https://aps.ntut.edu.tw/course/tw/SearchProgram.jsp?format=-2&year=115&sem=1&code=A20",
+      link: "https://aps.ntut.edu.tw/course/tw/SearchProgram.jsp?format=-2&year=115&sem=1&code=A20",
     },
   ]);
 });

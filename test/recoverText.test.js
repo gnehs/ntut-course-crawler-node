@@ -27,14 +27,14 @@ test("damagedSpans treats only a ? between Han characters as lost", () => {
 test("recoverText restores lost characters that intact copies agree on", (t) => {
   const intact = "整體的分析與瞭解能力,進而強化社會適應能力";
   const root = corpus(t, {
-    "103/1/course/1.json": [{ objective: "整體的分析與瞭解能力,進而?化社會適應能力\n第二行" }],
-    "104/1/course/2.json": [{ objective: intact }],
-    "105/1/course/3.json": [{ objective: intact }],
+    "103/1/course/1.json": [{ outline: "整體的分析與瞭解能力,進而?化社會適應能力\n第二行" }],
+    "104/1/course/2.json": [{ outline: intact }],
+    "105/1/course/3.json": [{ outline: intact }],
   });
 
   const result = recoverText(root);
   assert.deepEqual(result.changedFiles, [path.join("103", "1", "course", "1.json")]);
-  assert.equal(read(root, "103/1/course/1.json")[0].objective, `${intact}\n第二行`);
+  assert.equal(read(root, "103/1/course/1.json")[0].outline, `${intact}\n第二行`);
   assert.deepEqual(recoverText(root).changedFiles, []);
 });
 

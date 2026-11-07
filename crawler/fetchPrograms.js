@@ -161,7 +161,7 @@ function discoverPrograms(page) {
     programs.push({
       id,
       name: normalizeText($(anchor).text()),
-      href: absoluteHref,
+      link: absoluteHref,
     });
   });
   return programs;
@@ -170,9 +170,9 @@ function discoverPrograms(page) {
 function getInjectedPage(pages, program) {
   if (!pages) return null;
   if (pages instanceof Map) {
-    return pages.get(program.id) ?? pages.get(program.href) ?? null;
+    return pages.get(program.id) ?? pages.get(program.link) ?? null;
   }
-  return pages[program.id] ?? pages[program.href] ?? null;
+  return pages[program.id] ?? pages[program.link] ?? null;
 }
 
 async function fetchPrograms(
@@ -194,7 +194,7 @@ async function fetchPrograms(
     console.log(`[fetch] 正在取得 (${progress}/${discoveredPrograms.length}) ${program.name}`);
     const injectedPage = getInjectedPage(programPages, program);
     const detailDocument =
-      injectedPage == null ? await fetchPage(program.href) : asDocument(injectedPage);
+      injectedPage == null ? await fetchPage(program.link) : asDocument(injectedPage);
     const parsed = parseProgramPage(detailDocument);
     result.push({ ...program, ...parsed });
   }

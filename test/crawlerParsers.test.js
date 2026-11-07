@@ -187,10 +187,10 @@ test("writeSyllabusFile replaces stale teachers and supports an empty rerun", ()
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "ntut-crawler-syllabus-"));
   const filePath = path.join(root, "654321.json");
   try {
-    writeSyllabusFile(filePath, [{ name: "舊教師", objective: "舊課綱" }]);
-    writeSyllabusFile(filePath, [{ name: "新教師", objective: "新課綱" }]);
+    writeSyllabusFile(filePath, [{ teacher: "舊教師", outline: "舊課綱" }]);
+    writeSyllabusFile(filePath, [{ teacher: "新教師", outline: "新課綱" }]);
     assert.deepEqual(JSON.parse(fs.readFileSync(filePath, "utf8")), [
-      { name: "新教師", objective: "新課綱" },
+      { teacher: "新教師", outline: "新課綱" },
     ]);
     writeSyllabusFile(filePath, []);
     assert.deepEqual(JSON.parse(fs.readFileSync(filePath, "utf8")), []);
@@ -224,7 +224,18 @@ test("syllabus parser keeps optional fields and extracts structured values", () 
   );
   assert.equal(syllabus.foreignLanguageTextbooks, true);
   assert.equal(syllabus.materials, "測試教材");
-  assert.equal(syllabus["未來欄位"], "保留欄位");
+  assert.deepEqual(syllabus.extra, { 未來欄位: "保留欄位" });
+  assert.equal(syllabus["未來欄位"], undefined);
+  assert.equal(syllabus.teacher, "測試教師");
+  assert.equal(syllabus.outline, "測試課程大綱");
+  assert.match(syllabus.resources, /資源甲/);
+  assert.match(syllabus.sdgs, /SDG3/);
+  assert.match(syllabus.aiUsage, /AI 選項甲/);
+  assert.deepEqual(Object.keys(syllabus), [
+    "teacher", "email", "officeHoursLink", "latestUpdate", "outline", "schedule",
+    "scorePolicy", "materials", "consultation", "remarks", "resources", "sdgs",
+    "aiUsage", "foreignLanguageTextbooks", "extra",
+  ]);
 });
 
 test("syllabus parser keeps text and URLs as published", () => {
@@ -241,7 +252,7 @@ test("syllabus parser keeps text and URLs as published", () => {
 
   const syllabus = parseSyllabusHtml(html);
 
-  assert.equal(syllabus.objective, "網路API課程");
+  assert.equal(syllabus.outline, "網路API課程");
   assert.equal(
     syllabus.materials,
     `其他：1.${encodedUrl} 2.${queryUrl}`
@@ -281,4 +292,14 @@ test("an unfilled syllabus keeps its office hours link", () => {
   const syllabus = parseSyllabusHtml(html);
   assert.equal(syllabus.officeHoursLink.includes("Teach.jsp?format=-6"), true);
   assert.equal(syllabus.foreignLanguageTextbooks, null);
+  assert.equal(syllabus.sdgs, "");
+  assert.equal("extra" in syllabus, false);
+});
+
+test("a sparse syllabus still carries every standard field", () => {
+  const syllabus = parseSyllabusHtml(`<table><tr><th>課程大綱</th><td>大綱</td></tr></table>`);
+  assert.equal(syllabus.teacher, "");
+  assert.equal(syllabus.resources, "");
+  assert.equal(syllabus.sdgs, "");
+  assert.equal(syllabus.aiUsage, "");
 });
