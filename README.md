@@ -14,7 +14,6 @@
 | 有哪些學年度與學期 | `main.json` | 隨課程一起更新 |
 | 課程（日間部、進修部、研究所） | `{學年}/{學期}/main.json`、`進修部.json`、`研究所(日間部、進修部、週末碩士班).json` | `fetchCourse.js` |
 | 課綱 | `{學年}/{學期}/course/{課號}.json` | `fetchSyllabus.js` |
-| 課綱搜尋索引 | `{學年}/{學期}/syllabus-index.json` | `finalizeCourseData.js` |
 | 班級 | `{學年}/{學期}/department.json` | `fetchDepartment.js` |
 | 微學程、一般學程 | `{學年}/{學期}/mprogram.json`、`programs.json` | `fetchMProgram.js`、`fetchPrograms.js` |
 | 學程介紹與文件連結 | `mprogram-docs.json`、`program-docs.json` | `fetchMProgramDocs.js`、`fetchProgramDocs.js` |

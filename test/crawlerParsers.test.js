@@ -9,13 +9,9 @@ const { fetchCourseDescription } = require("../crawler/fetchCourse");
 const { writeSyllabusFile } = require("../crawler/fetchSyllabus");
 const { parseQueryCourseHtml } = require("../crawler/parsers/queryCourse");
 const {
-  hasSyllabusContent,
   parseForeignLanguageTextbooks,
-  parseSdgNumbers,
   parseSyllabusHtml,
-  splitSyllabusOptions,
 } = require("../crawler/parsers/syllabus");
-const { buildSyllabusIndex } = require("../crawler/buildSyllabusIndex");
 
 test("QueryCourse parser follows headings when columns are reordered", () => {
   const html = `
@@ -229,16 +225,6 @@ test("syllabus parser keeps optional fields and extracts structured values", () 
   assert.equal(syllabus.foreignLanguageTextbooks, true);
   assert.equal(syllabus.materials, "測試教材");
   assert.equal(syllabus["未來欄位"], "保留欄位");
-  assert.deepEqual(parseSdgNumbers(syllabus["課程對應SDGs指標"]), [3, 5]);
-  assert.deepEqual(splitSyllabusOptions(syllabus["延伸教學與資源"]), [
-    "資源甲（Resource A）\n說明甲",
-    "資源乙",
-  ]);
-  assert.deepEqual(splitSyllabusOptions(syllabus["課程是否導入AI"]), [
-    "AI 選項甲",
-    "AI 選項乙",
-  ]);
-  assert.equal(hasSyllabusContent(syllabus), true);
 });
 
 test("syllabus parser keeps text and URLs as published", () => {
@@ -277,7 +263,7 @@ test("foreign textbook parsing distinguishes yes, no, and unfilled", () => {
   });
 });
 
-test("an unfilled syllabus stays unlisted even when office hours exist", () => {
+test("an unfilled syllabus keeps its office hours link", () => {
   const html = `
     <table>
       <tr><th>教師姓名</th><th><a href="Teach.jsp?format=-6&amp;year=115&amp;sem=1&amp;code=7">教師諮商時間(Office Hours)</a></th></tr>
@@ -295,77 +281,4 @@ test("an unfilled syllabus stays unlisted even when office hours exist", () => {
   const syllabus = parseSyllabusHtml(html);
   assert.equal(syllabus.officeHoursLink.includes("Teach.jsp?format=-6"), true);
   assert.equal(syllabus.foreignLanguageTextbooks, null);
-  assert.equal(hasSyllabusContent(syllabus), false);
-});
-
-test("syllabus index rebuilds all departments and unions teacher data", () => {
-  const root = fs.mkdtempSync(path.join(os.tmpdir(), "ntut-crawler-index-"));
-  try {
-    const semester = path.join(root, "115", "1");
-    const courseDirectory = path.join(semester, "course");
-    fs.mkdirSync(courseDirectory, { recursive: true });
-    fs.writeFileSync(
-      path.join(semester, "main.json"),
-      JSON.stringify([
-        { id: "100", syllabusLinks: ["ShowSyllabus.jsp?snum=100&code=1"] },
-        { id: "200", syllabusLinks: [] },
-      ])
-    );
-    fs.writeFileSync(path.join(semester, "進修部.json"), JSON.stringify([{ id: "300", syllabusLinks: [] }]));
-    fs.writeFileSync(
-      path.join(semester, "研究所(日間部、進修部、週末碩士班).json"),
-      JSON.stringify([{ id: "100", syllabusLinks: ["another-teacher"] }])
-    );
-    fs.writeFileSync(
-      path.join(courseDirectory, "100.json"),
-      JSON.stringify([
-        {
-          name: "教師甲",
-          objective: "有課綱",
-          "課程是否導入AI": "● AI 甲",
-          "延伸教學與資源": "● 資源甲",
-          "課程對應SDGs指標": "SDG3：健康",
-        },
-        {
-          name: "教師乙",
-          objective: "另一份課綱",
-          "課程是否導入AI": "● AI 乙",
-          "延伸教學與資源": "● 資源乙",
-          "課程對應SDGs指標": "SDG5：平等",
-        },
-      ])
-    );
-    // This is intentionally stale and must not leak into an entry whose
-    // current course list has no syllabus link.
-    fs.writeFileSync(
-      path.join(courseDirectory, "200.json"),
-      JSON.stringify([{ objective: "過期課綱", "課程是否導入AI": "● 過期選項" }])
-    );
-
-    const index = buildSyllabusIndex(115, 1, root);
-    assert.deepEqual(index["100"], {
-      ai: ["AI 甲", "AI 乙"],
-      sdgs: [3, 5],
-      resources: ["資源甲", "資源乙"],
-      hasSyllabus: true,
-    });
-    assert.deepEqual(index["200"], {
-      ai: [],
-      sdgs: [],
-      resources: [],
-      hasSyllabus: false,
-    });
-    assert.deepEqual(index["300"], {
-      ai: [],
-      sdgs: [],
-      resources: [],
-      hasSyllabus: false,
-    });
-    assert.deepEqual(
-      JSON.parse(fs.readFileSync(path.join(semester, "syllabus-index.json"), "utf8")),
-      index
-    );
-  } finally {
-    fs.rmSync(root, { recursive: true, force: true });
-  }
 });

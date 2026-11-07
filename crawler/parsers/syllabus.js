@@ -27,25 +27,6 @@ const STANDARD_FIELDS = [
   "remarks",
 ];
 
-const SYLLABUS_CONTENT_KEYS = new Set([
-  "objective",
-  "schedule",
-  "scorePolicy",
-  "materials",
-  "consultation",
-  "remarks",
-  "延伸教學與資源",
-  "課程對應SDGs指標",
-  "課程是否導入AI",
-  "課程進度(1-16週)",
-  "彈性學習(17-18週)",
-  "類別",
-  "內容",
-  "時數(小時)",
-  "學習成果",
-  "評量比例",
-]);
-
 function normaliseLabel(value) {
   return String(value ?? "")
     .replace(/[\u0009\u000a\u000d\u0020\u00a0\u3000]+/g, "")
@@ -215,93 +196,10 @@ function parseSyllabusHtml(page) {
   return result;
 }
 
-function isNoneOption(value) {
-  const compact = normaliseMultiline(value)
-    .replace(/^●\s*/u, "")
-    .replace(/[ \t\n]+/g, " ")
-    .trim();
-  return /^(?:無|none)(?:\s*[（(]\s*none\s*[)）])?$/iu.test(compact);
-}
-
-/**
- * Split the checkbox-style values used by the AI and resource rows.  The
- * bullet is a source separator, so text after it (including the school's
- * bilingual explanation) stays with that option.  The exact None option is
- * omitted; a real option that merely contains the word "None" is retained.
- */
-function splitSyllabusOptions(value) {
-  if (Array.isArray(value)) value = value.join("\n");
-  const text = normaliseMultiline(value);
-  if (!text) return [];
-  const pieces = text.includes("●") ? text.split("●") : [text];
-  return pieces
-    .map((piece) => normaliseMultiline(piece))
-    .filter((piece) => piece && !isNoneOption(piece));
-}
-
-function parseSdgNumbers(value) {
-  const numbers = new Set();
-  for (const match of String(value ?? "").matchAll(/SDG\s*(\d{1,2})/giu)) {
-    const number = Number(match[1]);
-    if (number >= 1 && number <= 17) numbers.add(number);
-  }
-  return [...numbers].sort((a, b) => a - b);
-}
-
-function hasMeaningfulSyllabusValue(key, value) {
-  if (key === "課程對應SDGs指標") return parseSdgNumbers(value).length > 0;
-  if (key === "延伸教學與資源" || key === "課程是否導入AI") {
-    return splitSyllabusOptions(value).length > 0;
-  }
-  let text = normaliseMultiline(value);
-  if (key === "materials") {
-    text = text
-      .replace(/【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】/u, "")
-      .replace(/使用外文原文書\s*[：:][^\n]*/u, "");
-  }
-  return Boolean(text) && !isNoneOption(text);
-}
-
-function hasSyllabusContent(syllabus) {
-  if (!syllabus || typeof syllabus !== "object") return false;
-  for (const [key, value] of Object.entries(syllabus)) {
-    if (!SYLLABUS_CONTENT_KEYS.has(key)) continue;
-    if (typeof value === "string" && hasMeaningfulSyllabusValue(key, value)) {
-      return true;
-    }
-    if (key === "covid19" && value && typeof value === "object") {
-      if (Object.values(value).some((item) => hasMeaningfulSyllabusValue(key, item))) {
-        return true;
-      }
-    }
-  }
-  const metadataKeys = new Set([
-    "name",
-    "email",
-    "officeHoursLink",
-    "latestUpdate",
-    "foreignLanguageTextbooks",
-    "covid19",
-  ]);
-  for (const [key, value] of Object.entries(syllabus)) {
-    if (metadataKeys.has(key) || SYLLABUS_CONTENT_KEYS.has(key)) continue;
-    if (typeof value === "string" && hasMeaningfulSyllabusValue(key, value)) {
-      return true;
-    }
-  }
-  if (syllabus.covid19 && typeof syllabus.covid19 === "object") {
-    return Object.values(syllabus.covid19).some((value) => Boolean(normaliseMultiline(value)));
-  }
-  return false;
-}
-
 module.exports = {
   SYLLABUS_FIELD_MAP,
-  hasSyllabusContent,
   normaliseMultiline,
   parseForeignLanguageTextbooks,
-  parseSdgNumbers,
   parseSyllabusHtml,
-  splitSyllabusOptions,
   toOfficeHoursLink,
 };
