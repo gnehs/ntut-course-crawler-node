@@ -12845,108 +12845,8 @@
       "rate_percent": "7.69"
     },
     {
-      "name": "吳姉霙",
-      "withdraw": 13,
-      "people": 173,
-      "course": [
-        {
-          "name": {
-            "zh": "德文 (一)",
-            "en": "German(I)"
-          },
-          "id": "348476",
-          "courseType": "★",
-          "people": "24",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "德文 (一)",
-            "en": "German (I)"
-          },
-          "id": "348655",
-          "courseType": "★",
-          "people": "24",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "德文 (三)",
-            "en": "German(III)"
-          },
-          "id": "352757",
-          "courseType": "★",
-          "people": "13",
-          "peopleWithdraw": "8",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "德文 (二)",
-            "en": "German (II)"
-          },
-          "id": "341391",
-          "courseType": "★",
-          "people": "23",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "德文 (一)",
-            "en": "German (I)"
-          },
-          "id": "334854",
-          "courseType": "★",
-          "people": "36",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "德文 (二)",
-            "en": "German (II)"
-          },
-          "id": "327581",
-          "courseType": "★",
-          "people": "25",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "德文 (一)",
-            "en": "German (I)"
-          },
-          "id": "320203",
-          "courseType": "★",
-          "people": "28",
-          "peopleWithdraw": "3",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        }
-      ],
-      "rate": 0.07514450867052024,
-      "rate_percent": "7.51"
-    },
-    {
       "name": "郭忠義",
-      "withdraw": 172,
+      "withdraw": 174,
       "people": 2290,
       "course": [
         {
@@ -12957,7 +12857,7 @@
           "id": "362555",
           "courseType": "▲",
           "people": "79",
-          "peopleWithdraw": "1",
+          "peopleWithdraw": "2",
           "year": "115",
           "sem": 1,
           "department": "main"
@@ -12970,7 +12870,7 @@
           "id": "363141",
           "courseType": "▲",
           "people": "95",
-          "peopleWithdraw": "3",
+          "peopleWithdraw": "4",
           "year": "115",
           "sem": 1,
           "department": "main"
@@ -13353,7 +13253,107 @@
           "department": "main"
         }
       ],
-      "rate": 0.07510917030567686,
+      "rate": 0.07598253275109171,
+      "rate_percent": "7.60"
+    },
+    {
+      "name": "吳姉霙",
+      "withdraw": 13,
+      "people": 173,
+      "course": [
+        {
+          "name": {
+            "zh": "德文 (一)",
+            "en": "German(I)"
+          },
+          "id": "348476",
+          "courseType": "★",
+          "people": "24",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "德文 (一)",
+            "en": "German (I)"
+          },
+          "id": "348655",
+          "courseType": "★",
+          "people": "24",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "德文 (三)",
+            "en": "German(III)"
+          },
+          "id": "352757",
+          "courseType": "★",
+          "people": "13",
+          "peopleWithdraw": "8",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "德文 (二)",
+            "en": "German (II)"
+          },
+          "id": "341391",
+          "courseType": "★",
+          "people": "23",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "德文 (一)",
+            "en": "German (I)"
+          },
+          "id": "334854",
+          "courseType": "★",
+          "people": "36",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "德文 (二)",
+            "en": "German (II)"
+          },
+          "id": "327581",
+          "courseType": "★",
+          "people": "25",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "德文 (一)",
+            "en": "German (I)"
+          },
+          "id": "320203",
+          "courseType": "★",
+          "people": "28",
+          "peopleWithdraw": "3",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        }
+      ],
+      "rate": 0.07514450867052024,
       "rate_percent": "7.51"
     },
     {
