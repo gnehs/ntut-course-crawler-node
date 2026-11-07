@@ -1,15 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12356",
     "latestUpdate": "2024-05-17 15:42:24",
-    "objective": "最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之 VLSI 設計，使用 MSI 與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI 之設計與測試技巧，各種 CALD 軟體工具介紹。\n1.Algorithms for Optimization of combirational logic\n2.VLSI realizations of combination logic\n3.Multilevel logic using complex parts and cells.\n4.Components of sequential systems\n5.Synthesis of clock-mode sequential circuits.",
+    "outline": "最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之VLSI設計，使用MSI與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI之設計與測試技巧，各種CALD軟體工具介紹。\n1.Algorithms for Optimization of combirational logic\n2.VLSI realizations of combination logic\n3.Multilevel logic using complex parts and cells.\n4.Components of sequential systems\n5.Synthesis of clock-mode sequential circuits.",
     "schedule": "Week1: Review of Logic Design Fundamentals (1/3)\nWeek2: Review of Logic Design Fundamentals (2/3)\nWeek3: Review of Logic Design Fundamentals (3/3)\nWeek4: Introduction to Verilog (1/3)\nWeek5: Introduction to Verilog (2/3)\nWeek6: Introduction to Verilog (3/3)\nWeek7: Verilog Simulation and Testbench (1/2)\nWeek8: Verilog Simulation and Testbench (2/2)\nWeek9: Midterm Examination\nweek10: Introduction to PLD\nWeek11: Design Examples (1/2)\nWeek12: Design Examples (2/2)\nWeek13: Design Examples (3/3)\nWeek14: SM Charts and Microprogramming (1/2)\nWeek15: SM Charts and Microprogramming (2/2)\nWeek16: Designing with FPGA (1/2)\nWeek17: Designing with FPGA (2/2)\nWeek18: Final Examination",
-    "scorePolicy": "Attendance: 10% \nAssignments: 30%\nMidterm Exam. : 30%\nFinal Exam.：30%",
-    "materials": "Textbook: \nCharles Roth, Lizy Kurian John, and Byeong Kil Lee, Digital Systems Design Using Verilog, International Edition, 2016, Cengage Learning\n\nReference books: \nLogic and Computer Design Fundamentals, Morris Mano, Charles R. Kime, Tom Martin, 2016, Pearson",
-    "consultation": "1. Teacher office hours @綜科館 215:      Tue. 10:10 ~ 12:10, Thurs. 16:10 ~ 18:102. Please mail junlin@mail.ntut.edu.tw in advance to reserve the time for face-to-face or online curricular consultation.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "scorePolicy": "Attendance: 10%\nAssignments: 30%\nMidterm Exam. : 30%\nFinal Exam.：30%",
+    "materials": "Textbook:\nCharles Roth, Lizy Kurian John, and Byeong Kil Lee, Digital Systems Design Using Verilog, International Edition, 2016, Cengage Learning\n\nReference books:\nLogic and Computer Design Fundamentals, Morris Mano, Charles R. Kime, Tom Martin, 2016, Pearson",
+    "consultation": "1. Teacher office hours @綜科館215:\nTue. 10:10 ~ 12:10, Thurs. 16:10 ~ 18:10\n2. Please mail junlin@mail.ntut.edu.tw in advance to reserve the time for face-to-face or online curricular consultation.",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

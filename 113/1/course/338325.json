@@ -1,15 +1,18 @@
 [
   {
-    "name": "曾恕銘",
+    "teacher": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11010",
     "latestUpdate": "2024-09-12 12:38:09",
-    "objective": "教學目標\n課程涵蓋網路與通訊的基礎和最新發展。內容包括：行動無線傳播；MAC 層協定 (WiFi 的 CSMA/CA，乙太網路的 CSMA/CD)；行動通訊系統；網際網路協定；隨意網路；感測網路；無線個人網路，體域網路和大都會網路，網路安全，衛星通訊，物聯網，5G 與後 5G。\n\n應備知識基礎\n修過機率為佳",
-    "schedule": "內容、進度●\t\nMobile Radio Propagation\n●\tMultiple Radio Access (MAC protocols: CSMA/CA for WiFi, CSMA/CD for Ethernet)\n●\tMobile Communication Systems\n●\tNetwork Protocols\n●\tAd hoc networks\n●\tsensor networks\n●\tWPAN WMAN WBAN WMN\n●\tSecurity\n●\tSatellite systems\n●\tIoT \n●\t5G  key tech application scenerios and B5G/6G",
-    "scorePolicy": "小考 20% \n大考 (2 次) 60%\n口頭報告 20% \n課程參與 (出席 提問等) extra10%",
+    "outline": "教學目標\n課程涵蓋網路與通訊的基礎和最新發展。內容包括:行動無線傳播；MAC層協定(WiFi的CSMA/CA，乙太網路的CSMA/CD)；行動通訊系統；網際網路協定；隨意網路；感測網路;無線個人網路，體域網路和大都會網路，網路安全，衛星通訊，物聯網，5G與後5G。\n\n應備知識基礎\n修過機率為佳",
+    "schedule": "內容、進度●\nMobile Radio Propagation\n● Multiple Radio Access (MAC protocols: CSMA/CA for WiFi, CSMA/CD for Ethernet)\n● Mobile Communication Systems\n● Network Protocols\n● Ad hoc networks\n● sensor networks\n● WPAN WMAN WBAN WMN\n● Security\n● Satellite systems\n● IoT\n● 5G key tech application scenerios and B5G/6G",
+    "scorePolicy": "小考20%\n大考 (2次) 60%\n口頭報告 20%\n課程參與(出席 提問等) extra10%",
     "materials": "Course handouts",
     "consultation": "office hours or by email",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

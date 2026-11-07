@@ -1,15 +1,18 @@
 [
   {
-    "name": "蘇恆毅",
+    "teacher": "蘇恆毅",
     "email": "hysu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12576",
     "latestUpdate": "2024-12-13 14:58:41",
-    "objective": "本課程旨在進一步探討交流電路的分析方法與應用，涵蓋正弦穩態分析、交流功率、三相電路等主題，並引入拉普拉斯轉換與傅立葉轉換的基本概念及其在電路分析中的應用。此外，課程將介紹雙埠網路的分析方法，幫助學生建立起完整的電路分析能力，為後續進階課程奠定基礎。",
-    "schedule": "Week 1-2: Sinusoids and Phasors\nWeek 3-4: Sinusoidal Steady-State Analysis \nWeek 5-6: AC Power Analysis \nWeek 7-8: Three-Phase Circuits\nWeek 9: Midterm Exam\nWeek 10-11: Introduction to the Laplace Transform\nWeek 12-13: Applications of the Laplace Transform\nWeek 14-15: Fourier Transform\nWeek 16-17: Two-Port Networks\nWeek 18: Final Exam",
+    "outline": "本課程旨在進一步探討交流電路的分析方法與應用，涵蓋正弦穩態分析、交流功率、三相電路等主題，並引入拉普拉斯轉換與傅立葉轉換的基本概念及其在電路分析中的應用。此外，課程將介紹雙埠網路的分析方法，幫助學生建立起完整的電路分析能力，為後續進階課程奠定基礎。",
+    "schedule": "Week 1-2: Sinusoids and Phasors\nWeek 3-4: Sinusoidal Steady-State Analysis\nWeek 5-6: AC Power Analysis\nWeek 7-8: Three-Phase Circuits\nWeek 9: Midterm Exam\nWeek 10-11: Introduction to the Laplace Transform\nWeek 12-13: Applications of the Laplace Transform\nWeek 14-15: Fourier Transform\nWeek 16-17: Two-Port Networks\nWeek 18: Final Exam",
     "scorePolicy": "小考: 30%\n期中考: 30%\n期末考: 40%",
     "materials": "“Fundamentals of Electric Circuits”, 7/e, by Charles K. Alexander and Matthew N. O. Sadiku.",
-    "consultation": "Office HourMon: 09:00 ~ 12:00Wed: 09:00 ~ 12:00Email: hysu@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "consultation": "Office Hour\nMon: 09:00 ~ 12:00\nWed: 09:00 ~ 12:00\nEmail: hysu@ntut.edu.tw",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

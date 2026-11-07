@@ -1,16 +1,18 @@
 [
   {
-    "name": "吳亦超",
+    "teacher": "吳亦超",
     "email": "alanwu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12605",
     "latestUpdate": "2025-09-11 09:43:10",
-    "objective": "This course aims to to develop modern Android mobile applications. Android Studio will be the main development platform with the Java programming language to build a complete knowledge system for mobile device development. It also introduces TensorFlow Lite to import basic AI inference functions to understand how to integrate artificial intelligence modules on mobile platforms.",
+    "outline": "This course aims to to develop modern Android mobile applications. Android Studio will be the main development platform with the Java programming language to build a complete knowledge system for mobile device development. It also introduces TensorFlow Lite to import basic AI inference functions to understand how to integrate artificial intelligence modules on mobile platforms.",
     "schedule": "Week 1: Introduction to Course and Android Studio\nWeek 2: Java Programming I\nWeek 3: Java Programming II\nWeek 4: Basic Interface and Message Display Components\nWeek 5: CheckBox, RadioButton, and Spinner\nWeek 6: ImageView\nWeek 7: ListView\nWeek 8: Option Menu\nWeek 9: Miderm Exam\nWeek 10: Intent\nWeek 11: Files\nWeek 12: Paper Presentation\nWeek 13: MediaPlayer\nWeek 14: Database\nWeek 15: Google API\nWeek 16: Examples Practices I - Android Studio with AI\nWeek 17: Final Project Demo\nWeek 18: Final Project Demo",
-    "scorePolicy": "1. Attendance: 10%\n2. Homework (Include Quiz  and In-Class Assignment): 25%\n3. Paper Presentation: 10%\n4. Miderm Exam: 20%\n5. Final Project: 35%",
+    "scorePolicy": "1. Attendance: 10%\n2. Homework (Include Quiz and In-Class Assignment): 25%\n3. Paper Presentation: 10%\n4. Miderm Exam: 20%\n5. Final Project: 35%",
     "materials": "1. Self-Compiled Teaching Material\n2. Paul J. Deitel, Harvey M. Deitel, Abbey Deitel, and Michael Morgano, \"Android for Programmers: An App-Driven Approach\", Prentice Hall. ISBN: 9780132121361.",
     "consultation": "Email: alanwu@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
-    "remarks": "The course progress will be fine-tuned according to the actual class situation.The examination will include project proposal and final project demo.",
+    "remarks": "The course progress will be fine-tuned according to the actual class situation.\nThe examination will include project proposal and final project demo.",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": true
   }
 ]

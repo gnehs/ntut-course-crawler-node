@@ -1,15 +1,18 @@
 [
   {
-    "name": "傅子恒",
+    "teacher": "傅子恒",
     "email": "jomo0825@gmail.com",
-    "latestUpdate": "2024-09-13 14:37:44",
-    "objective": "本課程旨在教授學生如何運用創意編程和視覺化電腦圖形技術，將資料及音訊數據轉換為可視化之 2D 或 3D 視覺內容，藉以增進資料及音訊之閱聽體驗。課程進行中，學生將習得多種基於演算法之視覺表現方式，以滿足設計層面中富含躍動感、平衡感以及美感之體驗需求，活用創意編程與新媒體技術來創建更生動、更具有影響力的動靜態視聽影像。\nThis course aims to teach students how to utilize the knowledge from data science and computer graphics technology to represent data and audio into visualized 2D/3D representations, which gives rise to enhanced experiences of reading and listening. Students will learn a variety of programming skills to design visual representation based on algorithms to deliver dynamic, balanced and aesthetic experiences. With the help of creative coding and new media technology, more vivid and influential static and dynamic visual and audio experiences will be generated.",
-    "schedule": "01 Introduction to Data and Audio Visualization\n02 NodeBox3 – Basic Operations\n03 NodeBox3 - Point Allocation\n04 N odebox3 – Data Modulation\n05 Javascript OOP & P5.js\n06 P5.js – Value, Shape and Movement\n07 P5.js – Math for Point Allocation\n08 P5.js – Data Modulation\n09 Mid-term Project\n10 P5.js – Simple Charts\n11 P5.js – Advanced Data Visualization Module\n12 P5.js – Map\n13 P5.js – Integrate to Webpage\n14 Unity3D – Shader Basics\n15 Unity3D – Fast Fourier Transform\n16 Final Project Demo\n17 Final Project Demo\n18 Final Week",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12349",
+    "latestUpdate": "2025-06-03 00:29:27",
+    "outline": "本課程旨在教授學生如何運用創意編程和視覺化電腦圖形技術，將資料及音訊數據轉換為可視化之2D或3D視覺內容，藉以增進資料及音訊之閱聽體驗。課程進行中，學生將習得多種基於演算法之視覺表現方式，以滿足設計層面中富含躍動感、平衡感以及美感之體驗需求，活用創意編程與新媒體技術來創建更生動、更具有影響力的動靜態視聽影像。\nThis course aims to teach students how to utilize the knowledge from data science and computer graphics technology to represent data and audio into visualized 2D/3D representations, which gives rise to enhanced experiences of reading and listening. Students will learn a variety of programming skills to design visual representation based on algorithms to deliver dynamic, balanced and aesthetic experiences. With the help of creative coding and new media technology, more vivid and influential static and dynamic visual and audio experiences will be generated.",
+    "schedule": "01 Introduction to Data and Audio Visualization\n02 NodeBox3 – Basic Operations\n03 NodeBox3 - Point Allocation\n04 Nodebox3 – Data Modulation\n05 Javascript OOP & AI Assisted Programming\n06 P5.js – Value, Shape and Movement\n07 P5.js – Math for Point Allocation\n08 P5.js – Data Modulation\n09 Mid-term Project\n10 P5.js – Simple Charts\n11 P5.js – Advanced Data Visualization Module\n12 P5.js – Map\n13 P5.js – Integrate to Webpage\n14 Unity3D – Shader Basics\n15 Unity3D – Fast Fourier Transform\n16 Final Project Demo - AI Assisted Programming Project\n17 Final Project Demo - AI Assisted Programming Project\n18 Final Week",
     "scorePolicy": "作業: 10%\n期中作業: 30%\n期末作業: 60%",
-    "materials": "參考書目:\n1. Creative Coding 的教科書 (免費)\nhttps://zenn.dev/baroqueengine/books/a19140f2d9fc1a/viewer/d0f81a\n\n2. Unity Learn 官方學習網\nhttps://learn.unity.com/",
-    "consultation": "開學後以 MS team 進行",
-    "課程對應SDGs指標": "SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "remarks": "",
+    "materials": "參考書目:\n1. Creative Coding的教科書(免費)\nhttps://zenn.dev/baroqueengine/books/a19140f2d9fc1a/viewer/d0f81a\n\n2. Unity Learn 官方學習網\nhttps://learn.unity.com/",
+    "consultation": "開學後以MS team進行",
+    "remarks": "本課程配合【ITSA「軟體開發實務」種子教師培育】導入【生成式AI輔助程式設計】。",
+    "resources": "",
+    "sdgs": "SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

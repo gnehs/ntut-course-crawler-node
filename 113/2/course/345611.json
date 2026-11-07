@@ -1,15 +1,18 @@
 [
   {
-    "name": "潘孟鉉",
+    "teacher": "潘孟鉉",
     "email": "mspan@ntut.edu.tw",
-    "latestUpdate": "2024-12-17 13:52:32",
-    "objective": "This course will introduce common algorithms and analysis methods. The details include complexity analysis, set, priority queue, trees, sorting, searching, graph, NP complete, and so on.",
-    "schedule": "week 1: Complexity \nweek 2: Data structures\nweek 3: Divide and Conquer\nweek 4: Divide and Conquer\nweek 5: Divide and Conquer\nweek 6: Greedy algorithm\nweek 7: Greedy algorithm\nweek 8: Dynamic programming\nweek 9: Dynamic programming\nweek 10: Dynamic programming\nweek 11: Searching\nweek 12: Searching\nweek 13: Backtracking\nweek 14: Backtracking\nweek 15: Branch and bound\nweek 16: Branch and bound\nweek 17: NP\nweek 18: NP",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12231",
+    "latestUpdate": "2025-02-15 11:03:09",
+    "outline": "This course will introduce common algorithms and analysis methods. The details include complexity analysis, set, priority queue, trees, sorting, searching, graph, dynamic programming, and so on.",
+    "schedule": "week 1-2: Complexity\nweek 3-5: Data structures\nweek 6-8: Divide and Conquer\nweek 9-11: Greedy algorithm\nweek 12-16: Dynamic programming\nweek 17-18: Searching",
     "scorePolicy": "3 exams: 75%\nhomework and others: 25%",
     "materials": "Computer Algorithms (2/E) by Horowitz, Sahni, & Rajasekaran",
     "consultation": "Appointment through e-mail.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

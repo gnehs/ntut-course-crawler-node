@@ -1,16 +1,18 @@
 [
   {
-    "name": "王正豪",
+    "teacher": "王正豪",
     "email": "jhwang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11297",
     "latestUpdate": "2025-05-27 14:15:07",
-    "objective": "本課程為教育大數據微學程之進階課程，主要介紹資料探勘概念與原理，包括：資料前處理、關聯分析、分類、分群，並運用實際工具如: Weka, Python 等，針對教育大數據進行分析。透過程式練習以及期末專題，能讓學生深入理解教育資料分析的基本原理以及實際工具的應用。\nThis course is one of the advanced courses in the Micro Courses on Educational Big Data. It introduces the basic concepts and principles of data mining, including: data preprocessing, frequent pattern mining, classification, and clustering. Also, students need to use tools such as Weka and Python for educational big data analytics. With the programming exercises and term project, students will be able to learn the fundamental ideas of educational data analysis and real applications with practical tools.",
+    "outline": "本課程為教育大數據微學程之進階課程，主要介紹資料探勘概念與原理，包括: 資料前處理、關聯分析、分類、分群，並運用實際工具如: Weka, Python等，針對教育大數據進行分析。透過程式練習以及期末專題，能讓學生深入理解教育資料分析的基本原理以及實際工具的應用。\nThis course is one of the advanced courses in the Micro Courses on Educational Big Data. It introduces the basic concepts and principles of data mining, including: data preprocessing, frequent pattern mining, classification, and clustering. Also, students need to use tools such as Weka and Python for educational big data analytics. With the programming exercises and term project, students will be able to learn the fundamental ideas of educational data analysis and real applications with practical tools.",
     "schedule": "1. Course Overview\n2. Introduction to Educational Data Mining: Data Characteristics\n3. Introduction to Data Mining Software Tools: Weka, Python\n4. Data Preprocessing\n5. Case Study: Preprocessing Educational Open Data\n6. Frequent Pattern Mining\n7. Case Study: Frequent Pattern Mining on Educational Data\n8. Quiz\n9. Classification\n10. Case Study: Classifying Educational Data\n11. Midterm Exam\n12. Clustering\n13. Case Study: Clustering Educational Data\n14. Visualization and Analysis Result Interpretation\n15-18. Term Project Presentation (4 wks)",
     "scorePolicy": "Homeworks and programming exercises: 30%\nMidterm exam: 30%\nTerm project: 40%",
     "materials": "- Textbook:\nJiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 4th edition, Morgan Kaufmann, 2022.\n\n- References:\n1. Recent academic papers, tutorials, and slides.",
-    "consultation": "You can reach the teacher by appointment via e-mail.All course materials and video recordings will be kept in Microsoft Teams and iSchool+, and the course web site at: https://chriswjh.github.io/EDM/",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
-    "remarks": "1. 課程相關訊息將透過以下管道公布：北科 i 學園、Teams、或課程網頁: https://chriswjh.github.io/EDM/。2. 若因特殊情形無法到校，可使用 Teams 遠距上課或收看上課錄影（帳號：學號 @cc.ntut.edu.tw）。3. 如果你開學後尚未被加入本課程之 Teams 團隊，歡迎來信: jhwang@ntut.edu.tw，並註明課程名稱與你的班級、姓名。4. 選課完成後，助教將視情況建立其他通訊管道，如: Facebook。",
+    "consultation": "You can reach the teacher by appointment via e-mail.\nAll course materials and video recordings will be kept in Microsoft Teams and iSchool+, and the course web site at: https://chriswjh.github.io/EDM/",
+    "remarks": "1. 課程相關訊息將透過以下管道公布: 北科i學園、Teams、或課程網頁: https://chriswjh.github.io/EDM/。\n2. 若因特殊情形無法到校，可使用Teams遠距上課或收看上課錄影\n（帳號: 學號@cc.ntut.edu.tw）。\n3. 如果你開學後尚未被加入本課程之Teams團隊，歡迎來信: jhwang@ntut.edu.tw，並註明課程名稱與你的班級、姓名。\n4. 選課完成後，助教將視情況建立其他通訊管道，如: Facebook。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": true
   }
 ]

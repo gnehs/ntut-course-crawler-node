@@ -1,16 +1,18 @@
 [
   {
-    "name": "宋國明",
+    "teacher": "宋國明",
     "email": "gmsung@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11009",
     "latestUpdate": "2025-08-09 11:55:53",
-    "objective": "This course covers the electronic properties, circuit analyses, design methods and chip layout of the CMOS VLSI. The contents of this course include: Introduction to VLSI, CMOS manufacturing process, digital circuit design, MOS Transistor Theory, Circuit characterization, performance estimation, chip layout, Hspice simulation and Verilog HDL simulation.",
+    "outline": "This course covers the electronic properties, circuit analyses, design methods and chip layout of the CMOS VLSI. The contents of this course include: Introduction to VLSI, CMOS manufacturing process, digital circuit design, MOS Transistor Theory, Circuit characterization, performance estimation, chip layout, Hspice simulation and Verilog HDL simulation.",
     "schedule": "Week 1-2 VLSI Introduction.\nWeek 3-4 Manufacturing Process.\nWeek 5-6 Digital Circuit Introduction.\nWeek 7 CMOS Transistor Theory.\nWeek 8 Nonideal Transistor Theory.\nWeek 9 Midterm Exam.\nWeek 10-11 Wires.\nWeek 12 Chip Layout.\nWeek 13-14 SPICE simulation.\nWeek 15 ModelSim simulation.\nWeek 16 Quartus II simulation.\nWeek 17 Case study.\nWeek 18 Final Exam.",
     "scorePolicy": "(1). General Performance 20%.\n(2). Midterm exam 40% (Open book).\n(3). Final exam 40% (Open book & Simulation).",
     "materials": "Neil H. E. Weste and David Harris, “CMOS VLSI Design－A Circuit and System Perspective,”Third Edition, 2005. 偉明圖書有限公司 (www.wmbook.com.tw, TEL：2363-8586, 2363-6567, ISBN：0-321-14901-7)",
     "consultation": "The distance learning is completed with Google Meet. The entrance code is qth-fxex-sxi。",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
-    "remarks": "The distance learning is completed with Google Meet.(1).Teaching is completed with Google Meet.(2).Mid-term and final tests will be completed with distance testing.(3).If possible, there are many homework in this course.",
+    "remarks": "The distance learning is completed with Google Meet.\n(1).Teaching is completed with Google Meet.\n(2).Mid-term and final tests will be completed with distance testing.\n(3).If possible, there are many homework in this course.",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": true
   }
 ]

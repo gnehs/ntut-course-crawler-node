@@ -1,15 +1,18 @@
 [
   {
-    "name": "林鈞陶",
+    "teacher": "林鈞陶",
     "email": "ctl@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12083",
     "latestUpdate": "2024-05-22 14:11:38",
-    "objective": "本課程之教學目標在使學生瞭解離散時間訊號處理之知識，包含 Z - 轉換、連續訊號取樣、線性非時變系統、濾波器設計、離散傅立葉轉換以及快速傅立葉轉換等。",
-    "schedule": "(subject to change based on class progress)\nWeek 1: Introduction\nWeek 2-3: Discrete-time signals and systems\nWeek 4-5: Z-transform\nWeek 6: Midterm I\nWeek 7-8: Sampling of continuous-time signal\nWeek 9-10: LTI systems\nWeek 10-11: Filter design\nWeek 12: Midterm II\nWeek 13-14: Discrete Fourier transform\nWeek 15-16: Fast  Fourier transform\nWeek 17: Other topics (optional)\nWeek 18: Final exam",
+    "outline": "本課程之教學目標在使學生瞭解離散時間訊號處理之知識，包含Z-轉換、連續訊號取樣、線性非時變系統、濾波器設計、離散傅立葉轉換以及快速傅立葉轉換等。",
+    "schedule": "(subject to change based on class progress)\nWeek 1: Introduction\nWeek 2-3: Discrete-time signals and systems\nWeek 4-5: Z-transform\nWeek 6: Midterm I\nWeek 7-8: Sampling of continuous-time signal\nWeek 9-10: LTI systems\nWeek 10-11: Filter design\nWeek 12: Midterm II\nWeek 13-14: Discrete Fourier transform\nWeek 15-16: Fast Fourier transform\nWeek 17: Other topics (optional)\nWeek 18: Final exam",
     "scorePolicy": "Quizzes: 25%\nMidterm I: 25%\nMidterm II: 25%\nFinal: 25%",
     "materials": "A. V. Oppenheim and R. W. Schafer, Discrete-time signal processing, 3rd edition, Pearson, 2010. (暫定)",
     "consultation": "與老師或助教約時間",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

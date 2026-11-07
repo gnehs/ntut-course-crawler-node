@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳擎文",
+    "teacher": "陳擎文",
     "email": "ccw@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12450",
     "latestUpdate": "2024-09-08 02:52:16",
-    "objective": "本課程是教授學生人工智慧的基本概念與應用，激發學生在人工智慧領域的創新應用。課程內容包括：人工智慧歷史、數據分析、機器學習、深度學習、生成對抗網路、人工智慧與現代科技、應用各種 AI 工具（Azure ML studio，Vislab，DeepFake 工具，ChatGPT）。\nThis course is to teach students the basic concepts and applications of artificial intelligence, and stimulate students' innovative applications in the field of artificial intelligence. Course content includes: history of artificial intelligence, data analysis, machine learning, deep learning, generative confrontation network, artificial intelligence and modern technology, application of various AI tools (Azure ML studio, Vislab, DeepFake tool, ChatGPT).",
-    "schedule": "一，課程主要分成二部分：\n(1). 人工智慧入門程式實作：使用 python 程式來寫機器學校 / 深度學習的實際範例\n\n(2). 生成式 AI 的各種應用（使用各種 AI 工具：ChatGPT/Gemini/Claude/Sharly/Glarity）\n\n二，課程進度如下：\n1.\t人工智慧的歷史\n2.\t機器學習 / 深度學習的原理與演算法\n3.    實作：python 的 AI 入門程式：線性迴歸模型，邏輯斯迴歸分類模型範例\n4.    實作： python 的 AI 入門程式：KNN 分類，決策樹範例\n5.    實作： python 的 AI 入門程式：隨機森林，支持向量機算法分類模型範例\n6.    實作： python 的 AI 入門程式：集群分析 / 分群分析範例，『K-means 分群模型範例\n7.    實作： python 的 AI 入門程式：降維簡化分析：建立『主成份分析 PCA』降維模型範例\n8.    實作： python 的 AI 入門程式：類神經網路與深度學習範例\n7.\t期中考\n9.\t實作：生成式 AI 應用於【paper 論文研究（文獻探勘、文獻摘要）】\n10.\t實作：生成式 AI 應用於【輔助英文翻譯，雙語對照（線上網頁翻譯，pdf 翻譯）】\n11.\t實作：生成式 AI 應用於【檔案文字分析，最強大 AI 工具 Sharly】\n12.\t實作：生成式 AI 應用於【自動生成簡報 ppt】\n14.\t實作：生成式 AI 應用於【數據分析】\n15.\t實作：生成式 AI 應用於【程式撰寫：python，網頁】\n16.\t實作：生成式 AI 應用於【自動繪畫，設計 logo，插圖】\n17.\t實作：生成式 AI 應用於【GPTs 個人小助理，自己寫的 APP】\n18.\t期末作業",
-    "scorePolicy": "1. 因為上課一直實作，老師需要不斷幫學生修改錯誤的程式，所以修課人數無法無限制往上加，因此額滿就不再超收，\n\n2. 評量方式：上課實作加分 (40%)，期中考 (30%)，期末作業 (30%)\n\n3. 沒有申請到電腦教室，在一般教室上課，請同學要攜帶筆電來，\n上課都採用實作範例的方式進行。\n\n4. 本課程會讓同學使用 2 種方式來實作 AI 相關範例。\n(1) python 程式：將練習簡易 AI 入門 13 題（機器學習，深度學習）\n(2) 生成式 AI 的各種進階應用實作（包括：ChatGPT/Gemini....)\n有些範例需要申請付費的 ChatGPT plus 會員資格，例如 GPTs，才能做的出來\n\n5. 考試與作業：\n期中考會考上課教的簡易 AI 程式範例\n期末作業",
+    "outline": "本課程是教授學生人工智慧的基本概念與應用，激發學生在人工智慧領域的創新應用。課程內容包括: 人工智慧歷史、數據分析、機器學習、深度學習、生成對抗網路、人工智慧與現代科技、應用各種AI工具（Azure ML studio，Vislab，DeepFake工具，ChatGPT）。\nThis course is to teach students the basic concepts and applications of artificial intelligence, and stimulate students' innovative applications in the field of artificial intelligence. Course content includes: history of artificial intelligence, data analysis, machine learning, deep learning, generative confrontation network, artificial intelligence and modern technology, application of various AI tools (Azure ML studio, Vislab, DeepFake tool, ChatGPT).",
+    "schedule": "一，課程主要分成二部分：\n(1).人工智慧入門程式實作：使用python程式來寫機器學校/深度學習的實際範例\n\n(2).生成式AI的各種應用（使用各種AI工具：ChatGPT/Gemini/Claude/Sharly/Glarity）\n\n二，課程進度如下：\n1. 人工智慧的歷史\n2. 機器學習/深度學習的原理與演算法\n3. 實作：python的AI入門程式：線性迴歸模型，邏輯斯迴歸分類模型範例\n4. 實作： python的AI入門程式：KNN分類，決策樹範例\n5. 實作： python的AI入門程式：隨機森林，支持向量機算法分類模型範例\n6. 實作： python的AI入門程式：集群分析/分群分析範例，『K-means分群模型範例\n7. 實作： python的AI入門程式：降維簡化分析：建立『主成份分析PCA』降維模型範例\n8. 實作： python的AI入門程式：類神經網路與深度學習範例\n7. 期中考\n9. 實作：生成式AI應用於【paper論文研究（文獻探勘、文獻摘要）】\n10. 實作：生成式AI應用於【輔助英文翻譯，雙語對照（線上網頁翻譯，pdf翻譯）】\n11. 實作：生成式AI應用於【檔案文字分析，最強大AI工具Sharly】\n12. 實作：生成式AI應用於【自動生成簡報ppt】\n14. 實作：生成式AI應用於【數據分析】\n15. 實作：生成式AI應用於【程式撰寫：python，網頁】\n16. 實作：生成式AI應用於【自動繪畫，設計logo，插圖】\n17. 實作：生成式AI應用於【GPTs個人小助理，自己寫的APP】\n18. 期末作業",
+    "scorePolicy": "1.因為上課一直實作，老師需要不斷幫學生修改錯誤的程式，所以修課人數無法無限制往上加，因此額滿就不再超收，\n\n2.評量方式：上課實作加分 (40%)，期中考 (30%)，期末作業 (30%)\n\n3.沒有申請到電腦教室，在一般教室上課，請同學要攜帶筆電來，\n上課都採用實作範例的方式進行。\n\n4.本課程會讓同學使用2種方式來實作AI相關範例。\n(1) python程式：將練習簡易AI入門13題（機器學習，深度學習）\n(2) 生成式AI的各種進階應用實作（包括：ChatGPT/Gemini....)\n有些範例需要申請付費的ChatGPT plus會員資格，例如GPTs，才能做的出來\n\n5.考試與作業：\n期中考會考上課教的簡易AI程式範例\n期末作業",
     "materials": "自編教材網站：\n1.https://acupun.site/lecture/AI_Intro\n\n參考書籍：\n1. 人工智慧導論，郭台銘發行，鴻海教育基金會",
-    "consultation": "1. 可以在 office hours 時段來諮詢 (科研大樓 537 室) 2. 老師的 email：ccw@ntut.edu.tw，可以用 email 諮詢問題",
-    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "本課程符合 SDG 9 工業化、創新及基礎建設：建立具有韌性的基礎建設，促進包容且永續的工業，並加速創新因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 若因疫情而暫停實體上課時，將使用學校的 Microsoft Teams",
+    "consultation": "1.可以在office hours時段來諮詢(科研大樓537室)\n2.老師的email：ccw@ntut.edu.tw，可以用email諮詢問題",
+    "remarks": "本課程符合SDG 9 工業化、創新及基礎建設：建立具有韌性的基礎建設，促進包容且永續的工業，並加速創新\n\n因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n若因疫情而暫停實體上課時，將使用學校的Microsoft Teams",
+    "resources": "",
+    "sdgs": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

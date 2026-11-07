@@ -1,16 +1,18 @@
 [
   {
-    "name": "朴維鎮",
+    "teacher": "朴維鎮",
     "email": "eugenepark993@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12101",
     "latestUpdate": "2025-05-28 10:27:16",
-    "objective": "This course is an introduction to statistical computing and will be taught in Python. Python is widely used not only in the engineering but also in natural science, medicine, biology, physics, and business. This course will introduce you to a vibrant and growing community of open source data analysts that is pushing the state of the art in data analysis and presentation. (Another benefit to you as students is that open source software is free!) This course’s main objective is to: learn how to take raw data, explore it, and present the results in a useful way. Thus, in this course, you will learn all of the basic skills needed to do each of these steps with the statistical language Python.",
-    "schedule": "Week 1-2 Introduction to 'Data analysis and Graphics’ and Python\nWeek 3 Operations in Python\nWeek 4-5 Vector and matrix, tabulation and graphics\nWeek 6-7 Probability distributions\nWeek 8-9 Basic statistics \nWeek 10-11 Hypothesis tests\nWeek 12 ANOVA\nWeek 13-14 Simple linear regression\nWeek 15-16 Multiple linear regressio\nWeek 17 Presentation I\nWeek 18 Presentation II",
+    "outline": "This course is an introduction to statistical computing and will be taught in Python. Python is widely used not only in the engineering but also in natural science, medicine, biology, physics, and business. This course will introduce you to a vibrant and growing community of open source data analysts that is pushing the state of the art in data analysis and presentation. (Another benefit to you as students is that open source software is free!) This course’s main objective is to: learn how to take raw data, explore it, and present the results in a useful way. Thus, in this course, you will learn all of the basic skills needed to do each of these steps with the statistical language Python.",
+    "schedule": "Week 1-2 Introduction to 'Data analysis and Graphics’ and Python\nWeek 3 Operations in Python\nWeek 4-5 Vector and matrix, tabulation and graphics\nWeek 6-7 Probability distributions\nWeek 8-9 Basic statistics\nWeek 10-11 Hypothesis tests\nWeek 12 ANOVA\nWeek 13-14 Simple linear regression\nWeek 15-16 Multiple linear regressio\nWeek 17 Presentation I\nWeek 18 Presentation II",
     "scorePolicy": "Exam or assignment or presentation: 90 %\nAttendance: 10 %",
     "materials": "Textbook: (1) Python Data Science Handbook by Jake VanderPlas, (2) Statistics and Machine Learning in Python by Edouard Duchesnay, (3) An Introduction to Statistics with Python: With Applications in the Life Sciences by Thomas Haslwanter\nSupplementary references: (1) Engineering Statistics (5th Ed., Wiley) by Montgomery, Runger, and Hubele (ISBN: 978-0-324-59433-1), (2) Data analysis and decision making (4th Ed.) by Albright, Winston, and Zappe",
-    "consultation": "Email or i-school system.Office hour: Thursday 11:10 ~ 12:00",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "consultation": "Email or i-school system.\nOffice hour: Thursday 11:10 ~ 12:00",
     "remarks": "The course link will be sent by the school E-mail.",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

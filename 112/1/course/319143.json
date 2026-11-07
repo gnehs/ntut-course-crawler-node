@@ -1,14 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=1&code=12356",
     "latestUpdate": "2023-09-05 16:08:35",
-    "objective": "(1) Arduino 開發環境簡介 (2) 數位 I/O 控制 (3) 類比 I/O 控制 (4) 鍵盤掃描與七段顯示器 (5) 聲音播放 (6) LCD (7) 馬達與伺服機 (8) 中斷 (9) 綜合應用。",
-    "schedule": "第 1 週 課程簡介與 Arduino 開發環境介紹\n第 2/3 週 數位 I/O 控制\n第 4 週 類比 I/O 控制\n第 5 週 Off (National holiday)\n第 6 週 類比 I/O 控制\n第 7 週 鍵盤掃描控制\n第 8 週 七段顯示器控制\n第 9 週 聲音與音樂播放控制\n第 10 週 LCD 之驅動與應用\n第 11 週 馬達與伺服機應用\n第 12 週 接近與溫溼度感測\n第 13 週 中斷與模擬程式\n第 14/16 週 期末專題\n第 17 週 Off (National holiday)\n第 18 週 期末專題",
+    "outline": "(1)Arduino開發環境簡介(2)數位I/O控制 (3)類比I/O控制(4)鍵盤掃描與七段顯示器 (5)聲音播放 (6)LCD (7)馬達與伺服機 (8)中斷(9)綜合應用。",
+    "schedule": "第1週 課程簡介與Arduino開發環境介紹\n第2/3週 數位I/O控制\n第4週 類比I/O控制\n第5週 Off (National holiday)\n第6週 類比I/O控制\n第7週 鍵盤掃描控制\n第8週 七段顯示器控制\n第9週 聲音與音樂播放控制\n第10週 LCD之驅動與應用\n第11週 馬達與伺服機應用\n第12週 接近與溫溼度感測\n第13週 中斷與模擬程式\n第14/16週 期末專題\n第17週 Off (National holiday)\n第18週 期末專題",
     "scorePolicy": "出席率 10%\n實習作業與成果 70%\n期末專題 20%",
-    "materials": "1. Arduino 全能微處理機實習 強效解析 第 4 版 艾迪諾 編著 全華\n2. 自編參考講義",
-    "consultation": "Email: junlin@mail.ntut.edu.twOffice Consultation Hours for 112-1:          Tues. 10-12, Wed. 15-17 @綜科館 215 室",
-    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "materials": "1. Arduino全能微處理機實習 強效解析 第4版 艾迪諾 編著 全華\n2. 自編參考講義",
+    "consultation": "Email: junlin@mail.ntut.edu.tw\nOffice Consultation Hours for 112-1:\nTues. 10-12, Wed. 15-17 @綜科館215室",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳偉堯",
+    "teacher": "陳偉堯",
     "email": "waltchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=1&code=10918",
     "latestUpdate": "2023-10-15 13:13:57",
-    "objective": "本課程作為大一學生入學後第一門程式語言奠基課程，將教授計算機概念及架構、數字系統與編碼系統、電腦指令、程式概念及 Fortran 高階程式語言，內容包括電腦歷史、語言發展、電腦運作概念、整數和實數的二進位表達方法、指定敘述、分支敘述、迴圈敘述、輸出輸入敘述、陣列處理、檔案處理、及子程式等課題。",
-    "schedule": "Week 01: Chapter 1 binary and decimal numbers\nWeek 02: Chapter 2 basic elements of Fortran (variables)\nWeek 03: Chapter 2 basic elements of Fortran (statements)\nWeek 04: Chapter 3 branching structures (if/then/else)\nWeek 05: 放假\nWeek 06: Chapter 3 branching structures (if/then/else)\nWeek 07: Chapter 3 branching structures (switch)\nWeek 08: ACRS 2023 國際研討會 (停課)\nWeek 09: Chapter 4 loops (do loop)\nWeek 10: Chapter 4 loops (while loop)\nWeek 11: Chapter 5 file input\nWeek 12: Chapter 5 file output (Exam #2)\nWeek 13: Chapter 6 arrays\nWeek 14: Chapter 6 arrays\nWeek 15: Chapter 7 procedures\nWeek 16: Chapter 7 procedures\nWeek 17: 放假\nWeek 18: Final exam (Exam #3)",
+    "outline": "本課程作為大一學生入學後第一門程式語言奠基課程，將教授計算機概念及架構、數字系統與編碼系統、電腦指令、程式概念及Fortran高階程式語言，內容包括電腦歷史、語言發展、電腦運作概念、整數和實數的二進位表達方法、指定敘述、分支敘述、迴圈敘述、輸出輸入敘述、陣列處理、檔案處理、及子程式等課題。",
+    "schedule": "Week 01: Chapter 1 binary and decimal numbers\nWeek 02: Chapter 2 basic elements of Fortran (variables)\nWeek 03: Chapter 2 basic elements of Fortran (statements)\nWeek 04: Chapter 3 branching structures (if/then/else)\nWeek 05: 放假\nWeek 06: Chapter 3 branching structures (if/then/else)\nWeek 07: Chapter 3 branching structures (switch)\nWeek 08: ACRS 2023國際研討會(停課)\nWeek 09: Chapter 4 loops (do loop)\nWeek 10: Chapter 4 loops (while loop)\nWeek 11: Chapter 5 file input\nWeek 12: Chapter 5 file output (Exam #2)\nWeek 13: Chapter 6 arrays\nWeek 14: Chapter 6 arrays\nWeek 15: Chapter 7 procedures\nWeek 16: Chapter 7 procedures\nWeek 17: 放假\nWeek 18: Final exam (Exam #3)",
     "scorePolicy": "Homework and attendance 55%\nExam #1 15% (programming test)\nExam #2 15% (programming test)\nExam #3 15% (programming test)",
     "materials": "Chapman, S. J. (2018). Fortran for Scientists and Engineers, Fourth edition, McGraw Hill, 1024 pages, ISBN: 978-1-260-08417-7",
     "consultation": "請寫電子郵件向授課教師諮詢，或約時間於辦公室當面諮詢。",
-    "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw 如果學校公佈採取遠距教學，將改用 Google Meet 進行教學，屆時網址會公佈在北科 i 學園，未選課者可直接 email 老師詢問網址。若採取遠距教學，會斟酌調整計分方式。",
+    "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\nhttps://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\n如果學校公佈採取遠距教學，將改用Google Meet進行教學，屆時網址會公佈在北科i學園，未選課者可直接email老師詢問網址。若採取遠距教學，會斟酌調整計分方式。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

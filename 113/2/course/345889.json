@@ -1,15 +1,18 @@
 [
   {
-    "name": "李政宏",
+    "teacher": "李政宏",
     "email": "kristof@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12346",
     "latestUpdate": "2024-12-17 09:04:00",
-    "objective": "課程主要介紹在計算機科學中常見或基本的資料結構，探討的主題包括: ADT (抽像資料型態) 及複雜度，靜態結構與儲存表示，陣列，堆疊，佇列，串列，樹狀結構，遞迴，排序，搜尋。\nThis course is mainly aimed at introducing the data structures commonly used in programming languages which include ADT (abstract data type) and complexity, static structures and their storage representations, arrays, stacks, queues, linked lists, trees, recursion, sorting, and searching.",
-    "schedule": "第 1 週 課程介紹\n第 2 週 基本概念\n第 3 週 陣列\n第 4 週 陣列\n第 5 週 堆疊和佇列\n第 6 週 堆疊和佇列\n第 7 週 鏈結串列\n第 8 週 鏈結串列\n第 9 週 期中考\n第 10 週 樹\n第 11 週 樹\n第 12 週 樹\n第 13 週 圖形\n第 14 週 圖形\n第 15 週 圖形\n第 16 週 排序\n第 17 週 排序\n第 18 週 期末考",
-    "scorePolicy": "期中考 30％\n期末考 30％\n小考 30％\n出席率 10％",
-    "materials": "資料結構使用 C 語言 第六版 蔡明志著 全華",
-    "consultation": "週二 1000-1200",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "outline": "課程主要介紹在計算機科學中常見或基本的資料結構,探討的主題包括: ADT(抽像資料型態)及複雜度, 靜態結構與儲存表示, 陣列，堆疊，佇列，串列，樹狀結構，遞迴，排序，搜尋。\nThis course is mainly aimed at introducing the data structures commonly used in programming languages which include ADT (abstract data type) and complexity, static structures and their storage representations, arrays, stacks, queues, linked lists, trees, recursion, sorting, and searching.",
+    "schedule": "第1週 課程介紹\n第2週 基本概念\n第3週 陣列\n第4週 陣列\n第5週 堆疊和佇列\n第6週 堆疊和佇列\n第7週 鏈結串列\n第8週 鏈結串列\n第9週 期中考\n第10週 樹\n第11週 樹\n第12週 樹\n第13週 圖形\n第14週 圖形\n第15週 圖形\n第16週 排序\n第17週 排序\n第18週 期末考",
+    "scorePolicy": "期中考30％\n期末考30％\n小考30％\n出席率10％",
+    "materials": "資料結構使用C語言 第六版 蔡明志著 全華",
+    "consultation": "週二1000-1200",
     "remarks": "倘若疫情嚴重將採遠距教學",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

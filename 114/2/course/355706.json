@@ -1,17 +1,18 @@
 [
   {
-    "name": "陳明彥",
+    "teacher": "陳明彥",
     "email": "mychen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=2&code=12627",
     "latestUpdate": "2026-01-27 10:53:35",
-    "objective": "Statics is the fundamental of other application subjects, including mechanisms, mechanical design, and mechatronic systems, etc.. The course introduces the following topics: Force Systems, Equilibrium, Structures, Distributed Forces, Centroids of Volumes and Mass, Momemts of Inertia, Analysis of Structures, Friction, and Virtual Work.",
+    "outline": "Statics is the fundamental of other application subjects, including mechanisms, mechanical design, and mechatronic systems, etc.. The course introduces the following topics: Force Systems, Equilibrium, Structures, Distributed Forces, Centroids of Volumes and Mass, Momemts of Inertia, Analysis of Structures, Friction, and Virtual Work.",
     "schedule": "Week 1：Course introduction, Vector composition/decomposition\nWeek 2：Force systems (2D)\nWeek 3：Force systems (3D)\nWeek 4：Mid-term exam I\nWeek 5：Equilibrium, Truss - Method of Joint\nWeek 6：Truss - Method of Joint, Method of Section\nWeek 7：Truss - Method of Section, Frame, Machine\nWeek 8：Mid-term exam II\nWeek 9：Centers of Lines, Areas, and Volumes\nWeek 10：Centroids and Moment of Inertia\nWeek 11：Mid-term exam III\nWeek 12：Distributed forces - Beams - External effects\nWeek 13：Distributed forces - Beams - Internal effects\nWeek 14：Cables\nWeek 15：Mid-term exam IV\nWeek 16：Friction\nWeek 17：Friction, Virtual work\nWeek 18：Final exam",
     "scorePolicy": "Exams 45%\nAssignments 45%\nAttendance 10%",
     "materials": "*1. J.L. Meriam, L.G. Kraige and J.N. Bolton, \"Meriam's Engineering Mechanics: Statics,\" SI version, 9the edition, WILEY. ISBN:978-1119-66504-5\n2. ENGINEERING MECHANICS: Statics 14/E (SI), HIBBELER, Pearson, USA, 2016\n3. VECTOR MECHANICS FOR ENGINEERS：Statics 10/E (SI), BEER / JOHNSTON / CORNWELL, MCGRAW-HILL, USA, 2012\n4. Self-made materials",
-    "consultation": "10:00am - 12:00pm on Tuesdays (after class)If other consultation time is needed, please book in advance via Email (mychen@ntut.edu.tw).",
-    "延伸教學與資源": "",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "This is an EMI(English as a Medium of Instruction) course.Not only the knowledge of engineering but also your English skills will improve in this course.To use AI is highly encouraged in this course throughout the semester.",
+    "consultation": "10:00am - 12:00pm on Tuesdays (after class)\nIf other consultation time is needed, please book in advance via Email (mychen@ntut.edu.tw).",
+    "remarks": "This is an EMI(English as a Medium of Instruction) course.\nNot only the knowledge of engineering but also your English skills will improve in this course.\nTo use AI is highly encouraged in this course throughout the semester.",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

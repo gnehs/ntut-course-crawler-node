@@ -1,15 +1,17 @@
 [
   {
-    "name": "金仕淳",
+    "teacher": "金仕淳",
     "email": "a6210647@nycu.edu.tw",
     "latestUpdate": "2024-12-25 15:07:07",
-    "objective": "The course aims to learn how digital images are practiced in real-world applications, especially in medical images and computer vision.\nThis class will introduce the image's composition, image adjustment, composition, and even feature extraction for radiomics to apply to image detection and recognition. We will introduce some popular image processing algorithms about image processing and implement them in medical imaging projects.",
-    "schedule": "Week\tTopic\nWeek 1\tWhat is Digital Image Processing-Digital Image Fundamentals\nWeek 2\tIntroduction to Python environment setting\nWeek 3\tIntroduction to Medical Image Format\nWeek 4\tIntensity Transformations, Spatial Filtering, and kernel function (I)\nWeek 5\tIntensity Transformations, Spatial Filtering and kernel function (II)\nWeek 6\tProject Report (1)\nWeek 7\tIntensity-Based Segmentation\nWeek 8\tMorphological Image Processing\nWeek 9\tFeature Selection and Classifying\nWeek 10\tProject Report (2)\nWeek 11\tFourier Properties and Filtering in the Frequency Domain (1)\nWeek 12\tFourier Properties and Filtering in the Frequency Domain (2)\nWeek 13\tFourier Properties and Filtering in the Frequency Domain (3)\nWeek 14\tProject Report (3)\nWeek 15\tImage restoration\nWeek 16\tImage reconstruction\nWeek 17\tFeature extraction, representation, and radiomics for medical\nWeek 18\tProject Report (4)",
+    "outline": "The course aims to learn how digital images are practiced in real-world applications, especially in medical images and computer vision.\nThis class will introduce the image's composition, image adjustment, composition, and even feature extraction for radiomics to apply to image detection and recognition. We will introduce some popular image processing algorithms about image processing and implement them in medical imaging projects.",
+    "schedule": "Week Topic\nWeek 1 What is Digital Image Processing-Digital Image Fundamentals\nWeek 2 Introduction to Python environment setting\nWeek 3 Introduction to Medical Image Format\nWeek 4 Intensity Transformations, Spatial Filtering, and kernel function (I)\nWeek 5 Intensity Transformations, Spatial Filtering and kernel function (II)\nWeek 6 Project Report (1)\nWeek 7 Intensity-Based Segmentation\nWeek 8 Morphological Image Processing\nWeek 9 Feature Selection and Classifying\nWeek 10 Project Report (2)\nWeek 11 Fourier Properties and Filtering in the Frequency Domain (1)\nWeek 12 Fourier Properties and Filtering in the Frequency Domain (2)\nWeek 13 Fourier Properties and Filtering in the Frequency Domain (3)\nWeek 14 Project Report (3)\nWeek 15 Image restoration\nWeek 16 Image reconstruction\nWeek 17 Feature extraction, representation, and radiomics for medical\nWeek 18 Project Report (4)",
     "scorePolicy": "(1) Homework 40% (2) Project report 40% (3) Participation 20%",
     "materials": "1. Digital Image Process 4/e Gonzalez & Woods\n2. The Image Processing Handbook 5/e John C. Russ\n3. Medical Image Reconstruction: A Conceptual Tutorial Gengsheng Lawrence Zeng",
     "consultation": "E-mail to a6210647@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "Python programming skills are needed.Please prepare your laptop for over limitation「逾修課人數上限加選者，上課請自備筆電」",
+    "remarks": "Python programming skills are needed.\nPlease prepare your laptop for over limitation\n「逾修課人數上限加選者，上課請自備筆電」",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

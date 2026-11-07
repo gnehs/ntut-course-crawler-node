@@ -1,16 +1,18 @@
 [
   {
-    "name": "劉邦榮",
+    "teacher": "劉邦榮",
     "email": "pjliu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11611",
     "latestUpdate": "2025-09-07 15:14:24",
-    "objective": "1. 簡介\n2. 切換技術與開關說明\n3. 轉換器架構與分析\n4. 小訊號分析",
-    "schedule": "第 1 週：簡介\n第 2-3 週：脈波寬度調變控制，功率計算，功率元件介紹\n第 4-7 週：Buck, Boost, Buck-Boost, Cuk, SEPIC, Interleaved 架構之原理與設計\n第 8 週：期中考\n第 9-13 週：Flyback, Forward, Push-Pull, Half-Bridge, Full-Bridge, Current-Fed 轉換器之原理與設計\n第 14-17 週：小訊號分析，補償控制設計\n第 18 週：期末考",
+    "outline": "1.簡介\n2.切換技術與開關說明\n3.轉換器架構與分析\n4.小訊號分析",
+    "schedule": "第1週：簡介\n第2-3週：脈波寬度調變控制, 功率計算, 功率元件介紹\n第4-7週：Buck, Boost, Buck-Boost, Cuk, SEPIC, Interleaved架構之原理與設計\n第8週：期中考\n第9-13週：Flyback, Forward, Push-Pull, Half-Bridge, Full-Bridge, Current-Fed轉換器之原理與設計\n第14-17週：小訊號分析, 補償控制設計\n第18週：期末考",
     "scorePolicy": "平時成績：30％(包含到課率、作業或平時考)\n期中考：35％\n期末考：35％",
     "materials": "自編教材\n\nTextbook：\n1. Daniel W. Hart, Power Electronics, 1st ed., McGraw-Hill.\n2. R. W. Erickson, D. Maksimovic, Fundamentals of Power Electronics, 2nd ed., Kluwer Academic.\n3. Ned. Mohan, Tore. M. Undeland, William. P. Robbins, Power Electronics: Converters, Applications, and Design 3rd ed., John Wiley & Sons.",
-    "consultation": "可於課堂期間或 office hours 時討論。課餘聯絡方式: pjliu@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
-    "課程是否導入AI": "● 無（None）",
+    "consultation": "可於課堂期間或office hours時討論。\n課餘聯絡方式: pjliu@ntut.edu.tw",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

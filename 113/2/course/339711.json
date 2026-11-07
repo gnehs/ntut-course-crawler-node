@@ -1,15 +1,18 @@
 [
   {
-    "name": "李明哲",
+    "teacher": "李明哲",
     "email": "minglee@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12572",
     "latestUpdate": "2024-12-16 21:59:53",
-    "objective": "此門課程的主要目標，將以介紹高等積體電路設計為主，讓學生了解高等積體電路設計的理論、概念、流程及方法。課程將理論與實際並重，讓學生具有實際的高等積體電路設計能力。\n1.Introduction of Advanced VLSI Design\n2.Introduction and Use of EDA tools (ADFT 16nm FinFET/TN90GUTM/TN65GP)\n3.Circuit/System simulation\n4.Layout drawing/verifications (DRC, LVS, and Post-Layout Simulation)",
-    "schedule": "week  1    Course Introduction\nweek  2    Process Overview\nweek  3    Various Inverters\nweek  4    Design environment   \nweek  5    Simulations\nweek  6    Layout\nweek  7    Laker & Calibre DRC/LVS introduction\nweek  8    Ring oscillator & Flip-flops\nweek  9    Mid-term project\nweek 10   Frequency synthesizers\nweek 11   Arithmetic circuits\nweek 12   Dynamic logic\nweek 13-14   Memory\nweek 15-17   Data converters\nweek 18   Final project",
+    "outline": "此門課程的主要目標，將以介紹高等積體電路設計為主，讓學生了解高等積體電路設計的理論、概念、流程及方法。課程將理論與實際並重，讓學生具有實際的高等積體電路設計能力。\n1.Introduction of Advanced VLSI Design\n2.Introduction and Use of EDA tools (ADFT 16nm FinFET/TN90GUTM/TN65GP)\n3.Circuit/System simulation\n4.Layout drawing/verifications (DRC, LVS, and Post-Layout Simulation)",
+    "schedule": "week 1 Course Introduction\nweek 2 Process Overview\nweek 3 Various Inverters\nweek 4 Design environment\nweek 5 Simulations\nweek 6 Layout\nweek 7 Laker & Calibre DRC/LVS introduction\nweek 8 Ring oscillator & Flip-flops\nweek 9 Mid-term project\nweek 10 Frequency synthesizers\nweek 11 Arithmetic circuits\nweek 12 Dynamic logic\nweek 13-14 Memory\nweek 15-17 Data converters\nweek 18 Final project",
     "scorePolicy": "Attendance: 20%\nHomework: 20%\nMid-term project: 30%\nFinal project: 30%",
     "materials": "使用自編教材",
-    "consultation": "(1) 辦公室：綜科 311-1 室 (2) Office Hours: 如系統公告 (3) Email: minglee@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "remarks": "(1) 本課程將以英文授課，內容將包含積體電路設計流程中大部分的 tool 使用教學，歡迎有興趣的同學多加利用選修。(2) 電路設計與模擬相關軟體受智慧財產權相關法律所保護，請修課同學們務必遵守保密協定，切勿對軟體之任何相關畫面進行截圖、照相或錄影，亦不可將相關技術文件內所含之內容外洩，以免觸法。",
+    "consultation": "(1)辦公室: 綜科311-1室\n(2)Office Hours: 如系統公告\n(3)Email: minglee@ntut.edu.tw",
+    "remarks": "(1)本課程將以英文授課，內容將包含積體電路設計流程中大部分的tool使用教學，歡迎有興趣的同學多加利用選修。\n(2)電路設計與模擬相關軟體受智慧財產權相關法律所保護，請修課同學們務必遵守保密協定，切勿對軟體之任何相關畫面進行截圖、照相或錄影，亦不可將相關技術文件內所含之內容外洩，以免觸法。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

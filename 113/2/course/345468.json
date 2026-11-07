@@ -1,15 +1,17 @@
 [
   {
-    "name": "蔡修毓",
+    "teacher": "蔡修毓",
     "email": "tsaihy@pie.com.tw",
     "latestUpdate": "2024-12-18 23:40:53",
-    "objective": "介紹模糊理論及其於方案評選、績效評估等相關研究方法之應用，並延伸簡介部分機器學習方法。內容包括戴爾菲法、集群分析、層級分析法、理想解趨近法、決策實驗室分析法、Q 方法、資料包絡分析、決策樹與隨機森林、倒傳遞類神經網路等。期使學生能對模糊理論的重要觀念及應用技術有更深一層的認識，不僅提昇閱讀相關論文與期刊等文獻之能力，且對研究工作有所助益。",
-    "schedule": "週次  日期\t單元主題\n1\t02 月 18 日\t課程介紹－模糊理論簡介\n2\t02 月 25 日\t模糊德爾菲法（Fuzzy Delphi）\n3\t03 月 04 日\t模糊德爾菲法（Fuzzy Delphi）\n4\t03 月 11 日\t模糊集群分析（Fuzzy Cluster Analysis）\n5\t03 月 18 日\t模糊集群分析（Fuzzy Cluster Analysis）\n6\t03 月 25 日\t模糊層級分析法（Fuzzy Analytic Hierarchy Process, FAHP）\n7\t04 月 01 日\t模糊層級分析法（Fuzzy Analytic Hierarchy Process, FAHP）\n8\t04 月 08 日\t一致性模糊語意偏好關係（Fuzzy Linguistic Preference Rating）、理想解趨近法（Technique for Order Preference by Similarity to an Ideal Solution, TOPSIS）\n9\t04 月 15 日\t決策實驗室分析法（DEMATEL）\n10\t04 月 22 日\tQ 方法（Q Method）\n11\t04 月 29 日\t資料包絡分析法（Data Envelopment Analysis, DEA）\n12\t05 月 06 日\t資料包絡分析法（Data Envelopment Analysis, DEA）\n13\t05 月 13 日\t決策樹與隨機森林（Decision Tree & Random Forest）\n14\t05 月 20 日\t倒傳遞類神經網路（Back Propagation Neural Network）\n15\t05 月 27 日\t專題演講：國立自然科學博物館詹文碧科長\n16\t06 月 03 日\t專題演講：臺北地方法院何佳蓉法官\n17\t06 月 10 日\t專題演講：王隆昌博士\n18\t06 月 17 日\t專題演講：行政院公共工程委員會吳澤成前主委\n備註：\n1. 課程內容可能視實際上課情形進行調整，若時間足夠，亦可能補充其他相關內容。\n2. 專題演講實際日期將依講者行程調整。",
+    "outline": "介紹模糊理論及其於方案評選、績效評估等相關研究方法之應用，並延伸簡介部分機器學習方法。內容包括戴爾菲法、集群分析、層級分析法、理想解趨近法、決策實驗室分析法、Q方法、資料包絡分析、決策樹與隨機森林、倒傳遞類神經網路等。期使學生能對模糊理論的重要觀念及應用技術有更深一層的認識，不僅提昇閱讀相關論文與期刊等文獻之能力，且對研究工作有所助益。",
+    "schedule": "週次 日期 單元主題\n1 02月18日 課程介紹－模糊理論簡介\n2 02月25日 模糊德爾菲法（Fuzzy Delphi）\n3 03月04日 模糊德爾菲法（Fuzzy Delphi）\n4 03月11日 模糊集群分析（Fuzzy Cluster Analysis）\n5 03月18日 模糊集群分析（Fuzzy Cluster Analysis）\n6 03月25日 模糊層級分析法（Fuzzy Analytic Hierarchy Process, FAHP）\n7 04月01日 模糊層級分析法（Fuzzy Analytic Hierarchy Process, FAHP）\n8 04月08日 一致性模糊語意偏好關係（Fuzzy Linguistic Preference Rating）、理想解趨近法（Technique for Order Preference by Similarity to an Ideal Solution, TOPSIS）\n9 04月15日 決策實驗室分析法（DEMATEL）\n10 04月22日 Q方法（Q Method）\n11 04月29日 資料包絡分析法（Data Envelopment Analysis, DEA）\n12 05月06日 資料包絡分析法（Data Envelopment Analysis, DEA）\n13 05月13日 決策樹與隨機森林（Decision Tree & Random Forest）\n14 05月20日 倒傳遞類神經網路（Back Propagation Neural Network）\n15 05月27日 專題演講：國立自然科學博物館詹文碧科長\n16 06月03日 專題演講：臺北地方法院何佳蓉法官\n17 06月10日 專題演講：王隆昌博士\n18 06月17日 專題演講：行政院公共工程委員會吳澤成前主委\n備註：\n1. 課程內容可能視實際上課情形進行調整，若時間足夠，亦可能補充其他相關內容。\n2. 專題演講實際日期將依講者行程調整。",
     "scorePolicy": "綜合考量下列課程參與情形：\n1. 作業繳交情形（需依指定期限繳交，原則上不接受補交）。\n2. 出席、提問或意見交流。",
     "materials": "以網路上能搜尋下載之碩博士或期刊論文為主，此外，亦視課程進度補充其他相關資料。",
-    "consultation": "聯絡方式：0920-927249Line ID：tsaihsiuyuEmail：tsaihy@pie.com.tw",
-    "課程對應SDGs指標": "SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
-    "remarks": "1. 本課程將以北科 i 學園 plus 做為課程網頁，並設 line 群組方便同學聯繫與討論。2. 如有加退選請依學校規定於指定系統處理。3. 若因故無法實體上課，預計使用 Youtube 預錄課程或 Google Meet 遠距上課，細節將再另行公布。",
+    "consultation": "聯絡方式：0920-927249\nLine ID：tsaihsiuyu\nEmail：tsaihy@pie.com.tw",
+    "remarks": "1.本課程將以北科i學園plus做為課程網頁，並設line群組方便同學聯繫與討論。\n2.如有加退選請依學校規定於指定系統處理。\n3.若因故無法實體上課，預計使用Youtube預錄課程或Google Meet遠距上課，細節將再另行公布。",
+    "resources": "",
+    "sdgs": "SDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG13：氣候行動（Climate Action）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

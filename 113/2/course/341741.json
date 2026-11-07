@@ -1,15 +1,18 @@
 [
   {
-    "name": "邱志洲",
+    "teacher": "邱志洲",
     "email": "chih3c@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10936",
     "latestUpdate": "2024-12-21 21:28:58",
-    "objective": "本課程之目的在於教導學生能夠以線性代數中所提供之各種方法來求解線性連立方程組，並奠定研習線型規畫，作業研究，等課程之基礎。由於本系分兩組教學，因應之課程內容分別為：管理組：矩陣、方程式之解、行列式、向量、微分方程式及應用問題等。\nThe objective of this course is to introduce the linear algebra by using several different methods to solve the linear dependent equations and to build up the fundamental knowledge of linear programming and Operation Research. For the management students, the array, solution of combinatory equations, vectors and vector spaces are included.",
-    "schedule": "1 (02/17)\tOverview\n2 (02/24)\t課程範例 / 線性系統 / 線性方程式\n3 (03/03)\t矩陣型式，類別 \n4 (03/10)\t矩陣運算 (相加，相乘)\n5 (03/17)\t矩陣運算 (反矩陣計算) (quiz #1)\n6 (03/24)\t矩陣運算 (反矩陣計算) \n7 (03/31)\t矩陣運算 (反矩陣計算)\n8 (04/07) \t矩陣性質\n9 (04/14)\t線性系統解 (quiz #2)\n10 (04/21)\tMidTerm\n11 (04/28)\t行列式 1 \n12 (05/05)\t行列式 2 \n13 (05/12)\t向量基本概念 (quiz #3)\n14 (05/19)\t向量性質與運算 \n15 (05/26)\t向量與線與平面 1\n16 (06/02)\t向量與線與平面 2 (quiz #4)\n17 (06/09)\t向量與線與平面 3\n18 (06/16)\tFinal Exam",
-    "scorePolicy": "Quizs \t\t\t20% (=4*5%)\nRoll call\t\t        10% \nMidterm\t\t\t35%\nFinal Exam\t\t35%",
-    "materials": "線性代數導論，呂金河編譯\n(Kolman/ Introductory Linear Algebra: An Applied First Course 8/e)",
-    "consultation": "1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "outline": "本課程之目的在於教導學生能夠以線性代數中所提供之各種方法來求解線性連立方程組，並奠定研習線型規畫，作業研究，等課程之基礎。由於本系分兩組教學，因應之課程內容分別為：管理組：矩陣、方程式之解、行列式、向量、微分方程式及應用問題等。\nThe objective of this course is to introduce the linear algebra by using several different methods to solve the linear dependent equations and to build up the fundamental knowledge of linear programming and Operation Research. For the management students, the array, solution of combinatory equations, vectors and vector spaces are included.",
+    "schedule": "1(02/17) Overview\n2(02/24) 課程範例 / 線性系統 / 線性方程式\n3(03/03) 矩陣型式，類別\n4(03/10) 矩陣運算(相加,相乘)\n5(03/17) 矩陣運算(反矩陣計算) (quiz #1)\n6(03/24) 矩陣運算(反矩陣計算)\n7(03/31) 矩陣運算(反矩陣計算)\n8(04/07) 矩陣性質\n9(04/14) 線性系統解(quiz #2)\n10(04/21) MidTerm\n11(04/28) 行列式 1\n12(05/05) 行列式 2\n13(05/12) 向量基本概念 (quiz #3)\n14(05/19) 向量性質與運算\n15(05/26) 向量與線與平面1\n16(06/02) 向量與線與平面2 (quiz #4)\n17(06/09) 向量與線與平面3\n18(06/16) Final Exam",
+    "scorePolicy": "Quizs 20% (=4*5%)\nRoll call 10%\nMidterm 35%\nFinal Exam 35%",
+    "materials": "線性代數導論, 呂金河編譯\n(Kolman/ Introductory Linear Algebra: An Applied First Course 8/e)",
+    "consultation": "1. Office hour 詢問\n2. Google meet 遠距討論\n3. Line group 群組訊息分享及討論",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

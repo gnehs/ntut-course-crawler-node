@@ -1,15 +1,18 @@
 [
   {
-    "name": "廖天豪",
+    "teacher": "廖天豪",
     "email": "thliao@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12448",
     "latestUpdate": "2024-05-27 16:24:06",
-    "objective": "本課程探討太空任務的設計和實施，以實現太空任務目標。本課程涵蓋，太空任務的目標、設計流程、系統工程原理、燃料和動力系統、通訊和導航系統、太空運輸系統、生命維持系統、太空裝備和儀器、以及太空任務的管理和財務考慮因素。\nThis course discusses the design and implementation of space missions to achieve their goals. The course covers the goals of space missions, design processes, principles of systems engineering, fuel and propulsion systems, communication and navigation systems, space transportation systems, life support systems, space equipment and instruments, as well as management and financial considerations for space missions.",
+    "outline": "本課程探討太空任務的設計和實施，以實現太空任務目標。本課程涵蓋，太空任務的目標、設計流程、系統工程原理、燃料和動力系統、通訊和導航系統、太空運輸系統、生命維持系統、太空裝備和儀器、以及太空任務的管理和財務考慮因素。\nThis course discusses the design and implementation of space missions to achieve their goals. The course covers the goals of space missions, design processes, principles of systems engineering, fuel and propulsion systems, communication and navigation systems, space transportation systems, life support systems, space equipment and instruments, as well as management and financial considerations for space missions.",
     "schedule": "Week 1 Intro\nWeek 2 overview of space missions\nWeek 3 design and implementation of space mission 1\nWeek 4 design and implementation of space mission 2\nWeek 5 principles of systems engineering 1\nWeek 6 principles of systems engineering 2\nWeek 7 communication and navigation systems\nWeek 8 fuel and propulsion systems\nWeek 9 Midterm\nWeek 10 life support systems\nWeek 11 space equipment and instruments\nWeek 12 space transportation systems\nWeek 13 management for space missions\nWeek 14 Review of space mission cases 1\nWeek 15 Review of space mission cases 2\nWeek 16 Review of space mission case s3\nWeek 17 Review of space mission cases 4\nWeek 18 Final",
-    "scorePolicy": "1. Homework (40%)  \n2. Midterm (30%)\n3. Final report (30%)",
+    "scorePolicy": "1. Homework (40%)\n2. Midterm (30%)\n3. Final report (30%)",
     "materials": "W. J. Larson and J. R. Wertz, Eds., Space Mission Analysis and Design, 3rd edition, 3rd edition. Hawthorne, Calif: Microcosm, 1999.",
-    "consultation": "Office hour:email thliao@ntut.edu.twOffice @ 綜科 213A",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "consultation": "Office hour:email thliao@ntut.edu.tw\nOffice @ 綜科213A",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

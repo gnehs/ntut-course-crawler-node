@@ -1,15 +1,18 @@
 [
   {
-    "name": "蕭耀榮",
+    "teacher": "蕭耀榮",
     "email": "yshiao@ntut.edu.tw",
-    "latestUpdate": "2024-12-16 21:36:10",
-    "objective": "This course will teach the knowledge-based control methods, mainly focuses on Fuzzy logic control and Gray system (and neural network if time is available).  The Fuzzy method includes Fuzzy Logic theory and Fuzzy Logic Control.  \nFrom this course, students can understand Fuzzy theory and can apply FLC and Grey in mechanical, electrical, or vehicle systems.  The topics covered in this lecture include: fuzzy set, membership function, fuzzification / defuzzification, fuzzy reasoning and inference, FLC design, FLC applications, grey theory, grey prediction, gray modeling, and grey control (and neural-network if time is available).  This lecture needs all students to do a 2- or 3-person team project to design and implement a fuzzy logic control to a real system.  Before the core lessons, a review of system dynamics will be provided.",
-    "schedule": "week\tcourse content\n1\tIntroduction and Fuzzy logic\n2\treview of control system dynamics\n3\tFuzzy sets / Fuzzy relations term project announce\n4\tFuzzy graphs and arithmetic Fuzzy rules\n5\tworkshop I - membership function\n6\tFuzzy implications\n7\tFuzzy approximate reasoning / Fuzzy logic and probability\n8\tworkshop II - LabVIEW programming I\n9\tworkshop III - LabVIEW programming II / Signals and DAQ\n10\tFuzzy logic control\n11\tDesign of Fuzzy controller\n12\tDesign of Fuzzy controller\n13\tworkshop IV – tuning controller\n14\twriting Exam\n15\tFuzzy PID control / TSK fuzzy control\n16\tgrey theory\n17\tproject presentation and demonstration\n18\tproject discussion\n*  might be adjusted according to student learning situation",
-    "scorePolicy": "midterm exam: 40%\nproject reports, demonstration and presentation: 45%\nworkshop 10%\nclass performance: 5%\n*  might be adjusted according to student learning situation",
-    "materials": "textbook: \nA Course in Fuzzy Systems and Control, by Li-Xin Wang, published by Prentice Hall\n\nreference book: \n1. Fuzzy Logic with Engineering Applications, by Timothy Ross\n2. class notes",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10993",
+    "latestUpdate": "2025-05-14 22:36:14",
+    "outline": "This course will teach the knowledge-based control methods, mainly focuses on Fuzzy logic control and Gray system (and neural network if time is available). The Fuzzy method includes Fuzzy Logic theory and Fuzzy Logic Control.\nFrom this course, students can understand Fuzzy theory and can apply FLC and Grey in mechanical, electrical, or vehicle systems. The topics covered in this lecture include: fuzzy set, membership function, fuzzification / defuzzification, fuzzy reasoning and inference, FLC design, FLC applications, grey theory, grey prediction, gray modeling, and grey control (and neural-network if time is available). This lecture needs all students to do a 2- or 3-person team project to design and implement a fuzzy logic control to a real system. Before the core lessons, a review of system dynamics will be provided.",
+    "schedule": "week course content\n1 Introduction and Fuzzy logic\n2 review of control system dynamics\n3 Fuzzy sets / Fuzzy relations term project announce\n4 Fuzzy graphs and arithmetic Fuzzy rules\n5 Fuzzy implications\n6 workshop I - membership function (at Complex Bldg. Rm 610)\n7 Fuzzy approximate reasoning / Fuzzy logic and probability\n8 Fuzzy logic and probability\n9 workshop II - LabVIEW programming I (at Complex Bldg. Rm 610)\n10 writing Exam\n11 Design of Fuzzy controller\n12 rworkshop III - LabVIEW programming II / Signals and DAQ (at Complex Bldg. Rm 610)\n13 workshop IV – tuning controller (at Complex Bldg. Rm 610)\n14 Design of Fuzzy controller (at Complex Bldg. Rm 610)\n15 project simulation presentation (at Complex Bldg. Rm 610)\n16 project preparing and Q/A (at Complex Bldg. Rm 610)\n17 project presentation and demonstration (at Complex Bldg. Rm 610)\n18 project discussion (at Complex Bldg. Rm 610)\n* might be adjusted according to student learning situation",
+    "scorePolicy": "midterm exam: 40%\nproject reports, demonstration and presentation: 45%\nworkshop 10%\nclass performance: 5%\n* might be adjusted according to student learning situation",
+    "materials": "textbook:\nA Course in Fuzzy Systems and Control, by Li-Xin Wang, published by Prentice Hall\n\nreference book:\n1. Fuzzy Logic with Engineering Applications, by Timothy Ross\n2. class notes",
     "consultation": "yshiao@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

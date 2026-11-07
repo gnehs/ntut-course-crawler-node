@@ -1,15 +1,18 @@
 [
   {
-    "name": "郭忠義",
+    "teacher": "郭忠義",
     "email": "jykuo@ntut.edu.tw",
-    "latestUpdate": "2025-01-09 17:58:50",
-    "objective": "To introduce artificial intelligence algorithms and application technologies. Students taking this course will have a basic knowledge of AI and be able to engage in related practice experiments. The content includes Predicate and Proposition, Theory Proving, Genetic Algorithm, T-test, Logistic Regression, Bayesian inference, KMeans, KNN, Decision Tree, Random Forest, Support Vector Machine, Reinforcement Learning, Deep Neural Networks, Convolutional Neural Networks, Long Short-Term Memory, Large Language Model, Retrieval-Augmented Generation, Ensemble Learning.",
-    "schedule": "Week01(02/19): Predicate and Proposition\nWeek02(02/26): Theory Proving\nWeek03(03/05): Genetic Algorithm\nWeek04(03/12): Sampling and Distribution\nWeek05(03/19): Hypothesis Testing and T-test\nWeek06(03/26): Logistic Regression, Bayesian Inference\nWeek07(04/02): Quiz 1\nWeek08(04/09): KMeans, KNN\nWeek09(04/16): Decision Tree, Random Forest\nWeek10(04/23): Support Vector Machine\nWeek11(04/30): Q-Learning\nWeek12(05/07): Deep Neural Networks\nWeek13(05/14): Convolutional Neural Networks\nWeek14(05/21): Long Short-Term Memory, Ensemble Learning\nWeek15(05/28): Large Language Model, Retrieval-Augmented Generation\nWeek16(06/04): Quiz 2\nWeek17(06/11): Term Project: Final Report & Demo\nWeek18(06/18): Term Project: Final Report & Demo",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11247",
+    "latestUpdate": "2025-02-18 04:48:08",
+    "outline": "To introduce artificial intelligence algorithms and application technologies. Students taking this course will have a basic knowledge of AI and be able to engage in related practice experiments. The content includes Predicate and Proposition, Theory Proving, Genetic Algorithm, T-test, Logistic Regression, Bayesian inference, KMeans, KNN, Decision Tree, Random Forest, Support Vector Machine, Reinforcement Learning, Deep Neural Networks, Convolutional Neural Networks, Long Short-Term Memory, Large Language Model, Retrieval-Augmented Generation, Ensemble Learning.",
+    "schedule": "Week01(02/19): AI Concept, Proposition\nWeek02(02/26): First-order Logic and Theory Proving\nWeek03(03/05): Genetic Algorithm, Ant Algorithm\nWeek04(03/12): Hypothesis Testing\nWeek05(03/19): ANOVA and T-test\nWeek06(03/26): Logistic Regression, Naive Bayes Classifier\nWeek07(04/02): Quiz 1\nWeek08(04/09): KMeans, KNN, Association Rules\nWeek09(04/16): Decision Tree, Random Forest\nWeek10(04/23): Support Vector Machine\nWeek11(04/30): Reinforcement Learning, Q-Learning\nWeek12(05/07): Neural Networks, Deep Neural Networks\nWeek13(05/14): Convolutional Neural Networks\nWeek14(05/21): Long Short-Term Memory, Ensemble Learning\nWeek15(05/28): Large Language Model, Retrieval-Augmented Generation\nWeek16(06/04): Quiz 2\nWeek17(06/11): Term Project: Final Report & Demo\nWeek18(06/18): Term Project: Final Report & Demo",
     "scorePolicy": "30% Class Practices and Assignments\n30% Quiz\n40% Projects (Personal and Teams)",
     "materials": "自製教材、研究論文",
-    "consultation": "ZUVIOLINE https://line.me/R/ti/g/SUyXcFYhea",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）",
+    "consultation": "ZUVIO\nLINE https://line.me/R/ti/g/SUyXcFYhea",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "賴建宏",
+    "teacher": "賴建宏",
     "email": "ee12245@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12245",
     "latestUpdate": "2024-05-22 10:25:50",
-    "objective": "1. 積體電路的分類，2. 積體電路晶片設計的流程，3.CMOS 元件的基本結構與佈局，4.CMOS 元件的設計規範技術，5.CMOS 元件組成各種數位電路，6. 以高階方法探討積體電路之設計，7. 系統分割，8. 設計問題之探討，9.IC 的構造， 10. 設計方法，11. 時序問題之探討，12. 鐘脈問題之探討。",
-    "schedule": "1.Classification of VLSI circuit \n2.Flow of VLSI design \n3.VLSI characterization \n4.CMOS design methods\n5.CMOS digital circuit \n6.High-level VLSI design\n7.System partiton \n8.Time squence\n9.Clock",
+    "outline": "1.積體電路的分類，2.積體電路晶片設計的流程，3.CMOS元件的基本結構與佈局，4.CMOS元件的設計規範技術，5.CMOS元件組成各種數位電路，6.以高階方法探討積體電路之設計，7.系統分割，8.設計問題之探討，9.IC的構造， 10.設計方法，11.時序問題之探討，12.鐘脈問題之探討。",
+    "schedule": "1.Classification of VLSI circuit\n2.Flow of VLSI design\n3.VLSI characterization\n4.CMOS design methods\n5.CMOS digital circuit\n6.High-level VLSI design\n7.System partiton\n8.Time squence\n9.Clock",
     "scorePolicy": "本課程偏理論比較多，所以實際上會考筆試，除課程內容外，主要是電子學與電路學的延伸運用\n\nMidterm and Final : 40%",
-    "materials": "Introduction to CMOS VLSI Design\n\n已經有 PDF 檔案",
+    "materials": "Introduction to CMOS VLSI Design\n\n已經有PDF檔案",
     "consultation": "ext. 2237",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

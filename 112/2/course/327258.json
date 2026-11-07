@@ -1,14 +1,18 @@
 [
   {
-    "name": "郭宏源",
+    "teacher": "郭宏源",
     "email": "hungyuankuo@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12376",
     "latestUpdate": "2024-04-25 11:02:59",
-    "objective": "1. 資料表示法：定點系統，浮點系統，2. 運算工作：定點之加減乘除，快速之運算，浮點運算，3. 指令與控制：各種指令介紹，中斷，硬體控制，微程式控制單元設計，4. 記憶系統：記憶體之層次 ，虛擬記憶體，快取記憶體，5. 處理器架構\n1.Data representation: Fixed Point System, Floating Point System\n2. Arithmetic work: fixed-point addition, subtraction, multiplication and division, fast calculations, floating point calculations\n3. Instruction and control: introduction to various instructions, interrupts, and hardware control, Microprogramming\n4.Memory organization: Memory Hierarchy, Virtual memory, Cache Memory\n5.Processor organization",
-    "schedule": "01.Introduction \n02.Data Representation in Computer Systems\n03.Boolean Algebra and Digital Logic\n04.Designing Circuits\n05.MARIE: An Introduction to a Simple Computer\n06.Memory Organization and Addressing\n07.A Closer Look at Instruction Set Architectures\n08.Instruction Types\n09.Midterm Exam.\n10.Memory\n11.Input/Output Systems\n12.System Software\n13.Alternative Architectures\n14.RISC Machines\n15.Topics in Embedded Systems\n16.Embedded Operating Systems\n17.Performance Measurement and Analysis\n18.Final Exam.",
-    "scorePolicy": "平時: 30%      Regular test: 30%\n期中考: 35%  Midterm exam: 35%\n期末考: 35%  Final exam: 35%",
+    "outline": "1.資料表示法：定點系統，浮點系統，2.運算工作：定點之加減乘除，快速之運算，浮點運算，3.指令與控制：各種指令介紹，中斷，硬體控制，微程式控制單元設計，4.記憶系統：記憶體之層次 ，虛擬記憶體，快取記憶體，5.處理器架構\n1.Data representation: Fixed Point System, Floating Point System\n2. Arithmetic work: fixed-point addition, subtraction, multiplication and division, fast calculations, floating point calculations\n3. Instruction and control: introduction to various instructions, interrupts, and hardware control, Microprogramming\n4.Memory organization: Memory Hierarchy, Virtual memory, Cache Memory\n5.Processor organization",
+    "schedule": "01.Introduction\n02.Data Representation in Computer Systems\n03.Boolean Algebra and Digital Logic\n04.Designing Circuits\n05.MARIE: An Introduction to a Simple Computer\n06.Memory Organization and Addressing\n07.A Closer Look at Instruction Set Architectures\n08.Instruction Types\n09.Midterm Exam.\n10.Memory\n11.Input/Output Systems\n12.System Software\n13.Alternative Architectures\n14.RISC Machines\n15.Topics in Embedded Systems\n16.Embedded Operating Systems\n17.Performance Measurement and Analysis\n18.Final Exam.",
+    "scorePolicy": "平時: 30% Regular test: 30%\n期中考: 35% Midterm exam: 35%\n期末考: 35% Final exam: 35%",
     "materials": "Linda Null, PhD; Julia Lobur, \"Essentials of Computer Organization and Architecture\",Fifth Edition",
-    "consultation": "研究室：綜科館 209-3 室  Complex Building 209-3E-mail : hungyuankuo@mail.ntut.edu.tw 作業連結: https://drive.google.com/drive/folders/1pTdFe0VkRUiQmNs1Pl-Hi5xcH_onEyAu",
-    "remarks": "從 113 年 6 月 8 日起至 6 月 22 日止 實施線上教學計算機組織 Microsoft Team 課程代碼: x4s01vg 上課教材：北科 i 學園 + (校園入口網站 => 教務系統 => 北科 i 學園 PLUS => 我的課程 => 學習互動區 => 教材及錄影上課作業：北科 i 學園 + (校園入口網站 => 教務系統 => 北科 i 學園 PLUS => 我的課程 => 評量區 => 作業 / 報告",
+    "consultation": "研究室：綜科館 209-3 室 Complex Building 209-3\nE-mail : hungyuankuo@mail.ntut.edu.tw\n\n作業連結: https://drive.google.com/drive/folders/1pTdFe0VkRUiQmNs1Pl-Hi5xcH_onEyAu",
+    "remarks": "從113年6月8日起至6月22日止 實施線上教學\n計算機組織 Microsoft Team 課程代碼: x4s01vg\n\n上課教材 : 北科i學園+ (校園入口網站 => 教務系統 => 北科i學園PLUS => 我的課程 => 學習互動區 => 教材及錄影\n上課作業 : 北科i學園+ (校園入口網站 => 教務系統 => 北科i學園PLUS => 我的課程 => 評量區 => 作業/報告",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

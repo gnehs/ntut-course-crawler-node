@@ -1,16 +1,18 @@
 [
   {
-    "name": "魏敏樺",
+    "teacher": "魏敏樺",
     "email": "mwgui@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=10986",
     "latestUpdate": "2025-09-08 10:48:50",
-    "objective": "本課程將針對如何從土壤動力試驗評估土壤的動態力學參考數導入，作為理論解或者數值解的輸入值，以預測土壤在震動下的變形行為，以及分析土壤與結構物的動態互制行為。內容包括：波傳遞理論，土壤的動力性質，土壤的液化，基礎的振動問題，等等..",
-    "schedule": "1. Introduction\n2. Seismic hazard awareness: a historical perspective \n3. Fundamentals of vibration analysis (1- and 2-D.O.F.) (Chp 2 of Das)\n4. Wave in elastic medium (Chp 3)\n5. Properties of dynamically loaded soils (Chp 4)\n6. Properties of dynamically loaded soils (Chp 4)\n7. Field/Laboratory measurements of dynamic and cyclic soil properties (Chp 4)\n8. Field/Laboratory measurements of dynamic and cyclic soil properties (Chp 4)\n9. Midterm Examination\n10. Dynamic bearing capacity of shallow foundations (Chp 6)\n11. Dynamic bearing capacity of shallow foundations (Chp 6)\n12. Lateral earth pressure on retaining wall (Chp 8)\n13. Lateral earth pressure on retaining wall (Chp 8)\n14. Seismic stability of earth embankments (Chp 12)\n15. Seismic stability of earth embankments (Chp 12)\n16. Special Topics Discussion and Presentation a\n17. Special Topics Discussion and Presentation b\n18. Final Exam",
-    "scorePolicy": "Homework, Quizzes, Presentation, Midterm, Final Exams: 共 100% （缺席者以零分計）",
+    "outline": "本課程將針對如何從土壤動力試驗評估土壤的動態力學參考數導入,作為理論解或者數值解的輸入值,以預測土壤在震動下的變形行為,以及分析土壤與結構物的動態互制行為.內容包括:波傳遞理論,土壤的動力性質,土壤的液化,基礎的振動問題,等等..",
+    "schedule": "1. Introduction\n2. Seismic hazard awareness: a historical perspective\n3. Fundamentals of vibration analysis (1- and 2-D.O.F.) (Chp 2 of Das)\n4. Wave in elastic medium (Chp 3)\n5. Properties of dynamically loaded soils (Chp 4)\n6. Properties of dynamically loaded soils (Chp 4)\n7. Field/Laboratory measurements of dynamic and cyclic soil properties (Chp 4)\n8. Field/Laboratory measurements of dynamic and cyclic soil properties (Chp 4)\n9. Midterm Examination\n10. Dynamic bearing capacity of shallow foundations (Chp 6)\n11. Dynamic bearing capacity of shallow foundations (Chp 6)\n12. Lateral earth pressure on retaining wall (Chp 8)\n13. Lateral earth pressure on retaining wall (Chp 8)\n14. Seismic stability of earth embankments (Chp 12)\n15. Seismic stability of earth embankments (Chp 12)\n16. Special Topics Discussion and Presentation a\n17. Special Topics Discussion and Presentation b\n18. Final Exam",
+    "scorePolicy": "Homework, Quizzes, Presentation, Midterm, Final Exams: 共100% （缺席者以零分計）",
     "materials": "1. Braja, M. Das and Ramana, G.V. (2011). Principles of Soil Dynamics. 2nd Edition, Cengage Learning Company.\n\n2. Towhata I (2008). Geotechnical Earth Engineering. Springer.\n\n3. Steven L. Kramer (1996). Geotechnical Earthquake Engineering. Prentice Hall. This book is written for graduate students. The list of topics has good overlap with contents of this course.\n\n4. Online materials",
     "consultation": "私訊",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
-    "remarks": "1. 同學如有紙本加退選簽核，或課程問題，請 email: mwgui (at) ntut.edu.tw，安排時間地點簽核；信件標題請註明：[土動]_學號_名字。2. 課程其他資料將透過北科 i - 學園 + 公布。3. 因應疫情可能會調整授課內容、授課方式、評分項目與配分。如果無法實體上課，預定使用 Google Meet 於原定上課時間遠距上課，細節再另行公布。4. 評量方式：期中考、期末考採實體或線上紙筆測驗 + 線上報告。請務必事先備妥攝影機及腳架以供線上考試使用！",
+    "remarks": "1. 同學如有紙本加退選簽核，或課程問題，請 email: mwgui(at)ntut.edu.tw，安排時間地點簽核；信件標題請註明：[土動]_學號_名字。\n2. 課程其他資料將透過北科 i-學園+ 公布。\n3. 因應疫情可能會調整授課內容、授課方式、評分項目與配分。如果無法實體上課，預定使用 Google Meet於原定上課時間遠距上課，細節再另行公布。\n4. 評量方式：期中考、期末考採實體或線上紙筆測驗+線上報告。請務必事先備妥攝影機及腳架以供線上考試使用！",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "foreignLanguageTextbooks": true
   }
 ]

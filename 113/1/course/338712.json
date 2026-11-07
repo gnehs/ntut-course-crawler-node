@@ -1,15 +1,18 @@
 [
   {
-    "name": "李明哲",
+    "teacher": "李明哲",
     "email": "minglee@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12572",
     "latestUpdate": "2024-12-11 10:48:27",
-    "objective": "此門課程的主要目標，將以介紹高等積體電路設計為主，讓學生了解高等積體電路設計的理論、概念、流程及方法。課程將理論與實際並重，讓學生具有實際的高等積體電路設計能力。\n1. Introduction \n2. Advanced VLSI System and Architecture Design \n3. Advanced VLSI Design Technique and Concept\n4. Still Image/Video Compression VLSI Design\n5. Digital Television VLSI Design\n6. Digital Camera VLSI Design\n7. Digital Watermarking VLSI Design",
-    "schedule": "week  1   Introduction\nweek  2   Process\nweek  3   Device\nweek  4   Inverter\nweek  5   National holiday\nweek  6   Transient responses\nweek  7   Combinational Circuits\nweek  8   NTUT anniversary\nweek  9   Mid-term project report\nweek 10-11   Sequential Circuits\nweek 12-13   Dynamic logic\nweek 14-16   Memory\nweek 17   Low-power techniques\nweek 18   Final project report",
+    "outline": "此門課程的主要目標，將以介紹高等積體電路設計為主，讓學生了解高等積體電路設計的理論、概念、流程及方法。課程將理論與實際並重，讓學生具有實際的高等積體電路設計能力。\n1. Introduction\n2. Advanced VLSI System and Architecture Design\n3. Advanced VLSI Design Technique and Concept\n4. Still Image/Video Compression VLSI Design\n5. Digital Television VLSI Design\n6. Digital Camera VLSI Design\n7. Digital Watermarking VLSI Design",
+    "schedule": "week 1 Introduction\nweek 2 Process\nweek 3 Device\nweek 4 Inverter\nweek 5 National holiday\nweek 6 Transient responses\nweek 7 Combinational Circuits\nweek 8 NTUT anniversary\nweek 9 Mid-term project report\nweek 10-11 Sequential Circuits\nweek 12-13 Dynamic logic\nweek 14-16 Memory\nweek 17 Low-power techniques\nweek 18 Final project report",
     "scorePolicy": "Attendance: 20%\nIn-class participation: 20%\nMid-term project: 30%\nFinal project: 30%",
     "materials": "(1) Sung-Mo. Kang and Yusuf Leblebici, “CMOS Integrated Circuits – Analysis and Design”, McGraw-Hill\n(2) Jan M. Rabaey, “Digital Integrated Circuits”, Prentice Hall",
-    "consultation": "(1)Office: Complex building, room 311-1(2)Consultation time: as the announced Office Hours(3)Email: minglee@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "consultation": "(1)Office: Complex building, room 311-1\n(2)Consultation time: as the announced Office Hours\n(3)Email: minglee@ntut.edu.tw",
     "remarks": "This course will be lectured in English. So please feel free to raise up your hands if you have any questions during class.",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

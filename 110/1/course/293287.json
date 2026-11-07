@@ -1,18 +1,17 @@
 [
   {
-    "name": "傅遠智",
+    "teacher": "傅遠智",
     "email": "fuyc20@gmail.com",
     "latestUpdate": "2021-10-03 15:13:10",
-    "objective": "The educational statistics is the foundation for the social scientists who choose the quantitative method to conduct research. Most students are scared by the perception that educational statistics is all about mathematics. In fact, the educational statistics is a scientific way to verify your assumption toward the world. In this course, you would be required to use programming language in Stata to conduct the data analysis, ranging from univariate-analysis to multivariate analysis.",
-    "schedule": "Week 1: the introduction of the syllabus and course requirement\nWeek 2: the foundation of statistics: sampling, distribution, measures of central tendency, measures of variation, measure scale and model selection  \nWeek 3: class quiz on the foundation of statistics; T-test, F-test, correlation\nWeek 4: the concept of ordinary least square regression, the foundation of regression \nWeek 5: the introduction of Stata working environment\nWeek 6: multiple regression, dummy variable, the interaction term \nWeek 7: logistic regression, quantile regression \nWeek 8: interpretation and report result\nWeek 9: Project Task\nWeek 10: panel data\nWeek 11: hierarchical linear model\nWeek 12: spatial regression\nWeek 13: survival analysis\nWeek 14: factor analysis, cluster analysis\nWeek 15: Structural Equation Model\nWeek 16: special topic: web crawler \nWeek 17: Presentation I \nWeek 18: Presentation II",
+    "outline": "The educational statistics is the foundation for the social scientists who choose the quantitative method to conduct research. Most students are scared by the perception that educational statistics is all about mathematics. In fact, the educational statistics is a scientific way to verify your assumption toward the world. In this course, you would be required to use programming language in Stata to conduct the data analysis, ranging from univariate-analysis to multivariate analysis.",
+    "schedule": "Week 1: the introduction of the syllabus and course requirement\nWeek 2: the foundation of statistics: sampling, distribution, measures of central tendency, measures of variation, measure scale and model selection\nWeek 3: class quiz on the foundation of statistics; T-test, F-test, correlation\nWeek 4: the concept of ordinary least square regression, the foundation of regression\nWeek 5: the introduction of Stata working environment\nWeek 6: multiple regression, dummy variable, the interaction term\nWeek 7: logistic regression, quantile regression\nWeek 8: interpretation and report result\nWeek 9: Project Task\nWeek 10: panel data\nWeek 11: hierarchical linear model\nWeek 12: spatial regression\nWeek 13: survival analysis\nWeek 14: factor analysis, cluster analysis\nWeek 15: Structural Equation Model\nWeek 16: special topic: web crawler\nWeek 17: Presentation I\nWeek 18: Presentation II",
     "scorePolicy": "1.Quiz: 30%\n2.Project task : 30%\n3. Presentation: 30%\n4. class participation: 10%",
-    "materials": "Angrist, J. D., &amp; Pischke, J. S. (2008). Mostly harmless econometrics: An empiricist's companion. Princeton university press.",
-    "foreignLanguageTextbooks": true,
-    "covid19": {
-      "lv2Description": null,
-      "courseScoreMethod": "參考評量標準，採線上報告及操作方式。",
-      "courseInfo": "相關課程補充資料將於開學第一周提供網路社群連結供修課學生使用。",
-      "lv2Method": "遠距上課"
-    }
+    "materials": "Angrist, J. D., & Pischke, J. S. (2008). Mostly harmless econometrics: An empiricist's companion. Princeton university press.",
+    "consultation": "課後於教室詢問。",
+    "remarks": "●上課方式：遠距上課\n\n\n\n●評量方式：參考評量標準，採線上報告及操作方式。\n\n\n●補充說明資訊：相關課程補充資料將於開學第一周提供網路社群連結供修課學生使用。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
   }
 ]

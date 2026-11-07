@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳澤興",
+    "teacher": "陳澤興",
     "email": "tzershing.chen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12467",
     "latestUpdate": "2025-09-04 21:55:51",
-    "objective": "本課程內容包括通風系統基礎，工業通風，排煙設計，空氣過濾、送風系統設計及安裝與測試，以系統設計為重點。\nThe contents of this course include the fundamentals of ventilation system, industrial ventilation, exhaust design, air filtration, air moving system design, construction and testing, the focus of this course is on the system design.",
-    "schedule": "第 01 週 (09/12) : 第一講_通風方式 (通風的定義)\n第 02 週 (09/19) : 第二講_工業通風 (工業有害物)\n第 03 週 (09/26) : 第二講_工業通風 (工業有害物)\n第 04 週 (10/03) : 第三講_全面通風 (機械換氣)\n第 05 週 (10/10) : 國慶日放假\n第 06 週 (10/17) : 第四講_局部通風 (設計原則) (含小考 1)\n第 07 週 (10/24) : 臺灣光復節補假放假\n第 08 週 (10/31) : 第五講_局部排氣的氣罩 (排風量) \n第 09 週 (11/07) : 期中考\n第 10 週 (11/14) : 第六講_局部排氣的導風管 (氣罩的設計)\n第 11 週 (11/21) : 第七講_濕空氣性質一 (空氣物理特性)\n第 12 週 (11/28) : 第八講_空氣線圖應用一 (空氣線圖種類)\n第 13 週 (12/05) : 第八講_空氣線圖應用一 (空氣線圖種類)\n第 14 週 (12/12) : 第九講_空氣線圖應用二 (空氣的混合與加濕)\n第 15 週 (12/19) : 第十講_空氣調節系統一 (空氣的除濕)) (含小考 2)\n第 16 週 (12/26) : 第十一講_空氣調節系統二 (全熱交換器)\n第 17 週 (01/02) : 第十一講_空氣調節系統二 (全熱交換器) (含小考 2 講解)\n第 18 週 (01/09) : 期末考\n上述課程內容視學生學習狀況適時調整進度。",
-    "scorePolicy": "1. 課堂問答 20% → 課堂問答缺席扣 2% / 次\n2. 期中考    30%\n3. 期末考    30%\n4. 小考 2 次  20%",
-    "materials": "使用教材: \n個人自編講義\n參考書目:\n見各講義別之課堂說明",
-    "consultation": "1. 課程諮詢時間 Office hour: 每周三 (17:00~20:00) 2. 開學後組成線上群組 Line group discussion: to be announced.3. 課程諮詢請示前一天前跟老師預約：綜合科館 611-4 研究室 分機: 3528",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
-    "remarks": "遠距上課授課及評量方式說明如下：1. 上課方式：線上會議室 Google Meet2. 課程資訊 line 群組: to be announced.3. 評量方式：期中考、期末考改採自主測驗 (take home exam) 加線上口試",
+    "outline": "本課程內容包括通風系統基礎，工業通風，排煙設計，空氣過濾、送風系統設計及安裝與測試，以系統設計為重點。\nThe contents of this course include the fundamentals of ventilation system, industrial ventilation, exhaust design, air filtration, air moving system design, construction and testing, the focus of this course is on the system design.",
+    "schedule": "第01週(09/12) : 第一講_通風方式(通風的定義)\n第02週(09/19) : 第二講_工業通風(工業有害物)\n第03週(09/26) : 第二講_工業通風(工業有害物)\n第04週(10/03) : 第三講_全面通風(機械換氣)\n第05週(10/10) : 國慶日放假\n第06週(10/17) : 第四講_局部通風(設計原則) (含小考1)\n第07週(10/24) : 臺灣光復節補假放假\n第08週(10/31) : 第五講_局部排氣的氣罩(排風量)\n第09週(11/07) : 期中考\n第10週(11/14) : 第六講_局部排氣的導風管(氣罩的設計)\n第11週(11/21) : 第七講_濕空氣性質一(空氣物理特性)\n第12週(11/28) : 第八講_空氣線圖應用一(空氣線圖種類)\n第13週(12/05) : 第八講_空氣線圖應用一(空氣線圖種類)\n第14週(12/12) : 第九講_空氣線圖應用二(空氣的混合與加濕)\n第15週(12/19) : 第十講_空氣調節系統一(空氣的除濕)) (含小考2)\n第16週(12/26) : 第十一講_空氣調節系統二(全熱交換器)\n第17週(01/02) : 第十一講_空氣調節系統二(全熱交換器) (含小考2講解)\n第18週(01/09) : 期末考\n上述課程內容視學生學習狀況適時調整進度。",
+    "scorePolicy": "1.課堂問答 20% → 課堂問答缺席扣2% /次\n2.期中考 30%\n3.期末考 30%\n4.小考2次 20%",
+    "materials": "使用教材:\n個人自編講義\n參考書目:\n見各講義別之課堂說明",
+    "consultation": "1. 課程諮詢時間Office hour: 每周三 ( 17:00~20:00 )\n2. 開學後組成線上群組Line group discussion: to be announced.\n3. 課程諮詢請示前一天前跟老師預約: 綜合科館 611-4 研究室 分機: 3528",
+    "remarks": "遠距上課授課及評量方式說明如下：\n1. 上課方式：線上會議室 Google Meet\n2. 課程資訊 line群組: to be announced.\n3. 評量方式：期中考、期末考改採自主測驗(take home exam)加線上口試",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG13：氣候行動（Climate Action）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 使用生成式AI進行課堂即時互動（Use generative AI for real-time classroom interaction）",
     "foreignLanguageTextbooks": false
   }
 ]

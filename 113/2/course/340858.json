@@ -1,15 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12356",
     "latestUpdate": "2024-12-14 00:23:10",
-    "objective": "學習智慧型手機的程式設計，課程包含應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nThis course will learn how to program the mobile phones, the topics including: basics of applications programming, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
-    "schedule": "Week 1: Course Syllabus、Kotlin Programming and IntelliJ IDEA (1/4)\nWeek 2: Kotlin Programming (2/4) \nWeek 3: Kotlin Programming (3/4)\nWeek 4: Kotlin Programming (4/4)\nWeek 5: Android Studio 與專案架構 (Ch. 01), 介面設計與元件佈局 (Ch. 02)\nWeek 6: 物件控制與事件監聽 (Ch. 03)\nWeek 7: Activity (Ch. 04)\nWeek 8: Fragment (Ch. 05) 與 訊息提示元件 (Ch. 06)\nWeek 9: 清單元件 (或進階清單元件) (Ch. 07/08)\nWeek 10: 同步與非同步執行 (Ch. 09) 與動畫製作 (Ch. 10)\nWeek 11: 多媒體應用 (Ch.11)\nWeek 12: SQLite 資料庫 (Ch.15)\nWeek 13: 網路應用程式 (Ch.17)\nWeek 14: 通知訊息 (Ch. 18)\nWeek 15: 人工智慧 (Ch. 19)\nWeek 16: ViewModel 與 LiveData (Ch. 20)\nWeek 17/18:  Final Android App Project Report & Demo",
+    "outline": "學習智慧型手機的程式設計，課程包含應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nThis course will learn how to program the mobile phones, the topics including: basics of applications programming, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
+    "schedule": "Week 1: Course Syllabus、Kotlin Programming and IntelliJ IDEA (1/4)\nWeek 2: Kotlin Programming (2/4)\nWeek 3: Kotlin Programming (3/4)\nWeek 4: Kotlin Programming (4/4)\nWeek 5: Android Studio與專案架構 (Ch. 01), 介面設計與元件佈局(Ch. 02)\nWeek 6: 物件控制與事件監聽 (Ch. 03)\nWeek 7: Activity (Ch. 04)\nWeek 8: Fragment (Ch. 05) 與 訊息提示元件(Ch. 06)\nWeek 9: 清單元件(或進階清單元件) (Ch. 07/08)\nWeek 10: 同步與非同步執行 (Ch. 09)與動畫製作(Ch. 10)\nWeek 11: 多媒體應用(Ch.11)\nWeek 12: SQLite 資料庫 (Ch.15)\nWeek 13: 網路應用程式 (Ch.17)\nWeek 14: 通知訊息 (Ch. 18)\nWeek 15: 人工智慧 (Ch. 19)\nWeek 16: ViewModel與LiveData (Ch. 20)\nWeek 17/18: Final Android App Project Report & Demo",
     "scorePolicy": "Attendance: 10% (5 roll calls)\nAssignments: 30% (3~4 assignments)\nMidterm Android APP Project: 30% (individual, assigned topic)\nFinal Android APP project: 30% (individual, free topics)",
-    "materials": "Textbooks: \n1. \"Android Kotlin 實作開發 (精心設計 24 個 Lab 讓你快速上手)\"， 第 3 版，黃士嘉、麥光廷，博碩文化出版\n\nReferences: \n1. \"Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning\n2. https://developer.android.com/jetpack/compose",
-    "consultation": "1. Office hours: Thurs. 10:00 ~ 12:00, 14:00 ~ 16:00 @綜科館 2152. Need to email junlin@mail.ntut.edu.tw in advance to reserve the time for face-to-face or online curricular consultation.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "materials": "Textbooks:\n1. \"Android Kotlin實作開發 (精心設計24個Lab讓你快速上手)\"， 第3版，黃士嘉、麥光廷，博碩文化出版\n\nReferences:\n1. \" Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning\n2. https://developer.android.com/jetpack/compose",
+    "consultation": "1. Office hours:\nThurs. 10:00 ~ 12:00, 14:00 ~ 16:00 @綜科館215\n\n2. Need to email junlin@mail.ntut.edu.tw in advance to reserve the time for face-to-face or online curricular consultation.",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

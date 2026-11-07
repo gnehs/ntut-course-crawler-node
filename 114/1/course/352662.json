@@ -1,16 +1,18 @@
 [
   {
-    "name": "馬權威",
+    "teacher": "馬權威",
     "email": "kwma@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12643",
     "latestUpdate": "2025-08-29 13:52:31",
-    "objective": "先修課程：負責教授同意。量測原理及訊號處理的一般方法（含放大電路、動態響應及頻譜分析），說明各種感測器之原理、規格、結構圖、應用的場合及其訊號處理（含速度、位移、加速度、力量、扭矩、功率、壓力、流量、溫度、化學組成、濕度、濃度、照度、電流、電壓、磁通量、磁場強度、各型感測開關等），感測器與電腦之連線。\nMeasurement Principles, General Methods for Signal Processing (Amplified Circuits, Dynamic Response, and Frequency spectrum Analysis), Discussion of Principle, Specification, Structure, Occasion and Location of Application of a Variety of Sensors for Measuring Physical Quantities,such as Displacement, Velocity, Acceleration, Force, Torque, Power,Pressure, Flow Rate, Temperature, Chemical Composition, Humidity,Density, Luminosity, Current, Voltage, Magnetic Flux, Magnetic Intensity , a Variety of Sensing Switch, etc.",
-    "schedule": "Week \tTopic\n1\tCourse introduction & measurement principles and importance \n2 \tFundamental concepts of signal processing\n3\tPhysical quantities \n4\tStandards and calibration\n5\tPrinciples and specification of sensors (I)\n6\tPrinciples and specification of sensors (II)\n7\tData acquisition systems (I)\n8\tData acquisition systems (II)\n9\tMid-term exam\n10\tMeasurement techniques (I, displacement, position, and velocity, etc.)\n11\tMeasurement techniques (II, torque, power, and pressure, etc.) \n12\tMeasurement techniques (III, flow rate, temperature, etc.)\n13\tMeasurement techniques (IV, chemical, electrical, magnetic properties, etc.) \n14\tSoftware for signal processing\n15\tSignal analysis\n16\tStudent seminar presentation (I)\n17\tStudent seminar presentation (II)\n18\tFinal exam",
-    "scorePolicy": "Subject Mark = \nAttendance 15% +\nMid-term exam 30% +\nGroup report & seminar presentation 25% +\nFinal exam 30%",
+    "outline": "先修課程：負責教授同意。量測原理及訊號處理的一般方法（含放大電路、動態響應及頻譜分析），說明各種感測器之原理、規格、結構圖、應用的場合及其訊號處理（含速度、位移、加速度、力量、扭矩、功率、壓力、流量、溫度、化學組成、濕度、濃度、照度、電流、電壓、磁通量、磁場強度、各型感測開關等），感測器與電腦之連線。\nMeasurement Principles, General Methods for Signal Processing (Amplified Circuits, Dynamic Response, and Frequency spectrum Analysis), Discussion of Principle, Specification, Structure, Occasion and Location of Application of a Variety of Sensors for Measuring Physical Quantities,such as Displacement, Velocity, Acceleration, Force, Torque, Power,Pressure, Flow Rate, Temperature, Chemical Composition, Humidity,Density, Luminosity, Current, Voltage, Magnetic Flux, Magnetic Intensity , a Variety of Sensing Switch, etc.",
+    "schedule": "Week Topic\n1 Course introduction & measurement principles and importance\n2 Fundamental concepts of signal processing\n3 Physical quantities\n4 Standards and calibration\n5 Principles and specification of sensors (I)\n6 Principles and specification of sensors (II)\n7 Data acquisition systems (I)\n8 Data acquisition systems (II)\n9 Mid-term exam\n10 Measurement techniques (I, displacement, position, and velocity, etc.)\n11 Measurement techniques (II, torque, power, and pressure, etc.)\n12 Measurement techniques (III, flow rate, temperature, etc.)\n13 Measurement techniques (IV, chemical, electrical, magnetic properties, etc.)\n14 Software for signal processing\n15 Signal analysis\n16 Student seminar presentation (I)\n17 Student seminar presentation (II)\n18 Final exam",
+    "scorePolicy": "Subject Mark =\nAttendance 15% +\nMid-term exam 30% +\nGroup report & seminar presentation 25% +\nFinal exam 30%",
     "materials": "使用自編教材 / Use of self-made materials",
     "consultation": "Email: kwma@ntut.edu.tw; Tel: 02-27712171 #2074",
-    "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "● 無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": false
   }
 ]

@@ -1,0 +1,41 @@
+[
+  {
+    "teacher": "彭朋群",
+    "email": "pcpeng@ntut.edu.tw",
+    "latestUpdate": "2022-03-28 16:02:07",
+    "outline": "課程主要為介紹學術界最新的深度學習研究成果，教導學員使用Python深度學習套件，讓學員能將深度學習技術應用於各個不同的領域。課程內容包括：●車牌與門牌數字辨識 ●人臉辨識 ●1000種影像分類 ●辨識9000種物件 ●自動駕駛模擬 ●嵌入式深度學習演算法 空虛，寂寞，覺得冷？讓深度學習來幫助你 ●遞迴式神經網路 (RNN)：找不到人聊天？訓練自己的聊天機器人 ●對抗生成網路(GAN)：用 GAN 產生自己的夢中情人 ●深度強化學習(DRL)：訓練AI跟你一起玩遊戲\nThe goal of this course is to introduce latest deep learning researches and allow students to develop deep learning applications using Python library (TensorFlow & Keras). The content includes: ●Number recognition of License plate and Doorplate ●Face Recognition ●1000 Image Classification ●9000 Object Detection ●Autopilot simulation ●Embedded Deep Learning Algorithms ●Convolutional Neural Networks (CNN) ●Recurrent Neural Networks (RNN) ●Long-Short Term Memory (LSTM) ●Generative Adversarial Networks (GAN) ●Deep Reinforcement Learning",
+    "schedule": "1. Introduction to deep learning and latest applications\n2. Applied math for deep learning\n3. Neural network optimization\n4. TensorFlow, Colab and Kaggle\n5. Convolutional Neural Networks\n6. Advanced Keras API\n7. Natural Language Processing (NLP) & Word Embedding\n8. Recurrent Neural Networks (RNNs) and Long Short-term Memory (LSTM)\n9. Attention is all you need!\n10. Transformer, BERT, and GPT3\n11. Object detection and semantic segmentation\n12. Generative Adversarial Networks (GANs)",
+    "scorePolicy": "Homework 60%\nFinal term 40%",
+    "materials": "Francois Chollet, “Deep Learning with Python, 2nd Edition” Manning, 2021",
+    "consultation": "",
+    "remarks": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採遠距授課。\n視訊通話連結：https://meet.google.com/ubc-yajx-fof\n※「二級」警戒授課方式說明如下：\n●上課方式：實體授課",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採遠距授課。\n視訊通話連結：https://meet.google.com/ubc-yajx-fof\n※「二級」警戒授課方式說明如下：\n●上課方式：實體授課",
+      "courseScoreMethod": null,
+      "courseInfo": null,
+      "courseURL": null,
+      "contactInfo": null,
+      "additionalInfo": null,
+      "lv2Method": "實體授課"
+    }
+  },
+  {
+    "teacher": "賴冠廷",
+    "email": "ktlai@ntut.edu.tw",
+    "latestUpdate": "2022-02-23 22:11:30",
+    "outline": "The goal of this course is to give students a broad overview of state-of-the-art deep learning algorithms, and teach students how to develop deep learning applications by hands-on coding examples. Most examples taught in this class are based on the TensorFlow framework. We will cover many different fields including image classification, object detection, natural language processing, reinforcement learning and generative adversarial networks. The syllabus is listed as follows:\n• Number and Character recognition\n• Image Classification for 1000 categories\n• Object Detection for 9000 objects\n• Convolutional Neural Networks (CNNs)\n• Recurrent Neural Networks (RNN)\n• Long-Short Term Memory (LSTM)\n• Stock Price Prediction using LSTM\n• Attention, Transformer, BERT, and GPT-3\n• Generative Adversarial Networks (GANs)\n• Deep Reinforcement Learning",
+    "schedule": "1. Intro to Deep Learning\n2. Applied Math (Linear Algebra, Probability, Calculus)\n3. Machine Learning Basics\n4. TensorFlow & Keras\n5. Convolutional Neural Networks\n6. Advanced Keras API\n7. NLP & Word Embedding\n8. RNN/LSTM and Stock Price Prediction\n9. Attention & Transformer, BERT, GPT-3\n10. Generative Adversarial Networks (GANs)\n11. Object Detection and Segmentation\n12. Deep Reinforcement Learning",
+    "scorePolicy": "Homework (60%), Final Exam (40%), Quizzes (5%)",
+    "materials": "1. Francois Chollet, “Deep Learning with Python, ” Manning, 2017\n2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, “Deep Learning,” MIT Press, 2017\n3. Latest publications on CVPR, NIPS, ICML, AAAI, ICLR\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html",
+    "consultation": "",
+    "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.\n\nAny announcements will be posted in Microsoft Teams.\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html\nVideos: https://www.youtube.com/playlist?list=PL3S3ZnDPwJ-OK-Kz1F1zYf2ZZhXckXDoL\nFB Group: https://www.facebook.com/groups/2231151677158713",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

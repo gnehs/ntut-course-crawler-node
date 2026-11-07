@@ -1,15 +1,18 @@
 [
   {
-    "name": "王謹誠",
+    "teacher": "王謹誠",
     "email": "chincwang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12236",
     "latestUpdate": "2024-05-22 21:05:44",
-    "objective": "This course comprises four parts. Part one is the basics of numerical methods. Part two is the application of solving parabolic equations. Part three is the application of solving elliptic equations. Part four is the application of solving hyperbolic equations.",
-    "schedule": "Week 01 CFD Basics and Introduction\nWeek 02 Review of Advanced Numerical Analysis\nWeek 03 Basics of Numerical Methods\nWeek 04 Basics of Numerical Methods\nWeek 05 Basics of Numerical Methods\nWeek 06 Parabolic Equations \nWeek 07 Parabolic Equations \nWeek 08 Parabolic Equations \nWeek 09 Midterm \nWeek 10 Elliptic Equations\nWeek 11 Elliptic Equations\nWeek 12 Elliptic Equations\nWeek 13 Hyperbolic Equations \nWeek 14 Hyperbolic Equations \nWeek 15 Hyperbolic Equations \nWeek 16 Application to Convection-Diffusion Equation \nWeek 17 Application to Convection-Diffusion Equation \nWeek 18 Final Exam",
-    "scorePolicy": "Attendance  20%\nHomework 50%\nFinal Exam  30%",
+    "outline": "This course comprises four parts. Part one is the basics of numerical methods. Part two is the application of solving parabolic equations. Part three is the application of solving elliptic equations. Part four is the application of solving hyperbolic equations.",
+    "schedule": "Week 01 CFD Basics and Introduction\nWeek 02 Review of Advanced Numerical Analysis\nWeek 03 Basics of Numerical Methods\nWeek 04 Basics of Numerical Methods\nWeek 05 Basics of Numerical Methods\nWeek 06 Parabolic Equations\nWeek 07 Parabolic Equations\nWeek 08 Parabolic Equations\nWeek 09 Midterm\nWeek 10 Elliptic Equations\nWeek 11 Elliptic Equations\nWeek 12 Elliptic Equations\nWeek 13 Hyperbolic Equations\nWeek 14 Hyperbolic Equations\nWeek 15 Hyperbolic Equations\nWeek 16 Application to Convection-Diffusion Equation\nWeek 17 Application to Convection-Diffusion Equation\nWeek 18 Final Exam",
+    "scorePolicy": "Attendance 20%\nHomework 50%\nFinal Exam 30%",
     "materials": "Computational Fluid Mechanics and Heat Transfer, Richard H. Pletcher, John C. Tannehill, and Dale A. Anderson, 3rd Edition, CRC Press, 2011, ISBN 9781591690375.",
     "consultation": "Office Hours: Tuesday and Thursday from 2 PM to 5 PM @ Integrated Technology Complex, Room 526-21. Available after class or by appointment at other times. No homework assistance by e-mail.",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
-    "remarks": "Microsoft Teams will be used for distance learning.● Link: Microsoft Teams Account Information => https://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
+    "remarks": "Microsoft Teams will be used for distance learning.\n● Link: Microsoft Teams Account Information => https://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "林益辰",
+    "teacher": "林益辰",
     "email": "iclin@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10504",
     "latestUpdate": "2024-12-16 19:21:52",
-    "objective": "The learning goals are to understand several important concepts in linear algebra, including systems of linear equations and their solutions; matrices/determinants and their properties; vector spaces; linear dependence/independence of vectors; subspaces, bases, and dimension of vector spaces; linear transformations; and eigenvalues and eigenvectors…etc.",
+    "outline": "The learning goals are to understand several important concepts in linear algebra, including systems of linear equations and their solutions; matrices/determinants and their properties; vector spaces; linear dependence/independence of vectors; subspaces, bases, and dimension of vector spaces; linear transformations; and eigenvalues and eigenvectors…etc.",
     "schedule": "Week1-3: Introduction to Linear Equations\nWeek4-6: Linear Transformations\nQuiz#1\nWeek7-8: Linear space, subspace, Dimensions\nWeek9: Midterm test\nweek10-13: Linear space(cont.), Othogonality, Least Squares\nWeek14-15: Determinants,\nWeek16-17:Eigenvalues, Elgenvectors\nQuiz#2 and review\nweek18: Final",
     "scorePolicy": "1. Quiz：30%；\n2. Mid term：35%；\n3. Final：35%。",
     "materials": "1. Linear Algebra with Applications 5E, David C. Lay Pearson\n2. Linear Algebra with Applications 4E, Otto Bretscher, International Edition, Pearson Prentice Hall 2009",
-    "consultation": "E-mail: iclin@ntut.edu.tw. Office: 1130Office Hours: Tue: 10:00--12:00 Am, Wed: 10:00--12:00 Am, Thu: 10:00--12:00 Am.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "consultation": "E-mail: iclin@ntut.edu.tw.\nOffice: 1130\nOffice Hours: Tue: 10:00--12:00 Am, Wed: 10:00--12:00 Am, Thu: 10:00--12:00 Am.",
     "remarks": "Teams:",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG10：減少不平等（Reduced Inequalities）\nSDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

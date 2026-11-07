@@ -1,17 +1,18 @@
 [
   {
-    "name": "林敬皇",
+    "teacher": "林敬皇",
     "email": "gbox@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=2&code=12391",
     "latestUpdate": "2026-02-22 11:28:13",
-    "objective": "人工智慧的技術不斷地推陳出新及影響、應用於各領域，特別是資訊安全的相關應用，對於真實世界的影響甚鉅。本課程旨在探討人工智慧在跨域資安上的應用。將帶領學生深入探討人工智慧（AI）與機器學習（ML）技術在資訊安全領域的雙面刃特性，期望學生修畢本課程後能達成以下目標：1. 掌握核心概念：理解人工智慧、機器學習技術的基礎，及其應用於資訊安全領域的基本原理。2. 建構防禦能力（AI for Security）：學習如何運用 AI 技術開發或強化資安防護機制，包含惡意程式偵測、網路入侵偵測（NIDS）、以及使用者行為分析（UEBA）。3. 理解新型威脅（Security of AI）：認識針對 AI 模型本身的攻擊手法（如對抗性攻擊、資料下毒、模型萃取），並學習對應的防禦與強健性（Robustness）提升策略。4. 探索生成式 AI 的資安衝擊：評估大型語言模型（LLMs）在自動化社交工程攻擊、程式碼漏洞挖掘上的風險，以及如何利用生成式 AI 輔助資安維運（SecOps）。5. 具備實務動手能力：透過開源工具與實機操作（Lab），具備運用 Python 及 ML 框架解決基礎資安問題的實作能力。",
-    "schedule": "1 - 課程導論與現代資安威脅地貌\n2-AI 資安核心技術\n3 - 分組確認與題目指定 (Kick-off)\n4 - 紅軍 / 藍軍領域知識深潛 (Domain Knowledge)\n5 - 資料蒐集、清洗與前處理\n6 - 初始模型建構 (Base Model Development)\n7 - 模型評估指標與系統封裝準備\n8 - 期中報告 (Midterm Presentation)\n9 - 對抗環境建置 (Engagement Setup)\n10 - 基準測試 (Baseline Attack)\n11 - 戰情檢討與防禦升級 (Defense Upgrade)\n12 - 進階對抗 (Advanced Attack)\n13 - 可解釋性 AI (XAI) 與盲點分析\n14 - 應用程式化與視覺化介面 (UI/UX)\n15 - 內部壓力測試與期末整備\n16 - 期末專題發表 (Part 1 - 攻防實境)\n17 - 期末專題發表 (Part 2 - 攻防實境)\n18-AI 資安應用技術、倫理探討與課程總結",
+    "outline": "人工智慧的技術不斷地推陳出新及影響、應用於各領域，特別是資訊安全的相關應用，對於真實世界的影響甚鉅。本課程旨在探討人工智慧在跨域資安上的應用。將帶領學生深入探討人工智慧（AI）與機器學習（ML）技術在資訊安全領域的雙面刃特性，期望學生修畢本課程後能達成以下目標：1.掌握核心概念：理解人工智慧、機器學習技術的基礎，及其應用於資訊安全領域的基本原理。2.建構防禦能力（AI for Security）：學習如何運用 AI 技術開發或強化資安防護機制，包含惡意程式偵測、網路入侵偵測（NIDS）、以及使用者行為分析（UEBA）。3.理解新型威脅（Security of AI）：認識針對 AI 模型本身的攻擊手法（如對抗性攻擊、資料下毒、模型萃取），並學習對應的防禦與強健性（Robustness）提升策略。4.探索生成式 AI 的資安衝擊：評估大型語言模型（LLMs）在自動化社交工程攻擊、程式碼漏洞挖掘上的風險，以及如何利用生成式 AI 輔助資安維運（SecOps）。5.具備實務動手能力：透過開源工具與實機操作（Lab），具備運用 Python 及 ML 框架解決基礎資安問題的實作能力。",
+    "schedule": "1-課程導論與現代資安威脅地貌\n2-AI 資安核心技術\n3-分組確認與題目指定 (Kick-off)\n4-紅軍/藍軍領域知識深潛 (Domain Knowledge)\n5-資料蒐集、清洗與前處理\n6-初始模型建構 (Base Model Development)\n7-模型評估指標與系統封裝準備\n8-期中報告 (Midterm Presentation)\n9-對抗環境建置 (Engagement Setup)\n10-基準測試 (Baseline Attack)\n11-戰情檢討與防禦升級 (Defense Upgrade)\n12-進階對抗 (Advanced Attack)\n13-可解釋性 AI (XAI) 與盲點分析\n14-應用程式化與視覺化介面 (UI/UX)\n15-內部壓力測試與期末整備\n16-期末專題發表 (Part 1 - 攻防實境)\n17-期末專題發表 (Part 2 - 攻防實境)\n18-AI資安應用技術、倫理探討與課程總結",
     "scorePolicy": "期末專案實作",
-    "materials": "自編教材 / Use of self-made materials",
-    "consultation": "----------------------------------- 林敬皇 gbox@ntut.edu.twoffice hour : 週二、週三、週五 -----------------------------------",
-    "延伸教學與資源": "● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "materials": "自編教材/Use of self-made materials",
+    "consultation": "-----------------------------------\n林敬皇\ngbox@ntut.edu.tw\noffice hour : 週二、週三、週五\n-----------------------------------",
     "remarks": "",
+    "resources": "● 數位科技融入 (Digital Technology Integration)\n運用生成式AI、VR/AR、IoT、IRS等新興科技輔助教學與評量。\nUtilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": false
   }
 ]

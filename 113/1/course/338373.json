@@ -1,15 +1,17 @@
 [
   {
-    "name": "李建錠",
+    "teacher": "李建錠",
     "email": "cdlee227@ntut.edu.tw",
     "latestUpdate": "2024-07-11 19:26:34",
-    "objective": "本課程為非資訊科系的程式設計入門課程，期能讓學生瞭解運算思維概念，並對資訊程式運作與設計方式有初步掌握。課程將以 Python 語言為實作演練工具，透過實際規劃、編寫、除錯與測試等階段，逐步培養學生基本程式設計能力。課程也將規劃人工智慧 (AI) 入門概念與基本做法，並由學生實際動手完成 AI 應用於文化發展領域議題的專題作品，讓學生能體會 AI 新科技對產業發展的現況，並思考面對未來 AI 新時代的準備方向。\nThis course is an introductory programming course for non-computer science majors, aiming to facilitate students understand the concept of computational thinking and gain a preliminary grasp of information program operation and design methods. The course will employ Python as the implementation and practice tool, gradually cultivating students' basic programming skills through practical planning, coding, debugging, and testing stages. Furthermore, the course will introduce the concepts and basic practices of Artificial Intelligence (AI). Students will have hands-on experience completing a project applying AI to cultural development issues. This allows students to appreciate the status of AI technology in industry and contemplate the preparation directions for the upcoming AI era.",
-    "schedule": "第一週：課程導論與程式基礎 \n第二週：資料型別與運算子\n第三週：流程控制 \n第四週：函數\n第五週：字串與列表\n第六週：檔案處理\n第七週：物件導向基礎 \n第八週：人工智慧入門簡介 \n第九週：期中測驗\n第十週：機器學習入門 \n第十一週: Python 與機器學習庫 (一)\n第十二週: Python 與機器學習庫 (二)\n第十三週：生成式 AI 基礎 \n第十四週：文字生成模型 \n第十五週：生成式 AI 與倫理 \n第十六週：專案管理與應用\n第十七週：期末報告準備\n第十八週：期末報告與總結",
-    "scorePolicy": "課堂出席參與 / 平時作業 : 40%\n期中測驗 : 30%\n期末測驗 : 30%",
-    "materials": "Python + ChatGPT 零基礎 + 高效率學程式設計與運算思維 (第四版)\n作者： 洪錦魁  \n出版社：深智數位",
-    "consultation": "請先以 MAIL 約時間諮詢討論 cdlee227@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "outline": "本課程為非資訊科系的程式設計入門課程，期能讓學生瞭解運算思維概念，並對資訊程式運作與設計方式有初步掌握。課程將以Python語言為實作演練工具，透過實際規劃、編寫、除錯與測試等階段，逐步培養學生基本程式設計能力。課程也將規劃人工智慧(AI)入門概念與基本做法，並由學生實際動手完成AI應用於文化發展領域議題的專題作品，讓學生能體會AI新科技對產業發展的現況，並思考面對未來AI新時代的準備方向。\nThis course is an introductory programming course for non-computer science majors, aiming to facilitate students understand the concept of computational thinking and gain a preliminary grasp of information program operation and design methods. The course will employ Python as the implementation and practice tool, gradually cultivating students' basic programming skills through practical planning, coding, debugging, and testing stages. Furthermore, the course will introduce the concepts and basic practices of Artificial Intelligence (AI). Students will have hands-on experience completing a project applying AI to cultural development issues. This allows students to appreciate the status of AI technology in industry and contemplate the preparation directions for the upcoming AI era.",
+    "schedule": "第一週: 課程導論與程式基礎\n第二週: 資料型別與運算子\n第三週: 流程控制\n第四週: 函數\n第五週: 字串與列表\n第六週: 檔案處理\n第七週: 物件導向基礎\n第八週: 人工智慧入門簡介\n第九週: 期中測驗\n第十週: 機器學習入門\n第十一週: Python與機器學習庫 (一)\n第十二週: Python與機器學習庫 (二)\n第十三週: 生成式AI基礎\n第十四週: 文字生成模型\n第十五週: 生成式AI與倫理\n第十六週: 專案管理與應用\n第十七週: 期末報告準備\n第十八週: 期末報告與總結",
+    "scorePolicy": "課堂出席參與/平時作業 : 40%\n期中測驗 : 30%\n期末測驗 : 30%",
+    "materials": "Python + ChatGPT 零基礎+高效率學程式設計與運算思維(第四版)\n作者： 洪錦魁\n出版社：深智數位",
+    "consultation": "請先以MAIL約時間諮詢討論\ncdlee227@ntut.edu.tw",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

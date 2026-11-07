@@ -1,15 +1,18 @@
 [
   {
-    "name": "韓秉軒",
+    "teacher": "韓秉軒",
     "email": "robert19881004@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11969",
     "latestUpdate": "2024-05-23 00:09:30",
-    "objective": "This course provides the fundamental knowledge, structure, and design methods of interactive programming. Students will learn how to use interactive programming design, analysis, and development to implement visual, sound, and touching interactions in interactive technology. In the practical part, the course is based on Arduino and electronic circuits, using interactive programming to guide students in designing and implementing interactive devices.\n本課程將介紹基礎互動程式語言的架構以及設計的方法，並培養學生如何透過互動程式的設計與應用的分析及發展，實踐互動科技中有關視覺、聲音、觸感等互動效果的專案製作能力。在實作部分，本課程以 Arduino 和電子電路為基礎，並以互動程式的撰寫，導引學生學習互動裝置設計與實作。",
+    "outline": "This course provides the fundamental knowledge, structure, and design methods of interactive programming. Students will learn how to use interactive programming design, analysis, and development to implement visual, sound, and touching interactions in interactive technology. In the practical part, the course is based on Arduino and electronic circuits, using interactive programming to guide students in designing and implementing interactive devices.\n本課程將介紹基礎互動程式語言的架構以及設計的方法，並培養學生如何透過互動程式的設計與應用的分析及發展，實踐互動科技中有關視覺、聲音、觸感等互動效果的專案製作能力。在實作部分，本課程以Arduino和電子電路為基礎，並以互動程式的撰寫，導引學生學習互動裝置設計與實作。",
     "schedule": "Introduction\nBasic Electrical Circuits\nDigital Output\nDigital Input\nAnalog Output\nAnalog Input\nRapidly Prototyping\nMidterm Recap\nMidterm Exam\nMidtern Exam Review/Expert Sharing\nWorkshop of Exertion Interaction\nFinal Project Proposal\nDC Drive Module & Power Supply\nMechanism and Structures\nArduino with Unity\nFinal Project Discussion\nFinal Project Presentation\nFinal Project Demonstration",
     "scorePolicy": "Homework 30%\nMidterm Exam 30%\nFinal Project Proposal 10%\nFinal Project Presentation 10%\nFinal Project Demonstration 10%\nClass Performance10%",
     "materials": "https://docs.arduino.cc/",
     "consultation": "Discord Channel",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

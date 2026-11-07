@@ -1,0 +1,43 @@
+[
+  {
+    "teacher": "彭朋群",
+    "email": "pcpeng@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=111&sem=2&code=11369",
+    "latestUpdate": "2022-12-15 23:24:38",
+    "outline": "課程主要為介紹學術界最新的深度學習研究成果，教導學員使用Python深度學習套件，讓學員能將深度學習技術應用於各個不同的領域。課程內容包括：●車牌與門牌數字辨識 ●人臉辨識 ●1000種影像分類 ●辨識9000種物件 ●自動駕駛模擬 ●嵌入式深度學習演算法 空虛，寂寞，覺得冷？讓深度學習來幫助你 ●遞迴式神經網路 (RNN)：找不到人聊天？訓練自己的聊天機器人 ●對抗生成網路(GAN)：用 GAN 產生自己的夢中情人 ●深度強化學習(DRL)：訓練AI跟你一起玩遊戲\nThe goal of this course is to introduce latest deep learning researches and allow students to develop deep learning applications using Python library (TensorFlow & Keras). The content includes: ●Number recognition of License plate and Doorplate ●Face Recognition ●1000 Image Classification ●9000 Object Detection ●Autopilot simulation ●Embedded Deep Learning Algorithms ●Convolutional Neural Networks (CNN) ●Recurrent Neural Networks (RNN) ●Long-Short Term Memory (LSTM) ●Generative Adversarial Networks (GAN) ●Deep Reinforcement Learning",
+    "schedule": "Applied math for deep learning\nNeural network optimization\nTensorFlow, Colab and Kaggle\nConvolutional Neural Networks\nAdvanced Keras API\nNatural Language Processing (NLP) & Word Embedding\nRecurrent Neural Networks (RNNs) and Long Short-term Memory (LSTM)",
+    "scorePolicy": "Homework 60%\nFinal term 40%",
+    "materials": "Francois Chollet, “Deep Learning with Python, 2nd Edition” Manning, 2021",
+    "consultation": "e-mail: pcpeng@ntut.edu.tw\noffice: Everlight Building, Room 1132",
+    "remarks": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採遠距授課。\n視訊通話連結：https://meet.google.com/ubc-yajx-fof\n※「二級」警戒授課方式說明如下：\n●上課方式：實體授課",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採遠距授課。\n視訊通話連結：https://meet.google.com/ubc-yajx-fof\n※「二級」警戒授課方式說明如下：\n●上課方式：實體授課",
+      "courseScoreMethod": null,
+      "courseInfo": null,
+      "courseURL": null,
+      "contactInfo": null,
+      "additionalInfo": null,
+      "lv2Method": "實體授課"
+    }
+  },
+  {
+    "teacher": "曾恕銘",
+    "email": "shuming@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=111&sem=2&code=11010",
+    "latestUpdate": "2023-01-05 12:22:01",
+    "outline": "This course contains labs with source codes and step-by-step instructions. The course adopts problem based lerning, concentrating on the necessary background on these machine learning labs. The content includes introduction and computer tools, DNN with labs, learning methods with labs, CNN with labs, autoencoder with labs, and latest self attention/transformer case study Video Chaptering appliable to Youtube.",
+    "schedule": "Week 1: Machine learning introduction and computer tools,\nDeep Neural Networks (DNN)with Labs\nWeek 2: Learning methods with Labs (AI玩遊戲)\nConvolutional Neural Network (CNN) with Labs (AI影像分類/物件偵測)\nAutoencoder with Labs (AI影像去雜訊/著色)\nWeek 3: transformer (AI寫金庸小說/寫學習歷程檔案) with case study scene boundary detection (AI影片分章)\nLab report (one group of students reports one lab)",
+    "scorePolicy": "Lab report (one group report one lab)",
+    "materials": "References\nTan, Steinbach, Karpatne, Kumar, Introduction to Data Mining, 2e, 2019.\nMendenhall and Sincich, Statistics for engineering and the sciences, 5/e, Prentice Hall.\nZheng Yuxi, A Preliminary Study on Key Technologies of Artificial Intelligence, 2019.8.26\nJinwoo Shin, Deep Learning for Optimization, Communication and Networks, The East Asian School of Information Theory & Communication (EASITC), August 6-10, 2018\nhttps://www-users.cs.umn.edu/~kumar001/dmbook/index.php#item4\nhttp://www.willamette.edu/~gorr/classes/cs449/intro.html\nhttps://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html\nhttp://www.aiotlab.org/teaching/dl_app.html\nNVIDIA DLI Deep Learning Basic Theory and Practice\nMicrosoft Azure Service Custom Vision Cavedu Education Team\nGenerate Network_Zeng Jihong 02_Auto Encoder\nZhai, Xiaohua, et al. \"S4l: Self-supervised semi-supervised learning.\" Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.",
+    "consultation": "office hours or by email",
+    "remarks": "If the distance class becomes necessary, all lectures, exam, oral reports will be held via Microsoft Teams. We will have roll calls and you may be required to turn on the camera and mic in the class.",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": false
+  }
+]

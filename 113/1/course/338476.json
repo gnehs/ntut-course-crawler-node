@@ -1,15 +1,18 @@
 [
   {
-    "name": "孔繁傑",
+    "teacher": "孔繁傑",
     "email": "fjkung@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12564",
     "latestUpdate": "2024-08-15 13:27:24",
-    "objective": "This course introduces the applications of digital signal processing on speech signals. It contains the following topics:\n1. The characteristic of speech signal\n2. Single-channel speech enhancement algorithms\n3. Multichannel speech enhancement algorithms\n4. Speech recognition techniques\n5. Speech counting estimation\n6. Speech localization methods\n7. Deep-learning techniques on speech signals",
+    "outline": "This course introduces the applications of digital signal processing on speech signals. It contains the following topics:\n1. The characteristic of speech signal\n2. Single-channel speech enhancement algorithms\n3. Multichannel speech enhancement algorithms\n4. Speech recognition techniques\n5. Speech counting estimation\n6. Speech localization methods\n7. Deep-learning techniques on speech signals",
     "schedule": "Week 1: Introduction of speech signals\nWeek 2-4: Review of discrete-time signal processing\nWeek 5-11: Speech enhancement algorithms (single channel)\nWeek 12: Beamforming techniques\nWeek 13: Speech counting estimation\nWeek 14: Speech localization methods\nWeek 15-16: Speech recognition techniques\nWeek 17: Deep-learning techniques on speech signals\nWeek 18: Final presentation",
     "scorePolicy": "Homework: 40%, Quiz: 30%, Final Project: 30%, Bonus",
     "materials": "1. C. P. Loizou, Speech Enhancement: Theory and Practice, Second Edition. CRC Press, 2013\n2. M. R. Bai, J.-G. Ih, and J. Benesty, Acoustic Array Systems: Theory, Implementation, and Application. Wiley, 2013\n3. A. V. Oppenheim and R. W. Schafer, Discrete-Time Signal Processing, Third Edition. PEARSON, 2010\n4. Related paper for speech signal processing\n5. Self-made PPT & notes",
-    "consultation": "1. You can email me (fjkung@ntut.edu.tw) or the TA.2. You can visit me (綜科 518) during office hours to discuss questions.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "consultation": "1. You can email me (fjkung@ntut.edu.tw) or the TA.\n2. You can visit me (綜科518) during office hours to discuss questions.",
     "remarks": "有修習過訊號與系統，機率和線性代數者佳 (prerequisite knowledge: signal and systems, probability, and linear algebra)",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

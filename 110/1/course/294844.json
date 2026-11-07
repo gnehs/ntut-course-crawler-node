@@ -1,0 +1,32 @@
+[
+  {
+    "teacher": "邱弘緯",
+    "email": "hwchiu@ntut.edu.tw",
+    "latestUpdate": "2021-09-10 13:44:43",
+    "outline": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作Python作為資料科學的實作工具，包括其相關Python基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用Python取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的AI演算方法來分析大數據並輔助決策。\nData Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making.",
+    "schedule": "Topic 1: Data collection, linear regression and Python Lab\nTopic 2: Data processing, visualization Python Lab\nTopic 3: Exploratory data analysis and Python Lab",
+    "scorePolicy": "● Prof. Chiu : Homework Assignments 25%\n● Prof. Chiu : Midterm project 25%",
+    "materials": "Data Science from Scratch, 2nd ed. Joel Grus. O'REILLY. 2019.",
+    "consultation": "Please email to hwchiu@ntut.edu.tw or by Line message.",
+    "remarks": "●上課方式：分流上課\n\n● 邱弘緯老師部份 : 會以分流上課，學生可以自由選擇實體教室或遠距上課。\nUnder the Level 2 epidemic alert, students are free to choose the classroom or online learning during the course session taught by Prof. Chiu.\n\n●評量方式：● Prof. Chiu :\nUpload Homework Assignments to Teams before the deadline.\nUpload Midterm project to Teams before the deadline.\n\n\n●補充說明資訊：",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "teacher": "劉傳銘",
+    "email": "cmliu@ntut.edu.tw",
+    "latestUpdate": "2021-09-08 18:16:47",
+    "outline": "Data Science will focus on the basic mathematical concept behind the data and learn data processing with Python. Material covered will integrate the five key facets of an investigation using data: (1) Data collection - data wrangling, cleaning, and sampling to get a suitable data set; (2) Data processing and visualization –practicing data transformation based on linear algebra; (3) Exploratory data analysis – generating hypotheses and building intuition; (4) Mathematical Models - statistical learning and classification; (5) Prediction - decision trees and linear regression. The curriculum for this course builds for the advanced machine learning courses. Students are strongly encouraged to utilize Python to enhance their programming capability.",
+    "schedule": "Prof. Hung-Wei Chiu\nWeek 1 (9 hours): Data collection and linear regression | Lecture and Lab\nWeek 2 (9 hours): Data processing and visualization | Lecture and Lab\nWeek 3 (9 hours): Exploratory data analysis | Lecture and Lab\n\nProf. Chuan-Ming Liu\nWeek 4 (9 hours): Data munging; Scores and rankings | Lecture and Lab\nWeek 5 (9 hours):Mathematical models; Linear algebra | Lecture and Lab\nWeek 6 (9 hours):Logistic regression; Distance and network methods | Lecture and Lab",
+    "scorePolicy": "Homework Assignments 25%\nMidterm Project(II) 25%\nHomework Assignments 25%\nFinal Project(II) 25%",
+    "materials": "Required Textbooks:\n• Python Data Science Handbook by Jake VanderPlas, O'Reilly Media, Inc. (ebook available on https://jakevdp.github.io/PythonDataScienceHandbook/ )\n• Data science from scratch by Joel Grus, O’Reilly Media, Inc., 2019 ISBN: 9781492041139\n• The Data Science Design Manual by Steven S. Skiena, Springer-Verlag, 2017, ISBN-13: 978-3319554433 http://www.data-manual.com/\n\nCourse Materials:\n- https://developers.google.com/machine-learning/crash-course\n- https://github.com/jakevdp/PythonDataScienceHandbook\n- https://github.com/Pierian-Data/Complete-Python-3-Bootcamp\n- https://github.com/joelgrus/data-science-from-scratch\n- https://github.com/yhilpisch/py4fi2nd\n- https://scikit-learn.org/stable/auto_examples/index.html#model-selection\nSoftware References:\n- Python: Given below is a list of IDEs:\n- Cloud Shell Editor( https://shell.cloud.google.com/ ) (Web)\n- Google Colab(https://colab.research.google.com/) (Web)\n- Microsoft Visual Studio https://code.visualstudio.com/ (PC)\n- Microsoft Visual Studio + Anaconda ?",
+    "consultation": "Emails: cmliu@ntut.edu.tw( school); 11107@cc.ntut.edu.tw (Microsoft Teams)\nLine ID: mobile.prof\nFB: facebook.com/howard.liu.5\nPhone: 4251 (in school)",
+    "remarks": "●上課方式：遠距上課\n\n\n\n●評量方式：For evaluation, in this course, we will use the presentations for project proposal and demonstration respectively instead.\n\n\n●補充說明資訊：",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

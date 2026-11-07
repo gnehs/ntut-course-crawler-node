@@ -1,17 +1,17 @@
 [
   {
-    "name": "陳仲萍",
+    "teacher": "陳仲萍",
     "email": "cpchen@ntut.edu.tw",
     "latestUpdate": "2017-12-22 17:11:38",
-    "objective": "本課程內容包括邏輯閘的特性與功能測試，能利用積體電路完成各種基礎邏輯電路的組裝及設計，並能利用電子儀器進行量測、檢修。探討最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之 VLSI 設計，使用 MSI 與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI 之設計與測試技巧，各種 CAD 軟體工具介紹。基礎邏輯閘實驗、組合邏輯實驗、加法器及減法器實驗、組合邏輯應用實驗、正反器邏輯實驗、循序邏輯電路應用實驗。",
-    "schedule": "Week- 1 Introduction to Digital System Design (2/27)\nWeek- 2 Concurrent Code and Devices Design (3/6)\nWeek- 3 Simulation with VHDL Testbench (3/13)\nWeek- 4 Testing with Pattern Generator and Digital Analyzer (3/20)\nWeek- 5 Sequential Code and Devices Design (3/27)\nWeek- 6 Holiday 婦幼節 (4/3)\nWeek- 7 Signal and Variables (4/10)\nWeek- 8 考前複習 (4/17)\nWeek- 9 Midterm test (4/24)\nWeek- 10 Package and Component for System design (5/1)\nWeek- 11 Function and Procedure in System Design (5/8)\nWeek- 12 Design with State Machines (5/15)\nWeek- 13 Introduction to DE2-115 (5/22)\nWeek- 14 Memoy and NIOS soft CPU and FPGA (5/29)\nWeek- 15 Synthesis with Quartus II (6/5)\nWeek- 16 Qsys and NIOS - SOC (6/12)\nWeek- 17 Final Test (6/19)\nWeek- 18 補考 (6/27)",
+    "outline": "本課程內容包括邏輯閘的特性與功能測試，能利用積體電路完成各種基礎邏輯電路的組裝及設計，並能利用電子儀器進行量測、檢修。探討最佳化組合邏輯之演算法，可規劃邏輯元件，組合邏輯之VLSI設計，使用MSI與標準電路元件設計多層邏輯，使用閘陣列設計，循序邏輯之元件，循序邏輯之分析與合成，VLSI之設計與測試技巧，各種CAD軟體工具介紹。基礎邏輯閘實驗、組合邏輯實驗、加法器及減法器實驗、組合邏輯應用實驗、正反器邏輯實驗、循序邏輯電路應用實驗。",
+    "schedule": "Week- 1 Introduction to Digital System Design (2/27)\nWeek- 2 Concurrent Code and Devices Design (3/6)\nWeek- 3 Simulation with VHDL Testbench(3/13)\nWeek- 4 Testing with Pattern Generator and Digital Analyzer (3/20)\nWeek- 5 Sequential Code and Devices Design (3/27)\nWeek- 6 Holiday 婦幼節(4/3)\nWeek- 7 Signal and Variables (4/10 )\nWeek- 8 考前複習(4/17)\nWeek- 9 Midterm test (4/24)\nWeek- 10 Package and Component for System design (5/1)\nWeek- 11 Function and Procedure in System Design (5/8)\nWeek- 12 Design with State Machines (5/15)\nWeek- 13 Introduction to DE2-115 (5/22)\nWeek- 14 Memoy and NIOS soft CPU and FPGA (5/29)\nWeek- 15 Synthesis with Quartus II (6/5)\nWeek- 16 Qsys and NIOS-SOC (6/12)\nWeek- 17 Final Test (6/19)\nWeek- 18 補考 (6/27)",
     "scorePolicy": "1. Two Quizes 20%\n2. Mid term test 20%\n3. Final test 20%\n4. Home works 40%",
-    "materials": "【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】\n\n\n\n1. Text Book: Circuit Design and Simulation with VHDL 2nd Edition\nVolnei A.pedroni / The MIT Press 2010\n2. Reference Book: Finite State Machine in Hardware\nVolnei A.pedroni / The MIT Press 2013\n3. Reference Book: Digital System Design with VHDL 2nd Edition\nMark Zwolinski / Pearson 2004\n4. Lab Book: iLAB-FPGA 數位系統設計摸擬測試與硬體除錯\n陳雲潮 / 東華書局 2016",
+    "materials": "1. Text Book: Circuit Design and Simulation with VHDL 2nd Edition\nVolnei A.pedroni / The MIT Press 2010\n2. Reference Book: Finite State Machine in Hardware\nVolnei A.pedroni / The MIT Press 2013\n3. Reference Book: Digital System Design with VHDL 2nd Edition\nMark Zwolinski / Pearson 2004\n4. Lab Book: iLAB-FPGA 數位系統設計摸擬測試與硬體除錯\n陳雲潮 / 東華書局 2016",
     "consultation": "",
-    "延伸教學與資源": "",
-    "課程對應SDGs指標": "",
-    "課程是否導入AI": "",
     "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,14 +1,18 @@
 [
   {
-    "name": "楊元森",
+    "teacher": "楊元森",
     "email": "ysyang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=11397",
     "latestUpdate": "2024-05-23 07:54:32",
-    "objective": "數值分析是人工智慧與機器學習的重要數理基礎。有了數值分析的知識，學習人工智慧與機器學習的過程將更為順利。本課程以電腦遊戲的方式，讓學員透過有趣的遊戲程式撰寫，體會數值分析的原理與重要性。本課程的目標以程式語言撰寫實用的電腦遊戲，學習數值分析的基本概念和方法。",
+    "outline": "數值分析是人工智慧與機器學習的重要數理基礎。有了數值分析的知識，學習人工智慧與機器學習的過程將更為順利。本課程以電腦遊戲的方式，讓學員透過有趣的遊戲程式撰寫，體會數值分析的原理與重要性。本課程的目標以程式語言撰寫實用的電腦遊戲，學習數值分析的基本概念和方法。",
     "schedule": "Week 1: Introduction to numerical analysis\nWeek 2: Hands-on exercise of spreadsheet and Python\nWeek 3: Euler method for trajectory of shell without air drag\nWeek 4: Spreadsheet calculation for explicit integration for trajectory of shell\nWeek 5: Runge-Kutta method for trajectory of shell air drag\nWeek 6: Visualization of trajectory using Python\nWeek 7: Online Euler method with visualization using Python\nWeek 8: Python object oriented programming for explicit integration\nWeek 9: Midterm\nWeek 10: Matrix multiplication and functions in Python\nWeek 11: Solving simple inverse problem in Excel\nWeek 12: Inversion problems and nonlinear least square in Python\nWeek 13: Frequency analysis and fast Fourier transform\nWeek 14: Introduction to AI\nWeek 15: Introduction to machine learning\nWeek 16: Final examination\nWeek 17: Selected projects and exercises (1)\nWeek 18: Selected projects and exercises (2)",
     "scorePolicy": "平時成績 (出席 互動 發問 討論) 20% +/- 5%\n期中報告 35% +/- 5%\n期末報告 45% +/- 5%",
     "materials": "https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html",
-    "consultation": "8:10-9:00 AM. Monday to Friday.Reservation through email: ysyang@ntut.edu.tw",
-    "remarks": "The lecture is regularly video recorded and is available at the NTUT iStudy (北科 i 學園). In case that the lecture has to be carried out online, it will be at https://meet.google.com/yiu-jwqa-ckmSee the schedule updates about the 16th, 17th, and the 18th weeks in the Schedule above.",
+    "consultation": "8:10-9:00 AM. Monday to Friday.\nReservation through email: ysyang@ntut.edu.tw",
+    "remarks": "The lecture is regularly video recorded and is available at the NTUT iStudy (北科 i 學園). In case that the lecture has to be carried out online, it will be at https://meet.google.com/yiu-jwqa-ckm\n\nSee the schedule updates about the 16th, 17th, and the 18th weeks in the Schedule above.",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

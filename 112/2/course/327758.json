@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳偉堯",
+    "teacher": "陳偉堯",
     "email": "waltchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=10918",
     "latestUpdate": "2024-04-29 16:34:17",
-    "objective": "這是土木系大學部學生的第二門程式語言課程，將銜接基礎的 Fortran 程式設計，並準備學生進入 FIT-2。本課程將以 C/C++ 教導變數宣告、運算式撰寫、控制敘述、判斷敘述、分支敘述、重複迴圈、指標使用、檔案讀寫、函數宣告和陣列應用等課題。",
+    "outline": "這是土木系大學部學生的第二門程式語言課程，將銜接基礎的Fortran程式設計，並準備學生進入FIT-2。本課程將以C/C++教導變數宣告、運算式撰寫、控制敘述、判斷敘述、分支敘述、重複迴圈、指標使用、檔案讀寫、函數宣告和陣列應用等課題。",
     "schedule": "Week 01: Chapter 1 Basic Concepts\nWeek 02: Chapter 2 Getting Started in C++\nWeek 03: Chapter 2 Getting Started in C++\nWeek 04: Chapter 3 Assignment, Input and Output\nWeek 05: Chapter 4 Selection\nWeek 06: Exam #1\nWeek 07: Chapter 4 Selection\nWeek 08: Chapter 5 Repetition\nWeek 09: Chapter 5 Repetition\nWeek 10: Chapter 6 Functions\nWeek 11: Chapter 6 Functions\nWeek 12: Exam #2\nWeek 13: Chapter 7 Arrays\nWeek 14: Chapter 8 Data Files and File Streams\nWeek 15: Chapter 8 Data Files and File Streams\nWeek 16: TBA\nWeek 17: Holiday\nWeek 18: Exam #3",
     "scorePolicy": "Homework and attendance 55%\nExam #1 15% (programming test)\nExam #2 15% (programming test)\nExam #3 15% (programming test)",
     "materials": "Bronson, G. J. (2013). C++ for Engineers and Scientists, 4th Edition, Course Technology, International Student Edition, 828 pages 滄海圖書",
-    "consultation": "Office HoursMonday: 8:10 – 1:10Thursday: 8:10 – 9:10 請事先以電子郵件預約諮商時間",
-    "remarks": "根據學校通知：「電腦教室、系館上課之課程，仍以實體教學為原則」，所以我們的 C++ 課程在第 17 週和第 18 週將維持在電腦教室上課。另據學校通知：「期末考試時間：統一於第 16 週 (6 月 3 日至 6 月 7 日) 辦理」，所以我們將提早在第 16 週舉行第三次考試，至於第 17 週和第 18 週則會正常上課並有作業。",
+    "consultation": "Office Hours\nMonday: 8:10 – 1:10\nThursday: 8:10 – 9:10\n請事先以電子郵件預約諮商時間",
+    "remarks": "根據學校通知：「電腦教室、系館上課之課程，仍以實體教學為原則」，所以我們的C++課程在第17週和第18週將維持在電腦教室上課。\n\n另據學校通知：「期末考試時間：統一於第16週(6月3日至6月7日)辦理」，所以我們將提早在第16週舉行第三次考試，至於第17週和第18週則會正常上課並有作業。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

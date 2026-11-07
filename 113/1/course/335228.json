@@ -1,15 +1,18 @@
 [
   {
-    "name": "郭忠義",
+    "teacher": "郭忠義",
     "email": "jykuo@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11247",
     "latestUpdate": "2024-09-24 21:53:36",
-    "objective": "本課程以計算機硬體及軟體之基本介紹為始，逐步引入程式設計的觀念與方法，程式設計語言以 C, Python 語言為基礎，於熟習基本程式語法後，再導入程式設計方法。內容著重邏輯思考與程式設計能力之訓練及其在資訊工程上之應用，同時輔以程式設計過程所應注意之程式結構、程式設計原則、軟體工程的基本概念，使修習者得以奠定程式設計專業之基礎。",
-    "schedule": "Week 01 (09/09, 09/10) Environment, Data Type, Arithmetic operator, I/O\nWeek 02 (09/16,            ) Comparison and logic operator, Selection Structures - if\nWeek 03 (09/23, 09/24) nest if, function\nWeek 04 (09/30, 10/01) function, List basic, Quiz#1\nWeek 05 (10/07, 10/08) Unit Testing, \nWeek 06 (10/14, 10/15) Loop statements - for\nWeek 07 (10/21, 11/22) Loop statements - while\nWeek 08 (10/28, 10/29) string basic, Quiz#2\nWeek 09 (11/04, 11/05), 11/05 16:00~19:00 上機測驗 1\nWeek 10 (11/11, 11/12) List\nWeek 11 (11/18, 11/19) Recursion\nWeek 12 (11/25, 11/26) Recursion \nWeek 13 (12/02, 12/03) Set, Quiz#3\nWeek 14 (12/09, 12/10) Zip, Map, Lambda, Dictionary\nWeek 15 (12/16, 12/17) String II\nWeek 16 (12/23, 12/24) File I/O, Exception Handling\nWeek 17 (12/30, 12/31) Array, Quiz#4\nWeek 18 (01/07, 16:00~19:30 上機測驗 2)",
-    "scorePolicy": "Assignment  20%\nOn Line     40%\nQuiz        40%\n注意事項：\n1. 本課程須上機寫程式，同學每星期至少花五小時於電腦上機寫程式。\n2. 學期中舉行 4 次小考。\n3. 每週指定一次程式作業，作業可以互相討論，但須自己親自上機寫作。\n4. 任一次作業抄襲，或考試抄襲，學期成績不及格。\n5. 共二次上機考試 - 實際使用電腦寫程式，程式需編譯無誤，可以執行，開始依功能計分。",
+    "outline": "本課程以計算機硬體及軟體之基本介紹為始，逐步引入程式設計的觀念與方法，程式設計語言以 C, Python 語言為基礎，於熟習基本程式語法後，再導入程式設計方法。內容著重邏輯思考與程式設計能力之訓練及其在資訊工程上之應用，同時輔以程式設計過程所應注意之程式結構、程式設計原則、軟體工程的基本概念，使修習者得以奠定程式設計專業之基礎。",
+    "schedule": "Week 01 (09/09, 09/10) Environment, Data Type, Arithmetic operator, I/O\nWeek 02 (09/16, ) Comparison and logic operator, Selection Structures - if\nWeek 03 (09/23, 09/24) nest if, function\nWeek 04 (09/30, 10/01) function, List basic, Quiz#1\nWeek 05 (10/07, 10/08) Unit Testing,\nWeek 06 (10/14, 10/15) Loop statements - for\nWeek 07 (10/21, 11/22) Loop statements - while\nWeek 08 (10/28, 10/29) string basic, Quiz#2\nWeek 09 (11/04, 11/05), 11/05 16:00~19:00 上機測驗1\nWeek 10 (11/11, 11/12) List\nWeek 11 (11/18, 11/19) Recursion\nWeek 12 (11/25, 11/26) Recursion\nWeek 13 (12/02, 12/03) Set, Quiz#3\nWeek 14 (12/09, 12/10) Zip, Map, Lambda, Dictionary\nWeek 15 (12/16, 12/17) String II\nWeek 16 (12/23, 12/24) File I/O, Exception Handling\nWeek 17 (12/30, 12/31) Array, Quiz#4\nWeek 18 (01/07, 16:00~19:30 上機測驗 2)",
+    "scorePolicy": "Assignment 20%\nOn Line 40%\nQuiz 40%\n注意事項：\n1.本課程須上機寫程式，同學每星期至少花五小時於電腦上機寫程式。\n2.學期中舉行4次小考。\n3.每週指定一次程式作業，作業可以互相討論，但須自己親自上機寫作。\n4.任一次作業抄襲，或考試抄襲，學期成績不及格。\n5.共二次上機考試-實際使用電腦寫程式，程式需編譯無誤，可以執行，開始依功能計分。",
     "materials": "Text Book: PYTHON 自製教材",
-    "consultation": "TeamsLineZuvio",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "TEAMSZUVIOLINEjykuo@ntut.edu.twhttps://line.me/R/ti/g/SX3iyXltYE",
+    "consultation": "Teams\nLine\nZuvio",
+    "remarks": "TEAMS\nZUVIO\nLINE\njykuo@ntut.edu.tw\nhttps://line.me/R/ti/g/SX3iyXltYE",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

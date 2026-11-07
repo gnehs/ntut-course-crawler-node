@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳信安",
+    "teacher": "陳信安",
     "email": "hachen@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12306",
     "latestUpdate": "2024-12-16 17:07:56",
-    "objective": "主要課程內容為 Python 程式語言介紹及應用。\nThe major course includes the introduction of Python programming language and application.",
-    "schedule": "程式設計簡介\nPython 基本操作\n資料型態與轉換\n邏輯結構\n迴圈結構\n遞迴\n副程式\n常用模組實作 (numpy, scipy, matplotlib, ...)",
+    "outline": "主要課程內容為Python程式語言介紹及應用。\nThe major course includes the introduction of Python programming language and application.",
+    "schedule": "程式設計簡介\nPython基本操作\n資料型態與轉換\n邏輯結構\n迴圈結構\n遞迴\n副程式\n常用模組實作(numpy, scipy, matplotlib, ...)",
     "scorePolicy": "50% 作業\n50% 期末報告",
     "materials": "無制式參考書，以課程講義與演示為主。",
     "consultation": "Email (hachen@mail.ntut.edu.tw)",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

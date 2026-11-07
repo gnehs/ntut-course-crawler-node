@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "teacher": "張漢利",
+    "email": "hendri@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12603",
+    "latestUpdate": "2025-02-17 17:18:46",
+    "outline": "This course provides a comprehensive understanding of time series analysis and process control techniques, with an emphasis on coding and conducting experiments, such as verifying results from research papers. Students will learn to analyze time-dependent data and apply various forecasting and process monitoring methods. Key topics include time series preprocessing, regression analysis, ARIMA models, and advanced techniques such as statistical process control, CUSUM, EWMA, and multivariate monitoring. The course also covers real-time contrasts and includes paper reading and presentations to explore contemporary applications in time series analysis and process control. Basic programming skills is expected.",
+    "schedule": "Week 1: Course Orientation\nWeek 2: Time series data preprocessing\nWeek 3: Time series visualization & analysis\nWeek 4: Introduction to forecasting\nWeek 5: Regression analysis\nWeek 6: Exponential smoothing\nWeek 7: ARIMA\nWeek 8: Mid term\nWeek 9: Time series data mining (I)\nWeek 10: Time series data mining (II)\nWeek 11: Statistical process control\nWeek 12: CUSUM charts\nWeek 13: EWMA charts\nWeek 14: Multivariate process monitoring\nWeek 15: Real-time contrasts\nWeek 16: Paper reading & presentation\nWeek 17: Paper reading & presentation\nWeek 18: Course wrap up",
+    "scorePolicy": "1. Quizzes and assignments: 30%\n2. Mid-term exam: 20%\n3. Paper reading & presentation: 20%\n4. Final-term written report: 30%",
+    "materials": "1. Montgomery, D. C., Jennings, C. L., & Kulahci, M. (2015). Introduction to time series analysis and forecasting. John Wiley & Sons.\n2. Montgomery, D. C. (2020). Introduction to statistical quality control (8th ed.). Wiley.\n3. Hyndman, R. J., & Athanasopoulos, G. (2021). Forecasting: principles and practice (3rd ed). OTexts.\n4. https://www.cs.ucr.edu/~eamonn/MatrixProfile.html",
+    "consultation": "Email, office hour",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

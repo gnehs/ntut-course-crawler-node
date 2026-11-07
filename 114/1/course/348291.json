@@ -1,16 +1,18 @@
 [
   {
-    "name": "廖文義",
+    "teacher": "廖文義",
     "email": "wiliao@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11320",
     "latestUpdate": "2025-05-30 22:53:31",
-    "objective": "1. 首先在訓練學生基本數學思惟及推理的能力，另外也銜接基礎數學及微積分的課程，以奠定各專業領域所需的數學基礎。 \n2. 課程內容以教導學生具有分析處理實際工程問題所需之基本數學觀念及能力為主。 \n3. 強調理論基礎、運算技巧及實際應用領域，另特別增強解題技巧及演算能力，使對將來繼續深造能預作準備。 \n4. 使學生具備未來成為頂尖工程師或科學家所需要之入門工具。\n5. 本學期課程以常微分方程為主",
-    "schedule": "1-3 週: First order differential equations (一階常微分方程)\n4-9 週: Linear differential equations of second and higher order (高階線性微分方程)\n10 週: Nonlinear differential equations-introduction (非線性微分方程簡介)\n11-13 週: Series solutions of differential equations (微分方程之級數解)\n14 週: Boundary value problems (邊界值問題)\n15-17 週: Partial differential equations and Laplace Transforms \n18 週：期末考",
-    "scorePolicy": "1、作業佔 5%, 出席率與課堂表現及不定時測驗 10% \n2、4 次小考共佔 45% (第 3, 6, 12, 15 週遇假日順延，考試前一周公告時間)\n3、期中考 20% 期末考 20% (第 9, 18 週)",
-    "materials": "課堂用書：\nErwin Kreyszig, Advanced Engineering Mathematics, 10th Edition, JOHN WILEY & SONS, INC.\n \n參考書:\n(1) Francis B. Hildebrand, ”Advanced Calculus for Application”. \n(2) 課堂講義",
-    "consultation": "教師諮商時間，Email 或 Line 諮詢",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "outline": "1. 首先在訓練學生基本數學思惟及推理的能力，另外也銜接基礎數學及微積分的課程，以奠定各專業領域所需的數學基礎。\n2. 課程內容以教導學生具有分析處理實際工程問題所需之基本數學觀念及能力為主。\n3. 強調理論基礎、運算技巧及實際應用領域，另特別增強解題技巧及演算能力，使對將來繼續深造能預作準備。\n4. 使學生具備未來成為頂尖工程師或科學家所需要之入門工具。\n5. 本學期課程以常微分方程為主",
+    "schedule": "1-3週: First order differential equations (一階常微分方程)\n4-9週: Linear differential equations of second and higher order (高階線性微分方程)\n10週: Nonlinear differential equations-introduction (非線性微分方程簡介)\n11-13週: Series solutions of differential equations (微分方程之級數解)\n14週: Boundary value problems (邊界值問題)\n15-17週: Partial differential equations and Laplace Transforms\n18週: 期末考",
+    "scorePolicy": "1、作業佔5%, 出席率與課堂表現及不定時測驗10%\n2、4次小考共佔45% (第3, 6, 12, 15週遇假日順延, 考試前一周公告時間)\n3、期中考20% 期末考20% (第9, 18週)",
+    "materials": "課堂用書：\nErwin Kreyszig, Advanced Engineering Mathematics, 10th Edition, JOHN WILEY & SONS, INC.\n\n參考書:\n(1) Francis B. Hildebrand, ”Advanced Calculus for Application”.\n(2) 課堂講義",
+    "consultation": "教師諮商時間，Email 或 Line諮詢",
     "remarks": "依學校規定",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

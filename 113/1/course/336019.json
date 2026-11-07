@@ -1,15 +1,18 @@
 [
   {
-    "name": "邱志洲",
+    "teacher": "邱志洲",
     "email": "chih3c@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=10936",
     "latestUpdate": "2024-05-26 20:11:45",
-    "objective": "建立學生對各類資料探勘技術與理論的基礎觀念及架構，以奠定學生日後從事資料探勘分析與研究工作時之需。相關的分析技術將包括應用在分類 (classification)、推估 (estimation)、預測 (prediction)、關聯式分組 (affinity grouping)、同質分組 (clustering) 等功能中的決策樹、(decision tree) 多變量分析 (multivariate analysis) 及類神經網路 (neural network) 等方法。此外為了讓學生對相關技術有更深的瞭解，課程中將以個案實例為主，並配合各種資料探勘套裝軟體，以應用的觀點使學生更容易接受了解在商業智慧分析上資料探勘分析的功用。\nSeveral fundamental theories of data mining techniques are included in this course. For examples, decision tree, multivariate analysis and neural network. All these techniques will be applied in different areas, such as classification, association rule, forecasting, and pattern recognition. And various applications in different enterprises are also included.",
-    "schedule": "Week1\tIntroduction\nWeek2\tIllustrated Examples and BI\nWeek3\tCluster analysis 1\nWeek4\tCluster analysis 2\nWeek5\tDiscriminant 1\nWeek6\tDiscriminant 2\nWeek7\tDiscriminant 3\nWeek8\tNeural Network (MLP)1\nWeek9\tNeural Network (MLP)2\nWeek10\tDecision Tree\nWeek11\tExam\nWeek12\tAssociation Rule\nWeek13\tProject discussion \nWeek14\tProject discussion\nWeek15\tProject discussion\nWeek16\tProject discussion\nWeek17\tProject discussion\nWeek18\tProject presentation",
-    "scorePolicy": "Exam   40%\nFinal Project\t60%",
-    "materials": "●\t資料探勘 (Data Mining), 曾憲雄等，旗標出版股份有限公司，2005\n●\tMachine learning, Tom Mitchell, McGraw-Hill, 1997\n●\tData Mining: Concepts and Techniques, Han and Kamber, Morgan Kaufmann, 2000\n●\tPredictive Data Mining, Weiss and Indurkhya, Morgan Kaufmann, 1998\n●\tData Mining Your Web Site, J. Mena, Digital Press, 1999\n●\tResearch paper collection, (collected by instructor) will be distributed in class\n●\tApplied Multivariate Statistical Analysis, by Johnson, R.A., and Wichern, D.W., Prentice Hall, 2002. \n●\tMachine Learning Group at the University of Waikato https://www.cs.waikato.ac.nz/ml/weka/courses.html",
-    "consultation": "1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
-    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "outline": "建立學生對各類資料探勘技術與理論的基礎觀念及架構，以奠定學生日後從事資料探勘分析與研究工作時之需。相關的分析技術將包括應用在分類(classification)、推估(estimation)、預測(prediction)、關聯式分組(affinity grouping)、同質分組(clustering)等功能中的決策樹、(decision tree)多變量分析(multivariate analysis)及類神經網路(neural network)等方法。此外為了讓學生對相關技術有更深的瞭解，課程中將以個案實例為主，並配合各種資料探勘套裝軟體，以應用的觀點使學生更容易接受了解在商業智慧分析上資料探勘分析的功用。\nSeveral fundamental theories of data mining techniques are included in this course. For examples, decision tree, multivariate analysis and neural network. All these techniques will be applied in different areas, such as classification, association rule, forecasting, and pattern recognition. And various applications in different enterprises are also included.",
+    "schedule": "Week1 Introduction\nWeek2 Illustrated Examples and BI\nWeek3 Cluster analysis 1\nWeek4 Cluster analysis 2\nWeek5 Discriminant 1\nWeek6 Discriminant 2\nWeek7 Discriminant 3\nWeek8 Neural Network (MLP)1\nWeek9 Neural Network (MLP)2\nWeek10 Decision Tree\nWeek11 Exam\nWeek12 Association Rule\nWeek13 Project discussion\nWeek14 Project discussion\nWeek15 Project discussion\nWeek16 Project discussion\nWeek17 Project discussion\nWeek18 Project presentation",
+    "scorePolicy": "Exam 40%\nFinal Project 60%",
+    "materials": "● 資料探勘 (Data Mining), 曾憲雄等, 旗標出版股份有限公司, 2005\n● Machine learning, Tom Mitchell, McGraw-Hill, 1997\n● Data Mining: Concepts and Techniques, Han and Kamber, Morgan Kaufmann, 2000\n● Predictive Data Mining, Weiss and Indurkhya, Morgan Kaufmann, 1998\n● Data Mining Your Web Site, J. Mena, Digital Press, 1999\n● Research paper collection, (collected by instructor) will be distributed in class\n● Applied Multivariate Statistical Analysis, by Johnson, R.A., and Wichern, D.W., Prentice Hall, 2002.\n● Machine Learning Group at the University of Waikato https://www.cs.waikato.ac.nz/ml/weka/courses.html",
+    "consultation": "1. Office hour 詢問\n2. Google meet 遠距討論\n3. Line group 群組訊息分享及討論",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

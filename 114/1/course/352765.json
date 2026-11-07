@@ -1,16 +1,18 @@
 [
   {
-    "name": "莊承義",
+    "teacher": "莊承義",
     "email": "cyzhuang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12633",
     "latestUpdate": "2025-09-08 12:58:23",
-    "objective": "This course will discuss the timing analysis of high-speed digital signals and their impact on the timing budget from the perspective of digital system design.\nThere are five topics:\n1. Fundamentals\n2. Crosstalk effects of the coupled transmission line\n3. Non-ideal interconnect issues\n4. Packages, connectors, and vias\n5. Nonideal Return Paths, and Differential Signaling",
+    "outline": "This course will discuss the timing analysis of high-speed digital signals and their impact on the timing budget from the perspective of digital system design.\nThere are five topics:\n1. Fundamentals\n2. Crosstalk effects of the coupled transmission line\n3. Non-ideal interconnect issues\n4. Packages, connectors, and vias\n5. Nonideal Return Paths, and Differential Signaling",
     "schedule": "Week 1: Introduction\nWeek 2: Fundamentals\nWeek 3: Fundamentals\nWeek 4: Crosstalk effects of the coupled transmission line\nWeek 5: Crosstalk effects of the coupled transmission line\nWeek 6: Crosstalk effects of the coupled transmission line\nWeek 7: Non-ideal interconnect issues\nWeek 8: Non-ideal interconnect issues\nWeek 9: Non-ideal interconnect issues\nWeek 10: Midterm\nWeek 11: Packages, connectors, and vias\nWeek 12: Packages, connectors, and vias\nWeek 13: Packages, connectors, and vias\nWeek 14: Nonideal Return Paths, and Differential Signaling\nWeek 15: Nonideal Return Paths, and Differential Signaling\nWeek 16: Final oral report\nWeek 17: Final oral report\nWeek 18: Final oral report",
     "scorePolicy": "Homework: 40%\nMidterm: 30%\nFinal Oral Report: 30%\n\nThe above grading criteria may change depending on the number of enrolled students.",
     "materials": "Textbook\n1. Advanced signal integrity for high-speed digital designs\nReferences:\n1. E. Bogtain, Signal Integrity – Simplified, Prentice Hall, 2007\n2. High-Speed Digital System Design—A Handbook of Interconnect Theory and Design Practices. Hoboken, NJ, USA: Wiley-Interscience, 2000.",
-    "consultation": "Email: cyzhuang@ntut.edu.twOffice hours: 14:00-16:00, Mon.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "consultation": "Email: cyzhuang@ntut.edu.tw\nOffice hours: 14:00-16:00, Mon.",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

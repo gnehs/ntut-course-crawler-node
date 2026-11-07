@@ -1,16 +1,18 @@
 [
   {
-    "name": "鄭智成",
+    "teacher": "鄭智成",
     "email": "jcjeng@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11337",
     "latestUpdate": "2025-05-23 17:43:15",
-    "objective": "本課程教授 MATLAB 軟體基本操作與程式設計，包含資料型態，陣列與字串，繪圖，程式流程控制，函式，副程式等等，並學習 MATLAB 在工程上之基礎應用。課程內容並包含人工智慧概論以及 MATLAB 在深度學習之簡單應用。",
-    "schedule": "第 1 週：MATLAB 簡介與入門\n第 2 週：基本數學運算\n第 3 週：資料型態\n第 4-5 週：向量與矩陣之處理\n第 6 週：繪圖指令與用法\n第 7-8 週：函數之編寫\n第 9 週：期中考\n第 10-11 週：迴圈與程式流程控制\n第 12 週 方程式求解之應用\n第 13 週：曲線湊合之應用\n第 14 週：人工智慧概論\n第 15-17 週：深度學習之應用\n第 18 週：期末考 / 報告",
-    "scorePolicy": "平時成績 (作業、出席、上機狀況 …..) --  30%\n期中考 / 報告 --  35%\n期末考 / 報告 --  35%",
-    "materials": "MATLAB 程式設計與工程應用，陳奇中著，東華書局 2013",
-    "consultation": "Email: jcjeng@ntut.edu.tw 課程 Line 群組",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "outline": "本課程教授MATLAB軟體基本操作與程式設計，包含資料型態，陣列與字串，繪圖，程式流程控制，函式，副程式等等，並學習MATLAB在工程上之基礎應用。課程內容並包含人工智慧概論以及MATLAB在深度學習之簡單應用。",
+    "schedule": "第1週:MATLAB簡介與入門\n第2週:基本數學運算\n第3週:資料型態\n第4-5週:向量與矩陣之處理\n第6週:繪圖指令與用法\n第7-8週:函數之編寫\n第9週:期中考\n第10-11週:迴圈與程式流程控制\n第12週 方程式求解之應用\n第13週:曲線湊合之應用\n第14週:人工智慧概論\n第15-17週:深度學習之應用\n第18週:期末考/報告",
+    "scorePolicy": "平時成績(作業、出席、上機狀況 …..) -- 30%\n期中考/報告 -- 35%\n期末考/報告 -- 35%",
+    "materials": "MATLAB程式設計與工程應用，陳奇中著，東華書局 2013",
+    "consultation": "Email: jcjeng@ntut.edu.tw\n課程Line群組",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": false
   }
 ]

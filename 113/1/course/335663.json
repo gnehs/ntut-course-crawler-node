@@ -1,15 +1,17 @@
 [
   {
-    "name": "張順益",
+    "teacher": "張順益",
     "email": "changsy@ntut.edu.tw",
     "latestUpdate": "2024-05-25 09:38:35",
-    "objective": "電腦基本知識，中英文文書處理系統的基本設計理念與現有系統實習，電腦工作底稿功能架構說明及應用實習，資料庫管理系統基本觀念，工程資訊管理系統基本觀念，資料庫設計及資料庫軟體系統使用練習，簡易型之統計繪圖軟體及工程應用實例，其他現代電腦科技發展與其在結構上之應用個案。\nApplications of Structures Engineering by Numerical Analysis\nThe application of computer about civil engineering, such as officials Dispatch to handle in Chinese and English, the software of drawings and using software of data base etc.",
-    "schedule": "(1)\tNumerical Systems and Errors\n(2)\tInterpolation by Polynomial, Application: finite element method.   \n(3)\tNumerical Solution of Nonlinear Equations, Application: finite element method, nonlinear dynamic analysis.\n(4)\tNumerical Differentiation and Integration, Application: structural dynamics\n(5)\tNumerical Solution of Differential Equations, Application: finite element method, structural dynamics, nonlinear dynamic analysis.\n(6)\tNumerical Linear Algebra, Application: finite element method, structural dynamics.",
-    "scorePolicy": "Homework,  \nMid-term \nFinal exam.",
-    "materials": "Elementary Numerical Analysis  (referece Book)",
-    "consultation": "changsy@ntut.edu.tw0917844577",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "outline": "電腦基本知識，中英文文書處理系統的基本設計理念與現有系統實習，電腦工作底稿功能架構說明及應用實習，資料庫管理系統基本觀念，工程資訊管理系統基本觀念，資料庫設計及資料庫軟體系統使用練習，簡易型之統計繪圖軟體及工程應用實例，其他現代電腦科技發展與其在結構上之應用個案。\nApplications of Structures Engineering by Numerical Analysis\nThe application of computer about civil engineering, such as officials Dispatch to handle in Chinese and English, the software of drawings and using software of data base etc.",
+    "schedule": "(1) Numerical Systems and Errors\n(2) Interpolation by Polynomial, Application: finite element method.\n(3) Numerical Solution of Nonlinear Equations, Application: finite element method, nonlinear dynamic analysis.\n(4) Numerical Differentiation and Integration, Application: structural dynamics\n(5) Numerical Solution of Differential Equations, Application: finite element method, structural dynamics, nonlinear dynamic analysis.\n(6) Numerical Linear Algebra, Application: finite element method, structural dynamics.",
+    "scorePolicy": "Homework,\nMid-term\nFinal exam.",
+    "materials": "Elementary Numerical Analysis (referece Book)",
+    "consultation": "changsy@ntut.edu.tw\n0917844577",
     "remarks": "課程內容有助於其他土木相關課程的學習與應用，如材料力學或結構學中的穩定問題；有限元素發展中的函數插植以及實務上的非線性方程式的求解方法；結構動力分析中的振動頻率，振態，杜氏積分法以及逐步積分法的發展與求解等等。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

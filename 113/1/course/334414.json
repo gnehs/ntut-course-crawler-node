@@ -1,15 +1,18 @@
 [
   {
-    "name": "孔繁傑",
+    "teacher": "孔繁傑",
     "email": "fjkung@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12564",
     "latestUpdate": "2024-08-15 13:25:55",
-    "objective": "機率空間；組合分析；隨機變數；期望值與慣矩；聯合分佈隨機變數；動差生成函數及特徵函數；大數法則及中央極限定理。\nThis course is designed to help students understand the fundamentals of probability.",
+    "outline": "機率空間；組合分析；隨機變數；期望值與慣矩；聯合分佈隨機變數；動差生成函數及特徵函數；大數法則及中央極限定理。\nThis course is designed to help students understand the fundamentals of probability.",
     "schedule": "Week 1: Probability course introduction & basic concepts\nWeek 2-3: Sample space, combinational analysis, and classical probability\nWeek 4: Random variable\nWeek 5: Expectation (Midterm I)\nWeek 6-8: Distributions of random variables\nWeek 9: Gaussian distribution and its characteristic of the random variable (part1) (Midterm II)\nWeek 10: Gaussian distribution and its characteristic of the random variable (part2)\nWeek 11-12: Moment-generating function & characteristic function\nWeek 13: Probability transformation\nWeek 14: Weak law of large numbers (Midterm III)\nWeek 15: Strong law of large numbers\nWeek 16-17: Selected topics\nWeek 18: Final exam",
     "scorePolicy": "Midterm I: 25%, Midterm II: 25%, Midterm III: 25%, Final exam: 25%, Bonus",
     "materials": "Textbook:\nDimitri Bertsekas and John N. Tsitsiklis, Introduction to Probability. Athena Scientific, Second Edition, 2008\nReferences:\n1. M. J. Evans and J. S. Rosenthal, Probability and Statistics: The Science of Uncertainty. University of Toronto, Second Edition, 2024\n2. S. Ross, A First Course in Probability. PEARSON, Eighth Edition, 2010\n3. Self-made PPT & notes",
     "consultation": "Email: fjkung@ntut.edu.tw, Office hours: Wednesday 11:00 – 17:00",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

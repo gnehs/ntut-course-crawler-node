@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳詩雯",
+    "teacher": "陳詩雯",
     "email": "shihwen@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12394",
     "latestUpdate": "2024-05-20 21:10:23",
-    "objective": "Introduction to machine learning by Python programming. Regression analysis, dimension reduction, feature extraction, classification methods, support vector machines, and neural networks. Python examples to improve students' knowledge of machine learning.",
-    "schedule": "week1:\tIntroduction to machine learning\nweek2:\tIntroduction to python\nweek3:\tProbability and optimization\nweek4:\tFeature Extraction \nweek5:\tBayesian decision theory\nweek6:\tLinear regression\nweek7:\tNearest neighbors and VC-dimension\nweek8:\tCase study\nweek9:\tMid-term presentation\nweek10:\tLogistic regression\nweek11:\tSupport vector machine\nweek12:\tNeural Networks\nweek13:\tGenerative Models\nweek14:\tCNNs\nweek15:\tHidden Markov Models\nweek16:\tLSTM and RNN\nweek17:\tCase Study\nweek18:\tFinal exam",
+    "outline": "Introduction to machine learning by Python programming. Regression analysis, dimension reduction, feature extraction, classification methods, support vector machines, and neural networks. Python examples to improve students' knowledge of machine learning.",
+    "schedule": "week1: Introduction to machine learning\nweek2: Introduction to python\nweek3: Probability and optimization\nweek4: Feature Extraction\nweek5: Bayesian decision theory\nweek6: Linear regression\nweek7: Nearest neighbors and VC-dimension\nweek8: Case study\nweek9: Mid-term presentation\nweek10: Logistic regression\nweek11: Support vector machine\nweek12: Neural Networks\nweek13: Generative Models\nweek14: CNNs\nweek15: Hidden Markov Models\nweek16: LSTM and RNN\nweek17: Case Study\nweek18: Final exam",
     "scorePolicy": "Homework 40%\nMid-term project 30%\nFinal Exam 30%",
-    "materials": "1. Hui Jiang, Machine learning Fundamentals A Concise Introduction, Cambridge, 2021  \n2. 林大貴，圖解 TensorFlow 2 初學篇：實作 tf.keras + Colab 雲端、深度學習、人工智慧、影像辨識，博碩，2022",
-    "consultation": "Email: shihwen@mail.ntut.edu.twOffice Hours:Wednesday 13:30-17:30Integrate Technology Complex, Room B09-1",
-    "remarks": "由於第 17、18 週改由線上教學，故原本規劃第 17、18 週期末報告改為線上報告。Since the 17th and 18th weeks were changed to online teaching, the original planned final report for the 17th and 18th weeks was changed to an online report.",
+    "materials": "1. Hui Jiang, Machine learning Fundamentals A Concise Introduction, Cambridge, 2021\n2.林大貴, 圖解TensorFlow 2初學篇：實作tf.keras + Colab雲端、深度學習、人工智慧、影像辨識, 博碩, 2022",
+    "consultation": "Email: shihwen@mail.ntut.edu.tw\nOffice Hours:\nWednesday 13:30-17:30\nIntegrate Technology Complex, Room B09-1",
+    "remarks": "由於第17、18週改由線上教學，故原本規劃第17、18週期末報告改為線上報告。\nSince the 17th and 18th weeks were changed to online teaching, the original planned final report for the 17th and 18th weeks was changed to an online report.",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

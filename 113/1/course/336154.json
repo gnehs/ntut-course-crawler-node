@@ -1,15 +1,18 @@
 [
   {
-    "name": "孫勤昱",
+    "teacher": "孫勤昱",
     "email": "cysun@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12387",
     "latestUpdate": "2024-05-22 10:10:21",
-    "objective": "*This is a flipped classroom. You're required to watch my video lectures prior to each class, actively participate in weekly sessions (following the designed course plan), and collaborate effectively with your team members to achieve high scores. This course is designed to be highly interactive.\n\nThe primary purpose of this course is to introduce the basic knowledge of the computer operating system, system module, and overall operation mechanism. Course content includes operating system architecture, processes and threads, CPU scheduling, deadlock, memory systems, file systems, I/O systems, and the concepts of computer security.\n\nCourse objectives:\n* To understand the functions of operating systems\n* To understand the design considerations of the components of an operating system.\n* To know the important algorithms of operating systems.",
-    "schedule": "Week 1: Course Introduction, PC Internals \nWeek 2: Introduction \nWeek 3: System Structures\nWeek 4: Process Concept (1) \nWeek 5: Process Concept (2) \nWeek 6: Multithreaded Programming\nWeek 7: Process Scheduling (1)\nWeek 8: Process Scheduling (2)\nWeek 9: Midterm exam.\nWeek 10: Synchronization (1)\nWeek 11: Synchronization (2)\nWeek 12: Deadlocks\nWeek 13: Memory management\nWeek 14: Virtual memory\nWeek 15: No class\nWeek 16: Storage management\nWeek 17: File systems, Security\nWeek 18: Final exam.",
+    "outline": "*This is a flipped classroom. You're required to watch my video lectures prior to each class, actively participate in weekly sessions (following the designed course plan), and collaborate effectively with your team members to achieve high scores. This course is designed to be highly interactive.\n\nThe primary purpose of this course is to introduce the basic knowledge of the computer operating system, system module, and overall operation mechanism. Course content includes operating system architecture, processes and threads, CPU scheduling, deadlock, memory systems, file systems, I/O systems, and the concepts of computer security.\n\nCourse objectives:\n* To understand the functions of operating systems\n* To understand the design considerations of the components of an operating system.\n* To know the important algorithms of operating systems.",
+    "schedule": "Week 1: Course Introduction, PC Internals\nWeek 2: Introduction\nWeek 3: System Structures\nWeek 4: Process Concept (1)\nWeek 5: Process Concept (2)\nWeek 6: Multithreaded Programming\nWeek 7: Process Scheduling (1)\nWeek 8: Process Scheduling (2)\nWeek 9: Midterm exam.\nWeek 10: Synchronization (1)\nWeek 11: Synchronization (2)\nWeek 12: Deadlocks\nWeek 13: Memory management\nWeek 14: Virtual memory\nWeek 15: No class\nWeek 16: Storage management\nWeek 17: File systems, Security\nWeek 18: Final exam.",
     "scorePolicy": "Midterm exam 20%\nFinal exam 20%\nIn-class performance 25%\nCoding Lab 25%\nFinal project 10%",
     "materials": "Silberschatz's Operating System Concepts (10th edition, global edition)",
-    "consultation": "Email: cysun@ntnt.edu.twPhone: +886-2-2771-2171 #4245Office: Hong-Yue Tech. Research Building 336 (please send an email first)Office hours: *",
-    "課程對應SDGs指標": "無（None）",
+    "consultation": "Email: cysun@ntnt.edu.tw\nPhone: +886-2-2771-2171 #4245\nOffice: Hong-Yue Tech. Research Building 336 (please send an email first)\nOffice hours: *",
     "remarks": "In this course, we will focus on transforming theoretical knowledge into practical applications. You may need to bring your own computer to the classroom. A certain level of programming proficiency is required.",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

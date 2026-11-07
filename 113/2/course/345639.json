@@ -1,15 +1,18 @@
 [
   {
-    "name": "劉亮志",
+    "teacher": "劉亮志",
     "email": "lcliu@ntut.edu.tw",
-    "latestUpdate": "2024-12-17 17:22:26",
-    "objective": "本課程將延續財務工程導論的內容，將持續在衍生性商品評價、避險以及風險控管等問題上繼續深入探討；本學期將把焦點放在股票衍生性商品與利率衍生性商品的評價與避險上，並利用 C (或 C++) 和 Matlab 兩種工具來執行 樹狀結構  以評價選擇權的價值。\nThis course will still focus on the methods for bonds and derivatives pricing and hedging, such as the evaluation of stock and interest rate options. For implementation purposes associated with the concepts introduced, such as the tree structure, two programming languages for computation will be provided: C (or C++ ) and Matlab.",
-    "schedule": "(1) 財務工程導論 回顧\n(2) 函式撰寫與定價理論初探 (一)\n(3) 函式撰寫與定價理論初探 (二)\n(4) 專題報告簡介 - 範例介紹\n(5) 函式撰寫與定價理論初探 (三)\n(6) 函式撰寫與定價理論初探 (四)\n(7) 專題報告提案 - (1)\n(8) 定價理論與樹狀結構評價法 (一)\n(9) 定價理論與樹狀結構評價法 (二)\n(11) 定價理論與樹狀結構評價法 (三)\n(12) 專題報告教學 - (2) 利用定價理論\n(13) 定價理論與樹狀結構評價法 (四)\n(14) 定價理論與樹狀結構評價法 (五)\n(15) 專題報告提案 - (2)\n(15) 選擇權理論的相關應用 (一)\n(16) 選擇權理論的相關應用 (二)\n(17) 選擇權理論的相關應用 (三)\n(18) 專題結案報告",
-    "scorePolicy": "出席 (Attendance): 5%\n作業 (Homework):  50%\n專題報告 (Final presentation): 45%",
-    "materials": "1. 葉倍宏，C&C++ 程式設計，儒林\n2. 洪維恩，Matlab 程式設計 (第 2 版)，旗標\n3. 戴天時，C++ 財務程式設計，證券與期貨發展基金會\n4. 張焯然，財務工程與金融計算 - Matlab 的應用，證券與期貨發展基金會\n5. Options, Futures, and Other Derivatives, by J. C. Hull, 8TH Edition, Prentice Hall",
-    "consultation": "星期二 10:00~12:00 at 宏裕科技大樓 4 樓 433",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11982",
+    "latestUpdate": "2025-02-17 10:51:49",
+    "outline": "本課程將延續財務工程導論的內容，將持續在衍生性商品評價、避險以及風險控管等問題上繼續深入探討；本學期將把焦點放在股票衍生性商品與利率衍生性商品的評價與避險上，並利用C(或C++)和Matlab兩種工具來執行 樹狀結構 以評價選擇權的價值。\nThis course will still focus on the methods for bonds and derivatives pricing and hedging, such as the evaluation of stock and interest rate options. For implementation purposes associated with the concepts introduced, such as the tree structure, two programming languages for computation will be provided: C (or C++ ) and Matlab.",
+    "schedule": "1. Course Preview\n2. Bond Price Volatility and Hedge-1\n3. Bond Price Volatility and Hedge-2\n4. Bond Price Volatility and Hedge-3\n5. Bond Price Volatility and Hedge-4\n6. Function and Fundamental Pricing Theory-1\n7. Function and Fundamental Pricing Theory-2\n8. Function and Fundamental Pricing Theory-3\n9. Function and Fundamental Pricing Theory-4\n10. Fundamental Pricing Theory and Tree-1\n11. Fundamental Pricing Theory and Tree-2\n12. Fundamental Pricing Theory and Tree-3\n13. Fundamental Pricing Theory and Tree-4\n14. Fundamental Pricing Theory and Tree-5\n15. Fundamental Theory of Stock Options-1\n16. Fundamental Theory of Stock Options-2\n17. Fundamental Theory of Stock Options-3\n18. Course Review",
+    "scorePolicy": "出席(Attendance): 10%\n作業(Homework): 90%",
+    "materials": "Use of self-made materials",
+    "consultation": "Tuesday 10:00~12:00 at Technical Building 433",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

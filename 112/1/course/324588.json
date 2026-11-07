@@ -1,14 +1,18 @@
 [
   {
-    "name": "賴冠廷",
+    "teacher": "賴冠廷",
     "email": "ktlai@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=1&code=12084",
     "latestUpdate": "2023-05-30 20:41:10",
-    "objective": "The goal of this course is to give students a broad overview of state-of-the-art deep learning algorithms, and teach students how to develop deep learning applications by hands-on coding examples. Most examples taught in this class are based on the TensorFlow framework. We will cover many different fields including image classification, object detection, natural language processing, reinforcement learning and generative adversarial networks.",
-    "schedule": "Course website: http://www.aiotlab.org/teaching/dl_app.html\n\n1.\tIntroduction to Deep Learning\n2.\tApplied Math (Linear Algebra, Probability, Calculus)\n3.\tMachine Learning Basics\n4.\tTensorFlow & Keras        \n5.\tConvolutional Neural Networks  (CNN)      \n6.\tAdvanced Keras API & PyTorch\n7.\tNatural Language Processing (NLP), Word Embedding, Self-supervised Learning\n8.\tMidterm exam\n9.\tRecurrent Neural Networks (RNN) & Long Short-term Memory (LSTM)\n10.\tAttention is all you need! Attention and Transformer\n11.\tFoundation Models, ChatGPT, and Hugging Face\n12.\tObject Detection and Segmentation\n13.\tGenerative Adversarial Networks (GAN)\n14.\tDiffusion is all you need? Stable diffusion, midjourney, DALL-E\n15.\tDeep Reinforcement Learning and Stable Baseline\n16.\tGraph Convolution Networks (GCN)\n17.\tFinal project demo\n18.\tFinal exam",
+    "outline": "The goal of this course is to give students a broad overview of state-of-the-art deep learning algorithms, and teach students how to develop deep learning applications by hands-on coding examples. Most examples taught in this class are based on the TensorFlow framework. We will cover many different fields including image classification, object detection, natural language processing, reinforcement learning and generative adversarial networks.",
+    "schedule": "Course website: http://www.aiotlab.org/teaching/dl_app.html\n\n1. Introduction to Deep Learning\n2. Applied Math (Linear Algebra, Probability, Calculus)\n3. Machine Learning Basics\n4. TensorFlow & Keras\n5. Convolutional Neural Networks (CNN)\n6. Advanced Keras API & PyTorch\n7. Natural Language Processing (NLP), Word Embedding, Self-supervised Learning\n8. Midterm exam\n9. Recurrent Neural Networks (RNN) & Long Short-term Memory (LSTM)\n10. Attention is all you need! Attention and Transformer\n11. Foundation Models, ChatGPT, and Hugging Face\n12. Object Detection and Segmentation\n13. Generative Adversarial Networks (GAN)\n14. Diffusion is all you need? Stable diffusion, midjourney, DALL-E\n15. Deep Reinforcement Learning and Stable Baseline\n16. Graph Convolution Networks (GCN)\n17. Final project demo\n18. Final exam",
     "scorePolicy": "Homework (40%), Midterm and Final Exam (35%), Final Project (15%), Quizzes and attendance (10%)",
     "materials": "1. Francois Chollet, “Deep Learning with Python, 2nd edition” Manning, 2021\n2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, “Deep Learning,” MIT Press, 2017\n3. Latest publications on CVPR, NIPS, ICML, AAAI, ICLR\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html",
-    "consultation": "Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713Email: ktlai@ntut.edu.tw",
-    "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.Any announcements will be posted in Microsoft Teams.Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713",
+    "consultation": "Website: http://www.aiotlab.org/teaching/dl_app.html\nFB Group: https://www.facebook.com/groups/2231151677158713\nEmail: ktlai@ntut.edu.tw",
+    "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.\n\nAny announcements will be posted in Microsoft Teams.\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html\nFB Group: https://www.facebook.com/groups/2231151677158713",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

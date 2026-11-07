@@ -1,15 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
-    "latestUpdate": "2024-12-13 23:45:35",
-    "objective": "微處理器是各種需要高性能的電子產品中的主要元件之一，微處理器技術對電機與電子工程師而言，日益重要。本課程將介紹近代微處理機之發展、微處理機架構、軟體環境、組合語言程式、周邊電路設計。課程將以 x86/x64 微處理器例，以綜合性的方式介紹處理器的一般原理，學習後可應用相同原理於其他類型的微處理器或嵌入式微處理器中。\n\nMicroprocessors are one of the major components of a wide variety of electronic products that require high performance, and microprocessor technologies are increasingly important for electrical/electronic engineers. This course will cover the topics of modern microprocessors developments, microprocessor architecture, software environment, assembly language programming, and peripheral circuit design. The course introduces the general and basic principles of processors in a comprehensive manner and uses x86/x64 microprocessor as examples, and the same principles learned can be applied to other types of microprocessors or embedded microprocessors.",
-    "schedule": "Week 1  課程大綱與第一章微處理機簡介\nWeek 2  第一章簡介微處理機簡介\nWeek 3  第二章計算機結構與組合語言\nWeek 4  第二章計算機結構與組合語言\nWeek 5  第三章 CPU 軟體模式\nWeek 6  第三章 CPU 軟體模式\nWeek 7  第四章 基本組合語言程式設計\nWeek 8  第四章 基本組合語言程式設計\nWeek 9  期中考  \nWeek 10  第五章組合語言程式設計\nWeek 11  第五章組合語言程式設計\nWeek 12  第六章副程式與巨集指令 \nWeek 13  第七章硬體模式\nWeek 14  第七章硬體模式\nWeek 15  第八章記憶器元件與界面設計\nWeek 16  第八章記憶器元件與界面設計\nWeek 17  第九章中斷要求與處理\nWeek 18  期末考",
-    "scorePolicy": "出席 (5 次點名，一次 2%): 10% \n作業 (3~4 次): 30%\n期中考.: 30%\n期末考: 30%",
-    "materials": "教科書: \n微處理機原理與應用 x86/x64 微處理機器軟體、界面與應用，第六版，林銘波 編著，全華\n\n參考書: \nThe 8088 and 8086 Microprocessors: Programming, Interfacing, Software, Hardware, and Applications (4th Edition), Walter A. Triebel, Avtar Singh, Pearson",
-    "consultation": "1. Teacher office hours:   Thurs. 10:00 ~ 12:00, 14:00 ~ 16:00 @綜科館 2152. Need to email junlin@mail.ntut.edu.tw in advance to reserve the time for face-to-face or online curricular consultation.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12356",
+    "latestUpdate": "2025-02-20 12:24:12",
+    "outline": "微處理器是各種需要高性能的電子產品中的主要元件之一，微處理器技術對電機與電子工程師而言，日益重要。本課程將介紹近代微處理機之發展、微處理機架構、軟體環境、組合語言程式、周邊電路設計。課程將以x86/x64微處理器例，以綜合性的方式介紹處理器的一般原理，學習後可應用相同原理於其他類型的微處理器或嵌入式微處理器中。\n\nMicroprocessors are one of the major components of a wide variety of electronic products that require high performance, and microprocessor technologies are increasingly important for electrical/electronic engineers. This course will cover the topics of modern microprocessors developments, microprocessor architecture, software environment, assembly language programming, and peripheral circuit design. The course introduces the general and basic principles of processors in a comprehensive manner and uses x86/x64 microprocessor as examples, and the same principles learned can be applied to other types of microprocessors or embedded microprocessors.",
+    "schedule": "Week 1 課程大綱與第一章微處理機簡介\nWeek 2 第一章簡介微處理機簡介\nWeek 3 第二章計算機結構與組合語言\nWeek 4 第二章計算機結構與組合語言\nWeek 5 第三章CPU 軟體模式\nWeek 6 第三章CPU 軟體模式\nWeek 7 第四章 基本組合語言程式設計\nWeek 8 第四章 基本組合語言程式設計\nWeek 9 期中考\nWeek 10 第五章組合語言程式設計\nWeek 11 第五章組合語言程式設計\nWeek 12 第六章副程式與巨集指令\nWeek 13 第七章硬體模式\nWeek 14 第七章硬體模式\nWeek 15 第八章記憶器元件與界面設計\nWeek 16 第八章記憶器元件與界面設計\nWeek 17 第九章中斷要求與處理\nWeek 18 期末考",
+    "scorePolicy": "出席 (5次點名，一次2%): 10%\n作業 (3~4次): 20%\n期中考: 35%\n期末考: 35%",
+    "materials": "教科書:\n微處理機原理與應用 x86/x64 微處理機器軟體、界面與應用, 第六版, 林銘波 編著, 全華\n\n參考書:\nThe 8088 and 8086 Microprocessors: Programming, Interfacing, Software, Hardware, and Applications (4th Edition), Walter A. Triebel, Avtar Singh, Pearson",
+    "consultation": "1. Teacher office hours:\nThurs. 10:00 ~ 12:00, 14:00 ~ 16:00 @綜科館215\n\n2. Need to email junlin@mail.ntut.edu.tw in advance to reserve the time for face-to-face or online curricular consultation.",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

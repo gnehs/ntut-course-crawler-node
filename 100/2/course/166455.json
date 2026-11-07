@@ -1,0 +1,17 @@
+[
+  {
+    "teacher": "林士駿",
+    "email": "sclin@ntut.edu.tw",
+    "latestUpdate": "2012-02-12 11:40:49",
+    "outline": "OFDM和MIMO技術為現今與下世代通訊系統之關鍵技術。許多無線通訊協定，例如802.11a/g 無線區域網路，皆採用此項技術。本門課提供學生在基頻MIMO/OFDM 系統設計之訓練。並需要跨領域之通訊理論和IC 設計之背景。此課程將以授課教授本身設計之IC當作例子。所有學生在期末時亦需要用Matlab/C/Verilog來實現一個通訊系統。",
+    "schedule": "預計進度 (按實際教學狀況調整)\nWeek 1 Introduction\nWeek 2 Signal Propagartion and Channel Model\nWeek 3 Information theoretic results\nWeek 4 Digital Modulation\nWeek 5 OFDM\nWeek 6 Error Correcting Codes / Channel coding\nWeek 7 Error Correcting Codes / Channel coding\nWeek 8 Synchronization\nWeek 9 Channel Estimation\nWeek 10 Equalization\nWeek 11 From Algorithm to Bit True Design\nWeek 12 Circuit Techniques\nWeek 13 MIMO Channel Model\nWeek 14 MIMO Techniques\nWeek 15 Multiple access scheme\nWeek 16 System Examples",
+    "scorePolicy": "程式作業: 20 %\n期中上台報告/書面報告 (每人): 40 %\n期末上台報告/書面報告/程式模擬 (兩人一組): 40 %",
+    "materials": "\"OFDM Baseband Receiver Design for Wireless Communications\", Tzi-Dar Chiueh and Pei-Yun Tsai, Wiley, 2007",
+    "consultation": "",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": null
+  }
+]

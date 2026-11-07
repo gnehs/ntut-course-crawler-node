@@ -1,15 +1,18 @@
 [
   {
-    "name": "傅子恒",
+    "teacher": "傅子恒",
     "email": "jomo0825@gmail.com",
-    "latestUpdate": "2024-12-19 20:50:09",
-    "objective": "This course provides the fundamental knowledge, the structure and the designing methods of interactive game programming using Unity3D and C#. Students will learn how to split a game system into modular components and realize the whole system step by step.",
-    "schedule": "W1\t9/11\tSoftware Installation\nW2\t9/18\tLevel Design – part I\nW3\t9/25\tLevel Design – part II\nW4\t10/2\tTransform & Overlap\nW5\t10/9\tExcercise I\nW6\t10/16\tGameplay Framework\nW7\t10/23\tAnimation System / Fungus\nW8\t10/30\tGame Manager & FSM\nW9\t11/6\tMid-term Demo\nW10\t11/13\tPhysics\nW11\t11/20\tPlayer Controller\nW12\t11/27\tGame AI\nW13\t12/4\tCamera Control\nW14\t12/11\tGraphical User Interface\nW15\t12/18\tParticle and Shader\nW16\t12/25\tSub-system Introduction\nW17\t1/1\tExercise II\nW18\t1/8\tFinal Project Demo",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12349",
+    "latestUpdate": "2025-02-14 03:24:36",
+    "outline": "This course introduces the fundamental principles, structures, and design methodologies essential for interactive app programming using JavaScript, HTML, CSS, Electron, Webix, React, and Ionic. It emphasizes intensive, hands-on practice to ensure practical understanding and skill development.",
+    "schedule": "02/17 W1 Tool setup, Electron+Webix, Ionic+React\n02/24 W2 JS fundamentals, ES13 OOP, Pre-course Exercises\n03/03 W3 Electron App Exercise #01 – Dice Roller\n03/10 W4 Electron App Exercise #02 – Traffic Lights\n03/17 W5 Electron App Exercise #03 – Todo List\n03/24 W6 Electron App Exercise #04 – Music Player\n03/31 W7 Electron App Exercise #05 – Database\n04/07 W8 Midterm Project\n04/14 W9 Midterm Project\n04/21 W10 React.js Basics\n04/28 W11 React App Exercise #01 – Dice Roller\n05/05 W12 React App Exercise #02 – Traffic Lights\n05/12 W13 React App Exercise #03 – Todo List\n05/19 W14 React App Exercise #04 – Music Player\n05/26 W15 React App Exercise #05 – Database\n06/02 W16 Final Project\n06/09 W17 Final Project\n06/16 W18 Final Project",
     "scorePolicy": "Participation：10%\nMid-term presentation: 40%\nFinal Project: 50%",
     "materials": "Made by teaching group.",
     "consultation": "We will have MS Teams group once the course starts. Please make sure you can login MS Teams by your school account.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

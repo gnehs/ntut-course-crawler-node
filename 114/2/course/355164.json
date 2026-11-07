@@ -1,17 +1,18 @@
 [
   {
-    "name": "尤正吉",
+    "teacher": "尤正吉",
     "email": "oil@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=2&code=10992",
     "latestUpdate": "2026-01-09 11:40:14",
-    "objective": "先修課程：無\n\n機構被用來傳遞運動和力量，在真實的世界裡隨處可見。常用的機構包括連桿、齒輪、凸輪、皮帶、鏈條、繩索、螺旋、和摩擦傳動機構，在 “機動學” 中我們將學習如何利用解析法與作圖法分析包括連桿、齒輪和凸輪之運動，並認識這些理論如何應用於 (軌道) 車輛機構上的分析。",
+    "outline": "先修課程:無\n\n機構被用來傳遞運動和力量，在真實的世界裡隨處可見。常用的機構包括連桿、齒輪、凸輪、皮帶、鏈條、繩索、螺旋、和摩擦傳動機構，在“機動學”中我們將學習如何利用解析法與作圖法分析包括連桿、齒輪和凸輪之運動，並認識這些理論如何應用於(軌道)車輛機構上的分析。",
     "schedule": "1.Introduction, Constraint Analysis\n2.Four-Bar Linkages\n3.Inversion, Motion Limits\n4.Midterm(1),Analytical Linkage Analysis-Four-Bar Linkage\n5.Analytical Linkage Analysis-Slider-Crank Mechanism\n6.Analytical Linkage Analysis-Slider-Crank Inversion\n7.Graphic Linkage Analysis\n8.Instant Center of Velocity\n9.Special Mechanisms, Midterm(2)\n10.Railway application examples (bogies, pantographs, brakes), Midterm(3)\n11.Spun Gear-1\n12.Helical Gear\n13.Bevel Gear\n14. Midterm(4)\n15.Simple and Compound Gear Train\n16.Planetary Gear Train\n17.Cam-Follower System\n18.Midterm(5)",
     "scorePolicy": "Mid-Term (15%+25%+10%+20%+15%)\nQuiz & Attendance (15%)",
-    "materials": "Textbook:\nK. J. Waldron,G. L. Kinzel,  and S. K. Agrawal, \"Kinematics, Dynamics, and Design of  Machinery\", 3rd, John Wiley & Sons, Inc., 2016, pp. 1-58, 279-394, 431-578. (歐亞書局)\nReference:\nMartin, G. H., Kinematics and Dynamics of Machines, McGraw-Hill Publishing Co., 1982.",
-    "consultation": "Office hour: 星期二 3~6 節，請先預約。1.Office: 綜合大樓 526-232.E-mail: oil@ntut.edu.tw3.Tel:27712171-36194.Line 群組",
-    "延伸教學與資源": "",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "依學校規定，以實體授課為原則；若需遠距離上課，則採「完全同步」或「同步 + 非同步混成」教學，但保留學生須到校進行實體測驗的可能。請記得加入課程群組，將利用群組公布線上連結方式。",
+    "materials": "Textbook:\nK. J. Waldron,G. L. Kinzel, and S. K. Agrawal, \"Kinematics, Dynamics, and Design of Machinery\", 3rd, John Wiley & Sons, Inc., 2016, pp. 1-58, 279-394, 431-578. (歐亞書局)\nReference:\nMartin, G. H., Kinematics and Dynamics of Machines, McGraw-Hill Publishing Co., 1982.",
+    "consultation": "Office hour:星期二3~6節，請先預約。\n1.Office:綜合大樓526-23\n2.E-mail: oil@ntut.edu.tw\n3.Tel:27712171-3619\n4.Line群組",
+    "remarks": "依學校規定，以實體授課為原則；若需遠距離上課，則採「完全同步」或「同步+非同步混成」教學，但保留學生須到校進行實體測驗的可能。\n請記得加入課程群組，將利用群組公布線上連結方式。",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

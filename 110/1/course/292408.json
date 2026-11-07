@@ -1,18 +1,17 @@
 [
   {
-    "name": "李旻璁",
+    "teacher": "李旻璁",
     "email": "mtlee@ntut.edu.tw",
     "latestUpdate": "2021-09-26 19:14:29",
-    "objective": "!! 加 Line 群組 http://line.me/ti/g/qU7rDU9e93 !! Google Meet 連結在群組內！！\n\nThis course introduces the fundamentals of computer programming. Students will learn the basic components of computer language through exercises during class time. \n\nThe goals of this course is to help students feel confident of their ability to map scientific problems into computational framework, design mathematical algorithms, write and debug programs for specific tasks. We will use Fortran compiler to learn Fortran – the language which has a long relation with scientific computing in Chemical Engineering.",
+    "outline": "!! 加Line群組 http://line.me/ti/g/qU7rDU9e93 !! Google Meet 連結在群組內 !!\n\nThis course introduces the fundamentals of computer programming. Students will learn the basic components of computer language through exercises during class time.\n\nThe goals of this course is to help students feel confident of their ability to map scientific problems into computational framework, design mathematical algorithms, write and debug programs for specific tasks. We will use Fortran compiler to learn Fortran – the language which has a long relation with scientific computing in Chemical Engineering.",
     "schedule": "(01) Class introduction, installation of WSL platform\n(02) Basic bash commands in Ubuntu\n(03) vim editor\n(04) the structure of the program, compile and execute a program\n(05) I/O\n(06) Math operators and functions\n(07) Do loop\n(08) If and logic control\n(09) array\n(10) file\n(11) subroutine and module\n(12) Numerical methods\n(12) Numerical methods\n(13) Numerical methods\n(13-18) Course project and Python",
-    "scorePolicy": "# English – Except for the 1st class, everyone need to use English for any kind of communication.\n# Problem-based learning – The class is student-centered. Everyone need to come to class on time and participate the class discussions.  \n# Grading – Class participation (+60), class exercises (+40) \n# Networking – everyone should prepare their NTUT Google account. The lectures and everything you have done will be documented in my and your YouTube channels.",
+    "scorePolicy": "# English – Except for the 1st class, everyone need to use English for any kind of communication.\n# Problem-based learning – The class is student-centered. Everyone need to come to class on time and participate the class discussions.\n# Grading – Class participation (+60), class exercises (+40)\n# Networking – everyone should prepare their NTUT Google account. The lectures and everything you have done will be documented in my and your YouTube channels.",
     "materials": "The learning materials will be available online.",
-    "foreignLanguageTextbooks": false,
-    "covid19": {
-      "lv2Description": null,
-      "courseScoreMethod": "不舉行期中期末考試。60% 課堂參與評分 (出席，課堂抽問及作業)，40% 課程計畫。由於修課人數眾多，老師會要求每位同學創立自己的學習 Youtube Channel，需要用英文口頭報告每週學習歷程，學期末也要用同方式錄製課程計畫。老師完全以 Channel 的完整性以及內容來評分。",
-      "courseInfo": "學校有幫同學購買 Office 365 教育版帳號，課程資料也已經匯入 Team 裡面。\nhttps://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
-      "lv2Method": "遠距上課"
-    }
+    "consultation": "請同學於Line群組內標記老師，並留下問題。老師看到訊息時便會抽時間回覆，最慢一天之內便會回覆。如果問題需要個別諮詢請標註，老師會加入你的Line再私底下聯絡。",
+    "remarks": "●上課方式：遠距上課\n\n\n\n●評量方式：不舉行期中期末考試。60%課堂參與評分(出席，課堂抽問及作業)，40%課程計畫。由於修課人數眾多，老師會要求每位同學創立自己的學習Youtube Channel，需要用英文口頭報告每週學習歷程，學期末也要用同方式錄製課程計畫。老師完全以Channel的完整性以及內容來評分。\n\n\n●補充說明資訊：學校有幫同學購買Office 365教育版帳號，課程資料也已經匯入Team裡面。\nhttps://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": false
   }
 ]

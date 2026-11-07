@@ -1,16 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12356",
     "latestUpdate": "2025-08-15 16:45:14",
-    "objective": "本課程將涵蓋下列 Auduino 的相關應用: (1) Arduino 開發環境簡介 (2) 數位 I/O 控制 (3) 類比 I/O 控制 (4) 鍵盤掃描與七段顯示器 (5) 聲音播放 (6) LCD (7) 馬達與伺服機 (8) 中斷 (9) 綜合應用。",
-    "schedule": "第 1 週 課程簡介、分組、KTduino 體驗版簡介、Chapter 1 Arduino 初體驗\n第 2 週 Chapter 1, Arduino 開發環境；LAB_01\n地 3 週: Chapter 2, 數位 I/O 控制；LAB_02\n第 4 週 Holiday-off (教師節)\n第 5 週 Holiday-off (中秋節)\n第 6 週 Chapter 2, 數位 I/O 控制；LAB_03\n第 7 週 Chapter 3, 類比 I/O; LAB_04\n第 8 週 Chapter 3, 類比 I/O; LAB_05\n第 9 週 Chapter 3, 類比 I/O; Chapter 4, 鍵盤掃描；LAB_06\n第 10 週 Off (北科大校慶補假)\n第 11 週 Chapter 4, 七節顯示器；LAB_07\n第 12 週 Chapter 4, 七節顯示器；LAB_08; 提交期末專題構想書\n第 13 週 Chapter 5, 聲音與音樂播放；LAB_09\n第 14 週 Chapter 6, RGB LED; LAB_10\n第 15 週 Chapter 7, LCD 驅動與應用；LAB_11\n地 16 週 Chapter 9, 接近與溫度感測；LAB_12\n第 17 週 期末專題製作\n第 18 週 期末專題報告",
-    "scorePolicy": "平時成績：上課出席 (10%)\n每週實驗報告 (65%)\n期末專題 (25%): 期末專題構想書 (5%), 期末專題報告 (20%)",
-    "materials": "Arduino 全能微處理機實習 強效解析 第 4 版 艾迪諾 編著 全華圖書",
-    "consultation": "1. Please email junlin@mail.ntut.edu.tw first to reserve the curricular consultation2. Office Hours: Wed. 13-14, Thurs. 13-15, Fri. 15-16, @EE&CS Bldg. Rm. 215",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "outline": "本課程將涵蓋下列Auduino的相關應用: (1)Arduino開發環境簡介(2)數位I/O控制 (3)類比I/O控制(4)鍵盤掃描與七段顯示器 (5)聲音播放 (6)LCD (7)馬達與伺服機 (8)中斷(9)綜合應用。",
+    "schedule": "第1週 課程簡介、分組、KTduino體驗版簡介、Chapter 1 Arduino初體驗\n第2週 Chapter 1, Arduino開發環境; LAB_01\n地3週: Chapter 2, 數位I/O控制; LAB_02\n第4週 Holiday-off (教師節)\n第5週 Holiday-off (中秋節)\n第6週 Chapter 2,數位I/O控制; LAB_03\n第7週 Chapter 3, 類比I/O; LAB_04\n第8週 Chapter 3, 類比I/O; LAB_05\n第9週 Chapter 3, 類比I/O; Chapter 4, 鍵盤掃描; LAB_06\n第10週 Off (北科大校慶補假)\n第11週 Chapter 4, 七節顯示器; LAB_07\n第12週 Chapter 4, 七節顯示器; LAB_08; 提交期末專題構想書\n第13週 Chapter 5, 聲音與音樂播放; LAB_09\n第14週 Chapter 6, RGB LED; LAB_10\n第15週 Chapter 7, LCD 驅動與應用; LAB_11\n地16週 Chapter 9, 接近與溫度感測; LAB_12\n第17週 期末專題製作\n第18週 期末專題報告",
+    "scorePolicy": "平時成績: 上課出席(10%)\n每週實驗報告(65%)\n期末專題(25%): 期末專題構想書(5%), 期末專題報告(20%)",
+    "materials": "Arduino全能微處理機實習 強效解析 第4版 艾迪諾 編著 全華圖書",
+    "consultation": "1. Please email junlin@mail.ntut.edu.tw first to reserve the curricular consultation\n2. Office Hours: Wed. 13-14, Thurs. 13-15, Fri. 15-16, @EE&CS Bldg. Rm. 215",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": false
   }
 ]

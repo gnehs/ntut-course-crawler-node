@@ -1,16 +1,18 @@
 [
   {
-    "name": "葉奕良",
+    "teacher": "葉奕良",
     "email": "ylyeh@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12086",
     "latestUpdate": "2025-06-09 12:23:44",
-    "objective": "機械動態系統及表示法、變分原理 (Variational Principles)、Lagrange 方程式、Hamilton 原理、系統分析、迴歸性判別法、判別法則及選定、控制應用。\nDynamical system representation and Modeling of Mechanical systems, Variational Principles Lagrange equation, Hamiltion Principles, System Analysis, System Identification and Application.",
-    "schedule": "第 1 週\t\t課程基礎觀念介紹\n第 2 週\t\t系統動態與建模\n第 3 週\t\t機械系統\n第 4-6 週\t\tLagrange dynamics\n第 7 週\t\t熱流系統分析\n第 8 週\t\t熱傳系統分析\n第 9 週\t\t期中考\n第 10-11 週\t機電系統分析\n第 12 週\t\t狀態空間動態分析\n第 13 週    \t穩定性分析\n第 14 週    \tPhase portrait\n第 15 週\t\tParameter and singular perturbation\n第 16-17 週\t非線性系統分析\n第 18 週\t\t期末考",
+    "outline": "機械動態系統及表示法、變分原理(Variational Principles)、Lagrange方程式、Hamilton原理、系統分析、迴歸性判別法、判別法則及選定、控制應用。\nDynamical system representation and Modeling of Mechanical systems, Variational Principles Lagrange equation, Hamiltion Principles, System Analysis, System Identification and Application.",
+    "schedule": "第1週 課程基礎觀念介紹\n第2週 系統動態與建模\n第3週 機械系統\n第4-6週 Lagrange dynamics\n第7週 熱流系統分析\n第8週 熱傳系統分析\n第9週 期中考\n第10-11週 機電系統分析\n第12週 狀態空間動態分析\n第13週 穩定性分析\n第14週 Phase portrait\n第15週 Parameter and singular perturbation\n第16-17週 非線性系統分析\n第18週 期末考",
     "scorePolicy": "作業：40%\n期中考：30%\n期末考：30%",
     "materials": "自編課程講義\n\n\n參考書目：\n\n[1] K. Ogata, System Dynamics, Prentice-Hall.\n[2] J. H. Ginsberg, Advanced Engineering Dynamics, 2nd Ed., Cambridge.\n[3] C. M. Close, D. K. Frederick, and J. C. Newell, Modeling and Analysis of Dynamic Systems, Wiley.\n[4] Khalil, Nonlinear Systems, 3rd Ed., Prentice-Hall.",
-    "consultation": "請以 email：ylyeh@ntut.edu.tw 聯絡授課教師。實體課程因故取消時，將改以預錄方式進行課程教學，並於 i 學園課程網頁公告課程影片及相關規範。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 無（None）",
+    "consultation": "請以email：ylyeh@ntut.edu.tw聯絡授課教師。\n\n實體課程因故取消時，將改以預錄方式進行課程教學，並於i學園課程網頁公告課程影片及相關規範。",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

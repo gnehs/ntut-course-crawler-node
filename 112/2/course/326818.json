@@ -1,14 +1,18 @@
 [
   {
-    "name": "蔣欣翰",
+    "teacher": "蔣欣翰",
     "email": "hsinhan1001@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12354",
     "latestUpdate": "2024-05-22 14:57:24",
-    "objective": "本課程介紹微處理機之基本原理與應用設計，包含 CPU 介紹與指令集、I/O 與記憶體、及軟硬體架構等，並且結合微控制器 (ARM-based Processor) 程式設計與泛用型嵌入式系統平台，修課同學可以學習如何使用 STM32 的微控制平台開發微處理器的程式，以及結合超音波感測、馬達驅動控制、無線傳輸模組等，可應用於移動載具及機器人運動控制器架構設計與演算法開發，並延伸至人工智慧及 IOT 等相關處理器整合應用。",
-    "schedule": "Week 1: 微處理機概論\nWeek 2: Design & Implementation (I)\nWeek 3: Design & Implementation (II)\nWeek 4: Instruction Sets (I)\nWeek 5: Instruction Sets (II)\nWeek 6: CPUs (I)\nWeek 7: CPUs (II)\nWeek 8: Computing Platforms (I)\nWeek 9: STM32 嵌入式控制器 (開發板簡介)\nWeek 10: STM32 嵌入式控制器 (程式設計)\nWeek 11: STM32 嵌入式控制器 (LCD 控制模組程式)\nWeek 12: STM32 嵌入式控制器 (馬達控制設計)\nWeek 13: STM32 嵌入式控制器 (感測器使用)\nWeek 14: STM32 嵌入式控制器 (無線傳輸程式設計)\nWeek 15: STM32 嵌入式控制器 (範例開發實作)\nWeek 16: 期末專題製作\nWeek 17: Computing Platforms (II) (Online)\nWeek 18: 期末專題分組報告 (Online)",
+    "outline": "本課程介紹微處理機之基本原理與應用設計，包含CPU介紹與指令集、I/O與記憶體、及軟硬體架構等，並且結合微控制器(ARM-based Processor)程式設計與泛用型嵌入式系統平台，修課同學可以學習如何使用STM32的微控制平台開發微處理器的程式，以及結合超音波感測、馬達驅動控制、無線傳輸模組等，可應用於移動載具及機器人運動控制器架構設計與演算法開發，並延伸至人工智慧及IOT等相關處理器整合應用。",
+    "schedule": "Week 1: 微處理機概論\nWeek 2: Design & Implementation (I)\nWeek 3: Design & Implementation (II)\nWeek 4: Instruction Sets (I)\nWeek 5: Instruction Sets (II)\nWeek 6: CPUs (I)\nWeek 7: CPUs (II)\nWeek 8: Computing Platforms (I)\nWeek 9: STM32嵌入式控制器(開發板簡介)\nWeek 10: STM32嵌入式控制器(程式設計)\nWeek 11: STM32嵌入式控制器(LCD控制模組程式)\nWeek 12: STM32嵌入式控制器(馬達控制設計)\nWeek 13: STM32嵌入式控制器(感測器使用)\nWeek 14: STM32嵌入式控制器(無線傳輸程式設計)\nWeek 15: STM32嵌入式控制器(範例開發實作)\nWeek 16: 期末專題製作\nWeek 17: Computing Platforms (II) (Online)\nWeek 18: 期末專題分組報告(Online)",
     "scorePolicy": "Lab Practices & Reports: 60%\nMidterm Exam or Term Project: 20%\nFinal Project: 20%",
     "materials": "自編講義及實驗教材。",
-    "consultation": "課程資訊網：i 學園任課教師連絡方式：電子郵件：hsinhan@mail.ntut.edu.tw 校內分機：3615",
+    "consultation": "課程資訊網：i學園\n任課教師連絡方式：\n電子郵件：hsinhan@mail.ntut.edu.tw\n校內分機：3615",
     "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

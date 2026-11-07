@@ -1,16 +1,18 @@
 [
   {
-    "name": "朴維鎮",
+    "teacher": "朴維鎮",
     "email": "eugenepark993@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12101",
     "latestUpdate": "2025-05-28 10:29:03",
-    "objective": "Statistical design of experiments is a wide subject that treats a large number of methods for planning experimental investigations in a manner that ensures statistically valid conclusions. This course introduces students to concepts and techniques of classical and applied experimental design and covers the statistical design of experiments for systematically examining how a system functions. Topics covered will include: introduction to fundamentals and principles of experiments, blocking designs, completely randomized designs (CRD), randomized completely block designs (RCBD), full factorial designs with two levels, fractional designs with two levels, Latin square designs, 3-leval designs (CCD, BBD, Cuboidal designs), and response surface methodologies.",
-    "schedule": "Week 1 Introduction to fundamentals of engineering statistics and principles of experimentation\nWeek 2-3 Simple comparative experiments: CRD (Completely randomized design)\nWeek 4-5 RCBDs (Randomized complete block designs)\nWeek 6-8 Factorial designs and 2-level factorial designs\nWeek 9 Midterm or assignment\nWeek 10-13 2-level fractional factorial design and resolution\nWeek 14-15 3-level (fractional) factorial designs and multi-factor designs (Latin square design, CCD, BBD, Cuboidal designs)\nWeek 16-17 Fitting regression model including GLM: Estimation, diagnostics \nWeek 18 Final exam or assignment",
+    "outline": "Statistical design of experiments is a wide subject that treats a large number of methods for planning experimental investigations in a manner that ensures statistically valid conclusions. This course introduces students to concepts and techniques of classical and applied experimental design and covers the statistical design of experiments for systematically examining how a system functions. Topics covered will include: introduction to fundamentals and principles of experiments, blocking designs, completely randomized designs (CRD), randomized completely block designs (RCBD), full factorial designs with two levels, fractional designs with two levels, Latin square designs, 3-leval designs (CCD, BBD, Cuboidal designs), and response surface methodologies.",
+    "schedule": "Week 1 Introduction to fundamentals of engineering statistics and principles of experimentation\nWeek 2-3 Simple comparative experiments: CRD (Completely randomized design)\nWeek 4-5 RCBDs (Randomized complete block designs)\nWeek 6-8 Factorial designs and 2-level factorial designs\nWeek 9 Midterm or assignment\nWeek 10-13 2-level fractional factorial design and resolution\nWeek 14-15 3-level (fractional) factorial designs and multi-factor designs (Latin square design, CCD, BBD, Cuboidal designs)\nWeek 16-17 Fitting regression model including GLM: Estimation, diagnostics\nWeek 18 Final exam or assignment",
     "scorePolicy": "1. Attendance: 10%\n2. Exam or assignment: 90%",
-    "materials": "Montgomery, D. C. (2017), Design and Analysis of Experiments, 9th Ed., Wiley. \nSupplementary references: Will be noticed if necessary.\nAdditional materials will be covered from other texts and/or from recent literature.",
-    "consultation": "Email or i-school system.Office hour: Thursday 11:10 ~ 12:00",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "materials": "Montgomery, D. C. (2017), Design and Analysis of Experiments, 9th Ed., Wiley.\nSupplementary references: Will be noticed if necessary.\nAdditional materials will be covered from other texts and/or from recent literature.",
+    "consultation": "Email or i-school system.\nOffice hour: Thursday 11:10 ~ 12:00",
     "remarks": "The course link will be sent by the school E-mail.",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

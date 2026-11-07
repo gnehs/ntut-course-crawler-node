@@ -1,14 +1,18 @@
 [
   {
-    "name": "潘孟鉉",
+    "teacher": "潘孟鉉",
     "email": "mspan@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12231",
     "latestUpdate": "2024-05-22 17:09:56",
-    "objective": "This course will introduce common algorithms and analysis methods. The details include complexity analysis, set, priority queue, trees, sorting, searching, graph, NP complete, and so on.",
-    "schedule": "week 1: Complexity \nweek 2: Data structures\nweek 3: Divide and Conquer\nweek 4: Divide and Conquer\nweek 5: Divide and Conquer\nweek 6: Greedy algorithm\nweek 7: Greedy algorithm\nweek 8: Dynamic programming\nweek 9: Dynamic programming\nweek 10: Dynamic programming\nweek 11: Searching\nweek 12: Searching\nweek 13: Backtracking\nweek 14: Backtracking\nweek 15: Branch and bound\nweek 16: Branch and bound\nweek 17: NP\nweek 18: NP",
+    "outline": "This course will introduce common algorithms and analysis methods. The details include complexity analysis, set, priority queue, trees, sorting, searching, graph, NP complete, and so on.",
+    "schedule": "week 1: Complexity\nweek 2: Data structures\nweek 3: Divide and Conquer\nweek 4: Divide and Conquer\nweek 5: Divide and Conquer\nweek 6: Greedy algorithm\nweek 7: Greedy algorithm\nweek 8: Dynamic programming\nweek 9: Dynamic programming\nweek 10: Dynamic programming\nweek 11: Searching\nweek 12: Searching\nweek 13: Backtracking\nweek 14: Backtracking\nweek 15: Branch and bound\nweek 16: Branch and bound\nweek 17: NP\nweek 18: NP",
     "scorePolicy": "4 exams: 80%\nhomework and others: 20%",
     "materials": "Computer Algorithms (2/E) by Horowitz, Sahni, & Rajasekaran",
     "consultation": "Appointment through e-mail.",
-    "remarks": "第 17、18 週換教室實體上課",
+    "remarks": "第17、18週換教室實體上課",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

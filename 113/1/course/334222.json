@@ -1,15 +1,18 @@
 [
   {
-    "name": "劉建宏",
+    "teacher": "劉建宏",
     "email": "cliu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11106",
     "latestUpdate": "2024-05-22 19:58:53",
-    "objective": "This course is designed to introduce concepts and skills essential in the database systems. Relational database will be the main focus with related topics such as relational model, design concepts, and structured query language. The topics to be covered include: introduction to database systems, record storage and file organizations, indexed structures for files, the relational model, relational algebra and calculus, SQL, conceptual and logical design for relational database, functional dependencies, normalization and database management system technology.",
-    "schedule": "Week  Topics\n---- -----------------------------\n1     Databases and Database User\n2     Database System Concepts & Architecture\n3     Entity-Relationship Data Modeling\n4     Enhanced Entity-Relationship & UML Modeling\n5     Relational Data Model & Constraints\n6     Relational Algebra and Calculus\n7     Relational Database Design\n8     SQL\n9     Midterm Exam\n10    More SQL\n11    Functional Dependencies and Normalization\n12    Relational Database Design Algorithms\n13    Practical Database Design Methodology\n14    Disk Storage and Basic File Structures\n15    Indexing Structures for Files\n16    Transaction Processing Concepts and Theory\n17    Project Presentation\n18    Final Exam",
-    "scorePolicy": "1. Homework and Attendance (15%)                       \n2. Exams \na. Midterm (30%)           \nb. Final (30%)                \n3. Team Project (25%)",
+    "outline": "This course is designed to introduce concepts and skills essential in the database systems. Relational database will be the main focus with related topics such as relational model, design concepts, and structured query language. The topics to be covered include: introduction to database systems, record storage and file organizations, indexed structures for files, the relational model, relational algebra and calculus, SQL, conceptual and logical design for relational database, functional dependencies, normalization and database management system technology.",
+    "schedule": "Week Topics\n---- -----------------------------\n1 Databases and Database User\n2 Database System Concepts & Architecture\n3 Entity-Relationship Data Modeling\n4 Enhanced Entity-Relationship & UML Modeling\n5 Relational Data Model & Constraints\n6 Relational Algebra and Calculus\n7 Relational Database Design\n8 SQL\n9 Midterm Exam\n10 More SQL\n11 Functional Dependencies and Normalization\n12 Relational Database Design Algorithms\n13 Practical Database Design Methodology\n14 Disk Storage and Basic File Structures\n15 Indexing Structures for Files\n16 Transaction Processing Concepts and Theory\n17 Project Presentation\n18 Final Exam",
+    "scorePolicy": "1. Homework and Attendance (15%)\n2. Exams\na. Midterm (30%)\nb. Final (30%)\n3. Team Project (25%)",
     "materials": "Textbook:\nRamez Elmasri and Shamkant B. Navathe, Fundamentals of Database Systems, 7th Edition, Pearson, 2017.\nReference Books:\nAbraham Silberschatz, Henry F. Kotth, and S. Sudarshan, Database System Concepts, 7th Edition, McGraw Hill, 2019.\nThomas Connolly and Carolyn Begg, Database Systems: A Practical Approach to Design, Implementation, and Management, 6th Edition, Pearson Education Limited, 2015.",
     "consultation": "Please contact instructor in person during office hours or email to instructor.",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "The course will be offered online using MS Teams during the period of Level 3 COVID-19 Alert. The Teams link created by school will be used. Check the course web page at Taipei Tech i-School Plus (https://istudy.ntut.edu.tw/learn/index.php) or email instructor for details.",
+    "remarks": "The course will be offered online using MS Teams during the period of Level 3 COVID-19 Alert. The Teams link created by school will be used. Check the course web page at Taipei Tech i-School Plus or email instructor for details.",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

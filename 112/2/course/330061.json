@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳昭榮",
+    "teacher": "陳昭榮",
     "email": "crchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=10585",
     "latestUpdate": "2024-02-13 23:53:17",
-    "objective": "智慧型控制系統為近幾年研究之基本工具及大數據分析之核心，期使學生能瞭解其中最熱門之方法及應用。主要包括下列項目：\n1.\tPython 程式設計。\n2.\t模擬退火法、粒子群優法。\n3.\t基因演算法、免疫演算法。\n4.\t田口基因法、蟻拓演算法。\n5.\t類神經網路簡介及應用。",
-    "schedule": "第 1 週\t課程簡介、Python 簡介\n第 2-3 週\tPython 程式設計\n第 4-6 週\t模擬退火法、粒子群優法\n第 7-8 週\t基因演算法、免疫基因法\n第 9 週\t期中考試\n第 10-11 週\t田口基因法、蟻拓演算法\n第 12-13 週\t類神經網路簡介及應用\n第 14-16 週\t其他群體智慧演算法 (學生上台報告)\n第 17 週\t端午節停課\n第 18 週\t期末考試",
-    "scorePolicy": "1. 程式設計作業：20%  \n2. 期中考試：30%\n3. 上台及書面報告：20%  \n4. 期末考試：30%",
-    "materials": "1.\t陳惠貞，Python 程式設計，第三版，旗標圖書，2022.06。\n2.\tJyh-Shing R. Jang, Neuro-Fuzzy and Soft Computing，全華圖書，1997\n3.\ttest data: http://see.xidian.edu.cn/faculty/mggong/Data/book1.htm\n4.\t自編講義。",
-    "consultation": "課後當面、line 群組、書面諮詢",
+    "outline": "智慧型控制系統為近幾年研究之基本工具及大數據分析之核心，期使學生能瞭解其中最熱門之方法及應用。主要包括下列項目：\n1. Python程式設計。\n2. 模擬退火法、粒子群優法。\n3. 基因演算法、免疫演算法。\n4. 田口基因法、蟻拓演算法。\n5. 類神經網路簡介及應用。",
+    "schedule": "第1週 課程簡介、Python 簡介\n第2-3週 Python 程式設計\n第4-6週 模擬退火法、粒子群優法\n第7-8週 基因演算法、免疫基因法\n第9週 期中考試\n第10-11週 田口基因法、蟻拓演算法\n第12-13週 類神經網路簡介及應用\n第14-16週 其他群體智慧演算法(學生上台報告)\n第17週 端午節停課\n第18週 期末考試",
+    "scorePolicy": "1. 程式設計作業：20%\n2. 期中考試：30%\n3. 上台及書面報告：20%\n4. 期末考試：30%",
+    "materials": "1. 陳惠貞，Python 程式設計，第三版，旗標圖書，2022.06。\n2. Jyh-Shing R. Jang, Neuro-Fuzzy and Soft Computing，全華圖書，1997\n3. test data: http://see.xidian.edu.cn/faculty/mggong/Data/book1.htm\n4. 自編講義。",
+    "consultation": "課後當面、line群組、書面諮詢",
     "remarks": "無",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

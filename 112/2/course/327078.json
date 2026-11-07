@@ -1,14 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12356",
     "latestUpdate": "2024-05-15 23:38:41",
-    "objective": "學習智慧型手機的程式設計，課程包含應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nThis course will learn how to program the mobile phones, the topics including: basics of applications programming, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
-    "schedule": "*** Part I: Kotlin Programming \nWeek 1: Course Syllabus、Kotlin Programming and IntelliJ IDEA (1/4)\nWeek 2: Kotlin Programming (2/4) \nWeek 3: Kotlin Programming (3/4)\nWeek 4: Kotlin Programming (4/4)\n*** Part II: Android APP w/ XML UI\nWeek 5: Android Studio 與專案架構 (Ch. 01), 介面設計與元件佈局 (Ch. 02)\nWeek 6: 物件控制與事件監聽 (Ch. 03)\nWeek 7: Activity (Ch. 04)\nWeek 8: Fragment (Ch. 05) 與 訊息提示元件 (Ch. 06)\nWeek 9: 清單元件 (或進階清單元件) (Ch. 07/08)\nWeek 10: 同步與非同步執行 (Ch. 09) 與動畫製作 (Ch. 10)\nWeek 11: 多媒體應用 (Ch.11)\n*** Part III: Android APP w/ Jetpack Compose UI\nWeek 12-14: Jetpack Compose Basic\nWeek 15-17: Jetpack Compose Advance\n*** Week 18:  Final Android App Project Report & Demo",
+    "outline": "學習智慧型手機的程式設計，課程包含應用程式基礎、準備開發環境、認識開發環境、使用者介面、各種使用者元件、資料存取、檔案存取、通訊與網路、硬體資料的存取。\nThis course will learn how to program the mobile phones, the topics including: basics of applications programming, preparing development environment, working on development environment, user interface, components, access of data and file, communication and network, access of hardware.",
+    "schedule": "*** Part I: Kotlin Programming\nWeek 1: Course Syllabus、Kotlin Programming and IntelliJ IDEA (1/4)\nWeek 2: Kotlin Programming (2/4)\nWeek 3: Kotlin Programming (3/4)\nWeek 4: Kotlin Programming (4/4)\n*** Part II: Android APP w/ XML UI\nWeek 5: Android Studio與專案架構 (Ch. 01), 介面設計與元件佈局(Ch. 02)\nWeek 6: 物件控制與事件監聽 (Ch. 03)\nWeek 7: Activity (Ch. 04)\nWeek 8: Fragment (Ch. 05) 與 訊息提示元件(Ch. 06)\nWeek 9: 清單元件(或進階清單元件) (Ch. 07/08)\nWeek 10: 同步與非同步執行 (Ch. 09)與動畫製作(Ch. 10)\nWeek 11: 多媒體應用(Ch.11)\n*** Part III: Android APP w/ Jetpack Compose UI\nWeek 12-14: Jetpack Compose Basic\nWeek 15-17: Jetpack Compose Advance\n*** Week 18: Final Android App Project Report & Demo",
     "scorePolicy": "Attendance: 10% (5 roll calls)\nAssignments: 30% (3~4 assignments)\nMidterm Android APP Project: 30% (individual, assigned topic)\nFinal Android APP project: 30% (individual, free topics)",
-    "materials": "TextBooks: \n1. \"Android Kotlin 實作開發 (精心設計 20 個 Lab 讓你快速上手)\"， 第二版，黃士嘉、周映樵，博碩文化出版\n2. https://developer.android.com/jetpack/compose\n\nReferences: \n1. \"Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning\n2. Jetpack Compose 1.5 Essential, Neil Smyth, Payload Media, Inc.",
-    "consultation": "1. Office hours for @綜科館 215: Thurs. 10:00 ~ 12:00, Friday. 14:00 ~ 16:002. Email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.3. Join Line group: \"112-2 APP Design (327078)",
-    "remarks": "The arrangement for the final three weeks will be as follows, 6/6 physical class @EECS Building Rm 5116/13 online class (using Microsoft Teams for the class)6/20 online class for the Final APP Project presentation and demo",
+    "materials": "TextBooks:\n1. \"Android Kotlin實作開發 (精心設計20個Lab讓你快速上手)\"， 第二版，黃士嘉、周映樵，博碩文化出版\n2. https://developer.android.com/jetpack/compose\n\nReferences:\n1. \" Kotlin in Action\" by Dmitry Jemerov and Svetlana Isakova, Manning\n2. Jetpack Compose 1.5 Essential, Neil Smyth, Payload Media, Inc.",
+    "consultation": "1. Office hours for @綜科館215:\nThurs. 10:00 ~ 12:00, Friday. 14:00 ~ 16:00\n\n2. Email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.\n\n3. Join Line group: \"112-2 APP Design (327078)",
+    "remarks": "The arrangement for the final three weeks will be as follows,\n6/6 physical class @EECS Building Rm 511\n6/13 online class (using Microsoft Teams for the class)\n6/20 online class for the Final APP Project presentation and demo",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

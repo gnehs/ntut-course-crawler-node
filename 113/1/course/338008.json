@@ -1,15 +1,18 @@
 [
   {
-    "name": "丁振卿",
+    "teacher": "丁振卿",
     "email": "chchting@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11194",
     "latestUpdate": "2024-05-22 11:26:30",
-    "objective": "本課程將以做中學的概念，也就是技術實作 + AI 輔助教學的方式進行，內容主要是介紹光學成像技術與應用，特別是針對航太領域使用的光學技術，當然也適用於一般民生工業用途。例如：衛星遙測、流體顯像、太空測距等，以實際應用需求導入相關原理與技術介紹，搭配電腦軟體輔助學習，內容包括：光束成像、光波成像、光學成像元件精密加工、光學成像實務應用技術等項目，將安排專業教授及業師搭配授課，授課分成兩學期實施，上學期講授光束成像，下學期講授光波成像。\nThis course will be conducted using the concept of learning by doing, which is a combination of technical practice and AI-assisted teaching. The content mainly introduces optical imaging technology and its applications, especially optical technology used in the aerospace field, such as satellite remote sensing, flow visualization, space ranging, etc. Of course, it is also suitable for general industrial applications. The course will introduce relevant principles and technical introductions according to practical application needs, and computer software will be used for learning. The content includes beam imaging, wave imaging, precision processing of optical imaging components, practical application technology of optical imaging, and other topics. Professional professors and industry experts will be arranged to teach the course, which will be divided into two semesters. The first semester will cover beam imaging, and the second semester will cover wave imaging.",
-    "schedule": "w1-2 光束成像反射原理與應用\nw3-4 光束成像折射原理與應用\nw5-6 光束成像像差原理與應用\nw7-8 影像擷取原理與應用\nw9 期中考\nw10-11 消除反光原理與應用\nw12-17 光學成像元件精密加工技術：專業教授\nw18 期末考",
-    "scorePolicy": "上課表現 20%、期末作業 80%，作業缺繳者以零分計算。",
+    "outline": "本課程將以做中學的概念，也就是技術實作+AI輔助教學的方式進行，內容主要是介紹光學成像技術與應用，特別是針對航太領域使用的光學技術，當然也適用於一般民生工業用途。例如：衛星遙測、流體顯像、太空測距等，以實際應用需求導入相關原理與技術介紹，搭配電腦軟體輔助學習，內容包括：光束成像、光波成像、光學成像元件精密加工、光學成像實務應用技術等項目，將安排專業教授及業師搭配授課，授課分成兩學期實施，上學期講授光束成像，下學期講授光波成像。\nThis course will be conducted using the concept of learning by doing, which is a combination of technical practice and AI-assisted teaching. The content mainly introduces optical imaging technology and its applications, especially optical technology used in the aerospace field, such as satellite remote sensing, flow visualization, space ranging, etc. Of course, it is also suitable for general industrial applications. The course will introduce relevant principles and technical introductions according to practical application needs, and computer software will be used for learning. The content includes beam imaging, wave imaging, precision processing of optical imaging components, practical application technology of optical imaging, and other topics. Professional professors and industry experts will be arranged to teach the course, which will be divided into two semesters. The first semester will cover beam imaging, and the second semester will cover wave imaging.",
+    "schedule": "w1-2光束成像反射原理與應用\nw3-4 光束成像折射原理與應用\nw5-6 光束成像像差原理與應用\nw7-8 影像擷取原理與應用\nw9 期中考\nw10-11 消除反光原理與應用\nw12-17 光學成像元件精密加工技術：專業教授\nw18 期末考",
+    "scorePolicy": "上課表現20%、期末作業80%，作業缺繳者以零分計算。",
     "materials": "1. Eugene Hecht, Optics, Addison Wesley Co., New York 2001.\n2. W. Lauterborn, T. Kurz, M. Wiesenfeldt, Coherent Optics, Fundamentals and Applications. Springer Verlag, Berlin 2003.\n3. A. Ghatak, Optics, Tata McGraw-Hill Publishing Company Limited, Third Edition, ISBN=0-07-124706-8, 2005.\n4. Ray Optics Simulation\n5. Open Optics Module",
     "consultation": "課堂、line、教師諮詢時間",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "remarks": "上課講義在 https://140.124.30.175/opencct/course/optics/ 修課學生 Line 群組",
+    "remarks": "上課講義在 https://140.124.30.175/opencct/course/optics/\n修課學生Line群組",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

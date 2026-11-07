@@ -1,15 +1,18 @@
 [
   {
-    "name": "胡念祖",
+    "teacher": "胡念祖",
     "email": "nthu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12286",
     "latestUpdate": "2024-11-08 22:22:55",
-    "objective": "本課程主要介紹最佳控制之相關原理與應用，內容包括如下：最佳控制簡介，性能指標，動態規劃法，變分法，變分法在最佳控制之應用，最佳控制之數值解與個案研究等。\nEnglish Description:  This subject is arranged to introduce the principles and applications of optimal control. The subject includes the following subtopics: introduction of optimal control, performance measure, dynamic programming, calculus of variations, variational approach to optimal control problems, numerical solution of optimal control, and case studies.",
-    "schedule": "1.\t09/09  Introduction\n2.\t09/16   STATIC OPTIMIZATION\n3.\t09/23   STATIC OPTIMIZATION\n4.\t09/30   OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n5.\t10/07   OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n6.\t10/14   OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n7.     10/21   OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n8.     10/28   OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n9.\t11/04   Midterm Exam\n10.\t11/11   OPTIMAL CONTROL OF CONTINUOUS-TIME SYSTEMS\n11.\t11/18   OPTIMAL CONTROL OF CONTINUOUS-TIME SYSTEMS (The course has been rescheduled to the evening of November 29th.)\n12.\t11/25   THE TRACKING PROBLEM AND OTHER LQR EXTENSIONS (The course has been rescheduled to the evening of November 30th.)\n13.\t12/02   THE TRACKING PROBLEM AND OTHER LQR EXTENSIONS\n14.\t12/09   THE TRACKING PROBLEM AND OTHER LQR EXTENSIONS\n15.\t12/16   FINAL-TIME-FREE AND CONSTRAINED INPUT CONTROL\n16.\t12/23   FINAL-TIME-FREE AND CONSTRAINED INPUT CONTROL\n17.\t12/30   Paper presentation & Final Project \n18.\t01/06   Paper presentation & Final Project \n\nPS: The contents will be adjusted according to actual needs",
+    "outline": "本課程主要介紹最佳控制之相關原理與應用，內容包括如下：最佳控制簡介，性能指標，動態規劃法，變分法, 變分法在最佳控制之應用，最佳控制之數值解與個案研究等。\nEnglish Description: This subject is arranged to introduce the principles and applications of optimal control. The subject includes the following subtopics: introduction of optimal control, performance measure, dynamic programming, calculus of variations, variational approach to optimal control problems, numerical solution of optimal control, and case studies.",
+    "schedule": "1. 09/09 Introduction\n2. 09/16 STATIC OPTIMIZATION\n3. 09/23 STATIC OPTIMIZATION\n4. 09/30 OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n5. 10/07 OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n6. 10/14 OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n7. 10/21 OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n8. 10/28 OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS\n9. 11/04 Midterm Exam\n10. 11/11 OPTIMAL CONTROL OF CONTINUOUS-TIME SYSTEMS\n11. 11/18 OPTIMAL CONTROL OF CONTINUOUS-TIME SYSTEMS (The course has been rescheduled to the evening of November 29th.)\n12. 11/25 THE TRACKING PROBLEM AND OTHER LQR EXTENSIONS (The course has been rescheduled to the evening of November 30th.)\n13. 12/02 THE TRACKING PROBLEM AND OTHER LQR EXTENSIONS\n14. 12/09 THE TRACKING PROBLEM AND OTHER LQR EXTENSIONS\n15. 12/16 FINAL-TIME-FREE AND CONSTRAINED INPUT CONTROL\n16. 12/23 FINAL-TIME-FREE AND CONSTRAINED INPUT CONTROL\n17. 12/30 Paper presentation & Final Project\n18. 01/06 Paper presentation & Final Project\n\nPS: The contents will be adjusted according to actual needs",
     "scorePolicy": "- Class participation: 15%\n- Assignments: 30% (No assignment turned in late will be accepted)\n- Midterm exam: 20%\n- Paper presentation & Final Project: 35%",
     "materials": "1. Lewis & Vrabie & Syrmos, Optimal Control 3/E, WILEY, 2012.\n2. Belegundu, A., & Chandrupatla, T., Optimization Concepts and Applications in Engineering (3rd ed.). Cambridge: Cambridge University Press. 2019.",
-    "consultation": "TEL: (02)27712171 Ext. 4324Email: nthu@ntut.edu.twOffice Hours:Tuesday 10:00-17:00Integrate Technology Complex, Room 604-1",
-    "課程對應SDGs指標": "無（None）",
+    "consultation": "TEL: (02)27712171 Ext. 4324\nEmail: nthu@ntut.edu.tw\nOffice Hours:\nTuesday 10:00-17:00\nIntegrate Technology Complex, Room 604-1",
     "remarks": "Remote Learning will be performed via Microsoft Teams, if required (see https://news.ntut.edu.tw/p/422-1000-1085.php?Lang=zh-tw).",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

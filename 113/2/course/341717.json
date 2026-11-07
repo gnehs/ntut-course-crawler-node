@@ -1,15 +1,18 @@
 [
   {
-    "name": "吳柏輝",
+    "teacher": "吳柏輝",
     "email": "bhwu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12398",
     "latestUpdate": "2024-12-18 17:37:18",
-    "objective": "人工智慧與程式設計之進階觀念介紹及應用。主要內容包括：1. 深度學習、2. 影像辨識與物件偵測、3. 對抗生成網路 (GAN)、4. 深度強化學習\nThis course covers the advanced and applications of artificial intelligence and program design, including, 1. Deep Learning, 2. Image Classification and Object Detection, 3. Generative Adversarial Networks, 4. Deep Reinforcement Learning.",
-    "schedule": "1\t課程簡介與目標\n2\t基礎統計與資料分析\n3\t基礎統計與資料分析\n4\t線性回歸\n5\t邏輯回歸\n6\t決策樹\n7\t隨機森林\n8\t支援向量機\n9\t期中測驗 / 報告\n10\t深度學習的技術基礎\n11\t多層感知器 (MLP)\n12\t卷積神經網路 (CNN)\n13\t循環神經網路 (RNN)\n14\t循環神經網路 (LSTM)\n15\t遷移式學習\n16\t客製化神經網路\n17\t未來展望\n18\t期末測驗 / 報告",
-    "scorePolicy": "課堂參與\t20%\n隨堂作業\t20%\n期中測驗 / 報告\t30%\n期末測驗 / 報告\t30%\n※ 評量項目與配分將視學生學習情況適度調整。",
-    "materials": "1.Python + ChatGPT 零基礎 + 高效率學程式設計與運算思維 (第四版) ISBN：9786267273463\n2.Python - 最強入門 ChatGPT 助攻邁向數據科學之路 - 王者歸來 ISBN：9786267273463\n3.Python 資料視覺化從 2D 到 3D 使用 matplotlib 實作–王者歸來 ISBN：9786267273524\n4. 機器學習最強入門–基礎數學／機率／統計邁向 AI 真實數據專題實作–王者歸來 ISBN：9786267273784\n5. 新一代 Keras 3.x 重磅回歸：跨 TensorFlow 與 PyTorch 建構 Transformer、CNN、RNN、LSTM 深度學習模型 ISBN：9789863127871",
-    "consultation": "※如有任何問題，請事先與授課教師約定時間與地點※電子郵件：bhwu@ntut.edu.tw 研究室地點：綜合科館 515-2 室研究室分機：3529",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "outline": "人工智慧與程式設計之進階觀念介紹及應用。主要內容包括：1.深度學習、2. 影像辨識與物件偵測、3. 對抗生成網路(GAN)、4. 深度強化學習\nThis course covers the advanced and applications of artificial intelligence and program design, including, 1. Deep Learning, 2. Image Classification and Object Detection, 3. Generative Adversarial Networks, 4. Deep Reinforcement Learning.",
+    "schedule": "1 課程簡介與目標\n2 基礎統計與資料分析\n3 基礎統計與資料分析\n4 線性回歸\n5 邏輯回歸\n6 決策樹\n7 隨機森林\n8 支援向量機\n9 期中測驗/報告\n10 深度學習的技術基礎\n11 多層感知器(MLP)\n12 卷積神經網路(CNN)\n13 循環神經網路(RNN)\n14 循環神經網路(LSTM)\n15 遷移式學習\n16 客製化神經網路\n17 未來展望\n18 期末測驗/報告",
+    "scorePolicy": "課堂參與 20%\n隨堂作業 20%\n期中測驗/報告 30%\n期末測驗/報告 30%\n※ 評量項目與配分將視學生學習情況適度調整。",
+    "materials": "1.Python + ChatGPT 零基礎+高效率學程式設計與運算思維(第四版) ISBN：9786267273463\n2.Python -最強入門 ChatGPT 助攻邁向數據科學之路-王者歸來 ISBN：9786267273463\n3.Python資料視覺化從2D到3D使用matplotlib實作–王者歸來ISBN：9786267273524\n4.機器學習最強入門–基礎數學／機率／統計邁向AI真實數據專題實作–王者歸來 ISBN：9786267273784\n5.新一代 Keras 3.x 重磅回歸：跨 TensorFlow 與 PyTorch 建構 Transformer、CNN、RNN、LSTM 深度學習模型 ISBN：9789863127871",
+    "consultation": "※如有任何問題，請事先與授課教師約定時間與地點※\n電子郵件：bhwu@ntut.edu.tw\n研究室地點：綜合科館 515-2室\n研究室分機：3529",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

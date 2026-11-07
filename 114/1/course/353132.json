@@ -1,16 +1,18 @@
 [
   {
-    "name": "蔣政諺",
+    "teacher": "蔣政諺",
     "email": "dcychiang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12460",
     "latestUpdate": "2025-09-02 15:17:58",
-    "objective": "本課程主要目的在於使用各種深度學習的方法，應用在微波遙測資料上面。主要以案例的方式介紹各種應用，因此除了會說明核心的演算法之外，也會介紹使用的訓練資料集的格式、前處理等內容。課程前段會先回顧基本的遙測影像特性以及深度學習技術，包含 CNNs, RNNs, GANs 和 YOLOs 等，常見於遙測資料應用的方法。課程中段會已實際的範例說明上述幾種方法的使用情境與成效。課程最後會要求學生以文獻研讀的方式說明不同深度學習方法在微波遙測上的實例。\n\nThe primary objective of this course is to apply various deep learning methods to microwave remote sensing data. It introduces diverse applications primarily through case studies, covering not only core algorithms but also the format of training datasets and preprocessing techniques. The initial part reviews fundamental remote sensing image characteristics and deep learning techniques, including CNNs, RNNs, GANs, and YOLOs—methods commonly applied to remote sensing data. The middle part demonstrates the practical scenarios and effectiveness of these approaches through real-world examples. The final part requires students to conduct literature reviews, presenting case studies of different deep learning methods applied to microwave remote sensing.",
+    "outline": "本課程主要目的在於使用各種深度學習的方法，應用在微波遙測資料上面。主要以案例的方式介紹各種應用，因此除了會說明核心的演算法之外，也會介紹使用的訓練資料集的格式、前處理等內容。課程前段會先回顧基本的遙測影像特性以及深度學習技術，包含CNNs, RNNs, GANs和YOLOs等，常見於遙測資料應用的方法。課程中段會已實際的範例說明上述幾種方法的使用情境與成效。課程最後會要求學生以文獻研讀的方式說明不同深度學習方法在微波遙測上的實例。\n\nThe primary objective of this course is to apply various deep learning methods to microwave remote sensing data. It introduces diverse applications primarily through case studies, covering not only core algorithms but also the format of training datasets and preprocessing techniques. The initial part reviews fundamental remote sensing image characteristics and deep learning techniques, including CNNs, RNNs, GANs, and YOLOs—methods commonly applied to remote sensing data. The middle part demonstrates the practical scenarios and effectiveness of these approaches through real-world examples. The final part requires students to conduct literature reviews, presenting case studies of different deep learning methods applied to microwave remote sensing.",
     "schedule": "Week 1, Syllabus\nWeek 2, Fundamental remote sensing image characteristics - 1\nWeek 3, Fundamental remote sensing image characteristics - 2\nWeek 4, Review on variant CNNs\nWeek 5, Review on variant GANs & RNNs\nWeek 6, Review on variant YOLOs\nWeek 7, Case study on the GAN: MSTAR dataset generation\nWeek 8, Case study on the RCNN & YOLO: Ship detection using SAR data\nWeek 9, Case study on the U-net and optimzation: SAR & Optical remote sensing images image fusion\nWeek 11, Case study on the Convolutional Learning Machine: AutofocusSAR, Machine learning-based Synthetic Aperture Radar (SAR) autofocus algorithms\nWeek 12, Case stduy on the NN: SAR2SAR, A Semi-Supervised Despeckling Algorithm for SAR Images\nWeek 13, Literature reviews and presenting by students\nWeek 14, Literature reviews and presenting by students\nWeek 15, Literature reviews and presenting by students\nWeek 16, Literature reviews and presenting by students\nWeek 17, Literature reviews and presenting by students\nWeek 18, Literature reviews and presenting by students",
-    "scorePolicy": "出席狀況 (Attendance): 20%\n課程參與 (Participation): 20%\n文獻閱讀與報告 (Literature reviews and presenting): 60%",
+    "scorePolicy": "出席狀況(Attendance): 20%\n課程參與(Participation): 20%\n文獻閱讀與報告(Literature reviews and presenting): 60%",
     "materials": "相關網路資源",
     "consultation": "Email: dcychiang@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）\n● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": false
   }
 ]

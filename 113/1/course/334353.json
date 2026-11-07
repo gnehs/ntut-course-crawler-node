@@ -1,15 +1,18 @@
 [
   {
-    "name": "吳修明",
+    "teacher": "吳修明",
     "email": "hmwu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12202",
     "latestUpdate": "2024-05-28 17:19:08",
-    "objective": "課程內容包括有：(1) MATLAB 介紹 (2) 陣列的基本操作與運算 (3) 二維平面與三維空間繪圖 (4) 程式流程控制與字串處理 (5) GUI 程式設計 (6) Simulink 與工具箱介紹\nThe contents of this course include (1) Introduction to MATLAB (2) Basic operation of the array (3) 2D and 3D plot (4) Program flow control and string processing (5) Programming design of GUI (6) Introduction to Simulink and toolboxes",
-    "schedule": "一週：MATLAB 介紹 \n三週：陣列的基本操作與運算 \n三週：二維平面與三維空間繪圖\n三週：程式流程控制與字串處理 \n三週：GUI 程式設計\n三週：Simulink 與工具箱介紹",
+    "outline": "課程內容包括有：(1) MATLAB介紹 (2) 陣列的基本操作與運算 (3) 二維平面與三維空間繪圖 (4) 程式流程控制與字串處理 (5) GUI程式設計 (6) Simulink與工具箱介紹\nThe contents of this course include (1) Introduction to MATLAB (2) Basic operation of the array (3) 2D and 3D plot (4) Program flow control and string processing (5) Programming design of GUI (6) Introduction to Simulink and toolboxes",
+    "schedule": "一週：MATLAB介紹\n三週：陣列的基本操作與運算\n三週：二維平面與三維空間繪圖\n三週：程式流程控制與字串處理\n三週：GUI程式設計\n三週：Simulink與工具箱介紹",
     "scorePolicy": "作業：40%\n專案製作：60%",
     "materials": "MATLAB 程式設計實務 莊鎮嘉、鄭錦聰 編著 全華書局",
-    "consultation": "Office hours: AM9:00~13:00, TuesdayEmail: hmwu@mail.ntut.edu.tw",
-    "課程對應SDGs指標": "無（None）",
+    "consultation": "Office hours: AM9:00~13:00, Tuesday\nEmail: hmwu@mail.ntut.edu.tw",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

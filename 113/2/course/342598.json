@@ -1,15 +1,18 @@
 [
   {
-    "name": "邱志洲",
+    "teacher": "邱志洲",
     "email": "chih3c@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10936",
     "latestUpdate": "2024-12-21 21:31:46",
-    "objective": "建立學生對各類顧客關係管理相關議題之基礎理論架構觀念，奠定學生日後從事顧客關係管理分析研究工作時之需。課程中將以個案實例為主，並配合各種資料探勘套裝軟體，以應用的觀點使學生更容易接受了解線上分析、資料倉儲與資料探勘分析的功用。\nThis course includes the fundamental theory of data mining techniques and the various applications in different enterprises. These techniques will include classification, association rule, forecasting, pattern recognition, etc.",
-    "schedule": "1(02/18)\tIntroduction\n2(02/25)\tSoftware : Data source\n3(03/04)\tSoftware : Data Transformation\n4(03/11)\tSoftware : Field Operation\n5(03/18)\tSoftware : Graph\n6(03/25)\tSoftware : Model1\n7(04/01)\tSoftware : Model2\n8(04/08) \tSoftware : Model3\n9(04/15)\tMidterm\n10(04/22)\tCase Study\n11(04/29)\tCase Study\n12(05/06)\tCase Study\n13(05/13)\tCase Study\n14(05/20)\tProject Discussion\n15(05/27)\tProject Discussion\n16(06/03)\tProject Discussion\n17(06/10)\tProject Discussion\n18(06/17)\tProject Presentation",
-    "scorePolicy": "Midterm\t\t\t\t\t25%\nProject  & Presentation\t\t25%\nAssignment\t\t\t\t50%",
-    "materials": "Dyche, Jill  (2002)  The CRM Handbook  A Business Guide to Customer Relationship Management  Addison Wesley Information Technology Series: Boston \nNentl, Nancy J. and Craig Miller (2004) SimCRM Playbook for students McGraw Hill Irwin:  Boston",
-    "consultation": "1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "outline": "建立學生對各類顧客關係管理相關議題之基礎理論架構觀念，奠定學生日後從事顧客關係管理分析研究工作時之需。課程中將以個案實例為主，並配合各種資料探勘套裝軟體，以應用的觀點使學生更容易接受了解線上分析、資料倉儲與資料探勘分析的功用。\nThis course includes the fundamental theory of data mining techniques and the various applications in different enterprises. These techniques will include classification, association rule, forecasting, pattern recognition, etc.",
+    "schedule": "1(02/18) Introduction\n2(02/25) Software : Data source\n3(03/04) Software : Data Transformation\n4(03/11) Software : Field Operation\n5(03/18) Software : Graph\n6(03/25) Software : Model1\n7(04/01) Software : Model2\n8(04/08) Software : Model3\n9(04/15) Midterm\n10(04/22) Case Study\n11(04/29) Case Study\n12(05/06) Case Study\n13(05/13) Case Study\n14(05/20) Project Discussion\n15(05/27) Project Discussion\n16(06/03) Project Discussion\n17(06/10) Project Discussion\n18(06/17) Project Presentation",
+    "scorePolicy": "Midterm 25%\nProject & Presentation 25%\nAssignment 50%",
+    "materials": "Dyche, Jill (2002) The CRM Handbook A Business Guide to Customer Relationship Management Addison Wesley Information Technology Series: Boston\nNentl, Nancy J. and Craig Miller (2004) SimCRM Playbook for students McGraw Hill Irwin: Boston",
+    "consultation": "1. Office hour 詢問\n2. Google meet 遠距討論\n3. Line group 群組訊息分享及討論",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

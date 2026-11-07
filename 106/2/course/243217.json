@@ -1,17 +1,17 @@
 [
   {
-    "name": "林顯易",
+    "teacher": "林顯易",
     "email": "sofin@ntut.edu.tw",
     "latestUpdate": "2018-02-28 18:10:41",
-    "objective": "介紹數位訊號處理器 (digital signal processor，簡稱 DSP) 基本原理與其應用，以針對本課程配合使用的 TMS320F28027 做詳細導覽與了解晶片內部結構的規劃，晶片開發實務的技巧，實作 DSP 課程的理論算法",
-    "schedule": "Week1：課程概述\nWeek2：數位訊號處理晶片簡介\nWeek3：整合開發環境 CCS\nWeek4：CCS 專案建構與組成\nWeek5：28027 記憶體與 CMD 文件配置\nWeek6：計數器與中斷\nWeek7：Fast fourier transform (FFT)\nWeek8：Finite impulse response (FIR)\nWeek9：Infinite impulse response (IIR)\nWeek10：Kalman filter\nWeek10：Wavelet transform\nWeek11 ：GPIO 操作及測試\nWeek12 ：PWM 波形產生\nWeek13 ：馬達控制\nWeek14 ：A / D 轉換\nWeek15 ：Speech recognition\nWeek16 ：IMU\nWeek17 ：Image compression by wavelet\nWeek18 ：Project report (II)",
+    "outline": "介紹數位訊號處理器(digital signal processor，簡稱DSP)基本原理與其應用，以針對本課程配合使用的TMS320F28027做詳細導覽與了解晶片內部結構的規劃，晶片開發實務的技巧，實作DSP課程的理論算法",
+    "schedule": "Week1：課程概述\nWeek2：數位訊號處理晶片簡介\nWeek3：整合開發環境 CCS\nWeek4：CCS專案建構與組成\nWeek5：28027記憶體與CMD文件配置\nWeek6：計數器與中斷\nWeek7：Fast fourier transform (FFT)\nWeek8：Finite impulse response (FIR)\nWeek9：Infinite impulse response (IIR)\nWeek10：Kalman filter\nWeek10：Wavelet transform\nWeek11 ：GPIO操作及測試\nWeek12 ：PWM波形產生\nWeek13 ：馬達控制\nWeek14 ：A/D轉換\nWeek15 ：Speech recognition\nWeek16 ：IMU\nWeek17 ：Image compression by wavelet\nWeek18 ：Project report (II)",
     "scorePolicy": "上課參與 10%\n實驗報告 60%\n期末報告 30%",
-    "materials": "【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】\n\n\n\n上課講義",
+    "materials": "上課講義",
     "consultation": "",
-    "延伸教學與資源": "",
-    "課程對應SDGs指標": "",
-    "課程是否導入AI": "",
     "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

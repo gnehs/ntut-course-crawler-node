@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳澤興",
+    "teacher": "陳澤興",
     "email": "tzershing.chen@ntut.edu.tw",
-    "latestUpdate": "2024-05-11 08:49:02",
-    "objective": "基本控制系統的動作方式、位置控制、比例控制、積分控制、微分控制、各種組合控制、氣壓控制裝置、電動及電子控制裝置、液壓控制裝置、空調設備上的各種控制包括溫度、壓力、風量、濕度等之控制。\nTo provide students with the concepts of control actions: two position control, proportional control, floating control, integral control, derivative control; to familiarize students with pneumatic control devices, fluid control devices, damper & valves, elementary control systems on HVAC & R systems, include: temperature control, humidity control, static pressure control, flow control and so on.",
-    "schedule": "第 01 週 2/24 : 自動控制基本概論 (自動控制定義、應用在冷凍空調之控制)\n第 02 週 3/02 : 控制系統概論 Ⅰ (控制系統定義、控制系統的表示法)\n第 03 週 3/09 : 控制系統概論 Ⅱ (控制系統分類、控制系統的設計步驟、小考 1)\n第 04 週 3/16 : 控制系統的數學基礎 Ⅰ(微分方程式、拉氏轉換)\n第 05 週 3/23 : 控制系統的數學基礎 Ⅱ(系統分類與轉移函數、方塊圖與訊號流程)\n第 06 週 3/30 : 古典控制的系統 Ⅰ(系統分類與轉移函數、方塊圖與訊號流程)\n第 07 週 4/06 : 古典控制的系統 Ⅱ(機電系統的數學模型、轉換器的數學模型)\n第 08 週 4/13 : 控制系統的穩定度 (穩定度定義、系統的穩定度、小考 1 講解)\n第 09 週 4/20 : 期中考\n第 09 週 4/20 : 期中考\n第 10 週 4/27 : 113 年統測考場放假 \n第 11 週 5/04 : 控制系統的時域分析 (暫態響應的分析、穩態響應與精確度)\n第 12 週 5/11 : 狀態變數模型與分析 (系統的動態方程式、小考 2)\n第 13 週 5/18 : 控制系統的設計 Ⅰ (電動機的控制、冷凍設備的控制)\n第 14 週 5/25 : 控制系統的設計 Ⅱ (空調設備與調節閥的控制、小考 2 講解)\n第 15 週 6/01 : 期末考\n第 16 週 6/08 : 線上教學 1 : 水管系統控制 (含作業 1) \n第 17 週 6/15 : 線上教學 2 : 空氣系統控制 (含作業 2)\n第 18 週 6/22 : 線上教學 3 : 流量控制器之控制 Ⅰ(作業 3)",
-    "scorePolicy": "1. 出缺席        (20 %) → 無故缺席扣 3% / 次 (向教務處請事病假扣 1%/ 次)\n2. 期中考        (30 %)\n3. 期末考        (25 %)\n4. 小考 2 次      (10 %)\n4. 作業 3 次      (15 %)",
-    "materials": "使用教材: \n個人自編之講義",
-    "consultation": "1. 課程諮詢時間 Office hour: 研究室: 611-4 每周二 (18:00~19:00) 2. 開學後組成線上群組 Line group discussion: to be announced.",
-    "remarks": "",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12467",
+    "latestUpdate": "2024-05-31 15:03:37",
+    "outline": "基本控制系統的動作方式、位置控制、比例控制、積分控制、微分控制、各種組合控制、氣壓控制裝置、電動及電子控制裝置、液壓控制裝置、空調設備上的各種控制包括溫度、壓力、風量、濕度等之控制。\nTo provide students with the concepts of control actions: two position control, proportional control, floating control, integral control, derivative control; to familiarize students with pneumatic control devices, fluid control devices, damper & valves, elementary control systems on HVAC & R systems, include: temperature control, humidity control, static pressure control, flow control and so on.",
+    "schedule": "第01週2/24 : 自動控制基本概論 (自動控制定義、應用在冷凍空調之控制)\n第02週3/02 : 控制系統概論Ⅰ (控制系統定義、控制系統的表示法)\n第03週3/09 : 控制系統概論Ⅱ (控制系統分類、控制系統的設計步驟、小考1)\n第04週3/16 : 控制系統的數學基礎Ⅰ(微分方程式、拉氏轉換)\n第05週3/23 : 控制系統的數學基礎Ⅱ(系統分類與轉移函數、方塊圖與訊號流程)\n第06週3/30 : 古典控制的系統Ⅰ(系統分類與轉移函數、方塊圖與訊號流程)\n第07週4/06 : 古典控制的系統Ⅱ(機電系統的數學模型、轉換器的數學模型)\n第08週4/13 : 控制系統的穩定度 (穩定度定義、系統的穩定度、小考1講解)\n第09週4/20 : 期中考\n第09週4/20 : 期中考\n第10週4/27 : 113年統測考場放假\n第11週5/04 : 控制系統的時域分析 (暫態響應的分析、穩態響應與精確度)\n第12週5/11 : 狀態變數模型與分析 (系統的動態方程式、小考2)\n第13週5/18 : 控制系統的設計Ⅰ (電動機的控制、冷凍設備的控制)\n第14週5/25 : 控制系統的設計Ⅱ (空調設備與調節閥的控制、小考2講解)\n第15週6/01 : 期末考\n第16週6/08 : 線上教學1 : 水管系統控制 (含作業1)\n第17週6/15 : 線上教學2 : 空氣系統控制 (含作業2)\n第18週6/22 : 線上教學3 : 流量控制器之控制Ⅰ(作業3)",
+    "scorePolicy": "1.出缺席 (20 %) → 無故缺席扣3% /次 (向教務處請事病假扣1%/次)\n2.期中考 (30 %)\n3.期末考 (25 %)\n4.小考2次 (10 %)\n4.作業3次 (15 %)",
+    "materials": "使用教材:\n個人自編之講義",
+    "consultation": "1. 課程諮詢時間Office hour: 研究室: 611-4 每周二(18:00~19:00)\n2. 開學後組成線上群組Line group discussion: to be announced.",
+    "remarks": "遠距上課授課及評量方式說明如下：(限17週~18週)\n1. 上課方式：線上會議室 Google Meet\n2. 課程資訊 line群組: to be announced.\n3. 評量方式：線上授課點名+作業繳交上傳。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

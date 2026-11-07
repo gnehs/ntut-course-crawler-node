@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳殿榮",
+    "teacher": "陳殿榮",
     "email": "tjchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11133",
     "latestUpdate": "2025-06-02 01:08:55",
-    "objective": "克希荷夫定律 (KCL, KVL) 及綱目電流法、節點電位法及重疊定律、載維寧定律等之電路計算技巧應用；RLC 電路之一階、二階電路之暫態自然響應及相量式之於弦波函數穩態分析。",
-    "schedule": "1. Circuits Variables and Laws 1.5 週\n2. Properties of Resistive Circuits 2 週\n3. Applications of Resistive Circuits 2 週\n4. Energy Storage and Dynamic Circuits 2.5 週\n期中考週\n5. AC Circuits 3 週\n6. Transient Response 2.5 週\n7. Frequency Response and Filters 2.5 週\n期末考週",
+    "outline": "克希荷夫定律(KCL, KVL)及綱目電流法、節點電位法及重疊定律、載維寧定律等之電路計算技巧應用；RLC電路之一階、二階電路之暫態自然響應及相量式之於弦波函數穩態分析。",
+    "schedule": "1. Circuits Variables and Laws 1.5週\n2. Properties of Resistive Circuits 2週\n3. Applications of Resistive Circuits 2週\n4. Energy Storage and Dynamic Circuits 2.5週\n期中考週\n5. AC Circuits 3週\n6. Transient Response 2.5週\n7. Frequency Response and Filters 2.5週\n期末考週",
     "scorePolicy": "期中考：25 %\n期末考：25 %\n小考：20 % x 2\n平時考核：10 %",
     "materials": "Circuits\n--Engineering concepts and analysis of linear electric circuits\nby A. Bruce Carlson\n歐亞書局有限公司",
     "consultation": "請先寫信到郵箱: tjchen@mail.ntut.edu.tw 與老師約諮詢時間",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

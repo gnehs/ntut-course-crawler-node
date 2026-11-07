@@ -1,28 +1,42 @@
 [
   {
-    "name": "鄭辰仰",
+    "teacher": "鄭辰仰",
     "email": "cuc174@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11764",
     "latestUpdate": "2024-12-26 10:42:46",
-    "objective": "本課程主要分成三部分。第一部分介紹自動化設備包含工業機器人的結構，分類和其工作空間等基礎，第二部分介紹 PLC 可程式控制器的基本概念及各硬體架構、性能、特點及工作原理。最後再介紹機器人如何與系統相整合，以執行功能性的製造單元 (或製造系統)。\nThis course basically is composed of 3 parts. First, configuration, classification and work cell of the industrial robots will be introduced. Secondary, end-of-tooling, programming & instruction, control system controller and safety is covered. Finally, the robot and system integration to execute a functional manufacturing cell (or system) will be provided.",
-    "schedule": "1\t課程簡介\n2\tNC machine 操作介紹 (I)\n3\tNC machine 操作介紹 (II)\n4\t工業自動化概論: CIM/FMS\n5\t自動化元件介紹\n6\tPLC 可程式控制器 (Micro800): PLC 之架構與規格介紹 \n7\tPLC 語法教學: CCW 程式編輯軟體之使用\n8\t介紹 PLC 通訊功能、通訊協定，練習 PLC 與電腦通訊程式之設計 \n9\t期中考\n10\tHMI 之使用、畫面設計、規格與如何使用\n11\tDRIVE 變頻器: \na.\t感應電動機的架構 & 旋轉原理\nb.\t變頻器控制結構 & 控制原理\nc.\t變頻器接線 & 介面操作\n變頻器參數說明\n12\tPLC+HMI/ PLC+DRIVE\n13\t機械手臂教學\n14\t機械手臂教學\n15\t專題實作 / 論文報告與討論\n16\t專題實作 / 論文報告與討論\n17\t專題實作 / 論文報告與討論\n18\t期末專題報告\n\nWeek\tCourse Description\n1\tCourse Introduction\n2\tCIM/ FMS\n3\tNC machine control\n4\tRobotic control\n5\tSchool break\n6\tPLC (Micro800) introduction\n7\tLadder diagram I\n8\tLadder diagram II\n9\tMidterm\n10\tLadder diagram IV\n11\tPLC/HMI/DRIVE teaching (by Rockwell company)\n12\tPLC/HMI/DRIVE teaching (by Rockwell company)\n13\tProject discussion (by Rockwell company)\n14\tProject discussion (by Rockwell company)\n15\tProject discussion (by Rockwell company)\n16\tProject discussion (by Rockwell company)\n17\tSchool break\n18\tFinal Project presentation",
-    "scorePolicy": "50% Midterm Exam\n50% Final project\n期中考：50%\n期末報告 50%",
+    "outline": "本課程主要分成三部分。第一部分介紹自動化設備包含工業機器人的結構，分類和其工作空間等基礎，第二部分介紹PLC可程式控制器的基本概念及各硬體架構、性能、特點及工作原理。最後再介紹機器人如何與系統相整合，以執行功能性的製造單元(或製造系統)。\nThis course basically is composed of 3 parts. First, configuration, classification and work cell of the industrial robots will be introduced. Secondary, end-of-tooling, programming & instruction, control system controller and safety is covered. Finally, the robot and system integration to execute a functional manufacturing cell (or system) will be provided.",
+    "schedule": "1 課程簡介\n2 NC machine 操作介紹(I)\n3 NC machine 操作介紹(II)\n4 工業自動化概論: CIM/FMS\n5 自動化元件介紹\n6 PLC可程式控制器(Micro800): PLC之架構與規格介紹\n7 PLC語法教學: CCW 程式編輯軟體之使用\n8 介紹PLC通訊功能、通訊協定，練習PLC與電腦通訊程式之設計\n9 期中考\n10 HMI之使用、畫面設計、規格與如何使用\n11 DRIVE 變頻器:\na. 感應電動機的架構&旋轉原理\nb. 變頻器控制結構&控制原理\nc. 變頻器接線&介面操作\n變頻器參數說明\n12 PLC+HMI/ PLC+DRIVE\n13 機械手臂教學\n14 機械手臂教學\n15 專題實作/論文報告與討論\n16 專題實作/論文報告與討論\n17 專題實作/論文報告與討論\n18 期末專題報告\n\nWeek Course Description\n1 Course Introduction\n2 CIM/ FMS\n3 NC machine control\n4 Robotic control\n5 School break\n6 PLC (Micro800) introduction\n7 Ladder diagram I\n8 Ladder diagram II\n9 Midterm\n10 Ladder diagram IV\n11 PLC/HMI/DRIVE teaching (by Rockwell company)\n12 PLC/HMI/DRIVE teaching (by Rockwell company)\n13 Project discussion(by Rockwell company)\n14 Project discussion(by Rockwell company)\n15 Project discussion(by Rockwell company)\n16 Project discussion(by Rockwell company)\n17 School break\n18 Final Project presentation",
+    "scorePolicy": "50% Midterm Exam\n50% Final project\n期中考:50%\n期末報告 50%",
     "materials": "Course material",
     "consultation": "email: cycheng@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "remarks": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：※「一級」警戒：實體授課。※「三級」(含) 以上警戒：課程全採 Teams 遠距授課。",
-    "foreignLanguageTextbooks": true
+    "remarks": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採Teams遠距授課。",
+    "resources": "",
+    "sdgs": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採Teams遠距授課。",
+      "courseScoreMethod": null,
+      "courseInfo": null,
+      "courseURL": null,
+      "contactInfo": null,
+      "additionalInfo": null
+    }
   },
   {
-    "name": "蘇威豪",
+    "teacher": "蘇威豪",
     "email": "weihao.su@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12457",
     "latestUpdate": "2024-12-19 18:08:59",
-    "objective": "本課程主要分成三部分。第一部分介紹工業機器人的結構，分類和其工作空間等基礎。第二部分介紹機器人的端效器、語言指令及其控制系統和安全。最後再介紹機器人如何與系統相整合，以執行功能性的製造單元 (或製造系統)。\nThis course basically is composed of 3 parts. First, configuration, classification and work cell of the industrial robots will be introduced. Secondary, end-of-tooling, programming & instruction, control system controller and safety is covered. Finally, the robot and system integration to execute a functional manufacturing cell (or system) will be provided.",
-    "schedule": "eek 1: 工業機器人現況與實務案例分析\nWeek 2-Week 4: 智慧機器人內建 2.5D 視覺應用\nWeek 5: 智慧機器人自動光學檢測與字元辨識應用\nWeek 6: 智慧機器人網路通訊應用\nWeek 7-Week 9: 智慧機器人內建 3D 視覺與碰撞偵測應用\nWeek 10-Week12: 智慧機器人 AI+AOI 應用\nWeek 13-week 15: 智慧機器人手臂智能管理系統應用\nWeek 16-Week18: 期末分組作業練習與報告",
-    "scorePolicy": "上課出席：30%\nPBL 協作型機器人作業：70%",
+    "outline": "本課程主要分成三部分。第一部分介紹工業機器人的結構，分類和其工作空間等基礎。第二部分介紹機器人的端效器、語言指令及其控制系統和安全。最後再介紹機器人如何與系統相整合，以執行功能性的製造單元(或製造系統)。\nThis course basically is composed of 3 parts. First, configuration, classification and work cell of the industrial robots will be introduced. Secondary, end-of-tooling, programming & instruction, control system controller and safety is covered. Finally, the robot and system integration to execute a functional manufacturing cell (or system) will be provided.",
+    "schedule": "eek 1: 工業機器人現況與實務案例分析\nWeek 2-Week 4: 智慧機器人內建 2.5D 視覺應用\nWeek 5:智慧機器人自動光學檢測與字元辨識應用\nWeek 6:智慧機器人網路通訊應用\nWeek 7-Week 9: 智慧機器人內建 3D 視覺與碰撞偵測應用\nWeek 10-Week12: 智慧機器人 AI+AOI 應用\nWeek 13-week 15:智慧機器人手臂智能管理系統應用\nWeek 16-Week18: 期末分組作業練習與報告",
+    "scorePolicy": "上課出席：30%\nPBL協作型機器人作業：70%",
     "materials": "自編教材",
     "consultation": "E-MAIL:WEIHAO.SU@NTUT.EDU.TW",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG5：性別平等（Gender Equality）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

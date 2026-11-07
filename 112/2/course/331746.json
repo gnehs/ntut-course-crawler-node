@@ -1,14 +1,18 @@
 [
   {
-    "name": "劉玉蓀",
+    "teacher": "劉玉蓀",
     "email": "ysliu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=11091",
     "latestUpdate": "2024-05-17 12:34:32",
-    "objective": "The standards of WLANs, including IEEE 802.11a, IEEE 802.11g, and IEEE 802.11e are discussed. Both MAC layer and PHY layer techniques are covered. Topics include access technology, framed format, network management, channel coding, and OFDM modulation.",
-    "schedule": "MAC-layer: DCF (CSMA/CA protocol and RTS/CTS mechanism) (one month)\nMAC layer: PCF (one week)\nMAC Frame structure(one week)\nMac layer: other topics\nPHY layer structure (one week)\nPHY layer: Interleaving and Convolution code (encoding and decoding) (three weeks)\nPHY layer : OFDM modulation (two week)\nPHY layer : Physical layer packet structure  (one week)\nProjects review or new 802.11 standards (two week)",
-    "scorePolicy": "Final project (50 % )\nClass participation  & Homework (at  least 50 %)",
+    "outline": "The standards of WLANs, including IEEE 802.11a, IEEE 802.11g, and IEEE 802.11e are discussed. Both MAC layer and PHY layer techniques are covered. Topics include access technology, framed format, network management, channel coding, and OFDM modulation.",
+    "schedule": "MAC-layer: DCF (CSMA/CA protocol and RTS/CTS mechanism) (one month)\nMAC layer: PCF (one week)\nMAC Frame structure(one week)\nMac layer: other topics\nPHY layer structure (one week)\nPHY layer: Interleaving and Convolution code (encoding and decoding) (three weeks)\nPHY layer : OFDM modulation (two week)\nPHY layer : Physical layer packet structure (one week)\nProjects review or new 802.11 standards (two week)",
+    "scorePolicy": "Final project (50 % )\nClass participation & Homework (at least 50 %)",
     "materials": "IEEE 802.11 a standards.\n(1) IEEE Std 802.11a-1999, 30 Dec. (all)\n(2) ISO IEC80s.11_ANSI IEEE Std 802.11, 1999 edn, 20 Aug. (pp. 1-137)",
-    "consultation": "Email your questions or make an appointment with the teacher.If you have questions, please email me at ysliu@ntut.edu.tw or ask me after each on-line class.",
-    "remarks": "The last weeks of class this semester will be online.We will be using Microsoft Teams for online learning. All classes will be recorded and saved on Microsoft Teams and i-study, ensuring you have access to all class materials.Those who elected this course have already been added to our team.If you still need to join our team, please contact me.If you have questions, please email me at ysliu@ntut.edu.tw or ask me after each class.",
+    "consultation": "Email your questions or make an appointment with the teacher.\nIf you have questions, please email me at ysliu@ntut.edu.tw or ask me after each on-line class.",
+    "remarks": "The last weeks of class this semester will be online.\n\nWe will be using Microsoft Teams for online learning. All classes will be recorded and saved on Microsoft Teams and i-study, ensuring you have access to all class materials.\n\nThose who elected this course have already been added to our team.\nIf you still need to join our team, please contact me.\n\nIf you have questions, please email me at ysliu@ntut.edu.tw or ask me after each class.",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

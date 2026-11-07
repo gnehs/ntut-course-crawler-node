@@ -1,16 +1,17 @@
 [
   {
-    "name": "侯政伯",
+    "teacher": "侯政伯",
     "email": "chengpohou@gmail.com",
     "latestUpdate": "2025-06-21 09:31:48",
-    "objective": "本課程主要是在教導學生了解力學之概念與分析方法，使其具備學習結構學之基礎能力，其主要授課內容包括：1. 力學之基本概念及平衡條件、2. 構材之斷面性質如形心、重心、面積一次矩、慣性矩及其應用、3. 結構構材承受軸向載重、扭力、彎矩之分析及設計應用、4. 應力及應變之關係、5. 梁之變形，柱之性質以及各種分析理論。\nThis course introduced the concept of mechanics and provided the principles of structural analysis, the course consists of (1)\tEquations of equilibrium (2)\tFrame Section Properties (3)\tShear and moment diagrams (4)\tRelationships of stress and strainDeflection of beams and Column characteristics",
-    "schedule": "第 1 週 week General Principles 緒論                           \n第 2 週 Force Vectors 力向量                            \n第 3~4 週 Equilibrium of a Particle 質點平衡             \n第 5~6 週 Force System Resultants 力系合成                \n第 7~8 週 Equilibrium of a Rigid Body 剛體平衡            \n第 9~11 週 Structural Analysis 結構分析                    \n第 12~13 週 Internal Forces 內力                            \n第 14~15 週 Center of Gravity and Centroid 重心與形心       \n第 16 週 Moments of Inertia 慣性矩",
-    "scorePolicy": "期中考 Final Exam40%                                     \n期末考 Midter Exam40%                                     \n小考 Quiz10%                                       \n出席 Attendance10%",
-    "materials": "Engineering Mechanics STATICS                 \nFifteenth Edition in SI Units                 \nR. C. Hibbeler                                \n                                                    \n　　　建議修過初階微積分",
+    "outline": "本課程主要是在教導學生了解力學之概念與分析方法，使其具備學習結構學之基礎能力，其主要授課內容包括：1.力學之基本概念及平衡條件、2.構材之斷面性質如形心、重心、面積一次矩、慣性矩及其應用、3.結構構材承受軸向載重、扭力、彎矩之分析及設計應用、4.應力及應變之關係、5.梁之變形，柱之性質以及各種分析理論。\nThis course introduced the concept of mechanics and provided the principles of structural analysis, the course consists of(1) Equations of equilibrium(2) Frame Section Properties (3) Shear and moment diagrams (4) Relationships of stress and strainDeflection of beams and Column characteristics",
+    "schedule": "第1週 week General Principles 緒論\n第2週 Force Vectors 力向量\n第3~4週 Equilibrium of a Particle 質點平衡\n第5~6週 Force System Resultants 力系合成\n第7~8週 Equilibrium of a Rigid Body 剛體平衡\n第9~11週 Structural Analysis 結構分析\n第12~13週 Internal Forces 內力\n第14~15週 Center of Gravity and Centroid 重心與形心\n第16週 Moments of Inertia 慣性矩",
+    "scorePolicy": "期中考 Final Exam40%\n期末考 Midter Exam40%\n小考 Quiz10%\n出席 Attendance10%",
+    "materials": "Engineering Mechanics STATICS\nFifteenth Edition in SI Units\nR. C. Hibbeler\n\n建議修過初階微積分",
     "consultation": "chengpohou@gmail.com",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

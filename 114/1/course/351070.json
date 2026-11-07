@@ -1,16 +1,18 @@
 [
   {
-    "name": "曾恕銘",
+    "teacher": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11010",
     "latestUpdate": "2025-08-27 20:09:03",
-    "objective": "課程主要為介紹機器學習概念和基本原理，學習 DNN/CNN/LSTM/transformer 的神經網路架構和其他機器學習方法。",
-    "schedule": "1.\tIntroduction\n2.\tDNN with labs\n3.\tLearning method with labs (AI 玩遊戲)\n4.\tCNN with labs (AI 影像分類 / 物件偵測)\n5.\tRNN LSTM with lab\n6.\tAnalogizers: K-means, kNN, SVM\n7.\ttransformer (AI 寫金庸小說 / 寫學習歷程檔案)\n10.\tAutodecoder (AI 影像去雜訊 / 著色)  with labs\n11. Deep Reinforcement Learning (AlphaGo 下圍棋勝世界冠軍，OpenAI Five 玩 Dota 2 勝世界冠軍)\n12 AIOT 業師技術實作講義",
-    "scorePolicy": "口頭報告 30%  (一人)\nEXAM 35%\nAIOT 業師技術實作 35%  (一組)",
-    "materials": "Textbook\nHandouts\n\nReferences:\nTan, Steinbach, Karpatne, Kumar, Introduction to Data Mining, 2e, 2019\nOpen AI spinning Up https://spinningup.openai.com/en/latest/spinningup/rl_intro.html\n\nMendenhall and Sincich, Statistics for engineering and the sciences, 5/e, Prentice Hall.\n鄭羽熙，人工智慧關鍵技術初探，2019.8.26\nJinwoo Shin, Deep Learning for Optimization, Communication and Networks, The East Asian School of Information Theory & Communication (EASITC), August 6-10, 2018 \nhttps://www-users.cs.umn.edu/~kumar001/dmbook/index.php#item4\nhttp://www.willamette.edu/~gorr/classes/cs449/intro.html\nhttps://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html\nhttp://www.aiotlab.org/teaching/dl_app.html\nNVIDIA 深度學習基礎理論與實踐 Slides1 深度學習基本原理\nMicrosoft Azure Service Custom Vision Cavedu 教育團隊\n生成網路_曾吉弘 02_自動編碼器",
+    "outline": "課程主要為介紹機器學習概念和基本原理，學習DNN/CNN/LSTM/transformer的神經網路架構和其他機器學習方法。",
+    "schedule": "1. Introduction\n2. DNN with labs\n3. Learning method with labs(AI玩遊戲)\n4. CNN with labs(AI影像分類/物件偵測)\n5. RNN LSTM with lab\n6. Analogizers: K-means, kNN, SVM\n7. transformer (AI寫金庸小說/寫學習歷程檔案)\n10. Autodecoder (AI影像去雜訊/著色) with labs\n11. Deep Reinforcement Learning (AlphaGo下圍棋勝世界冠軍，OpenAI Five玩Dota 2勝世界冠軍)\n12 AIOT業師技術實作講義",
+    "scorePolicy": "口頭報告 30% (一人)\nEXAM 35%\nAIOT業師技術實作 35% (一組)",
+    "materials": "Textbook\nHandouts\n\nReferences:\nTan, Steinbach, Karpatne, Kumar, Introduction to Data Mining, 2e, 2019\nOpen AI spinning Up https://spinningup.openai.com/en/latest/spinningup/rl_intro.html\n\nMendenhall and Sincich, Statistics for engineering and the sciences, 5/e, Prentice Hall.\n鄭羽熙，人工智慧關鍵技術初探，2019.8.26\nJinwoo Shin, Deep Learning for Optimization, Communication and Networks, The East Asian School of Information Theory & Communication (EASITC), August 6-10, 2018\nhttps://www-users.cs.umn.edu/~kumar001/dmbook/index.php#item4\nhttp://www.willamette.edu/~gorr/classes/cs449/intro.html\nhttps://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html\nhttp://www.aiotlab.org/teaching/dl_app.html\nNVIDIA深度學習基礎理論與實踐 Slides1 深度學習基本原理\nMicrosoft Azure Service Custom Vision Cavedu 教育團隊\n生成網路_曾吉弘 02_自動編碼器",
     "consultation": "office hours",
-    "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）\n● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": false
   }
 ]

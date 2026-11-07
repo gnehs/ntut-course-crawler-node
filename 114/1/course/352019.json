@@ -1,16 +1,18 @@
 [
   {
-    "name": "林正釧",
+    "teacher": "林正釧",
     "email": "ccl@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12383",
     "latestUpdate": "2025-05-26 22:00:59",
-    "objective": "人工智慧已在各個領域中影響人類生活，特別是在機器學習與深度學習技術的發展。本課程為人工智慧領域的入門課程，旨在提供學生關於機器學習與深度學習的基本概念，其中包含了資料處理、分類以及迴歸類演算法、強化學習、捲積神經網路、遞迴神經網路、深度學習於影像辨識的應用、自然語言處理以及生成式 AI 及其相關演算法介紹 (例如：Transformer、生成對抗網路模型等)。課程亦提供 Python 程式，並運用實例進行實作練習，如：紅酒品質分類、房價預測、鐵道領域之軌道檢測等等。透過理論以及實作的訓練，本課程最終目標則是希望學生能夠將人工智慧技術應用在當前的工程以及工業問題中。",
-    "schedule": "週次   單元主題\n1. 人工智慧介紹 \n2. Python 程式語言基本介紹\n3-4. 機器學習基本概念\n5-6. 分類 (classification) 模型演算法 \n7-8. 迴歸 (regression) 模型演算法\n9. 期中考\n10-14. 深度學習介紹與應用 (含實作競賽)\n15-16. 自然語言處理與生成式 AI\n17. 期末考\n18. 期末實作發表",
-    "scorePolicy": "作業 (含課堂參與): 10% \n期中測驗 (筆試，概念題): 30%\n期末測驗 (筆試，概念題): 30%\n期末分組競賽成績 (含書面報告): 30%",
+    "outline": "人工智慧已在各個領域中影響人類生活，特別是在機器學習與深度學習技術的發展。本課程為人工智慧領域的入門課程，旨在提供學生關於機器學習與深度學習的基本概念，其中包含了資料處理、分類以及迴歸類演算法、強化學習、捲積神經網路、遞迴神經網路、深度學習於影像辨識的應用、自然語言處理以及生成式AI及其相關演算法介紹(例如:Transformer、生成對抗網路模型等)。課程亦提供Python程式，並運用實例進行實作練習，如:紅酒品質分類、房價預測、鐵道領域之軌道檢測等等。透過理論以及實作的訓練，本課程最終目標則是希望學生能夠將人工智慧技術應用在當前的工程以及工業問題中。",
+    "schedule": "週次 單元主題\n1. 人工智慧介紹\n2. Python程式語言基本介紹\n3-4. 機器學習基本概念\n5-6. 分類(classification)模型演算法\n7-8. 迴歸(regression)模型演算法\n9. 期中考\n10-14. 深度學習介紹與應用(含實作競賽)\n15-16. 自然語言處理與生成式AI\n17. 期末考\n18. 期末實作發表",
+    "scorePolicy": "作業(含課堂參與): 10%\n期中測驗(筆試，概念題): 30%\n期末測驗(筆試，概念題): 30%\n期末分組競賽成績(含書面報告): 30%",
     "materials": "自編教材，以投影片方式授課。",
-    "consultation": "學生可利用 office hours 或使用 email (ccl@ntut.edu.tw) 聯繫討論。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
-    "remarks": "本課程以 AI 之理論概念為主，若無 Python 基礎之學生亦可修習。",
+    "consultation": "學生可利用office hours或使用email(ccl@ntut.edu.tw)聯繫討論。",
+    "remarks": "本課程以AI之理論概念為主，若無Python基礎之學生亦可修習。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）\n● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": false
   }
 ]

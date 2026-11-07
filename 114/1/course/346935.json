@@ -1,16 +1,18 @@
 [
   {
-    "name": "蕭郁達",
+    "teacher": "蕭郁達",
     "email": "ydhsiao@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12573",
     "latestUpdate": "2025-05-31 10:48:07",
-    "objective": "本課程以化工程序中所包含的製程如蒸餾、熱交換器、攪拌、泵、機械分離等，由質量、能量及動量均衡開始講述，然後探討程序設計時使用的流程圖及其符號、成本估算、管線配置、流體輸送、化工單元規格設計等。\nApplication of chemical engineering science techniques to design of chemical processes. Comprehensive problems are assigned which include heat, material and economic balances, unit operations and processes, kinetics and thermodynamics.\nThe major responsibility is placed on individuals or small groups for the optimum design and selection of equipment, and for the calculations of required sizes, plant layout, and cost analyses.",
+    "outline": "本課程以化工程序中所包含的製程如蒸餾、熱交換器、攪拌、泵、機械分離等，由質量、能量及動量均衡開始講述，然後探討程序設計時使用的流程圖及其符號、成本估算、管線配置、流體輸送、化工單元規格設計等。\nApplication of chemical engineering science techniques to design of chemical processes. Comprehensive problems are assigned which include heat, material and economic balances, unit operations and processes, kinetics and thermodynamics.\nThe major responsibility is placed on individuals or small groups for the optimum design and selection of equipment, and for the calculations of required sizes, plant layout, and cost analyses.",
     "schedule": "Week 1: Physical Property Methods, Parameters and Data\nWeek 2: Basics of Process Flowsheet Simulation\nWeek 3: Simulation of Heat Exchangers\nWeek 4: Simulation with Model Analysis Tools\nWeek 5: Simulation of Separators and Columns\nWeek 6: Simulation of Chemical Reactors\nWeek 7: Simulation of Chemical Plants (Progress Report)\nWeek 8: Process Design, Integration and Economics\nWeek 9: Midterm Proposal\nWeek 10: Process Design Workshop\nWeek 11: Process Design Workshop (Progress Report)\nWeek 12: Process Design Workshop\nWeek 13: Process Design Workshop (Progress Report)\nWeek 14: Process Design Workshop\nWeek 15: Process Design Workshop (Progress Report)\nWeek 16: Process Design Workshop\nWeek 17: Process Design Workshop (Progress Report)\nWeek 18: Final Report",
     "scorePolicy": "Assignments (10%): in-class worksheets\nProgress Reports (30%): biweekly written reports, calculation sheets\nMidterm Proposal (10%): written report, calculation sheets, oral presentation\nFinal Report (50%): written report, calculation sheets, oral presentation, e-poster, simulation files",
     "materials": "Self-made materials\n\nSeider, W. D., Seader, J. D., Lewin, D. R. (2003). Product and Process Design Principles: Synthesis, Analysis and Evaluation. Wiley.\n\nTowler, G., Sinnott, R. (2021). Chemical Engineering Design: Principles, Practice and Economics of Plant and Process Design. Butterworth-Heinemann.\n\nAspen Plus Unit Operation Models. Aspen Technology, Inc.",
     "consultation": "Email",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG4：優質教育（Quality Education）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

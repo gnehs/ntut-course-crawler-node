@@ -1,0 +1,32 @@
+[
+  {
+    "teacher": "曾恕銘",
+    "email": "shuming@ntut.edu.tw",
+    "latestUpdate": "2022-04-09 14:53:10",
+    "outline": "This course contains labs with source codes and step-by-step instructions. The course adopts problem based lerning, concentrating on the necessary background on these machine learning labs. The content includes introduction and computer tools, DNN with labs, learning methods with labs, CNN with labs, autoencoder with labs, and latest self attention/transformer case study Video Chaptering appliable to Youtube.",
+    "schedule": "Week 1: Machine learning introduction and computer tools,\nDeep Neural Networks (DNN)with Labs\nWeek 2: Learning methods with Labs\nConvolutional Neural Network (CNN) with Labs\nAutoencoder with Labs\nWeek 3:Self attention/transformer case study Video Chaptering\nLab report (one group of 3-4 students reports one lab)",
+    "scorePolicy": "Lab report (one group report one lab)",
+    "materials": "References\nTan, Steinbach, Karpatne, Kumar, Introduction to Data Mining, 2e, 2019.\nMendenhall and Sincich, Statistics for engineering and the sciences, 5/e, Prentice Hall.\nZheng Yuxi, A Preliminary Study on Key Technologies of Artificial Intelligence, 2019.8.26\nJinwoo Shin, Deep Learning for Optimization, Communication and Networks, The East Asian School of Information Theory & Communication (EASITC), August 6-10, 2018\nhttps://www-users.cs.umn.edu/~kumar001/dmbook/index.php#item4\nhttp://www.willamette.edu/~gorr/classes/cs449/intro.html\nhttps://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html\nhttp://www.aiotlab.org/teaching/dl_app.html\nNVIDIA DLI Deep Learning Basic Theory and Practice\nMicrosoft Azure Service Custom Vision Cavedu Education Team\nGenerate Network_Zeng Jihong 02_Auto Encoder\nZhai, Xiaohua, et al. \"S4l: Self-supervised semi-supervised learning.\" Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.",
+    "consultation": "",
+    "remarks": "If the distance class becomes necessary, all lectures, exam, oral reports will be held via Microsoft Teams. We will have roll calls and you may be required to turn on the camera and mic in the class.",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "teacher": "蔡偉和",
+    "email": "whtsai@ntut.edu.tw",
+    "latestUpdate": "2022-01-21 16:55:14",
+    "outline": "The goal of this course is to introduce ideas and principles behind machine learning. We will teach the learning strategies including supervised, unsupervised, and reinforcement. The structures of machine learning including Symbolists (Decision Tree etc.), Bayesian Statistics, Analogizers (kNN, K-means etc.), Evolutionaries (GA etc.), Deep learning, Natural Language Processing and Speech Recognition will be elaborated. The course also provides case studies including 5G wireless resource allocation, video scene boundary detection and speech chatbots.",
+    "schedule": "1. Introduction to Machine Learning (1.5hr)\n2. Supervised Learning, e.g., Decision Tree, kNN, SVM (6hr)\n3. Unsupervised Learning, e.g., K-means Clustering, Hierarchical Clustering (3hr)\n4. Machine Learning with WEKA (6hr)\n5. Bayesian Statistics (4.5)\n6. Evolutionary Computing (3hr)\n7. Case Study 1: Radio Resource Allocation (6hr)\n8. Case Study 2: Video Coding and Scene Boundary Detection (6hr)\n9. Case Study 3: Natural Language Processing (9hr)\n10. Case Study 4: Speech Recognition (9hr)",
+    "scorePolicy": "Attendance and participation 20%\nLab report 80%",
+    "materials": "1. Tan, Steinbach, Karpatne, Kumar, Introduction to Data Mining, 2e, 2019\n2. Mendenhall and Sincich, Statistics for engineering and the sciences, 5/e, Prentice Hall.\n3. Terje Kristensen, Computational Intelligence, Evolutionary Computing and Evolutionary Clustering Algorithms. Sharjah, U.A.E.: Bentham Science Publishers. 2016\n4. Dong Yu and Li Deng, Automatic Speech Recognition, A Deep Learning Approach. Springer, 2015",
+    "consultation": "",
+    "remarks": "若因疫情而暫停實體上課時，將使用Google Meet 視訊上課，會議網址將公告於北科i學園，或請洽 whtsai@ntut.edu.tw 詢問。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

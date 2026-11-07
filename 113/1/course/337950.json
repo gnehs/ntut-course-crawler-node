@@ -1,15 +1,18 @@
 [
   {
-    "name": "伊柏文",
+    "teacher": "伊柏文",
     "email": "yibeltal_chanie@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12242",
     "latestUpdate": "2024-11-27 16:15:20",
-    "objective": "1. 深度學習介紹，2. 監督式學習，3. 無監督式學習，4. 物聯網，5. 感知層，6. 網路層，7. 應用層，8. 深度學習與物聯網應用實例。\n1. Introduction to Deep Learning, 2. Supervised Learning, 3. Unsupervised Learning, 4. Internet of Things, 5. Perception Layer, 6. Network Layer, 7. Application Layer, 8. Deep Learning and Internet of Things",
-    "schedule": "1-2  Introduction to Deep Learning\n3-4. Supervised Learning\n5-6. Unsupervised Learning, \n7-8. Internet of Things, \n9-10. Perception Layer, \n11-12. Network Layer, \n13-14. Application Layer\n15-16. Deep Learning and Internet of Things\n17-18 Final Report",
+    "outline": "1.深度學習介紹，2.監督式學習，3.無監督式學習，4.物聯網，5.感知層，6.網路層，7.應用層，8. 深度學習與物聯網應用實例。\n1. Introduction to Deep Learning, 2. Supervised Learning, 3. Unsupervised Learning, 4. Internet of Things, 5. Perception Layer, 6. Network Layer, 7. Application Layer, 8. Deep Learning and Internet of Things",
+    "schedule": "1-2 Introduction to Deep Learning\n3-4. Supervised Learning\n5-6. Unsupervised Learning,\n7-8. Internet of Things,\n9-10. Perception Layer,\n11-12. Network Layer,\n13-14. Application Layer\n15-16. Deep Learning and Internet of Things\n17-18 Final Report",
     "scorePolicy": "Homework: 50%\nAttendance:10%\nFinal project and report: 40%",
-    "materials": "References :\n\n1. Goodfellow, I., Bengio, Y. & Courville, A.: Deep Learning. 2016, MIT.\n2. B.K. Tripathy, J. Anuradham: Internet of Things(IoT): Technologies, \n    Applications, Challenges and Solutions, CRC Press, Taylor and Francis, \n    2017\n3.  Anirudh Koul, Siddha Ganju, Meher Kasam: Practical Deep Learning for \n    Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using \n    Python, Keras & TensorFlow 1st Edition",
+    "materials": "References :\n\n1. Goodfellow, I., Bengio, Y. & Courville, A.: Deep Learning. 2016, MIT.\n2. B.K. Tripathy, J. Anuradham: Internet of Things(IoT): Technologies,\nApplications, Challenges and Solutions, CRC Press, Taylor and Francis,\n2017\n3. Anirudh Koul, Siddha Ganju, Meher Kasam: Practical Deep Learning for\nCloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using\nPython, Keras & TensorFlow 1st Edition",
     "consultation": "email: yibeltal_chanie@mail.ntut.edu.tw",
-    "課程對應SDGs指標": "無（None）",
-    "remarks": "For weeks  13: Students will be watching video about the application of Deep learning for IoT in the iSchool_Plus",
+    "remarks": "For weeks 13: Students will be watching video about the application of Deep learning for IoT in the iSchool_Plus",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

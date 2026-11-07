@@ -1,15 +1,27 @@
 [
   {
-    "name": "高淩菁",
+    "teacher": "高淩菁",
     "email": "lingjingkao@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11492",
     "latestUpdate": "2024-12-19 14:31:23",
-    "objective": "本課程的重點在於闡述統計學之基本概念，主要的內容涵蓋三個領域：敘述統計、機率理論與推論統計，其中包含概念介紹、敘述統計、機率理論、推論統計。另有統計學的應用領域於推論未知的情況以作為相關決策之依據，並包含統計軟體使用介紹。\nThe purpose of Statistics is to give students an introductory of statistical thinking, methods development and the assessment of credibility and value of inferences made from data.  A conceptual introduction to the field of statistics and its many applications with extensive coverage of data collection and analysis as needed to evaluate the reported results of statistical students and make a good decision will be included as well. The statistical software introduction will also be introduced in the class.",
-    "schedule": "週次\t日期\t課程大綱進度\n1\t2/17\tCourse overview\n2\t2/24\tCh7 Interval Estimation\n3\t3/3\tCh7 Interval Estimation\n4\t3/10\tCh8 Interval Estimation\n5\t3/17\tCh8 Interval Estimation\n6\t3/24\tCh9 Hypothesis Testing\n7\t3/31\tCh9 Hypothesis Testing\n8\t4/7\tReview for Midterm\n9\t4/14\tMidterm Exam (Ch7-Ch9)\n10\t4/21\tCh10 Inference about Means and Proportions with Two Populations\n11\t4/28\tCh10 Inference about Means and Proportions with Two Populations\n12\t5/5\tCh11 Inference about Population Variances\n13\t5/12\tCh11 Inference about Population Variances\n14\t5/19\tCh12 Comparing Multiple Proportions,, Test of Independence and Goodness of Fit\n15\t5/26\tCh12 Comparing Multiple Proportions,, Test of Independence and Goodness of Fit\n16\t6/2\tCh13 Experimental Design and Analysis of Variance\n17\t6/9\tCh13 Experimental Design and Analysis of Variance\n18\t6/16\tFinal Exam (Ch10-Ch13)",
-    "scorePolicy": "Midterm: 40%\t\nFinal: 40%\t\nTest: 20% \n\n＊需通過上學期統計一才能修習本課程",
+    "outline": "本課程的重點在於闡述統計學之基本概念，主要的內容涵蓋三個領域：敘述統計、機率理論與推論統計，其中包含概念介紹、敘述統計、機率理論、推論統計。另有統計學的應用領域於推論未知的情況以作為相關決策之依據，並包含統計軟體使用介紹。\nThe purpose of Statistics is to give students an introductory of statistical thinking, methods development and the assessment of credibility and value of inferences made from data. A conceptual introduction to the field of statistics and its many applications with extensive coverage of data collection and analysis as needed to evaluate the reported results of statistical students and make a good decision will be included as well. The statistical software introduction will also be introduced in the class.",
+    "schedule": "週次 日期 課程大綱進度\n1 2/17 Course overview\n2 2/24 Ch7 Interval Estimation\n3 3/3 Ch7 Interval Estimation\n4 3/10 Ch8 Interval Estimation\n5 3/17 Ch8 Interval Estimation\n6 3/24 Ch9 Hypothesis Testing\n7 3/31 Ch9 Hypothesis Testing\n8 4/7 Review for Midterm\n9 4/14 Midterm Exam (Ch7-Ch9)\n10 4/21 Ch10 Inference about Means and Proportions with Two Populations\n11 4/28 Ch10 Inference about Means and Proportions with Two Populations\n12 5/5 Ch11 Inference about Population Variances\n13 5/12 Ch11 Inference about Population Variances\n14 5/19 Ch12 Comparing Multiple Proportions,, Test of Independence and Goodness of Fit\n15 5/26 Ch12 Comparing Multiple Proportions,, Test of Independence and Goodness of Fit\n16 6/2 Ch13 Experimental Design and Analysis of Variance\n17 6/9 Ch13 Experimental Design and Analysis of Variance\n18 6/16 Final Exam (Ch10-Ch13)",
+    "scorePolicy": "Midterm: 40%\nFinal: 40%\nTest: 20%\n\n＊需通過上學期統計一才能修習本課程",
     "materials": "Statistics for Business and Economics, by Anderson, Sweeney, Williams, Camm, Cochran, Fry, and Ohlmann, 15th Edition",
-    "consultation": "Microsoft Teams 及 授課老師 email",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：※「一級」警戒：實體授課。※「三級」(含) 以上警戒：課程全採遠距授課。※「二級」警戒，授課方式說明如下：● 上課方式： 以 Microsfot Teams 遠距上課● 聯繫方式： 統計學 Microsoft Teams 社群",
-    "foreignLanguageTextbooks": true
+    "consultation": "Microsoft Teams 及 授課老師email",
+    "remarks": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採遠距授課。\n※「二級」警戒，授課方式說明如下：\n● 上課方式： 以Microsfot Teams遠距上課\n● 聯繫方式： 統計學Microsoft Teams社群",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true,
+    "covid19": {
+      "lv2Description": "本學期課程因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：\n※「一級」警戒：實體授課。\n※「三級」(含)以上警戒：課程全採遠距授課。\n※「二級」警戒，授課方式說明如下：\n● 上課方式： 以Microsfot Teams遠距上課\n● 聯繫方式： 統計學Microsoft Teams社群",
+      "courseScoreMethod": null,
+      "courseInfo": null,
+      "courseURL": null,
+      "contactInfo": null,
+      "additionalInfo": null,
+      "lv2Method": "以Microsfot Teams遠距上課"
+    }
   }
 ]

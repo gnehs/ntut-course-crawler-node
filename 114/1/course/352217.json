@@ -1,16 +1,18 @@
 [
   {
-    "name": "曾柏軒",
+    "teacher": "曾柏軒",
     "email": "phtseng@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11635",
     "latestUpdate": "2025-09-02 13:29:36",
-    "objective": "本課程探討地面站網路切片技術及其在實際應用中的服務品質保證方法。課程將涵蓋地面站網路的基本概念，包括結構、架構，以及與通訊系統相關的各種技術。學生將透過深入理論學習和實務案例，瞭解地面站網路切片的原理及其在提供不同服務的情境中的優勢。在課程中，學生將學習如何實施地面站網路切片，包括網路資源分配、優先權設定，以及切片之間的隔離。透過實作專案，學生將有機會實際設計、配置和管理地面站網路切片，以應對不同應用場景下的需求。此外，課程將探討服務品質保證技術，包括流量管理、延遲優化、及網路監控等方面。學生將學習如何測量、分析和改進地面站網路切片的服務品質，以確保滿足各種應用的需求。最後，課程也將討論地面站網路切片的未來趨勢，包括與新興技術的整合、標準化發展，以及面臨的挑戰。透過該課程，學生將具備地面站網路切片及服務品質保證的專業知識和實作技能。\nThis course explores practical applications and methods of network slicing for ground stations, emphasizing service quality assurance. It covers fundamental concepts, implementation techniques, and hands-on projects related to ground station network slicing. Students learn to design, configure, and manage slices, ensuring effective communication for various applications. The course also addresses Quality of Service (QoS) technologies and discusses future trends in ground station network slicing.",
-    "schedule": "** 第一週 (9/8) 因老師出差停課一次，課程將於第二週講解課程內容 / 評分方式，若有任何相關問題歡迎來信。\n\nWeek 2-4 計算機網路基礎\nWeek 5-9 軟體定義網路\nWeek 10-15 網路切片技術與 ORAN 技術\nWeek 16 期末測驗\nWeek 17-18 期末專題展示 / 論文報告",
-    "scorePolicy": "期末測驗 30%\n實驗作業  30% (軟體定義網路，網路切片相關實驗，共計三個實驗)\n分組期末專題 20%\n期末報告 20% (相關論文閱讀)",
+    "outline": "本課程探討地面站網路切片技術及其在實際應用中的服務品質保證方法。課程將涵蓋地面站網路的基本概念，包括結構、架構，以及與通訊系統相關的各種技術。學生將透過深入理論學習和實務案例，瞭解地面站網路切片的原理及其在提供不同服務的情境中的優勢。在課程中，學生將學習如何實施地面站網路切片，包括網路資源分配、優先權設定，以及切片之間的隔離。透過實作專案，學生將有機會實際設計、配置和管理地面站網路切片，以應對不同應用場景下的需求。此外，課程將探討服務品質保證技術，包括流量管理、延遲優化、及網路監控等方面。學生將學習如何測量、分析和改進地面站網路切片的服務品質，以確保滿足各種應用的需求。最後，課程也將討論地面站網路切片的未來趨勢，包括與新興技術的整合、標準化發展，以及面臨的挑戰。透過該課程，學生將具備地面站網路切片及服務品質保證的專業知識和實作技能。\nThis course explores practical applications and methods of network slicing for ground stations, emphasizing service quality assurance. It covers fundamental concepts, implementation techniques, and hands-on projects related to ground station network slicing. Students learn to design, configure, and manage slices, ensuring effective communication for various applications. The course also addresses Quality of Service (QoS) technologies and discusses future trends in ground station network slicing.",
+    "schedule": "**第一週(9/8)因老師出差停課一次，課程將於第二週講解課程內容/評分方式，若有任何相關問題歡迎來信。\n\nWeek 2-4 計算機網路基礎\nWeek 5-9 軟體定義網路\nWeek 10-15 網路切片技術與 ORAN 技術\nWeek 16 期末測驗\nWeek 17-18 期末專題展示/論文報告",
+    "scorePolicy": "期末測驗 30%\n實驗作業 30% (軟體定義網路,網路切片相關實驗，共計三個實驗)\n分組期末專題 20%\n期末報告 20% (相關論文閱讀)",
     "materials": "Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud, by WILLIAM STALLINGS",
     "consultation": "email",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "無",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": false
   }
 ]

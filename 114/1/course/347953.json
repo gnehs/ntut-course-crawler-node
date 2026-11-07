@@ -1,16 +1,18 @@
 [
   {
-    "name": "李達生",
+    "teacher": "李達生",
     "email": "f11167@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11167",
     "latestUpdate": "2025-06-01 08:02:07",
-    "objective": "基本控制系統的動作方式、位置控制、比例控制、積分控制、微分控制、各種組合控制、氣壓控制裝置、電動及電子控制裝置、液壓控制裝置、空調設備上的各種控制包括溫度、壓力、風量、濕度等之控制。\nTo provide students with the concepts of control actions: two position control, proportional control, floating control, integral control, derivative control; to familiarize students with pneumatic control devices, fluid control devices, damper & valves, elementary control systems on HVAC & R systems, include: temperature control, humidity control, static pressure control, flow control and so on.",
-    "schedule": "1 自動控制理論發展\n2 自控系統設計實例\n3 Laplace Transform\n4 自動控制系統穩定度分析\n5 自動控制系統性能分析\n6-7 PID controller design\n8 期中考\n9 冷凍空調控制系統設計範例\n10 各類控制元件作動原理\n11-14 AI 輔助故障診斷\n15-17 AI 輔助先進控制系統設計範例\n18\t期末考",
-    "scorePolicy": "作業 30% + 期中考 30% + 期末考 40%",
-    "materials": "1. 自編講義與已發表 SCI 期刊研究內容說明\n2. 基礎理論說明 Richard, C. Dorf., Modern Control Systems, ADDISON-WESLEY, 1991.",
-    "consultation": "每周一次 (時間上課時公告) 3 小時至工綜 610 室諮詢",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
-    "remarks": "說明 Evolutionary Algorithm、Expert System、Distinguish AI、Predictive AI and Generative AI 應用於冷凍空調與節能控制之發展。",
+    "outline": "基本控制系統的動作方式、位置控制、比例控制、積分控制、微分控制、各種組合控制、氣壓控制裝置、電動及電子控制裝置、液壓控制裝置、空調設備上的各種控制包括溫度、壓力、風量、濕度等之控制。\nTo provide students with the concepts of control actions: two position control, proportional control, floating control, integral control, derivative control; to familiarize students with pneumatic control devices, fluid control devices, damper & valves, elementary control systems on HVAC & R systems, include: temperature control, humidity control, static pressure control, flow control and so on.",
+    "schedule": "1 自動控制理論發展\n2 自控系統設計實例\n3 Laplace Transform\n4 自動控制系統穩定度分析\n5 自動控制系統性能分析\n6-7 PID controller design\n8 期中考\n9 冷凍空調控制系統設計範例\n10 各類控制元件作動原理\n11-14 AI輔助故障診斷\n15-17 AI輔助先進控制系統設計範例\n18 期末考",
+    "scorePolicy": "作業30% + 期中考30% + 期末考40%",
+    "materials": "1. 自編講義與已發表SCI期刊研究內容說明\n2. 基礎理論說明 Richard, C. Dorf., Modern Control Systems, ADDISON-WESLEY, 1991.",
+    "consultation": "每周一次(時間上課時公告)3小時至工綜610室諮詢",
+    "remarks": "說明Evolutionary Algorithm、Expert System、Distinguish AI、Predictive AI and Generative AI應用於冷凍空調與節能控制之發展。",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 使用生成式AI進行課堂即時互動（Use generative AI for real-time classroom interaction）\n● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": true
   }
 ]

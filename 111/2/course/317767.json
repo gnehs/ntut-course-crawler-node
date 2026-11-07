@@ -1,14 +1,18 @@
 [
   {
-    "name": "莊賀喬",
+    "teacher": "莊賀喬",
     "email": "hchuang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=111&sem=2&code=11394",
     "latestUpdate": "2023-02-08 18:17:26",
-    "objective": "使用 Python 3 帶同學理解以下主題，並請業師曾吉弘一同協助授課，建議具備 Python 基礎程式能力：\n資料處理 / 深度學習 / 機器視覺\nUse Python3 to guide students to understand the following topics, and ask the teacher Zeng to assist in teaching. It is recommended to have basic Python programming skills: data processing /deep learning /machine vision\n程式語言：Python3 \n神經網路框架使用 TensorFlow\n開發環境：Google Colab / PC 端安裝 Anaconda Python",
-    "schedule": "2/23\t人工智慧的基本觀念\n資料、問題類型、演算法的分類與範例\n人工智慧演算法用途等等的基本常識與概念。\n3/02\t機器學習 – 決策樹\n3/09\t機器學習 – 迴歸\n3/16\t深度學習神經網路 – 神經網路架構、如何學習\n3/23\t深度學習神經網路 – 推論、資料增強\n3/30\t深度學習神經網路 – 預訓練模型\n4/06\t深度學習神經網路 – 遷移學習、微調\n4/13\t準備期中考\n4/20\t期中考\n4/27\t物件偵測 YOLOV4 \n5/04\tNLP 自然語言處理 – 遞歸神經網路\n5/11\tNLP 自然語言處理 – 遞歸神經網路\n5/18\tNLP 自然語言處理 – 遞歸神經網路\n5/25\t淺談生成網路 – 自動編碼器\n6/01\t淺談生成網路 – GAN / 神經風格轉換\n6/08\t準備期末考\n6/15\t期末考試",
-    "scorePolicy": "出席率 10%\n作業 30%\n期中展示 25%\n期末展示 35%",
+    "outline": "使用 Python 3 帶同學理解以下主題，並請業師曾吉弘一同協助授課，建議具備Python基礎程式能力：\n資料處理 / 深度學習 / 機器視覺\nUse Python3 to guide students to understand the following topics, and ask the teacher Zeng to assist in teaching. It is recommended to have basic Python programming skills: data processing / deep learning / machine vision\n程式語言：Python3\n神經網路框架使用 TensorFlow\n開發環境：Google Colab / PC 端安裝 Anaconda Python",
+    "schedule": "2/23 人工智慧的基本觀念\n資料、問題類型、演算法的分類與範例\n人工智慧演算法用途等等的基本常識與概念。\n3/02 機器學習 – 決策樹\n3/09 機器學習 – 迴歸\n3/16 深度學習神經網路 – 神經網路架構、如何學習\n3/23 深度學習神經網路 – 推論、資料增強\n3/30 深度學習神經網路 – 預訓練模型\n4/06 深度學習神經網路 – 遷移學習、微調\n4/13 準備期中考\n4/20 期中考\n4/27 物件偵測 YOLOV4\n5/04 NLP自然語言處理 – 遞歸神經網路\n5/11 NLP自然語言處理 – 遞歸神經網路\n5/18 NLP自然語言處理 – 遞歸神經網路\n5/25 淺談生成網路 – 自動編碼器\n6/01 淺談生成網路 – GAN / 神經風格轉換\n6/08 準備期末考\n6/15 期末考試",
+    "scorePolicy": "出席率10%\n作業30%\n期中展示 25%\n期末展示 35%",
     "materials": "自編教材",
-    "consultation": "透過 每週五上午 9:00 的 Office Hour 綜合科館 325 室 可諮詢所有與課程相關的內容",
-    "remarks": "線上即時課程  網址如下 meet.google.com/peq-msro-nzn",
+    "consultation": "透過 每週五上午9:00的 Office Hour 綜合科館 325室 可諮詢所有與課程相關的內容",
+    "remarks": "線上即時課程 網址如下\n\nmeet.google.com/peq-msro-nzn",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

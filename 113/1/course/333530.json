@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳澤興",
+    "teacher": "陳澤興",
     "email": "tzershing.chen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12467",
     "latestUpdate": "2024-09-08 19:03:29",
-    "objective": "本門課內容包括以下﹕能量與動力原理，燃料與燃燒簡介，鍋爐與熱交換器簡介，渦輪機與內燃機，核能與水力發電動力廠\nThis course is an introduction to the following topics﹔principles of energy and power, fuels and combustion, boiler and heat exchanger, turbine and internal combustion systems, nuclear and hydraulic power plants.",
-    "schedule": "第 01 週 (09/09、09/12) : 第一講 熱力工程的原理 (一) 系統與平衡\n第 02 週 (09/16、09/19) : 第二講 熱力工程的原理 (二) 熱力學定律\n第 03 週 (09/23、09/26) : 第三講 熱力工程的原理 (三) 純物質\n第 04 週 (09/30、10/03) : 第四講 動力工程的原理 \n第 05 週 (10/07、10/10 停課) : 第五講 熱力學第一定律 (小考 1)\n第 06 週 (10/14、10/17) : 第五講 熱力學第一定律\n第 07 週 (10/21、10/24) : 第六講 熱力學第二定律 (一)\n第 08 週 (10/28、10/31) : 第七講 熱力學第二定律 (二) (含小考 1 解說)\n第 09 週 (11/04、11/07) : 期中考\n第 10 週 (11/11、11/14) : 第八講 內燃機種類 (一) 奧圖循環\n第 11 週 (11/18、11/21) : 第九講 內燃機種類 (二) 迪塞爾循環\n第 12 週 (11/25、11/28) : 第十講 外燃機種類 (一) 史特靈循環\n第 13 週 (12/02、12/05) : 第十一講 空氣動力循環 (一) 布雷頓循環\n第 14 週 (12/09、12/12) : 第十二講 空氣動力循環 (二) 朗肯循環 (小考 2)\n第 15 週 (12/16、12/19) : 第十三講 空氣動力循環 (三) 朗肯再熱循環 \n第 16 週 (12/23、12/26) : 第十四講 再生能源 (含小考 2 解說)\n第 17 週 (12/30、01/02) : 期末考\n第 18 週 (01/06、01/09) : 期末考檢討\n上述課程內容視學生學習狀況適時調整進度。",
-    "scorePolicy": "1. 出缺席狀況 (18 %) → 無故缺席扣 3% / 次 (向教務處請事病假扣 1%/ 次)\n2. 期中考        (30 %)\n3. 期末考        (30 %)\n4. 小考 2 次      (20%)\n5. 課堂討論     (2%)",
-    "materials": "1. 個人自編講義\n參考書目:\n1. 見課堂說明之參考書目",
-    "consultation": "1. 課程諮詢時間 Office hour: 每周一 (17:00~20:00) 2. 開學後組成線上群組 Line group discussion: to be announced.",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
-    "remarks": "遠距上課授課及評量方式說明如下：1. 上課方式：線上會議室 Google Meet2. 課程資訊 line 群組: to be announced.3. 評量方式：期中考、期末考改採自主測驗 (take home exam) 加線上口試。",
+    "outline": "本門課內容包括以下﹕能量與動力原理，燃料與燃燒簡介，鍋爐與熱交換器簡介，渦輪機與內燃機，核能與水力發電動力廠\nThis course is an introduction to the following topics﹔principles of energy and power, fuels and combustion, boiler and heat exchanger, turbine and internal combustion systems, nuclear and hydraulic power plants.",
+    "schedule": "第01週(09/09、09/12) : 第一講 熱力工程的原理(一) 系統與平衡\n第02週(09/16、09/19) : 第二講 熱力工程的原理(二) 熱力學定律\n第03週(09/23、09/26) : 第三講 熱力工程的原理(三) 純物質\n第04週(09/30、10/03) : 第四講 動力工程的原理\n第05週(10/07、10/10停課) : 第五講 熱力學第一定律(小考1)\n第06週(10/14、10/17) : 第五講 熱力學第一定律\n第07週(10/21、10/24) : 第六講 熱力學第二定律(一)\n第08週(10/28、10/31) : 第七講 熱力學第二定律(二) (含小考1解說)\n第09週(11/04、11/07) : 期中考\n第10週(11/11、11/14) : 第八講 內燃機種類(一)奧圖循環\n第11週(11/18、11/21) : 第九講 內燃機種類(二)迪塞爾循環\n第12週(11/25、11/28) : 第十講 外燃機種類(一)史特靈循環\n第13週(12/02、12/05) : 第十一講 空氣動力循環(一)布雷頓循環\n第14週(12/09、12/12) : 第十二講 空氣動力循環(二)朗肯循環(小考2)\n第15週(12/16、12/19) : 第十三講 空氣動力循環(三)朗肯再熱循環\n第16週(12/23、12/26) : 第十四講 再生能源(含小考2解說)\n第17週(12/30、01/02) : 期末考\n第18週(01/06、01/09) : 期末考檢討\n上述課程內容視學生學習狀況適時調整進度。",
+    "scorePolicy": "1.出缺席狀況(18 %) → 無故缺席扣3% /次 (向教務處請事病假扣1%/次)\n2.期中考 (30 %)\n3.期末考 (30 %)\n4.小考2次 (20%)\n5.課堂討論 (2%)",
+    "materials": "1.個人自編講義\n參考書目:\n1.見課堂說明之參考書目",
+    "consultation": "1. 課程諮詢時間Office hour: 每周一 ( 17:00~20:00 )\n2. 開學後組成線上群組Line group discussion: to be announced.",
+    "remarks": "遠距上課授課及評量方式說明如下：\n1. 上課方式：線上會議室 Google Meet\n2. 課程資訊 line群組: to be announced.\n3. 評量方式：期中考、期末考改採自主測驗(take home exam)加線上口試。",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG6：潔淨水與衛生（Clean Water and Sanitation）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG13：氣候行動（Climate Action）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

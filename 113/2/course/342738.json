@@ -1,15 +1,18 @@
 [
   {
-    "name": "鄭有進",
+    "teacher": "鄭有進",
     "email": "yccheng@ntut.edu.tw",
-    "latestUpdate": "2024-12-18 19:00:07",
-    "objective": "程式語言為計算機軟體之基礎，本課程主要探討程式語言之類型以及各種語言之設計原理與特色，經由對這些原理及特色之了解，程式設計師便可針對各類應用之特性選擇最合適之語言。本課程內容包括：1. 程式語言之發展與分類，2. 設計原理，3. 語法與語意，4. 資料型態，5. 控制結構，6. 正規語言，7. 抽象資料型態，8. 物件導向程式語言，9. 函式語言，10. 邏輯語言，11. 平行處理語言。",
-    "schedule": "01 Introduction\n02 Programming Language Syntax\n03 Theoretical Foundations\n04 Names, Scopes, and Bindings\n05 Semantic Analysis\n06 Control Flow\n07 Type Systems\n08 Composite Types\n09 Midterm\n10 Subroutines and Control Abstraction\n11 Data Abstraction and Object Orientation\n12 Functional Languages (I)\n13 Functional Languages (II)\n14 Logic Languages\n15 Concurrency \n16 Scripting Languages\n17 Building a Runnable Program; \n     Run-time Program Management\n18 Final Exam",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10663",
+    "latestUpdate": "2025-02-18 16:07:16",
+    "outline": "程式語言為計算機軟體之基礎，本課程主要探討程式語言之類型以及各種語言之設計原理與特色，經由對這些原理及特色之了解，程式設計師便可針對各類應用之特性選擇最合適之語言。本課程內容包括：1.程式語言之發展與分類，2.設計原理，3.語法與語意，4.資料型態，5.控制結構，6.正規語言，7.抽象資料型態，8.物件導向程式語言，9.函式語言，10.邏輯語言，11.平行處理語言。",
+    "schedule": "structured programming\n1. Cookbook\n2. Monolithic\n3. Pipeline\nfunctional programming\n4. Infinite Mirror\n5. Kick Forward\n6. The One\nobject-oriented programming\n7. Things\n8. Letter Box\n9. Midterm\n10. Abstract Things\n11. Hollywood\n12. Bulletin Board\nconcurrency\n13. Map Reduce\n14. Selected topic\n15. Selected topic\n16. Selected topic\n17. Selected topic\n18. Final",
     "scorePolicy": "Homework 50%\nMidterm 25%\nFinal 25%",
-    "materials": "參考書目\n\nMichael L. Scott, Programming Language Pragmatics, Fourth Edition, Morgan Kaufmann (Elsevier), 2016",
-    "consultation": "1. At office hours2. By social media group (to be announced) 3. contact instructor or TA by email",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "materials": "參考書目\n\nDonovan, Alan AA, and Brian W. Kernighan. The Go programming language. Addison-Wesley Professional, 2015.\n\nCristina Videira Lopes, Exercises in Programming Style, First Edition, Chapman and Hall/CRC, 2014.\n\nMichael L. Scott, Programming Language Pragmatics, Fourth Edition, Morgan Kaufmann (Elsevier), 2016",
+    "consultation": "1. At office hours\n2. By social media group (to be announced)\n3. contact instructor or TA by email",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

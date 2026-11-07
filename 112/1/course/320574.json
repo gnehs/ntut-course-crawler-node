@@ -1,14 +1,18 @@
 [
   {
-    "name": "林惠勇",
+    "teacher": "林惠勇",
     "email": "lin@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=1&code=12397",
     "latestUpdate": "2023-08-26 10:35:59",
-    "objective": "課程內容包含：數字系統的轉換與各種數位碼表示法、邏輯閘特性、邏輯電路的化簡技術、組合邏輯電路及應用、正反器特性與序向邏輯計數器電路之設計。",
-    "schedule": "1. 數字系統\n2. 基本邏輯閘與布林代數\n3. 邏輯電路的化簡技術\n4. 組合邏輯應用電路\n5. 正反器特性\n6. 暫存器\n7. 同步計數器電路\n8. 非同步計數器電路",
+    "outline": "課程內容包含：數字系統的轉換與各種數位碼表示法、邏輯閘特性、邏輯電路的化簡技術、組合邏輯電路及應用、正反器特性與序向邏輯計數器電路之設計。",
+    "schedule": "1.數字系統\n2.基本邏輯閘與布林代數\n3.邏輯電路的化簡技術\n4.組合邏輯應用電路\n5.正反器特性\n6.暫存器\n7.同步計數器電路\n8.非同步計數器電路",
     "scorePolicy": "Homework, Exam",
     "materials": "Mano and Ciletti, Digital Design, 6th Edition, Pearson",
     "consultation": "Office Hours.",
-    "remarks": "(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

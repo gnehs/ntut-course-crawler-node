@@ -1,14 +1,18 @@
 [
   {
-    "name": "羅元隆",
+    "teacher": "羅元隆",
     "email": "yllo@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12243",
     "latestUpdate": "2024-05-15 23:32:40",
-    "objective": "This course bridges the learning subjects in the undergraduate courses and the future subjects in graduate courses. The content is focused on an SDOF system's governing equation. Students will review what they’ve already learned in their first three years and learn two approaches to dynamic analysis. The main content includes reviews of solutions to 2nd order differential equations, problem statements, free vibration, response to harmonic and periodic excitations, response to arbitrary, step, and pulse excitations, numerical evaluation of dynamic response, and estimation of earthquake responses of a linear system.",
+    "outline": "This course bridges the learning subjects in the undergraduate courses and the future subjects in graduate courses. The content is focused on an SDOF system's governing equation. Students will review what they’ve already learned in their first three years and learn two approaches to dynamic analysis. The main content includes reviews of solutions to 2nd order differential equations, problem statements, free vibration, response to harmonic and periodic excitations, response to arbitrary, step, and pulse excitations, numerical evaluation of dynamic response, and estimation of earthquake responses of a linear system.",
     "schedule": "W01: Derivation and solutions of 2nd order ODEs\nW02: Static analysis of trusses, beams, and frames\nW03: Equation of motion, problem statement, and solution methods\nW04: Free vibration\nW05: Free vibration\nW06: Response to harmonic and periodic excitations\nW07: Response to harmonic and periodic excitations\nW08: Mid-term Exam (Written Test)\nW09: Response to arbitrary step and pulse excitations\nW10: Response to arbitrary step and pulse excitations\nW11: Response to arbitrary step and pulse excitations\nW12: Numerical evaluation of dynamic response\nW13: Numerical evaluation of dynamic response\nW14: Numerical evaluation of dynamic response (MATLAB programming)\nW15: Earthquake response of linear systems\nW16: Earthquake response of linear systems\nW17: Final Exam (Written Test)\nW18: Report submission",
     "scorePolicy": "Attendance: 15%\nMid-term Exam: 30%\nFinal Exam: 30%\nReport: 25%",
     "materials": "Dynamics of Structures – Theory and Applications to Earthquake Engineering 4th ed by Anil K. Chopra",
-    "consultation": "2024 年 4 月 24 公告：根據學校教務處公告，本學期第 17、18 週採用線上教學進行，以下為連結會議網址：https://meet.google.com/trj-maiy-eva。聯絡電子信箱可以寄到羅老師信箱：yllo@mail.ntut.edu.tw。",
-    "remarks": "2024 年 4 月 24 公告：根據學校教務處公告，本學期第 17、18 週採用線上教學進行，以下為連結會議網址：https://meet.google.com/trj-maiy-eva。聯絡電子信箱可以寄到羅老師信箱：yllo@mail.ntut.edu.tw。",
+    "consultation": "2024年4月24公告：根據學校教務處公告，本學期第17、18週採用線上教學進行，以下為連結會議網址：https://meet.google.com/trj-maiy-eva。聯絡電子信箱可以寄到羅老師信箱：yllo@mail.ntut.edu.tw。",
+    "remarks": "2024年4月24公告：根據學校教務處公告，本學期第17、18週採用線上教學進行，以下為連結會議網址：https://meet.google.com/trj-maiy-eva。聯絡電子信箱可以寄到羅老師信箱：yllo@mail.ntut.edu.tw。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

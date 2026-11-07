@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳詩雯",
+    "teacher": "陳詩雯",
     "email": "shihwen@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12394",
     "latestUpdate": "2024-12-18 20:44:51",
-    "objective": "Introduction to machine learning by Python programming. Regression analysis, dimension reduction, feature extraction, classification methods, neural networks, and LLM. Python examples to improve students' knowledge of machine learning.",
-    "schedule": "week1:\tIntroduction to machine learning\nweek2:\tProbability and optimization\nweek3:\tFeature Extraction\nweek4:\tBayesian decision theory\nweek5:\tRegression\nweek6:\tNeural Networks\nweek7:\tCNNs\nweek8:\tHidden Markov Models\nweek9:\tMid-term presentation\nweek10:\tLSTM and RNN\nweek11:   Attentions\nweek12:\tGenerative Models\nweek13:\tTransformers\nweek14:\tAutoencoders\nweek15:\tGraphical NN\nweek16:\tCase Study\nweek17:\tCase Study\nweek18:\tFinal exam",
+    "outline": "Introduction to machine learning by Python programming. Regression analysis, dimension reduction, feature extraction, classification methods, neural networks, and LLM. Python examples to improve students' knowledge of machine learning.",
+    "schedule": "week1: Introduction to machine learning\nweek2: Probability and optimization\nweek3: Feature Extraction\nweek4: Bayesian decision theory\nweek5: Regression\nweek6: Neural Networks\nweek7: CNNs\nweek8: Hidden Markov Models\nweek9: Mid-term presentation\nweek10: LSTM and RNN\nweek11: Attentions\nweek12: Generative Models\nweek13: Transformers\nweek14: Autoencoders\nweek15: Graphical NN\nweek16: Case Study\nweek17: Case Study\nweek18: Final exam",
     "scorePolicy": "Homework 40%\nMid-term project 30%\nFinal Exam 30%",
-    "materials": "1. Hui Jiang, Machine learning Fundamentals A Concise Introduction, Cambridge, 2021  \n2. 林大貴，圖解 TensorFlow 2 初學篇：實作 tf.keras + Colab 雲端、深度學習、人工智慧、影像辨識，博碩，2022",
-    "consultation": "Email: shihwen@mail.ntut.edu.twOffice Hours:Thursday 13:30-17:30Integrate Technology Complex, Room B09-1",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "materials": "1. Hui Jiang, Machine learning Fundamentals A Concise Introduction, Cambridge, 2021\n2.林大貴, 圖解TensorFlow 2初學篇：實作tf.keras + Colab雲端、深度學習、人工智慧、影像辨識, 博碩, 2022",
+    "consultation": "Email: shihwen@mail.ntut.edu.tw\nOffice Hours:\nThursday 13:30-17:30\nIntegrate Technology Complex, Room B09-1",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

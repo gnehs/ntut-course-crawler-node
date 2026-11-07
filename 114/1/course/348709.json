@@ -1,16 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12356",
     "latestUpdate": "2025-08-10 19:03:49",
-    "objective": "本課程涵蓋以下主題：\n1. 數字的進制轉換以及二進制表示方式\n2. 布林代數式與函數\n3. 數位電路化簡技巧，如卡諾圖與製表法\n4. 組合邏輯電路，如：加法器 / 減法器、比較器、多工器、邊 / 解碼器\n5. 可編程邏輯電路，如：唯讀記憶體 / 可編程唯讀記憶體（ROM / PROM）、可編程邏輯電路（PLD）、可編程邏輯陣列（PLA）\n6. 順序邏輯電路，如：狀態機\nThis course covers the following topics:\n1. Number representation, number bases and base conversions, and binary codes\n2. Boolean algebra and functions, canonical forms\n3. Combinational design techniques: K-maps, tabulation method\n4. Combinational logic circuits: adders/subtractors, comparators, multiplexors/demultiplexors, and decoders/encoders\n5. Programmable logic circuits: read-only memory/programmable read-only memory (ROM/PROM), programmable logic devices (PLD), and programmable logic arrays (PLA)\n6. Sequential logic circuits: state machine",
+    "outline": "本課程涵蓋以下主題：\n1.數字的進制轉換以及二進制表示方式\n2.布林代數式與函數\n3.數位電路化簡技巧，如卡諾圖與製表法\n4.組合邏輯電路，如：加法器/減法器、比較器、多工器、邊/解碼器\n5.可編程邏輯電路，如：唯讀記憶體/可編程唯讀記憶體（ROM / PROM）、可編程邏輯電路（PLD）、可編程邏輯陣列（PLA）\n6.順序邏輯電路，如：狀態機\nThis course covers the following topics:\n1. Number representation, number bases and base conversions, and binary codes\n2. Boolean algebra and functions, canonical forms\n3. Combinational design techniques: K-maps, tabulation method\n4. Combinational logic circuits: adders/subtractors, comparators, multiplexors/demultiplexors, and decoders/encoders\n5. Programmable logic circuits: read-only memory/programmable read-only memory (ROM/PROM), programmable logic devices (PLD), and programmable logic arrays (PLA)\n6. Sequential logic circuits: state machine",
     "schedule": "Week 1: Course Overview, Chapter 0 簡介 – 類比與數位系統、數位邏輯設計與實現、數位系統設計、積體電路\nWeek 2: Chapter 1 數目系統與數碼 – 數目基底與補數、 未帶號數目系統、帶號數表示法\nWeek 3: Chapter 1 數目系統與數碼 –帶號數算術運算、文數字碼與數碼、錯誤偵測與更正碼\nWeek 4: Chapter 2 交換代數 – 布林代數、交換代數\nWeek 5: Chapter 2 交換代數 – 交換函數標準式、交換函數與邏輯電路\nWeek 6: Chapter 4 交換函數化簡 – 基本觀念、卡諾圖化簡法\nWeek 7: Chapter 4 交換函數化簡 – 列表化簡法、變數引入圖與餘試圖\nWeek 8: Chapter 5 邏輯閘層次電路設計 –組合邏輯電路設計與分析、邏輯閘層次組合邏輯電路\nWeek 9: Midterm Exam.\nWeek 10: Chapter 5 邏輯閘層次電路設計 – 組合邏輯電路時序分析\nWeek 11: Chapter 6 組合邏輯電路模組設計– 解碼器、 編碼器、多工器\nWeek 12-13: Chapter 6 組合邏輯電路模組設計– 解多工器、比較器、算數運算電路設計\nWeek 14: Chapter 7 同步循序邏輯電路 - 循序邏輯電路概論、同步循序邏輯電路 設計與分析\nWeek 15: Chapter 7 同步循序邏輯電路 - 狀態簡化\nWeek 16: Chapter 8 計數器與暫存器 – 計數器設計與分析、暫存器與移位暫存器\nWeek 17: Chapter 8 計數器與暫存器 – 位移暫存器的應用、時序產生電路\nWeek 18: Final Exam.",
     "scorePolicy": "Attendance: 10%\nAssignments: 25%\nMidterm Exam.: 30%\nFinal Exam.: 35%",
-    "materials": "Textbook: 林銘波 編著，數位邏輯設計 - 使用 Verilog HDL，第 6 版，全華圖書 \n\nReference: Charles H. Roth, Jr. and Larry L. Kinney, Fundamentals of Logic Design, Cengage, 7th Edition, 2013.",
+    "materials": "Textbook: 林銘波 編著，數位邏輯設計-使用Verilog HDL，第6版，全華圖書\n\nReference: Charles H. Roth, Jr. and Larry L. Kinney, Fundamentals of Logic Design, Cengage, 7th Edition, 2013.",
     "consultation": "Office Hours: Wed. 13-14, Thurs. 13-15, Fri. 15-16, @EE&CS Bldg. Rm. 215",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": false
   }
 ]

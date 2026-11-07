@@ -1,18 +1,17 @@
 [
   {
-    "name": "林尚文",
+    "teacher": "林尚文",
     "email": "shangwen5435@gmail.com",
     "latestUpdate": "2021-10-08 10:55:34",
-    "objective": "本課程希望在一學期中，能使學生對微分及積分有充分的瞭解、培養邏輯推理、啟發思考創造、強化計算演繹並注重應用與作圖，以建立同學未來學習工程數學及相關專業課程之數學基礎，充分達到學以致用的目的。課程內容包括：1. 極限與連續，2. 導數及其應用，3. 不定積分與定積分，4. 積分法則，5. 不定型與瑕積分，6. 定積分的應用，7. 偏導數，8. 重積分。\nThis course aims at developing comprehension of Derivation and Integral、activating capabilities of Logic Inference and Induction、enlightening confidence and independence、strengthening calculating abilities with an emphasis on its application and diagram、furnishing a sound basis for future specialty. The content includes: 1.Limits and Continuity, 2.Derivative and Application, 3.Indefinite and Definite Integral, 4.Techniques of Integration, 5.Indeterminate Forms and Improper Integral, 6.Application of Integration,7.Partial Derivative, 8.Multiple Integration.",
-    "schedule": "9 月 21 日\n中秋節\n\n9 月 28 日　　\n1.2 The Graph of a Function\n1.5 Limits\n\n10 月 5 日　　\n1.6 One-Sided Limits and Continuity\n2.1 The Derivative\n\n10 月 12 日　　\n2.2 Techniques of Differentiation\n2.3 Product and Quotient Rules; Higher-Order Derivatives\n\n10 月 19 日　　\n2.4 The Chain Rule\n\n10 月 26 日　　\n2.5 Marginal Analysis and Approximations Using Increment\n2.6 Implicit Differentiation and Related Rates\n\n11 月 2 日　　\n3.1 Increasing and Decreasing Functions; Relative Extrema\n3.2 Concavity and Points of Inflection\n\n11 月 9 日　　\n4.1 Exponential  Functions; Continuous Compounding\n4.2 Logarithmic Functions\n4.3 Differentiation of Exponential and Logarithmic Functions\n\n11 月 16 日　　\n***Midterm***\n\n11 月 23 日　　\n5.1 Indefinite Integration and Differential Equations\n5.2 Integration by Substitution\n\n11 月 30 日　　\n5.3 The Definite Integral and the Fundamental Theorem\n5.4 Applying Definite Integration: Distribution of Wealth and Average Value\n5.5 Additional Applications of Integration to Business and Economics\n\n12 月 7 日　　\n6.1 Integration by Parts; Integral Table\n\n12 月 14 日　　\n6.2 Numerical Integration\n\n\n12 月 21 日　　\n6.3 Improper Integrals\n\n12 月 28 日　　\n7.1 Functions if Several Variables\n7.2 Partial Derivatives\n\n1 月 4 日　　\n7.3 Optimiaing Functions of Two Variables　　\n7.5 Constrained Optimization: The Method of Lagrange Multipliers\n\n1 月 11 日　　\n7.6 Double Integrals\n\n1 月 18 日　　Final",
+    "outline": "本課程希望在一學期中，能使學生對微分及積分有充分的瞭解、培養邏輯推理、啟發思考創造、強化計算演繹並注重應用與作圖，以建立同學未來學習工程數學及相關專業課程之數學基礎，充分達到學以致用的目的。課程內容包括：1.極限與連續，2.導數及其應用，3.不定積分與定積分，4.積分法則，5.不定型與瑕積分，6.定積分的應用，7.偏導數，8.重積分。\nThis course aims at developing comprehension of Derivation and Integral、activating capabilities of Logic Inference and Induction、enlightening confidence and independence、strengthening calculating abilities with an emphasis on its application and diagram、furnishing a sound basis for future specialty. The content includes: 1.Limits and Continuity, 2.Derivative and Application, 3.Indefinite and Definite Integral, 4.Techniques of Integration, 5.Indeterminate Forms and Improper Integral, 6.Application of Integration,7.Partial Derivative, 8.Multiple Integration.",
+    "schedule": "9月21日\n中秋節\n\n9月28日\n1.2 The Graph of a Function\n1.5 Limits\n\n10月5日\n1.6 One-Sided Limits and Continuity\n2.1 The Derivative\n\n10月12日\n2.2 Techniques of Differentiation\n2.3 Product and Quotient Rules; Higher-Order Derivatives\n\n10月19日\n2.4 The Chain Rule\n\n10月26日\n2.5 Marginal Analysis and Approximations Using Increment\n2.6 Implicit Differentiation and Related Rates\n\n11月2日\n3.1 Increasing and Decreasing Functions; Relative Extrema\n3.2 Concavity and Points of Inflection\n\n11月9日\n4.1 Exponential Functions; Continuous Compounding\n4.2 Logarithmic Functions\n4.3 Differentiation of Exponential and Logarithmic Functions\n\n11月16日\n***Midterm***\n\n11月23日\n5.1 Indefinite Integration and Differential Equations\n5.2 Integration by Substitution\n\n11月30日\n5.3 The Definite Integral and the Fundamental Theorem\n5.4 Applying Definite Integration: Distribution of Wealth and Average Value\n5.5 Additional Applications of Integration to Business and Economics\n\n12月7日\n6.1 Integration by Parts; Integral Table\n\n12月14日\n6.2 Numerical Integration\n\n\n12月21日\n6.3 Improper Integrals\n\n12月28日\n7.1 Functions if Several Variables\n7.2 Partial Derivatives\n\n1月4日\n7.3 Optimiaing Functions of Two Variables\n7.5 Constrained Optimization: The Method of Lagrange Multipliers\n\n1月11日\n7.6 Double Integrals\n\n1月18日 Final",
     "scorePolicy": "期中考 30%\n期末考 30%\n平時成績 40%\n(含作業、小考、課堂表現)",
-    "materials": "Calculus　　For Business, Economics, and the Social and Life Sciences　　11th　　Hoffmann",
-    "foreignLanguageTextbooks": true,
-    "covid19": {
-      "lv2Description": null,
-      "courseScoreMethod": "期中、期末考採紙筆測驗\n若因疫情無法在教室實施考試，將改採遠距考試\n每人一份試卷 (相似題型改係數)，\n同學依指示下載試題，作答完畢後將答案拍照回傳到指定位址",
-      "courseInfo": null,
-      "lv2Method": "遠距上課"
-    }
+    "materials": "Calculus For Business, Economics, and the Social and Life Sciences 11th Hoffmann",
+    "consultation": "1.MS Teams 中可發訊息給老師\n2.電子郵件：shangwen5435@gmail.com",
+    "remarks": "●上課方式：遠距上課\n\n\n\n●評量方式：期中、期末考採紙筆測驗\n若因疫情無法在教室實施考試，將改採遠距考試\n每人一份試卷(相似題型改係數)，\n同學依指示下載試題，作答完畢後將答案拍照回傳到指定位址\n\n\n●補充說明資訊：",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
   }
 ]

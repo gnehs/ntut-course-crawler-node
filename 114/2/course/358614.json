@@ -1,17 +1,18 @@
 [
   {
-    "name": "蔡銘修",
+    "teacher": "蔡銘修",
     "email": "mhtsai@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=2&code=11212",
     "latestUpdate": "2026-04-30 14:43:00",
-    "objective": "本課程將教授現行的科技教學工具如生成式 AI 工具、即時互動反饋系統、3D 列印等設計的學理基礎以及應用於教學中的特性及趨勢，並進一步講述如何輔助教學及學習",
-    "schedule": "01 02/26 課程介紹與說明、分組\n02 03/05 行動 App 輔助課堂教學\n03 03/12 AI 應用於教育 1 (同步線上授課：google meet https://meet.google.com/hjf-umdt-bkj)\n04 03/19 AI 應用於教育 2\n05 03/26 AI 應用於教育 3\n06 04/02 AI 應用於教育 4\n07 04/09 AI 應用於教育 5\n08 04/16 AI 應用於教育 6\n09 04/23 期中考週\n10 04/30 3D 列印基本觀念介紹及 AI 動畫\n11 05/07 Tinkercad 操作技巧 [第一組 ](411 & 103B 教室)\n12 05/14 Tinkercad 操作技巧 [第二組 ](411 & 103B 教室)\n13 05/21 3D 印表機操作及教具設計實務演練 [第一組](411 & 103B 教室)\n14 05/28 3D 印表機操作及教具設計實務演練 [第二組](411 & 103B 教室)\n15 06/04 期末課堂報告及展示 1 (4 組)\n16 06/11 期末課堂報告及展示 2 (4 組)\n17 06/18 期末課堂報告及展示 3 (4 組)\n18 06/25 期末考週",
-    "scorePolicy": "出席 10%\n課堂互動及平時演練 30%\n期末報告 I (個人)：25% 繳交 3D 列印作品，拍照後上傳於 i 學園 plus\n期末報告 II (二選一，分組或個人)：35%\n1. 分組：2~3 人\n主題：二選一 (1) 行動 App 輔助課堂教學；(2) AI 應用於日常工作或者教育。\n2. 個人：有自己擅長之生成式 AI 且未在本學期教學內容中，經授課教師同意後，可於任一課堂中介紹給同學，以 20 分鐘為限，以該報告作為期末報告 II 成績。",
+    "outline": "本課程將教授現行的科技教學工具如生成式AI工具、即時互動反饋系統、3D列印等設計的學理基礎以及應用於教學中的特性及趨勢，並進一步講述如何輔助教學及學習",
+    "schedule": "01 02/26 課程介紹與說明、分組\n02 03/05 行動App輔助課堂教學\n03 03/12 AI應用於教育 1(同步線上授課：google meet https://meet.google.com/hjf-umdt-bkj)\n04 03/19 AI應用於教育 2\n05 03/26 AI應用於教育 3\n06 04/02 AI應用於教育 4\n07 04/09 AI應用於教育 5\n08 04/16 AI應用於教育 6\n09 04/23 期中考週\n10 04/30 3D列印基本觀念介紹及AI動畫\n11 05/07 Tinkercad操作技巧[第一組 ](411 & 103B 教室)\n12 05/14 Tinkercad操作技巧[第二組 ](411 & 103B 教室)\n13 05/21 3D印表機操作及教具設計實務演練[第一組](411 & 103B 教室)\n14 05/28 3D印表機操作及教具設計實務演練[第二組](411 & 103B 教室)\n15 06/04 期末課堂報告及展示1(4組)\n16 06/11 期末課堂報告及展示2(4組)\n17 06/18 期末課堂報告及展示3(4組)\n18 06/25 期末考週",
+    "scorePolicy": "出席10%\n課堂互動及平時演練 30%\n期末報告I(個人)：25% 繳交3D列印作品，拍照後上傳於i學園plus\n期末報告II(二選一，分組或個人)：35%\n1. 分組：2~3人\n主題：二選一(1)行動App輔助課堂教學；(2) AI應用於日常工作或者教育。\n2. 個人：有自己擅長之生成式AI且未在本學期教學內容中，經授課教師同意後，可於任一課堂中介紹給同學，以20分鐘為限，以該報告作為期末報告II成績。",
     "materials": "自編教材",
     "consultation": "email:mhtsai@ntut.edu.tw",
-    "延伸教學與資源": "● 混成學習 (Blended Learning) 課程結合實體授課與線上學習（同步視訊／非同步活動）。Combines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).● 數位科技融入 (Digital Technology Integration) 運用生成式 AI、VR/AR、IoT、IRS 等新興科技輔助教學與評量。Utilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "",
+    "resources": "● 混成學習 (Blended Learning)\n課程結合實體授課與線上學習（同步視訊／非同步活動）。\nCombines face-to-face instruction with online learning (including synchronous video sessions or asynchronous activities).\n● 數位科技融入 (Digital Technology Integration)\n運用生成式AI、VR/AR、IoT、IRS等新興科技輔助教學與評量。\nUtilizes emerging technologies such as Generative AI, VR/AR, IoT, and IRS (Interactive Response Systems) to facilitate teaching and assessment.\n● 數位教材資源應用 (Application of Digital Resources)\n採用影音多媒體或具開放授權之資源（如OCW、開放教科書）作為主要或輔助教材。\nAdopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 使用生成式AI進行課堂即時互動（Use generative AI for real-time classroom interaction）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": false
   }
 ]

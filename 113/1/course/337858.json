@@ -1,15 +1,18 @@
 [
   {
-    "name": "謝文彬",
+    "teacher": "謝文彬",
     "email": "wbhsieh@ntut.edu.tw",
-    "latestUpdate": "2024-10-27 09:35:59",
-    "objective": "本課程除了介紹技術的原理之外，更著重在實際資安檢測工具的使用，以 Kali Linux 虛擬機實際進行實作分析與演練，讓學生能更了解技術原理的真實應用情境。課程內容包含：\n●計算機網路回顧\n●網頁安全\n●滲透測試\n●弱點評估及測試工具\n●入侵偵測工具\n\nIn addition to introducing the principles of technology, this course also focuses on the use of actual security detection tools. It uses the Kali Linux virtual machine for actual implementation analysis and drills, so that students can better understand the real application scenarios of technical principles. Course content includes:\n\n●Computer Network Review\n●Web security: SQL injection, XSS attack, etc.\n●Penetration test\n●Vulnerability assessment and testing tools\n●Intrusion detection tools",
-    "schedule": "1. Introduction to CryberSecurity and PenTest\n2. Latest information security incidents\n3. Latest information security incidents / Basic exploit techniques (I)\n4. Basic exploit techniques (II)\n5. Known and famous information security protection mechanisms \n6. Social engineering based on Machine Learning\n7. Web security - SQL injection (I)\n8. Web security - SQL injection (II)\n9. Mid-exam\n10. Web security - XSS attack (I)\n11. Web security - XSS attack (II)\n12. Introduction to Kali Linux and PenTest tools \n13. Vulnerability Assessment (I)\n14. Vulnerability Assessment (II) \n15. PenTest tools - practices (I)\n16. PenTest tools - practices (II) & Presentation (I)\n17. Presentation (II)\n18. Presentation (III) & Conclusion",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12574",
+    "latestUpdate": "2025-01-23 15:22:05",
+    "outline": "本課程除了介紹技術的原理之外，更著重在實際資安檢測工具的使用，以Kali Linux虛擬機實際進行實作分析與演練，讓學生能更了解技術原理的真實應用情境。課程內容包含：\n●計算機網路回顧\n●網頁安全\n●滲透測試\n●弱點評估及測試工具\n●入侵偵測工具\n\nIn addition to introducing the principles of technology, this course also focuses on the use of actual security detection tools. It uses the Kali Linux virtual machine for actual implementation analysis and drills, so that students can better understand the real application scenarios of technical principles. Course content includes:\n\n●Computer Network Review\n●Web security: SQL injection, XSS attack, etc.\n●Penetration test\n●Vulnerability assessment and testing tools\n●Intrusion detection tools",
+    "schedule": "1. Introduction to CryberSecurity and PenTest\n2. Latest information security incidents\n3. Latest information security incidents / Basic exploit techniques (I)\n4. Basic exploit techniques (II)\n5. Known and famous information security protection mechanisms\n6. Social engineering based on Machine Learning\n7. Web security - SQL injection (I)\n8. Web security - SQL injection (II)\n9. Mid-exam\n10. Web security - XSS attack (I)\n11. Web security - XSS attack (II)\n12. Web security - CSRF attack\n13. Web security - JWT vulnerability(I)\n14. Web security - JWT vulnerability(II)\n15. PenTest tools - practices (I)\n16. PenTest tools - practices (II) & Presentation (I)\n17. Presentation (II)\n18. Presentation (III) & Conclusion",
     "scorePolicy": "Attendance: 20%\nMid-exam/Personal Report : 30%\nFinal project: 40%\nIn-class practices : 10%",
     "materials": "Self-made materials\nReference:\n1. Robert Seacord, Secure Coding in C and C++, SEI Series.\n2. Fred Long et al., CERT Oracle Coding Standard for Java, SEI Series.\n3. Chiheb Chebbi, Mastering Machine Learning for Penetration Testing, Packt Publishing Ltd.",
-    "consultation": "office hour Wed. 12:00-18:00 or by appointmentoffice location: General Studies Building 501-1",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
-    "remarks": "The course content may be adjusted in response to contemporary developments or to reflect the actual progress of the course.Please bring your own laptop and download the following VM firstKali Linux (virtual box version)https://www.kali.org/get-kali/#kali-virtual-machines",
+    "consultation": "office hour Wed. 12:00-18:00 or by appointment\noffice location: General Studies Building 501-1",
+    "remarks": "The course content may be adjusted in response to contemporary developments or to reflect the actual progress of the course.\nPlease bring your own laptop and download the following VM first\nKali Linux (virtual box version)\nhttps://www.kali.org/get-kali/#kali-virtual-machines",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

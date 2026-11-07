@@ -1,15 +1,18 @@
 [
   {
-    "name": "蘇昱瑋",
+    "teacher": "蘇昱瑋",
     "email": "ywsu@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12530",
     "latestUpdate": "2024-12-18 09:42:25",
-    "objective": "介紹 Matlab 界面、程式語法、方程式繪圖、線性回歸。第二部份為人工智慧概論，主要為 chat gpt 的使用。\nThis course will focus on basic MATLAB, programing, plotting, and linear regresssion.  The second part is basic AI concept and how to use Chatgpt.",
+    "outline": "介紹Matlab界面、程式語法、方程式繪圖、線性回歸。第二部份為人工智慧概論，主要為chat gpt的使用。\nThis course will focus on basic MATLAB, programing, plotting, and linear regresssion. The second part is basic AI concept and how to use Chatgpt.",
     "schedule": "week 1~2: Introduction, Array Operations\nweek 3~4: Structured Programming and Functions, Plotting\nweek 5~6: Graphical User Interface\nweek 7~8: Midterm exam\nweek 9~10: Integration and Differentiation\nweek 11~13: Root Finding, Linear Equations\nweek 14~15: Statistics, Analysis, Curve Fitting\nweek 16~18: Chatgpt, do final report",
     "scorePolicy": "Attendence (40%)\nHomework (60%)",
-    "materials": "MATLAB 程式設計入門篇",
+    "materials": "MATLAB程式設計入門篇",
     "consultation": "Office hour",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

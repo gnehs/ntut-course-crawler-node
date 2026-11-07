@@ -1,16 +1,17 @@
 [
   {
-    "name": "蔡定江",
+    "teacher": "蔡定江",
     "email": "tctsai@ntut.edu.tw",
     "latestUpdate": "2025-05-21 15:51:37",
-    "objective": "先修課程：3002012 或負責教授同意。介紹各種不同分析方法（如能量法及 Castigliano 定理）、破壞理論、材料選用、可靠度概念、軸及軸承、離合器及煞車器、傳動元件 (如皮帶、鏈條、齒輪)、軸聯接器、飛輪、彈簧等。\nPrerequisite: ME212 or Consent of Instructor Introduction to Analysis Methods (Energy method & Castigliano theorem), \nFailure Theory, Material Selection, Introduction to reliability, Shafts and Bearings, Clutches and Brakes, Power Transmission Elements (Belts, Chains, Gears), Couplings, Flywheels, and Springs.",
-    "schedule": "週次   進度\n1.\t緒論\n2.\t失效準則\n3.\t失效準則\n4.\t疲勞失效準則\n5.\t疲勞失效準則\n6.\t疲勞失效準則\n7.\t能量法\n8.\t柱設計\n9.\t期中考\n10.\t彈簧\n11.\t螺旋與連結件\n12.\t螺旋與連結件\n13.\t軸與軸配件\n14.\t滾動軸承\n15.\t齒輪設計\n16.\t齒輪設計\n17.\t撓性傳動設計\n18.\t期末考",
-    "scorePolicy": "1. 3 次測驗 27% X3=81%\n2. 作業 9%\n3. 學習態度及平時表現 10%",
+    "outline": "先修課程：3002012或負責教授同意。介紹各種不同分析方法（如能量法及Castigliano定理）、破壞理論、材料選用、可靠度概念、軸及軸承、離合器及煞車器、傳動元件(如皮帶、鏈條、齒輪)、軸聯接器、飛輪、彈簧等。\nPrerequisite: ME212 or Consent of Instructor Introduction to Analysis Methods (Energy method & Castigliano theorem),\nFailure Theory, Material Selection, Introduction to reliability, Shafts and Bearings, Clutches and Brakes, Power Transmission Elements (Belts, Chains, Gears), Couplings, Flywheels, and Springs.",
+    "schedule": "週次 進度\n1. 緒論\n2. 失效準則\n3. 失效準則\n4. 疲勞失效準則\n5. 疲勞失效準則\n6. 疲勞失效準則\n7. 能量法\n8. 柱設計\n9. 期中考\n10. 彈簧\n11. 螺旋與連結件\n12. 螺旋與連結件\n13. 軸與軸配件\n14. 滾動軸承\n15. 齒輪設計\n16. 齒輪設計\n17. 撓性傳動設計\n18. 期末考",
+    "scorePolicy": "1. 3次測驗27%X3=81%\n2. 作業9%\n3. 學習態度及平時表現10%",
     "materials": "課本:\nShigley's Mechanical Engineering Design [11 ed.]\nRichard G. Budynas, J. Keith Nisbett\nMcGraw-Hill Education\n參考書:\nMechanical Engineering Design 3rd Edition SI VERSION\nAnsel C. Ugural\nTaylor & Francis Group, LLC",
-    "consultation": "課程進行建立課程 line 群組作為諮詢與討論平台",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
-    "課程是否導入AI": "● 無（None）",
+    "consultation": "課程進行建立課程line群組作為諮詢與討論平台",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）\nSDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

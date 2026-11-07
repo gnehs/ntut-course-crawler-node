@@ -1,16 +1,18 @@
 [
   {
-    "name": "張文中",
+    "teacher": "張文中",
     "email": "wchang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11007",
     "latestUpdate": "2025-09-06 10:38:05",
-    "objective": "Modern control theory mainly focuses on linear system analysis and design.  This is the course where students from a variety of backgrounds begin to acquire the mathematical tools used in research literature involving linear systems.  The core material covered in this course is the theory of time-varying linear systems, in both continuous-time and discrete-time, with frequent specialization to the time invariant case.",
-    "schedule": "Tentative schedule \nWeek\tTopic\n1\tCourse Introduction\n2\tBackground linear algebra\n3\tMathematical descriptions of systems\n4\tLinearization\n5\tState-space solutions\t\n6\tSystem realizations\n7\tStability of LTI systems\n8\tLyapunov theorem\n9 \tStability of LTV systems\n10\tControllability\n11\tObservability\n12\tMidterm exam\n13\tCoprime fractions\n14\tMinimal realizations\n15\tState feedback\n16\tPaper presentations I\n17\tPaper presentations II or optional Final exam\n18\tReports for presentations due\n\nPS: The contents and order of lectures and presentations will be adjusted according to actual needs",
-    "scorePolicy": "The final grade will be a weighted average of attendance 10%, homework (including quizzes) 30%, midterm 30%, paper presentation and report  (and/or optional final examination) 30%.",
+    "outline": "Modern control theory mainly focuses on linear system analysis and design. This is the course where students from a variety of backgrounds begin to acquire the mathematical tools used in research literature involving linear systems. The core material covered in this course is the theory of time-varying linear systems, in both continuous-time and discrete-time, with frequent specialization to the time invariant case.",
+    "schedule": "Tentative schedule\nWeek Topic\n1 Course Introduction\n2 Background linear algebra\n3 Mathematical descriptions of systems\n4 Linearization\n5 State-space solutions\n6 System realizations\n7 Stability of LTI systems\n8 Lyapunov theorem\n9 Stability of LTV systems\n10 Controllability\n11 Observability\n12 Midterm exam\n13 Coprime fractions\n14 Minimal realizations\n15 State feedback\n16 Paper presentations I\n17 Paper presentations II or optional Final exam\n18 Reports for presentations due\n\nPS: The contents and order of lectures and presentations will be adjusted according to actual needs",
+    "scorePolicy": "The final grade will be a weighted average of attendance 10%, homework (including quizzes) 30%, midterm 30%, paper presentation and report (and/or optional final examination) 30%.",
     "materials": "Linear System Theory and Design - Fourth Edition, Chi-Tsong Chen, Oxford University Press, 2012",
-    "consultation": "Prof. Wen-Chung Chang(02)27712171 Ext. 2125, wchang@ntut.edu.twOffice hours: Check official EE websiteTA: Mr.  Guan-Wei Chen (02)27712171 Ext. 2130, t113318049@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "Response to government epidemic alert, course lecture and presentations will be offered online via Microsoft Teams at class hours and recorded lectures are available in iStudy.  Please refer to Taipei Tech's iStudy for details about this course.",
+    "consultation": "Prof. Wen-Chung Chang\n(02)27712171 Ext. 2125, wchang@ntut.edu.tw\nOffice hours: Check official EE website\n\nTA: Mr. Guan-Wei Chen\n(02)27712171 Ext. 2130, t113318049@ntut.edu.tw",
+    "remarks": "Response to government epidemic alert, course lecture and presentations will be offered online via Microsoft Teams at class hours and recorded lectures are available in iStudy. Please refer to Taipei Tech's iStudy for details about this course.",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "teacher": "尤信程",
+    "email": "scyou@ntut.edu.tw",
+    "latestUpdate": "2020-08-01 02:33:31",
+    "outline": "This course aims to introduce the most recently developed theories, techniques and applications of artificial intelligence (AI). In view of AI’s latest trend of development, this course will mainly focus on machine learning, with an emphasis on deep learning.\n\nCOURSE OBJECTIVES\n● Understand the theories, techniques and applications of artificial intelligence. The artificial intelligence covered in this course mainly focuses on machine learning with deep learning.\n● Be familiar with one or two off-the-shelf machine learning tools and know how to use them to solve the problems.\n● Gain hands-on experiences on applying machine learning approaches to practical problems.\n● Course outline\n Introduction to artificial intelligence\n Traditional artificial intelligence: an overview\n Introduction to machine learning\n Basics of supervised learning\n Bias and variance dilemma\n Supervised learning tools: k-NN, Naïve Baysian, SVM, and neural networks\n Unsupervised learning and tools\n Optimization and gradient descent algorithm\n Deep learning and convolutional neural networks\n loss functions and activation functions\n Training CNN\n Advanced tools: LSTM, Autoencoder, DGAN, and Transformer\n Reinforcement learning (valued-based and policy-based)",
+    "schedule": "9/27: Introduction to AI, overview of conventional AI, introduction to machine learning, Basis of supervised learning, bias and variance, k-NN, Naiver Baysian, SVM, and logistic regression, jump-start scikit-learn tools\n10/18: Dimensionality reduction techniques, Decision tree, unsupervised learning, optimization and gradient descents Quiz 1\n11/8: CNN & YOLO, loss & activation functions, jump-start Keras usage\n11/22: Back propagation, Training CNN, LSTM, autoencoder, DCGAN, Transformer, Quiz 2\n12/6: Reinforcement learning, jump-start Open-AI stable baseline, Quiz 3\n12/20: Designing experiments and performance assessment, examples from Kaggles, project presentation, term Q/A",
+    "scorePolicy": "Quiz (x 3) 45%\nHomework 25%\nTerm Project 30%\nBonus 10%",
+    "materials": "Lecture ppt file available for students.",
+    "consultation": "",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

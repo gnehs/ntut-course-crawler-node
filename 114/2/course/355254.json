@@ -1,17 +1,18 @@
 [
   {
-    "name": "李宜庭",
+    "teacher": "李宜庭",
     "email": "ytlee@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=2&code=12271",
     "latestUpdate": "2026-02-07 21:42:28",
-    "objective": "先修課程：3002011 或負責教授同意。特徵值、特徵向量及特徵函數，向量分析、向量微積分、傅立葉級數與邊界值問題、偏微分方程、複變函數。\nEigenvalue and Eigenfunction Problems, Vector Analyses, Calculus of Vectors, Fourier Series, Boundary Value Problems, Partial Differential Equations, Complex Analyses.",
-    "schedule": "週次\t章節內容\t\n01\tCourse introduction & Review. Matrices and Vectors.\t\n02\tMatrix Multiplication & Linear Systems of Equations.\t\n03\tLinear Independence & Solutions of Linear Systems.\t\n04\tDeterminants (Second-/Third-order; Properties; Cramer’s Rule).\t\n05\tInverse of a Matrix & Gauss–Jordan Elimination.\t(Quiz)\n06\tThe Matrix Eigenvalue Problem & Applications.\t\n07 \tSymmetric/Skew-symmetric/Orthogonal Matrices & Eigenbases.\t\n08 \tVectors in 2-Space and 3-Space; Inner Product; Vector Product.\t\n09\tMid-term exam\t\n10 \tCurves; Gradient; Directional Derivative.\t\n11\tDivergence; Curl.\t\n12 \tLine Integrals; Path Independence; Double Integrals; Green’s Theorem.\t\n13 \tSurfaces for Surface Integrals; Surface Integrals.\t\n14 \tFourier Series; Arbitrary Period.\t(Quiz)\n15 \tEven/Odd Functions; Half-range Expansions; Fourier Integral.\t\n16 \tBasic Concepts of PDEs; Separation of Variables; Wave Equation Modelling.\t\n17\tSolution of PDEs by Fourier Series.\t\n18 \tFinal exam",
-    "scorePolicy": "平時 45%(內含小考 30%，平時出缺席考核與課堂行為觀察 15%，點名缺席一次扣 1%，最多扣至 15%)，期中考 25%，期末考 30%。",
-    "materials": "1.\t自編教材\n2.\tErwin Kreyszig, Advanced Engineering Mathematics, 10th edition",
-    "consultation": "每週二綜科 427 10:00-11:00 AM",
-    "延伸教學與資源": "",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "outline": "先修課程：3002011或負責教授同意。特徵值、特徵向量及特徵函數，向量分析、向量微積分、傅立葉級數與邊界值問題、偏微分方程、複變函數。\nEigenvalue and Eigenfunction Problems, Vector Analyses, Calculus of Vectors, Fourier Series, Boundary Value Problems, Partial Differential Equations, Complex Analyses.",
+    "schedule": "週次 章節內容\n01 Course introduction & Review. Matrices and Vectors.\n02 Matrix Multiplication & Linear Systems of Equations.\n03 Linear Independence & Solutions of Linear Systems.\n04 Determinants (Second-/Third-order; Properties; Cramer’s Rule).\n05 Inverse of a Matrix & Gauss–Jordan Elimination. (Quiz)\n06 The Matrix Eigenvalue Problem & Applications.\n07 Symmetric/Skew-symmetric/Orthogonal Matrices & Eigenbases.\n08 Vectors in 2-Space and 3-Space; Inner Product; Vector Product.\n09 Mid-term exam\n10 Curves; Gradient; Directional Derivative.\n11 Divergence; Curl.\n12 Line Integrals; Path Independence; Double Integrals; Green’s Theorem.\n13 Surfaces for Surface Integrals; Surface Integrals.\n14 Fourier Series; Arbitrary Period. (Quiz)\n15 Even/Odd Functions; Half-range Expansions; Fourier Integral.\n16 Basic Concepts of PDEs; Separation of Variables; Wave Equation Modelling.\n17 Solution of PDEs by Fourier Series.\n18 Final exam",
+    "scorePolicy": "平時45%(內含小考30%，平時出缺席考核與課堂行為觀察15%，點名缺席一次扣1%，最多扣至15%)，期中考25%，期末考30%。",
+    "materials": "1. 自編教材\n2. Erwin Kreyszig, Advanced Engineering Mathematics, 10th edition",
+    "consultation": "每週二綜科427 10:00-11:00 AM",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

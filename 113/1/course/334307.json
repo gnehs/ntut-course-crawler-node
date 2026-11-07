@@ -1,15 +1,18 @@
 [
   {
-    "name": "傅子恒",
+    "teacher": "傅子恒",
     "email": "jomo0825@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12349",
     "latestUpdate": "2024-05-30 00:07:08",
-    "objective": "本課程《互動程式設計三》旨在提供學生全面的 Unity C# 編程技術及其在 ARPG（動作角色扮演遊戲）開發中的應用。本課程為期 18 週，涵蓋了從基礎到高級的各種主題，並結合實際項目開發，讓學生能夠掌握並應用所學知識。\n\nThe course \"Interactive Programming Design Integration\" aims to provide students with comprehensive Unity C# programming skills and their application in ARPG (Action Role-Playing Game) development. The 18-week course covers a range of topics from basic to advanced, combined with practical project development to enable students to master and apply their knowledge.",
-    "schedule": "09/10\tW1\tIntroduction\n09/17\tW2\t中秋節\n09/24\tW3\tUnity C# Data Collections\n10/01\tW4\tUnity C# Advanced Usage\n10/08\tW5\tUnity C# Design Pattern 1\n10/15\tW6\tUnity C# Design Pattern 2\n10/22\tW7\tARPG Character Input Controller\n10/29\tW8\tARPG Character Movement\n11/05\tW9\tMidterm Week\n11/12\tW10\tARPG Character Actions 1\n11/19\tW11\tARPG Character Actions 2\n11/26\tW12\tARPG NPC\n12/03\tW13\tARPG Character Battles\n12/10\tW14\tARPG Inventory\n12/17\tW15\tARPG Weapons\n12/24\tW16\tARPG Achivement\n12/31\tW17\tProject Debug\n01/07\tW18\tFinal Week",
-    "scorePolicy": "Participation：10% \nMid-term project: 40% \nFinal Project: 50%",
+    "outline": "本課程《互動程式設計三》旨在提供學生全面的Unity C#編程技術及其在ARPG（動作角色扮演遊戲）開發中的應用。本課程為期18週，涵蓋了從基礎到高級的各種主題，並結合實際項目開發，讓學生能夠掌握並應用所學知識。\n\nThe course \"Interactive Programming Design Integration\" aims to provide students with comprehensive Unity C# programming skills and their application in ARPG (Action Role-Playing Game) development. The 18-week course covers a range of topics from basic to advanced, combined with practical project development to enable students to master and apply their knowledge.",
+    "schedule": "09/10 W1 Introduction\n09/17 W2 中秋節\n09/24 W3 Unity C# Data Collections\n10/01 W4 Unity C# Advanced Usage\n10/08 W5 Unity C# Design Pattern 1\n10/15 W6 Unity C# Design Pattern 2\n10/22 W7 ARPG Character Input Controller\n10/29 W8 ARPG Character Movement\n11/05 W9 Midterm Week\n11/12 W10 ARPG Character Actions 1\n11/19 W11 ARPG Character Actions 2\n11/26 W12 ARPG NPC\n12/03 W13 ARPG Character Battles\n12/10 W14 ARPG Inventory\n12/17 W15 ARPG Weapons\n12/24 W16 ARPG Achivement\n12/31 W17 Project Debug\n01/07 W18 Final Week",
+    "scorePolicy": "Participation：10%\nMid-term project: 40%\nFinal Project: 50%",
     "materials": "自編教材",
-    "consultation": "開學後使用 NTUT MS Teams 授課，請同學務必於開課前確認您的 NTUT MS Teams 帳號可正常運作。",
-    "課程對應SDGs指標": "SDG10：減少不平等（Reduced Inequalities）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "consultation": "開學後使用NTUT MS Teams授課，請同學務必於開課前確認您的NTUT MS Teams帳號可正常運作。",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG10：減少不平等（Reduced Inequalities）\nSDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

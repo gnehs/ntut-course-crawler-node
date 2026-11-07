@@ -1,15 +1,18 @@
 [
   {
-    "name": "胡念祖",
+    "teacher": "胡念祖",
     "email": "nthu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12286",
     "latestUpdate": "2024-11-08 22:16:47",
-    "objective": "本課程主要探討非線性系統與線性系統之間的不同，並介紹 Lyapunov stability 及其相關觀念。除此之外，將介紹如何利用各種穩定性分析的觀念及各種方法探討非線性系統的穩定性，最後並介紹如何設計控制器使非線性系統穩定。\nThis course mainly explores the different between the nonlinear system and linear system, and introduces the concept Lyapunov stability. Besides, one wants to introduce how to utilize the concept and method of stability analysis to explore the stability of nonlinear system. Finally, the designs of nonlinear controllers are introduced to stabilize the nonlinear systems.",
-    "schedule": "1.\t09/09  Introduction\n2.\t09/16  Two-Dimensional Systems\n3.\t09/23  Two-Dimensional Systems\n4.\t09/30  Two-Dimensional Systems\n5.\t10/07  Stability of Equilibrium Points\n6.\t10/14  Stability of Equilibrium Points\n7.\t10/21  Stability of Equilibrium Points\n8.\t10/28  Stability of Equilibrium Points\n9.\t11/04  Midterm Exam\n10.\t11/11  Time-Varying and Perturbed Systems\n11.\t11/18  Time-Varying and Perturbed Systems (The course has been rescheduled to the morning of November 30th.)\n12.\t11/25  Passivity (The course has been rescheduled to the morning of December 1st.)\n13.\t12/02  Passivity\n14.\t12/09  Input-Output Stability\n15.\t12/16  Input-Output Stability\n16.\t12/23  Input-Output Stability\n17.\t12/30  Paper Presentation\n18.\t01/06  Paper Presentation\n\nPS: The contents will be adjusted according to actual needs",
+    "outline": "本課程主要探討非線性系統與線性系統之間的不同，並介紹Lyapunov stability及其相關觀念。除此之外，將介紹如何利用各種穩定性分析的觀念及各種方法探討非線性系統的穩定性，最後並介紹如何設計控制器使非線性系統穩定。\nThis course mainly explores the different between the nonlinear system and linear system, and introduces the concept Lyapunov stability. Besides, one wants to introduce how to utilize the concept and method of stability analysis to explore the stability of nonlinear system. Finally, the designs of nonlinear controllers are introduced to stabilize the nonlinear systems.",
+    "schedule": "1. 09/09 Introduction\n2. 09/16 Two-Dimensional Systems\n3. 09/23 Two-Dimensional Systems\n4. 09/30 Two-Dimensional Systems\n5. 10/07 Stability of Equilibrium Points\n6. 10/14 Stability of Equilibrium Points\n7. 10/21 Stability of Equilibrium Points\n8. 10/28 Stability of Equilibrium Points\n9. 11/04 Midterm Exam\n10. 11/11 Time-Varying and Perturbed Systems\n11. 11/18 Time-Varying and Perturbed Systems (The course has been rescheduled to the morning of November 30th.)\n12. 11/25 Passivity (The course has been rescheduled to the morning of December 1st.)\n13. 12/02 Passivity\n14. 12/09 Input-Output Stability\n15. 12/16 Input-Output Stability\n16. 12/23 Input-Output Stability\n17. 12/30 Paper Presentation\n18. 01/06 Paper Presentation\n\nPS: The contents will be adjusted according to actual needs",
     "scorePolicy": "- Class participation: 15%\n- Assignments: 30% (No assignment turned in late will be accepted)\n- Midterm exam: 25%\n- Paper Presentation: 30%",
     "materials": "1. Nonlinear Control, 1st Edition, KHALIL, PEARSON, 2015.\n2. Nonlinear Systems, 3rd Edition, KHALIL, PEARSON, 2002.",
-    "consultation": "TEL: (02)27712171 Ext. 4324Email: nthu@ntut.edu.twOffice Hours:Tuesday 10:00-17:00Integrate Technology Complex, Room 604-1",
-    "課程對應SDGs指標": "無（None）",
+    "consultation": "TEL: (02)27712171 Ext. 4324\nEmail: nthu@ntut.edu.tw\nOffice Hours:\nTuesday 10:00-17:00\nIntegrate Technology Complex, Room 604-1",
     "remarks": "Remote Learning will be performed via Microsoft Teams, if required (see https://news.ntut.edu.tw/p/422-1000-1085.php?Lang=zh-tw).",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

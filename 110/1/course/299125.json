@@ -1,18 +1,17 @@
 [
   {
-    "name": "蕭榮修",
+    "teacher": "蕭榮修",
     "email": "rshsiao@ntut.edu.tw",
     "latestUpdate": "2021-09-22 16:30:31",
-    "objective": "1. 集合，序列與函數\n2. 基礎邏輯\n3. 關聯式\n4. 計數（排列，組合）\n5. 圖與樹（基礎圖論）\n6. 遞迴式與演算法\n7. 有向圖\nObjectives: This course covers the part of mathematics devoted to discrete events, i.e., events that involve distinct or unconnected elements, finite structures of distinct elements. These topics are very useful in the study of computer science --- especially in the areas of data structure, the analysis of algorithms, and the theory of computer languages.",
+    "outline": "1.集合,序列與函數\n2.基礎邏輯\n3.關聯式\n4.計數（排列,組合）\n5.圖與樹（基礎圖論）\n6.遞迴式與演算法\n7.有向圖\nObjectives: This course covers the part of mathematics devoted to discrete events, i.e., events that involve distinct or unconnected elements, finite structures of distinct elements. These topics are very useful in the study of computer science --- especially in the areas of data structure, the analysis of algorithms, and the theory of computer languages.",
     "schedule": "‧ Introduction\n‧ Logic and Proof\n‧ Sets, Relations, and Functions\n‧ Recursion, and Algorithms\n‧ Counting, and Probability\n‧ Recurrence Relations\n‧ Graphs Theory\n‧ Trees\n‧ Automata, Grammars, and Languages",
-    "scorePolicy": "Grading:\n   10% Attendance and Quizzes\n   30% Assignments\n   30% Mid-term Exam\n   30% Final Exam",
-    "materials": "Textbook: Discrete Mathematics, Seventh Edition, Richard Johnsonbaugh, Prentice Hall, 2009. (華泰)\n離散數學 (七版)，吳世弘 譯 (華泰)",
-    "foreignLanguageTextbooks": true,
-    "covid19": {
-      "lv2Description": null,
-      "courseScoreMethod": "1. 期中與期末測驗包含：Take home, In class 兩部分。(佔分比例另訂)\n2. 實體授課時於教室舉行；遠距教學時 In class 於線上舉行。",
-      "courseInfo": "規劃中",
-      "lv2Method": "遠距上課"
-    }
+    "scorePolicy": "Grading:\n10% Attendance and Quizzes\n30% Assignments\n30% Mid-term Exam\n30% Final Exam",
+    "materials": "Textbook: Discrete Mathematics, Seventh Edition, Richard Johnsonbaugh, Prentice Hall, 2009. (華泰)\n離散數學(七版)，吳世弘 譯 (華泰)",
+    "consultation": "1. 訓四子三同學以班代為聯絡窗口，透過line群組或email聯繫。\n2. 外班選修同學以Email: rshsiao@ntut.edu.tw 聯繫。",
+    "remarks": "●上課方式：遠距上課\n\n\n\n●評量方式：1. 期中與期末測驗包含：Take home, In class兩部分。(佔分比例另訂)\n2. 實體授課時於教室舉行；遠距教學時In class於線上舉行。\n\n\n●補充說明資訊：規劃中",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
   }
 ]

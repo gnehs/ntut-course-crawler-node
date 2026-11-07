@@ -1,15 +1,18 @@
 [
   {
-    "name": "許華倚",
+    "teacher": "許華倚",
     "email": "huayihsu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11584",
     "latestUpdate": "2024-12-16 12:07:09",
-    "objective": "先修課程：3002011 或負責教授同意。特徵值、特徵向量及特徵函數，向量分析、向量微積分、傅立葉級數與邊界值問題、偏微分方程、複變函數。\nEigenvalue and Eigenfunction Problems, Vector Analyses, Calculus of Vectors, Fourier Series, Boundary Value Problems, Partial Differential Equations, Complex Analyses.",
+    "outline": "先修課程：3002011或負責教授同意。特徵值、特徵向量及特徵函數，向量分析、向量微積分、傅立葉級數與邊界值問題、偏微分方程、複變函數。\nEigenvalue and Eigenfunction Problems, Vector Analyses, Calculus of Vectors, Fourier Series, Boundary Value Problems, Partial Differential Equations, Complex Analyses.",
     "schedule": "Chapter 8: Determinants\n8.1 Permutations\n8.2 De\fnitions of the Determinant\n8.3 Properties of Determinants\n8.4 Evaluation of Determinants by elementary Row and Column Operations\nChapter 9: Eigenvalues, Diagonalization\n9.1 Eigenvalues and Eigenvectors\n9.2 Diagonaliztion of Matrices\n9.3 Orthogonal and Symmetric Matrices\nChapter 14: Fourier Series\n14.3 Convergence of Fourier series\n14.4 Fourier Cosine and Sine series\n14.5 Integration and Di\u000berentiation of Fourier series\nChapter 15: The Fourier Integral and Fourier Transforms\n15.1 The Fourier Integral\n15.2 Fourier Cosine and Sine Integrals\n15.3 The complex Fourier Integral and the Fourier Transform\nChapter 17: The Wave Equation\nChapter 18: The Heat Equation\nChapter 20: Geometry and Arithmetic of Complex Numbers",
-    "scorePolicy": "20% Flipped classroom\n30% quiz\n25%  midterm\n25% final",
-    "materials": "Onel's\nGoogle classroom \nClass code: xrntdje",
-    "consultation": "Week 17 18, Online class please see google classroomhuayihsu@mail.ntut.edu.tw",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "scorePolicy": "20% Flipped classroom\n30% quiz\n25% midterm\n25% final",
+    "materials": "Onel's\nGoogle classroom\nClass code: xrntdje",
+    "consultation": "Week 17 18, Online class please see google classroom\nhuayihsu@mail.ntut.edu.tw",
     "remarks": "In any case of change due to the pandemic, we will use google meet to continue our course.",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

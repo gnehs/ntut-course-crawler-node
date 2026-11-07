@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳詩雯",
+    "teacher": "陳詩雯",
     "email": "shihwen@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12394",
     "latestUpdate": "2024-05-22 17:13:40",
-    "objective": "Engineering Optimization Concepts, Linear Programming Methods, Nonlinear Programming Methods, Multi-objective Optimization, Introduction to Modern Mathematical Programming Techniques, and Optimum Design of Precision Machine Components and Systems.",
-    "schedule": "Week 1 (9/9)  : Introduction\nWeek 2 (9/16)  : Programming with MATLAB\nWeek 3 (9/23) : Basic Math Review\nWeek 4 (9/30) : Basic of Optimization Methods\nWeek 5 (10/07) : One-Dimension Search\nWeek 6 (10/14) : Newton’s Method\nWeek 7 (10/21) : Gradient Methods\nWeek 8 (10/30) : Malab program\nWeek 9 (11/04) : Mid-term project presentation\nWeek 10 (11/11)  : Least square method\nWeek 11 (11/18)  : Genetic algorithm\nWeek 12 (11/25) : Linear Programming\nWeek 13 (12/2) : Nonlinear Programming\nWeek 14 (12/9) : Numerical Methods\nWeek 15 (12/16) : Optimization under Uncertainty\nWeek 16 (12/23) : Toolbox of MATLAB\nWeek 17 (12/30) : Toolbox of MATLAB\nWeek 18 (1/6) :  Final Project Presentation",
+    "outline": "Engineering Optimization Concepts, Linear Programming Methods, Nonlinear Programming Methods, Multi-objective Optimization, Introduction to Modern Mathematical Programming Techniques, and Optimum Design of Precision Machine Components and Systems.",
+    "schedule": "Week 1 (9/9) : Introduction\nWeek 2 (9/16) : Programming with MATLAB\nWeek 3 (9/23) : Basic Math Review\nWeek 4 (9/30) : Basic of Optimization Methods\nWeek 5 (10/07) : One-Dimension Search\nWeek 6 (10/14) : Newton’s Method\nWeek 7 (10/21) : Gradient Methods\nWeek 8 (10/30) : Malab program\nWeek 9 (11/04) : Mid-term project presentation\nWeek 10 (11/11) : Least square method\nWeek 11 (11/18) : Genetic algorithm\nWeek 12 (11/25) : Linear Programming\nWeek 13 (12/2) : Nonlinear Programming\nWeek 14 (12/9) : Numerical Methods\nWeek 15 (12/16) : Optimization under Uncertainty\nWeek 16 (12/23) : Toolbox of MATLAB\nWeek 17 (12/30) : Toolbox of MATLAB\nWeek 18 (1/6) : Final Project Presentation",
     "scorePolicy": "Homework assignment 40%\nA mid-term presentation 30%\nA final presentation 30%",
-    "materials": "P. Venkataraman, ‘Applied Optimization with MATLAB programming’, Wiley, 2009\n Andreas Antoniou, Wu-Sheng Lu, ‘Practical Optimization: Algorithms and Engineering Applications’, Springer, 2021\nUrmila M. Diwekar, ‘Introduction to Applied Optimization’, Springer, 2020\nSteven C. Chapra, ‘Applied Numerical Methods with MATLAB for Engineers and Scientists’, McGraw Hill, 2018",
-    "consultation": "Office : Complex Bldg. B09-1Phone : ext. 4321Email : shihwen@ntut.edu.twOffice Hours : 10:00-18:00 (Tues.)",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）",
+    "materials": "P. Venkataraman, ‘Applied Optimization with MATLAB programming’, Wiley, 2009\nAndreas Antoniou, Wu-Sheng Lu, ‘Practical Optimization: Algorithms and Engineering Applications’, Springer, 2021\nUrmila M. Diwekar, ‘Introduction to Applied Optimization’, Springer, 2020\nSteven C. Chapra, ‘Applied Numerical Methods with MATLAB for Engineers and Scientists’, McGraw Hill, 2018",
+    "consultation": "Office : Complex Bldg. B09-1\nPhone : ext. 4321\nEmail : shihwen@ntut.edu.tw\nOffice Hours : 10:00-18:00 (Tues.)",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG3：良好健康和福祉（Good Health and Well-being）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

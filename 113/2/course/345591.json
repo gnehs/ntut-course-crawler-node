@@ -1,15 +1,18 @@
 [
   {
-    "name": "曾恕銘",
+    "teacher": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
-    "latestUpdate": "2024-12-19 18:12:01",
-    "objective": "課程主要為介紹機器學習概念和基本原理，學習 DNN/CNN/LSTM/transformer 的神經網路架構和其他機器學習方法。",
-    "schedule": "1.\tIntroduction\n2.\tDNN with labs\n3.\tLearning method with labs (AI 玩遊戲)\n4.\tCNN with labs (AI 影像分類 / 物件偵測)\n5.\tRNN LSTM with lab\n6.\ttransformer (AI 寫金庸小說 / 寫學習歷程檔案) with case study scene boundary detection (AI 影片分章)\n7. Deep Reinforcement Learning (AI 賽車 AlphaGo 下圍棋勝世界冠軍，OpenAI Five 玩 Dota 2 勝世界冠軍) (optional)",
-    "scorePolicy": "考試 30%\n講義報告 25% \n期末專案 AI 賽車 45%",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11010",
+    "latestUpdate": "2025-03-26 20:00:11",
+    "outline": "課程主要為介紹機器學習概念和基本原理，學習DNN/CNN/LSTM/transformer的神經網路架構和其他機器學習方法。",
+    "schedule": "Part I:\n1. Introduction\n2. DNN with labs\n3. Learning method with labs(AI玩遊戲)\n4. CNN with labs(AI影像分類/物件偵測)\n5. Analogizers 2hrs knn K-meas svm (\n6. transformer (AI寫金庸小說/寫學習歷程檔案) with case study scene boundary detection (AI影片分章)\n7. Deep Reinforcement Learning (AI賽車 AlphaGo下圍棋勝世界冠軍，OpenAI Five玩Dota 2勝世界冠軍) (optional)\n\nPart II 期末專案AI賽車 5weeks)",
+    "scorePolicy": "考試30%\n講義報告 25%\n期末專案AI賽車 45%",
     "materials": "handouts",
     "consultation": "office hours",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

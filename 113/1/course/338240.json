@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳世剛",
+    "teacher": "陳世剛",
     "email": "chensg@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12527",
     "latestUpdate": "2024-09-10 16:39:08",
-    "objective": "1. 簡介\n2. 類神經網路（ANN）應用\n2-1 ANN 基礎\n2-2 類神經網路\n3. 模糊邏輯基礎\n3-1 模糊邏輯基礎\n3-2 模糊控制應用\n4. 基因演算法\n4-1 概述\n4-2 基因演算法在控制器調制之應用\n1 Introduction\n2 Application of artificial neural networks (ANN)\n2-1 ANN fundamentals\n2-2 Neur-control\n3 Fuzzy logic control\n3-1 Fuzzy logic basics\n3-2 Application of Fuzzy Control\n4 Genetic algorithms\n4-1 Preliminarg \n4-2 Tuning of Controllers using genetic algorithms",
-    "schedule": "Week 1:  Course Overview, Introduction to Intelligent Control\nWeek 2:  Fuzzy Logic Control\nWeek 3:  Fuzzy Logic and Approximate Reasoning\nWeek 4:  Fuzzy Logic Control System\nWeek 5:  Artificial Neural Networks\nWeek 6:  Feedforward Neural Networks and Supervised Learning\nWeek 7:  Recurrent Neural Networks and Supervised Learning\nWeek 8:  Self-organized Neural Networks\nWeek 9:  Midterm Exam\nWeek 10:  Advanced Intelligent Control\nWeek 11:  Genetic Algorithm\nWeek 12:  Integrating Fuzzy Systems and Neural Networks\nWeek 13:  Lyapunov Stability and Intelligent Control Systems\nWeek 14:  Applications of Fuzzy and Neural Networks in Control\nWeek 15:  Applications of Fuzzy and Neural Networks in Control\nWeek 16:  Applications of Fuzzy and Neural Networks in Control\nWeek 17:  Final Report\nWeek 18:  Final Report",
+    "outline": "1. 簡介\n2. 類神經網路（ANN）應用\n2-1 ANN基礎\n2-2 類神經網路\n3. 模糊邏輯基礎\n3-1 模糊邏輯基礎\n3-2 模糊控制應用\n4. 基因演算法\n4-1 概述\n4-2 基因演算法在控制器調制之應用\n1 Introduction\n2 Application of artificial neural networks (ANN)\n2-1 ANN fundamentals\n2-2 Neur-control\n3 Fuzzy logic control\n3-1 Fuzzy logic basics\n3-2 Application of Fuzzy Control\n4 Genetic algorithms\n4-1 Preliminarg\n4-2 Tuning of Controllers using genetic algorithms",
+    "schedule": "Week 1: Course Overview, Introduction to Intelligent Control\nWeek 2: Fuzzy Logic Control\nWeek 3: Fuzzy Logic and Approximate Reasoning\nWeek 4: Fuzzy Logic Control System\nWeek 5: Artificial Neural Networks\nWeek 6: Feedforward Neural Networks and Supervised Learning\nWeek 7: Recurrent Neural Networks and Supervised Learning\nWeek 8: Self-organized Neural Networks\nWeek 9: Midterm Exam\nWeek 10: Advanced Intelligent Control\nWeek 11: Genetic Algorithm\nWeek 12: Integrating Fuzzy Systems and Neural Networks\nWeek 13: Lyapunov Stability and Intelligent Control Systems\nWeek 14: Applications of Fuzzy and Neural Networks in Control\nWeek 15: Applications of Fuzzy and Neural Networks in Control\nWeek 16: Applications of Fuzzy and Neural Networks in Control\nWeek 17: Final Report\nWeek 18: Final Report",
     "scorePolicy": "Attendance/learning attitude 10%\nComputer simulation home works 20%\nMidterm examination 30%\nFinal report and presentation 40%",
-    "materials": "1. M. Negnevitsky, Artificial Intelligence. Addison Wesley, 2002\n2. C. T. Lin and C. S. G. Lee, Neural Fuzzy Systems. Prentice-Hall, 1996\n3. Related intelligent control method papers \n4. Self-made PPT",
-    "consultation": "1. Please contact me via email (chensg@ntut.edu.tw)2. 316 Lab. TA",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "materials": "1. M. Negnevitsky, Artificial Intelligence. Addison Wesley, 2002\n2. C. T. Lin and C. S. G. Lee, Neural Fuzzy Systems. Prentice-Hall, 1996\n3. Related intelligent control method papers\n4. Self-made PPT",
+    "consultation": "1. Please contact me via email (chensg@ntut.edu.tw)\n2. 316 Lab. TA",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

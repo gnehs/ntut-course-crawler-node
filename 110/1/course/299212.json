@@ -1,18 +1,17 @@
 [
   {
-    "name": "黃銘智",
+    "teacher": "黃銘智",
     "email": "mindy@ntut.edu.tw",
     "latestUpdate": "2021-09-15 13:21:09",
-    "objective": "本課程旨在介紹研究電腦輔助設計軟硬體，以及相關理論之驗證，並藉設計實例演練，以熟悉研究電腦輔助設計軟應體之操作與功能。",
-    "schedule": "W1.         Solid Geomtry and CAD\nW2.         Introduction to Pro/Engineer system\nW3.         Constraints and Geometry\nW4-5.      Feature-based modeling techniques.\nW6.         Model setup and display\nW7-9.     Advanced modeling skills\nW10-11. Make a manufacturable object\nW12.      Design change and modify\nW13-14.Assembly and Explode Mode\nW15.      The duplication of design feature: Copy and Pattern\nW16-18.Project practice",
+    "outline": "本課程旨在介紹研究電腦輔助設計軟硬體，以及相關理論之驗證，並藉設計實例演練，以熟悉研究電腦輔助設計軟應體之操作與功能。",
+    "schedule": "W1. Solid Geomtry and CAD\nW2. Introduction to Pro/Engineer system\nW3. Constraints and Geometry\nW4-5. Feature-based modeling techniques.\nW6. Model setup and display\nW7-9. Advanced modeling skills\nW10-11. Make a manufacturable object\nW12. Design change and modify\nW13-14.Assembly and Explode Mode\nW15. The duplication of design feature: Copy and Pattern\nW16-18.Project practice",
     "scorePolicy": "homework 40%\nproject 40%\nother 20%",
     "materials": "自編教材",
-    "foreignLanguageTextbooks": false,
-    "covid19": {
-      "lv2Description": null,
-      "courseScoreMethod": "上課出席率\n平時作業線上繳交\n期中與期末線上報告",
-      "courseInfo": null,
-      "lv2Method": "遠距上課"
-    }
+    "consultation": "研究室分機2830、2815\n星期一至五13:00-17:00",
+    "remarks": "●上課方式：遠距上課\n\n\n\n●評量方式：上課出席率\n平時作業線上繳交\n期中與期末線上報告\n\n\n●補充說明資訊：",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": false
   }
 ]

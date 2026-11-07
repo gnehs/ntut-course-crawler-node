@@ -1,0 +1,17 @@
+[
+  {
+    "teacher": "劉傳銘",
+    "email": "cmliu@ntut.edu.tw",
+    "latestUpdate": "2007-09-17 18:12:22",
+    "outline": "本課程討論當使用計算機來解決數學問題時的能力及限制，除了介紹傳統數值分析的問題與理論基礎外，並討論相關改進或解決的方法. 主題包含: (1) 誤差, (2) 數值演算法, (3) 數學計算軟體, (4) 浮點運算, (5) 矩陣運算, (6) 多項式內插法, (7)數值積分, (8)非線性方程式, (9)初值問題.",
+    "schedule": "Chapter 1. Introduction (1 week)\n· Algorithms\n\n· Errors\n\n· Error propagation\n\n· MATLAB exercises\n\nChapter 2. Floating-point Computations (1-2 weeks)\n· Floating-point numbers\n\n· Floating-point arithmetic (basic operations)\n\n· Numerical instabilities\n\nChapter 3. Matrix Computations (3 weeks)\n· Setting up matrix problems\n\n· Matrix operations\n\n· Solving linear systems\n\nChapter 4. Polynomial Interpolation (2 weeks)\n· The Vandermonde approach\n\n· The Newton representation\n\n· Cubic splines\n\nChapter 5. Numerical Integration (2 weeks)\n· The Newton-Cotes rules\n\n· Composite rules\n\n· Spline quadrature\n\nChapter 6. Nonlinear Equations (2 weeks)\n· Bisection method\n\n· Newton's method\n\n· Secant method\n\nChapter 7. The Initial Value Problem (2 weeks)\n· Basic concepts\n\n· Euler's method\n\n· The Runge-Kutta methods",
+    "scorePolicy": "Homework sets 30% (6-7 Homework sets)\nMidterm exams 30% (TWO midterms, each 15%)\nFinal exam 40%",
+    "materials": "Textbook:\n\nApplied Numerical Analysis using MATLAB (International Edition), Laurene V. Fausett, Pearson Education, 2007.\n\n\n\nReferences:\n\nExploring Numerical Methods -- An Introduction to Scientific Computing Using MATLAB, Peter Linz and Richard L.C. Wang, Johns and Bartlett Publishers, 2002.\n\nNumerical Methods Using Matlab, 2nd Edition, George Lindfield and John Penny, Prentice Hall, 1999.\n\nNumerical Methods Using Matlab, 3rd Edition, Jhon H. Mathews and Kurtis D. Fink, Prentice Hall, 1999.",
+    "consultation": "",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": null
+  }
+]

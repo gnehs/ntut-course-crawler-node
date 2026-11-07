@@ -1,16 +1,18 @@
 [
   {
-    "name": "宋國明",
+    "teacher": "宋國明",
     "email": "gmsung@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11009",
     "latestUpdate": "2025-05-28 09:37:47",
-    "objective": "Students will learn how to design VLSI circuits and systems based on a standard VLSI system design flow, where various electronic design automation (EDA) tools will be used extensively in the semester. Those EDA tools includes analog and digital circuits and systems. The main purpose of this course includes the following:\n1.\tVLSI Introduction.\n2.\tManufacturing Process.\n3.\tMOSFET Devices.\n4.\tMOSFET Wires.\n5.\tHspice Software.\n6.\tHspice Simulation.\n7.\tAnalog IC Layout and Practice.\n8.\tVerilog-HDL.\n9.\tSynthesis.\n10.\tDesign for Testability and Automatic Test Pattern Generation.\n11.\tStatic Timing Analysis.\n12.\tPlacement and Routing.\n13.\tDesign Rule Check, Layout Versus Schematic.\n14.\tLayout Parasitic Extraction and Simulation.\n15.\tDesign Verification.\n16.\tProject Presentation.",
+    "outline": "Students will learn how to design VLSI circuits and systems based on a standard VLSI system design flow, where various electronic design automation (EDA) tools will be used extensively in the semester. Those EDA tools includes analog and digital circuits and systems. The main purpose of this course includes the following:\n1. VLSI Introduction.\n2. Manufacturing Process.\n3. MOSFET Devices.\n4. MOSFET Wires.\n5. Hspice Software.\n6. Hspice Simulation.\n7. Analog IC Layout and Practice.\n8. Verilog-HDL.\n9. Synthesis.\n10. Design for Testability and Automatic Test Pattern Generation.\n11. Static Timing Analysis.\n12. Placement and Routing.\n13. Design Rule Check, Layout Versus Schematic.\n14. Layout Parasitic Extraction and Simulation.\n15. Design Verification.\n16. Project Presentation.",
     "schedule": "Week 1 VLSI Introduction.\nWeek 2 Manufacturing Process.\nWeek 3 MOSFET Devices.\nWeek 4 MOSFET Wires.\nWeek 5 Hspice Software.\nWeek 6 Hspice Simulation.\nWeek 7 Hspice Examples\nWeek 8 Analog IC Layout and Practice.\nWeek 9 Verilog-HDL.\nWeek 10 Synthesis.\nWeek 11 Design for Testability and Automatic Test Pattern Generation.\nWeek 12 Static Timing Analysis.\nWeek 13 Placement and Routing.\nWeek 14 Design Rule Check, Layout Versus Schematic.\nWeek 15 Layout Parasitic Extraction and Simulation.\nWeek 16 Smith Chart Simulation\nWeek 17 ADS Software\nWeek 18 ADS Examples",
-    "scorePolicy": "(1). General Performance 10%.\n(2). Homework  30%.\n(3). Midterm exam 30% (Open book).\n(3). Final exam 30%.",
+    "scorePolicy": "(1). General Performance 10%.\n(2). Homework 30%.\n(3). Midterm exam 30% (Open book).\n(3). Final exam 30%.",
     "materials": "Neil H. E. Weste and David Harris, “CMOS VLSI Design－A Circuit and System Perspective,”Third Edition, 2005. 偉明圖書有限公司 (www.wmbook.com.tw, TEL：2363-8586, 2363-6567, ISBN：0-321-14901-7)",
-    "consultation": "1. If needed, the curricular consultation takes place by distance learning with Google Meet. 2. The entrance code will be assigned.3. Contact information: TEL (02)27712171#2121, Mobile 0939-941496, and Email: gmsung@ntut.edu.tw。",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "The curricular consultation takes place by distance learning with Google Meet. The entrance code will be assigned.(1). Teaching is completed with Google Meet.(2). Mid-term or final tests may be completed with distance testing.(3). If possible, this course has many homework.",
+    "consultation": "1. If needed, the curricular consultation takes place by distance learning with Google Meet.\n2. The entrance code will be assigned.\n3. Contact information: TEL (02)27712171#2121, Mobile 0939-941496, and Email: gmsung@ntut.edu.tw。",
+    "remarks": "The curricular consultation takes place by distance learning with Google Meet. The entrance code will be assigned.\n(1). Teaching is completed with Google Meet.\n(2). Mid-term or final tests may be completed with distance testing.\n(3). If possible, this course has many homework.",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

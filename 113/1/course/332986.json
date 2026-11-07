@@ -1,15 +1,18 @@
 [
   {
-    "name": "林世皓",
+    "teacher": "林世皓",
     "email": "d95522037@ntu.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12479",
     "latestUpdate": "2024-08-14 11:39:29",
-    "objective": "本課程由淺入深，引導讀者進入物件導向程式設計 C# 語言的世界。並引入生活中的事物，對照程式中的邏輯概念，讓初學者對物件導向程式設計有基本的概念。書中所附的程式範例，均為具實用性的生活例子，常用的 C# 語言庫存函式介紹，讓初學者免去浪費在已有的基本需求功能的思考及設計。包括輸出 / 輸入函式、數學運算函式、字元轉換及字元分類函式等，可節省初學者很多時間在基本需求功能的思考設計上。書中所附的程式範例，均為實用性的生活例子。\n\nChapter 01　電腦程式語言及主控台應用程式\nChapter 02　資料型態、變數與運算子\nChapter 03　資料輸入 / 輸出方法\nChapter 04　程式之流程控制 (一)──選擇結構\nChapter 05　程式之流程控制 (二)──迴圈結構\nChapter 06　內建類別\nChapter 07　陣列\nChapter 08　例外處理\nChapter 09　自訂類別\nChapter 10　繼承\nChapter 11　抽象類別和介面\nChapter 12　視窗應用程式\nChapter 13　常用控制項\nChapter 14　共用事件及動態控制項\nChapter 15　鍵盤事件及滑鼠事件\nChapter 16　對話方塊控制項與檔案處理",
-    "schedule": "Week 01　電腦程式語言及主控台應用程式\nWeek 02　資料型態、變數與運算子\nWeek 03　資料輸入 / 輸出方法\nWeek 04　程式之流程控制 (一)──選擇結構\nWeek 05　程式之流程控制 (二)──迴圈結構\nWeek 06　內建類別\nWeek 07　陣列\nWeek 08　例外處理\nWeek 09　期中考週\nWeek 10　自訂類別\nWeek 11　繼承\nWeek 12　抽象類別和介面\nWeek 13　視窗應用程式\nWeek 14　常用控制項\nWeek 15　共用事件及動態控制項\nWeek 16　鍵盤事件及滑鼠事件\nWeek 17　對話方塊控制項與檔案處理\nWeek 18　期末考週",
-    "scorePolicy": "期中考試 30%\n期末考試 30%\n平時考核 30%（含作業與上課表現等）\n出席率 10%",
-    "materials": "教材:\n邏輯林，《物件導向程式設計－結合生活與遊戲的 C# 語言 (附範例光碟)》，2019\n出版社：全華圖書股份有限公司\nISBN：9789865030315",
+    "outline": "本課程由淺入深，引導讀者進入物件導向程式設計C#語言的世界。並引入生活中的事物，對照程式中的邏輯概念，讓初學者對物件導向程式設計有基本的概念。書中所附的程式範例，均為具實用性的生活例子，常用的C#語言庫存函式介紹，讓初學者免去浪費在已有的基本需求功能的思考及設計。包括輸出/輸入函式、數學運算函式、字元轉換及字元分類函式等，可節省初學者很多時間在基本需求功能的思考設計上。書中所附的程式範例，均為實用性的生活例子。\n\nChapter 01　電腦程式語言及主控台應用程式\nChapter 02　資料型態、變數與運算子\nChapter 03　資料輸入/輸出方法\nChapter 04　程式之流程控制(一)──選擇結構\nChapter 05　程式之流程控制(二)──迴圈結構\nChapter 06　內建類別\nChapter 07　陣列\nChapter 08　例外處理\nChapter 09　自訂類別\nChapter 10　繼承\nChapter 11　抽象類別和介面\nChapter 12　視窗應用程式\nChapter 13　常用控制項\nChapter 14　共用事件及動態控制項\nChapter 15　鍵盤事件及滑鼠事件\nChapter 16　對話方塊控制項與檔案處理",
+    "schedule": "Week 01　電腦程式語言及主控台應用程式\nWeek 02　資料型態、變數與運算子\nWeek 03　資料輸入/輸出方法\nWeek 04　程式之流程控制(一)──選擇結構\nWeek 05　程式之流程控制(二)──迴圈結構\nWeek 06　內建類別\nWeek 07　陣列\nWeek 08　例外處理\nWeek 09　期中考週\nWeek 10　自訂類別\nWeek 11　繼承\nWeek 12　抽象類別和介面\nWeek 13　視窗應用程式\nWeek 14　常用控制項\nWeek 15　共用事件及動態控制項\nWeek 16　鍵盤事件及滑鼠事件\nWeek 17　對話方塊控制項與檔案處理\nWeek 18　期末考週",
+    "scorePolicy": "期中考試30%\n期末考試30%\n平時考核30%（含作業與上課表現等）\n出席率10%",
+    "materials": "教材:\n邏輯林，《物件導向程式設計－結合生活與遊戲的C#語言(附範例光碟)》，2019\n出版社：全華圖書股份有限公司\nISBN：9789865030315",
     "consultation": "shihhao@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

@@ -1,15 +1,17 @@
 [
   {
-    "name": "趙念中",
+    "teacher": "趙念中",
     "email": "mark0812kimo@gmail.com",
     "latestUpdate": "2024-08-20 18:17:57",
-    "objective": "本課程偏重在如何將 Python 應用在金融實務領域上：怎麼取得網路上免費的資料，怎麼使用 Python 視覺化功能分析，怎麼使用 Python 進行有用的回測，怎麼做投資組合最佳化配置。",
-    "schedule": "1\t基礎語法與實用操作一\n2\t基礎語法與實用操作二\n3\t畫圖視覺化分析\n4\tyahoofinance 下載資料與實際運用\n5\tinvesting.com 下載總經資料與實際運用\n6\tFred 網站 download 總經資料 (非農就業報告分析)\n7\t投資組合\n8\t投資組合績效運算\n9\t最佳化投資組合運用\n10\t季節性分析\n11\t回歸趨勢分析\n12\t價差分析\n13\t強弱勢選股分析 1\n14\t強弱勢選股分析 2\n15\t強弱勢選股分析 3\n16\t基礎回測 1\n17\t基礎回測 2\n18\t基礎回測 3",
-    "scorePolicy": "出席 50%\n課堂報告 50%",
+    "outline": "本課程偏重在如何將Python應用在金融實務領域上:怎麼取得網路上免費的資料，怎麼使用Python視覺化功能分析，怎麼使用Python進行有用的回測，怎麼做投資組合最佳化配置。",
+    "schedule": "1 基礎語法與實用操作一\n2 基礎語法與實用操作二\n3 畫圖視覺化分析\n4 yahoofinance 下載資料與實際運用\n5 investing.com下載總經資料與實際運用\n6 Fred網站download總經資料(非農就業報告分析)\n7 投資組合\n8 投資組合績效運算\n9 最佳化投資組合運用\n10 季節性分析\n11 回歸趨勢分析\n12 價差分析\n13 強弱勢選股分析1\n14 強弱勢選股分析2\n15 強弱勢選股分析3\n16 基礎回測1\n17 基礎回測2\n18 基礎回測3",
+    "scorePolicy": "出席50%\n課堂報告 50%",
     "materials": "自行準備投影片與講義",
-    "consultation": "Line 課程群組",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）SDG10：減少不平等（Reduced Inequalities）SDG17：夥伴關係（Partnerships for the Goals）",
+    "consultation": "Line課程群組",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG4：優質教育（Quality Education）\nSDG10：減少不平等（Reduced Inequalities）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

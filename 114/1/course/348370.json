@@ -1,16 +1,18 @@
 [
   {
-    "name": "劉建浩",
+    "teacher": "劉建浩",
     "email": "jhliou@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11537",
     "latestUpdate": "2025-05-27 15:40:14",
-    "objective": "使學生建立邏輯量化思考，並了解管理科學解決問題之方法及應用，且有能力利用電腦工具協助分析經營管理問題，達成最佳化決策。\nTo build the quantitative logic thinking about the decision problems. The course is designed to introduce the fundamental techniques and methods of operations research. The related software will be utilized to aid in building and solving models. The topics to be covered: linear programming, what-if analysis, dual theory, transportation and assignment.",
-    "schedule": "Week 1\nMatrix\nWeek 2-3\nIntroduction to linear programming\nWeek 4-5\n\tSolving linear programming problem: The simplex method\nWeek 6-8\n\tThe theory of the simplex method\nWeek 9\n\tMid-term test\nWeek 10-14\n\tDuality theory and sensitivity analysis\nWeek 15\n\tOther Algorithms for linear programming\nWeek 16-17\n\tThe transportation and assignment problem\nWeek 18\n        Final Exam",
+    "outline": "使學生建立邏輯量化思考，並了解管理科學解決問題之方法及應用，且有能力利用電腦工具協助分析經營管理問題，達成最佳化決策。\nTo build the quantitative logic thinking about the decision problems. The course is designed to introduce the fundamental techniques and methods of operations research. The related software will be utilized to aid in building and solving models. The topics to be covered: linear programming, what-if analysis, dual theory, transportation and assignment.",
+    "schedule": "Week 1\nMatrix\nWeek 2-3\nIntroduction to linear programming\nWeek 4-5\nSolving linear programming problem: The simplex method\nWeek 6-8\nThe theory of the simplex method\nWeek 9\nMid-term test\nWeek 10-14\nDuality theory and sensitivity analysis\nWeek 15\nOther Algorithms for linear programming\nWeek 16-17\nThe transportation and assignment problem\nWeek 18\nFinal Exam",
     "scorePolicy": "Quiz 30%\nAssignment 10%\nMidterm 25%\nFinal 35%",
     "materials": "Introduction to operations research (McGraw Hill)\nFrederick S. Hillier\nGerald J. Lieberman",
     "consultation": "Create a line group and ask every student to join the group",
-    "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "● 無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

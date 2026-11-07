@@ -1,16 +1,18 @@
 [
   {
-    "name": "江卓培",
+    "teacher": "江卓培",
     "email": "jiangchopei@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12145",
     "latestUpdate": "2025-05-28 11:45:09",
-    "objective": "本課程將說明積層製造 (3D 列印) 的加工原理、積層製造系統的七大分類、每一種類的 3D 列印參數與 3D 列印結果的分析方法。對於每一種製程的設備設計思維與優缺點進行比較。提供業界的應用案例共同討論其中的關鍵技術與應用門檻。最後，進行期刊論文的閱讀與口語報告。\nThis course will cover the fundamental principles of additive manufacturing (3D printing), including the seven major categories of additive manufacturing systems, the printing parameters associated with each category, and methods for analyzing the resulting printed components. It will compare the design concepts, advantages, and limitations of equipment used in each process. Industry application cases will be introduced to facilitate discussion on key technologies and practical implementation challenges. The course will conclude with journal article reviews and oral presentations.",
-    "schedule": "1\tThe Development of Additive Manufacturing Systems\n2\tClassification of AM (7 types)\n3,4,5 \tVPP (Photo-Polymerization Fabrication Process/ Basic knowledge of photo-polymerization)\n6,7\tMEX (Nozzle type Polymerization Fabrication Process/ Basic knowledge of liner polymer Thermal Plastic polymerization)\n8\tMJT\n9\tBJT (Powder Fabrication Process/ Basic knowledge of metallurgy)\n10\tPBF\n11\tDED\n12\tHybrid manufacturing \n13\tExam\n14\tApplications (Industrial, Medical, Potential)\n15-18\tJournal paper reading and presentation",
-    "scorePolicy": "平時表現 30%\n期中考   30%\n期末報告 40%\n\nDiligence: 30%\nExam: 30%\nTwo reports: 40%",
+    "outline": "本課程將說明積層製造(3D列印)的加工原理、積層製造系統的七大分類、每一種類的3D列印參數與3D列印結果的分析方法。對於每一種製程的設備設計思維與優缺點進行比較。提供業界的應用案例共同討論其中的關鍵技術與應用門檻。最後，進行期刊論文的閱讀與口語報告。\nThis course will cover the fundamental principles of additive manufacturing (3D printing), including the seven major categories of additive manufacturing systems, the printing parameters associated with each category, and methods for analyzing the resulting printed components. It will compare the design concepts, advantages, and limitations of equipment used in each process. Industry application cases will be introduced to facilitate discussion on key technologies and practical implementation challenges. The course will conclude with journal article reviews and oral presentations.",
+    "schedule": "1 The Development of Additive Manufacturing Systems\n2 Classification of AM (7 types)\n3,4,5 VPP (Photo-Polymerization Fabrication Process/ Basic knowledge of photo-polymerization)\n6,7 MEX (Nozzle type Polymerization Fabrication Process/ Basic knowledge of liner polymer Thermal Plastic polymerization)\n8 MJT\n9 BJT (Powder Fabrication Process/ Basic knowledge of metallurgy)\n10 PBF\n11 DED\n12 Hybrid manufacturing\n13 Exam\n14 Applications (Industrial, Medical, Potential)\n15-18 Journal paper reading and presentation",
+    "scorePolicy": "平時表現 30%\n期中考 30%\n期末報告 40%\n\nDiligence: 30%\nExam: 30%\nTwo reports: 40%",
     "materials": "This course utilizes instructor-developed materials tailored to the content.",
     "consultation": "Students are free to send me emails or ask questions in the LINE group.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "All students need to join the LINE group which will be announced in the first week.",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": false
   }
 ]

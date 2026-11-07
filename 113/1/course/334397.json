@@ -1,15 +1,18 @@
 [
   {
-    "name": "胡國英",
+    "teacher": "胡國英",
     "email": "eaglehwu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11162",
     "latestUpdate": "2024-11-15 10:52:44",
-    "objective": "集總電路和克希荷夫定律（KCL,KVL），電路元件，串、並聯\n電路，一階電路，二階電路，線性非時變電路分析，相量及\n弦波穩態分析，耦合元件和電路，多相電路，複數頻率，頻\n率響應，狀態變數法，雙埠網路，PSPICE，傅式分析及轉換，\n拉式轉換。",
-    "schedule": "週次\t內容要項\n1\t課程目標進度、應具備之修課基礎、注意事項\n2\t電路分析方法\n3\t網路定理\n4\t儲能元件\n5\t儲能元件\n6\t一階電路          期中考 (1)\n7\tPspice 軟體模擬\n8\t一階電路\n9\t二階電路\n10\t二階電路\n11\t二階電路 (遠距教學 Google meet 即時會議 )\n12\t正弦激勵和相量 (遠距教學  Google meet 即時會議 )\n13\t正弦激勵和相量 (遠距教學 Google meet 即時會議 )\n14\t正弦穩態分析\n15\t正弦穩態分析 (遠距教學 Google meet 即時會議 )\n16\t專題報告 / 模擬報告 ( Google meet 即時會議 遠距教學)\n17\t專題報告 / 模擬報告 (遠距教學 Google meet 即時會議 )\n18\t期末考",
-    "scorePolicy": "期中考 (1) ( 30%)、期中考 (1) ( 30%)、期末考 (30%)、加分 (10%)",
+    "outline": "集總電路和克希荷夫定律（KCL,KVL），電路元件，串、並聯\n電路，一階電路，二階電路，線性非時變電路分析，相量及\n弦波穩態分析，耦合元件和電路，多相電路，複數頻率，頻\n率響應，狀態變數法，雙埠網路，PSPICE，傅式分析及轉換，\n拉式轉換。",
+    "schedule": "週次 內容要項\n1 課程目標進度、應具備之修課基礎、注意事項\n2 電路分析方法\n3 網路定理\n4 儲能元件\n5 儲能元件\n6 一階電路 期中考(1)\n7 Pspice軟體模擬\n8 一階電路\n9 二階電路\n10 二階電路\n11 二階電路 (遠距教學 Google meet 即時會議 )\n12 正弦激勵和相量(遠距教學 Google meet 即時會議 )\n13 正弦激勵和相量 (遠距教學 Google meet 即時會議 )\n14 正弦穩態分析\n15 正弦穩態分析(遠距教學 Google meet 即時會議 )\n16 專題報告/模擬報告( Google meet 即時會議 遠距教學)\n17 專題報告/模擬報告(遠距教學 Google meet 即時會議 )\n18 期末考",
+    "scorePolicy": "期中考(1) ( 30%)、期中考(1) ( 30%)、期末考(30%)、加分 (10%)",
     "materials": "Book: ELECTRIC CIRCUITS\nRev.: Tenth Edition\nAuthors: James W. Nilsson and Susan A. Riedel\nPublisher: PERSON and Prentice Hall",
-    "consultation": "綜合館 316-1 室電話：2159",
-    "課程對應SDGs指標": "無（None）",
+    "consultation": "綜合館316-1室\n電話：2159",
     "remarks": "Google meet 即時會議",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

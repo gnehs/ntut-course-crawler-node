@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳志鏗",
+    "teacher": "陳志鏗",
     "email": "ckchen0618@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11937",
     "latestUpdate": "2025-05-21 10:53:57",
-    "objective": "本課程所為研究所課程，內容包括主動煞車控制系統介紹，將針對 ABS, TCS, ESP 及 SBC 煞車系統原理介紹，煞車系統及控制器之數學模式及設計等，應用實例介紹。\n\nThis course is designed mainly for senior/graduate students. The objective of this course is to introduce active braking control system, such as ABS, TCS, ESP and SBC background. The mathematical model of the system and its applications for the controller design of braking system are also included.",
-    "schedule": "1. Introduction to Active Braking Control Systems   (1 week)\n2. Introduction to ABS, TCS, ESP and SBC          (2 weeks)\n3. Control-oriented Models of Braking Dynamics (2 weeks) \n4. Braking Control Systems Design: Actuators with Continuous Dynamics (2 week)\n5. Introduction to Simulation Tools (1 week)\n6. Midterm test (1 week)\n7. Braking Control Systems Design: Actuators with Discrete Dynamics    (2 weeks) \n8. Longitudinal Wheel Slip Estimation (2.5 weeks) \n9. Mixed Slip and Deceleration Control (2.5 weeks) \n10. Final Project with Simulation (2 weeks) \n11. Final Test",
+    "outline": "本課程所為研究所課程，內容包括主動煞車控制系統介紹，將針對ABS, TCS, ESP 及 SBC 煞車系統原理介紹，煞車系統及控制器之數學模式及設計等，應用實例介紹。\n\nThis course is designed mainly for senior/graduate students. The objective of this course is to introduce active braking control system, such as ABS, TCS, ESP and SBC background. The mathematical model of the system and its applications for the controller design of braking system are also included.",
+    "schedule": "1. Introduction to Active Braking Control Systems (1 week)\n2. Introduction to ABS, TCS, ESP and SBC (2 weeks)\n3. Control-oriented Models of Braking Dynamics (2 weeks)\n4. Braking Control Systems Design: Actuators with Continuous Dynamics (2 week)\n5. Introduction to Simulation Tools (1 week)\n6. Midterm test (1 week)\n7. Braking Control Systems Design: Actuators with Discrete Dynamics (2 weeks)\n8. Longitudinal Wheel Slip Estimation (2.5 weeks)\n9. Mixed Slip and Deceleration Control (2.5 weeks)\n10. Final Project with Simulation (2 weeks)\n11. Final Test",
     "scorePolicy": "Homework 20%\nMidterm test 25%\nFinal project 30%\nFInal Exam 25%",
     "materials": "Text Book: S. M. Savaresi, M. Tanelli, Active Braking Control Systems Design for Vehicles, Springer, 2010\n\nReference Book: Brakes, Brake control and driver assistance systems: Function, Regulation and Components (Bosch Professional Automotive Information) 2015th Edition",
-    "consultation": "Office Hours: Wednesday 14:00-17:00 (reference only)Email: ckchen@ntut.edu.twTEL: (02) 27712171 ext 3601",
-    "課程對應SDGs指標": "無（None）SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）SDG14：水下生命（Life below Water）SDG15：陸域生命（Life on Land）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "The link for on-line course:https://meet.google.com/dqv-xhfq-xbw",
+    "consultation": "Office Hours: Wednesday 14:00-17:00 (reference only)\nEmail: ckchen@ntut.edu.tw\nTEL: (02) 27712171 ext 3601",
+    "remarks": "The link for on-line course:\n\nhttps://meet.google.com/dqv-xhfq-xbw",
+    "resources": "",
+    "sdgs": "無（None）\nSDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG5：性別平等（Gender Equality）\nSDG6：潔淨水與衛生（Clean Water and Sanitation）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG10：減少不平等（Reduced Inequalities）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）\nSDG13：氣候行動（Climate Action）\nSDG14：水下生命（Life below Water）\nSDG15：陸域生命（Life on Land）\nSDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳香君",
+    "teacher": "陳香君",
     "email": "annette@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12386",
     "latestUpdate": "2024-12-17 16:50:40",
-    "objective": "1. 組合分析 2. 機率公設 3. 條件機率與獨立 4. 離散隨機變數 5. 連續隨機變數 6. 結合分佈隨機變數 7. 期望值性質 8. 極限定理 9. 模擬\n1.Combinatorial Analysis 2.Axioms of Probability3.\tConditional Probability and Independence4.Discrete Random Variables5.Continuous Random Variables6.Jointly Distributed Random Variables7.Properties of Expectation 8.Limit Theorems 9.Simulation",
-    "schedule": "Week  1. Introduction to Probability; Counting Principle\nWeek  2. Permutations and Combinations\nWeek  3. Sample Spaces, Event and Axioms of Probability\nWeek  4. Some Propositions; Equally Likely Fundamental Events\nWeek  5. Conditional Probability; Bayes Formula\nWeek  6. Independent Events; Sequential Events\nWeek  7. Midterm 1; Random Variables\nWeek  8. Discrete random Variable,  CDF, PMF\nWeek  9. Expectation, Variance, and Well Known Discrete Random Variables.\nWeek 10. Continuous Random Variable and PDF\nWeek 11. Well Known Continuous random Variables\nWeek 12. Function of a Random Variable; Midterm 2\nWeek 13. Two and Multi Dimensional Random Variables\nWeek 14. (Expectations of) Sums of Random Variables\nWeek 15. Correlation and Covariance; Conditional Expectation\nWeek 16. Inequality, the Law of Large Numbers and Limit Theorems\nWeek 17. Selected Topics (Poisson Process, Markov Chain etc)\nWeek 18. Final Exam",
-    "scorePolicy": "1.\tHomeworks + Class participation \t      20%\n2.\tTwo Mid Terms                           25%*2=50%\n3.\tFinal Exam.                                   30%",
-    "materials": "Textbook:\nGhahramani, “Fundamentals of Probability with Stochastic Processes,” 3rd ed., Pearson, 2005 (or PNIE edition, 2014) , or 4th ed., CRC Press, 2019.\n\nReference Books:\n1.       S. Ross, “A First Course in Probability”, 7th ed., Pearson Prentice Hall,    2006.\n2.\tLeon-Garcia, “Probability and Random Processes for Electrical Engineering,” 3rd ed., Pearson, 2009.\n3.\tYates and Goodman, “Probability and Stochastic Processes,” 3rd ed., John Wiley & Sons, 2015.\n4.\tPapoulis and Pillai, “Probability, Random Variables, and Stochastic Processes,” 4th ed., Mc-Graw-Hill, 2002.\n5.\tWalpole, Myers, Myers and Ye, “Probability and Statistics for Engineers and Scientists,” 9th ed., Pearson, 2016.",
-    "consultation": "Office hours: Mon 10:10-12 14:00-18:00https://irs.zuvio.com.tw/teacher/course/email: annette@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）",
+    "outline": "1.組合分析2.機率公設3.條件機率與獨立4.離散隨機變數5.連續隨機變數6.結合分佈隨機變數7.期望值性質8.極限定理9.模擬\n1.Combinatorial Analysis 2.Axioms of Probability3. Conditional Probability and Independence4.Discrete Random Variables5.Continuous Random Variables6.Jointly Distributed Random Variables7.Properties of Expectation 8.Limit Theorems 9.Simulation",
+    "schedule": "Week 1. Introduction to Probability; Counting Principle\nWeek 2. Permutations and Combinations\nWeek 3. Sample Spaces, Event and Axioms of Probability\nWeek 4. Some Propositions; Equally Likely Fundamental Events\nWeek 5. Conditional Probability; Bayes Formula\nWeek 6. Independent Events; Sequential Events\nWeek 7. Midterm 1; Random Variables\nWeek 8. Discrete random Variable, CDF, PMF\nWeek 9. Expectation, Variance, and Well Known Discrete Random Variables.\nWeek 10. Continuous Random Variable and PDF\nWeek 11. Well Known Continuous random Variables\nWeek 12. Function of a Random Variable; Midterm 2\nWeek 13. Two and Multi Dimensional Random Variables\nWeek 14. (Expectations of) Sums of Random Variables\nWeek 15. Correlation and Covariance; Conditional Expectation\nWeek 16. Inequality, the Law of Large Numbers and Limit Theorems\nWeek 17. Selected Topics (Poisson Process, Markov Chain etc)\nWeek 18. Final Exam",
+    "scorePolicy": "1. Homeworks + Class participation 20%\n2. Two Mid Terms 25%*2=50%\n3. Final Exam. 30%",
+    "materials": "Textbook:\nGhahramani, “Fundamentals of Probability with Stochastic Processes,” 3rd ed., Pearson, 2005 (or PNIE edition, 2014) , or 4th ed., CRC Press, 2019.\n\nReference Books:\n1. S. Ross, “A First Course in Probability”, 7th ed., Pearson Prentice Hall, 2006.\n2. Leon-Garcia, “Probability and Random Processes for Electrical Engineering,” 3rd ed., Pearson, 2009.\n3. Yates and Goodman, “Probability and Stochastic Processes,” 3rd ed., John Wiley & Sons, 2015.\n4. Papoulis and Pillai, “Probability, Random Variables, and Stochastic Processes,” 4th ed., Mc-Graw-Hill, 2002.\n5. Walpole, Myers, Myers and Ye, “Probability and Statistics for Engineers and Scientists,” 9th ed., Pearson, 2016.",
+    "consultation": "Office hours: Mon 10:10-12 14:00-18:00\nhttps://irs.zuvio.com.tw/teacher/course/\nemail: annette@ntut.edu.tw",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG5：性別平等（Gender Equality）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "吳建勳",
+    "teacher": "吳建勳",
     "email": "chwu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12285",
     "latestUpdate": "2024-12-25 23:34:11",
-    "objective": "應用感測器概論內容包括常見各類型感測器介紹與實驗測試。學生將學習應用感測器的基本要求，並練習如何應用適當程式設計與電路整合，課程著重學生軟硬體實作演練。\nThe course includes an overview of common types of sensors and hands-on experiments. Students will learn the basic requirements for applying sensors and practice integrating appropriate programming and circuits. The course emphasizes hands-on exercises in both software and hardware implementation.",
-    "schedule": "第 01 週  課程與實驗環境簡介 + 應用感測器 (草帽 LED)(雙色 LED)(貼片 RG)(三色插件)\n第 02 週  應用感測器 (旋轉編碼器)(可調電位器)\n第 03 週  應用感測器 (光敏電阻)(TEM16000 光線)(激光頭傳感器)\n第 04 週  應用感測器 (紅外線發射)(紅外線接收)\n第 05 週  綜合模組整合與測試 01\n第 06 週  應用感測器 (有源蜂鳴器)(麥克風聲音)\n第 07 週  應用感測器 (超聲波感知器)(搖桿模組)\n第 08 週  應用感測器 (熱敏電阻)(LM35、18B20 溫度)\n第 09 週  期中考 (選擇與填空)\n第 10 週  應用感測器 (LCD 螢幕)\n第 11 週  綜合模組整合與測試 02\n第 12 週  應用感測器 (人體紅外線)(手指測心跳)\n第 13 週  應用感測器 (MQ-2 煙霧)(DHT11 溫濕度)\n第 14 週  應用感測器 (霍爾傳感器)(干簧管感知器)\n第 15 週  應用感測器 (按鍵傳導器、單路繼電器)\n第 16 週  綜合模組整合與測試 03\n第 17 週  綜合測試與討論\n第 18 週  期末報告 (情境說明 + 實體展示)",
-    "scorePolicy": "平時點名：10%\n平時練習：20%\n期  中  考：30% 期中考 (選擇與填空)\n期末報告：40% 期末報告 (情境說明 + 實體展示)",
+    "outline": "應用感測器概論內容包括常見各類型感測器介紹與實驗測試。學生將學習應用感測器的基本要求，並練習如何應用適當程式設計與電路整合，課程著重學生軟硬體實作演練。\nThe course includes an overview of common types of sensors and hands-on experiments. Students will learn the basic requirements for applying sensors and practice integrating appropriate programming and circuits. The course emphasizes hands-on exercises in both software and hardware implementation.",
+    "schedule": "第01週 課程與實驗環境簡介+應用感測器(草帽LED)(雙色LED)(貼片RG)(三色插件)\n第02週 應用感測器(旋轉編碼器)(可調電位器)\n第03週 應用感測器(光敏電阻)(TEM16000光線)(激光頭傳感器)\n第04週 應用感測器(紅外線發射)(紅外線接收)\n第05週 綜合模組整合與測試01\n第06週 應用感測器(有源蜂鳴器)(麥克風聲音)\n第07週 應用感測器(超聲波感知器)(搖桿模組)\n第08週 應用感測器(熱敏電阻)(LM35、18B20溫度)\n第09週 期中考(選擇與填空)\n第10週 應用感測器(LCD螢幕)\n第11週 綜合模組整合與測試02\n第12週 應用感測器(人體紅外線)(手指測心跳)\n第13週 應用感測器(MQ-2煙霧)(DHT11溫濕度)\n第14週 應用感測器(霍爾傳感器)(干簧管感知器)\n第15週 應用感測器(按鍵傳導器、單路繼電器)\n第16週 綜合模組整合與測試03\n第17週 綜合測試與討論\n第18週 期末報告(情境說明+實體展示)",
+    "scorePolicy": "平時點名：10%\n平時練習：20%\n期 中 考：30%期中考(選擇與填空)\n期末報告：40%期末報告(情境說明+實體展示)",
     "materials": "自編教材",
-    "consultation": "https://meet.google.com/gtm-ueao-pfr 線上討論 (google meet) 或 email:chwu@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "https://meet.google.com/gtm-ueao-pfr 用線上遠距課程 (google meet)",
+    "consultation": "https://meet.google.com/gtm-ueao-pfr\n線上討論(google meet)或email:chwu@ntut.edu.tw",
+    "remarks": "https://meet.google.com/gtm-ueao-pfr\n用線上遠距課程(google meet)",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

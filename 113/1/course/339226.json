@@ -1,15 +1,18 @@
 [
   {
-    "name": "張敬源",
+    "teacher": "張敬源",
     "email": "chang@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11762",
     "latestUpdate": "2024-09-09 17:32:18",
-    "objective": "本課程介紹以 ARM CPU 為核心之嵌入式系統。內容包含：ARM CPU 基礎架構，ARM CPU 指令集，ARM 之 C 語言工具，ARM 發展環境，開發電路板，模擬器，Linux 驅動程式之撰寫及安裝，分散式網路架構，以及應用實例。\nThis course introduces small single-board computers serving as embedded systems and explains the architecture of X86 and ARM CPUs. This lecture will present the history of the ARM development environment, emulators, distributed network architectures, and industrial applications of ARM architecture. In the course, students learn to install Linux on development boards and write software to communicate with ARM processors. The exercises involve setting commands for the ARM cores and receiving signals from our embedded systems using C language tools.",
-    "schedule": "第 1 週\t課程大綱介紹\n第 2 週\t中秋節\n第 3 週\tRaspi 操作介面及安裝教學\n第 4 週\tPython 基礎\n第 5 週\tPython 進階\n第 6 週\t實作課程\n第 7 週\t實作課程\n第 8 週\t實作課程\n第 9 週\t期中測驗\n第 10 週\t台達 PLC 教學\n第 11 週\t台達 PLC 教學\n第 12 週\tROS 簡介與實作 (含安裝)\n第 13 週\tROS 簡介與實作\n第 14 週\tROS 實作 (樹梅派小車)\n第 15 週\tROS 實作\n第 16 週\t業師演講\n第 17 週\t業師演講\n第 18 週\t期末測驗",
-    "scorePolicy": "期中測驗 (30%), 期末測驗 (30%), 平時成績 (40%)",
-    "materials": "結合 matlab 與 ros 快速上手無人自走車 - 林顯易與陳雙龍著\n\n自備筆電規格: CPU i7、硬碟：100GB up、RAM 8GB （建議配置需求）",
+    "outline": "本課程介紹以ARM CPU為核心之嵌入式系統。內容包含：ARM CPU基礎架構，ARM CPU指令集，ARM之C語言工具，ARM 發展環境，開發電路板，模擬器，Linux驅動程式之撰寫及安裝，分散式網路架構，以及應用實例。\nThis course introduces small single-board computers serving as embedded systems and explains the architecture of X86 and ARM CPUs. This lecture will present the history of the ARM development environment, emulators, distributed network architectures, and industrial applications of ARM architecture. In the course, students learn to install Linux on development boards and write software to communicate with ARM processors. The exercises involve setting commands for the ARM cores and receiving signals from our embedded systems using C language tools.",
+    "schedule": "第1週 課程大綱介紹\n第2週 中秋節\n第3週 Raspi操作介面及安裝教學\n第4週 Python 基礎\n第5週 Python 進階\n第6週 實作課程\n第7週 實作課程\n第8週 實作課程\n第9週 期中測驗\n第10週 台達PLC教學\n第11週 台達PLC教學\n第12週 ROS簡介與實作(含安裝)\n第13週 ROS簡介與實作\n第14週 ROS實作(樹梅派小車)\n第15週 ROS實作\n第16週 業師演講\n第17週 業師演講\n第18週 期末測驗",
+    "scorePolicy": "期中測驗(30%),期末測驗(30%),平時成績(40%)",
+    "materials": "結合matlab與ros快速上手無人自走車-林顯易與陳雙龍著\n\n自備筆電規格: CPU i7、硬碟:100GB up、RAM 8GB （建議配置需求）",
     "consultation": "聯絡信箱:t112568049@ntut.org.tw",
-    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

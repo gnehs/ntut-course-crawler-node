@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳昭榮",
+    "teacher": "陳昭榮",
     "email": "crchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=111&sem=2&code=10585",
     "latestUpdate": "2023-01-30 09:45:06",
-    "objective": "應備基礎：電力系統 (修過電力運轉與控制或電力系統)、程式設計。\n1. Python 程式設計及應用\n2. 電力潮流分析程式設計\n3. 機組調派程式設計\n4. 無效功率調度程式設計\n5. 電力發電預測程式設計\n6. 上台報告 (指定閱讀 papers)",
-    "schedule": "第 1 週  課程簡介\n第 2 週  電力系統模型及理論\n第 3-5 週\tPython 程式設計概述\n第 6-7 週  電力潮流分析程式設計\n第 8-9 週  機組調派程式設計\n第 10 週\t期中考\n第 11-13 週  無效功率調度程式設計\n第 14-15 週  電力發電預測程式設計\n第 16-17 週  上台報告\n第 18 週\t課程總結",
-    "scorePolicy": "1. 程式報告 (30%)\n2. 期中考試 (30%)\n3. 期末報告 (30%)\n4. 出席、課堂討論 (10%)",
-    "materials": "使用教材：\n1. 陳惠貞，Python 程式設計，旗標圖書，2022.06。\n2. Allen Wood, Bruce F. Wollenberg, \"Power Generation operation and control\"\n3. Hadi Saadat, \"Power System Analysis\", 3rd Edition.",
+    "outline": "應備基礎：電力系統(修過電力運轉與控制或電力系統)、程式設計。\n1. Python程式設計及應用\n2. 電力潮流分析程式設計\n3. 機組調派程式設計\n4. 無效功率調度程式設計\n5. 電力發電預測程式設計\n6. 上台報告(指定閱讀papers)",
+    "schedule": "第1週 課程簡介\n第2週 電力系統模型及理論\n第3-5週 Python程式設計概述\n第6-7週 電力潮流分析程式設計\n第8-9週 機組調派程式設計\n第10週 期中考\n第11-13週 無效功率調度程式設計\n第14-15週 電力發電預測程式設計\n第16-17週 上台報告\n第18週 課程總結",
+    "scorePolicy": "1. 程式報告 (30%)\n2. 期中考試 (30%)\n3. 期末報告 (30%)\n4. 出席、課堂討論(10%)",
+    "materials": "使用教材：\n1. 陳惠貞，Python程式設計，旗標圖書，2022.06。\n2. Allen Wood, Bruce F. Wollenberg, \"Power Generation operation and control\"\n3. Hadi Saadat, \"Power System Analysis\", 3rd Edition.",
     "consultation": "課後當面或書面諮詢",
-    "remarks": "若疫情因素採遠距教學，則連結 https://meet.google.com/nxr-gfoa-chvgoogle meet 線上教學 Teams 網頁 https://teams.microsoft.com/l/channel/19%3aZDnYPr1zdbozzxBFYs1D6AG-0Zzwj182d9QkomPIiOU1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=13b6f885-34b5-4389-894c-434e1b412dba&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
+    "remarks": "若疫情因素採遠距教學，則連結 https://meet.google.com/nxr-gfoa-chv\ngoogle meet線上教學\nTeams網頁\nhttps://teams.microsoft.com/l/channel/19%3aZDnYPr1zdbozzxBFYs1D6AG-0Zzwj182d9QkomPIiOU1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=13b6f885-34b5-4389-894c-434e1b412dba&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,17 +1,18 @@
 [
   {
-    "name": "黃振軒",
+    "teacher": "黃振軒",
     "email": "jshuang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=2&code=12679",
     "latestUpdate": "2026-02-25 15:29:10",
-    "objective": "Vector Differential Calculus, Vector Integral Calculus, Fourier Analysis, Partial Differential Equations",
-    "schedule": "Week 1-4 : Vector Differential Calculus (CH9)\nWeek 5-8 : Vector Integral Calculus (CH10)\nWeek 9 :   Midterm Exam\nWeek 10-13 : Fourier Analysis (CH11)\nWeek 14-17 : Partial Differential Equations (CH12)\nWeek 18 :    Final exam",
+    "outline": "Vector Differential Calculus, Vector Integral Calculus, Fourier Analysis, Partial Differential Equations",
+    "schedule": "Week 1-4 : Vector Differential Calculus (CH9)\nWeek 5-8 : Vector Integral Calculus (CH10)\nWeek 9 : Midterm Exam\nWeek 10-13 : Fourier Analysis (CH11)\nWeek 14-17 : Partial Differential Equations (CH12)\nWeek 18 : Final exam",
     "scorePolicy": "Quiz 40%\nMidterm Exam 30%\nFinal Exam 30%",
-    "materials": "Erwin Kreyszig, Advanced Engineering Mathematics, 10th Edition, Wiley.\n江大成、陳常侃編譯，高等工程數學 (上) 第十版，全華圖書有限公司。\nO'Neil, Advanced Engineering Mathematics, 8/e (SI Edition)",
+    "materials": "Erwin Kreyszig, Advanced Engineering Mathematics, 10th Edition, Wiley.\n江大成、陳常侃編譯，高等工程數學(上)第十版，全華圖書有限公司。\nO'Neil, Advanced Engineering Mathematics, 8/e (SI Edition)",
     "consultation": "office hours",
-    "延伸教學與資源": "● 數位教材資源應用 (Application of Digital Resources) 採用影音多媒體或具開放授權之資源（如 OCW、開放教科書）作為主要或輔助教材。Adopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
+    "resources": "● 數位教材資源應用 (Application of Digital Resources)\n採用影音多媒體或具開放授權之資源（如OCW、開放教科書）作為主要或輔助教材。\nAdopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

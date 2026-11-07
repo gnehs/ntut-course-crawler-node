@@ -1,16 +1,17 @@
 [
   {
-    "name": "張順益",
+    "teacher": "張順益",
     "email": "changsy@ntut.edu.tw",
     "latestUpdate": "2025-05-26 08:09:57",
-    "objective": "結構工程上的問題一般都會以微分方程式來表示，微分方程式的求解除了少數簡單及線性的結構系統能以解析的方法求解外，大都需要使用數值方法來求解。例如使用有限元素法來進行結構分析，其中就隱含相當多的數值分法，如微分方程式的離散化，函數插值法，數值積分，數值微分，非線性方程式的求解以及矩陣計算等等。主要課程內容有:\n(1)\tNumerical Systems and Errors\n(2)\tInterpolation by Polynomial\n(3)\tNumerical Solution of Nonlinear Equations\n(4)\tNumerical Differentiation and Integration\n(5)\tNumerical Solution of Differential Equations\n(6)\tNumerical Linear Algebra",
-    "schedule": "(1)\tNumerical Systems and Errors\n(2)\tInterpolation by Polynomial\n(3)\tNumerical Solution of Nonlinear Equations\n(4)\tNumerical Differentiation and Integration\n(5)\tNumerical Solution of Differential Equations\n(6)\tNumerical Linear Algebra",
+    "outline": "結構工程上的問題一般都會以微分方程式來表示，微分方程式的求解除了少數簡單及線性的結構系統能以解析的方法求解外，大都需要使用數值方法來求解。例如使用有限元素法來進行結構分析，其中就隱含相當多的數值分法，如微分方程式的離散化，函數插值法，數值積分，數值微分，非線性方程式的求解以及矩陣計算等等。主要課程內容有:\n(1) Numerical Systems and Errors\n(2) Interpolation by Polynomial\n(3) Numerical Solution of Nonlinear Equations\n(4) Numerical Differentiation and Integration\n(5) Numerical Solution of Differential Equations\n(6) Numerical Linear Algebra",
+    "schedule": "(1) Numerical Systems and Errors\n(2) Interpolation by Polynomial\n(3) Numerical Solution of Nonlinear Equations\n(4) Numerical Differentiation and Integration\n(5) Numerical Solution of Differential Equations\n(6) Numerical Linear Algebra",
     "scorePolicy": "期中考，組期末報告。mid-term exam and final group report",
     "materials": "參考書：Elementary Numerical Analysis (Samuel D. Conte / Carl de Boor)",
     "consultation": "line 群組，手機。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,16 +1,18 @@
 [
   {
-    "name": "黃明熙",
+    "teacher": "黃明熙",
     "email": "simonh@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11215",
     "latestUpdate": "2025-05-28 10:01:33",
-    "objective": "課程概述與目標：電力電子電路之工作原理，數學模式分析，控制器分析與設計",
-    "schedule": "Week 1 :       Ch1. Introduction\nWeek 2~3:   Ch2. Principles of steady state  converter analysis \nWeek 4 :      Ch3. Steady-state equivalent circuit modeling, losses, and efficiency\nWeek 5~6:   Ch4. Switch realization \nWeek 7:       Ch5. The discontinuous conduction mode\nWeek 8:       Ch6. Converter circuit\nWeek 9 :      Mid. term exam.\nWeek 10~12: Ch7. AC equivalent circuit  modeling\nWeek 13~14: Ch8. Converter transfer functions\nWeek 15~16 Ch9. Controller design\nWeek 17:　  Ch 17. The ideal rectifier \nWeek 18:     Final exam.",
-    "scorePolicy": "作業 (含 Simulation): 20%，期中考: 30%，期末考: 30%，其他：10%",
-    "materials": "*Robert W. Erickson and Dragan Maksimovic, “Fundamentals of power Electronics,” Kluwer Academic Publishers, 3rd version, 2020.\n* 部分教材自編",
+    "outline": "課程概述與目標：電力電子電路之工作原理，數學模式分析，控制器分析與設計",
+    "schedule": "Week 1 : Ch1. Introduction\nWeek 2~3: Ch2. Principles of steady state converter analysis\nWeek 4 : Ch3. Steady-state equivalent circuit modeling, losses, and efficiency\nWeek 5~6: Ch4. Switch realization\nWeek 7: Ch5. The discontinuous conduction mode\nWeek 8: Ch6. Converter circuit\nWeek 9 : Mid. term exam.\nWeek 10~12: Ch7. AC equivalent circuit modeling\nWeek 13~14: Ch8. Converter transfer functions\nWeek 15~16 Ch9. Controller design\nWeek 17:　 Ch 17. The ideal rectifier\nWeek 18: Final exam.",
+    "scorePolicy": "作業(含Simulation): 20%，期中考: 30%，期末考: 30%，其他：10%",
+    "materials": "*Robert W. Erickson and Dragan Maksimovic, “Fundamentals of power Electronics,” Kluwer Academic Publishers, 3rd version, 2020.\n*部分教材自編",
     "consultation": "設有助教",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG13：氣候行動（Climate Action）",
-    "課程是否導入AI": "● 無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG13：氣候行動（Climate Action）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

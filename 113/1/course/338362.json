@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳偉堯",
+    "teacher": "陳偉堯",
     "email": "waltchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=10918",
     "latestUpdate": "2024-09-03 09:04:09",
-    "objective": "本課程將作為大一學生入學後第一門程式語言奠基課程，旨在提供學生們了解程式設計的基礎，並探索其與人工智慧的關聯。除了傳授基本的程式設計概念外，我們還將探討人工智慧在程式設計中的應用與意義。課程內容將包括電腦運作概念、程式設計原則、分支敘述、迴圈敘述、輸出輸入敘述、陣列處理、字元處理以及子程式等關鍵課題。同時，我們將特別強調人工智慧對於程式設計的重要性，以及它如何影響我們如何思考、解決問題和開發軟體。透過本課程的學習，學生們將能夠建立堅實的程式設計基礎，並了解人工智慧在這個領域中的關鍵作用。",
+    "outline": "本課程將作為大一學生入學後第一門程式語言奠基課程，旨在提供學生們了解程式設計的基礎，並探索其與人工智慧的關聯。除了傳授基本的程式設計概念外，我們還將探討人工智慧在程式設計中的應用與意義。課程內容將包括電腦運作概念、程式設計原則、分支敘述、迴圈敘述、輸出輸入敘述、陣列處理、字元處理以及子程式等關鍵課題。同時，我們將特別強調人工智慧對於程式設計的重要性，以及它如何影響我們如何思考、解決問題和開發軟體。透過本課程的學習，學生們將能夠建立堅實的程式設計基礎，並了解人工智慧在這個領域中的關鍵作用。",
     "schedule": "Week 01: Introduction to ChatGPT & Chapter 1 Binary and decimal numbers\nWeek 02: Chapter 2 basic elements of Fortran (variables)\nWeek 03: Chapter 2 basic elements of Fortran (statements)\nWeek 04: Chapter 3 branching structures (if/then/else)\nWeek 05: Chapter 3 branching structures (switch) and ChatGPT usage\nWeek 06: First exam\nWeek 07: Chapter 4 loops (do loop)\nWeek 08: Chapter 4 loops (while loop)\nWeek 09: Chapter 4 loops (while loop) and ChatGPT usage\nWeek 10: Chapter 5 file input\nWeek 11: Chapter 5 file output\nWeek 12: Second Exam\nWeek 13: Chapter 6 arrays\nWeek 14: Chapter 6 arrays and ChatGPT usage\nWeek 15: Chapter 7 procedures\nWeek 16: Chapter 7 procedures and ChatGPT usage\nWeek 17: Final exam\nWeek 18: Make-up exam",
     "scorePolicy": "Homework and attendance: 40%\nExam #1: 20% (programming test)\nExam #2: 20% (programming test)\nFinal Exam: 20% (comprehensive programming test)",
     "materials": "Chapman, S. J. (2018). Fortran for Scientists and Engineers, Fourth edition, McGraw Hill, 1024 pages, ISBN: 978-1-260-08417-7",
     "consultation": "請寫電子郵件向授課教師諮詢，或約時間於辦公室當面諮詢。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw 如果學校公佈採取遠距教學，將改用 Google Meet 進行教學，屆時網址會公佈在北科 i 學園，未選課者可直接 email 老師詢問網址。若採取遠距教學，會斟酌調整計分方式。",
+    "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\nhttps://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw\n如果學校公佈採取遠距教學，將改用Google Meet進行教學，屆時網址會公佈在北科i學園，未選課者可直接email老師詢問網址。若採取遠距教學，會斟酌調整計分方式。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

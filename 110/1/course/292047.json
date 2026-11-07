@@ -1,18 +1,17 @@
 [
   {
-    "name": "劉建浩",
+    "teacher": "劉建浩",
     "email": "jhliou@ntut.edu.tw",
     "latestUpdate": "2021-09-19 14:38:57",
-    "objective": "使學生建立邏輯量化思考，並了解管理科學解決問題之方法及應用，且有能力利用電腦工具協助分析經營管理問題，達成最佳化決策。\nTo build the quantitative logic thinking about the decision problems. The course is designed to introduce the fundamental techniques and methods of operations research. The related software will be utilized to aid in building and solving models. The topics to be covered: linear programming, what-if analysis, dual theory, transportation and assignment.",
-    "schedule": "Week 1\nMatrix\nWeek 2-3\nIntroduction to linear programming\nWeek 4-5\n　　Solving linear programming problem: The simplex method\nWeek 6-8\n　　The theory of the simplex method\nWeek 9\n　　Mid-term test\nWeek 10-14\n　　Duality theory and sensitivity analysis\nWeek 15\n　　Other Algorithms for linear programming\nWeek 16-17\n　　The transportation and assignment problem",
+    "outline": "使學生建立邏輯量化思考，並了解管理科學解決問題之方法及應用，且有能力利用電腦工具協助分析經營管理問題，達成最佳化決策。\nTo build the quantitative logic thinking about the decision problems. The course is designed to introduce the fundamental techniques and methods of operations research. The related software will be utilized to aid in building and solving models. The topics to be covered: linear programming, what-if analysis, dual theory, transportation and assignment.",
+    "schedule": "Week 1\nMatrix\nWeek 2-3\nIntroduction to linear programming\nWeek 4-5\nSolving linear programming problem: The simplex method\nWeek 6-8\nThe theory of the simplex method\nWeek 9\nMid-term test\nWeek 10-14\nDuality theory and sensitivity analysis\nWeek 15\nOther Algorithms for linear programming\nWeek 16-17\nThe transportation and assignment problem",
     "scorePolicy": "平時 30%\n期中考 30%\n期末考 40%",
     "materials": "Introduction to operations research (McGraw Hill)\nFrederick S. Hillier\nGerald J. Lieberman",
-    "foreignLanguageTextbooks": true,
-    "covid19": {
-      "lv2Description": "二級上課方式 (COVID-19 2nd level alert)\n教師到校授課，部分學生實體上課，其他學生採遠距上課 (以不到校為原則)。 實體上課須符合政府防疫規範。\n(Parts of students come to school, parts of students on line class that based on the student ID number) (Test will be hold in classroom)\n學號單號者單週到校實體上課 (If student ID number is odd,please come to class room in odd weeks).\n學號雙號者雙週到校實體上課 (If student ID number is even,please come to classroom in even weeks)\n第一周全部線上上課\n第二周雙號同學可以到校實體或線上\n第三周單號同學可以到校實體或線上\n第四周開始正式單雙周分流上課 ",
-      "courseScoreMethod": "上課採用部分實體，部分線上\n考試則採實體測驗 (Test will be hold in classroom)",
-      "courseInfo": null,
-      "lv2Method": "分流上課"
-    }
+    "consultation": "請Email約時間討論(E-mail to me, if you have any questions)\njamesjhliou@gmail.com",
+    "remarks": "●上課方式：分流上課\n\n二級上課方式(COVID-19 2nd level alert)\n教師到校授課，部分學生實體上課，其他學生採遠距上課(以不到校為原則)。 實體上課須符合政府防疫規範。\n(Parts of students come to school, parts of students on line class that based on the student ID number) (Test will be hold in classroom)\n學號單號者單週到校實體上課(If student ID number is odd,please come to class room in odd weeks).\n學號雙號者雙週到校實體上課(If student ID number is even,please come to classroom in even weeks)\n第一周全部線上上課\n第二周雙號同學可以到校實體或線上\n第三周單號同學可以到校實體或線上\n第四周開始正式單雙周分流上課\n\n●評量方式：上課採用部分實體，部分線上\n考試則採實體測驗(Test will be hold in classroom)\n\n\n●補充說明資訊：",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
   }
 ]

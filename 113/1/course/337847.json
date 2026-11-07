@@ -1,15 +1,18 @@
 [
   {
-    "name": "謝文彬",
+    "teacher": "謝文彬",
     "email": "wbhsieh@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12574",
     "latestUpdate": "2024-09-03 15:23:27",
-    "objective": "本課程之設計，在介紹學生資訊安全的概念，並瞭解相關的技術與應用。本課程包括下列主題：資訊安全簡介、傳統加密法、公鑰密碼與雜湊函數、訊息認證編碼與協定、認證機制、電子郵件安全技術、網際網路協定安全技術、全球資訊網安全技術、系統安全技術、防火牆系統等。\nThis course is designed to provide students with the knowledge and techniques essential in information security. The topics to be covered include: introductions to information security, conventional encryption, private key technologies, public key cryptography and hash functions, message authentication code and communication protocols, authentication mechanism, E-Mail security,  Web security, Transport Layer Security, Virtual Private Network, and firewall systems.",
+    "outline": "本課程之設計，在介紹學生資訊安全的概念，並瞭解相關的技術與應用。本課程包括下列主題：資訊安全簡介、傳統加密法、公鑰密碼與雜湊函數、訊息認證編碼與協定、認證機制、電子郵件安全技術、網際網路協定安全技術、全球資訊網安全技術、系統安全技術、防火牆系統等。\nThis course is designed to provide students with the knowledge and techniques essential in information security. The topics to be covered include: introductions to information security, conventional encryption, private key technologies, public key cryptography and hash functions, message authentication code and communication protocols, authentication mechanism, E-Mail security, Web security, Transport Layer Security, Virtual Private Network, and firewall systems.",
     "schedule": "1. Introduction to Information Security\n2. Cryptography—traditional cryptography\n3. Cryptography—modern cryptography\n4. Cryptography—information hiding\n5. Access control—system management and physical security\n6. Malware and protection\n7. Introduction to Virtual Private Network (VPN Introduction and Wireguard Instructions)\n8. Mobile communication security-android platform introduction\n9. Mid-exam\n10. Mobile communication security/cloud security\n11. Cloud security—fog computing\n12. IoT security\n13. computer intrusion techniques\n14. Network attack and defense case introduction and demos\n15. The latest information security incidents (I)\n16. The latest information security incidents (II)\n17. Presentation (I)\n18. Presentation (II)",
     "scorePolicy": "Attendance: 20%\nIndividual Project: 40%\nPresentation: 40%",
-    "materials": "Self-made materials\nReference.\n1. Kimberly Graves, CEH Certified Ethical Hacker Study Guide, John Wiley & Sons.\n2. William Stallings,\nCryptography and Network Security: Principles and Practice (8/e), \nPearson FT Press.",
-    "consultation": "office hour Wed. 12:00-18:00 or by appointmentoffice location: General Studies Building 501-1",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "materials": "Self-made materials\nReference.\n1. Kimberly Graves, CEH Certified Ethical Hacker Study Guide, John Wiley & Sons.\n2. William Stallings,\nCryptography and Network Security: Principles and Practice (8/e),\nPearson FT Press.",
+    "consultation": "office hour Wed. 12:00-18:00 or by appointment\noffice location: General Studies Building 501-1",
     "remarks": "課程內容可能依時事或實際進度進行調整。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

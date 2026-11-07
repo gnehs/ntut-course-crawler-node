@@ -1,15 +1,18 @@
 [
   {
-    "name": "李達生",
+    "teacher": "李達生",
     "email": "f11167@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11167",
     "latestUpdate": "2024-12-24 08:15:51",
-    "objective": "數學基礎簡介，轉換函數，訊號流程圖，實際系統數學模式之求得，狀態變數分析，線性系統之穩定度分析，控制系統之時域分析，根值軌跡圖，控制系統之頻域分析。\nBasic concepts of control systems and the mathematical background, transfer function, block diagram, signal flow graph, mathematical modeling of control systems, state vrariable analysis, stability analysis, time-domain analysis, root locus techniques, frequency-domain analysis.",
-    "schedule": "1\t控制理論課程綱要簡介\n2-3\t古典控制理論\n4-5\tPID Controller 設計\n6\t線性代數基礎\n7\t自動控制系統狀態空間\n8-9\t狀態空間設計\n10\t期中考\n11-12\t強健控制系統設計\n13\t模糊控制理論\n14-15\t模糊控制系統設計實例\n16-17\tAI 導入實務\n18-19\tAI 輔助控制系統設計實例",
-    "scorePolicy": "到課與課堂表現 30%\n期中考 15%\n期末考 15%\n報告 (個人或分組視情況) 40%",
+    "outline": "數學基礎簡介，轉換函數，訊號流程圖，實際系統數學模式之求得，狀態變數分析，線性系統之穩定度分析，控制系統之時域分析，根值軌跡圖，控制系統之頻域分析。\nBasic concepts of control systems and the mathematical background, transfer function, block diagram, signal flow graph, mathematical modeling of control systems, state vrariable analysis, stability analysis, time-domain analysis, root locus techniques, frequency-domain analysis.",
+    "schedule": "1 控制理論課程綱要簡介\n2-3 古典控制理論\n4-5 PID Controller設計\n6 線性代數基礎\n7 自動控制系統狀態空間\n8-9 狀態空間設計\n10 期中考\n11-12 強健控制系統設計\n13 模糊控制理論\n14-15 模糊控制系統設計實例\n16-17 AI導入實務\n18-19 AI輔助控制系統設計實例",
+    "scorePolicy": "到課與課堂表現 30%\n期中考 15%\n期末考 15%\n報告(個人或分組視情況) 40%",
     "materials": "自編講義",
-    "consultation": "每周綜科館 610 室諮詢 3 小時，周間時間依照當周狀況通知。",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "consultation": "每周綜科館610室諮詢3小時，周間時間依照當周狀況通知。",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

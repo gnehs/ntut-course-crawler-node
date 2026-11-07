@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳明彥",
+    "teacher": "陳明彥",
     "email": "mychen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12627",
     "latestUpdate": "2025-08-16 12:51:00",
-    "objective": "This course includes 4 parts: Vehicle electrical motor (DC Motor, Induction Motor, Synchronous Motor, and Motor Actuator, Control of Position, Speed, and Torque), Vehicle battery technology (battery types, electro-chemical mechanism, battery testing, alternative batteries, fuel cell, and future battery technology), Charging system (generator and charging characteristics), and Electrical energy management system.\n\n本課程內容共分成四個部分：\n1. 車用電機 (含直流馬達、感應馬達、同步馬達及其驅動器介紹，馬達位置、轉速及扭矩控制)\n2. 車用電池技術 (含電池分類、電池化學、電池檢驗及測試、新式電池及燃料電池、電池發展近況)\n3. 充放電系統 (發電機、充放電特性)\n4. 車輛電能管理 (能量管理系統)",
+    "outline": "This course includes 4 parts: Vehicle electrical motor (DC Motor, Induction Motor, Synchronous Motor, and Motor Actuator, Control of Position, Speed, and Torque), Vehicle battery technology(battery types, electro-chemical mechanism, battery testing, alternative batteries, fuel cell, and future battery technology), Charging system (generator and charging characteristics), and Electrical energy management system.\n\n本課程內容共分成四個部分：\n1. 車用電機(含直流馬達、感應馬達、同步馬達及其驅動器介紹，馬達位置、轉速及扭矩控制)\n2. 車用電池技術(含電池分類、電池化學、電池檢驗及測試、新式電池及燃料電池、電池發展近況)\n3. 充放電系統(發電機、充放電特性)\n4. 車輛電能管理(能量管理系統)",
     "schedule": "Week 1: Introduction to electrical systems on vehicles\nWeek 2: The fundamental of motors\nWeek 3: DC motor\nWeek 4: Teacher's Day vacation\nWeek 5: Moon festival\nWeek 6: Synchronous motor\nWeek 7: Induction motor\nWeek 8: Mid-term exam\nWeek 9: Motor control (position, speed, torque)\nWeek 10: Motor and electrical powertrain testing\nWeek 11: The history of battery technology development\nWeek 12: Battery chemistry, battery testing\nWeek 13: Alternative battery\nWeek 14: Fuel cell battery\nWeek 15: Charging technology and standards\nWeek 16: Electrical energy management system\nWeek 17: Energy management system in an EV\nWeek 18: Final exam",
-    "scorePolicy": "In-class performance 40%\nMid-term report      30%\nFinal report         30%",
+    "scorePolicy": "In-class performance 40%\nMid-term report 30%\nFinal report 30%",
     "materials": "1. Electric and hybrid vehicles, Tom Denton and Hayley Pells, 2024, ISBN：9781032556802\n2. Electric vehicle : technology and expectations in the automobile age, Gijs Mom, 2013, ISBN：9781421409702\n3. Electric vehicle batteries : lithium-ion battery, electric vehicle battery, 2010, ISBN：9781156705506\n4. Electric vehicle battery, Frederic P. Miller, 2009, ISBN：9786130061548\n5. Self-made materials",
-    "consultation": "Office hours:Monday   14:00-15:00Thursday 14:00-18:00Friday      10:00-11:00Please book the consultation time before coming.Booking email: mychen@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 無（None）",
+    "consultation": "Office hours:\nMonday 14:00-15:00\nThursday 14:00-18:00\nFriday 10:00-11:00\n\nPlease book the consultation time before coming.\nBooking email: mychen@ntut.edu.tw",
     "remarks": "This course is classified as an EMI course. The students who take the course are required to have at least CEFR B2 level English proficiency (relevant to TOEIC Listening 400, Reading 385, Speaking 160, Writing 150).",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "傅子恒",
+    "teacher": "傅子恒",
     "email": "jomo0825@gmail.com",
-    "latestUpdate": "2025-01-10 00:50:28",
-    "objective": "This course provides the fundamental knowledge, the structure and the designing methods of interactive game programming using Unity3D and C#. Students will learn how to split a game system into modular components and realize the whole system step by step.",
-    "schedule": "02/21\tW1\tIntroduction\tTool setup, Electron+Webix, Ionic+React\n02/28\tW2\tJavascript OOP\tJS fundamentals, ES13 OOP, Pre-course Exercises\n03/07\tW3\tJavascript OOP\tAdvanced JS, Webix Designer\n03/14\tW4\tElectron Apps\tButton, Menu bar, Todo, Clock, Webix Designer\n03/21\tW5\tElectron Apps\tCalculator, Calendar, Charts\n03/28\tW6\tElectron Apps\tMusic Player, Search bar\n04/04\tW7\tElectron Apps\tDatabase\n04/11\tW8\tPBL\tLanguage Learning app \n04/18\tW9\tMidterm\tLanguage Learning app \n04/25\tW10\tReact.js Basics\tReact.js fundamentals\n05/02\tW11\tReact.js Apps\tButton, Menu bar, Todo, Clock \n05/09\tW12\tReact.js Apps\tCalculator, Calendar, Charts\n05/16\tW13\tReact.js Apps\tMusic Player, Search bar\n05/23\tW14\tReact.js Apps\tDatabase\n05/30\tW15\tPBL\tDashboard Project\n06/06\tW16\tPBL\tDashboard Project\n06/13\tW17\tPBL\tDashboard Project\n06/20\tW18\tFinal Week\tDashboard Project",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12349",
+    "latestUpdate": "2025-02-14 03:24:21",
+    "outline": "This course introduces the fundamental principles, structures, and design methodologies essential for interactive app programming using JavaScript, HTML, CSS, Electron, Webix, React, and Ionic. It emphasizes intensive, hands-on practice to ensure practical understanding and skill development.",
+    "schedule": "02/21 W1 Tool setup, Electron+Webix, Ionic+React\n02/28 W2 JS fundamentals, ES13 OOP, Pre-course Exercises\n03/07 W3 Electron App Exercise #01 – Dice Roller\n03/14 W4 Electron App Exercise #02 – Traffic Lights\n03/21 W5 Electron App Exercise #03 – Todo List\n03/28 W6 Electron App Exercise #04 – Music Player\n04/04 W7 Electron App Exercise #05 – Database\n04/11 W8 Midterm Project\n04/18 W9 Midterm Project\n04/25 W10 React.js Basics\n05/02 W11 React App Exercise #01 – Dice Roller\n05/09 W12 React App Exercise #02 – Traffic Lights\n05/16 W13 React App Exercise #03 – Todo List\n05/23 W14 React App Exercise #04 – Music Player\n05/30 W15 React App Exercise #05 – Database\n06/06 W16 Final Project\n06/13 W17 Final Project\n06/20 W18 Final Project",
     "scorePolicy": "Participation：10%\nMid-term Project: 40%\nFinal Project: 50%",
     "materials": "Made by teaching group.",
     "consultation": "We will have MS Teams group once the course starts. Please make sure you can login MS Teams by your school account.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳柏端",
+    "teacher": "陳柏端",
     "email": "r92222019@ntu.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12239",
     "latestUpdate": "2024-09-11 09:39:59",
-    "objective": "本課程為基礎的車輛動力學。課程內容包含動力學、功與能、轉動、動量、碰撞，以及車輛上的應用。",
-    "schedule": "1\t\t概論\t\n2\t\t直線運動\t\n3\t\t二維運動\t\n4\t\t牛頓運動定律\t\n5\t\t牛頓運動定律\t\n6\t\t期中考\t30%\n7\t\t功與能\t\n8\t\t重力、彈力位能\t\n9\t\t動量與衝量\n10\t\t碰撞\t\n11\t\t轉動\t\n12\t\t期中考\t30%\t\n13\t\t扭矩和阻力\t\n14\t\t制動\t\n15\t\t懸吊系統與車架\t\n16\t\t振動及穩定性\t\n17\t\t操控性及穩定性\t\n18\t\t期末報告\t40%",
-    "scorePolicy": "期中考兩次各佔 20%，期末報告 60%",
+    "outline": "本課程為基礎的車輛動力學。課程內容包含動力學、功與能、轉動、動量、碰撞，以及車輛上的應用。",
+    "schedule": "1 概論\n2 直線運動\n3 二維運動\n4 牛頓運動定律\n5 牛頓運動定律\n6 期中考 30%\n7 功與能\n8 重力、彈力位能\n9 動量與衝量\n10 碰撞\n11 轉動\n12 期中考 30%\n13 扭矩和阻力\n14 制動\n15 懸吊系統與車架\n16 振動及穩定性\n17 操控性及穩定性\n18 期末報告 40%",
+    "scorePolicy": "期中考兩次各佔20%，期末報告60%",
     "materials": "NA",
-    "consultation": "Office hour 為星期二下午 1 點到 6 點",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "若遠距教學時使用 Google Meethttps://meet.google.com/vcm-txib-tmd",
+    "consultation": "Office hour為星期二下午1點到6點",
+    "remarks": "若遠距教學時使用Google Meet\nhttps://meet.google.com/vcm-txib-tmd",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

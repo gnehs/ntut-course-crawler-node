@@ -1,16 +1,18 @@
 [
   {
-    "name": "白敦文",
+    "teacher": "白敦文",
     "email": "twp@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12095",
     "latestUpdate": "2025-09-08 13:07:05",
-    "objective": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作 Python 作為資料科學的實作工具，包括其相關 Python 基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用 Python 取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的 AI 演算方法來分析大數據並輔助決策。\nData Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making.",
-    "schedule": "第 1 單元：課程介紹 / 資料分析概觀 / AI ChatGPT 範例\n\t第 2 單元：商業智慧 / 統計基礎\n\t第 3 單元：資料倉儲資料探勘\n\t第 4 單元：資料視覺化\n\t第 5 單元：決策樹介紹 \n\t第 6 單元：迴歸分析介紹\n\t第 7 單元：類神經網路介紹\n\t第 8 單元：群集分析\n\t第 9 單元：關聯規則探勘 \n\t第 10 單元：文字探勘技術\n\t第 11 單元：單純貝式分析\n\t第 12 單元：支持向量機\n\t第 13 單元：網路探勘 / 社交網路數據分析",
-    "scorePolicy": "作業 (50%)、期末專題報告 (50%)",
-    "materials": "第 1 單元：課程介紹 / 資料分析概觀\n\t第 2 單元：商業智慧 / 統計基礎\n\t第 3 單元：資料倉儲資料探勘\n\t第 4 單元：資料視覺化\n\t第 5 單元：決策樹介紹 \n\t第 6 單元：迴歸分析介紹\n\t第 7 單元：類神經網路介紹\n\t第 8 單元：群集分析\n\t第 9 單元：關聯規則探勘 \n\t第 10 單元：文字探勘技術\n\t第 11 單元：單純貝式分析\n\t第 12 單元：支持向量機\n\t第 13 單元：網路探勘 / 社交網路數據分析",
-    "consultation": "白敦文老師 @ 科研大樓 1524                    Monday 16:00-18:00                    Thursday 16:00-18:00 楊明哲助教 @  科研大樓 1621                   Friday 16:00-19:00                  Sunday 16:00~19:00",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
-    "remarks": "教學使用 ChatGPT 及生成式 AI 進行基礎資料分析之相關應用",
+    "outline": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作Python作為資料科學的實作工具，包括其相關Python基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用Python取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的AI演算方法來分析大數據並輔助決策。\nData Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making.",
+    "schedule": "第 1 單元: 課程介紹/資料分析概觀/AI ChatGPT範例\n第 2 單元: 商業智慧/統計基礎\n第 3 單元: 資料倉儲資料探勘\n第 4 單元: 資料視覺化\n第 5 單元: 決策樹介紹\n第 6 單元: 迴歸分析介紹\n第 7 單元: 類神經網路介紹\n第 8 單元: 群集分析\n第 9 單元: 關聯規則探勘\n第 10 單元: 文字探勘技術\n第 11 單元: 單純貝式分析\n第 12 單元: 支持向量機\n第 13 單元: 網路探勘/社交網路數據分析",
+    "scorePolicy": "作業(50%)、期末專題報告 (50%)",
+    "materials": "第 1 單元: 課程介紹/資料分析概觀\n第 2 單元: 商業智慧/統計基礎\n第 3 單元: 資料倉儲資料探勘\n第 4 單元: 資料視覺化\n第 5 單元: 決策樹介紹\n第 6 單元: 迴歸分析介紹\n第 7 單元: 類神經網路介紹\n第 8 單元: 群集分析\n第 9 單元: 關聯規則探勘\n第 10 單元: 文字探勘技術\n第 11 單元: 單純貝式分析\n第 12 單元: 支持向量機\n第 13 單元: 網路探勘/社交網路數據分析",
+    "consultation": "白敦文老師 @ 科研大樓 1524\nMonday 16:00-18:00\nThursday 16:00-18:00\n楊明哲助教 @ 科研大樓 1621\nFriday 16:00-19:00\nSunday 16:00~19:00",
+    "remarks": "教學使用 ChatGPT 及生成式AI進行基礎資料分析之相關應用",
+    "resources": "",
+    "sdgs": "SDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG5：性別平等（Gender Equality）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 使用生成式AI進行課堂即時互動（Use generative AI for real-time classroom interaction）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": false
   }
 ]

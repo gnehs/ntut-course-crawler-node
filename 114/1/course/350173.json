@@ -1,16 +1,17 @@
 [
   {
-    "name": "吳佳倫",
+    "teacher": "吳佳倫",
     "email": "Allenwu0986@gmail.com",
     "latestUpdate": "2025-08-14 22:51:36",
-    "objective": "本課程深入探討光纖寬頻網路在現代與未來通訊基礎設施中的核心角色，涵蓋從基礎傳輸原理到高階應用服務的完整範疇。\n課程著重於光纖取代傳統銅纜的優勢，包括抗干擾能力、卓越傳輸品質、網路架構簡化以及服務不中斷特性。\n同時探討高速光纖到大樓（FTTB）系統的頻寬管理功能，並分析其在 5G 混合專用網路 N78、N79 與新興跨域物聯網技術 (GM2MC) 及多元異質網路服務模式。\nThis course provides an in-depth examination of the pivotal role of fiber-optic broadband networks in both contemporary and next-generation communication infrastructures, encompassing the full spectrum from fundamental transmission principles to advanced application services. Emphasis is placed on the advantages of replacing conventional copper cabling with fiber optics, including superior immunity to electromagnetic interference, exceptional transmission quality, simplified network architectures, and the inherent capability for uninterrupted service delivery. \nThe curriculum further investigates the bandwidth management capabilities of high-speed Fiber-to-the-Building (FTTB) systems, alongside a comprehensive analysis of their integration within 5G hybrid private networks (N78, N79), emerging cross-domain Internet of Things (IoT) technologies such as Global Machine-to-Machine Connectivity (GM2MC), and diverse heterogeneous network service models.",
-    "schedule": "第 1 週：通訊國際標準（ITU-T、ITU-R、IEEE、ETSI、IETF、3GPP）\n第 2 週：光纖接取技術（xDSL/FTTX、XPON/NGPON、FWA）應用 - 1\n第 3 週：光纖接取技術（xDSL/FTTX、XPON/NGPON、FWA）應用 - 2\n第 4 週：光纖接取技術（xDSL/FTTX、XPON/NGPON、FWA）應用 - 3\n第 5 週：海纜系統（國內與國際）應用 - 1\n第 6 週：海纜系統（國內與國際）應用 - 2\n第 7 週：海纜系統（國內與國際）應用 - 3\n第 8 週： 期中考專題討論\n第 9 週： 5G 專用網路應用 - 1\n第 10 週：5G 專用網路應用 - 2\n第 11 週：連結亞太陸海空寬頻網路規劃實務 - 1\n第 12 週：連結亞太陸海空寬頻網路規劃實務 - 2\n第 13 週：星韌通信計畫 - 1\n第 14 週：星韌通信計畫 - 2\n第 15-18 週：期末專題討論",
+    "outline": "本課程深入探討光纖寬頻網路在現代與未來通訊基礎設施中的核心角色，涵蓋從基礎傳輸原理到高階應用服務的完整範疇。\n課程著重於光纖取代傳統銅纜的優勢，包括抗干擾能力、卓越傳輸品質、網路架構簡化以及服務不中斷特性。\n同時探討高速光纖到大樓（FTTB）系統的頻寬管理功能，並分析其在5G混合專用網路N78、N79與新興跨域物聯網技術(GM2MC)及多元異質網路服務模式。\nThis course provides an in-depth examination of the pivotal role of fiber-optic broadband networks in both contemporary and next-generation communication infrastructures, encompassing the full spectrum from fundamental transmission principles to advanced application services. Emphasis is placed on the advantages of replacing conventional copper cabling with fiber optics, including superior immunity to electromagnetic interference, exceptional transmission quality, simplified network architectures, and the inherent capability for uninterrupted service delivery.\nThe curriculum further investigates the bandwidth management capabilities of high-speed Fiber-to-the-Building (FTTB) systems, alongside a comprehensive analysis of their integration within 5G hybrid private networks (N78, N79), emerging cross-domain Internet of Things (IoT) technologies such as Global Machine-to-Machine Connectivity (GM2MC), and diverse heterogeneous network service models.",
+    "schedule": "第1週：通訊國際標準（ITU-T、ITU-R、IEEE、ETSI、IETF、3GPP）\n第2週：光纖接取技術（xDSL/FTTX、XPON/NGPON、FWA）應用-1\n第3週：光纖接取技術（xDSL/FTTX、XPON/NGPON、FWA）應用-2\n第4週：光纖接取技術（xDSL/FTTX、XPON/NGPON、FWA）應用-3\n第5週：海纜系統（國內與國際）應用-1\n第6週：海纜系統（國內與國際）應用-2\n第7週：海纜系統（國內與國際）應用-3\n第8週： 期中考專題討論\n第9週： 5G專用網路應用-1\n第10週：5G專用網路應用-2\n第11週：連結亞太陸海空寬頻網路規劃實務-1\n第12週：連結亞太陸海空寬頻網路規劃實務-2\n第13週：星韌通信計畫-1\n第14週：星韌通信計畫-2\n第15-18週：期末專題討論",
     "scorePolicy": "平時表現：40%\n期中簡報：30%\n期末報告：30%",
     "materials": "1. Multi-Point Architecture in Self-Organizing Networks for Small Cell Enhancement Systems, MDPI Electronics, 2023.\n2. Network Based on Heterogeneous Wireless Sensor Network for Global M2M Connectivity, MDPI Electronics, 2024.\n3. Evolution Towards Coordinated Multi-Point Architecture for LTE-A Technologies, 2023.\n4. A Novel AMI Architecture Based on Smart LNG Management System for Wireless Sensor Networks, 2023.",
-    "consultation": "公告於北科 i 學園 PLUS",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "consultation": "公告於北科i學園PLUS",
     "remarks": "專利新思維",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": true
   }
 ]

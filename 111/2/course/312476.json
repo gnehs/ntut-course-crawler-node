@@ -1,14 +1,18 @@
 [
   {
-    "name": "劉俊麟",
+    "teacher": "劉俊麟",
     "email": "junlin@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=111&sem=2&code=12356",
     "latestUpdate": "2023-02-21 22:37:14",
-    "objective": "(1) 電腦數字系統 (2) 8088 系列組合語言 (3) 8088 系統接線\n、時序、及故障排除 (4) 8088 中斷及中斷應用 (5) 數位介面\n (6) 各種記憶體 (7) DMA 資料傳輸。\nCourse Title: Microprocessor\nCourse Description: This course introduces the working principles of computer. It puts emphasis on both software and hardware, as well as on the theory and practice of microprocessor. In general, this course will cover the topics including introduction to general microprocessors, microprocessor software architecture and operation, assembly language programming, machine language coding,  integer and control flow instructions and program structures, and the memory and I/O interfaces.",
+    "outline": "(1)電腦數字系統 (2)8088系列組合語言 (3)8088系統接線\n、時序、及故障排除 (4)8088中斷及中斷應用 (5)數位介面\n(6)各種記憶體 (7)DMA資料傳輸。\nCourse Title: Microprocessor\nCourse Description: This course introduces the working principles of computer. It puts emphasis on both software and hardware, as well as on the theory and practice of microprocessor. In general, this course will cover the topics including introduction to general microprocessors, microprocessor software architecture and operation, assembly language programming, machine language coding, integer and control flow instructions and program structures, and the memory and I/O interfaces.",
     "schedule": "Week1~2: Course Overview & Introduction to the Microprocessor and Microcomputer\nWeek3~4: Software Architecture of the 8088 and 8086 Microprocessors\nWeek5~6: Assembly Language Programming\nWeek7~8: Machine Coding & Debug Software Development Program\nWeek9: Midterm Exam.\nWeek10~11: 8088/8086 Programming - Integer Instructions and Computations\nWeek12~13: 8088/8086 Programming - Control Flow Instructions and Program Structures\nWeek14~15: Assembly Language Program Development with MASM\nWeek16~17: The 8088 and 8086 Microprocessors and Their Memory and Input/Output Interfaces\nWeek18: Final Exam.",
     "scorePolicy": "Attendance: 10%\nIn-class participation: 5%\nAssignments: 25%\nMidterm Exam.: 30%\nFinal Exam.: 30%",
-    "materials": "Textbook: \nThe 8088 and 8086 Microprocessors: Programming, Interfacing, Software, Hardware, and Applications (4th Edition), Walter A. Triebel, Avtar Singh, Pearson (國內全華圖書代理)\n\nReference book: The Intel Microprocessor - Architecture, Programming, and Interfacing, 8th Edition, Barry B. Brey, Pearson",
+    "materials": "Textbook:\nThe 8088 and 8086 Microprocessors: Programming, Interfacing, Software, Hardware, and Applications (4th Edition), Walter A. Triebel, Avtar Singh, Pearson (國內全華圖書代理)\n\nReference book: The Intel Microprocessor - Architecture, Programming, and Interfacing, 8th Edition, Barry B. Brey, Pearson",
     "consultation": "Send email in advance to reserve time for online or face-to-face curricular consultation",
     "remarks": "During the severe epidemic period, online classes will be adopted, and online conferencing software such as MS Teams or Google Meet will be used and notified in class",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "林信標",
+    "teacher": "林信標",
     "email": "hplin@en.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=10823",
     "latestUpdate": "2024-06-03 10:28:18",
-    "objective": "這門課程著重於對立方衛星設計系統工程與實作的知識傳授，以全面了解整個系統整合與發展的過程。在這門課程中，學生將學習如何依衛星規格需求將系統分解為不同的子系統，如何將這些不同的子系統整合到一個完全功能的系統中，以及組裝整合完成後，如何進行測試與太空環境驗證流程。\n\n本課程由立方衛星 EDM 工程發展平台學習步驟組成，配備立方衛星課堂使用的衛星套件、元件講解。主要配備了六個主要子系統 – 衛星電力供應管理 (EPS)、衛星命令和數據處理 (C&DH)、衛星通訊次系統 (TT&C)、衛星飛行軟體 (F.S.W)、衛星姿態控制感測器 (ADCS) 和衛星結構 (SMS)。\n\n通過體驗立方衛星組裝、整合（包括軟體編程和系統組裝）和測試的過程，學生可以了解每個衛星組件和次系統的功能，以及如何將各次系統整合到衛星系統中，最後進入衛星太空環境驗測，透過實務學習加深學生對衛星設計和開發的理解，以獲得寶貴的技能與知識。\nThis course puts it focus on establishing the knowledge of cubeSAT systems engineering by going through the whole process of system integration. During the course student will learn how the system is broken down into different subsystem (requirement), how to integrate those different subsystem (requirement) into a fully functioning system, and how to test/debug it once it has been integrated.\n\nThe course consists of a EDM learning steps with CubeSat type classroom satellite kit. It is equipped with six primary subsystems – Electrical Power Supply, Command and Data Handling, Communication, Ground station, Sensor and Structure.\n\nYou can learn how each component and subsystem functions and how to integrate components and subsystems into a satellite system through experiencing the process of assembly, integration including programing & system implementation and test.",
-    "schedule": "分為二大主題:\n\nFlatSAT (EBB Level)\nA.        FlatSAT 系統架構介紹 (第二週)\nB.         單板實習 (第三～四週)\nC.        測試計畫研習 (第五～六週)\nD.        系統測試驗證 (第七～八週)\nE.         成果發表 (第九週)\n\nEDM Level\nA.        EDM 系統功能介紹 (第十週)\nB.        單元實習 (第十一～十二週)\nC.        測試計畫研習 (第十三～十四週)\nD.        系統測試驗證 (不含環測)(第十五～十六週)\nE.         成果發表 (第十七～十八週)",
+    "outline": "這門課程著重於對立方衛星設計系統工程與實作的知識傳授，以全面了解整個系統整合與發展的過程。在這門課程中，學生將學習如何依衛星規格需求將系統分解為不同的子系統，如何將這些不同的子系統整合到一個完全功能的系統中，以及組裝整合完成後，如何進行測試與太空環境驗證流程。\n\n本課程由立方衛星EDM工程發展平台學習步驟組成，配備立方衛星課堂使用的衛星套件、元件講解。主要配備了六個主要子系統 – 衛星電力供應管理(EPS)、衛星命令和數據處理(C&DH)、衛星通訊次系統(TT&C)、衛星飛行軟體(F.S.W)、衛星姿態控制感測器(ADCS)和衛星結構(SMS)。\n\n通過體驗立方衛星組裝、整合（包括軟體編程和系統組裝）和測試的過程，學生可以了解每個衛星組件和次系統的功能，以及如何將各次系統整合到衛星系統中，最後進入衛星太空環境驗測，透過實務學習加深學生對衛星設計和開發的理解，以獲得寶貴的技能與知識。\nThis course puts it focus on establishing the knowledge of cubeSAT systems engineering by going through the whole process of system integration. During the course student will learn how the system is broken down into different subsystem (requirement), how to integrate those different subsystem (requirement) into a fully functioning system, and how to test/debug it once it has been integrated.\n\nThe course consists of a EDM learning steps with CubeSat type classroom satellite kit. It is equipped with six primary subsystems – Electrical Power Supply, Command and Data Handling, Communication, Ground station, Sensor and Structure.\n\nYou can learn how each component and subsystem functions and how to integrate components and subsystems into a satellite system through experiencing the process of assembly, integration including programing & system implementation and test.",
+    "schedule": "分為二大主題:\n\nFlatSAT (EBB Level)\nA. FlatSAT系統架構介紹 (第二週)\nB. 單板實習(第三~四週)\nC. 測試計畫研習(第五~六週)\nD. 系統測試驗證(第七~八週)\nE. 成果發表(第九週)\n\nEDM Level\nA. EDM系統功能介紹(第十週)\nB. 單元實習(第十一~十二週)\nC. 測試計畫研習(第十三~十四週)\nD. 系統測試驗證(不含環測)(第十五~十六週)\nE. 成果發表(第十七~十八週)",
     "scorePolicy": "期中成果報告: 50%\n期末成果報告: 50%",
-    "materials": "聘請國家太空中心的專業師資來指導立方衛星實務之設計。組裝與整合測試\n自製教材",
-    "consultation": "使用網路 i 學園聯繫上課資訊其他課程相關事宜請用 email 聯繫 hplin@mail.ntut.edu.tw",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "materials": "聘請國家太空中心的專業師資來指導立方衛星實務之設計. 組裝與整合測試\n自製教材",
+    "consultation": "使用網路i學園聯繫上課資訊\n其他課程相關事宜請用email聯繫\nhplin@mail.ntut.edu.tw",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

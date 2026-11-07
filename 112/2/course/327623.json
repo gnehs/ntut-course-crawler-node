@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳世剛",
+    "teacher": "陳世剛",
     "email": "chensg@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12527",
     "latestUpdate": "2024-05-23 12:02:15",
-    "objective": "基本邏輯閘特性、算術演算回路、正反器及其應用回路、\n各種同步及非同步計數回路、解碼器及顯示回路。",
-    "schedule": "第一週   開學課程及相關規定說明\n第二週   軟體簡介及使用\n第三週   組合邏輯：同位產生器、多工器\n第四週   組合邏輯：七段解碼器\n第五週   算數邏輯：半加器、全加器、四位元 加法器、前瞻進位加法器 (原第七週課程)\n第六週   算數邏輯：半減器、全減器\n第七週   配合補休假 (停課)\n第八週   算數邏輯：乘法器、 VHDL 語法\n第九週   順序邏輯：栓鎖器、正反器 (原第十週課程)\n第十週   配合考場布置 (停課)\n第十一週 順序邏輯：計數器\n第十二週 順序邏輯：暫存器、RAM\n第十三週 順序邏輯：狀態機\n第十四週 除頻器、位移暫存器、比較器、防彈跳器\n第十五週 期末專題題目說明及展示\n第十六週 期末專題實作及展示\n第十七週 期末專題實作及展示\n第十八週 期末專題報告",
-    "scorePolicy": "1. 出缺席及上課參與度 (20%)\n2. 實作完成 - 含每週練習題 / 進階題實作及報告 (40 %)\n3. 期末專題製作報告 (40 %)",
-    "materials": "1. 上課講義 PPT\n2. Charles H. Roth, Jr. and Larry L. Kinney, Fundamentals of Logic Design. 7/e, Pearson FT Press, 2020.\n3. FPGA/CPLD 數位電路設計入門與實務應用：使用 QuartusⅡ(第五版)",
-    "consultation": "1. 課程諮詢請於 Office Hour 預約時間 (Email: chensg@ntut.edu.tw) 2. 316 Lab. TA3. Google Classroom、北科 i 學園",
-    "remarks": "因應學校教室整修工程施作及和同學討論過後，原先訂在 18 週之期末專題報告將提供線上報告和實體報告兩種選擇，請同學留意 Google Classroom 消息、北科 i 學園及上課通知，謝謝！",
+    "outline": "基本邏輯閘特性、算術演算回路、正反器及其應用回路、\n各種同步及非同步計數回路、解碼器及顯示回路。",
+    "schedule": "第一週 開學課程及相關規定說明\n第二週 軟體簡介及使用\n第三週 組合邏輯:同位產生器、多工器\n第四週 組合邏輯:七段解碼器\n第五週 算數邏輯:半加器、全加器、四位元 加法器、前瞻進位加法器(原第七週課程)\n第六週 算數邏輯:半減器、全減器\n第七週 配合補休假(停課)\n第八週 算數邏輯:乘法器、 VHDL 語法\n第九週 順序邏輯:栓鎖器、正反器(原第十週課程)\n第十週 配合考場布置(停課)\n第十一週 順序邏輯:計數器\n第十二週 順序邏輯:暫存器、RAM\n第十三週 順序邏輯:狀態機\n第十四週 除頻器、位移暫存器、比較器、防彈跳器\n第十五週 期末專題題目說明及展示\n第十六週 期末專題實作及展示\n第十七週 期末專題實作及展示\n第十八週 期末專題報告",
+    "scorePolicy": "1. 出缺席及上課參與度 (20%)\n2. 實作完成-含每週練習題/進階題實作及報告 (40 %)\n3. 期末專題製作報告(40 %)",
+    "materials": "1. 上課講義PPT\n2. Charles H. Roth, Jr. and Larry L. Kinney, Fundamentals of Logic Design. 7/e, Pearson FT Press, 2020.\n3. FPGA/CPLD 數位電路設計入門與實務應用：使用QuartusⅡ(第五版)",
+    "consultation": "1. 課程諮詢請於Office Hour預約時間(Email: chensg@ntut.edu.tw)\n2. 316 Lab. TA\n3. Google Classroom、北科i學園",
+    "remarks": "因應學校教室整修工程施作及和同學討論過後，原先訂在18週之期末專題報告將提供線上報告和實體報告兩種選擇，請同學留意Google Classroom消息、北科i學園及上課通知，謝謝!",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

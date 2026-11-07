@@ -1,15 +1,18 @@
 [
   {
-    "name": "陳澤興",
+    "teacher": "陳澤興",
     "email": "tzershing.chen@ntut.edu.tw",
-    "latestUpdate": "2024-12-19 21:58:28",
-    "objective": "基本控制系統的動作方式、位置控制、比例控制、積分控制、微分控制、各種組合控制、氣壓控制裝置、電動及電子控制裝置、液壓控制裝置、空調設備上的各種控制包括溫度、壓力、風量、濕度等之控制。\nTo provide students with the concepts of control actions: two position control, proportional control, floating control, integral control, derivative control; to familiarize students with pneumatic control devices, fluid control devices, damper & valves, elementary control systems on HVAC & R systems, include: temperature control, humidity control, static pressure control, flow control and so on.",
-    "schedule": "第 01 週 2/22 : 自動控制基本概論 (自動控制定義、應用在冷凍空調之控制)\n第 02 週 3/01 : 控制系統概論 Ⅰ (控制系統定義、控制系統的表示法)\n第 03 週 3/08 : 控制系統概論 Ⅱ (控制系統分類、控制系統的設計步驟)\n第 04 週 3/15:  控制系統的數學基礎 Ⅰ(微分方程式、拉氏轉換、小考 1)\n第 05 週 3/22 : 控制系統的數學基礎 Ⅱ(系統分類與轉移函數等)\n第 06 週 3/29 : 古典控制的系統 Ⅰ(系統分類與轉移函數、方塊圖與訊號流程)\n第 07 週 4/05 : 清明節放假\n第 08 週 4/12 : 古典控制的系統 Ⅱ(機電系統的數學模型、小考 1 講解)\n第 09 週 4/19 : 期中考\n第 10 週 4/26 : 控制系統的穩定度 (穩定度定義、系統的穩定度) \n第 11 週 5/03 : 控制系統的時域分析 (暫態響應的分析、穩態響應與精確度)\n第 12 週 5/10 : 狀態變數模型與分析 (系統的動態方程式)\n第 13 週 5/17 : 控制系統的設計 Ⅰ (電動機的控制、冷凍設備的控制、小考 2)\n第 14 週 5/24 : 控制系統的設計 Ⅱ (空調設備與調節閥的控制)\n第 15 週 5/31 : 端午節放假\n第 16 週 6/07 : 水管系統控制\n第 17 週 6/14 : 空氣系統控制 (小考 2 講解)\n第 18 週 6/21 : 期末考\n※課程進度與小考要求將視學生學習情況適度調整。",
-    "scorePolicy": "1. 出缺席狀況 (20 %) → 無故缺席扣 3% / 次 (向教務處請事病假扣 1%/ 次)\n2. 期中考 (30 %)\n3. 期末考 (30%)\n4. 小考 2 次 (20 %)\n※評量項目與配分將視學生學習情況適度調整。",
-    "materials": "使用教材: \n個人自編之講義",
-    "consultation": "1. 課程諮詢時間 Office hour: 研究室: 611-4 每周二 (18:00~19:00)※如有任何問題，請事先與授課教師約定時間與地點研究室地點：綜合科館 611-4 室研究室分機：35282. 開學後組成線上群組 Line group discussion: to be announced.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12467",
+    "latestUpdate": "2025-02-17 12:52:04",
+    "outline": "基本控制系統的動作方式、位置控制、比例控制、積分控制、微分控制、各種組合控制、氣壓控制裝置、電動及電子控制裝置、液壓控制裝置、空調設備上的各種控制包括溫度、壓力、風量、濕度等之控制。\nTo provide students with the concepts of control actions: two position control, proportional control, floating control, integral control, derivative control; to familiarize students with pneumatic control devices, fluid control devices, damper & valves, elementary control systems on HVAC & R systems, include: temperature control, humidity control, static pressure control, flow control and so on.",
+    "schedule": "第01週2/22 : 第一講_自動控制基本概論(自動控制定義、在冷凍空調之控制)\n第02週3/01 : 第二講_控制系統概論一(控制系統定義、控制系統的表示法)\n第03週3/08 : 第三講_控制系統概論二(控制系統分類、控制系統的設計步驟)\n第04週3/15 : 第四講_控制系統的數學基礎一(微分方程式、拉氏轉換、小考1)\n第05週3/22 : 第五講_控制系統的數學基礎二(系統分類與轉移函數等)\n第06週3/29 : 第六講_古典控制系統(系統分類與轉移函數、方塊圖與訊號流程)\n第07週4/05 : 第六講_古典控制系統(線上教學 作業繳交)\n第08週4/12 : 第七講_控制系統方塊圖一 (含小考1講解)\n第09週4/19 : 期中考\n第10週4/26 : 114學年度四技二專統測試場(放假)\n第11週5/03 : 第八講_控制系統方塊圖二(暫態響應的分析、穩態響應與精確度)\n第12週5/10 : 第九講_控制系統方塊圖三(系統的動態方程式)\n第13週5/17 : 第十講_控制系統的穩定度(含小考2)\n第14週5/24 : 第十一講_控制系統的設計(空調設備與調節閥的控制)\n第15週5/31 : 端午節放假\n第16週6/07 : 第十二講_空調設備的控制\n第17週6/14 : 第十三講_冷凍設備的控制(小考2講解)\n第18週6/21 : 期末考\n※課程進度與小考要求將視學生學習情況適度調整。",
+    "scorePolicy": "1.出缺席狀況(20 %) → 無故缺席扣3% /次 (向教務處請事病假扣1%/次)\n2.期中考(30 %)\n3.期末考(30%)\n4.小考2次(20 %)\n※評量項目與配分將視學生學習情況適度調整。",
+    "materials": "使用教材:\n個人自編之講義\n\n參考書目:\n參考各章節講義參考書目之課堂說明內容",
+    "consultation": "1.課程諮詢時間Office hour: 研究室: 611-4 每周二(18:00~19:00)\n※如有任何問題，請事先與授課教師約定時間與地點\n研究室地點：綜合科館 611-4室\n研究室分機：3528\n2.開學後組成線上群組Line group discussion: to be announced.",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

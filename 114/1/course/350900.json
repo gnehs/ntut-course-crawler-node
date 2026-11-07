@@ -1,16 +1,17 @@
 [
   {
-    "name": "蕭榮修",
+    "teacher": "蕭榮修",
     "email": "rshsiao@ntut.edu.tw",
     "latestUpdate": "2025-09-08 23:24:31",
-    "objective": "1. 邏輯與證明\n2. 集合，關聯式與函數\n3. 遞迴與演算法\n4. 計數與機率（排列，組合）\n5. 遞迴式\n6. 圖與樹（基礎圖論）\n\nObjectives: This course covers the part of mathematics devoted to discrete events, i.e., events that involve distinct or unconnected elements, finite structures of distinct elements. These topics are very useful in the study of computer science --- especially in the areas of data structure, the analysis of algorithms, and the theory of computer languages.",
-    "schedule": "1. Introduction\n2. Sets \n3. Relations and Functions\n4. Logic_I\n5. Logic_II\n6. Proof\n7. No Class (光復節補假)\n8. Recursion, and Analysis of Algorithms\n9. Mid-term Exam\n10. Recurrence Relations\n11. Counting (Permutation)\n12. Counting (Combination)\n13. Probability\n14. Graphs Theory\n15. Trees\n16. Trees Application\n17. No Class (元旦補假)\n18. Final Exam",
-    "scorePolicy": "Grading:\n   10% Attendance \n   30% Assignments and Quizzes\n   30% Mid-term Exam\n   30% Final Exam",
-    "materials": "Textbook: Discrete Mathematics, Seventh Edition, Richard Johnsonbaugh, Prentice Hall, 2009. (華泰); 離散數學 (七版)，吳世弘 譯 (華泰)\nReference Book: How to Prove It: A Structured Approach, 2nd Edition, Daniel J. Velleman, Cambridge University Press.",
+    "outline": "1.邏輯與證明\n2.集合,關聯式與函數\n3.遞迴與演算法\n4.計數與機率（排列,組合）\n5.遞迴式\n6.圖與樹（基礎圖論）\n\nObjectives: This course covers the part of mathematics devoted to discrete events, i.e., events that involve distinct or unconnected elements, finite structures of distinct elements. These topics are very useful in the study of computer science --- especially in the areas of data structure, the analysis of algorithms, and the theory of computer languages.",
+    "schedule": "1. Introduction\n2. Sets\n3. Relations and Functions\n4. Logic_I\n5. Logic_II\n6. Proof\n7. No Class (光復節補假)\n8. Recursion, and Analysis of Algorithms\n9. Mid-term Exam\n10. Recurrence Relations\n11. Counting (Permutation)\n12. Counting (Combination)\n13. Probability\n14. Graphs Theory\n15. Trees\n16. Trees Application\n17. No Class (元旦補假)\n18. Final Exam",
+    "scorePolicy": "Grading:\n10% Attendance\n30% Assignments and Quizzes\n30% Mid-term Exam\n30% Final Exam",
+    "materials": "Textbook: Discrete Mathematics, Seventh Edition, Richard Johnsonbaugh, Prentice Hall, 2009. (華泰); 離散數學(七版)，吳世弘 譯 (華泰)\nReference Book: How to Prove It: A Structured Approach, 2nd Edition, Daniel J. Velleman, Cambridge University Press.",
     "consultation": "Email: rshsiao@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 使用生成式AI進行課堂即時互動（Use generative AI for real-time classroom interaction）",
     "foreignLanguageTextbooks": true
   }
 ]

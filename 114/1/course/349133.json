@@ -1,16 +1,17 @@
 [
   {
-    "name": "陳政翰",
+    "teacher": "陳政翰",
     "email": "as941414@gmail.com",
     "latestUpdate": "2025-05-27 16:40:17",
-    "objective": "本課程為針對非資訊背景學生所設計的 Python 與 AI 程式設計入門課程，期望透過趣味化、任務導向的方式，幫助學生降低學習程式的門檻，建立正向的學習態度。課程初期以遊戲化學習平台為引導，結合故事情境與互動任務，讓學生逐步掌握 Python 的基礎語法與運算邏輯。中期後則導入人工智慧（AI）基本應用，包括圖像辨識、簡易分類器、語意生成與 Chatbot 設計，培養學生實作與應用能力。\n學生將透過每週小任務與兩次專題實作（期中個人、期末小組）進行成果統整與創意思考，鼓勵學生發想文化、創意或生活議題的 AI 解決方案，強化其數位素養與跨域實作經驗。\n\nThis course is designed as an introductory Python and AI programming class for students without a computer science background. Through a gamified and task-based approach, it aims to lower the barrier to learning programming and foster a positive attitude towards coding. The course begins with game-based learning platforms to help students grasp Python syntax and logic in a fun and interactive environment. As the course progresses, students are introduced to foundational AI applications, including image recognition, simple classifiers, semantic generation, and Chatbot development.\nWeekly mini-assignments and two project-based assessments (an individual midterm and a group final project) guide students in synthesizing and applying their knowledge creatively. Students are encouraged to develop AI solutions for cultural, creativity, or daily life issues, thereby enhancing their digital literacy and interdisciplinary practice.",
-    "schedule": "週次 / 單元主題\n====================================\n第 1 週 / 課程導論與 Python 初體驗（遊戲試玩）\n第 2 週 / Python 基礎語法與輸入輸出\n第 3 週 / 條件判斷與邏輯控制（if/else）\n第 4 週 / 迴圈結構（for, while）\n第 5 週 / 字串與串列\n第 6 週 / 字典與集合資料結構\n第 7 週 / 函式與模組\n第 8 週 / 期中專題構想與 AI 簡介\n第 9 週 / 期中專題實作（個人作品）\n第 10 週 / AI 分類模型操作（圖像 / 聲音）\n第 11 週 / 使用 Python 呼叫 AI 模型\n第 12 週 / AI 互動遊戲設計（一）\n第 13 週 / AI 互動遊戲設計（二）\n第 14 週 / Python 串接 API\n第 15 週 / 語意 AI 與 Chatbot 設計\n第 16 週 / 期末專題構想與提案（小組）\n第 17 週 / 期末專題實作\n第 18 週 / 期末專題發表與回饋",
-    "scorePolicy": "平常成績 (出缺勤、課程互動) 30%\n期中考 (專題實作) 30%\n期末考 (專題實作) 30%",
-    "materials": "1.AI 助攻 Python 超級入門 創意設計 x AI 程式實作 / 洪錦魁 / 深智數位\n2. Python 視窗程式設計與 AI 遊戲製作 (第二版) /  陳延華，洪勤翔，曾雅靖，卓奕呈 / 全華圖書\n\n註：以上為參考書目，同學們可以自行衡量是否購買相關書籍。",
-    "consultation": "關於課程相關訊息，有問題請洽老師 MAIL：as941414+ntnu@gmail.com。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
-    "remarks": "1. 此課程優先提供文發系同學加選。2. 為基礎程式設計課程，課程難度設定為中間偏易，建議非資訊相關、程式設計相關背景同學或對程式設計有興趣之同學選修。",
+    "outline": "本課程為針對非資訊背景學生所設計的 Python 與 AI 程式設計入門課程，期望透過趣味化、任務導向的方式，幫助學生降低學習程式的門檻，建立正向的學習態度。課程初期以遊戲化學習平台為引導，結合故事情境與互動任務，讓學生逐步掌握 Python 的基礎語法與運算邏輯。中期後則導入人工智慧（AI）基本應用，包括圖像辨識、簡易分類器、語意生成與 Chatbot 設計，培養學生實作與應用能力。\n學生將透過每週小任務與兩次專題實作（期中個人、期末小組）進行成果統整與創意思考，鼓勵學生發想文化、創意或生活議題的 AI 解決方案，強化其數位素養與跨域實作經驗。\n\nThis course is designed as an introductory Python and AI programming class for students without a computer science background. Through a gamified and task-based approach, it aims to lower the barrier to learning programming and foster a positive attitude towards coding. The course begins with game-based learning platforms to help students grasp Python syntax and logic in a fun and interactive environment. As the course progresses, students are introduced to foundational AI applications, including image recognition, simple classifiers, semantic generation, and Chatbot development.\nWeekly mini-assignments and two project-based assessments (an individual midterm and a group final project) guide students in synthesizing and applying their knowledge creatively. Students are encouraged to develop AI solutions for cultural, creativity, or daily life issues, thereby enhancing their digital literacy and interdisciplinary practice.",
+    "schedule": "週次 / 單元主題\n====================================\n第1週 / 課程導論與Python初體驗（遊戲試玩）\n第2週 / Python基礎語法與輸入輸出\n第3週 / 條件判斷與邏輯控制（if/else）\n第4週 / 迴圈結構（for, while）\n第5週 / 字串與串列\n第6週 / 字典與集合資料結構\n第7週 / 函式與模組\n第8週 / 期中專題構想與AI簡介\n第9週 / 期中專題實作（個人作品）\n第10週 / AI分類模型操作（圖像/聲音）\n第11週 / 使用Python呼叫AI模型\n第12週 / AI互動遊戲設計（一）\n第13週 / AI互動遊戲設計（二）\n第14週 / Python串接API\n第15週 / 語意AI與Chatbot設計\n第16週 / 期末專題構想與提案（小組）\n第17週 / 期末專題實作\n第18週 / 期末專題發表與回饋",
+    "scorePolicy": "平常成績(出缺勤、課程互動)30%\n期中考(專題實作)30%\n期末考(專題實作)30%",
+    "materials": "1.AI助攻 Python超級入門 創意設計 x AI程式實作 / 洪錦魁 / 深智數位\n2. Python視窗程式設計與AI遊戲製作(第二版) / 陳延華, 洪勤翔, 曾雅靖, 卓奕呈 / 全華圖書\n\n註：以上為參考書目，同學們可以自行衡量是否購買相關書籍。",
+    "consultation": "關於課程相關訊息，有問題請洽老師MAIL：as941414+ntnu@gmail.com。",
+    "remarks": "1.此課程優先提供文發系同學加選。\n2.為基礎程式設計課程，課程難度設定為中間偏易，建議非資訊相關、程式設計相關背景同學或對程式設計有興趣之同學選修。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": false
   }
 ]

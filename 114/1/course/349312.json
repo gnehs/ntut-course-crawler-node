@@ -1,16 +1,18 @@
 [
   {
-    "name": "錢膺仁",
+    "teacher": "錢膺仁",
     "email": "yrchien@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12601",
     "latestUpdate": "2025-05-25 00:56:37",
-    "objective": "This course provides an in-depth study of digital signal processing (DSP) principles and techniques. Some ideas are built using MATLAB codes. Topics include discrete-time signals and systems, Fourier analysis, Z-transform, filter design and implementation, sampling rate conversion, random signal processing, and spectral analysis. The course emphasizes both theoretical foundations and practical applications through assignments, projects, and research paper studies. By the end of this course, students will be able to:\n1. Analyze and process discrete-time signals and systems.\n2. Apply the Fourier and Z-transform techniques to signal analysis.\n3. Design and implement FIR and IIR digital filters.\n4. Perform spectral analysis and sampling rate conversion.\n5. Critically review and present recent research papers in DSP.\n6. Complete a comprehensive final project demonstrating mastery of course concepts.",
-    "schedule": "Week 1: Introduction\nWeek 2: Discrete-Time Signals and Systems\nWeek 3: Discrete-Time Fourier Analysis \nWeek 4: Z-Transform\nWeek 5-6: Discrete Fourier Transform\nWeek 7-8: Implementation of Discrete-Time Filter\nWeek 9: Midterm\nWeek 10: FIR Filter Design\nWeek 11: IIR Filter Design\nWeek 12: Sampling Rate Conversion\nWeek 13:  Random Signal Processing\nWeek 14-15 Spectral Analysis Techniques\nWeek 16-17 Paper Study\nWeek 18: Final Project Presentation",
+    "outline": "This course provides an in-depth study of digital signal processing (DSP) principles and techniques. Some ideas are built using MATLAB codes. Topics include discrete-time signals and systems, Fourier analysis, Z-transform, filter design and implementation, sampling rate conversion, random signal processing, and spectral analysis. The course emphasizes both theoretical foundations and practical applications through assignments, projects, and research paper studies. By the end of this course, students will be able to:\n1. Analyze and process discrete-time signals and systems.\n2. Apply the Fourier and Z-transform techniques to signal analysis.\n3. Design and implement FIR and IIR digital filters.\n4. Perform spectral analysis and sampling rate conversion.\n5. Critically review and present recent research papers in DSP.\n6. Complete a comprehensive final project demonstrating mastery of course concepts.",
+    "schedule": "Week 1: Introduction\nWeek 2: Discrete-Time Signals and Systems\nWeek 3: Discrete-Time Fourier Analysis\nWeek 4: Z-Transform\nWeek 5-6: Discrete Fourier Transform\nWeek 7-8: Implementation of Discrete-Time Filter\nWeek 9: Midterm\nWeek 10: FIR Filter Design\nWeek 11: IIR Filter Design\nWeek 12: Sampling Rate Conversion\nWeek 13: Random Signal Processing\nWeek 14-15 Spectral Analysis Techniques\nWeek 16-17 Paper Study\nWeek 18: Final Project Presentation",
     "scorePolicy": "Attendance 10%\nMidterm 30%\nFinal Project Reports 30%\nFinal Project Presentations 30%",
     "materials": "1. Digital Digital signal processing using MATLAB V.4 / Vinay K. Ingle, John G. Proakis. (1997)\n2. Applied digital signal processing : theory and practice / Dimitris G. Manolakis, Vinay K. Ingle.(2012)",
     "consultation": "You can meet me either face-to-face or online by making appointments",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

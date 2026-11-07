@@ -1,16 +1,18 @@
 [
   {
-    "name": "張文中",
+    "teacher": "張文中",
     "email": "wchang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11007",
     "latestUpdate": "2025-09-06 14:59:21",
-    "objective": "Advanced robotic manipulation is offered to graduate students interested in learning issues in design and analysis of robotics.  In addition to lectures on advances in robotic manipulation and/or mobile robotics, oral presentations and reports on robotics research papers are required.  Main topics in the course are as follow.\n\n1. Spatial descriptions, transformations, and representations for orientation   2. Manipulator kinematics  3. Manipulator inverse kinematics  4. Jacobians: velocities and static forces  5. Manipulator dynamics   6. Trajectory generation and manipulator design 7. EKF-SLAM  8. Advances in manipulators and mobile robotics  9. Paper presentations and reports",
-    "schedule": "Tentative schedule\n1\t09/11\tIntroduction\n2\t09/18\tSpatial descriptions, transformations, and representations for orientation\n3\t09/25\tLink description and affixing frames to links\n4\t10/02\tLink transformations and forward kinematics examples\n5\t10/09\tInverse kinematics\n6\t10/16\tPieper’s solution\n7\t10/23\tJacobians: velocities and static forces\n8\t10/30\tManipulator dynamics (1/2)\n9\t11/06\tMidterm examination\n10\t11/13\tManipulator dynamics (2/2)\n11\t11/20\tTrajectory generation and manipulator design\n12\t11/27\tExtended Kalman Filter\n13\t12/04\tMotion And Measurement\n14\t12/11\tEKF-SLAM\n15\t12/18\tAdvances in manipulators and mobile robotics\n16\t12/25\tFinal presentations (1/2)\n17\t01/01\tHoliday\n18\t01/08\tFinal presentations (2/2) & Final reports due",
+    "outline": "Advanced robotic manipulation is offered to graduate students interested in learning issues in design and analysis of robotics. In addition to lectures on advances in robotic manipulation and/or mobile robotics, oral presentations and reports on robotics research papers are required. Main topics in the course are as follow.\n\n1. Spatial descriptions, transformations, and representations for orientation 2. Manipulator kinematics 3. Manipulator inverse kinematics 4. Jacobians: velocities and static forces 5. Manipulator dynamics 6. Trajectory generation and manipulator design 7. EKF-SLAM 8. Advances in manipulators and mobile robotics 9. Paper presentations and reports",
+    "schedule": "Tentative schedule\n1 09/11 Introduction\n2 09/18 Spatial descriptions, transformations, and representations for orientation\n3 09/25 Link description and affixing frames to links\n4 10/02 Link transformations and forward kinematics examples\n5 10/09 Inverse kinematics\n6 10/16 Pieper’s solution\n7 10/23 Jacobians: velocities and static forces\n8 10/30 Manipulator dynamics (1/2)\n9 11/06 Midterm examination\n10 11/13 Manipulator dynamics (2/2)\n11 11/20 Trajectory generation and manipulator design\n12 11/27 Extended Kalman Filter\n13 12/04 Motion And Measurement\n14 12/11 EKF-SLAM\n15 12/18 Advances in manipulators and mobile robotics\n16 12/25 Final presentations (1/2)\n17 01/01 Holiday\n18 01/08 Final presentations (2/2) & Final reports due",
     "scorePolicy": "The final grade will be a weighted average of attendance 10%, in-class open-book homework 30%, midterm 30%, paper presentation and report 30%.",
-    "materials": "1.\tIntroduction to Robotics: Mechanics and Control, 4th Edition, John J. Craig, Pearson Education.",
-    "consultation": "Prof. Wen-Chung Chang(02)27712171 Ext. 2125, wchang@ntut.edu.twOffice hours: Check official EE websiteTA: Mr. Chi-Fu Ho (02)27712171 Ext. 2130, t113318133@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
-    "remarks": "Response to government epidemic alert, course lecture and presentations will be offered online via Microsoft Teams at class hours and recorded lectures are available in iStudy.  Please refer to Taipei Tech's iStudy for details about this course.",
+    "materials": "1. Introduction to Robotics: Mechanics and Control, 4th Edition, John J. Craig, Pearson Education.",
+    "consultation": "Prof. Wen-Chung Chang\n(02)27712171 Ext. 2125, wchang@ntut.edu.tw\nOffice hours: Check official EE website\n\nTA: Mr. Chi-Fu Ho\n(02)27712171 Ext. 2130, t113318133@ntut.edu.tw",
+    "remarks": "Response to government epidemic alert, course lecture and presentations will be offered online via Microsoft Teams at class hours and recorded lectures are available in iStudy. Please refer to Taipei Tech's iStudy for details about this course.",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

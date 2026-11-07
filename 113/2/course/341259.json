@@ -1,15 +1,17 @@
 [
   {
-    "name": "劉明傑",
+    "teacher": "劉明傑",
     "email": "david_liu@lct.com.tw",
     "latestUpdate": "2024-12-22 17:03:07",
-    "objective": "(1) 基本儀器介紹；(2) 戴維寧定理；(3) 電阻 - 電容移相電路；(4) 電阻 - 電容 - 電感諧振電路；(5) 半導體二極體特性曲線；(6) 半導體二極體之應用：整流器，濾波器，剪波器，箝位器，倍壓器；(7) 發光二極體驅動電路；(8) 齊納二極體穩壓電路；(9) 雙極接合面電晶體之辨別與參數量測；(10) 雙極接合面電晶體輸入及輸出特性曲線；(11) 雙極接合面電晶體直流偏壓電路；(12) 共射極放大電路；(13) 射極隨耦電路；(14) 共基極定電流源電路；(15) 場效電晶體之辨別與參數量測；(16) 場效電晶體轉移及輸出特性曲線；(17) 場效電晶體直流偏壓電路；(18) 場效電晶體放大電路\n(1) Introduction to basic instruments; (2) Thevenin Theorem; (3) RC phase shifting circuits; (4) RLC resonant circuits; (5) The characteristic curve of PN diode; (6) The applications of PN diode : Rectifier, Filter, Clipper, Clamper, and Voltage-doubler; (7) Light Emitting Diode drivers; (8) Zener diode for voltage regulation; (9) The identification of BJT's leads and the measurement of b parameter; (10) The input and output characteristic curves of BJTs; (11) DC biasing circuits for BJTs; (12) Common-Emitter (CE) amplifiers; (13) Emitter-follower (EF) circuits; (14) Common-Base (CB) constant current sources; (15) The identification of FET's leads and the measurement of device parameters; (16) The transfer and output characteristic curves of FETs; (17) DC biasing circuits for FETs; (18) The amplifying circuits of FETs",
+    "outline": "(1)基本儀器介紹; (2)戴維寧定理; (3)電阻-電容移相電路; (4)電阻-電容-電感諧振電路; (5)半導體二極體特性曲線; (6)半導體二極體之應用:整流器,濾波器,剪波器,箝位器,倍壓器; (7)發光二極體驅動電路; (8)齊納二極體穩壓電路; (9)雙極接合面電晶體之辨別與參數量測; (10)雙極接合面電晶體輸入及輸出特性曲線; (11)雙極接合面電晶體直流偏壓電路; (12)共射極放大電路; (13)射極隨耦電路; (14)共基極定電流源電路; (15)場效電晶體之辨別與參數量測; (16)場效電晶體轉移及輸出特性曲線; (17)場效電晶體直流偏壓電路; (18)場效電晶體放大電路\n(1) Introduction to basic instruments; (2)Thevenin Theorem; (3)RC phase shifting circuits; (4)RLC resonant circuits; (5)The characteristic curve of PN diode; (6)The applications of PN diode : Rectifier, Filter, Clipper, Clamper, and Voltage-doubler; (7)Light Emitting Diode drivers; (8)Zener diode for voltage regulation; (9)The identification of BJT's leads and the measurement of b parameter; (10)The input and output characteristic curves of BJTs; (11)DC biasing circuits for BJTs; (12)Common-Emitter(CE) amplifiers; (13)Emitter-follower(EF) circuits; (14)Common-Base(CB) constant current sources; (15)The identification of FET's leads and the measurement of device parameters; (16)The transfer and output characteristic curves of FETs; (17)DC biasing circuits for FETs; (18)The amplifying circuits of FETs",
     "schedule": "以實作練習為主:\n１．電路設計\n２．ＰＦＧＡ\n３．無人機\n４．機器人",
-    "scorePolicy": "期中報告，\n期末成品發表\n作業三次",
+    "scorePolicy": "期中報告,\n期末成品發表\n作業三次",
     "materials": "SEDRA/SMITH Microelectronic Circuits EIGHTH INTERNATIONAL EDITION.",
     "consultation": "SEDRA/SMITH Microelectronic Circuits EIGHTH INTERNATIONAL EDITION.",
-    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

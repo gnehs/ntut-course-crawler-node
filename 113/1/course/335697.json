@@ -1,15 +1,18 @@
 [
   {
-    "name": "羅元隆",
+    "teacher": "羅元隆",
     "email": "yllo@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12243",
     "latestUpdate": "2024-05-26 15:22:14",
-    "objective": "本課程為碩士班一年級核心選修課程，內容著重在了解結構動力學基本原理與分析方法。以大學部結構學相關課程為基礎，進而了解結構物在受具有時間特性的外力下的動態反應。本學騎內容可大致分為：運動方程式、自由振動、強制振動、數值分析方法、反應譜分析、多自由度系統分析、頻率域分析等。\nThis course focuses on fundamental principles and methods of analysis of structural dynamics. Based on the related college courses, this course intends to equip graduate students with the capability to handle the structural dynamic response under time-dependent loading. The content includes the equation of motion, free vibration, forced vibration, numerical evaluation methods, spectrum analysis, multiple-degree-of-freedom system analysis, frequency domain analysis, etc.",
+    "outline": "本課程為碩士班一年級核心選修課程，內容著重在了解結構動力學基本原理與分析方法。以大學部結構學相關課程為基礎，進而了解結構物在受具有時間特性的外力下的動態反應。本學騎內容可大致分為：運動方程式、自由振動、強制振動、數值分析方法、反應譜分析、多自由度系統分析、頻率域分析等。\nThis course focuses on fundamental principles and methods of analysis of structural dynamics. Based on the related college courses, this course intends to equip graduate students with the capability to handle the structural dynamic response under time-dependent loading. The content includes the equation of motion, free vibration, forced vibration, numerical evaluation methods, spectrum analysis, multiple-degree-of-freedom system analysis, frequency domain analysis, etc.",
     "schedule": "W01: Equation of Motion, Problem Statement, and Solution Methods\nW02: Free Vibration\nW03: Response to Harmonic and Periodic Excitations (I)\nW04: Response to Harmonic and Periodic Excitations (II)\nW05: Response to Arbitrary, Step, and Pulse Excitations (I)\nW06: Response to Arbitrary, Step, and Pulse Excitations (II)\nW07: Numerical Evaluation of Dynamic Response (I)\nW08: Numerical Evaluation of Dynamic Response (II)\nW09: Mid-term Examination (Written Test)\nW10: Earthquake Response of Linear Systems (I)\nW11: Earthquake Response of Linear Systems (II)\nW12: Generalized Single-Degree-of-Freedom Systems\nW13: Equation of Motion, Problem Statement, and Solution Methods (MDOF)\nW14: Free Vibration (MDOF)\nW15: Damping in Structures\nW16: Dynamic Analysis and Response of Linear Systems\nW17: Earthquake Analysis of Linear Systems\nW18: Final Examination (Written Test)",
     "scorePolicy": "Attendance: 10%\nAssignment: 20%\nMidterm Examination: 30%\nFinal Examination: 20%\nReport: 20%",
     "materials": "1. Dynamics of Structures-Theory and Applications to Earthquake Engineering (4th edition) by Anil K. Chopra\n2. Dynamics of Structures (3rd edition) by Jagmohan Humar",
     "consultation": "The consultation time for this subject is arranged from 12:00 to 14:00 every weekday. Students who need to consult with the lecturer should send emails to make appointments at least two days in advance. A Line group will be created.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "This subject course is face-to-face unless the university has other regulations due to unexpected events. If turning to online lecturing, then the link will be announced on the i-Class website and the Line group soon. Students can always write emails to the lecturer to inquiry any questions.",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

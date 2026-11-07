@@ -1,14 +1,18 @@
 [
   {
-    "name": "白敦文",
+    "teacher": "白敦文",
     "email": "twp@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=12095",
     "latestUpdate": "2024-05-17 08:42:51",
-    "objective": "本課程將初步介紹資料科學之基礎，帶領學程學生學習基本程式設計及工具應用，如何由手上之現有資料或網路資料進行發想及定義問題、學習使用適當演算法技術，由數據中探索資料之特殊樣式，提供最佳決策支援之依據。\nThis course introduces fundamental concepts in data science. Guide students to learn basic programming and application tools. Students will learn how to analyze data in hand or collect data from Internet, and try to define new and creative problems. In addition, students will also learn basic algorithms to approach the solutions. Exploring and discovering the special patterns of data can provide a way for the best decision support.",
-    "schedule": "第 1 週：課程介紹 / 資料分析概觀 / 商業智慧 (0220/0221)\n\t第 2 週：統計基礎 (0227) **0228 和平紀念日放假不上課\n\t第 3 週：資料倉儲 (0305/0306)\n\t第 4 週：資料探勘 / 資料視覺化 (0312/0313)\n\t第 5 週：決策樹分析 (0319) **0320 北科運動會不上課\n\t第 6 週：決策樹分析 (0326/0327)\n\t第 7 週：迴歸分析 (0402/0403) \n\t第 8 週：單純貝式分析 (0409/0410) \n\t第 9 週：第一次小考 (0416) / 類神經網路 (0417)\n\t第 10 週：期中考試週 (0424) **0423 不上課\n\t第 11 週：類神經網路 (0430/0501)\n\t第 12 週：群集分析 (0507/0508)\n\t第 13 週：關聯規則探勘 (0514/0515)\n\t第 14 週：推薦系統 (0521/0522)\n\t第 15 週：支持向量機 (0528/0529) \n\t第 16 週：第二次小考 (0604) / 期末考 (0605)\n\t第 17 週：線上學習不同機器學習核心技術分析不同類型之數據資料集 \n\t第 18 週：線上學習不同機器學習核心技術分析不同類型之數據資料集",
-    "scorePolicy": "作業 (20%)、小考 (20%)、期中考試 (30%)、期末考試 (30%)",
-    "materials": "1.\tLecture notes:  北科 i 學園\n(https://istudy.ntut.edu.tw/learn/index.php)\n1.\tPython Data Science Handbook by Jake VanderPlas (https://github.com/jakevdp/PythonDataScienceHandbook)\n2.\tData Analytics made accessible by Anil Maheshwari\n3.\tData Science from Scratch : First Principles with Python, 2/e by Joel Grus \n4.\tAn Introduction to Statistical Learning by Gareth James/Daniela Witten/Trevor Hastie/Robert Tibshirani (https://www.statlearning.com/)",
-    "consultation": "因應第 17、18 週實施線上學教學，將使用 Google Meet 進行線上教學及錄影：https://meet.google.com/ogr-yzpq-stq",
-    "remarks": "本課程主要是學習資料科學之數據分析技術基礎，目標是帶領學生學習如何使用機器學習技術分析大數據。因應學校第 17、18 週實施線上學教學，本課程將使用實際應用範例教學，學生可以透過線上學習如何使用不同機器學習核心技術分析不同類型之數據資料集。",
+    "outline": "本課程將初步介紹資料科學之基礎，帶領學程學生學習基本程式設計及工具應用，如何由手上之現有資料或網路資料進行發想及定義問題、學習使用適當演算法技術，由數據中探索資料之特殊樣式，提供最佳決策支援之依據。\nThis course introduces fundamental concepts in data science. Guide students to learn basic programming and application tools. Students will learn how to analyze data in hand or collect data from Internet, and try to define new and creative problems. In addition, students will also learn basic algorithms to approach the solutions. Exploring and discovering the special patterns of data can provide a way for the best decision support.",
+    "schedule": "第 1 週: 課程介紹/資料分析概觀/商業智慧 (0220/0221)\n第 2 週: 統計基礎 (0227) **0228和平紀念日放假不上課\n第 3 週: 資料倉儲 (0305/0306)\n第 4 週: 資料探勘/資料視覺化 (0312/0313)\n第 5 週: 決策樹分析 (0319) **0320北科運動會不上課\n第 6 週: 決策樹分析 (0326/0327)\n第 7 週: 迴歸分析 (0402/0403)\n第 8 週: 單純貝式分析 (0409/0410)\n第 9 週: 第一次小考 (0416) / 類神經網路 (0417)\n第 10 週: 期中考試週 (0424) **0423不上課\n第 11 週: 類神經網路 (0430/0501)\n第 12 週: 群集分析 (0507/0508)\n第 13 週: 關聯規則探勘 (0514/0515)\n第 14 週: 推薦系統 (0521/0522)\n第 15 週: 支持向量機 (0528/0529)\n第 16 週: 第二次小考(0604) / 期末考 (0605)\n第 17 週: 線上學習不同機器學習核心技術分析不同類型之數據資料集\n第 18 週: 線上學習不同機器學習核心技術分析不同類型之數據資料集",
+    "scorePolicy": "作業(20%)、小考(20%)、期中考試(30%)、期末考試(30%)",
+    "materials": "1. Lecture notes: 北科i學園\n(https://istudy.ntut.edu.tw/learn/index.php)\n1. Python Data Science Handbook by Jake VanderPlas (https://github.com/jakevdp/PythonDataScienceHandbook)\n2. Data Analytics made accessible by Anil Maheshwari\n3. Data Science from Scratch : First Principles with Python, 2/e by Joel Grus\n4. An Introduction to Statistical Learning by Gareth James/Daniela Witten/Trevor Hastie/Robert Tibshirani (https://www.statlearning.com/)",
+    "consultation": "因應第17、18週實施線上學教學，將使用Google Meet進行線上教學及錄影：\nhttps://meet.google.com/ogr-yzpq-stq",
+    "remarks": "本課程主要是學習資料科學之數據分析技術基礎，目標是帶領學生學習如何使用機器學習技術分析大數據。因應學校第17、18週實施線上學教學，本課程將使用實際應用範例教學，學生可以透過線上學習如何使用不同機器學習核心技術分析不同類型之數據資料集。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

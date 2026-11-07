@@ -1,15 +1,18 @@
 [
   {
-    "name": "蕭俊祥",
+    "teacher": "蕭俊祥",
     "email": "jshaw@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11068",
     "latestUpdate": "2024-05-22 10:26:06",
-    "objective": "機械手臂基礎理論，內容包含座標轉換、機械臂運動學、反運動學、機械臂控制、機械臂的程式語言、視覺系統與影像處理、移動機器人控制等。",
+    "outline": "機械手臂基礎理論，內容包含座標轉換、機械臂運動學、反運動學、機械臂控制、機械臂的程式語言、視覺系統與影像處理、移動機器人控制等。",
     "schedule": "1. Introduction (LabVIEW, Matlab)\n2. Rigid Motions and Homogeneous Transformations\n3. Forward and Inverse Kinematics\n4. Robot arm control\n5. Vision system\n6. Mobile robot control",
-    "scorePolicy": "期中考：35%\n期末考：35%\nHomeWork 與實作：30%",
+    "scorePolicy": "期中考：35%\n期末考：35%\nHomeWork與實作：30%",
     "materials": "Robot Modeling and Control, M. K. Spong, S. Hutchinson, M. Vidyasagar, WILEY, 2006.\nRobotics, vision and control, Peter Corke, Springer, 2011.\nLabVIEW manual\nMatlab manual",
-    "consultation": "office hour: 10:00-12:00 Thur and Friemail: jshaw@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "若因疫情而暫停實體上課時，將使用 Google Meet 視訊上課，會議網址將公告於北科 i 學園，或請洽 jshaw@ntut.edu.tw 詢問。",
+    "consultation": "office hour: 10:00-12:00 Thur and Fri\nemail: jshaw@ntut.edu.tw",
+    "remarks": "若因疫情而暫停實體上課時，將使用Google Meet 視訊上課，會議網址將公告於北科i學園，或請洽 jshaw@ntut.edu.tw 詢問。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

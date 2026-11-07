@@ -1,15 +1,18 @@
 [
   {
-    "name": "曾恕銘",
+    "teacher": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11010",
     "latestUpdate": "2024-08-30 20:18:33",
-    "objective": "教學目標\n本課程內容包含 I) 數位通訊系統，II) 行動通訊系統，III) 無線傳輸技術的基礎和最新發展如 B5G/6G D2D、SCMA 、NOMA、NOMA 、RIS、FD、HBF for mmWave/ Terahertz 等)，使學生能閱讀理解通訊與訊號處理領域研究論文，並從事學位論文研究。",
-    "schedule": "內容、進度\nPart I Digital Communication Systems\n1.\tSignals and linear systems\n2.  Digital communications (including random processes, linear algebra)\nPart II Mobile Communication Systems\n3.\tMobile communication fundamentals (cellular system, propagation model, diversity)\nPart III Wireless Transmissition Technology Fundamentals and Recent Advances\n4.\tCDMA/SCMA for B5G/6G (new)\n5.\tData detection/interference cancellation for CDMA etc.\n6.\tMIMO (Spatial Multiplexing/MU-MIMO/STBC/distributed STBC/beamforming) \n7.\tOFDM (A) (principle/synchronization/channel estimation/power allocation)\n8.\t5G  key tech application scenerios and B5G/6G  NOMA (Non-Orthogonal Mulptiple Access)、SCMA (Sparse Code Mulptiple Access)、FD (full duplex) 、RIS (Reconfigurable Intelligent Surface)  (new)\n9. \tHBF (Hybrid BeamForming) for B5G/6G mmWave/Terahertz massisive MIMO (new)\n10. D2D (Device-to-device) resource allocation (new) (optional)",
-    "scorePolicy": "Oral report 1: 20%\nExam: 30% \nOral report 2: 50%",
+    "outline": "教學目標\n本課程內容包含I)數位通訊系統，II)行動通訊系統，III)無線傳輸技術的基礎和最新發展如B5G/6G D2D、SCMA 、NOMA、NOMA 、RIS、FD、HBF for mmWave/ Terahertz等)，使學生能閱讀理解通訊與訊號處理領域研究論文，並從事學位論文研究。",
+    "schedule": "內容、進度\nPart I Digital Communication Systems\n1. Signals and linear systems\n2. Digital communications (including random processes, linear algebra)\nPart II Mobile Communication Systems\n3. Mobile communication fundamentals (cellular system, propagation model, diversity)\nPart III Wireless Transmissition Technology Fundamentals and Recent Advances\n4. CDMA/SCMA for B5G/6G (new)\n5. Data detection/interference cancellation for CDMA etc.\n6. MIMO(Spatial Multiplexing/MU-MIMO/STBC/distributed STBC/beamforming)\n7. OFDM(A) (principle/synchronization/channel estimation/power allocation)\n8. 5G key tech application scenerios and B5G/6G NOMA(Non-Orthogonal Mulptiple Access)、SCMA(Sparse Code Mulptiple Access)、FD(full duplex) 、RIS(Reconfigurable Intelligent Surface) (new)\n9. HBF (Hybrid BeamForming) for B5G/6G mmWave/Terahertz massisive MIMO (new)\n10. D2D (Device-to-device) resource allocation (new) (optional)",
+    "scorePolicy": "Oral report 1: 20%\nExam: 30%\nOral report 2: 50%",
     "materials": "使用自編教材 / Use of self-made materials",
     "consultation": "Office hours",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

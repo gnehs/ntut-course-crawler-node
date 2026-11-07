@@ -1,0 +1,33 @@
+[
+  {
+    "teacher": "陳彥霖",
+    "email": "ylchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=111&sem=1&code=11427",
+    "latestUpdate": "2022-09-11 00:56:40",
+    "outline": "這門課程主要是討論人工智慧(AI)的理論基礎與相關應用，課程內容包含：1. AI 問題的解題方法（搜尋技巧） 2.AI應用案例 3. AI開發環境：如PyTorch、Tensorflow等架構 4.實作案例\nThis course provides a thorough discussion of AI's theoretical foundations and advanced applications. These are the following : 1. the fundamentals of problem solving (search algorithm) 2. AI application cases 3. AI frame work: PyTorch、TensorFlow 4.AI Practices.",
+    "schedule": "本課程擬以AI應用實例開發案例作為探討人工智慧應用概述，預計將包含以下單元主題：\n1.AI學習框架相關介紹- pytorch介紹與pytorch data loader操作\n2. AI深度學習應用案例-自駕車與智慧製造應用案例\n3. AI深度學習應用案例-影像分類應用\n4. 深度學習相關介紹-物件偵測(RCNN、YOLO等CNN網路應用)\n5.AI智慧終端平台應用與實作",
+    "scorePolicy": "Lab Projects & Reports & Course Participation: 70%\nFinal Project: 30%",
+    "materials": "自編課程講義",
+    "consultation": "將建置課程FB或LINE討論群組\n授課教師email: ylchen@mail.ntut.edu.tw",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：\n可比照之前的方式透過Microsoft Teams 線上授課與錄影",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "teacher": "賴建宏",
+    "email": "laisan86@gmail.com",
+    "latestUpdate": "2022-06-14 12:19:14",
+    "outline": "這門課程主要是討論人工智慧(AI)的理論基礎與相關應用，課程內容包含：1. AI 問題的解題方法（搜尋技巧） 2.知識表示的方法 3. AI 基礎程式的原理 4.推論方法 5.進階研究主題\nThis course provides a thorough discussion of AI's theoretical foundations and advanced applications. These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation 3. AI algorithms and programming basics 4. algorithms for reasoning 5. advanced topics for AI problem solving",
+    "schedule": "以上每一部份都是以簡介開頭，再以案例當作帶領學員了解為基礎，才能避免學員可能沒有程式開發經驗就因此排斥。大略可以分成：\n1. 引言，AI的歷史、發展與原因\n2. AI的數學？重要嗎？\n3. 大數據對於AI的簡介\n4. AI的演算法，這部分最多！同時會順帶讓大家有機會提出其工作上、生活中的所見所聞，再介紹如何以AI來實踐\n5. AI的應用案例，包括回歸分析、分類原理ANN、CNN等，以及非監督式學習中的GAN以及其他演算法的介紹",
+    "scorePolicy": "出席率70%\n期末作業30%",
+    "materials": "https://www.dropbox.com/sh/h6sr8udhie0jmmg/AAAHCDx8ltnrAoHAZ6qNFbEAa?dl=0\n\n以上內容會不定期更新。另外，可以參考：\n\n深度學習使用Keras\nArtificial intelligence with Python 2nd Edition\n深度學習的16堂課\nDeep learning for Computer Vision",
+    "consultation": "laisan86@gmail.com",
+    "remarks": "可比照之前的方式透過Microsoft Teams 線上授課與錄影",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": false
+  }
+]

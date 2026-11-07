@@ -1,15 +1,18 @@
 [
   {
-    "name": "蔡子萱",
+    "teacher": "蔡子萱",
     "email": "tzhtsai@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11424",
     "latestUpdate": "2024-10-15 10:47:54",
-    "objective": "本課程將介紹電腦輔助工程計算的工具與案例，引導學生使用電腦輔助工程軟體進行資源工程領域的研發設計與計算，課程以 COMSOL MULTIPHYSICS 為主要操作環境，另並用如 EXCEL / VBA、MATLAB 或 SOLIDWORKS 等軟體進行分析、導入或導出，探討案例包括流體力學、熱傳、質傳、電鍍、腐蝕、電池等，學生將能了解數學模擬的觀念、基礎建模的邏輯以及電腦輔助工程計算的研發模式。\nThis course will introduce the tools and cases of computer-aided computation and guide students in using software to solve engineering problems. The course takes COMSOL MULTIPHYSICS as the main operating environment and might use software such as EXCEL/VBA, MATLAB or SOLIDWORKS etc. by importing or exporting various model formats. Topics include fluid mechanics, heat transfer, mass transfer, electroplating, corrosion, batteries, etc. Students will be able to understand the concept of mathematical simulation, the basic logic of modeling, and the R&D process of computer-aided engineering.",
-    "schedule": "第 1 週 電腦輔助工程計算概念與課程軟體說明\n第 2-3 週 數值方法與有限元素法介紹\n第 4 週 EXCEL 應用於工程計算與實作\n第 5 週 EXCEL VBA 應用於工程計算與實作\n第 6 週 COMSOL MULTIPHYSICS 介面與案例實作\n第 7 週 幾何建模與網格建立\n第 8 週 電腦輔助計算輸送現象案例與實作\n第 9-10 週 COMSOL 與其他程式的導出、導入\n第 11 週 電腦輔助計算電池案例與實作 \n第 12 週 電腦輔助計算電鍍案例與實作 \n第 13 週 電腦輔助計算腐蝕案例與實作 \n第 14 週 電腦輔助計算材料分選案例與實作\n第 15-16 週 COMSOL 教學：APP 製作\n第 17-18 週 學生實作案例分享",
+    "outline": "本課程將介紹電腦輔助工程計算的工具與案例，引導學生使用電腦輔助工程軟體進行資源工程領域的研發設計與計算，課程以COMSOL MULTIPHYSICS為主要操作環境，另並用如EXCEL / VBA、MATLAB或SOLIDWORKS等軟體進行分析、導入或導出，探討案例包括流體力學、熱傳、質傳、電鍍、腐蝕、電池等，學生將能了解數學模擬的觀念、基礎建模的邏輯以及電腦輔助工程計算的研發模式。\nThis course will introduce the tools and cases of computer-aided computation and guide students in using software to solve engineering problems. The course takes COMSOL MULTIPHYSICS as the main operating environment and might use software such as EXCEL/VBA, MATLAB or SOLIDWORKS etc. by importing or exporting various model formats. Topics include fluid mechanics, heat transfer, mass transfer, electroplating, corrosion, batteries, etc. Students will be able to understand the concept of mathematical simulation, the basic logic of modeling, and the R&D process of computer-aided engineering.",
+    "schedule": "第 1 週 電腦輔助工程計算概念與課程軟體說明\n第2-3週 數值方法與有限元素法介紹\n第4週EXCEL應用於工程計算與實作\n第5週EXCEL VBA應用於工程計算與實作\n第6週COMSOL MULTIPHYSICS介面與案例實作\n第7週 幾何建模與網格建立\n第8週 電腦輔助計算輸送現象案例與實作\n第9-10週 COMSOL與其他程式的導出、導入\n第11週 電腦輔助計算電池案例與實作\n第12週 電腦輔助計算電鍍案例與實作\n第13週 電腦輔助計算腐蝕案例與實作\n第14週 電腦輔助計算材料分選案例與實作\n第15-16週COMSOL教學：APP製作\n第17-18週 學生實作案例分享",
     "scorePolicy": "Midterm Case Operation 35-40%\nFinal Case Operation & Presentation 35-40%\nOthers (Exercise in-class & Attendance, etc.) 20-30%",
-    "materials": "(*) self-compiled lecture notes (自編講義)\n\n(1) Mariano Martín Martín, Introduction to Software for Chemical Engineers, Second Edition, CRC Press,2019.\n(2) Law, Victor J. Numerical Methods for Chemical Engineers Using Excel, Vba, and MATLAB, 2013.\n(3) Mehrzad Tabatabaian, COMSOL for Engineers, Mercury Learning and Information,2014",
-    "consultation": "本課程開學後會提供 LINE 官方帳號，同學可由 LINE 官方帳號發問。After the course starts, the official \"Line\" account will be announced, and students can ask questions by Line.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "remarks": "每堂課均需要自備電腦來操作程式進行運算電腦 (建議 (RAM 8GB 以上較佳) 必須能運行 EXCEL VBA 與 COMSOL 課程有人數上限",
+    "materials": "(*)self-compiled lecture notes(自編講義)\n\n(1) Mariano Martín Martín, Introduction to Software for Chemical Engineers, Second Edition, CRC Press,2019.\n(2) Law, Victor J. Numerical Methods for Chemical Engineers Using Excel, Vba, and MATLAB, 2013.\n(3) Mehrzad Tabatabaian, COMSOL for Engineers, Mercury Learning and Information,2014",
+    "consultation": "本課程開學後會提供LINE官方帳號，同學可由LINE官方帳號發問。\nAfter the course starts, the official \"Line\" account will be announced, and students can ask questions by Line.",
+    "remarks": "每堂課均需要自備電腦來操作程式進行運算\n電腦(建議(RAM 8GB以上較佳)必須能運行EXCEL VBA與COMSOL\n課程有人數上限",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

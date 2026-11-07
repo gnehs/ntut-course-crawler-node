@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳晏笙",
+    "teacher": "陳晏笙",
     "email": "yschen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11678",
     "latestUpdate": "2025-05-28 14:58:24",
-    "objective": "1.\tAntenna fundamentals\n2.\tCircuit parameters\n3.\tImpedance matching networks\n4.\tRadiation parameters\n5.\tArray fundamentals\n6.\tAntenna family\n7.\tSpecial topics",
+    "outline": "1. Antenna fundamentals\n2. Circuit parameters\n3. Impedance matching networks\n4. Radiation parameters\n5. Array fundamentals\n6. Antenna family\n7. Special topics",
     "schedule": "Week 1: Introduction\nWeek 2: Antenna fundamentals: system overview\nWeek 3: Antenna fundamentals: radiation mechanism\nWeek 4: Circuit parameters: transmission line theory\nWeek 5: Circuit parameters: frequency-domain analysis\nWeek 6: Spring Break\nWeek 7: Circuit parameters: lossy transmission lines\nWeek 8: Impedance matching networks: the use of lumped elements\nWeek 9: Midterm\nWeek 10: Impedance matching networks: the use of distributed elements\nWeek 11: Radiation parameters: polarization and pattern\nWeek 12: Radiation parameters: directivity, efficiency, and gain\nWeek 13: Array fundamentals: two-element array\nWeek 14: Array fundamentals: N-element array\nWeek 15: Array fundamentals: synthesis\nWeek 16: Antenna family\nWeek 17: Final",
     "scorePolicy": "Dynamic Grading System (DGS) with a final exam, a hand-on project, two quizzes, and several in-class activies.",
-    "materials": "Texts\n1.\tLecture notes available for download from 北科 i 學園\n\nReferences\n1.\tD. M. Pozar, Microwave Engineering, 4th ed., Wiley, 2011.\n2.\tJ. Kraus and R. Marhefka, Antennas: For All Application, 3rd Edition, McGraw-Hill, 2001.\n3.\tS. R. Saunders and A. Aragon-Zavala, Antennas and Propagation for Wireless Communication Systems, 2nd Edition, McGraw-Hill, 2007.",
-    "consultation": "E-mail: yschen@ntut.edu.twOffice hours: 10:00-12:00, Tuesday",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "materials": "Texts\n1. Lecture notes available for download from 北科i學園\n\nReferences\n1. D. M. Pozar, Microwave Engineering, 4th ed., Wiley, 2011.\n2. J. Kraus and R. Marhefka, Antennas: For All Application, 3rd Edition, McGraw-Hill, 2001.\n3. S. R. Saunders and A. Aragon-Zavala, Antennas and Propagation for Wireless Communication Systems, 2nd Edition, McGraw-Hill, 2007.",
+    "consultation": "E-mail: yschen@ntut.edu.tw\nOffice hours: 10:00-12:00, Tuesday",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "foreignLanguageTextbooks": true
   }
 ]

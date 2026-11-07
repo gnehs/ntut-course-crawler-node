@@ -1,16 +1,18 @@
 [
   {
-    "name": "莊賀喬",
+    "teacher": "莊賀喬",
     "email": "hchuang@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11394",
     "latestUpdate": "2025-05-20 17:52:47",
-    "objective": "使用 Python 3 帶同學理解以下主題，已調整過難易度，適合零基礎或非資訊相關科系同學學習：\n資料處理 / 深度學習 / 機器視覺\nUse Python 3 to lead students to understand the following topics, the difficulty has been adjusted, and it is suitable for students with zero foundation or non-information related subjects to learn:\nData Processing / Deep Learning / Machine Vision",
-    "schedule": "1. 認識 Python 開發環境與基礎語法 #1 變數\n2. 認識 Python 開發環境與基礎語法 #2 判斷結構\n3. 認識 Python 開發環境與基礎語法 #3 迴圈\n4. 認識 Python 開發環境與基礎語法 #4list\n5. 淺談資料處理 – numpy 數值運算\n6. 淺談資料處理 – pandas #1Dataframe 建立與應用\n7. 淺談資料處理 – pandas #2 Sort /grouping\n8. 資料視覺化 - matplotlib 繪製各種簡易圖表\n9. 資料爬蟲 #1 如何擷取空氣汙染資料\n10. 資料爬蟲 #2 擷取其他類型網路資料\n11. 影像處理  - OpenCV #1\n12. 影像處理  - OpenCV #2\n13. 人臉辨識 Haar 分類器\n14. 淺談深度學習 人臉辨識應用\n15. NVIDIA 深度學習理論基礎與實踐\n16. MNIST 手寫數字分類 / Tensorflow Keras 神經網路框架\n17. NVIDIA 深度學習理論基礎與實踐 遷移學習\n18. 期末測驗",
-    "scorePolicy": "出席率 10%\n作業 30%\n期中展示 25%\n期末展示 35%",
+    "outline": "使用 Python 3 帶同學理解以下主題，已調整過難易度，適合零基礎或非資訊相關科系同學學習：\n資料處理 / 深度學習 / 機器視覺\nUse Python 3 to lead students to understand the following topics, the difficulty has been adjusted, and it is suitable for students with zero foundation or non-information related subjects to learn:\nData Processing / Deep Learning / Machine Vision",
+    "schedule": "1. 認識Python開發環境與基礎語法 #1變數\n2. 認識Python開發環境與基礎語法 #2判斷結構\n3. 認識Python開發環境與基礎語法 #3迴圈\n4. 認識Python開發環境與基礎語法 #4list\n5. 淺談資料處理 – numpy 數值運算\n6. 淺談資料處理 – pandas #1Dataframe 建立與應用\n7. 淺談資料處理 – pandas #2 Sort / grouping\n8. 資料視覺化 - matplotlib 繪製各種簡易圖表\n9. 資料爬蟲 #1如何擷取空氣汙染資料\n10. 資料爬蟲 #2擷取其他類型網路資料\n11. 影像處理 - OpenCV #1\n12. 影像處理 - OpenCV #2\n13. 人臉辨識 Haar 分類器\n14. 淺談深度學習 人臉辨識應用\n15. NVIDIA 深度學習理論基礎與實踐\n16. MNIST 手寫數字分類 / Tensorflow Keras 神經網路框架\n17. NVIDIA深度學習理論基礎與實踐 遷移學習\n18. 期末測驗",
+    "scorePolicy": "出席率10%\n作業30%\n期中展示 25%\n期末展示 35%",
     "materials": "自編教材",
-    "consultation": "每五上午 8 點至 12 點 可到研發處研發長辦公室 office hour 可諮詢所有與課程相關的內容",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
-    "remarks": "線上即時課程  網址如下 meet.google.com/peq-msro-nzn",
+    "consultation": "每五上午8點至12點 可到研發處研發長辦公室 office hour 可諮詢所有與課程相關的內容",
+    "remarks": "線上即時課程 網址如下\n\nmeet.google.com/peq-msro-nzn",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG3：良好健康和福祉（Good Health and Well-being）\nSDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）\n● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": false
   }
 ]

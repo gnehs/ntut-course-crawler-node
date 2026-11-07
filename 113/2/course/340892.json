@@ -1,15 +1,18 @@
 [
   {
-    "name": "古碧源",
+    "teacher": "古碧源",
     "email": "ku@ee.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10656",
     "latestUpdate": "2024-12-22 17:00:09",
-    "objective": "線性電路；電算放大器；二極體；非線性電路應用；接面場\n效電晶體（JFET）；金屬氧化物半導體場效電晶體 (MOSFET)\n；雙極性接面電晶體（BJT）；差動放大器；多級放大器。金\n氧半電晶體；雙接面電晶體；差動及多極放大器；功率放大\n器；頻率響應；回授；類比積體電路；濾波器；調諧放大器\n；振盪器。",
-    "schedule": "1 (2/19,20): Biasing\n2 (2/26,27): 2/27 Discrete-circuit amplifiers; \n3 (3/5,6): IC biasing\n4 (3/12,13): Basic gain cell and CG/CB amplifiers\n5 (3/19,20): 3/19 CD/CC amplifier; 3/20 School Sports Day\n6 (3/26,27): Transistor pairings\n7 (4/2,3): multi-stage amplifeirs\n8 (4/9,10): MOS differential amplifiers\n9 (4/16,17): 4/16 mid-term exam; 4/17 differential amplifiers\n10 (4/23,24): Basics of feedback\n11 (4/30,5/1): Feedback voltage amplifiers\n12 (5/7,8): Other feedback amplifier types\n13 (5/14,15): Basics of output stages, Class A and Class B amplifiers\n14 (5/21,22): Class AB amplifiers\n15 (5/28,29): Transistor high-frequency model, High-frequency response \n16 (6/4,5): Low-frequency response\n17 (6/11,12): Basic filter concept, in-classroom homework,\n18 (6/18): Final exam",
-    "scorePolicy": "期中考試：40%\n期末考試：45% \n平時與出勤考核：15%",
+    "outline": "線性電路；電算放大器；二極體；非線性電路應用；接面場\n效電晶體（JFET）；金屬氧化物半導體場效電晶體(MOSFET)\n；雙極性接面電晶體（BJT）；差動放大器；多級放大器。金\n氧半電晶體；雙接面電晶體；差動及多極放大器；功率放大\n器；頻率響應；回授；類比積體電路；濾波器；調諧放大器\n；振盪器。",
+    "schedule": "1 (2/19,20): Biasing\n2 (2/26,27): 2/27 Discrete-circuit amplifiers;\n3 (3/5,6): IC biasing\n4 (3/12,13): Basic gain cell and CG/CB amplifiers\n5 (3/19,20): 3/19 CD/CC amplifier; 3/20 School Sports Day\n6 (3/26,27): Transistor pairings\n7 (4/2,3): multi-stage amplifeirs\n8 (4/9,10): MOS differential amplifiers\n9 (4/16,17): 4/16 mid-term exam; 4/17 differential amplifiers\n10 (4/23,24): Basics of feedback\n11 (4/30,5/1): Feedback voltage amplifiers\n12 (5/7,8): Other feedback amplifier types\n13 (5/14,15): Basics of output stages, Class A and Class B amplifiers\n14 (5/21,22): Class AB amplifiers\n15 (5/28,29): Transistor high-frequency model, High-frequency response\n16 (6/4,5): Low-frequency response\n17 (6/11,12): Basic filter concept, in-classroom homework,\n18 (6/18): Final exam",
+    "scorePolicy": "期中考試：40%\n期末考試：45%\n平時與出勤考核：15%",
     "materials": "Microelectronic Circuits, International 8th Ed, Adel Sedra, Kenneth Smith, Tony Chan Carusone, & Vincent Gaudet, Oxford University Press, 2021.",
     "consultation": "上課提問；Office Hours 個別諮詢，必要時由助教進一步輔導。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "remarks": "因應疫情防疫規定，若學校宣布調整教學方式為遠距教學，則採用 Google Meet 遠距教學。各次考試也採遠距考試，教師用 Google Meet 螢幕分享考題，並將電子檔傳送至上課班級群組。考試開始後老師在 Google Meet 逐一唱名點名，時間到學生必須在限定時間內以 email 寄交答案。",
+    "remarks": "因應疫情防疫規定，若學校宣布調整教學方式為遠距教學，則採用Google Meet 遠距教學。各次考試也採遠距考試，教師用Google Meet 螢幕分享考題，並將電子檔傳送至上課班級群組。考試開始後老師在 Google Meet 逐一唱名點名，時間到學生必須在限定時間內以 email 寄交答案。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

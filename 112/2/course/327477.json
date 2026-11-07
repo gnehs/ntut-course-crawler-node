@@ -1,14 +1,17 @@
 [
   {
-    "name": "蕭榮修",
+    "teacher": "蕭榮修",
     "email": "rshsiao@ntut.edu.tw",
     "latestUpdate": "2024-05-15 18:19:56",
-    "objective": "介紹計算機演算法的設計與分析，內容包含了：函數成長，遞迴關係，排序及序列統計，基礎與進階資料結構，動態規劃，貪婪演算法，搜尋，圖形與幾何演算法，字串比對，NP-completeness, 近似演算法，及平行與分散式演算法.\nThis course gives a broad introduction about the design and analysis of computer algorithms. General topics to be covered include: growth of functions, recurrences, sorting and order statistics, fundamental and advanced data structures, dynamic programming, greedy algorithms, searching, graph and geometry algorithms, string matching, NP-completeness, approximation algorithms, parallel and distributed algorithms.",
+    "outline": "介紹計算機演算法的設計與分析,內容包含了: 函數成長, 遞迴關係, 排序及序列統計, 基礎與進階資料結構, 動態規劃, 貪婪演算法, 搜尋, 圖形與幾何演算法, 字串比對, NP-completeness, 近似演算法, 及平行與分散式演算法.\nThis course gives a broad introduction about the design and analysis of computer algorithms. General topics to be covered include: growth of functions, recurrences, sorting and order statistics, fundamental and advanced data structures, dynamic programming, greedy algorithms, searching, graph and geometry algorithms, string matching, NP-completeness, approximation algorithms, parallel and distributed algorithms.",
     "schedule": "Calendar:\n1. Mathematical Foundations: Introduction\n2. Analyzing & Designing Algorithms\n3. Growth of Functions\n4. Recurrences\n5. Heapsort\n6. Quicksort\n7. Sorting in Linear Time\n8. Medians\n9. Order Statistics\n10. No Class (統測)\n11. Mid-term Exam\n12. Greedy Algorithms\n13. Dynamic Programming\n14. Elementary Graph Algorithms & Minimum Spanning Trees\n15. Shortest Paths Algorithms\n16. Final Exam\n17. 自主學習\n18. 自主學習",
-    "scorePolicy": "Grading:\n 30% Assignments & Term Project\n 30% Mid-term Exam (take home 40%, in class 60%)\n 40% Final Exam (take home 40%, in class 60%)",
+    "scorePolicy": "Grading:\n30% Assignments & Term Project\n30% Mid-term Exam (take home 40%, in class 60%)\n40% Final Exam (take home 40%, in class 60%)",
     "materials": "1. T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, Second Ed., The MIT Press, 2001. (開發)\n2. Michael T. Goodrich, Roberto Tamassia, and David M. Mount, Data Structures and Algorithms in C++, Second Edition, John Wiley & Sons, Inc, 2011. (ISBN-13 978-0-470-38327-8)",
     "consultation": "rshsiao@ntut.edu.tw",
-    "remarks": "第 17、18 週各組討論與製作 Term project.6/21 日前各組以 email 繳交 Term project。",
+    "remarks": "第17、18週各組討論與製作Term project.\n6/21日前各組以email繳交Term project。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

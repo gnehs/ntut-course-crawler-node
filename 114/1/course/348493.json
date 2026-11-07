@@ -1,16 +1,18 @@
 [
   {
-    "name": "郭忠義",
+    "teacher": "郭忠義",
     "email": "jykuo@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11247",
     "latestUpdate": "2025-05-24 01:07:02",
-    "objective": "課程涵蓋計算機處理器之基本結構原理及設計，包括速度與效能、指令集、組合語言、算術單元、暫存器、流水線處理器等。透過此課程，學生可學習到計算機微處理器原理、設計與基本架構。",
-    "schedule": "Week 01 (09/09, 09/10) Computer Abstractions and Technology \nWeek 02 (09/16, 09/17) Computer Abstractions and Technology \nWeek 03 (09/23, 09/24) Instructions: Language of the Computer \nWeek 04 (09/30, 10/01) Instructions: Language of the Computer, Quiz#1\nWeek 05 (10/07, 10/08) Instructions: Language of the Computer\nWeek 06 (10/14, 10/15) Instructions: Language of the Computer  \nWeek 07 (10/21, 10/22) Arithmetic for Computer, Quiz#2\nWeek 08 (10/28, 10/29) Arithmetic for Computer\nWeek 09 (11/04, 11/05) Midterm(11/05) \nWeek 10 (11/11, 11/12) Arithmetic for Computer \nWeek 11 (11/18, 11/19) Processor: Datapath and Control\nWeek 12 (11/25, 11/26) Processor: Datapath and Control \nWeek 13 (12/02, 12/03) Processor: Datapath and Control, Quiz#3\nWeek 14 (12/09, 12/10) Processor: Datapath and Control  \nWeek 15 (12/16, 12/17) Processor: Datapath and Control  \nWeek 16 (12/23, 12/24) Processor: Datapath and Control\nWeek 17 (12/30, 12/31) Processor: Datapath and Control, Quiz#4 \nWeek 18 (01/06) Final (01/06)",
+    "outline": "課程涵蓋計算機處理器之基本結構原理及設計，包括速度與效能、指令集、組合語言、算術單元、暫存器、流水線處理器等。透過此課程，學生可學習到計算機微處理器原理、設計與基本架構。",
+    "schedule": "Week 01 (09/09, 09/10) Computer Abstractions and Technology\nWeek 02 (09/16, 09/17) Computer Abstractions and Technology\nWeek 03 (09/23, 09/24) Instructions: Language of the Computer\nWeek 04 (09/30, 10/01) Instructions: Language of the Computer, Quiz#1\nWeek 05 (10/07, 10/08) Instructions: Language of the Computer\nWeek 06 (10/14, 10/15) Instructions: Language of the Computer\nWeek 07 (10/21, 10/22) Arithmetic for Computer, Quiz#2\nWeek 08 (10/28, 10/29) Arithmetic for Computer\nWeek 09 (11/04, 11/05) Midterm(11/05)\nWeek 10 (11/11, 11/12) Arithmetic for Computer\nWeek 11 (11/18, 11/19) Processor: Datapath and Control\nWeek 12 (11/25, 11/26) Processor: Datapath and Control\nWeek 13 (12/02, 12/03) Processor: Datapath and Control, Quiz#3\nWeek 14 (12/09, 12/10) Processor: Datapath and Control\nWeek 15 (12/16, 12/17) Processor: Datapath and Control\nWeek 16 (12/23, 12/24) Processor: Datapath and Control\nWeek 17 (12/30, 12/31) Processor: Datapath and Control, Quiz#4\nWeek 18 (01/06) Final (01/06)",
     "scorePolicy": "40% Assignments, Quizzes, and Course participation\n28% Mid-term Exam\n32% Final Exam",
     "materials": "David A. Patterson and John L. Hennessy, “Computer Organization and Design: The Hardware / Software Interface”, 5th Ed., Morgan Kaufmann.",
-    "consultation": "ZUVIOLINEjykuo@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG10：減少不平等（Reduced Inequalities）",
-    "課程是否導入AI": "● 無（None）",
-    "remarks": "TEAMSZUVIOLINEjykuo@ntut.edu.tw",
+    "consultation": "ZUVIO\nLINE\njykuo@ntut.edu.tw",
+    "remarks": "TEAMS\nZUVIO\nLINE\njykuo@ntut.edu.tw",
+    "resources": "",
+    "sdgs": "SDG1：消除貧窮（No Poverty）\nSDG2：消除飢餓（Zero Hunger）\nSDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG10：減少不平等（Reduced Inequalities）",
+    "aiUsage": "● 無（None）",
     "foreignLanguageTextbooks": true
   }
 ]

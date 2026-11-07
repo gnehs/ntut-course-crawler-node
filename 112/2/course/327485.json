@@ -1,14 +1,18 @@
 [
   {
-    "name": "陳彥霖",
+    "teacher": "陳彥霖",
     "email": "ylchen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=11427",
     "latestUpdate": "2024-05-23 11:53:57",
-    "objective": "本課程主要內容為：1. 多媒體分析技術、2. 智慧影像辨識技術、3. 人工智慧辨識技術、4. 互動界面技術，並整合嵌入式移動平台實務議題之專案開發。",
-    "schedule": "Week 1-3: 智慧影像分析介紹及基礎應用 (如 OpenCV)\nWeek 4-5: 機器學習相關方法介紹與實作\nWeek 6: 深度學習相關介紹 - MLP、CNN\nWeek 7: 深度學習相關介紹 - pytorch 介紹 pytorch data loader 操作\nWeek 8: 深度學習相關介紹 - 影像分類 (MNIST 和 CIFAR 範例)\nWeek 9: 期中考週\nWeek 10: 深度學習相關介紹 - 物件偵測 (交通號誌偵測)\nWeek 11-12: 深度學習相關介紹 - 物件偵測 (YOLO-based 交通號誌偵測)\nWeek 13-14: 生成式 AI 與互動介面實務 \nWeek 15: 嵌入式 AI 移動平台應用\nWeek 16: 嵌入式 AI 移動平台實作\nWeek 17-18: 期末專題",
+    "outline": "本課程主要內容為：1.多媒體分析技術、2.智慧影像辨識技術、3.人工智慧辨識技術、4.互動界面技術，並整合嵌入式移動平台實務議題之專案開發。",
+    "schedule": "Week 1-3: 智慧影像分析介紹及基礎應用(如OpenCV)\nWeek 4-5: 機器學習相關方法介紹與實作\nWeek 6: 深度學習相關介紹-MLP、CNN\nWeek 7: 深度學習相關介紹- pytorch介紹pytorch data loader操作\nWeek 8: 深度學習相關介紹-影像分類(MNIST和CIFAR範例)\nWeek 9: 期中考週\nWeek 10: 深度學習相關介紹-物件偵測(交通號誌偵測)\nWeek 11-12: 深度學習相關介紹-物件偵測(YOLO-based交通號誌偵測)\nWeek 13-14: 生成式AI與互動介面實務\nWeek 15: 嵌入式AI移動平台應用\nWeek 16: 嵌入式AI移動平台實作\nWeek 17-18: 期末專題",
     "scorePolicy": "Lab Projects & Reports & Course Participation: 60%\nMidterm-exam or Project: 20%\nFinal Project: 20%",
     "materials": "自編教材",
-    "consultation": "將開設本課程 FB 交流群組以進行線上課程諮詢交流。Course FB：https://www.facebook.com/groups/1884653738654889 教師信箱：ylchen@mail.ntut.edu.tw",
-    "remarks": "課程 Teams 連結：https://teams.microsoft.com/l/channel/19%3AfF0HM9aj-lsDK1Y5T0mO_a7JxH06ZpqNzqK7D2qS4fE1%40thread.tacv2/General?groupId=6702d10d-2839-41f4-b523-b7827f92ece6&tenantId=",
+    "consultation": "將開設本課程FB交流群組以進行線上課程諮詢交流。\nCourse FB：\nhttps://www.facebook.com/groups/1884653738654889\n教師信箱：ylchen@mail.ntut.edu.tw",
+    "remarks": "課程Teams連結：https://teams.microsoft.com/l/channel/19%3AfF0HM9aj-lsDK1Y5T0mO_a7JxH06ZpqNzqK7D2qS4fE1%40thread.tacv2/General?groupId=6702d10d-2839-41f4-b523-b7827f92ece6&tenantId=",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

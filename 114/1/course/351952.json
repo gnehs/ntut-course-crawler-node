@@ -1,16 +1,18 @@
 [
   {
-    "name": "孔繁傑",
+    "teacher": "孔繁傑",
     "email": "fjkung@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12564",
     "latestUpdate": "2025-05-29 16:48:03",
-    "objective": "本課程主要敘述數位語音訊號的處理技術及語音相關應用。討論的課題主要包括語音分析的基本聲學原理如發音模型與語音特徵分析，以及語音編碼、語音合成、語音辨認等重要應用。\nThis course is intended to introduce the fundamentals of speech signal processing and related applications. The topics it will address include speech production model, extraction and evaluation of speech features, basic principles of speech analysis and synthesis, speech coding, and speech recognition, etc.",
+    "outline": "本課程主要敘述數位語音訊號的處理技術及語音相關應用。討論的課題主要包括語音分析的基本聲學原理如發音模型與語音特徵分析，以及語音編碼、語音合成、語音辨認等重要應用。\nThis course is intended to introduce the fundamentals of speech signal processing and related applications. The topics it will address include speech production model, extraction and evaluation of speech features, basic principles of speech analysis and synthesis, speech coding, and speech recognition, etc.",
     "schedule": "Week 1 Course Introduction\nWeeks. 2-6 Review of digital signal processing\nWeeks 7-10 Speech enhancement introduction\nWeeks. 11-12 Speech dereverberation introduction\nWeek 13-16 Artificial intelligence introduction\nWeeks. 17-18 Final presentation",
     "scorePolicy": "Homework: 40%, Quiz: 30%, Final presentation: 30%, Bonus",
     "materials": "References:\n[1] A. V. Oppenheim and R. W. Schafer, Discrete-Time Signal Processing, 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1999.\n[2] S. W. Smith, The Scientist and Engineer's Guide to Digital Signal Processing, 2nd ed. San Diego, CA: California Technical Publishing, 1997.\n[3] P. C. Loizou, Speech enhancement: Theory and practice, CRC press, 2007.\n[4] P. Kim, MATLAB deep Learning: With machine learning, neural networks and artificial Intelligence, Apress, 2017.",
     "consultation": "Email: fjkung@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": true
   }
 ]

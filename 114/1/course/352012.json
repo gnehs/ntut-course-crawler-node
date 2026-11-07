@@ -1,16 +1,18 @@
 [
   {
-    "name": "古瓊昇",
+    "teacher": "古瓊昇",
     "email": "johnsonku@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12461",
     "latestUpdate": "2025-05-28 14:29:43",
-    "objective": "太空科技應用課程旨在介紹太空技術在各種應用領域的應用，並探討太空科技如何影響人類生活和科學研究。課程涵蓋的主題包括：太空探索，地球觀測，通訊和衛星導航，太空工程和材料科學，太空生物學和醫學，太空經濟和商業。通過這些主題的介紹，學生將了解太空科技在各個領域的應用和未來發展方向，並能夠掌握相關技術和知識。\nThe Space Technology Application Course aims to introduce the application of space technology in various fields, and explore how space technology impacts human life and scientific research. The course covers topics including space exploration, Earth observation, communication and satellite navigation, space engineering and materials science, space biology and medicine, and space economy and business. Through the introduction of these topics, students will understand the application of space technology in various fields and future development directions, and be able to master relevant technologies and knowledge.",
-    "schedule": "1\tIntroduction to Space Technology & Remote Sensing\n2\tOptical Imaging Systems\n3\tSynthetic Aperture Radar (SAR) Basics\n4\tSAR Image Interpretation\n5\tPreprocessing Techniques\n6\tSpace Image Datasets & Platforms\n7\tFeature Extraction & Classical Method\n8\tMini Project 1: SAR vs Optical Comparison\n9\tReview and Transition to Deep Learning\n10\tConvolutional Neural Networks (CNNs)\n11\tAutoencoders & Dimensionality Reduction\n12\tAnomaly Detection in Space Imagery\n13\tDeep Reinforcement Learning (DRL)\n14\tAttention Mechanisms\n15    Transformers & Vision Transformers (ViTs)\n16\tMini Project 2: Model Implementation\n17    Final Report and Presentation\n18    Final Report and Presentation",
+    "outline": "太空科技應用課程旨在介紹太空技術在各種應用領域的應用，並探討太空科技如何影響人類生活和科學研究。課程涵蓋的主題包括：太空探索，地球觀測，通訊和衛星導航，太空工程和材料科學，太空生物學和醫學，太空經濟和商業。通過這些主題的介紹，學生將了解太空科技在各個領域的應用和未來發展方向，並能夠掌握相關技術和知識。\nThe Space Technology Application Course aims to introduce the application of space technology in various fields, and explore how space technology impacts human life and scientific research. The course covers topics including space exploration, Earth observation, communication and satellite navigation, space engineering and materials science, space biology and medicine, and space economy and business. Through the introduction of these topics, students will understand the application of space technology in various fields and future development directions, and be able to master relevant technologies and knowledge.",
+    "schedule": "1 Introduction to Space Technology & Remote Sensing\n2 Optical Imaging Systems\n3 Synthetic Aperture Radar (SAR) Basics\n4 SAR Image Interpretation\n5 Preprocessing Techniques\n6 Space Image Datasets & Platforms\n7 Feature Extraction & Classical Method\n8 Mini Project 1: SAR vs Optical Comparison\n9 Review and Transition to Deep Learning\n10 Convolutional Neural Networks (CNNs)\n11 Autoencoders & Dimensionality Reduction\n12 Anomaly Detection in Space Imagery\n13 Deep Reinforcement Learning (DRL)\n14 Attention Mechanisms\n15 Transformers & Vision Transformers (ViTs)\n16 Mini Project 2: Model Implementation\n17 Final Report and Presentation\n18 Final Report and Presentation",
     "scorePolicy": "Interim report 30%\nFinal report 30%\nAssignment 40%",
     "materials": "\"Satellite Technology: Principles and Applications\" by Anil K. Maini and Varsha Agrawal\n\"Neural Networks and Deep Learning: A Textbook\" by Charu C. Aggarwal",
     "consultation": "Office hour or making an appointment by email",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "foreignLanguageTextbooks": true
   }
 ]

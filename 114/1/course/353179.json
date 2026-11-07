@@ -1,16 +1,18 @@
 [
   {
-    "name": "曾柏軒",
+    "teacher": "曾柏軒",
     "email": "phtseng@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=11635",
     "latestUpdate": "2025-08-12 16:45:30",
-    "objective": "電腦視覺已經深入生活當中，然而在不同應用情境下存在不同的實務挑戰，本課程講授學術文獻上以深度學習為主流之最新電腦視覺技術解決方案，以期建立修課學生之電腦視覺學理基礎與實務應用能力。課程主軸將分為三大塊包含: Generic Object Detection、Practical Issues、Generative Computer Vision。",
+    "outline": "電腦視覺已經深入生活當中,然而在不同應用情境下存在不同的實務挑戰,本課程講授學術文獻上以深度學習為主流之最新電腦視覺技術解決方案,以期建立修課學生之電腦視覺學理基礎與實務應用能力。課程主軸將分為三大塊包含: Generic Object Detection、Practical Issues、Generative Computer Vision。",
     "schedule": "Week 1 to 5: Generic Object Detection\na.Convolutional Neural Networks (CNN)\nb.Transformer Networks\nc.Diffusion Models\nd.State Space Models\n\nWeek 6 to 11: Practical Issues\na. Lightweight Computer Vision\nb. Data Imbalance\nc. Domain Adaptation\nd. Weakly-/ Semi-supervised Learning in Computer Vision\ne. Self-supervised Learning in Computer Vision\nf. Computer Vision Security\n\nWeek 12 to 16: Generative Computer Vision\na. Unconditional Generative Models\nb. Vision-Language Models\nc. Conditional Generative Models\nd. Multimodal Large Models",
-    "scorePolicy": "1. 作業\n2. 期末報告\n\n註：建議學生修讀過機器學習與深度學習。",
+    "scorePolicy": "1. 作業\n2. 期末報告\n\n註: 建議學生修讀過機器學習與深度學習。",
     "materials": "Richard Szeliski, Computer Vision: Algorithms and Applications, 2nd ed., Springer, 2022",
     "consultation": "課程授課方式為同步遠距課程，如有課程上問題可 Email 本校協同教師 (phtseng@ntut.edu.tw)",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "本課程為 AI 聯盟課程，授課教師為台灣大學鄭文皇教授。",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 深入探討AI的原理與應用（Explore the principles and applications of AI in depth）",
     "foreignLanguageTextbooks": true
   }
 ]

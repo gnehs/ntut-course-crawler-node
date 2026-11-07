@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳紅章",
+    "teacher": "陳紅章",
     "email": "hctran@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12490",
     "latestUpdate": "2025-06-01 22:20:40",
-    "objective": "本課程介紹應用於粒子與剛體的靜力平衡原理。課程內容涵蓋力系統、自由體圖、平衡條件、結構分析、摩擦力、質心與慣性矩等主題。課程強調運用向量力學進行問題解析。\nThis course introduces the principles of static equilibrium applied to particles and rigid bodies. Topics include force systems, free-body diagrams, equilibrium, structures, friction, centroids, and moments of inertia. The course emphasizes problem-solving using vector mechanics",
-    "schedule": "Week 1 : \tCourse Introduction; Units, Vectors, and Force Concepts\nWeek 2 :  2D Force Vectors and Components \nWeek 3-4 :  3D Force Vectors; Dot and Cross Products\nWeek 5-6 :   Resultants of Force Systems; Equivalent Force-Couple Systems\nWeek 7-8 :   Equilibrium of Particles in 2D; Free Body Diagrams (FBD)\nWeek 9    :  Midterm Exams \nWeek 10-12 :  \tEquilibrium in 3D\nWeek 13-14 :  Analysis of Trusses (Method of Joints & Sections)\nWeek 15-16 : Internal Forces in Beams; Shear and Bending Moment Diagrams\nWeek 17 : Friction Concepts and Applications (Wedges, Belts)\nWeek 18 : Final Exams",
-    "scorePolicy": "Homework (30%) \nMidterm Exams ( 30%) \nFinal Exams (40%)",
+    "outline": "本課程介紹應用於粒子與剛體的靜力平衡原理。課程內容涵蓋力系統、自由體圖、平衡條件、結構分析、摩擦力、質心與慣性矩等主題。課程強調運用向量力學進行問題解析。\nThis course introduces the principles of static equilibrium applied to particles and rigid bodies. Topics include force systems, free-body diagrams, equilibrium, structures, friction, centroids, and moments of inertia. The course emphasizes problem-solving using vector mechanics",
+    "schedule": "Week 1 : Course Introduction; Units, Vectors, and Force Concepts\nWeek 2 : 2D Force Vectors and Components\nWeek 3-4 : 3D Force Vectors; Dot and Cross Products\nWeek 5-6 : Resultants of Force Systems; Equivalent Force-Couple Systems\nWeek 7-8 : Equilibrium of Particles in 2D; Free Body Diagrams (FBD)\nWeek 9 : Midterm Exams\nWeek 10-12 : Equilibrium in 3D\nWeek 13-14 : Analysis of Trusses (Method of Joints & Sections)\nWeek 15-16 : Internal Forces in Beams; Shear and Bending Moment Diagrams\nWeek 17 : Friction Concepts and Applications (Wedges, Belts)\nWeek 18 : Final Exams",
+    "scorePolicy": "Homework (30%)\nMidterm Exams ( 30%)\nFinal Exams (40%)",
     "materials": "Hibbeler, Russell C. 2022. Engineering Mechanics: Statics. 15th ed. Hoboken, NJ: Pearson.",
     "consultation": "Contact Instructor via email address : hctran@ntut.edu.tw or during office hours",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "foreignLanguageTextbooks": true
   }
 ]

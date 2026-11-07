@@ -1,28 +1,34 @@
 [
   {
-    "name": "洪子晏",
+    "teacher": "洪子晏",
     "email": "georgehong618@gmail.com",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12298",
     "latestUpdate": "2024-12-19 16:58:22",
-    "objective": "在電子化與網路化之經營環境下，生產製造與服務過程中，都會蒐集其中自動產生或人工輸入的資料。本課程學習在資訊平台上，以統計與分析方法以處理大量資料混雜時的管理決策問題，以萃取出有價值的資訊或內隱的知識，做為決策支援與管理之依據。\n除介紹問題基本特性，說明資料科學工具與方法外，並利用作業、個案研究、案例資料，以訓練同學資料分析的能力與解決問題的經驗。\nAmount of data are collected automatically during manufacturing production and service process. This course aims to introduce how to apply big data analytic and statistical methods for decision making with amount of data and then extracting useful rules or patterns for decision support and management. In addition to lecturing, this course also training students how to analyze the data and learn problem solving techniques through homework, term project and case studies.",
-    "schedule": "1\tIntroduction to data science\n2\tdata preprocessing\n3\tAssociation rule\n4\tClassification: Decision tree models I\n5\tClassification: Decision tree models II\n6\tPaper Presentation\n7\tNational Holiday\n8\tClustering Methods I\n9\tClustering Methods II\n10\tHoliday\n11\tProject Presentation I\n12\tProject Presentation II",
+    "outline": "在電子化與網路化之經營環境下，生產製造與服務過程中，都會蒐集其中自動產生或人工輸入的資料。本課程學習在資訊平台上，以統計與分析方法以處理大量資料混雜時的管理決策問題，以萃取出有價值的資訊或內隱的知識，做為決策支援與管理之依據。\n除介紹問題基本特性，說明資料科學工具與方法外，並利用作業、個案研究、案例資料，以訓練同學資料分析的能力與解決問題的經驗。\nAmount of data are collected automatically during manufacturing production and service process. This course aims to introduce how to apply big data analytic and statistical methods for decision making with amount of data and then extracting useful rules or patterns for decision support and management. In addition to lecturing, this course also training students how to analyze the data and learn problem solving techniques through homework, term project and case studies.",
+    "schedule": "1 Introduction to data science\n2 data preprocessing\n3 Association rule\n4 Classification: Decision tree models I\n5 Classification: Decision tree models II\n6 Paper Presentation\n7 National Holiday\n8 Clustering Methods I\n9 Clustering Methods II\n10 Holiday\n11 Project Presentation I\n12 Project Presentation II",
     "scorePolicy": "Homework and Classwork 40%\nPaper Presentation 20%\nProject 30%\nAttendance 10%",
     "materials": "Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press.",
     "consultation": "email to tyhong@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   },
   {
-    "name": "范書愷",
+    "teacher": "范書愷",
     "email": "morrisfan@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11573",
     "latestUpdate": "2024-12-17 17:27:46",
-    "objective": "在電子化與網路化之經營環境下，生產製造與服務過程中，都會蒐集其中自動產生或人工輸入的資料。本課程學習在資訊平台上，以統計與分析方法以處理大量資料混雜時的管理決策問題，以萃取出有價值的資訊或內隱的知識，做為決策支援與管理之依據。\n除介紹問題基本特性，說明資料科學工具與方法外，並利用作業、個案研究、案例資料，以訓練同學資料分析的能力與解決問題的經驗。\nAmount of data are collected automatically during manufacturing production and service process. This course aims to introduce how to apply big data analytic and statistical methods for decision making with amount of data and then extracting useful rules or patterns for decision support and management. In addition to lecturing, this course also training students how to analyze the data and learn problem solving techniques through homework, term project and case studies.",
+    "outline": "在電子化與網路化之經營環境下，生產製造與服務過程中，都會蒐集其中自動產生或人工輸入的資料。本課程學習在資訊平台上，以統計與分析方法以處理大量資料混雜時的管理決策問題，以萃取出有價值的資訊或內隱的知識，做為決策支援與管理之依據。\n除介紹問題基本特性，說明資料科學工具與方法外，並利用作業、個案研究、案例資料，以訓練同學資料分析的能力與解決問題的經驗。\nAmount of data are collected automatically during manufacturing production and service process. This course aims to introduce how to apply big data analytic and statistical methods for decision making with amount of data and then extracting useful rules or patterns for decision support and management. In addition to lecturing, this course also training students how to analyze the data and learn problem solving techniques through homework, term project and case studies.",
     "schedule": "* Regression\n* Support Vector Machine\n* Neural Networks I\n* Neural Networks II\n* Neural Networks III",
     "scorePolicy": "Group Presentation\n40% of the final grade",
     "materials": "Deep Learning: Foundations and Concepts, by Christopher M. Bishop • Hugh Bishop, Springer\n\nUnderstanding Deep Learning, by Simon J.D. Prince, MIT Press",
-    "consultation": "Email: morrisfan@ntut.edu.twOffice hours: 1400-1600 on Tuesdays",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
+    "consultation": "Email: morrisfan@ntut.edu.tw\nOffice hours: 1400-1600 on Tuesdays",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

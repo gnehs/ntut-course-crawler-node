@@ -1,15 +1,18 @@
 [
   {
-    "name": "賴建宏",
+    "teacher": "賴建宏",
     "email": "ee12245@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12245",
     "latestUpdate": "2024-12-18 09:17:00",
-    "objective": "本課程在訓練學生如何使用開源服務軟體來分析與模擬數位 IC 的設計，進而能培養學生具有設計積体電路的能力，課程內容包念：\n1. 數位邏輯系統\n2. 數位積体電路設計軟体之介紹及使用 EDA Playground\n3..FPGA 的原理\n4. 專題設計",
+    "outline": "本課程在訓練學生如何使用開源服務軟體來分析與模擬數位IC的設計,進而能培養學生具有設計積体電路的能力,課程內容包念：\n1. 數位邏輯系統\n2. 數位積体電路設計軟体之介紹及使用EDA Playground\n3..FPGA的原理\n4. 專題設計",
     "schedule": "This course trains students how to use open source service software to analyze and simulate the design of digital ICs, thereby cultivating students' ability to design integrated circuits. The course content includes:\n1. Digital logic system\n2. Introduction to digital integrated circuit design software and use of EDA Playground\n3..Principles of FPGA\n4. Thematic design",
     "scorePolicy": "Midterm 50%, Final 50%",
     "materials": "Fundamentals of Digital Logic with Verilog Design",
     "consultation": "ext. 2237",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

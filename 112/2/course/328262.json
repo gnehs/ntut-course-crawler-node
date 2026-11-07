@@ -1,14 +1,18 @@
 [
   {
-    "name": "王紳",
+    "teacher": "王紳",
     "email": "wangsen@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=112&sem=2&code=11462",
     "latestUpdate": "2024-05-17 16:21:22",
-    "objective": "本課程包含：\n1. 傳輸線理論\n2. 集總元件與阻抗匹配\n3. 微波網路分析\n7. 射頻耦合器\n8. 射頻濾波器\n學生能從這門課學習到射頻被動元件的分析、設計。",
-    "schedule": "Week 1-4  \tTransmission Line Theory & Case Study \nWeek 5-7       Impedance Matching & Case Study\nWeek 8          Microwave Network Analysis\nWeek 9    \tMidterm Report\nWeek 10-11  Microwave Network Analysis & Case Study\nWeek 12-14\tPower Dividers and Couplers & Case Study\nWeek 15-17\tMicrowave Filters & Case Study\nWeek 18   \tFinal",
-    "scorePolicy": "Homework：20%  \nMidterm：40% \nFinal：40%",
-    "materials": "1. 自編講義\n2. D.M. Pozar, Microwave Engineering,3rd. Ed. John Wiley & Sons, 2005.",
-    "consultation": "辦公室：綜科館 312-4 室 office hour:(二) 234、(三) 234 實驗室：綜科館 410 室，分機 2286。亦可用 email 約其它時間 wangsen@mail.ntut.edu.tw",
-    "remarks": "1. 教材放置網址: https://ezfzjjbkq1tihhndnf0zzq.on.drv.tw/public_html/2. **6/4 (二) 在教室實體期末考 **    **6/11 (二) 線上課。請看中華開放教育平台 - 行動通訊天線設計課程 - MIMO 的基本原理與通道特性介紹 這個單元即可 (約兩小時)   **6/18 (二) 19:00 至綜科 408 室發還期末考考卷並確認學期成績。",
+    "outline": "本課程包含：\n1.傳輸線理論\n2.集總元件與阻抗匹配\n3.微波網路分析\n7.射頻耦合器\n8.射頻濾波器\n學生能從這門課學習到射頻被動元件的分析、設計。",
+    "schedule": "Week 1-4 Transmission Line Theory & Case Study\nWeek 5-7 Impedance Matching & Case Study\nWeek 8 Microwave Network Analysis\nWeek 9 Midterm Report\nWeek 10-11 Microwave Network Analysis & Case Study\nWeek 12-14 Power Dividers and Couplers & Case Study\nWeek 15-17 Microwave Filters & Case Study\nWeek 18 Final",
+    "scorePolicy": "Homework：20%\nMidterm：40%\nFinal：40%",
+    "materials": "1.自編講義\n2. D.M. Pozar, Microwave Engineering,3rd. Ed. John Wiley & Sons, 2005.",
+    "consultation": "辦公室:綜科館312-4室 office hour:(二)234、(三)234\n實驗室:綜科館410室，分機2286。\n亦可用email約其它時間 wangsen@mail.ntut.edu.tw",
+    "remarks": "1.教材放置網址: https://ezfzjjbkq1tihhndnf0zzq.on.drv.tw/public_html/\n2. **6/4(二)在教室實體期末考**\n**6/11(二)線上課。請看中華開放教育平台-行動通訊天線設計課程-MIMO的基本原理與通道特性介紹 這個單元即可(約兩小時)\n**6/18(二)19:00至綜科408室發還期末考考卷並確認學期成績。",
+    "resources": "",
+    "sdgs": "",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

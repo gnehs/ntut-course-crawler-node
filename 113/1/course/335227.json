@@ -1,15 +1,18 @@
 [
   {
-    "name": "尤信程",
+    "teacher": "尤信程",
     "email": "scyou@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=10665",
     "latestUpdate": "2024-10-07 11:10:24",
-    "objective": "１. 數系：數位系統所使用之各種數系及其轉換之方法２. 布氏代數：了解布氏代數的基本運算法和定律，及認識基本邏輯 及邏輯閘３.\t布氏代數之簡化：介紹各種布氏代數之簡化方法４. 組合邏輯：布氏代數及邏輯閘，計分析各種組合邏輯電路５. 可程式邏輯陣列：介紹ＰＬＡ，ＰＡＬ，ＦＰＧＡ等之設計方法６. 正反器：介紹各種正反器電路及了解其基特性７. 同步與非同步序向邏輯電路：介紹各種同步與非同步序向電路分析與設計之方法",
-    "schedule": "Week 1 Announcements & Number systems (CH 1)  \nWeek 2 Number systems (CH 1)  & Boolean algebra (CH 2, 3)\nWeek 3 Logic families (CH 3-4) &  Minterm/Maxterm (CH 4) &\n logic families (supplement) \nWeek 4 Karnaugh maps (CH 5) & Quin-McClusky method (CH 6) \nWeek 5  Multilevel NAND/NOR (CH 7) & Timing hazards (CH 8) & Design with MSI (CH 9) \nStatic hazards\nWeek 6 Design with MSI (CH 9)& Introduction to VHDL (CH 10, 1 hr)\nDecoders, Encoders, Multiplexers, and Demultiplexers\nWeek 7 Introduction to VHDL (CH 10)\nWeek 8 No class\nWeek 9 MT & sol\nWeek 10 Introduction to VHDL, Latches and Flip-Flops (CH11)\nWeek 11 Latches and Flip-Flops (CH 11)\nWeek 12 Registers & counters (CH 12) \nWeek 13 Registers & counters (CH 12) & Sequential circuit analysis (CH13)\nWeek 14 Sequential circuit analysis (CH13)  \nIncluding in depth study of metastability\nTiming specifications (supplement)\nWeek 15, 16. Sequential circuit design (CH 14)\nWeek 16, 17. VHDL for sequential circuits (CH 17, 20)\nWeek 18. Final Exam",
+    "outline": "１.數系：數位系統所使用之各種數系及其轉換之方法２.布氏代數：了解布氏代數的基本運算法和定律，及認識基本邏輯 及邏輯閘３. 布氏代數之簡化：介紹各種布氏代數之簡化方法４.組合邏輯：布氏代數及邏輯閘，計分析各種組合邏輯電路５.可程式邏輯陣列：介紹ＰＬＡ，ＰＡＬ，ＦＰＧＡ等之設計方法６.正反器：介紹各種正反器電路及了解其基特性７.同步與非同步序向邏輯電路：介紹各種同步與非同步序向電路分析與設計之方法",
+    "schedule": "Week 1 Announcements & Number systems (CH 1)\nWeek 2 Number systems (CH 1) & Boolean algebra (CH 2, 3)\nWeek 3 Logic families (CH 3-4) & Minterm/Maxterm (CH 4) &\nlogic families (supplement)\nWeek 4 Karnaugh maps (CH 5) & Quin-McClusky method (CH 6)\nWeek 5 Multilevel NAND/NOR (CH 7) & Timing hazards (CH 8) & Design with MSI (CH 9)\nStatic hazards\nWeek 6 Design with MSI (CH 9)& Introduction to VHDL (CH 10, 1 hr)\nDecoders, Encoders, Multiplexers, and Demultiplexers\nWeek 7 Introduction to VHDL (CH 10)\nWeek 8 No class\nWeek 9 MT & sol\nWeek 10 Introduction to VHDL, Latches and Flip-Flops (CH11)\nWeek 11 Latches and Flip-Flops (CH 11)\nWeek 12 Registers & counters (CH 12)\nWeek 13 Registers & counters (CH 12) & Sequential circuit analysis (CH13)\nWeek 14 Sequential circuit analysis (CH13)\nIncluding in depth study of metastability\nTiming specifications (supplement)\nWeek 15, 16. Sequential circuit design (CH 14)\nWeek 16, 17. VHDL for sequential circuits (CH 17, 20)\nWeek 18. Final Exam",
     "scorePolicy": "HW 10 %\nMT 45 %\nFinal 45 %\nParticipation (up to) 5 %",
     "materials": "Ruth & Kinney, Fundamentals of Logic Design, 7th ed.",
     "consultation": "Walk in my office during office hours & e-mail to make an appointment for additional consulting time.",
-    "課程對應SDGs指標": "無（None）",
-    "remarks": "If online teaching is required, the Microsoft Teams will be used for delivering lectures.Makeup classes: 9/24, 10/22, 11/19. All from 11:10 ~ 12:10 in 六教 (sixth teaching building) 327",
+    "remarks": "If online teaching is required, the Microsoft Teams will be used for delivering lectures.\nMakeup classes: 9/24, 10/22, 11/19. All from 11:10 ~ 12:10 in 六教 (sixth teaching building) 327",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

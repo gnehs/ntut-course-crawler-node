@@ -1,15 +1,18 @@
 [
   {
-    "name": "葉賜旭",
+    "teacher": "葉賜旭",
     "email": "ssyeh@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=11273",
     "latestUpdate": "2024-06-28 16:14:12",
-    "objective": "先修課程：負責教授同意。同學們可藉由本課程學習機電整合系統控制程式的撰寫方式；主要內容包括：機電系統數位控制、系統數位化轉換、控制程式撰寫方式等，可作為深入機電系統控制技術研究與應用的基礎學習。本課程以 matlab 軟體與 arduino (C 程式語言) 整合發展環境進行控制系統模擬與實驗，同學們可因此體會自動控制系統的設計與應用概念。",
+    "outline": "先修課程：負責教授同意。同學們可藉由本課程學習機電整合系統控制程式的撰寫方式；主要內容包括：機電系統數位控制、系統數位化轉換、控制程式撰寫方式等，可作為深入機電系統控制技術研究與應用的基礎學習。本課程以matlab軟體與arduino(C程式語言)整合發展環境進行控制系統模擬與實驗，同學們可因此體會自動控制系統的設計與應用概念。",
     "schedule": "1. Brief Introduction to Digital Control Systems\n2. Signal Conversion and Processing\n3. Mathematical Modeling of the S/H Process\n4. The Z-Transform\n5. Transfer Functions and Block Diagrams\n6. Obtaining Discrete-Time Equivalents of Continuous-Time Filters\n7. Structures for Discrete-Time Filters\n8. Matlab Simulation\n9. Experiments",
     "scorePolicy": "第一次測驗：35%\n第二次測驗：35%\n實作測驗：20%\n平時成績：10%",
     "materials": "● Digital Control Systems, B. C. Kuo, 2nd Ed., Saunders HBJ.\n● Discrete-Time Control Systems, K. Ogata, Int. Edition, Prentice-Hall.",
-    "consultation": "學生可以 email (ssyeh@ntut.edu.tw) 或課程 LINE 群組與老師聯絡討論，或是於教師諮商時間到老師辦公室討論。",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "consultation": "學生可以email(ssyeh@ntut.edu.tw)或課程LINE群組與老師聯絡討論，或是於教師諮商時間到老師辦公室討論。",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

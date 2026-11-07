@@ -1,15 +1,18 @@
 [
   {
-    "name": "曾恕銘",
+    "teacher": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
-    "latestUpdate": "2025-01-07 15:38:29",
-    "objective": "This course covers the basics and latest developments in information and communication technology (ICT), including Part I multimedia communications and networks, and Part II  Principles of Generative AI\n本課程涵蓋資訊和通訊技術（ICT）的基礎知識和最新發展，包括第一部分多媒體通訊和網路，第二部分生成式人工智原理",
-    "schedule": "Part I multimedia communications and networs 多媒體通訊和網路\n● Network Protocols (Internet layer 1-5)\n● IT  source coding for video standards (Huffman code etcm layer 5.)\n● Information theory and channel coding introduction (layer 1)\n● Convolutional/RS codes for 4G control channel\n● LDPC codes/Polar codes for 5G\n● Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.) (optional)\n● Error resilience in wireless video transmission (HARQ (RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n\nPart II  Principles of Generative AI 生成式人工智\n● Generative AI universal\n●  prompt engineering\n● LLMtraining\n● T in ChatGPT transformer intro\n● Generative AI generationstrategy\n● Image Generation in Generative AI",
-    "scorePolicy": "Oral report: 30%\nExam: 30% \nFinal report: 40%",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11010",
+    "latestUpdate": "2025-03-26 19:50:47",
+    "outline": "This course covers the basics and latest developments in information and communication technology (ICT), including Part I multimedia communications and networks, and Part II Principles of Generative AI (LLM training in OepnAI Google, DeepSeek, diffusion method in Sora etc)\n本課程涵蓋資訊和通訊技術（ICT）的基礎知識和最新發展，包括第一部分多媒體通訊和網路，第二部分生成式人工智原理(LLM training in OepnAI Google, DeepSeek, diffusion method in Sora etc)",
+    "schedule": "Part I multimedia communications and networs 多媒體通訊和網路\n● Network Protocols (Internet layer 1-5)\n● IT source coding for video standards (Huffman code etcm layer 5.)\n● Information theory and channel coding introduction (layer 1)\n● Convolutional/RS codes for 4G control channel\n● LDPC codes/Polar codes for 5G\n● Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.) (optional)\n● Error resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n\nPart II Principles of Generative AI 生成式人工智\n● Generative AI universal\n● prompt engineering\n● LLMtraining (OpenAI Google DeepSeek etc.)\n● T in ChatGPT transformer intro\n● Generative AI generationstrategy\n● Image Generation in Generative AI (diffusion in Sora etc.) (optional)",
+    "scorePolicy": "Oral report: 30%\nExam: 30%\nFinal report: 40%",
     "materials": "Course handouts",
     "consultation": "Office hours",
-    "課程對應SDGs指標": "無（None）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "無（None）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]

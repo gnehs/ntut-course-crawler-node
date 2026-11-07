@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "teacher": "張漢利",
+    "email": "hendri@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=12603",
+    "latestUpdate": "2025-02-17 17:21:54",
+    "outline": "In this introductory course, students will gain hands-on experience in building and managing database-driven applications using Python and Django. They will learn how to design efficient relational databases, perform CRUD operations, implement user authentication, and handle file storage. As the course progresses, students will explore more advanced topics such as PostgreSQL, query optimization, and deploying applications with Docker. Through practical assignments, a mid-term project, and a final presentation, students will develop real-world problem-solving skills and gain insights into best practices for database application development. Basic Python knowledge is required, and additional programming experience will be advantageous. However, since this is an introductory-level course, students from any background are welcome to join and build a strong foundation in modern, data-driven application development.\n\n在這門入門課程中，學生將獲得建立和管理資料庫驅動應用程式的實作經驗，使用 Python 和 Django。他們將學習如何設計高效的關聯式資料庫，執行 CRUD 操作，實現使用者認證和處理檔案儲存。隨著課程的進行，學生將深入探索 PostgreSQL、查詢優化，以及使用 Docker 部署應用程式等進階主題。透過實作作業、期中專案和期末報告，學生將發展解決實際問題的技能，並獲得資料庫應用程式開發的最佳實踐見解。本課程要求具有基本的 Python 知識，其他程式設計經驗將有所幫助。然而，這是一門入門課程，任何背景的學生都歡迎參加，並建立現代資料驅動應用程式開發的堅實基礎。",
+    "schedule": "Week 1: Course Orientation\nWeek 2: Initial Set-Up, Website and Webpages\nWeek 3: Function- and class-based views, testing\nWeek 4: Relational databases with Django\nWeek 5: CRUD (Create-Read-Update-Delete)\nWeek 6: Forms\nWeek 7: User authentication system\nWeek 8: Advanced user authentication and styling, permission\nWeek 9: Midterm Presentation\nWeek 10: Cross-Origin Resource Sharing\nWeek 11: Restriction access\nWeek 12: Project deployment\nWeek 13: Docker, PostgreSQL\nWeek 14: Static and dynamic website\nWeek 15: Authorization\nWeek 16: Project optimization\nWeek 17: Final Project Implementation\nWeek 18: Final Project Presentation and Course Wrap-Up",
+    "scorePolicy": "1. Quizzes: 35%\n2. Reports: 25%\n3. Mid-term presentation: 15%\n4. Final-term presentation: 25%",
+    "materials": "Vincent, W. S. (2024). Django for Beginners, 5th Edition: Build Modern Web Applications with Python.\nVincent, W. S. (2020). Django for APIs: Build web APIs with Python and Django\nVincent, W. S. (2020). Django for Professionals: Production websites with Python & Django",
+    "consultation": "Email, Office hour",
+    "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

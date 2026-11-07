@@ -1,0 +1,18 @@
+[
+  {
+    "teacher": "曾柏軒",
+    "email": "phtseng@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=11635",
+    "latestUpdate": "2025-02-13 11:52:24",
+    "outline": "課程模組分為三個主要的部分，分別為即時追蹤與地圖建置(SLAM)、基於機器學習之場景理解(Scene Understanding)與探索導航的動作控制(Action Control)。即時追蹤與地圖建置部分包含機率模型與相機模型等理論基礎，也包含基於深度學習之RGB-based的3DSLAM方法。場景理解的部分包含機器學習的基本概念，再帶到深度學習的技術與目前的物件偵測與語意切割技術。動作控制的部分則包含路徑規劃與導航演算法，並帶入強化學習的概念來引導行進的路徑。",
+    "schedule": "本課程為清大胡敏君教授開設之同步遠距上課時間：每周一晚上6:30~9:20\n遠距上課位置： https://www.youtube.com/@NTHURNE-l9v\n(註: 因開課方的要求，為使得期末專題分組開發能順利進行，本課程不接受期中退選，請修課同學留意)\n2/17 Introduction to Robotic Navigation and Exploration\n2/24 Kinematic Model and Path Tracking Control, Lab 1\n3/3 Motion Planning, Lab 2\n3/10 Reinforcement Learning (I)\n3/17 Reinforcement Learning (II)\n3/24 Project Environment Building (I), Lab 3\n3/31 Project Environment Building (I) Lab4\n4/7 Project Environment Building (III) Lab5\n4/14 SLAM Back-end (I)\n4/21 SLAM Back-end (II)\n4/28 3D SLAM (I)\n5/5 3D SLAM (II)\n5/12 3D Embodied Agent\n5/19 Paper Presentation (I)\n5/26 Paper Presentation (II)\n6/2 Project Presentation & Demo",
+    "scorePolicy": "1. 作業(占學期成績50%): 四個作業，依序為10%、15%、15%、10%。\n2. 論文閱讀報告(占學期成績10%): 5/19, 5/26兩週的論文閱讀報告，視修課人數，安排線上報告或是實體到教室報告。\n3. 自走車期末專題(占學期成績40%) (含實作、書面報告、口頭報告): 視人數，可以用模擬器的方式來實作自走車專題。",
+    "materials": "● Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018\n● Sebastian Thrun, Wolfram Burgard, and Dieter Fox , Probabilistic Robotics,2005. (Intelligent Robotics and Autonomous Agents series)\n● Kevin Murphy, Machine Learning: A Probabilistic Perspective.\n● Daphne Koller and Nir Friedman, Probabilistic Graphical Models: Principles and Techniques, 1st Edition, 2009.\n● Ian Goodfellow, Yoshua Bengio and Aaron Courville: Deep Learning.",
+    "consultation": "本課程上課方式為遠距上課，課程問題都可以 email 給教師或助教",
+    "remarks": "• 本課程期末專題採分組開發，為避免影響同組修課同學之權益，「本課程不接受期中退選」，請謹慎評估可投入的時間再選課。\n• 建議學生需已修過Python程式設計、影像處理、深度學習。\n• 學生須自備具GPU顯卡之電腦。",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -1,15 +1,18 @@
 [
   {
-    "name": "賴建宏",
+    "teacher": "賴建宏",
     "email": "ee12245@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=1&code=12245",
     "latestUpdate": "2024-05-22 10:34:20",
-    "objective": "本課程在訓練學生如何使用 Verilog 來分析、設計與模擬數位 IC。目前規劃：\n1. Verilog HDL 的介紹\n2. 數位邏輯與電路原理\n3. 微處理機的結構、原理與設計",
+    "outline": "本課程在訓練學生如何使用Verilog來分析、設計與模擬數位IC。目前規劃：\n1. Verilog HDL的介紹\n2. 數位邏輯與電路原理\n3. 微處理機的結構、原理與設計",
     "schedule": "This course trains students how to use Verilog to analyze, design and simulate digital ICs. Current plans:\n1. Introduction to Verilog HDL\n2. Digital logic and circuit principles\n3. Structure, principle and design of microprocessor",
-    "scorePolicy": "不限年齡與性別，也沒有筆試！期中與期末均須能獨立完成一個數位晶片的設計並模擬呈現出其成果，兩部份各佔 50%",
-    "materials": "References:\n\nFundamentals of Digital Logic with Verilog Design\nFPGA Prototyping with Verilog examples\n\n均已有 PDF 檔案；另附有一些我自己做的範例程式，屆時上課主要用 : https://edaplayground.com/",
+    "scorePolicy": "不限年齡與性別，也沒有筆試！期中與期末均須能獨立完成一個數位晶片的設計並模擬呈現出其成果，兩部份各佔50%",
+    "materials": "References:\n\nFundamentals of Digital Logic with Verilog Design\nFPGA Prototyping with Verilog examples\n\n均已有PDF檔案；另附有一些我自己做的範例程式，屆時上課主要用 : https://edaplayground.com/",
     "consultation": "ext. 2237",
-    "課程對應SDGs指標": "SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG5：性別平等（Gender Equality）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": true
   }
 ]

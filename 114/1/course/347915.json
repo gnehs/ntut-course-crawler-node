@@ -1,16 +1,18 @@
 [
   {
-    "name": "陳長忻",
+    "teacher": "陳長忻",
     "email": "charngshin.chen@mail.ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12454",
     "latestUpdate": "2025-06-01 13:43:31",
-    "objective": "本課程將介紹程式設計的基礎，透過腳本式語言及基礎程式語言的應用，培養學生程式設計的基本能力。本課程除加強技術開發能力外，也將導引學生，如何透過獨立思考來面對問題及分析問題，並透過程式的撰寫來解決問題。\nThis course will introduce the fundamental of computer programming design. Student will learn the capability of programming design using script language and basic programming language. This course will also provide the knowledge and methods for students to realize and analyze specific problem independently. So that they can using computer program to solve the problems.",
-    "schedule": "．Introduction（Parametric Design／Visual Basic Language／Hello Grasshopper?）\n．Interface（ Grasshopper User Interface／Talking to Rhino）\n．Anatomy of a Grasshopper Definition （Parameters／Components / Data Types / Displays）\n．Building Blocks of Algorithms （Points / Vectors／ Planes／Mathematics & \n．Expressions & Conditionals / Logical Operators）\n．Designing with Lists & Data Trees （Curves／Surface Geometry / Morphing）\n．Combining Varies Factors  & AI via Plug-in （Ladybug / Karamba／Owl  etc）",
-    "scorePolicy": "The course evaluation is mainly divided into two parts: \"Lectures \" and \"Group Design Project.\"\n\n．\"Lectures\" will be followed by either in-class exercises or article reading summaries after each session.\n　 (Grading criteria: Attendance – 15%; In-class exercises – 20%.)\n\n．\"Group Design Project \" involves building up a parametric model and developing a design proposal by incorporating plug-ins related to spatial configuration, material systems, structural systems, and environmental control. ( Grading criteria: Design development – 45%; Documentation and portfolio – 20%)",
-    "materials": "．《Food4Rhino》 https://www.food4rhino.com/en\n．《Grasshopper Offical Tutorials》 \n．《AAD Algorithms-Aided Design: Parametric Strategies using Grasshopper》， Arturo Tedeschi，2014。\n．《Architecture in the Age of Artificial Intelligence》，Neil Leach，2021。",
-    "consultation": "．Email: charngshin.chen@gmail.com．Line Group: [1141_程式設計入門]",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
+    "outline": "本課程將介紹程式設計的基礎，透過腳本式語言及基礎程式語言的應用，培養學生程式設計的基本能力。本課程除加強技術開發能力外，也將導引學生，如何透過獨立思考來面對問題及分析問題，並透過程式的撰寫來解決問題。\nThis course will introduce the fundamental of computer programming design. Student will learn the capability of programming design using script language and basic programming language. This course will also provide the knowledge and methods for students to realize and analyze specific problem independently. So that they can using computer program to solve the problems.",
+    "schedule": "．Introduction（Parametric Design／Visual Basic Language／Hello Grasshopper?）\n．Interface（ Grasshopper User Interface／Talking to Rhino）\n．Anatomy of a Grasshopper Definition （Parameters／Components / Data Types / Displays）\n．Building Blocks of Algorithms （Points / Vectors／ Planes／Mathematics &\n．Expressions & Conditionals / Logical Operators）\n．Designing with Lists & Data Trees （Curves／Surface Geometry / Morphing）\n．Combining Varies Factors & AI via Plug-in （Ladybug / Karamba／Owl etc）",
+    "scorePolicy": "The course evaluation is mainly divided into two parts: \"Lectures \" and \"Group Design Project.\"\n\n．\"Lectures\" will be followed by either in-class exercises or article reading summaries after each session.\n(Grading criteria: Attendance – 15%; In-class exercises – 20%.)\n\n．\"Group Design Project \" involves building up a parametric model and developing a design proposal by incorporating plug-ins related to spatial configuration, material systems, structural systems, and environmental control. ( Grading criteria: Design development – 45%; Documentation and portfolio – 20%)",
+    "materials": "．《Food4Rhino》 https://www.food4rhino.com/en\n．《Grasshopper Offical Tutorials》\n．《AAD Algorithms-Aided Design: Parametric Strategies using Grasshopper》， Arturo Tedeschi，2014。\n．《Architecture in the Age of Artificial Intelligence》，Neil Leach，2021。",
+    "consultation": "．Email: charngshin.chen@gmail.com\n．Line Group: [ 1141_程式設計入門 ]",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）\nSDG11：永續城市與社區（Sustainable Cities and Communities）\nSDG17：夥伴關係（Partnerships for the Goals）",
+    "aiUsage": "● 使用生成式AI作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）\n● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 使用生成式AI進行課堂即時互動（Use generative AI for real-time classroom interaction）",
     "foreignLanguageTextbooks": true
   }
 ]

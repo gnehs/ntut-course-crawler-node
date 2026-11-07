@@ -1,16 +1,18 @@
 [
   {
-    "name": "彭尉祖",
+    "teacher": "彭尉祖",
     "email": "wtpeng@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=114&sem=1&code=12628",
     "latestUpdate": "2025-09-04 17:14:55",
-    "objective": "This course provides a comprehensive study of convective heat transfer, focusing on the fundamentals of fluid flow, energy transport, and boundary layer theory. Both forced and natural convection are examined in detail, with emphasis on governing equations, similarity analysis, and engineering correlations. Applications to internal and external flows are highlighted to prepare students for solving real-world thermal problems.",
-    "schedule": "Week 1 (9/11): Overview of heat transfer\nWeek 2 (9/18): Introduction to convective heat transfer \nWeek 3 (9/25): Governing equations I: conversation of mass and momentum\nWeek 4 (10/2): Governing equations II: energy transport\nWeek 5 (10/9): Boundary layer theory I: velocity boundary layer\nWeek 6 (10/16): Boundary layer theory II: thermal boundary layer \nWeek 7 (10/23): Similarity solutions for laminar boundary layers\nWeek 8 (10/30): Heat transfer to fully-developed flow\nWeek 9 (11/6): Midterm exam\nWeek 10 (11/13): Heat transfer to developing flow\nWeek 11 (11/20): Natural convection I: vertical surface\nWeek 12 (11/27): Natural convection II: horizontal surface\nWeek 13 (12/4): Transition to turbulence\nWeek 14 (12/11): Turbulent boundary layer flow\nWeek 15 (12/18): Heat transfer in turbulent boundary layer flow\nWeek 16 (12/25): No lecture (Constitution Day)\nWeek 17 (1/1): No lecture (New Year)\nWeek 16 (1/8): Final exam",
-    "scorePolicy": "Attendance 20% \nMid-term exam 40% \nFinal exam 40%",
+    "outline": "This course provides a comprehensive study of convective heat transfer, focusing on the fundamentals of fluid flow, energy transport, and boundary layer theory. Both forced and natural convection are examined in detail, with emphasis on governing equations, similarity analysis, and engineering correlations. Applications to internal and external flows are highlighted to prepare students for solving real-world thermal problems.",
+    "schedule": "Week 1 (9/11): Overview of heat transfer\nWeek 2 (9/18): Introduction to convective heat transfer\nWeek 3 (9/25): Governing equations I: conversation of mass and momentum\nWeek 4 (10/2): Governing equations II: energy transport\nWeek 5 (10/9): Boundary layer theory I: velocity boundary layer\nWeek 6 (10/16): Boundary layer theory II: thermal boundary layer\nWeek 7 (10/23): Similarity solutions for laminar boundary layers\nWeek 8 (10/30): Heat transfer to fully-developed flow\nWeek 9 (11/6): Midterm exam\nWeek 10 (11/13): Heat transfer to developing flow\nWeek 11 (11/20): Natural convection I: vertical surface\nWeek 12 (11/27): Natural convection II: horizontal surface\nWeek 13 (12/4): Transition to turbulence\nWeek 14 (12/11): Turbulent boundary layer flow\nWeek 15 (12/18): Heat transfer in turbulent boundary layer flow\nWeek 16 (12/25): No lecture (Constitution Day)\nWeek 17 (1/1): No lecture (New Year)\nWeek 16 (1/8): Final exam",
+    "scorePolicy": "Attendance 20%\nMid-term exam 40%\nFinal exam 40%",
     "materials": "Adrian Bejan, “Convection Heat Transfer,” 2nd ed., ISBN 0-471-57972-6. John Wiley & Sons, Inc., New York, United States of America, 1995.",
-    "consultation": "Curricular consult at my office during the office hour or via email.Students can also contact me through: 02-2771-2171 # 4801",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "consultation": "Curricular consult at my office during the office hour or via email.\nStudents can also contact me through: 02-2771-2171 # 4801",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "foreignLanguageTextbooks": true
   }
 ]

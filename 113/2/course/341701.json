@@ -1,15 +1,18 @@
 [
   {
-    "name": "蕭耀榮",
+    "teacher": "蕭耀榮",
     "email": "yshiao@ntut.edu.tw",
-    "latestUpdate": "2024-12-16 21:34:52",
-    "objective": "本課程為介紹程式設計相關之計算機進階觀念、教授 C 程式語言進階語法、及程式語言之基礎應用，以奠定學生之程式設計之基礎。本課程程式設計語言以 C 語言為基礎，於熟習基本程式語法後，再導入 C++ 程式語言。內容著重邏輯思考與程式設計能力之訓練，同時輔以程式設計過程所應注意之程式結構、偵錯、可攜性、軟體工程的基本概念，使修習者得以奠定程式設計之基礎。\nThis course covers advanced parts of computers and computer programming, including: operating systems, file and database, internet, C programming function and array, and C++ programming.  The basic computer programming concepts, i.e., Syntax and semantics of C and C++ programming languages, will be introduced to students. Topics cover the methods for analyzing problem, program designing using structured programming notions, and program debugging.",
-    "schedule": "第 01 週  C 程式與 C++ 程式結構說明\n第 02 週  作業系統與網際網路、演算法\n第 03 週  陣列\n第 04 週  陣列\n第 05 週  函式\n第 06 週  函式\n第 07 週  微控器實作\n第 08 週  微控器實作\n第 09 週  期中評量 (含實機測驗)\n第 10 週  微控器實作\n第 11 週  結構及類別\n第 12 週  C++ 程式實作\n第 13 週  C++ 程式實作\n第 14 週  Python 程式介紹與深度學習影像辨識\n第 15 週  Python 程式介紹與深度學習影像辨識\n第 16 週  期末實作專題評比\n第 17 週  期末評量 (含實機測驗)\n第 18 週  程式設計課堂討論",
-    "scorePolicy": "課堂個人及小組評量 5%\n上課及小組表現 5%\n期中評量及程式實作評量：30%\n期末評量及程式實作評量：30%\n學期實作專題與報告：35%\n\n(實際比率依課程學習狀況再調整)",
-    "materials": "1. 計算機概論－資訊素養大補帖，第 16 版，作者：趙坤茂 等，出版社：全華，ISBN: 978-986-503-664-5\n2. 看圖學 C 語言與運算思維，第 2 版，作者：陳會安，出版社：全華，ISBN: 978-986-503-591-4\n3. C++ 程式設計入門，第 2 版，作者：黃建庭，出版社：碁峰，ISBN: 978-986-502-054-5",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=113&sem=2&code=10993",
+    "latestUpdate": "2025-05-06 00:23:16",
+    "outline": "本課程為介紹程式設計相關之計算機進階觀念、教授C程式語言進階語法、及程式語言之基礎應用，以奠定學生之程式設計之基礎。本課程程式設計語言以 C 語言為基礎，於熟習基本程式語法後，再導入 C++程式語言。內容著重邏輯思考與程式設計能力之訓練，同時輔以程式設計過程所應注意之程式結構、偵錯、可攜性、軟體工程的基本概念，使修習者得以奠定程式設計之基礎。\nThis course covers advanced parts of computers and computer programming, including: operating systems, file and database, internet, C programming function and array, and C++ programming. The basic computer programming concepts, i.e., Syntax and semantics of C and C++ programming languages, will be introduced to students. Topics cover the methods for analyzing problem, program designing using structured programming notions, and program debugging.",
+    "schedule": "第01週 C程式與C++程式結構說明\n第02週 微控器實作\n第03週 微控器實作\n第04週 微控器實作\n第05週 微控器實作\n第06週 作業系統與網際網路、演算法\n第07週 加密法\n第08週 網路安全\n第09週 期中評量(含實機測驗)\n第10週 微控器實作 (綜科館B1中庭)\n第11週 迴圈\n第12週 迴圈\n第13週 陣列\n第14週 陣列\n第15週 函式\n第16週 函式\n第17週 期末評量(含實機測驗)\n第18週 程式設計課堂討論",
+    "scorePolicy": "課堂個人及小組評量5%\n上課及小組表現5%\n期中評量及程式實作評量：30%\n期末評量及程式實作評量：30%\n學期實作專題與報告：35%\n\n(實際比率依課程學習狀況再調整)",
+    "materials": "1. 計算機概論－資訊素養大補帖，第19版，作者：趙坤茂 等，出版社：全華，ISBN: 978-986-503-664-5\n2. 看圖學C語言與運算思維，第2版，作者：陳會安，出版社：全華，ISBN: 978-986-503-591-4",
     "consultation": "yshiao@ntut.edu.tw",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
+    "resources": "",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "",
     "foreignLanguageTextbooks": false
   }
 ]
