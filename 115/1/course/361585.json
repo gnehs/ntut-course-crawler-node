@@ -1,18 +1,18 @@
 [
   {
-    "name": "劉邦榮",
+    "teacher": "劉邦榮",
     "email": "pjliu@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=115&sem=1&code=11611",
     "latestUpdate": "2026-09-09 15:24:44",
-    "objective": "1.簡介\n2.切換技術與開關說明\n3.轉換器架構與分析\n4.小訊號分析",
+    "outline": "1.簡介\n2.切換技術與開關說明\n3.轉換器架構與分析\n4.小訊號分析",
     "schedule": "第1週：簡介\n第2週：脈波寬度調變控制, 功率計算, 功率元件介紹\n第3-6週：Buck, Boost, Buck-Boost, Cuk, SEPIC, Interleaved架構之原理與設計\n第7週：期中考\n第8-13週：Flyback, Forward, Push-Pull, Half-Bridge, Full-Bridge, Current-Fed轉換器之原理與設計\n第14-15週：小訊號分析, 補償控制設計\n第16週：期末考\n第17-18週：研讀電力電子文獻，並以簡報方式呈現",
     "scorePolicy": "平時成績：20％(包含到課率、作業、課堂參與含第17-18週部分)\n期中考：40％\n期末考：40％",
     "materials": "【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】\n\n\n\n自編教材\n\nTextbook：\n1. Daniel W. Hart, Power Electronics, 1st ed., McGraw-Hill.\n2. R. W. Erickson, D. Maksimovic, Fundamentals of Power Electronics, 2nd ed., Kluwer Academic.\n3. Ned. Mohan, Tore. M. Undeland, William. P. Robbins, Power Electronics: Converters, Applications, and Design 3rd ed., John Wiley & Sons.",
     "consultation": "可於課堂期間或office hours時討論。\n課餘聯絡方式: pjliu@ntut.edu.tw",
-    "延伸教學與資源": "● 無 (None)",
-    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "remarks": "",
-    "foreignLanguageTextbooks": true,
-    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=115&sem=1&code=11611"
+    "resources": "● 無 (None)",
+    "sdgs": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
+    "foreignLanguageTextbooks": true
   }
 ]

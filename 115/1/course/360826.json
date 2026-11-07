@@ -1,18 +1,18 @@
 [
   {
-    "name": "譚旦旭",
+    "teacher": "譚旦旭",
     "email": "thtan@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=115&sem=1&code=10458",
     "latestUpdate": "2026-08-18 15:47:47",
-    "objective": "數位通訊系統簡介，數位調變及偵測，數據譯碼及錯誤更正碼，同步(載波及時刻訊號的還原)，多工技術，通訊網路技術。\nintroduction to digital communication systems, digital\nmodulation and detection, data signaling and error correction codes, synchronization,multiplexing techniques,\ncommuniation networks.",
+    "outline": "數位通訊系統簡介，數位調變及偵測，數據譯碼及錯誤更正碼，同步(載波及時刻訊號的還原)，多工技術，通訊網路技術。\nintroduction to digital communication systems, digital\nmodulation and detection, data signaling and error correction codes, synchronization,multiplexing techniques,\ncommuniation networks.",
     "schedule": "第1-2週: Fourier Transform\n第3-5週: Random Processes\n第6-8週: Pulse Modulation\n第9 週: 期中考\n第10-12週: Baseband Pulse Transmission\n第13-15: 週:Passband Digital Transmission\n第16週: 期末考\n第17-18週: 彈性學習",
     "scorePolicy": "Midterm 35%, Final 35%, Homeworks and attendance rate 30%",
     "materials": "【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】\n\n\n\nCommunication Systems, 4th ed. 2001 by Simon Haykin, 歐亞書局",
     "consultation": "1.學生可透過諮商時間與教師討論課業問題。\n2.師生可透過LINE群組互動。",
-    "延伸教學與資源": "● 數位教材資源應用 (Application of Digital Resources)\n採用影音多媒體或具開放授權之資源（如OCW、開放教科書）作為主要或輔助教材。\nAdopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
-    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
     "remarks": "",
-    "foreignLanguageTextbooks": true,
-    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=115&sem=1&code=10458"
+    "resources": "● 數位教材資源應用 (Application of Digital Resources)\n採用影音多媒體或具開放授權之資源（如OCW、開放教科書）作為主要或輔助教材。\nAdopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "sdgs": "SDG4：優質教育（Quality Education）\nSDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）\nSDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）",
+    "foreignLanguageTextbooks": true
   }
 ]

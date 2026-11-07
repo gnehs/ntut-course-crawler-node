@@ -1,18 +1,18 @@
 [
   {
-    "name": "高立人",
+    "teacher": "高立人",
     "email": "ljkau@ntut.edu.tw",
+    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=115&sem=1&code=11433",
     "latestUpdate": "2026-08-30 00:42:52",
-    "objective": "本課程主要係介紹資料壓縮的原理以及當前幾項重要的壓縮標準，課程內容將涵蓋以下主題：\n01. 霍夫曼編碼\n02. 算數編碼\n03. 純量量化與向量量化\n04. 線性預測與預測編碼法\n05. 轉換編碼\n06. 分頻編碼法\n07. 小波編碼法\n08. 字典模式編碼法\n09. 主題探討",
+    "outline": "本課程主要係介紹資料壓縮的原理以及當前幾項重要的壓縮標準，課程內容將涵蓋以下主題：\n01. 霍夫曼編碼\n02. 算數編碼\n03. 純量量化與向量量化\n04. 線性預測與預測編碼法\n05. 轉換編碼\n06. 分頻編碼法\n07. 小波編碼法\n08. 字典模式編碼法\n09. 主題探討",
     "schedule": "01. 資料壓縮背景與原理（第1週）\n02. 建模與編碼（第2週）\n03. 霍夫曼編碼（第3週）\n04. 霍夫曼編碼（第4週）\n05. 格倫布編碼（第5週）\n06. 算數編碼（第6週）\n07. 算數編碼（第7週）\n08. 算數編碼（第8週）\n09. 算數編碼（第9週）\n10. 純量量化（第10週）\n11. 向量量化（第11週）\n12. 轉換編碼（第12週）\n13. Midterm Exam.（第13週）\n14. 線性預測與預測編碼法（第14週）\n15. 線性預測與預測編碼法（第15週）\n16. 小波編碼法（第16週）",
     "scorePolicy": "Homeworks:30%\nMidterm:40%\nFinal Project and Report:30%",
     "materials": "【遵守智慧財產權觀念，請使用正版教科書，不得使用非法影印教科書】\n\n\n\nTextbook:\nIntroduction to Data Compression, 5th Edition, by Khalid Sayood, Morgan Kaufmann, 2017.\n代理商：東華書局\n電話：（02）2331-7856\n\nReferences:\n[1] Elements of Information Theory, Thomas and Cover\n[2] Vector Quantization and Signal Compression, Gersho and Gray\n[3] Digital Coding of Waveforms, Jayant and Noll",
     "consultation": "課程資訊網：https://academic.ntut.edu.tw/4628\n資料壓縮課程群組LINE連結：https://line.me/R/ti/g/YnRReDXHVs\n\n任課教師連絡方式：\n電子郵件：ljkau@ntut.edu.tw\n校內分機：2242\n行動電話：0933-996072",
-    "延伸教學與資源": "● 數位教材資源應用 (Application of Digital Resources)\n採用影音多媒體或具開放授權之資源（如OCW、開放教科書）作為主要或輔助教材。\nAdopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
-    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "因應疫情採非實體上課之教學措施：\n使用Microsoft Teams或Google Meet授課\n使用工具軟體與會議代碼：公佈於課程資訊網\n\n01.課程LINE群組連結：https://line.me/R/ti/g/YnRReDXHVs\n請確認已有於選修課程名單出現大名後再請點選連結加入課程Line群組。\n\n02.加退選期間若有紙本簽核需要，可於以下時段處理：\nA.於每週四上課時段至授課教室處理。\nB.於每週四13:00至16:00間至綜合科館302研究室處理。\n\n03.因授課內容與方式調整，故選修人數有所限制（下調），懇請諒解；有特殊緣由必須選修此一課程者請與老師聯繫並敘明原因。",
-    "foreignLanguageTextbooks": true,
-    "officeHoursLink": "https://aps.ntut.edu.tw/course/mobile/Teach.jsp?format=-6&year=115&sem=1&code=11433"
+    "resources": "● 數位教材資源應用 (Application of Digital Resources)\n採用影音多媒體或具開放授權之資源（如OCW、開放教科書）作為主要或輔助教材。\nAdopts multimedia or open-licensed resources (e.g., OCW, Open Textbooks) as primary or supplementary teaching materials.",
+    "sdgs": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "aiUsage": "● 鼓勵學生使用生成式AI工具（Encourage students to use generative AI tools）\n● 簡單介紹AI的基本概念（Briefly introduce the basic concept of AI）",
+    "foreignLanguageTextbooks": true
   }
 ]
