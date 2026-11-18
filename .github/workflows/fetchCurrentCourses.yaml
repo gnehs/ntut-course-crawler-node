@@ -162,6 +162,8 @@ jobs:
         with:
           ref: gh-pages
           path: .published
+          # The IndexNow step diffs the new commit against its parent.
+          fetch-depth: 2
       - name: Validate snapshot and build syllabus search index
         id: snapshot
         timeout-minutes: 10
@@ -181,6 +183,7 @@ jobs:
           mkdir -p "$semester_course"
           rsync -a "$SYLLABUS_DIRECTORY/" "$semester_course/"
       - name: Publish the complete dataset in one commit
+        id: publish
         timeout-minutes: 10
         run: |
           git -C .published config user.name "github-actions[bot]"
@@ -192,3 +195,10 @@ jobs:
           fi
           git -C .published commit -m "chore(data): refresh current courses"
           git -C .published push origin HEAD:gh-pages
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Notify IndexNow about changed course and class pages
+        if: ${{ steps.publish.outputs.published == 'true' }}
+        # Search engine notification must not fail a successful publication.
+        continue-on-error: true
+        timeout-minutes: 5
+        run: node submitIndexNow.js ${{ needs.Prepare.outputs.year }} ${{ needs.Prepare.outputs.sem }} .published
