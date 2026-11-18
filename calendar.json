@@ -8874,20 +8874,6 @@
     "type": "VEVENT",
     "start": "2027-03-23T00:00:00.000Z",
     "datetype": "date",
-    "end": "2027-03-25T00:00:00.000Z",
-    "uid": "CSVConvert96ed7985bfb64f1932a8bb0180978efb",
-    "created": "2026-07-15T03:55:22.000Z",
-    "lastmodified": "2026-07-15T03:55:26.000Z",
-    "sequence": 0,
-    "status": "CONFIRMED",
-    "summary": "運動會(3/24全校停課)",
-    "transparency": "OPAQUE",
-    "method": "PUBLISH"
-  },
-  {
-    "type": "VEVENT",
-    "start": "2027-03-23T00:00:00.000Z",
-    "datetype": "date",
     "end": "2027-03-24T00:00:00.000Z",
     "uid": "CSVConvertd8cd921787ee33eb0b837fdd74897cf3",
     "created": "2026-07-15T03:55:23.000Z",
@@ -9084,6 +9070,20 @@
   },
   {
     "type": "VEVENT",
+    "start": "2027-05-15T00:00:00.000Z",
+    "datetype": "date",
+    "end": "2027-05-16T00:00:00.000Z",
+    "uid": "CSVConvert96ed7985bfb64f1932a8bb0180978efb",
+    "created": "2026-07-15T03:55:22.000Z",
+    "lastmodified": "2026-11-18T02:30:44.000Z",
+    "sequence": 1,
+    "status": "CONFIRMED",
+    "summary": "運動會(全校停課)",
+    "transparency": "OPAQUE",
+    "method": "PUBLISH"
+  },
+  {
+    "type": "VEVENT",
     "start": "2027-05-16T16:00:00.000Z",
     "datetype": "date-time",
     "end": "2027-06-06T15:59:00.000Z",
@@ -9109,6 +9109,20 @@
     "status": "CONFIRMED",
     "summary": "全校週會",
     "transparency": "OPAQUE",
+    "method": "PUBLISH"
+  },
+  {
+    "type": "VEVENT",
+    "start": "2027-05-20T00:00:00.000Z",
+    "datetype": "date",
+    "end": "2027-05-21T00:00:00.000Z",
+    "uid": "14nkb5s5bc9vpls59mb9vtcpvm@google.com",
+    "created": "2026-11-18T02:31:28.000Z",
+    "lastmodified": "2026-11-18T02:31:28.000Z",
+    "sequence": 0,
+    "status": "CONFIRMED",
+    "summary": "運動會補假",
+    "transparency": "TRANSPARENT",
     "method": "PUBLISH"
   },
   {
