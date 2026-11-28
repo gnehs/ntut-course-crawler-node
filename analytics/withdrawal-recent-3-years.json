@@ -1,11 +1,11 @@
 {
   "stat": [
     {
-      "value": "1.77%",
+      "value": "1.78%",
       "title": "平均退選率"
     },
     {
-      "value": "0.48% - 1.28% - 2.75%",
+      "value": "0.48% - 1.28% - 2.74%",
       "title": "退選率分位數"
     }
   ],
@@ -19691,6 +19691,93 @@
       "rate_percent": "5.24"
     },
     {
+      "name": "劉恩英",
+      "withdraw": 9,
+      "people": 172,
+      "course": [
+        {
+          "name": {
+            "zh": "韓文(一)",
+            "en": "Korean (I)"
+          },
+          "id": "362532",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國際觀培養:韓文(一)",
+            "en": "Development of global perspective: Korean I"
+          },
+          "id": "366969",
+          "courseType": "★",
+          "people": "48",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "韓文(二)",
+            "en": "Korean (II)"
+          },
+          "id": "355197",
+          "courseType": "★",
+          "people": "25",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國際觀培養:韓文(二)",
+            "en": "Development of global perspective: Korean II"
+          },
+          "id": "360345",
+          "courseType": "★",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "韓文(一)",
+            "en": "Korean (I)"
+          },
+          "id": "348472",
+          "courseType": "★",
+          "people": "27",
+          "peopleWithdraw": "3",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "韓文(三)",
+            "en": "Korean (III)"
+          },
+          "id": "352756",
+          "courseType": "★",
+          "people": "23",
+          "peopleWithdraw": "4",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        }
+      ],
+      "rate": 0.05232558139534884,
+      "rate_percent": "5.23"
+    },
+    {
       "name": "陳文學",
       "withdraw": 42,
       "people": 803,
@@ -26042,93 +26129,6 @@
       "rate_percent": "4.66"
     },
     {
-      "name": "劉恩英",
-      "withdraw": 8,
-      "people": 172,
-      "course": [
-        {
-          "name": {
-            "zh": "韓文(一)",
-            "en": "Korean (I)"
-          },
-          "id": "362532",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國際觀培養:韓文(一)",
-            "en": "Development of global perspective: Korean I"
-          },
-          "id": "366969",
-          "courseType": "★",
-          "people": "48",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "韓文(二)",
-            "en": "Korean (II)"
-          },
-          "id": "355197",
-          "courseType": "★",
-          "people": "25",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國際觀培養:韓文(二)",
-            "en": "Development of global perspective: Korean II"
-          },
-          "id": "360345",
-          "courseType": "★",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "韓文(一)",
-            "en": "Korean (I)"
-          },
-          "id": "348472",
-          "courseType": "★",
-          "people": "27",
-          "peopleWithdraw": "3",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "韓文(三)",
-            "en": "Korean (III)"
-          },
-          "id": "352756",
-          "courseType": "★",
-          "people": "23",
-          "peopleWithdraw": "4",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        }
-      ],
-      "rate": 0.046511627906976744,
-      "rate_percent": "4.65"
-    },
-    {
       "name": "林濬璈",
       "withdraw": 31,
       "people": 671,
@@ -30133,6 +30133,275 @@
       ],
       "rate": 0.0410958904109589,
       "rate_percent": "4.11"
+    },
+    {
+      "name": "柯俊宏",
+      "withdraw": 14,
+      "people": 342,
+      "course": [
+        {
+          "name": {
+            "zh": "工程最佳化與應用",
+            "en": "Engineering Optimization Methods and Applications"
+          },
+          "id": "363529",
+          "courseType": "★",
+          "people": "19",
+          "peopleWithdraw": "2",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "363559",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "工程最佳化與應用",
+            "en": "Engineering Optimization Methods and Applications"
+          },
+          "id": "363529",
+          "courseType": "★",
+          "people": "19",
+          "peopleWithdraw": "2",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "363559",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "生醫光電及其應用",
+            "en": "The Technology and Application of Biophotonics"
+          },
+          "id": "356204",
+          "courseType": "★",
+          "people": "6",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "生醫光電及其應用",
+            "en": "The Technology and Application of Biophotonics"
+          },
+          "id": "356204",
+          "courseType": "★",
+          "people": "6",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "352097",
+          "courseType": "★",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "工程最佳化與應用",
+            "en": "Engineering Optimization Methods and Applications"
+          },
+          "id": "352882",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "352097",
+          "courseType": "★",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程最佳化與應用",
+            "en": "Engineering Optimization Methods and Applications"
+          },
+          "id": "352882",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "醫學工程概論",
+            "en": "Introduction to Medical Engineering"
+          },
+          "id": "342147",
+          "courseType": "▲",
+          "people": "7",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "生醫光電及其應用",
+            "en": "The Technology and Application of Biophotonics"
+          },
+          "id": "342186",
+          "courseType": "★",
+          "people": "9",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "醫學工程概論",
+            "en": "Introduction to Medical Engineering"
+          },
+          "id": "342147",
+          "courseType": "▲",
+          "people": "7",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "生醫光電及其應用",
+            "en": "The Technology and Application of Biophotonics"
+          },
+          "id": "342186",
+          "courseType": "★",
+          "people": "9",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "338153",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "3",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "338153",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "3",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "醫電工程概論",
+            "en": "Introduction to Electro-Medical Engineering"
+          },
+          "id": "331811",
+          "courseType": "★",
+          "people": "12",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "醫電工程概論",
+            "en": "Introduction to Electro-Medical Engineering"
+          },
+          "id": "331811",
+          "courseType": "★",
+          "people": "12",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "324225",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "雷射醫學的基礎與臨床應用",
+            "en": "Fundamental and Clinical Laser Applications"
+          },
+          "id": "324225",
+          "courseType": "★",
+          "people": "22",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.04093567251461988,
+      "rate_percent": "4.09"
     },
     {
       "name": "劉明傑",
@@ -37493,275 +37762,6 @@
       ],
       "rate": 0.03533906399235912,
       "rate_percent": "3.53"
-    },
-    {
-      "name": "柯俊宏",
-      "withdraw": 12,
-      "people": 342,
-      "course": [
-        {
-          "name": {
-            "zh": "工程最佳化與應用",
-            "en": "Engineering Optimization Methods and Applications"
-          },
-          "id": "363529",
-          "courseType": "★",
-          "people": "19",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "363559",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "工程最佳化與應用",
-            "en": "Engineering Optimization Methods and Applications"
-          },
-          "id": "363529",
-          "courseType": "★",
-          "people": "19",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "363559",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "生醫光電及其應用",
-            "en": "The Technology and Application of Biophotonics"
-          },
-          "id": "356204",
-          "courseType": "★",
-          "people": "6",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "生醫光電及其應用",
-            "en": "The Technology and Application of Biophotonics"
-          },
-          "id": "356204",
-          "courseType": "★",
-          "people": "6",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "352097",
-          "courseType": "★",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "工程最佳化與應用",
-            "en": "Engineering Optimization Methods and Applications"
-          },
-          "id": "352882",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "352097",
-          "courseType": "★",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程最佳化與應用",
-            "en": "Engineering Optimization Methods and Applications"
-          },
-          "id": "352882",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "醫學工程概論",
-            "en": "Introduction to Medical Engineering"
-          },
-          "id": "342147",
-          "courseType": "▲",
-          "people": "7",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "生醫光電及其應用",
-            "en": "The Technology and Application of Biophotonics"
-          },
-          "id": "342186",
-          "courseType": "★",
-          "people": "9",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "醫學工程概論",
-            "en": "Introduction to Medical Engineering"
-          },
-          "id": "342147",
-          "courseType": "▲",
-          "people": "7",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "生醫光電及其應用",
-            "en": "The Technology and Application of Biophotonics"
-          },
-          "id": "342186",
-          "courseType": "★",
-          "people": "9",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "338153",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "3",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "338153",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "3",
-          "year": "113",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "醫電工程概論",
-            "en": "Introduction to Electro-Medical Engineering"
-          },
-          "id": "331811",
-          "courseType": "★",
-          "people": "12",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "醫電工程概論",
-            "en": "Introduction to Electro-Medical Engineering"
-          },
-          "id": "331811",
-          "courseType": "★",
-          "people": "12",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "324225",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "雷射醫學的基礎與臨床應用",
-            "en": "Fundamental and Clinical Laser Applications"
-          },
-          "id": "324225",
-          "courseType": "★",
-          "people": "22",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        }
-      ],
-      "rate": 0.03508771929824561,
-      "rate_percent": "3.51"
     },
     {
       "name": "黃淑卿",
@@ -46641,50 +46641,6 @@
         }
       ],
       "rate": 0.031278748850046,
-      "rate_percent": "3.13"
-    },
-    {
-      "name": "姚廷滄",
-      "withdraw": 1,
-      "people": 32,
-      "course": [
-        {
-          "name": {
-            "zh": "機械基礎實習(一)",
-            "en": "Mechanical Foundation Internship (I)"
-          },
-          "id": "362765",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        }
-      ],
-      "rate": 0.03125,
-      "rate_percent": "3.13"
-    },
-    {
-      "name": "盧彥富",
-      "withdraw": 1,
-      "people": 32,
-      "course": [
-        {
-          "name": {
-            "zh": "機械基礎實習(一)",
-            "en": "Mechanical Foundation Internship (I)"
-          },
-          "id": "362765",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        }
-      ],
-      "rate": 0.03125,
       "rate_percent": "3.13"
     },
     {
@@ -81668,6 +81624,418 @@
       "rate_percent": "2.27"
     },
     {
+      "name": "劉宇晨",
+      "withdraw": 38,
+      "people": 1676,
+      "course": [
+        {
+          "name": {
+            "zh": "實務專題(二)",
+            "en": "Special Projects(II)"
+          },
+          "id": "360887",
+          "courseType": "▲",
+          "people": "45",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電力電子學",
+            "en": "Power Electronics"
+          },
+          "id": "361563",
+          "courseType": "★",
+          "people": "65",
+          "peopleWithdraw": "7",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "研究討論-電力電子工程",
+            "en": "Graduate seminar - power electronics engineering"
+          },
+          "id": "363317",
+          "courseType": "▲",
+          "people": "94",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "366426",
+          "courseType": "★",
+          "people": "75",
+          "peopleWithdraw": "5",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "研究討論-電力電子工程",
+            "en": "Graduate seminar - power electronics engineering"
+          },
+          "id": "363317",
+          "courseType": "▲",
+          "people": "94",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "366426",
+          "courseType": "★",
+          "people": "75",
+          "peopleWithdraw": "5",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "實務專題(一)",
+            "en": "Special Projects (I)"
+          },
+          "id": "354120",
+          "courseType": "▲",
+          "people": "48",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(二)",
+            "en": "Electronics Lab. (II)"
+          },
+          "id": "354865",
+          "courseType": "▲",
+          "people": "47",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "數位電源控制與電路設計",
+            "en": "Digital Power Supply Control and Circuit Design"
+          },
+          "id": "359856",
+          "courseType": "★",
+          "people": "49",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "數位電源控制與電路設計",
+            "en": "Digital Power Supply Control and Circuit Design"
+          },
+          "id": "359856",
+          "courseType": "★",
+          "people": "49",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(一)",
+            "en": "Electronics Lab. (I)"
+          },
+          "id": "348187",
+          "courseType": "▲",
+          "people": "50",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "349205",
+          "courseType": "★",
+          "people": "72",
+          "peopleWithdraw": "2",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "349205",
+          "courseType": "★",
+          "people": "72",
+          "peopleWithdraw": "2",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "實務專題(一)",
+            "en": "Special Projects (I)"
+          },
+          "id": "340074",
+          "courseType": "▲",
+          "people": "47",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(二)",
+            "en": "Electronics Lab. (II)"
+          },
+          "id": "340875",
+          "courseType": "▲",
+          "people": "51",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(二)",
+            "en": "Electronics Lab. (II)"
+          },
+          "id": "341278",
+          "courseType": "▲",
+          "people": "49",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "進階電源轉換器設計實務",
+            "en": "Advanced Power Converter Design and Practices"
+          },
+          "id": "345747",
+          "courseType": "★",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "進階電源轉換器設計實務",
+            "en": "Advanced Power Converter Design and Practices"
+          },
+          "id": "345747",
+          "courseType": "★",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(一)",
+            "en": "Electronics Lab. (I)"
+          },
+          "id": "334400",
+          "courseType": "▲",
+          "people": "51",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(一)",
+            "en": "Electronics Lab. (I)"
+          },
+          "id": "334743",
+          "courseType": "▲",
+          "people": "48",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "338238",
+          "courseType": "★",
+          "people": "58",
+          "peopleWithdraw": "5",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "338238",
+          "courseType": "★",
+          "people": "58",
+          "peopleWithdraw": "5",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(二)",
+            "en": "Electronics Lab. (II)"
+          },
+          "id": "327076",
+          "courseType": "▲",
+          "people": "47",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(二)",
+            "en": "Electronics Lab. (II)"
+          },
+          "id": "327470",
+          "courseType": "▲",
+          "people": "35",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "數位電源控制與電路設計",
+            "en": "Digital Power Supply Control and Circuit Design"
+          },
+          "id": "328177",
+          "courseType": "★",
+          "people": "52",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "自主學習",
+            "en": "Autonomous Learning"
+          },
+          "id": "332866",
+          "courseType": "★",
+          "people": "8",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "數位電源控制與電路設計",
+            "en": "Digital Power Supply Control and Circuit Design"
+          },
+          "id": "328177",
+          "courseType": "★",
+          "people": "52",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(一)",
+            "en": "Electronics Lab. (I)"
+          },
+          "id": "319752",
+          "courseType": "▲",
+          "people": "50",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子學實習(一)",
+            "en": "Electronics Lab. (I)"
+          },
+          "id": "320090",
+          "courseType": "▲",
+          "people": "33",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "320752",
+          "courseType": "★",
+          "people": "58",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電子電路分析與設計",
+            "en": "Electronic circuit Analysis and Design"
+          },
+          "id": "320752",
+          "courseType": "★",
+          "people": "58",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.022673031026252982,
+      "rate_percent": "2.27"
+    },
+    {
       "name": "李舲",
       "withdraw": 55,
       "people": 2442,
@@ -91086,6 +91454,665 @@
       "rate_percent": "2.04"
     },
     {
+      "name": "李政宏",
+      "withdraw": 25,
+      "people": 1237,
+      "course": [
+        {
+          "name": {
+            "zh": "通訊與網路",
+            "en": "Communication and Network"
+          },
+          "id": "360750",
+          "courseType": "▲",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實務專題(一)",
+            "en": "Special Projects (Ⅰ)"
+          },
+          "id": "360753",
+          "courseType": "▲",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊安全",
+            "en": "Information Security"
+          },
+          "id": "360763",
+          "courseType": "★",
+          "people": "11",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "數位邏輯與實習",
+            "en": "Digital Logic and Laboratory"
+          },
+          "id": "361459",
+          "courseType": "▲",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機結構",
+            "en": "Computer Architecture"
+          },
+          "id": "361463",
+          "courseType": "★",
+          "people": "18",
+          "peopleWithdraw": "7",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "程式設計與實習(一)",
+            "en": "Programming design and Lab (I)"
+          },
+          "id": "362190",
+          "courseType": "▲",
+          "people": "31",
+          "peopleWithdraw": "6",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機概論",
+            "en": "Introduction to Computer Science"
+          },
+          "id": "362767",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "自主學習(四)",
+            "en": "Autonomous Learning (IV)"
+          },
+          "id": "371952",
+          "courseType": "★",
+          "people": "6",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "自主學習(六)",
+            "en": "Autonomous Learning (VI)"
+          },
+          "id": "371953",
+          "courseType": "★",
+          "people": "6",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實務專題(二)",
+            "en": "Special Projects (II)"
+          },
+          "id": "353222",
+          "courseType": "▲",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "感測器與物聯網",
+            "en": "Sensors and IOT"
+          },
+          "id": "353223",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資料結構",
+            "en": "Data Structure"
+          },
+          "id": "353235",
+          "courseType": "★",
+          "people": "0",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "機電整合與實習",
+            "en": "Mechatronics and Lab"
+          },
+          "id": "353978",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "微處理機與實習",
+            "en": "Microprocessor and Lab"
+          },
+          "id": "353980",
+          "courseType": "▲",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電路設計與實習",
+            "en": "Electrical Circuit Design and Lab"
+          },
+          "id": "353982",
+          "courseType": "★",
+          "people": "29",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "自主學習(五)",
+            "en": "Autonomous Learning (V)"
+          },
+          "id": "364783",
+          "courseType": "★",
+          "people": "15",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "感測器與物聯網",
+            "en": "Sensors and IOT"
+          },
+          "id": "346720",
+          "courseType": "▲",
+          "people": "25",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "通訊與網路",
+            "en": "Communication and Network"
+          },
+          "id": "346734",
+          "courseType": "▲",
+          "people": "41",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實務專題(一)",
+            "en": "Special Projects (Ⅰ)"
+          },
+          "id": "346737",
+          "courseType": "▲",
+          "people": "31",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊安全",
+            "en": "Information Security"
+          },
+          "id": "346747",
+          "courseType": "★",
+          "people": "19",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "程式設計與實習(一)",
+            "en": "Programming design and Lab (I)"
+          },
+          "id": "348132",
+          "courseType": "▲",
+          "people": "35",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機概論",
+            "en": "Introduction to Computer Science"
+          },
+          "id": "348653",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機結構",
+            "en": "Computer Architecture"
+          },
+          "id": "352365",
+          "courseType": "★",
+          "people": "29",
+          "peopleWithdraw": "5",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "自主學習(四)",
+            "en": "Autonomous Learning (IV)"
+          },
+          "id": "358135",
+          "courseType": "★",
+          "people": "3",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "軟體工程",
+            "en": "Software Engineering"
+          },
+          "id": "339261",
+          "courseType": "★",
+          "people": "0",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "機電整合與實習",
+            "en": "Mechatronics and Lab"
+          },
+          "id": "339999",
+          "courseType": "▲",
+          "people": "34",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "微處理機與實習",
+            "en": "Microprocessor and Lab"
+          },
+          "id": "340001",
+          "courseType": "▲",
+          "people": "36",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電路設計與實習",
+            "en": "Electrical Circuit Design and Lab"
+          },
+          "id": "340003",
+          "courseType": "★",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資料結構",
+            "en": "Data Structure"
+          },
+          "id": "345889",
+          "courseType": "★",
+          "people": "21",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實務專題(二)",
+            "en": "Special Projects (II)"
+          },
+          "id": "332961",
+          "courseType": "▲",
+          "people": "31",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "感測器與物聯網",
+            "en": "Sensors and IOT"
+          },
+          "id": "332963",
+          "courseType": "▲",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "通訊與網路",
+            "en": "Communication and Network"
+          },
+          "id": "332977",
+          "courseType": "▲",
+          "people": "28",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "程式設計與實習(一)",
+            "en": "Programming design and Lab (I)"
+          },
+          "id": "334347",
+          "courseType": "▲",
+          "people": "38",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機概論",
+            "en": "Introduction to Computer Science"
+          },
+          "id": "334852",
+          "courseType": "▲",
+          "people": "37",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊安全",
+            "en": "Information Security"
+          },
+          "id": "338691",
+          "courseType": "★",
+          "people": "18",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "自主學習(二)",
+            "en": "Autonomous Learning (II)"
+          },
+          "id": "343978",
+          "courseType": "★",
+          "people": "15",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "軟體工程",
+            "en": "Software Engineering"
+          },
+          "id": "325441",
+          "courseType": "★",
+          "people": "0",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實務專題(一)",
+            "en": "Special Projects (Ⅰ)"
+          },
+          "id": "325449",
+          "courseType": "▲",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "機電整合與實習",
+            "en": "Mechatronics and Lab"
+          },
+          "id": "326214",
+          "courseType": "▲",
+          "people": "26",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "微處理機與實習",
+            "en": "Microprocessor and Lab"
+          },
+          "id": "326216",
+          "courseType": "▲",
+          "people": "26",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電路設計與實習",
+            "en": "Electrical Circuit Design and Lab"
+          },
+          "id": "326218",
+          "courseType": "★",
+          "people": "20",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資料結構",
+            "en": "Data Structure"
+          },
+          "id": "331615",
+          "courseType": "★",
+          "people": "10",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資料結構",
+            "en": "Data Structure"
+          },
+          "id": "331897",
+          "courseType": "★",
+          "people": "3",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實務專題(二)",
+            "en": "Special Projects (II)"
+          },
+          "id": "318273",
+          "courseType": "▲",
+          "people": "28",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "感測器與物聯網",
+            "en": "Sensors and IOT"
+          },
+          "id": "318275",
+          "courseType": "▲",
+          "people": "28",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "通訊與網路",
+            "en": "Communication and Network"
+          },
+          "id": "318289",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "網路程式設計",
+            "en": "Network Programming"
+          },
+          "id": "318298",
+          "courseType": "★",
+          "people": "15",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "程式設計與實習(一)",
+            "en": "Programming design and Lab (I)"
+          },
+          "id": "319701",
+          "courseType": "▲",
+          "people": "35",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機概論",
+            "en": "Introduction to Computer Science"
+          },
+          "id": "320201",
+          "courseType": "▲",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機程式及實習",
+            "en": "Computer Programming"
+          },
+          "id": "322204",
+          "courseType": "▲",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        }
+      ],
+      "rate": 0.02021018593371059,
+      "rate_percent": "2.02"
+    },
+    {
       "name": "鄭怡雯",
       "withdraw": 21,
       "people": 1045,
@@ -96469,665 +97496,6 @@
         }
       ],
       "rate": 0.019447287615148412,
-      "rate_percent": "1.94"
-    },
-    {
-      "name": "李政宏",
-      "withdraw": 24,
-      "people": 1237,
-      "course": [
-        {
-          "name": {
-            "zh": "通訊與網路",
-            "en": "Communication and Network"
-          },
-          "id": "360750",
-          "courseType": "▲",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實務專題(一)",
-            "en": "Special Projects (Ⅰ)"
-          },
-          "id": "360753",
-          "courseType": "▲",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊安全",
-            "en": "Information Security"
-          },
-          "id": "360763",
-          "courseType": "★",
-          "people": "11",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "數位邏輯與實習",
-            "en": "Digital Logic and Laboratory"
-          },
-          "id": "361459",
-          "courseType": "▲",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機結構",
-            "en": "Computer Architecture"
-          },
-          "id": "361463",
-          "courseType": "★",
-          "people": "18",
-          "peopleWithdraw": "7",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "程式設計與實習(一)",
-            "en": "Programming design and Lab (I)"
-          },
-          "id": "362190",
-          "courseType": "▲",
-          "people": "31",
-          "peopleWithdraw": "6",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機概論",
-            "en": "Introduction to Computer Science"
-          },
-          "id": "362767",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "自主學習(四)",
-            "en": "Autonomous Learning (IV)"
-          },
-          "id": "371952",
-          "courseType": "★",
-          "people": "6",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "自主學習(六)",
-            "en": "Autonomous Learning (VI)"
-          },
-          "id": "371953",
-          "courseType": "★",
-          "people": "6",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實務專題(二)",
-            "en": "Special Projects (II)"
-          },
-          "id": "353222",
-          "courseType": "▲",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "感測器與物聯網",
-            "en": "Sensors and IOT"
-          },
-          "id": "353223",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資料結構",
-            "en": "Data Structure"
-          },
-          "id": "353235",
-          "courseType": "★",
-          "people": "0",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "機電整合與實習",
-            "en": "Mechatronics and Lab"
-          },
-          "id": "353978",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "微處理機與實習",
-            "en": "Microprocessor and Lab"
-          },
-          "id": "353980",
-          "courseType": "▲",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電路設計與實習",
-            "en": "Electrical Circuit Design and Lab"
-          },
-          "id": "353982",
-          "courseType": "★",
-          "people": "29",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "自主學習(五)",
-            "en": "Autonomous Learning (V)"
-          },
-          "id": "364783",
-          "courseType": "★",
-          "people": "15",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "感測器與物聯網",
-            "en": "Sensors and IOT"
-          },
-          "id": "346720",
-          "courseType": "▲",
-          "people": "25",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "通訊與網路",
-            "en": "Communication and Network"
-          },
-          "id": "346734",
-          "courseType": "▲",
-          "people": "41",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實務專題(一)",
-            "en": "Special Projects (Ⅰ)"
-          },
-          "id": "346737",
-          "courseType": "▲",
-          "people": "31",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊安全",
-            "en": "Information Security"
-          },
-          "id": "346747",
-          "courseType": "★",
-          "people": "19",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "程式設計與實習(一)",
-            "en": "Programming design and Lab (I)"
-          },
-          "id": "348132",
-          "courseType": "▲",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機概論",
-            "en": "Introduction to Computer Science"
-          },
-          "id": "348653",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機結構",
-            "en": "Computer Architecture"
-          },
-          "id": "352365",
-          "courseType": "★",
-          "people": "29",
-          "peopleWithdraw": "5",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "自主學習(四)",
-            "en": "Autonomous Learning (IV)"
-          },
-          "id": "358135",
-          "courseType": "★",
-          "people": "3",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "軟體工程",
-            "en": "Software Engineering"
-          },
-          "id": "339261",
-          "courseType": "★",
-          "people": "0",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "機電整合與實習",
-            "en": "Mechatronics and Lab"
-          },
-          "id": "339999",
-          "courseType": "▲",
-          "people": "34",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "微處理機與實習",
-            "en": "Microprocessor and Lab"
-          },
-          "id": "340001",
-          "courseType": "▲",
-          "people": "36",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電路設計與實習",
-            "en": "Electrical Circuit Design and Lab"
-          },
-          "id": "340003",
-          "courseType": "★",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資料結構",
-            "en": "Data Structure"
-          },
-          "id": "345889",
-          "courseType": "★",
-          "people": "21",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實務專題(二)",
-            "en": "Special Projects (II)"
-          },
-          "id": "332961",
-          "courseType": "▲",
-          "people": "31",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "感測器與物聯網",
-            "en": "Sensors and IOT"
-          },
-          "id": "332963",
-          "courseType": "▲",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "通訊與網路",
-            "en": "Communication and Network"
-          },
-          "id": "332977",
-          "courseType": "▲",
-          "people": "28",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "程式設計與實習(一)",
-            "en": "Programming design and Lab (I)"
-          },
-          "id": "334347",
-          "courseType": "▲",
-          "people": "38",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機概論",
-            "en": "Introduction to Computer Science"
-          },
-          "id": "334852",
-          "courseType": "▲",
-          "people": "37",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊安全",
-            "en": "Information Security"
-          },
-          "id": "338691",
-          "courseType": "★",
-          "people": "18",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "自主學習(二)",
-            "en": "Autonomous Learning (II)"
-          },
-          "id": "343978",
-          "courseType": "★",
-          "people": "15",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "軟體工程",
-            "en": "Software Engineering"
-          },
-          "id": "325441",
-          "courseType": "★",
-          "people": "0",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實務專題(一)",
-            "en": "Special Projects (Ⅰ)"
-          },
-          "id": "325449",
-          "courseType": "▲",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "機電整合與實習",
-            "en": "Mechatronics and Lab"
-          },
-          "id": "326214",
-          "courseType": "▲",
-          "people": "26",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "微處理機與實習",
-            "en": "Microprocessor and Lab"
-          },
-          "id": "326216",
-          "courseType": "▲",
-          "people": "26",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電路設計與實習",
-            "en": "Electrical Circuit Design and Lab"
-          },
-          "id": "326218",
-          "courseType": "★",
-          "people": "20",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資料結構",
-            "en": "Data Structure"
-          },
-          "id": "331615",
-          "courseType": "★",
-          "people": "10",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資料結構",
-            "en": "Data Structure"
-          },
-          "id": "331897",
-          "courseType": "★",
-          "people": "3",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實務專題(二)",
-            "en": "Special Projects (II)"
-          },
-          "id": "318273",
-          "courseType": "▲",
-          "people": "28",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "感測器與物聯網",
-            "en": "Sensors and IOT"
-          },
-          "id": "318275",
-          "courseType": "▲",
-          "people": "28",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "通訊與網路",
-            "en": "Communication and Network"
-          },
-          "id": "318289",
-          "courseType": "▲",
-          "people": "32",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "網路程式設計",
-            "en": "Network Programming"
-          },
-          "id": "318298",
-          "courseType": "★",
-          "people": "15",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "程式設計與實習(一)",
-            "en": "Programming design and Lab (I)"
-          },
-          "id": "319701",
-          "courseType": "▲",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機概論",
-            "en": "Introduction to Computer Science"
-          },
-          "id": "320201",
-          "courseType": "▲",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機程式及實習",
-            "en": "Computer Programming"
-          },
-          "id": "322204",
-          "courseType": "▲",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        }
-      ],
-      "rate": 0.019401778496362168,
       "rate_percent": "1.94"
     },
     {
@@ -106902,418 +107270,6 @@
         }
       ],
       "rate": 0.018518518518518517,
-      "rate_percent": "1.85"
-    },
-    {
-      "name": "劉宇晨",
-      "withdraw": 31,
-      "people": 1676,
-      "course": [
-        {
-          "name": {
-            "zh": "實務專題(二)",
-            "en": "Special Projects(II)"
-          },
-          "id": "360887",
-          "courseType": "▲",
-          "people": "45",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電力電子學",
-            "en": "Power Electronics"
-          },
-          "id": "361563",
-          "courseType": "★",
-          "people": "65",
-          "peopleWithdraw": "2",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "研究討論-電力電子工程",
-            "en": "Graduate seminar - power electronics engineering"
-          },
-          "id": "363317",
-          "courseType": "▲",
-          "people": "94",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "366426",
-          "courseType": "★",
-          "people": "75",
-          "peopleWithdraw": "4",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "研究討論-電力電子工程",
-            "en": "Graduate seminar - power electronics engineering"
-          },
-          "id": "363317",
-          "courseType": "▲",
-          "people": "94",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "366426",
-          "courseType": "★",
-          "people": "75",
-          "peopleWithdraw": "4",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "實務專題(一)",
-            "en": "Special Projects (I)"
-          },
-          "id": "354120",
-          "courseType": "▲",
-          "people": "48",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(二)",
-            "en": "Electronics Lab. (II)"
-          },
-          "id": "354865",
-          "courseType": "▲",
-          "people": "47",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "數位電源控制與電路設計",
-            "en": "Digital Power Supply Control and Circuit Design"
-          },
-          "id": "359856",
-          "courseType": "★",
-          "people": "49",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "數位電源控制與電路設計",
-            "en": "Digital Power Supply Control and Circuit Design"
-          },
-          "id": "359856",
-          "courseType": "★",
-          "people": "49",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(一)",
-            "en": "Electronics Lab. (I)"
-          },
-          "id": "348187",
-          "courseType": "▲",
-          "people": "50",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "349205",
-          "courseType": "★",
-          "people": "72",
-          "peopleWithdraw": "2",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "349205",
-          "courseType": "★",
-          "people": "72",
-          "peopleWithdraw": "2",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "實務專題(一)",
-            "en": "Special Projects (I)"
-          },
-          "id": "340074",
-          "courseType": "▲",
-          "people": "47",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(二)",
-            "en": "Electronics Lab. (II)"
-          },
-          "id": "340875",
-          "courseType": "▲",
-          "people": "51",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(二)",
-            "en": "Electronics Lab. (II)"
-          },
-          "id": "341278",
-          "courseType": "▲",
-          "people": "49",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "進階電源轉換器設計實務",
-            "en": "Advanced Power Converter Design and Practices"
-          },
-          "id": "345747",
-          "courseType": "★",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "進階電源轉換器設計實務",
-            "en": "Advanced Power Converter Design and Practices"
-          },
-          "id": "345747",
-          "courseType": "★",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(一)",
-            "en": "Electronics Lab. (I)"
-          },
-          "id": "334400",
-          "courseType": "▲",
-          "people": "51",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(一)",
-            "en": "Electronics Lab. (I)"
-          },
-          "id": "334743",
-          "courseType": "▲",
-          "people": "48",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "338238",
-          "courseType": "★",
-          "people": "58",
-          "peopleWithdraw": "5",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "338238",
-          "courseType": "★",
-          "people": "58",
-          "peopleWithdraw": "5",
-          "year": "113",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(二)",
-            "en": "Electronics Lab. (II)"
-          },
-          "id": "327076",
-          "courseType": "▲",
-          "people": "47",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(二)",
-            "en": "Electronics Lab. (II)"
-          },
-          "id": "327470",
-          "courseType": "▲",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "數位電源控制與電路設計",
-            "en": "Digital Power Supply Control and Circuit Design"
-          },
-          "id": "328177",
-          "courseType": "★",
-          "people": "52",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "自主學習",
-            "en": "Autonomous Learning"
-          },
-          "id": "332866",
-          "courseType": "★",
-          "people": "8",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "數位電源控制與電路設計",
-            "en": "Digital Power Supply Control and Circuit Design"
-          },
-          "id": "328177",
-          "courseType": "★",
-          "people": "52",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(一)",
-            "en": "Electronics Lab. (I)"
-          },
-          "id": "319752",
-          "courseType": "▲",
-          "people": "50",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子學實習(一)",
-            "en": "Electronics Lab. (I)"
-          },
-          "id": "320090",
-          "courseType": "▲",
-          "people": "33",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "320752",
-          "courseType": "★",
-          "people": "58",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電子電路分析與設計",
-            "en": "Electronic circuit Analysis and Design"
-          },
-          "id": "320752",
-          "courseType": "★",
-          "people": "58",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        }
-      ],
-      "rate": 0.018496420047732696,
       "rate_percent": "1.85"
     },
     {
@@ -159401,6 +159357,93 @@
       "rate_percent": "1.28"
     },
     {
+      "name": "柯志忠",
+      "withdraw": 2,
+      "people": 156,
+      "course": [
+        {
+          "name": {
+            "zh": "真空技術與應用",
+            "en": "Vacuum Technology and Applications"
+          },
+          "id": "364686",
+          "courseType": "★",
+          "people": "29",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "真空技術與應用",
+            "en": "Vacuum Technology and Applications"
+          },
+          "id": "364686",
+          "courseType": "★",
+          "people": "29",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "真空技術與應用",
+            "en": "Vacuum Technology and Applications"
+          },
+          "id": "350609",
+          "courseType": "★",
+          "people": "18",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "真空技術與應用",
+            "en": "Vacuum Technology and Applications"
+          },
+          "id": "350609",
+          "courseType": "★",
+          "people": "18",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "真空技術與應用",
+            "en": "Vacuum Technology and Applications"
+          },
+          "id": "343604",
+          "courseType": "★",
+          "people": "31",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "真空技術與應用",
+            "en": "Vacuum Technology and Applications"
+          },
+          "id": "343604",
+          "courseType": "★",
+          "people": "31",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.01282051282051282,
+      "rate_percent": "1.28"
+    },
+    {
       "name": "許志明",
       "withdraw": 18,
       "people": 1408,
@@ -165040,6 +165083,340 @@
       "rate_percent": "1.25"
     },
     {
+      "name": "曾傳蘆",
+      "withdraw": 13,
+      "people": 1052,
+      "course": [
+        {
+          "name": {
+            "zh": "工程數學(一)",
+            "en": "Engineering Mathematics (I)"
+          },
+          "id": "362231",
+          "courseType": "▲",
+          "people": "59",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "工程數學(一)",
+            "en": "Engineering Mathematics (I)"
+          },
+          "id": "362244",
+          "courseType": "▲",
+          "people": "53",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "365987",
+          "courseType": "★",
+          "people": "35",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "365987",
+          "courseType": "★",
+          "people": "35",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程數學(二)",
+            "en": "Engineering Mathematics (II)"
+          },
+          "id": "354845",
+          "courseType": "▲",
+          "people": "78",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "最佳控制",
+            "en": "Optimal Controls"
+          },
+          "id": "360025",
+          "courseType": "★",
+          "people": "7",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "控制器設計與應用",
+            "en": "Controller Design and Applications"
+          },
+          "id": "358369",
+          "courseType": "★",
+          "people": "45",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "控制器設計與應用",
+            "en": "Controller Design and Applications"
+          },
+          "id": "358369",
+          "courseType": "★",
+          "people": "45",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "最佳控制",
+            "en": "Optimal Controls"
+          },
+          "id": "360025",
+          "courseType": "★",
+          "people": "7",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程數學(一)",
+            "en": "Engineering Mathematics (I)"
+          },
+          "id": "348173",
+          "courseType": "▲",
+          "people": "61",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "351029",
+          "courseType": "★",
+          "people": "39",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "351029",
+          "courseType": "★",
+          "people": "39",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程數學(二)",
+            "en": "Engineering Mathematics (II)"
+          },
+          "id": "340855",
+          "courseType": "▲",
+          "people": "58",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "控制器設計與應用",
+            "en": "Controller Design and Applications"
+          },
+          "id": "345631",
+          "courseType": "★",
+          "people": "36",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "控制器設計與應用",
+            "en": "Controller Design and Applications"
+          },
+          "id": "345631",
+          "courseType": "★",
+          "people": "36",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程數學(一)",
+            "en": "Engineering Mathematics (I)"
+          },
+          "id": "334386",
+          "courseType": "▲",
+          "people": "65",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "338259",
+          "courseType": "★",
+          "people": "21",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "338259",
+          "courseType": "★",
+          "people": "21",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程數學(二)",
+            "en": "Engineering Mathematics (II)"
+          },
+          "id": "327056",
+          "courseType": "▲",
+          "people": "67",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "控制器設計與應用",
+            "en": "Controller Design and Applications"
+          },
+          "id": "331513",
+          "courseType": "★",
+          "people": "29",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "控制器設計與應用",
+            "en": "Controller Design and Applications"
+          },
+          "id": "331513",
+          "courseType": "★",
+          "people": "29",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "工程數學(一)",
+            "en": "Engineering Mathematics (I)"
+          },
+          "id": "319738",
+          "courseType": "▲",
+          "people": "70",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電路學(一)",
+            "en": "Electric Circuit Theory (I)"
+          },
+          "id": "319749",
+          "courseType": "▲",
+          "people": "55",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "324122",
+          "courseType": "★",
+          "people": "31",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "計算機在電控技術之應用",
+            "en": "Computer Methods for Electrical Control Technology"
+          },
+          "id": "324122",
+          "courseType": "★",
+          "people": "31",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.012357414448669201,
+      "rate_percent": "1.24"
+    },
+    {
       "name": "蕭驩庭",
       "withdraw": 1,
       "people": 81,
@@ -169316,6 +169693,600 @@
         }
       ],
       "rate": 0.011695906432748537,
+      "rate_percent": "1.17"
+    },
+    {
+      "name": "吳建文",
+      "withdraw": 13,
+      "people": 1114,
+      "course": [
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "361421",
+          "courseType": "▲",
+          "people": "63",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "人工智慧概論",
+            "en": "Introduction to Artificial Intelligence"
+          },
+          "id": "366860",
+          "courseType": "△",
+          "people": "77",
+          "peopleWithdraw": "2",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "364942",
+          "courseType": "▲",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "366200",
+          "courseType": "★",
+          "people": "10",
+          "peopleWithdraw": "4",
+          "year": "115",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "366656",
+          "courseType": "★",
+          "people": "16",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "366656",
+          "courseType": "★",
+          "people": "16",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "354704",
+          "courseType": "▲",
+          "people": "64",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "360035",
+          "courseType": "★",
+          "people": "20",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "人工智慧概論",
+            "en": "Introduction to Artificial Intelligence"
+          },
+          "id": "360253",
+          "courseType": "△",
+          "people": "48",
+          "peopleWithdraw": "2",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "358276",
+          "courseType": "▲",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "金融科技",
+            "en": "Financial Technology"
+          },
+          "id": "359106",
+          "courseType": "▲",
+          "people": "6",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "智慧金融",
+            "en": "Smart Finance"
+          },
+          "id": "359630",
+          "courseType": "★",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "金融科技",
+            "en": "Financial Technology"
+          },
+          "id": "359106",
+          "courseType": "▲",
+          "people": "6",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "智慧金融",
+            "en": "Smart Finance"
+          },
+          "id": "359630",
+          "courseType": "★",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "352439",
+          "courseType": "★",
+          "people": "13",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "352747",
+          "courseType": "★",
+          "people": "20",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "352439",
+          "courseType": "★",
+          "people": "13",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "金融科技",
+            "en": "Financial Technology"
+          },
+          "id": "344982",
+          "courseType": "▲",
+          "people": "7",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "資訊管理",
+            "en": "Information Management"
+          },
+          "id": "345006",
+          "courseType": "★",
+          "people": "12",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "345967",
+          "courseType": "★",
+          "people": "23",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "金融科技",
+            "en": "Financial Technology"
+          },
+          "id": "344982",
+          "courseType": "▲",
+          "people": "7",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "資訊管理",
+            "en": "Information Management"
+          },
+          "id": "345006",
+          "courseType": "★",
+          "people": "12",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "334295",
+          "courseType": "★",
+          "people": "20",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "336777",
+          "courseType": "▲",
+          "people": "36",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "資訊管理",
+            "en": "Information Management"
+          },
+          "id": "337699",
+          "courseType": "★",
+          "people": "17",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "338732",
+          "courseType": "★",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "資訊管理",
+            "en": "Information Management"
+          },
+          "id": "337699",
+          "courseType": "★",
+          "people": "17",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "338732",
+          "courseType": "★",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "331622",
+          "courseType": "★",
+          "people": "20",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "329937",
+          "courseType": "▲",
+          "people": "36",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "金融科技",
+            "en": "Financial Technology"
+          },
+          "id": "330844",
+          "courseType": "▲",
+          "people": "12",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "資訊管理",
+            "en": "Information Management"
+          },
+          "id": "330868",
+          "courseType": "★",
+          "people": "15",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "330878",
+          "courseType": "★",
+          "people": "33",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "金融科技",
+            "en": "Financial Technology"
+          },
+          "id": "330844",
+          "courseType": "▲",
+          "people": "12",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "資訊管理",
+            "en": "Information Management"
+          },
+          "id": "330868",
+          "courseType": "★",
+          "people": "15",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "330878",
+          "courseType": "★",
+          "people": "33",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "319013",
+          "courseType": "▲",
+          "people": "61",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "資訊與財金專題",
+            "en": "Special Projects on Information and Financial Management"
+          },
+          "id": "322192",
+          "courseType": "▲",
+          "people": "62",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "智慧金融",
+            "en": "Smart Finance"
+          },
+          "id": "323246",
+          "courseType": "★",
+          "people": "11",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "324140",
+          "courseType": "★",
+          "people": "11",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "數位轉型研討",
+            "en": "Seminar on Digital Transformation"
+          },
+          "id": "324524",
+          "courseType": "★",
+          "people": "20",
+          "peopleWithdraw": "1",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "決策分析與研討",
+            "en": "Decision Analysis"
+          },
+          "id": "324769",
+          "courseType": "★",
+          "people": "26",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "智慧金融",
+            "en": "Smart Finance"
+          },
+          "id": "323246",
+          "courseType": "★",
+          "people": "11",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "人工智慧應用專題",
+            "en": "Artificial Intelligence Application Projects"
+          },
+          "id": "324140",
+          "courseType": "★",
+          "people": "11",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "決策分析與研討",
+            "en": "Decision Analysis"
+          },
+          "id": "324769",
+          "courseType": "★",
+          "people": "26",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.011669658886894075,
       "rate_percent": "1.17"
     },
     {
@@ -180206,600 +181177,6 @@
         }
       ],
       "rate": 0.01077943615257048,
-      "rate_percent": "1.08"
-    },
-    {
-      "name": "吳建文",
-      "withdraw": 12,
-      "people": 1114,
-      "course": [
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "361421",
-          "courseType": "▲",
-          "people": "63",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "人工智慧概論",
-            "en": "Introduction to Artificial Intelligence"
-          },
-          "id": "366860",
-          "courseType": "△",
-          "people": "77",
-          "peopleWithdraw": "2",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "364942",
-          "courseType": "▲",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "366200",
-          "courseType": "★",
-          "people": "10",
-          "peopleWithdraw": "3",
-          "year": "115",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "366656",
-          "courseType": "★",
-          "people": "16",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "366656",
-          "courseType": "★",
-          "people": "16",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "354704",
-          "courseType": "▲",
-          "people": "64",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "360035",
-          "courseType": "★",
-          "people": "20",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "人工智慧概論",
-            "en": "Introduction to Artificial Intelligence"
-          },
-          "id": "360253",
-          "courseType": "△",
-          "people": "48",
-          "peopleWithdraw": "2",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "358276",
-          "courseType": "▲",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "金融科技",
-            "en": "Financial Technology"
-          },
-          "id": "359106",
-          "courseType": "▲",
-          "people": "6",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "智慧金融",
-            "en": "Smart Finance"
-          },
-          "id": "359630",
-          "courseType": "★",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "金融科技",
-            "en": "Financial Technology"
-          },
-          "id": "359106",
-          "courseType": "▲",
-          "people": "6",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "智慧金融",
-            "en": "Smart Finance"
-          },
-          "id": "359630",
-          "courseType": "★",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "352439",
-          "courseType": "★",
-          "people": "13",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "352747",
-          "courseType": "★",
-          "people": "20",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "352439",
-          "courseType": "★",
-          "people": "13",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "金融科技",
-            "en": "Financial Technology"
-          },
-          "id": "344982",
-          "courseType": "▲",
-          "people": "7",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "資訊管理",
-            "en": "Information Management"
-          },
-          "id": "345006",
-          "courseType": "★",
-          "people": "12",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "345967",
-          "courseType": "★",
-          "people": "23",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "金融科技",
-            "en": "Financial Technology"
-          },
-          "id": "344982",
-          "courseType": "▲",
-          "people": "7",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "資訊管理",
-            "en": "Information Management"
-          },
-          "id": "345006",
-          "courseType": "★",
-          "people": "12",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "334295",
-          "courseType": "★",
-          "people": "20",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "336777",
-          "courseType": "▲",
-          "people": "36",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "資訊管理",
-            "en": "Information Management"
-          },
-          "id": "337699",
-          "courseType": "★",
-          "people": "17",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "338732",
-          "courseType": "★",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "資訊管理",
-            "en": "Information Management"
-          },
-          "id": "337699",
-          "courseType": "★",
-          "people": "17",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "338732",
-          "courseType": "★",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "331622",
-          "courseType": "★",
-          "people": "20",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "329937",
-          "courseType": "▲",
-          "people": "36",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "金融科技",
-            "en": "Financial Technology"
-          },
-          "id": "330844",
-          "courseType": "▲",
-          "people": "12",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "資訊管理",
-            "en": "Information Management"
-          },
-          "id": "330868",
-          "courseType": "★",
-          "people": "15",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "330878",
-          "courseType": "★",
-          "people": "33",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "金融科技",
-            "en": "Financial Technology"
-          },
-          "id": "330844",
-          "courseType": "▲",
-          "people": "12",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "資訊管理",
-            "en": "Information Management"
-          },
-          "id": "330868",
-          "courseType": "★",
-          "people": "15",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "330878",
-          "courseType": "★",
-          "people": "33",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "319013",
-          "courseType": "▲",
-          "people": "61",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "資訊與財金專題",
-            "en": "Special Projects on Information and Financial Management"
-          },
-          "id": "322192",
-          "courseType": "▲",
-          "people": "62",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "智慧金融",
-            "en": "Smart Finance"
-          },
-          "id": "323246",
-          "courseType": "★",
-          "people": "11",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "324140",
-          "courseType": "★",
-          "people": "11",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "數位轉型研討",
-            "en": "Seminar on Digital Transformation"
-          },
-          "id": "324524",
-          "courseType": "★",
-          "people": "20",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "決策分析與研討",
-            "en": "Decision Analysis"
-          },
-          "id": "324769",
-          "courseType": "★",
-          "people": "26",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "智慧金融",
-            "en": "Smart Finance"
-          },
-          "id": "323246",
-          "courseType": "★",
-          "people": "11",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "人工智慧應用專題",
-            "en": "Artificial Intelligence Application Projects"
-          },
-          "id": "324140",
-          "courseType": "★",
-          "people": "11",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "決策分析與研討",
-            "en": "Decision Analysis"
-          },
-          "id": "324769",
-          "courseType": "★",
-          "people": "26",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        }
-      ],
-      "rate": 0.010771992818671455,
       "rate_percent": "1.08"
     },
     {
@@ -192796,340 +193173,6 @@
       ],
       "rate": 0.009564293304994687,
       "rate_percent": "0.96"
-    },
-    {
-      "name": "曾傳蘆",
-      "withdraw": 10,
-      "people": 1052,
-      "course": [
-        {
-          "name": {
-            "zh": "工程數學(一)",
-            "en": "Engineering Mathematics (I)"
-          },
-          "id": "362231",
-          "courseType": "▲",
-          "people": "59",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "工程數學(一)",
-            "en": "Engineering Mathematics (I)"
-          },
-          "id": "362244",
-          "courseType": "▲",
-          "people": "53",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "365987",
-          "courseType": "★",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "365987",
-          "courseType": "★",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程數學(二)",
-            "en": "Engineering Mathematics (II)"
-          },
-          "id": "354845",
-          "courseType": "▲",
-          "people": "78",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "最佳控制",
-            "en": "Optimal Controls"
-          },
-          "id": "360025",
-          "courseType": "★",
-          "people": "7",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "控制器設計與應用",
-            "en": "Controller Design and Applications"
-          },
-          "id": "358369",
-          "courseType": "★",
-          "people": "45",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "控制器設計與應用",
-            "en": "Controller Design and Applications"
-          },
-          "id": "358369",
-          "courseType": "★",
-          "people": "45",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "最佳控制",
-            "en": "Optimal Controls"
-          },
-          "id": "360025",
-          "courseType": "★",
-          "people": "7",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程數學(一)",
-            "en": "Engineering Mathematics (I)"
-          },
-          "id": "348173",
-          "courseType": "▲",
-          "people": "61",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "351029",
-          "courseType": "★",
-          "people": "39",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "351029",
-          "courseType": "★",
-          "people": "39",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程數學(二)",
-            "en": "Engineering Mathematics (II)"
-          },
-          "id": "340855",
-          "courseType": "▲",
-          "people": "58",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "控制器設計與應用",
-            "en": "Controller Design and Applications"
-          },
-          "id": "345631",
-          "courseType": "★",
-          "people": "36",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "控制器設計與應用",
-            "en": "Controller Design and Applications"
-          },
-          "id": "345631",
-          "courseType": "★",
-          "people": "36",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程數學(一)",
-            "en": "Engineering Mathematics (I)"
-          },
-          "id": "334386",
-          "courseType": "▲",
-          "people": "65",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "338259",
-          "courseType": "★",
-          "people": "21",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "338259",
-          "courseType": "★",
-          "people": "21",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程數學(二)",
-            "en": "Engineering Mathematics (II)"
-          },
-          "id": "327056",
-          "courseType": "▲",
-          "people": "67",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "控制器設計與應用",
-            "en": "Controller Design and Applications"
-          },
-          "id": "331513",
-          "courseType": "★",
-          "people": "29",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "控制器設計與應用",
-            "en": "Controller Design and Applications"
-          },
-          "id": "331513",
-          "courseType": "★",
-          "people": "29",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "工程數學(一)",
-            "en": "Engineering Mathematics (I)"
-          },
-          "id": "319738",
-          "courseType": "▲",
-          "people": "70",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電路學(一)",
-            "en": "Electric Circuit Theory (I)"
-          },
-          "id": "319749",
-          "courseType": "▲",
-          "people": "55",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "324122",
-          "courseType": "★",
-          "people": "31",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "計算機在電控技術之應用",
-            "en": "Computer Methods for Electrical Control Technology"
-          },
-          "id": "324122",
-          "courseType": "★",
-          "people": "31",
-          "peopleWithdraw": "1",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        }
-      ],
-      "rate": 0.009505703422053232,
-      "rate_percent": "0.95"
     },
     {
       "name": "謝松益",
@@ -249415,6 +249458,401 @@
       "rate_percent": "0.58"
     },
     {
+      "name": "蔡府伯",
+      "withdraw": 2,
+      "people": 347,
+      "course": [
+        {
+          "name": {
+            "zh": "冷凍空調自動控制",
+            "en": "HVAC & R Automatic Control"
+          },
+          "id": "362003",
+          "courseType": "▲",
+          "people": "53",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "室內空氣品質",
+            "en": "Indoor Air Quality Controls"
+          },
+          "id": "364935",
+          "courseType": "★",
+          "people": "18",
+          "peopleWithdraw": "2",
+          "year": "115",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "358571",
+          "courseType": "★",
+          "people": "38",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "358571",
+          "courseType": "★",
+          "people": "38",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "344467",
+          "courseType": "★",
+          "people": "31",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "344467",
+          "courseType": "★",
+          "people": "31",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "328549",
+          "courseType": "★",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "330255",
+          "courseType": "★",
+          "people": "26",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "328549",
+          "courseType": "★",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "實驗與量測方法",
+            "en": "Methods of Lab. & Measuring"
+          },
+          "id": "330255",
+          "courseType": "★",
+          "people": "26",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.005763688760806916,
+      "rate_percent": "0.58"
+    },
+    {
+      "name": "周至如",
+      "withdraw": 4,
+      "people": 694,
+      "course": [
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "365035",
+          "courseType": "★",
+          "people": "56",
+          "peopleWithdraw": "2",
+          "year": "115",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "365035",
+          "courseType": "★",
+          "people": "56",
+          "peopleWithdraw": "2",
+          "year": "115",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電力系統保護與協調",
+            "en": "Power System Protection and Coordination"
+          },
+          "id": "358356",
+          "courseType": "★",
+          "people": "28",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "電力系統保護與協調",
+            "en": "Power System Protection and Coordination"
+          },
+          "id": "358356",
+          "courseType": "★",
+          "people": "28",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "351005",
+          "courseType": "★",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "351005",
+          "courseType": "★",
+          "people": "34",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電力系統保護與協調",
+            "en": "Power System Protection and Coordination"
+          },
+          "id": "344257",
+          "courseType": "★",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "電力系統保護與協調",
+            "en": "Power System Protection and Coordination"
+          },
+          "id": "344257",
+          "courseType": "★",
+          "people": "30",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "336926",
+          "courseType": "★",
+          "people": "40",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "336926",
+          "courseType": "★",
+          "people": "40",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電力系統保護與協調",
+            "en": "Power System Protection and Coordination"
+          },
+          "id": "331900",
+          "courseType": "★",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "電力系統保護與協調",
+            "en": "Power System Protection and Coordination"
+          },
+          "id": "331900",
+          "courseType": "★",
+          "people": "27",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "大學入門與工程倫理",
+            "en": "First step to achieving the goals of universities and Engineering Ethics"
+          },
+          "id": "320250",
+          "courseType": "△",
+          "people": "46",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "研究討論-電力工程",
+            "en": "Graduate seminar - power engineering"
+          },
+          "id": "320744",
+          "courseType": "▲",
+          "people": "38",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "323689",
+          "courseType": "★",
+          "people": "35",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "研究討論-(甲組)",
+            "en": "Graduate seminar -(Groop A)"
+          },
+          "id": "322393",
+          "courseType": "▲",
+          "people": "36",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "進修部"
+        },
+        {
+          "name": {
+            "zh": "研究討論-電力工程",
+            "en": "Graduate seminar - power engineering"
+          },
+          "id": "320744",
+          "courseType": "▲",
+          "people": "38",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "研究討論-(甲組)",
+            "en": "Graduate seminar -(Groop A)"
+          },
+          "id": "322393",
+          "courseType": "▲",
+          "people": "36",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        },
+        {
+          "name": {
+            "zh": "電力系統品質",
+            "en": "Power System Quality"
+          },
+          "id": "323689",
+          "courseType": "★",
+          "people": "35",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "研究所(日間部、進修部、週末碩士班)"
+        }
+      ],
+      "rate": 0.005763688760806916,
+      "rate_percent": "0.58"
+    },
+    {
       "name": "李泳霆",
       "withdraw": 5,
       "people": 875,
@@ -257920,6 +258358,288 @@
         }
       ],
       "rate": 0.005339435545385202,
+      "rate_percent": "0.53"
+    },
+    {
+      "name": "黃青萍",
+      "withdraw": 5,
+      "people": 942,
+      "course": [
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "362890",
+          "courseType": "△",
+          "people": "50",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "363014",
+          "courseType": "△",
+          "people": "46",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "363242",
+          "courseType": "△",
+          "people": "40",
+          "peopleWithdraw": "1",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "355448",
+          "courseType": "△",
+          "people": "44",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "355525",
+          "courseType": "△",
+          "people": "44",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "355540",
+          "courseType": "△",
+          "people": "39",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "348703",
+          "courseType": "△",
+          "people": "43",
+          "peopleWithdraw": "1",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "348777",
+          "courseType": "△",
+          "people": "49",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "348792",
+          "courseType": "△",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "114",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "341413",
+          "courseType": "△",
+          "people": "46",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "341429",
+          "courseType": "△",
+          "people": "47",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "341442",
+          "courseType": "△",
+          "people": "44",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "334873",
+          "courseType": "△",
+          "people": "40",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "334886",
+          "courseType": "△",
+          "people": "45",
+          "peopleWithdraw": "0",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "334902",
+          "courseType": "△",
+          "people": "49",
+          "peopleWithdraw": "1",
+          "year": "113",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "327673",
+          "courseType": "△",
+          "people": "39",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "327908",
+          "courseType": "△",
+          "people": "43",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國語文實務應用",
+            "en": "Practical Application of Chinese Language"
+          },
+          "id": "327946",
+          "courseType": "△",
+          "people": "54",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 2,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "320297",
+          "courseType": "△",
+          "people": "40",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "320543",
+          "courseType": "△",
+          "people": "42",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        },
+        {
+          "name": {
+            "zh": "國文",
+            "en": "Chinese"
+          },
+          "id": "320583",
+          "courseType": "△",
+          "people": "55",
+          "peopleWithdraw": "0",
+          "year": "112",
+          "sem": 1,
+          "department": "main"
+        }
+      ],
+      "rate": 0.005307855626326964,
       "rate_percent": "0.53"
     },
     {
@@ -276093,288 +276813,6 @@
       "rate_percent": "0.43"
     },
     {
-      "name": "黃青萍",
-      "withdraw": 4,
-      "people": 942,
-      "course": [
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "362890",
-          "courseType": "△",
-          "people": "50",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "363014",
-          "courseType": "△",
-          "people": "46",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "363242",
-          "courseType": "△",
-          "people": "40",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "355448",
-          "courseType": "△",
-          "people": "44",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "355525",
-          "courseType": "△",
-          "people": "44",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "355540",
-          "courseType": "△",
-          "people": "39",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "348703",
-          "courseType": "△",
-          "people": "43",
-          "peopleWithdraw": "1",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "348777",
-          "courseType": "△",
-          "people": "49",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "348792",
-          "courseType": "△",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "341413",
-          "courseType": "△",
-          "people": "46",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "341429",
-          "courseType": "△",
-          "people": "47",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "341442",
-          "courseType": "△",
-          "people": "44",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "334873",
-          "courseType": "△",
-          "people": "40",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "334886",
-          "courseType": "△",
-          "people": "45",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "334902",
-          "courseType": "△",
-          "people": "49",
-          "peopleWithdraw": "1",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "327673",
-          "courseType": "△",
-          "people": "39",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "327908",
-          "courseType": "△",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國語文實務應用",
-            "en": "Practical Application of Chinese Language"
-          },
-          "id": "327946",
-          "courseType": "△",
-          "people": "54",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "320297",
-          "courseType": "△",
-          "people": "40",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "320543",
-          "courseType": "△",
-          "people": "42",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "國文",
-            "en": "Chinese"
-          },
-          "id": "320583",
-          "courseType": "△",
-          "people": "55",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        }
-      ],
-      "rate": 0.004246284501061571,
-      "rate_percent": "0.42"
-    },
-    {
       "name": "蔡逸萍",
       "withdraw": 5,
       "people": 1187,
@@ -288951,401 +289389,6 @@
           "year": "113",
           "sem": 1,
           "department": "main"
-        }
-      ],
-      "rate": 0.002881844380403458,
-      "rate_percent": "0.29"
-    },
-    {
-      "name": "蔡府伯",
-      "withdraw": 1,
-      "people": 347,
-      "course": [
-        {
-          "name": {
-            "zh": "冷凍空調自動控制",
-            "en": "HVAC & R Automatic Control"
-          },
-          "id": "362003",
-          "courseType": "▲",
-          "people": "53",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "室內空氣品質",
-            "en": "Indoor Air Quality Controls"
-          },
-          "id": "364935",
-          "courseType": "★",
-          "people": "18",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "358571",
-          "courseType": "★",
-          "people": "38",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "358571",
-          "courseType": "★",
-          "people": "38",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "344467",
-          "courseType": "★",
-          "people": "31",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "344467",
-          "courseType": "★",
-          "people": "31",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "328549",
-          "courseType": "★",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "330255",
-          "courseType": "★",
-          "people": "26",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "328549",
-          "courseType": "★",
-          "people": "43",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "實驗與量測方法",
-            "en": "Methods of Lab. & Measuring"
-          },
-          "id": "330255",
-          "courseType": "★",
-          "people": "26",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        }
-      ],
-      "rate": 0.002881844380403458,
-      "rate_percent": "0.29"
-    },
-    {
-      "name": "周至如",
-      "withdraw": 2,
-      "people": 694,
-      "course": [
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "365035",
-          "courseType": "★",
-          "people": "56",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "365035",
-          "courseType": "★",
-          "people": "56",
-          "peopleWithdraw": "1",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電力系統保護與協調",
-            "en": "Power System Protection and Coordination"
-          },
-          "id": "358356",
-          "courseType": "★",
-          "people": "28",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "電力系統保護與協調",
-            "en": "Power System Protection and Coordination"
-          },
-          "id": "358356",
-          "courseType": "★",
-          "people": "28",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "351005",
-          "courseType": "★",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "351005",
-          "courseType": "★",
-          "people": "34",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電力系統保護與協調",
-            "en": "Power System Protection and Coordination"
-          },
-          "id": "344257",
-          "courseType": "★",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "電力系統保護與協調",
-            "en": "Power System Protection and Coordination"
-          },
-          "id": "344257",
-          "courseType": "★",
-          "people": "30",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "336926",
-          "courseType": "★",
-          "people": "40",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "336926",
-          "courseType": "★",
-          "people": "40",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電力系統保護與協調",
-            "en": "Power System Protection and Coordination"
-          },
-          "id": "331900",
-          "courseType": "★",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "電力系統保護與協調",
-            "en": "Power System Protection and Coordination"
-          },
-          "id": "331900",
-          "courseType": "★",
-          "people": "27",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "大學入門與工程倫理",
-            "en": "First step to achieving the goals of universities and Engineering Ethics"
-          },
-          "id": "320250",
-          "courseType": "△",
-          "people": "46",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "研究討論-電力工程",
-            "en": "Graduate seminar - power engineering"
-          },
-          "id": "320744",
-          "courseType": "▲",
-          "people": "38",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "323689",
-          "courseType": "★",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "研究討論-(甲組)",
-            "en": "Graduate seminar -(Groop A)"
-          },
-          "id": "322393",
-          "courseType": "▲",
-          "people": "36",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "進修部"
-        },
-        {
-          "name": {
-            "zh": "研究討論-電力工程",
-            "en": "Graduate seminar - power engineering"
-          },
-          "id": "320744",
-          "courseType": "▲",
-          "people": "38",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "研究討論-(甲組)",
-            "en": "Graduate seminar -(Groop A)"
-          },
-          "id": "322393",
-          "courseType": "▲",
-          "people": "36",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "電力系統品質",
-            "en": "Power System Quality"
-          },
-          "id": "323689",
-          "courseType": "★",
-          "people": "35",
-          "peopleWithdraw": "0",
-          "year": "112",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
         }
       ],
       "rate": 0.002881844380403458,
@@ -309746,6 +309789,50 @@
       "rate_percent": "0.00"
     },
     {
+      "name": "姚廷滄",
+      "withdraw": 0,
+      "people": 32,
+      "course": [
+        {
+          "name": {
+            "zh": "機械基礎實習(一)",
+            "en": "Mechanical Foundation Internship (I)"
+          },
+          "id": "362765",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        }
+      ],
+      "rate": 0,
+      "rate_percent": "0.00"
+    },
+    {
+      "name": "盧彥富",
+      "withdraw": 0,
+      "people": 32,
+      "course": [
+        {
+          "name": {
+            "zh": "機械基礎實習(一)",
+            "en": "Mechanical Foundation Internship (I)"
+          },
+          "id": "362765",
+          "courseType": "▲",
+          "people": "32",
+          "peopleWithdraw": "0",
+          "year": "115",
+          "sem": 1,
+          "department": "main"
+        }
+      ],
+      "rate": 0,
+      "rate_percent": "0.00"
+    },
+    {
       "name": "潘康嫻",
       "withdraw": 0,
       "people": 44,
@@ -312905,93 +312992,6 @@
           "peopleWithdraw": "0",
           "year": "114",
           "sem": 2,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        }
-      ],
-      "rate": 0,
-      "rate_percent": "0.00"
-    },
-    {
-      "name": "柯志忠",
-      "withdraw": 0,
-      "people": 156,
-      "course": [
-        {
-          "name": {
-            "zh": "真空技術與應用",
-            "en": "Vacuum Technology and Applications"
-          },
-          "id": "364686",
-          "courseType": "★",
-          "people": "29",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "真空技術與應用",
-            "en": "Vacuum Technology and Applications"
-          },
-          "id": "364686",
-          "courseType": "★",
-          "people": "29",
-          "peopleWithdraw": "0",
-          "year": "115",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "真空技術與應用",
-            "en": "Vacuum Technology and Applications"
-          },
-          "id": "350609",
-          "courseType": "★",
-          "people": "18",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "真空技術與應用",
-            "en": "Vacuum Technology and Applications"
-          },
-          "id": "350609",
-          "courseType": "★",
-          "people": "18",
-          "peopleWithdraw": "0",
-          "year": "114",
-          "sem": 1,
-          "department": "研究所(日間部、進修部、週末碩士班)"
-        },
-        {
-          "name": {
-            "zh": "真空技術與應用",
-            "en": "Vacuum Technology and Applications"
-          },
-          "id": "343604",
-          "courseType": "★",
-          "people": "31",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
-          "department": "main"
-        },
-        {
-          "name": {
-            "zh": "真空技術與應用",
-            "en": "Vacuum Technology and Applications"
-          },
-          "id": "343604",
-          "courseType": "★",
-          "people": "31",
-          "peopleWithdraw": "0",
-          "year": "113",
-          "sem": 1,
           "department": "研究所(日間部、進修部、週末碩士班)"
         }
       ],
