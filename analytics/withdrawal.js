@@ -42,8 +42,9 @@ function errorCode(error) {
     : "unknown";
 }
 
-// The site's worker renders one teacher at a time, and parsing the full
-// withdrawal file for that costs it tens of megabytes; this is all it reads.
+// The full withdrawal file runs to tens of megabytes, so the site reads the
+// teacher list from this summary, which keeps only what the list shows and
+// searches.
 function teacherSummaries(result) {
   return result.map(({ name, withdraw, people, rate_percent, course }) => ({
     name,
@@ -54,6 +55,40 @@ function teacherSummaries(result) {
     courseNames: [
       ...new Set(course.map((item) => item.name?.zh).filter(Boolean)),
     ],
+    courseIds: [...new Set(course.map((item) => item.id).filter(Boolean))],
+  }));
+}
+
+// Artifact uploads reject names with ? or *, and Big5 turns unknown characters
+// in teacher names into ?, so each file is named by its encoded teacher name.
+function teacherFileName(name) {
+  const encoded = encodeURIComponent(name).replace(
+    /[!'()*]/g,
+    (char) => `%${char.charCodeAt(0).toString(16).toUpperCase()}`
+  );
+  return `${encoded}.json`;
+}
+
+// One file per teacher, for the teacher page, with every period's rate so
+// the page needs no other file.
+function teacherFiles(all, recent5Years, recent3Years) {
+  const rateOf = (result) =>
+    new Map(result.map((teacher) => [teacher.name, teacher.rate_percent]));
+  const r5 = rateOf(recent5Years);
+  const r3 = rateOf(recent3Years);
+  return all.map((teacher) => ({
+    fileName: teacherFileName(teacher.name),
+    data: {
+      name: teacher.name,
+      withdraw: teacher.withdraw,
+      people: teacher.people,
+      rates: {
+        all: teacher.rate_percent,
+        recent5Years: r5.get(teacher.name) ?? null,
+        recent3Years: r3.get(teacher.name) ?? null,
+      },
+      course: teacher.course,
+    },
   }));
 }
 
@@ -204,14 +239,14 @@ async function main() {
         2
       )
     );
+    fs.writeFileSync(
+      `./dist/analytics/withdrawal-summary${filename}.json`,
+      JSON.stringify({ stat, data: teacherSummaries(result) }, null, 2)
+    );
     return result;
   }
 
   let result = calcWithdrawalRate(data);
-  fs.writeFileSync(
-    "./dist/analytics/withdrawal-summary.json",
-    JSON.stringify(teacherSummaries(result), null, 2)
-  );
   console.log(`[info] save data done`.green);
 
   function filterPeriod(data, period, name) {
@@ -221,11 +256,25 @@ async function main() {
     let filteredData = data.filter((x) =>
       periodMain.includes(`${x.year}-${x.sem}`)
     );
-    calcWithdrawalRate(filteredData, `-${name}`);
+    const periodResult = calcWithdrawalRate(filteredData, `-${name}`);
     console.log(`[info] save ${name} done`.green);
+    return periodResult;
   }
-  filterPeriod(data, 10 + 1, `recent-5-years`); // 最近五年
-  filterPeriod(data, 6 + 1, `recent-3-years`); // 最近三年
+  const recent5Years = filterPeriod(data, 10 + 1, `recent-5-years`); // 最近五年
+  const recent3Years = filterPeriod(data, 6 + 1, `recent-3-years`); // 最近三年
+
+  fs.mkdirSync("./dist/analytics/teacher", { recursive: true });
+  for (const { fileName, data: teacher } of teacherFiles(
+    result,
+    recent5Years,
+    recent3Years
+  )) {
+    fs.writeFileSync(
+      `./dist/analytics/teacher/${fileName}`,
+      JSON.stringify(teacher, null, 2)
+    );
+  }
+  console.log(`[info] save teacher files done`.green);
 
   console.log("[complete] withdrawal analytics done");
 
@@ -259,4 +308,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { teacherSummaries };
+module.exports = { teacherSummaries, teacherFileName, teacherFiles };
