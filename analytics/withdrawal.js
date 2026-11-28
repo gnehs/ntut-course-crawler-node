@@ -42,6 +42,21 @@ function errorCode(error) {
     : "unknown";
 }
 
+// The site's worker renders one teacher at a time, and parsing the full
+// withdrawal file for that costs it tens of megabytes; this is all it reads.
+function teacherSummaries(result) {
+  return result.map(({ name, withdraw, people, rate_percent, course }) => ({
+    name,
+    withdraw,
+    people,
+    rate_percent,
+    courseCount: course.length,
+    courseNames: [
+      ...new Set(course.map((item) => item.name?.zh).filter(Boolean)),
+    ],
+  }));
+}
+
 async function main() {
   async function fetchCourse(y, s, department) {
     const startedAt = Date.now();
@@ -193,6 +208,10 @@ async function main() {
   }
 
   let result = calcWithdrawalRate(data);
+  fs.writeFileSync(
+    "./dist/analytics/withdrawal-summary.json",
+    JSON.stringify(teacherSummaries(result), null, 2)
+  );
   console.log(`[info] save data done`.green);
 
   function filterPeriod(data, period, name) {
@@ -233,7 +252,11 @@ async function main() {
   */
 }
 
-main().catch((error) => {
-  console.error(`[error] withdrawal analytics failed (${errorCode(error)})`.red);
-  process.exitCode = 1;
-});
+if (require.main === module) {
+  main().catch((error) => {
+    console.error(`[error] withdrawal analytics failed (${errorCode(error)})`.red);
+    process.exitCode = 1;
+  });
+}
+
+module.exports = { teacherSummaries };
