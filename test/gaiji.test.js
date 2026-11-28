@@ -119,3 +119,8 @@ test("fixGaiji rewrites published JSON in place and is idempotent", (t) => {
     [["U+F024", 1]]
   );
 });
+
+test("replaceGaiji restores 喆 that Big5 loses from 鄭英喆", () => {
+  assert.equal(replaceGaiji("鄭英?"), "鄭英喆");
+  assert.equal(replaceGaiji("鄭英喆"), "鄭英喆");
+});

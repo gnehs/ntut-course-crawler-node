@@ -10,6 +10,9 @@ const SOURCE_CORRECTIONS = [
   [/簡勠/gu, "簡媜"],
   // 110–115 學年下學期 drop 媜 from this book.
   [/簡(?=《誰在銀閃閃的地方)/gu, "簡媜"],
+  // Big5 has no 喆, so APS shows 105–107 學年 lecturer 鄭英喆 as 鄭英?; the
+  // name matches the public accounts behind the email on their syllabi.
+  [/鄭英\?/gu, "鄭英喆"],
 ];
 
 function formatCodePoint(char) {
