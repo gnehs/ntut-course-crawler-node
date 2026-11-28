@@ -1,0 +1,38 @@
+{
+  "name": "趙國宏",
+  "withdraw": 0,
+  "people": 123,
+  "rates": {
+    "all": "0.00",
+    "recent5Years": "0.00",
+    "recent3Years": "0.00"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "測量學(一)",
+        "en": "Surveying(I)"
+      },
+      "id": "335009",
+      "courseType": "▲",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "測量實習(一)",
+        "en": "Surveying Practice (I)"
+      },
+      "id": "335010",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

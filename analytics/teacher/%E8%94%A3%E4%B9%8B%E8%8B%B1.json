@@ -1,0 +1,38 @@
+{
+  "name": "蔣之英",
+  "withdraw": 1,
+  "people": 26,
+  "rates": {
+    "all": "3.85",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "法文(二)",
+        "en": "French(II)"
+      },
+      "id": "87982",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "1",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "法文(一)",
+        "en": "French(I)"
+      },
+      "id": "85765",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

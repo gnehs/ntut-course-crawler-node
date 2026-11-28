@@ -1,0 +1,51 @@
+{
+  "name": "黃月晴",
+  "withdraw": 21,
+  "people": 105,
+  "rates": {
+    "all": "20.00",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "德文(一)",
+        "en": "German(Deutsch) (I)"
+      },
+      "id": "64815",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "4",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "德文與實習(一)",
+        "en": "German(Deutsch) and Practice(I)"
+      },
+      "id": "58745",
+      "courseType": "△",
+      "people": "35",
+      "peopleWithdraw": "7",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "德文(一)",
+        "en": "German(Deutsch) (I)"
+      },
+      "id": "54085",
+      "courseType": "△",
+      "people": "45",
+      "peopleWithdraw": "10",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "name": "王振興",
+  "withdraw": 87,
+  "people": 2250,
+  "rates": {
+    "all": "3.87",
+    "recent5Years": "2.69",
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "電子學實習(二)",
+        "en": "Electronics Lab. (II)"
+      },
+      "id": "312442",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子學實習(一)",
+        "en": "Electronics Lab. (I)"
+      },
+      "id": "305171",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子學實習",
+        "en": "Electronics Lab."
+      },
+      "id": "296685",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子學實習",
+        "en": "Electronics Lab."
+      },
+      "id": "291881",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "289171",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "3",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電子學",
+        "en": "Electronics"
+      },
+      "id": "283266",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object-oriented programming"
+      },
+      "id": "287094",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "6",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電子學",
+        "en": "Electronics"
+      },
+      "id": "276173",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "程式設計與實習",
+        "en": "Programming and lab"
+      },
+      "id": "279539",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "9",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "高等電子電路",
+        "en": "Advanced Electronic Circuits"
+      },
+      "id": "268459",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object-oriented programming"
+      },
+      "id": "273282",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "3",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "線性電子學",
+        "en": "Linear Electronics"
+      },
+      "id": "261412",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "5",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等電子電路",
+        "en": "Advanced Electronic Circuits"
+      },
+      "id": "255958",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "線性電子學",
+        "en": "Linear Electronics"
+      },
+      "id": "244133",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "2",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "248805",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "高等電子電路",
+        "en": "Advanced Electronic Circuits"
+      },
+      "id": "237318",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "2",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "線性電子學",
+        "en": "Linear Electronics"
+      },
+      "id": "230669",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "2",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等電子電路",
+        "en": "Advanced Electronic Circuits"
+      },
+      "id": "228939",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "9",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位邏輯",
+        "en": "Digital Logic"
+      },
+      "id": "218825",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "215685",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "211178",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "202678",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "197792",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "189808",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "185265",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "177259",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "169849",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "1",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "165869",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "154746",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "147105",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "139819",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "136350",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "128385",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "121635",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "117849",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "111429",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "1",
+      "year": "96",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "108056",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "1",
+      "year": "96",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "101805",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "2",
+      "year": "95",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "97943",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "研究討論-計算機工程",
+        "en": "Graduate seminar - computer engineering"
+      },
+      "id": "88094",
+      "courseType": "▲",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "92348",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "研究討論-計算機工程",
+        "en": "Graduate seminar - computer engineering"
+      },
+      "id": "88094",
+      "courseType": "▲",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "數位邏輯",
+        "en": "Digital Logic"
+      },
+      "id": "85028",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "89324",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "77777",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects(II)"
+      },
+      "id": "83899",
+      "courseType": "★",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "75487",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "75502",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子學",
+        "en": "Electronics"
+      },
+      "id": "70022",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "14",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "73708",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "75168",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "67687",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "72166",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "62102",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "66901",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects(II)"
+      },
+      "id": "59310",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "60025",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "60040",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工學",
+        "en": "Electromechanical Engineering"
+      },
+      "id": "60166",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "8",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "63670",
+      "courseType": "★",
+      "people": "55",
+      "peopleWithdraw": "1",
+      "year": "91",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "51741",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "58394",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects(II)"
+      },
+      "id": "49648",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "49670",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路分析",
+        "en": "Network Analysis"
+      },
+      "id": "49685",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "12",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "54686",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

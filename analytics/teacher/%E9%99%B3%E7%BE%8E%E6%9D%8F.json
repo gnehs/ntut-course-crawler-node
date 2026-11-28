@@ -1,0 +1,948 @@
+{
+  "name": "陳美杏",
+  "withdraw": 18,
+  "people": 2753,
+  "rates": {
+    "all": "0.65",
+    "recent5Years": "0.68",
+    "recent3Years": "0.75"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "近代物理",
+        "en": "Modern Physics"
+      },
+      "id": "362070",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "362073",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "362996",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "362997",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+      },
+      "id": "354669",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "355452",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "355453",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "357217",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "357217",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "近代物理",
+        "en": "Modern Physics"
+      },
+      "id": "348019",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "348021",
+      "courseType": "▲",
+      "people": "69",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "348706",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "348707",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+      },
+      "id": "340698",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "341524",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "341914",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "342929",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "342929",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "近代物理",
+        "en": "Modern Physics"
+      },
+      "id": "334243",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "334245",
+      "courseType": "▲",
+      "people": "72",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "335385",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "335386",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "327634",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "327635",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "331641",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "331641",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+      },
+      "id": "318941",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "近代物理",
+        "en": "Modern Physics"
+      },
+      "id": "319600",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "320254",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "320255",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "312286",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "313303",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "313304",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "314416",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "314416",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+      },
+      "id": "304301",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "306004",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "306005",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "310471",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "310471",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "296491",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "297482",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "297483",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "298682",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "298682",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+      },
+      "id": "290994",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "294881",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "294881",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "283958",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "283959",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "276848",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "276849",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "269004",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "270018",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "270019",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "273837",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "感測技術基礎科學",
+        "en": "Fundamentals of Sensors"
+      },
+      "id": "274131",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "半導體製程技術導論",
+        "en": "Introduction to semiconductor manufacturing technology"
+      },
+      "id": "273837",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+      },
+      "id": "261280",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大學入門與工程倫理",
+        "en": "First step to achieving the goals of universities and Engineering Ethics"
+      },
+      "id": "263024",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "263027",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "263028",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "264035",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "感測技術基礎科學",
+        "en": "Fundamentals of Sensors"
+      },
+      "id": "267228",
+      "courseType": "★",
+      "people": "82",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "264035",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "256488",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "複變函數",
+        "en": "Complex Variables"
+      },
+      "id": "257006",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "257540",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "2",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "257541",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "259941",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學(一)",
+        "en": "Photonics(I)"
+      },
+      "id": "260001",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電子學（一)",
+        "en": "Optoelectronics（Ⅰ）"
+      },
+      "id": "259941",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

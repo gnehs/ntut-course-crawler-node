@@ -1,0 +1,38 @@
+{
+  "name": "黃漢申",
+  "withdraw": 1,
+  "people": 88,
+  "rates": {
+    "all": "1.14",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "離散數學",
+        "en": "Discrete Mathematics"
+      },
+      "id": "126978",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "1",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object-Oriented Programming"
+      },
+      "id": "122274",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

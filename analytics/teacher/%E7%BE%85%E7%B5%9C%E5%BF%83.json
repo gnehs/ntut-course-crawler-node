@@ -1,0 +1,38 @@
+{
+  "name": "羅絜心",
+  "withdraw": 0,
+  "people": 60,
+  "rates": {
+    "all": "0.00",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "English language Proficiency Tests"
+      },
+      "id": "229158",
+      "courseType": "△",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "文法寫作及國際時事",
+        "en": "Intermediate Grammar, Writing and Current World Events"
+      },
+      "id": "221706",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

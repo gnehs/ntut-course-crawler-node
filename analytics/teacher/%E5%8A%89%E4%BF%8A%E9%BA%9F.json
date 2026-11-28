@@ -1,0 +1,623 @@
+{
+  "name": "劉俊麟",
+  "withdraw": 132,
+  "people": 2060,
+  "rates": {
+    "all": "6.41",
+    "recent5Years": "6.41",
+    "recent3Years": "6.33"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "354848",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "離散數學",
+        "en": "Discrete Mathematics"
+      },
+      "id": "354856",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機實習",
+        "en": "Microprocessor Lab."
+      },
+      "id": "347506",
+      "courseType": "★",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "347510",
+      "courseType": "★",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "347530",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "347550",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機網路",
+        "en": "Computer Networks"
+      },
+      "id": "348178",
+      "courseType": "★",
+      "people": "75",
+      "peopleWithdraw": "18",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位邏輯設計",
+        "en": "Digital Logic Design"
+      },
+      "id": "348709",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "340852",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "340858",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "離散數學",
+        "en": "Discrete Mathematics"
+      },
+      "id": "340866",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "4",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "340871",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "340890",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "333747",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "333766",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機實習",
+        "en": "Microprocessor Lab."
+      },
+      "id": "333781",
+      "courseType": "★",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "333785",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機網路",
+        "en": "Computer Networks"
+      },
+      "id": "334391",
+      "courseType": "★",
+      "people": "69",
+      "peopleWithdraw": "8",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機網路",
+        "en": "Computer Networks"
+      },
+      "id": "334417",
+      "courseType": "★",
+      "people": "48",
+      "peopleWithdraw": "13",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "327059",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "327078",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "5",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "327091",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "327097",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "離散數學",
+        "en": "Discrete Mathematics"
+      },
+      "id": "331417",
+      "courseType": "★",
+      "people": "53",
+      "peopleWithdraw": "4",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "319109",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "319128",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機實習",
+        "en": "Microprocessor Lab."
+      },
+      "id": "319143",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "319147",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機網路",
+        "en": "Computer Networks"
+      },
+      "id": "319743",
+      "courseType": "★",
+      "people": "59",
+      "peopleWithdraw": "21",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機器學習基礎",
+        "en": "Fundamentals of Machine Learning"
+      },
+      "id": "323314",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦網路",
+        "en": "Computer Network"
+      },
+      "id": "312301",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "312444",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "14",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "312476",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "312482",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機器學習基礎",
+        "en": "Fundamentals of Machine Learning"
+      },
+      "id": "316361",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "304545",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "304564",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "304583",
+      "courseType": "★",
+      "people": "48",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大學入門與工程倫理",
+        "en": "First step to achieving the goals of universities and Engineering Ethics"
+      },
+      "id": "305668",
+      "courseType": "△",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機器學習基礎",
+        "en": "Fundamentals of Machine Learning"
+      },
+      "id": "308806",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "309050",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Projects (I)"
+      },
+      "id": "295925",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦網路",
+        "en": "Computer Network"
+      },
+      "id": "296506",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "296684",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "303328",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "10",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧型手機程式設計",
+        "en": "Mobile Phone Programming"
+      },
+      "id": "303330",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "8",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "微處理機",
+        "en": "Microprocessor"
+      },
+      "id": "300576",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    }
+  ]
+}

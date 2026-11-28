@@ -1,0 +1,5316 @@
+{
+  "name": "陳生明",
+  "withdraw": 57,
+  "people": 13580,
+  "rates": {
+    "all": "0.42",
+    "recent5Years": "0.75",
+    "recent3Years": "0.92"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "362865",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "362866",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "364377",
+      "courseType": "★",
+      "people": "62",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "364394",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "364377",
+      "courseType": "★",
+      "people": "62",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "364394",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "354152",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "354191",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "354230",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "355495",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "355496",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "357542",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "357543",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "359298",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "357542",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "357543",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "359298",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "346922",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "348752",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "348753",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "350224",
+      "courseType": "★",
+      "people": "67",
+      "peopleWithdraw": "5",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "350661",
+      "courseType": "★",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "350224",
+      "courseType": "★",
+      "people": "67",
+      "peopleWithdraw": "5",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "350661",
+      "courseType": "★",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "340167",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "340207",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "341489",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "341490",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "343006",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "343007",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "345375",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "343006",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "343007",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "345375",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "334951",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "334953",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "336394",
+      "courseType": "★",
+      "people": "73",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "336706",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "337955",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "336394",
+      "courseType": "★",
+      "people": "73",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "336706",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "326384",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "326424",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "326464",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "327677",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "327678",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "329611",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "329612",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "330658",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "329611",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "329612",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "330658",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "318572",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "320300",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "320302",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "322359",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "323955",
+      "courseType": "★",
+      "people": "71",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "322359",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "323955",
+      "courseType": "★",
+      "people": "71",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "311769",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "311810",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "311851",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "313049",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "313050",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "314485",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "314486",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "316531",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "314485",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "314486",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "316531",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "303874",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "303906",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "305718",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "305720",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "307132",
+      "courseType": "★",
+      "people": "61",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "308816",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "307132",
+      "courseType": "★",
+      "people": "61",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "308816",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "296030",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "296071",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "297262",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "297263",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "298750",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "298751",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "301278",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "298750",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "298751",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "301278",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "290544",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "290576",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "292421",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "292423",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "293879",
+      "courseType": "★",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "294174",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "294184",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "293879",
+      "courseType": "★",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "294174",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "294184",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "282535",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "282574",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "283837",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "283838",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "285651",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "285652",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "287100",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "285651",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "285652",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "287100",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "274947",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "274978",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "275009",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "276712",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "276714",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "278428",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "278438",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "278533",
+      "courseType": "★",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "278428",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "278438",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "278533",
+      "courseType": "★",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "268529",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "268568",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "268607",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "269737",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "269738",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "271452",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "271453",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "271731",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "271452",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "271453",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "271731",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "260896",
+      "courseType": "★",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "260927",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "262737",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "262739",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "264127",
+      "courseType": "★",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "266812",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "266813",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "264127",
+      "courseType": "★",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "266812",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "266813",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "256106",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "257231",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "257232",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "258860",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "258861",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "259406",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "258860",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "258861",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "259406",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "243606",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "243666",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "245308",
+      "courseType": "▲",
+      "people": "81",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "245310",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "246653",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "246882",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "246886",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "248671",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "246653",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "246882",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "246886",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "237391",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "237431",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "237471",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "238527",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "238528",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "240120",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "240121",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "環境科學",
+        "en": "Environmental Science"
+      },
+      "id": "240356",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "241209",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "240120",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "240121",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "241209",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "230185",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "231828",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "231829",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "233144",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "233370",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "233374",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "233144",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "233370",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "233374",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "224125",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "224156",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "225205",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "225206",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "226664",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "226665",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "環境科學",
+        "en": "Environmental Science"
+      },
+      "id": "228048",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "228057",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "226664",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "226665",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "228057",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（二）",
+        "en": "Special Topics"
+      },
+      "id": "217246",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "218888",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "218889",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "220177",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "220386",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "220390",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自然科學概論",
+        "en": "Introduction to Nature Science"
+      },
+      "id": "221854",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "220177",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "220386",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "220390",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "208189",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "209307",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "209308",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "210822",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "210823",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "214091",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "214891",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "特用化學品製程與實務",
+        "en": "Specialty chemicals Process and Practice"
+      },
+      "id": "216567",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "210822",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "210823",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "214891",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "204928",
+      "courseType": "★",
+      "people": "127",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "205991",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學與生物實習",
+        "en": "Chemistry and Biology Lab"
+      },
+      "id": "205992",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "207249",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "207446",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "207450",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自然科學概論",
+        "en": "Introduction to Nature Science"
+      },
+      "id": "213091",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "207249",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "207446",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "207450",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "194839",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "197313",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "197314",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "200785",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "200786",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "202962",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "203307",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "197313",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "197314",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "203307",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "192788",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "192789",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "193956",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "194123",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "194127",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "200607",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "193956",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "194123",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "194127",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "181615",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "181706",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "181707",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "分析化學",
+        "en": "Analytical Chemistry"
+      },
+      "id": "181709",
+      "courseType": "★",
+      "people": "86",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "183638",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "183639",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "189549",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "189554",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "183638",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "尖端科學材料",
+        "en": "Advanced Science and Materials"
+      },
+      "id": "183639",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "189554",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "178970",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "178971",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "180756",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "180885",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "187839",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "186309",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "180756",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "180885",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等儀器分析",
+        "en": "Advances in Instrumental Analysis"
+      },
+      "id": "187839",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "172038",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "172166",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "172167",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "分析化學",
+        "en": "Analytical Chemistry"
+      },
+      "id": "172184",
+      "courseType": "★",
+      "people": "77",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "174500",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "177196",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "177199",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "174500",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "177199",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "167400",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "167401",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "169476",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "169657",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "175481",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "169476",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "169657",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "151186",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "151284",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "151285",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "分析化學",
+        "en": "Analytical Chemistry"
+      },
+      "id": "151288",
+      "courseType": "★",
+      "people": "88",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "156732",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "165883",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "166267",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "156732",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "165883",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "148513",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "148514",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "150490",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "155730",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "155746",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "150490",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "155730",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "143087",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "分析化學",
+        "en": "Analytical Chemistry"
+      },
+      "id": "143245",
+      "courseType": "★",
+      "people": "79",
+      "peopleWithdraw": "4",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "143256",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "143257",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "147447",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "146948",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "146953",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "146953",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "147447",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "137746",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "137747",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "139635",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "141992",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "141619",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "139635",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "141992",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "132557",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "分析化學",
+        "en": "Analytical Chemistry"
+      },
+      "id": "132647",
+      "courseType": "★",
+      "people": "74",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "132673",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "132674",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "134807",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "135619",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "136415",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "光電化學與太陽能電池",
+        "en": "Photoelectrochemistry and solar cell"
+      },
+      "id": "134807",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "135619",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "125985",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "125986",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "127934",
+      "courseType": "★",
+      "people": "72",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "131836",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "129211",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "127934",
+      "courseType": "★",
+      "people": "72",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生物燃料電池",
+        "en": "Biofuel cells"
+      },
+      "id": "131836",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "115501",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "115730",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "115731",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "121041",
+      "courseType": "★",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "121423",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "121041",
+      "courseType": "★",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "113052",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "113053",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學及實驗",
+        "en": "Chemistry"
+      },
+      "id": "113699",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "119227",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "119229",
+      "courseType": "★",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "119229",
+      "courseType": "★",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "104969",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "104970",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "105845",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "105859",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "111457",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "111462",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "111457",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Special Topics"
+      },
+      "id": "102888",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "103188",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學及實驗",
+        "en": "Chemistry"
+      },
+      "id": "103821",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "108813",
+      "courseType": "★",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "109220",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "108813",
+      "courseType": "★",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "96163",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "101211",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "1",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究（一）",
+        "en": "Special Topics"
+      },
+      "id": "101773",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "99498",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "101173",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "99498",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "93607",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "93764",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "100024",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "100462",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電化學分析",
+        "en": "Electroanalytical chemistry"
+      },
+      "id": "100462",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "87369",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "91023",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "2",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "92288",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "高等物理化學",
+        "en": "Advance Physical Chemistry"
+      },
+      "id": "92298",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "高等物理化學",
+        "en": "Advance Physical Chemistry"
+      },
+      "id": "92298",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "84654",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學及實驗",
+        "en": "Chemistry"
+      },
+      "id": "85753",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "90345",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "90674",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "90674",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "78672",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "81594",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "83545",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "83928",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "83928",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "76394",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學及實驗",
+        "en": "Chemistry"
+      },
+      "id": "76996",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "81497",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "70328",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "71450",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "73383",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "74317",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生物電化學",
+        "en": "Bioelectrochemistry"
+      },
+      "id": "71450",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "68086",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學及實驗",
+        "en": "Chemistry"
+      },
+      "id": "68690",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "71622",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "72921",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "71622",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Special Topics"
+      },
+      "id": "61658",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Special Topics"
+      },
+      "id": "62196",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "62395",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "65322",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "66532",
+      "courseType": "★",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "60333",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學及實驗",
+        "en": "Chemistry"
+      },
+      "id": "60930",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "64780",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "64604",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "有機電化學",
+        "en": "Organic Electrochemistry"
+      },
+      "id": "64780",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Special Topics"
+      },
+      "id": "51826",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "52485",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "58370",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "觸媒化學",
+        "en": "Catalytic Chemistry"
+      },
+      "id": "58442",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "化學實習",
+        "en": "Chemistry Lab."
+      },
+      "id": "50281",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "50406",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "50984",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儀器分析",
+        "en": "Instrumental Analysis"
+      },
+      "id": "55192",
+      "courseType": "★",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

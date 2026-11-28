@@ -1,0 +1,51 @@
+{
+  "name": "林顯群",
+  "withdraw": 3,
+  "people": 158,
+  "rates": {
+    "all": "1.90",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "流體力學",
+        "en": "Fluid Mechanics"
+      },
+      "id": "105300",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "2",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "熱力學",
+        "en": "Thermodynamics"
+      },
+      "id": "96958",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "1",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "熱力學",
+        "en": "Thermodynamics"
+      },
+      "id": "94376",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

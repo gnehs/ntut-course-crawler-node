@@ -1,0 +1,38 @@
+{
+  "name": "楊東華",
+  "withdraw": 8,
+  "people": 48,
+  "rates": {
+    "all": "16.67",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "互動裝置程式設計",
+        "en": "Interactive device programming"
+      },
+      "id": "195809",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "5",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "互動遊戲設計概論",
+        "en": "Introduction of Interactive Game Design"
+      },
+      "id": "192663",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "3",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

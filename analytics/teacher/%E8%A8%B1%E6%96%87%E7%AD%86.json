@@ -1,0 +1,38 @@
+{
+  "name": "許文筆",
+  "withdraw": 1,
+  "people": 110,
+  "rates": {
+    "all": "0.91",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "台灣民俗與信仰",
+        "en": "Taiwanese Folk Religion"
+      },
+      "id": "236006",
+      "courseType": "△",
+      "people": "60",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "台灣民俗與信仰",
+        "en": "Taiwanese Folk Religion"
+      },
+      "id": "229284",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

@@ -1,0 +1,974 @@
+{
+  "name": "尹秦清",
+  "withdraw": 26,
+  "people": 2232,
+  "rates": {
+    "all": "1.16",
+    "recent5Years": "1.16",
+    "recent3Years": "0.64"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "專題製作(一)",
+        "en": "Independent Study(Ⅰ)"
+      },
+      "id": "361880",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "362430",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "363018",
+      "courseType": "▲",
+      "people": "86",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "365848",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "366145",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創新與創業管理",
+        "en": "Innovation and Entrepreneurship Management"
+      },
+      "id": "366660",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "365848",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "366145",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "創新與創業管理",
+        "en": "Innovation and Entrepreneurship Management"
+      },
+      "id": "366660",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作(二)",
+        "en": "Independent Study(Ⅱ)"
+      },
+      "id": "354493",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路創業",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "355079",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路創業與管理",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "359812",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "359138",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與組織管理",
+        "en": "Leadership and Organization Management"
+      },
+      "id": "359588",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創新與創業管理",
+        "en": "Innovation and Entrepreneurship Management"
+      },
+      "id": "359589",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "364789",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "359138",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與組織管理",
+        "en": "Leadership and Organization Management"
+      },
+      "id": "359588",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "創新與創業管理",
+        "en": "Innovation and Entrepreneurship Management"
+      },
+      "id": "359589",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "網路創業與管理",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "359812",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作(一)",
+        "en": "Independent Study(Ⅰ)"
+      },
+      "id": "347860",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "348375",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "348904",
+      "courseType": "▲",
+      "people": "90",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "351756",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊管理",
+        "en": "Information Management"
+      },
+      "id": "351772",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "352171",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創新與創業管理",
+        "en": "Innovation and Entrepreneurship Management"
+      },
+      "id": "352172",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "358184",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "351756",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理",
+        "en": "Information Management"
+      },
+      "id": "351772",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "352171",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "創新與創業管理",
+        "en": "Innovation and Entrepreneurship Management"
+      },
+      "id": "352172",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作(二)",
+        "en": "Independent Study(Ⅱ)"
+      },
+      "id": "340489",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路創業",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "345759",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "統計學(二)實習",
+        "en": "Statistics (II) Practice"
+      },
+      "id": "344189",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "統計學(二)",
+        "en": "Statistics (II)"
+      },
+      "id": "344190",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "4",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "345014",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "345014",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作(一)",
+        "en": "Independent Study(Ⅰ)"
+      },
+      "id": "334073",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "334583",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "統計學(一)實習",
+        "en": "Statistics (I) Practice"
+      },
+      "id": "336862",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+      },
+      "id": "336863",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "337686",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "338460",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "337686",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作(二)",
+        "en": "Independent Study(Ⅱ)"
+      },
+      "id": "326702",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路創業",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "326738",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "統計學(二)實習",
+        "en": "Statistics (II) Practice"
+      },
+      "id": "329964",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "統計學(二)",
+        "en": "Statistics (II)"
+      },
+      "id": "329965",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "330876",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大型專案管理",
+        "en": "Large-scale Project Management"
+      },
+      "id": "330877",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "330876",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大型專案管理",
+        "en": "Large-scale Project Management"
+      },
+      "id": "330877",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作(一)",
+        "en": "Independent Study(Ⅰ)"
+      },
+      "id": "319434",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "324234",
+      "courseType": "★",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "324235",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "322166",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "統計學(一)實習",
+        "en": "Statistics (I) Practice"
+      },
+      "id": "322281",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+      },
+      "id": "322282",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "323243",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創業與行銷",
+        "en": "Entrepreneurship and Marketing"
+      },
+      "id": "324237",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位與精準行銷",
+        "en": "Digital & Precision marketing"
+      },
+      "id": "323243",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "統計學(二)實習",
+        "en": "Statistics (II) Practice"
+      },
+      "id": "312665",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "統計學(二)",
+        "en": "Statistics (II)"
+      },
+      "id": "312666",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子商務網站設計",
+        "en": "E-commerce website design"
+      },
+      "id": "312681",
+      "courseType": "★",
+      "people": "60",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路創業與管理",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "316940",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "315185",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "6",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路創業與管理",
+        "en": "Internet entrepreneurial management"
+      },
+      "id": "316940",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理與商業智慧",
+        "en": "Customer Relationship Management and Business Intelligence"
+      },
+      "id": "304145",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作(一)",
+        "en": "Independent Study(Ⅰ)"
+      },
+      "id": "304878",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子商務實務",
+        "en": "Internet commerence"
+      },
+      "id": "310236",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子商務",
+        "en": "Electronic Commerce；EC"
+      },
+      "id": "310238",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理與商業智慧",
+        "en": "Customer Relationship Management and Business Intelligence"
+      },
+      "id": "307620",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電子商務實務",
+        "en": "Internet commerence"
+      },
+      "id": "310239",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

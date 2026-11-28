@@ -1,0 +1,38 @@
+{
+  "name": "段致成",
+  "withdraw": 2,
+  "people": 96,
+  "rates": {
+    "all": "2.08",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "85472",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "2",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "85564",
+      "courseType": "△",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

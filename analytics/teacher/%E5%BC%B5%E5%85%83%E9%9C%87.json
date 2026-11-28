@@ -1,0 +1,675 @@
+{
+  "name": "張元震",
+  "withdraw": 24,
+  "people": 1577,
+  "rates": {
+    "all": "1.52",
+    "recent5Years": "1.52",
+    "recent3Years": "1.52"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "基礎應用光學",
+        "en": "Fundamentals of Applied Optics"
+      },
+      "id": "360767",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "362708",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "363909",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "366908",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "365406",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "363909",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "365406",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "366908",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "智能工廠專題實務(二)",
+        "en": "Special subjects for intelligent factory (II)"
+      },
+      "id": "354010",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "356572",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "先進半導體製程",
+        "en": "Advanced IC Fabrication Process"
+      },
+      "id": "359841",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "360014",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "358726",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "356572",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "358726",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "先進半導體製程",
+        "en": "Advanced IC Fabrication Process"
+      },
+      "id": "359841",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "360014",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (2)"
+      },
+      "id": "346749",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "349774",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "352719",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "351370",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "349774",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "351370",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "352719",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "340010",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "342540",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "345187",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "先進半導體製程",
+        "en": "Advanced IC Fabrication Process"
+      },
+      "id": "345518",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "5",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "344620",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "342540",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "344620",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "345187",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "先進半導體製程",
+        "en": "Advanced IC Fabrication Process"
+      },
+      "id": "345518",
+      "courseType": "★",
+      "people": "51",
+      "peopleWithdraw": "5",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "335950",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "337816",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "337289",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "335950",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "337289",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "337816",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "328722",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "331064",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "先進半導體製程",
+        "en": "Advanced IC Process"
+      },
+      "id": "331835",
+      "courseType": "★",
+      "people": "48",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "330404",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "328722",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "330404",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務研究特論",
+        "en": "Special Topics on Practice R&D"
+      },
+      "id": "331064",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "先進半導體製程",
+        "en": "Advanced IC Process"
+      },
+      "id": "331835",
+      "courseType": "★",
+      "people": "48",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "321293",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "322762",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "321293",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "322762",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

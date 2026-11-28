@@ -1,0 +1,38 @@
+{
+  "name": "謝飛虎",
+  "withdraw": 4,
+  "people": 108,
+  "rates": {
+    "all": "3.70",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "數位邏輯",
+        "en": "Digital Logic"
+      },
+      "id": "102879",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "2",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "線性代數",
+        "en": "Linear Algebra"
+      },
+      "id": "90142",
+      "courseType": "★",
+      "people": "61",
+      "peopleWithdraw": "2",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "林國顯",
+  "withdraw": 1,
+  "people": 102,
+  "rates": {
+    "all": "0.98",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "捷運系統概論",
+        "en": "Mass Rapid Transit System Basics and Concepts"
+      },
+      "id": "68136",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運輸工程",
+        "en": "Transportation Engineering"
+      },
+      "id": "52492",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "捷運系統概論",
+        "en": "Introduction to Rapid Transit System"
+      },
+      "id": "49456",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

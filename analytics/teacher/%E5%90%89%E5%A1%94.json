@@ -1,0 +1,402 @@
+{
+  "name": "吉塔",
+  "withdraw": 16,
+  "people": 840,
+  "rates": {
+    "all": "1.90",
+    "recent5Years": "1.11",
+    "recent3Years": "1.17"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "363755",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "363755",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "356400",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "356400",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "349623",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "349623",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "342373",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "342373",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "335803",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "335803",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "328556",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "328556",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "321148",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "燃料電池",
+        "en": "Introduction to Fuel Cell"
+      },
+      "id": "321148",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "313886",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源工程",
+        "en": "Energy Engineering"
+      },
+      "id": "313886",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "302635",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "302635",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "綠色科技",
+        "en": "Green Technology"
+      },
+      "id": "294936",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "綠色科技",
+        "en": "Green Technology"
+      },
+      "id": "294936",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "287723",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "287723",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "綠色科技",
+        "en": "Green Technology"
+      },
+      "id": "277380",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "綠色科技",
+        "en": "Green Technology"
+      },
+      "id": "277380",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "273756",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "273756",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "綠色科技",
+        "en": "Green Technology"
+      },
+      "id": "266793",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "3",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "綠色科技",
+        "en": "Green Technology"
+      },
+      "id": "266793",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "3",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "259804",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "潔淨能源技術",
+        "en": "Clean Energy"
+      },
+      "id": "259804",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

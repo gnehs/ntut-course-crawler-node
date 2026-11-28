@@ -1,0 +1,51 @@
+{
+  "name": "張宣武",
+  "withdraw": 1,
+  "people": 118,
+  "rates": {
+    "all": "0.85",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "環境生態學",
+        "en": "Environmental Ecology"
+      },
+      "id": "62457",
+      "courseType": "★",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "環境生態學",
+        "en": "Environmental Ecology"
+      },
+      "id": "52529",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業用水處理",
+        "en": "Industrial Water Treatment"
+      },
+      "id": "49444",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

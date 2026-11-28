@@ -1,0 +1,51 @@
+{
+  "name": "羅左財",
+  "withdraw": 0,
+  "people": 144,
+  "rates": {
+    "all": "0.00",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "192817",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "181842",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+      },
+      "id": "179083",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

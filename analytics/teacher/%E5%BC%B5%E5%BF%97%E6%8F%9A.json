@@ -1,0 +1,792 @@
+{
+  "name": "張志揚",
+  "withdraw": 71,
+  "people": 2122,
+  "rates": {
+    "all": "3.35",
+    "recent5Years": "3.85",
+    "recent3Years": "3.20"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "投資學",
+        "en": "Investment"
+      },
+      "id": "361330",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "中級會計學",
+        "en": "Intermediate Accounting"
+      },
+      "id": "362545",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "363127",
+      "courseType": "▲",
+      "people": "89",
+      "peopleWithdraw": "2",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "355209",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "355746",
+      "courseType": "▲",
+      "people": "72",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "357145",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "357145",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "投資學",
+        "en": "Investment"
+      },
+      "id": "347307",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "中級會計學",
+        "en": "Intermediate Accounting"
+      },
+      "id": "348485",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "349012",
+      "courseType": "▲",
+      "people": "73",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "341213",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "341739",
+      "courseType": "▲",
+      "people": "69",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "343090",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "343090",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務報表分析",
+        "en": "Financial Statement Analysis"
+      },
+      "id": "334211",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "335212",
+      "courseType": "▲",
+      "people": "86",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "審計學",
+        "en": "Auditing"
+      },
+      "id": "338577",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "327407",
+      "courseType": "▲",
+      "people": "86",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "329264",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "公司治理",
+        "en": "Corporation Governance"
+      },
+      "id": "330455",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "329264",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "公司治理",
+        "en": "Corporation Governance"
+      },
+      "id": "330455",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "中級會計學",
+        "en": "Intermediate Accounting"
+      },
+      "id": "320040",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "12",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "金融證券法規",
+        "en": "Financial Securities Legislation"
+      },
+      "id": "324490",
+      "courseType": "★",
+      "people": "76",
+      "peopleWithdraw": "8",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "312789",
+      "courseType": "▲",
+      "people": "91",
+      "peopleWithdraw": "5",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "314099",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "314563",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "316904",
+      "courseType": "▲",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "314099",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "314563",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "316904",
+      "courseType": "▲",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務報表分析",
+        "en": "Financial Statement Analysis"
+      },
+      "id": "304995",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "公司治理",
+        "en": "Corporation Governance"
+      },
+      "id": "306766",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "公司治理",
+        "en": "Corporation Governance"
+      },
+      "id": "306766",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "296994",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務報表分析",
+        "en": "Financial Statement Analysis"
+      },
+      "id": "291691",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "3",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "中級會計學",
+        "en": "Intermediate Accounting"
+      },
+      "id": "292158",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "12",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "293966",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "294115",
+      "courseType": "▲",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "293966",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "294115",
+      "courseType": "▲",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "283571",
+      "courseType": "▲",
+      "people": "70",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "個體經濟學",
+        "en": "Microeconomics"
+      },
+      "id": "276442",
+      "courseType": "★",
+      "people": "74",
+      "peopleWithdraw": "7",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "279883",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "279942",
+      "courseType": "▲",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "279883",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "279942",
+      "courseType": "▲",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "269470",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "271226",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "271384",
+      "courseType": "▲",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "271226",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "271384",
+      "courseType": "▲",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "256978",
+      "courseType": "▲",
+      "people": "72",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "中級會計學",
+        "en": "Intermediate Accounting"
+      },
+      "id": "245012",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "5",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Finance Management"
+      },
+      "id": "238296",
+      "courseType": "▲",
+      "people": "84",
+      "peopleWithdraw": "2",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "審計學",
+        "en": "Auditing"
+      },
+      "id": "235065",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "220837",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "209051",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "144205",
+      "courseType": "▲",
+      "people": "70",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "147835",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    }
+  ]
+}

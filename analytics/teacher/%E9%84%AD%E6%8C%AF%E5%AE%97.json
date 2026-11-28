@@ -1,0 +1,805 @@
+{
+  "name": "鄭振宗",
+  "withdraw": 26,
+  "people": 2151,
+  "rates": {
+    "all": "1.21",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (2)"
+      },
+      "id": "102215",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "102676",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "1",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "102701",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機械專題討論",
+        "en": "Mechanical Engineering Seminar"
+      },
+      "id": "95319",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "95342",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電磁學",
+        "en": "Electromagnetism"
+      },
+      "id": "95769",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "2",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "97558",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "97581",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電磁學",
+        "en": "Electromagnetism"
+      },
+      "id": "102168",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "97558",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "97581",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (2)"
+      },
+      "id": "92814",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "93292",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "94646",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "99525",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "94646",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "86490",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "86920",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "5",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "88512",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電磁學",
+        "en": "Electromagnetism"
+      },
+      "id": "92233",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "3",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "91780",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "88512",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "91780",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(三)",
+        "en": "Special Project (3)"
+      },
+      "id": "84824",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "1",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "84906",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "3",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "84915",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "2",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "89174",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "89174",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (2)"
+      },
+      "id": "78157",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "78202",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "3",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "78203",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "79771",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(二)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (II)"
+      },
+      "id": "79771",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "機械工程實驗(二)",
+        "en": "Mechanical Engineering Lab. (II)"
+      },
+      "id": "75861",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "75880",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "75922",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "75925",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "81185",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "81185",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "69307",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "69909",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "2",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理實驗",
+        "en": "Physics Lab."
+      },
+      "id": "69910",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "71339",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基本電磁原理與應用",
+        "en": "Introduction to Electromagnetism and its Applications"
+      },
+      "id": "74151",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "3",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "71339",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (2)"
+      },
+      "id": "67084",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機械工程實驗(二)",
+        "en": "Mechanical Engineering Lab. (II)"
+      },
+      "id": "67611",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "67654",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "67657",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "72925",
+      "courseType": "★",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(一)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (I)"
+      },
+      "id": "73166",
+      "courseType": "▲",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "奈米科技特論(一)",
+        "en": "Special Topics of Nanotechnology (I)"
+      },
+      "id": "72925",
+      "courseType": "★",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "製造科技特論及實驗(一)",
+        "en": "Special Topics and Experiments of Manufacturing Technology (I)"
+      },
+      "id": "73166",
+      "courseType": "▲",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "62048",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "62063",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "66495",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基本電磁原理與應用",
+        "en": "Introduction to Electromagnetism and its Applications"
+      },
+      "id": "66577",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "66495",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "機械工程實驗(二)",
+        "en": "Mechanical Engineering Lab. (II)"
+      },
+      "id": "59957",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程數學(一)",
+        "en": "Engineering Mathmatics (I)"
+      },
+      "id": "59979",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電工原理及實驗",
+        "en": "Electrical Engineering Principles and Lab."
+      },
+      "id": "59992",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

@@ -1,0 +1,4913 @@
+{
+  "name": "翁頌舜",
+  "withdraw": 46,
+  "people": 14067,
+  "rates": {
+    "all": "0.33",
+    "recent5Years": "0.43",
+    "recent3Years": "0.60"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "361421",
+      "courseType": "▲",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "362644",
+      "courseType": "▲",
+      "people": "83",
+      "peopleWithdraw": "3",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "364519",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "365813",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "365838",
+      "courseType": "▲",
+      "people": "101",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "365849",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "366143",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用",
+        "en": "Applications of Artifical Intelligence"
+      },
+      "id": "366661",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "364519",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "365813",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "365838",
+      "courseType": "▲",
+      "people": "101",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "365849",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "366143",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用",
+        "en": "Applications of Artifical Intelligence"
+      },
+      "id": "366661",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "354704",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "金融資料科學",
+        "en": "Financial Data Science"
+      },
+      "id": "355337",
+      "courseType": "★",
+      "people": "75",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "359072",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "財務管理與投資決策",
+        "en": "Financial Management"
+      },
+      "id": "359103",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "359106",
+      "courseType": "▲",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與組織管理",
+        "en": "Leadership and Organization Management"
+      },
+      "id": "359590",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "360029",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "359072",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務管理與投資決策",
+        "en": "Financial Management"
+      },
+      "id": "359103",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "359106",
+      "courseType": "▲",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與組織管理",
+        "en": "Leadership and Organization Management"
+      },
+      "id": "359590",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "360029",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "347399",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "348581",
+      "courseType": "▲",
+      "people": "68",
+      "peopleWithdraw": "3",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "350422",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自主學習",
+        "en": "Autonomous Learning"
+      },
+      "id": "358139",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "350887",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "351721",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "351746",
+      "courseType": "▲",
+      "people": "78",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "351757",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "352173",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生成式人工智慧於企業實務之應用",
+        "en": "Application of Generative Artificial Intelligence in Enterprise Practice"
+      },
+      "id": "352174",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "350422",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "351721",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "351746",
+      "courseType": "▲",
+      "people": "78",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "351757",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Corporate Ethics"
+      },
+      "id": "352173",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "生成式人工智慧於企業實務之應用",
+        "en": "Application of Generative Artificial Intelligence in Enterprise Practice"
+      },
+      "id": "352174",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "340731",
+      "courseType": "▲",
+      "people": "67",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "金融資料科學",
+        "en": "Financial Data Science"
+      },
+      "id": "345985",
+      "courseType": "★",
+      "people": "71",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "344959",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "344982",
+      "courseType": "▲",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "345670",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "財務管理與投資決策",
+        "en": "Financial Management"
+      },
+      "id": "345671",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "345685",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "344959",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "344982",
+      "courseType": "▲",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "345670",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務管理與投資決策",
+        "en": "Financial Management"
+      },
+      "id": "345671",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "345685",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "333643",
+      "courseType": "▲",
+      "people": "73",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "334786",
+      "courseType": "▲",
+      "people": "90",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "336554",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "337676",
+      "courseType": "▲",
+      "people": "93",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "337687",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "337863",
+      "courseType": "▲",
+      "people": "98",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "338732",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "338757",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "338829",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "336554",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "337676",
+      "courseType": "▲",
+      "people": "93",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "337687",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "337863",
+      "courseType": "▲",
+      "people": "98",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "338732",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "338757",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "338829",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "326932",
+      "courseType": "▲",
+      "people": "74",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "329351",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "330732",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "330844",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "330878",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "331963",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "329351",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "330732",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "330844",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "330878",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "331963",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "319013",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "320136",
+      "courseType": "▲",
+      "people": "75",
+      "peopleWithdraw": "3",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "321863",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "322192",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "323213",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "323233",
+      "courseType": "▲",
+      "people": "103",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "323234",
+      "courseType": "▲",
+      "people": "132",
+      "peopleWithdraw": "5",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "323244",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "324146",
+      "courseType": "▲",
+      "people": "99",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "324737",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "324776",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "321863",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "323213",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "323233",
+      "courseType": "▲",
+      "people": "103",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "323234",
+      "courseType": "▲",
+      "people": "132",
+      "peopleWithdraw": "5",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "323244",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "324146",
+      "courseType": "▲",
+      "people": "99",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "324737",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "324776",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "312334",
+      "courseType": "▲",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "314659",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "315218",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "316037",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "316050",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "跨國個案競賽",
+        "en": "Cross Country Case Contest"
+      },
+      "id": "316081",
+      "courseType": "▲",
+      "people": "210",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "316574",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "316843",
+      "courseType": "▲",
+      "people": "122",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "314659",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "316037",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "316050",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "跨國個案競賽",
+        "en": "Cross Country Case Contest"
+      },
+      "id": "316081",
+      "courseType": "▲",
+      "people": "210",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "316574",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "316843",
+      "courseType": "▲",
+      "people": "122",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "304425",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "305570",
+      "courseType": "▲",
+      "people": "75",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "307285",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "308653",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "308672",
+      "courseType": "▲",
+      "people": "105",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "308673",
+      "courseType": "▲",
+      "people": "139",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "308683",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "309801",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "309851",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "309852",
+      "courseType": "▲",
+      "people": "95",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "高階管理導論",
+        "en": "Introduction to Advanced Management Practice"
+      },
+      "id": "314926",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "307285",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "308653",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "308672",
+      "courseType": "▲",
+      "people": "105",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "308673",
+      "courseType": "▲",
+      "people": "139",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "308683",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "309801",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "309851",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "309852",
+      "courseType": "▲",
+      "people": "95",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高階管理導論",
+        "en": "Introduction to Advanced Management Practice"
+      },
+      "id": "314926",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "296541",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "298923",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "跨國個案競賽",
+        "en": "Cross Country Case Contest"
+      },
+      "id": "301519",
+      "courseType": "▲",
+      "people": "130",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "301523",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "302579",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "302854",
+      "courseType": "▲",
+      "people": "109",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "302915",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "298923",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "跨國個案競賽",
+        "en": "Cross Country Case Contest"
+      },
+      "id": "301519",
+      "courseType": "▲",
+      "people": "130",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "301523",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "金融科技",
+        "en": "Financial Technology"
+      },
+      "id": "302579",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "302854",
+      "courseType": "▲",
+      "people": "109",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "302915",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "291107",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "292270",
+      "courseType": "▲",
+      "people": "75",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "294031",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "289144",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "290023",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "290099",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "290117",
+      "courseType": "▲",
+      "people": "101",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "290118",
+      "courseType": "▲",
+      "people": "128",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "294653",
+      "courseType": "▲",
+      "people": "82",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "299136",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "299755",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "290023",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "290099",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "290117",
+      "courseType": "▲",
+      "people": "101",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "290118",
+      "courseType": "▲",
+      "people": "128",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "294031",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業倫理與社會責任實踐",
+        "en": "Corporate Ethics and Social Responsibility Practice"
+      },
+      "id": "294653",
+      "courseType": "▲",
+      "people": "82",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "299136",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "299755",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "283119",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "285496",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "2",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "285992",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "286813",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "286867",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "288036",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "288343",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "285496",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "2",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "286813",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "286867",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "288036",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "288343",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "276549",
+      "courseType": "▲",
+      "people": "75",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "278285",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "279925",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "280821",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "280953",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "280968",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "281104",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "278285",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "279925",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "280821",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "280953",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用專題",
+        "en": "Artificial Intelligence Application Projects"
+      },
+      "id": "280968",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與應用",
+        "en": "Big Data Analytics and Industrial Applications"
+      },
+      "id": "281104",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "271308",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "271987",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "274146",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用",
+        "en": "Artificial Intelligence Applications"
+      },
+      "id": "274147",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "274171",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "274198",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "271308",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "274146",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧應用",
+        "en": "Artificial Intelligence Applications"
+      },
+      "id": "274147",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "274171",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "274198",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "262408",
+      "courseType": "▲",
+      "people": "69",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "264268",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "265577",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "265613",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "266487",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practice"
+      },
+      "id": "267057",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "267074",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "264268",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "265577",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "265613",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "266487",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practice"
+      },
+      "id": "267057",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "267074",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "258751",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "260016",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "259227",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "259615",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "258751",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "259227",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "259615",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理",
+        "en": "Database Management"
+      },
+      "id": "245112",
+      "courseType": "▲",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "246782",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "248170",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "248172",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "248485",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "249674",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "249701",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "249708",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "249715",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "249717",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "249771",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "246782",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "248170",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "248172",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "248485",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "249674",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "249701",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "249708",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "249715",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "249717",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "249771",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理(一)",
+        "en": "Database Management (I)"
+      },
+      "id": "231627",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "233271",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "234570",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "234573",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "234584",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "235247",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "235808",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "235812",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "233271",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "234570",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "234573",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "234584",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "235247",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合管理個案分析",
+        "en": "Integrated Management Case Studies"
+      },
+      "id": "235808",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "235812",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "224569",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "226560",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "228384",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘研究與實務",
+        "en": "Research and Practices of Data Mining"
+      },
+      "id": "228942",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "227780",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "227791",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "228901",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "區塊鏈與機器人理財",
+        "en": "Blockchain and Robot Advisory"
+      },
+      "id": "229334",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "226560",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "227780",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "227791",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "228384",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management of Information Technologies"
+      },
+      "id": "228901",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "區塊鏈與機器人理財",
+        "en": "Blockchain and Robot Advisory"
+      },
+      "id": "229334",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "217657",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "220288",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "220362",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "221990",
+      "courseType": "▲",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "221508",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "221511",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業參訪與研討",
+        "en": "Enterprise Visiting and Management Studies"
+      },
+      "id": "222849",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "222851",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "222885",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "222887",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "222889",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "220288",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "220362",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "221508",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "221511",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "221990",
+      "courseType": "▲",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業參訪與研討",
+        "en": "Enterprise Visiting and Management Studies"
+      },
+      "id": "222849",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Analysis and Practices"
+      },
+      "id": "222851",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "222885",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "222887",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "領導與團隊建立",
+        "en": "Leadership and Team Building"
+      },
+      "id": "222889",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "210737",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "216256",
+      "courseType": "▲",
+      "people": "79",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與顧客關係管理",
+        "en": "Big Data Applications and Customer Relationship Management"
+      },
+      "id": "216472",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "210737",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "216256",
+      "courseType": "▲",
+      "people": "79",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與顧客關係管理",
+        "en": "Big Data Applications and Customer Relationship Management"
+      },
+      "id": "216472",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理(一)",
+        "en": "Database Management (I)"
+      },
+      "id": "205856",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "207424",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "213491",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "211904",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "212493",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與決策分析",
+        "en": "Manufacturing Information and Decision Analysis"
+      },
+      "id": "213450",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Practices"
+      },
+      "id": "213576",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "207424",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "211904",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端應用與大數據實務",
+        "en": "Cloud Computing Applications and Big Data Practices"
+      },
+      "id": "212493",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與決策分析",
+        "en": "Manufacturing Information and Decision Analysis"
+      },
+      "id": "213450",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "213491",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與實務",
+        "en": "Big Data Practices"
+      },
+      "id": "213576",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "197512",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methods"
+      },
+      "id": "204033",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業競爭商業智能策略",
+        "en": "Business Intelligence for Improving and Sustaining Business Competitive Advantage"
+      },
+      "id": "213495",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "202117",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "202569",
+      "courseType": "▲",
+      "people": "74",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "197512",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "202117",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "EMBA管理講座",
+        "en": "Special Topics for EMBA"
+      },
+      "id": "202569",
+      "courseType": "▲",
+      "people": "74",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methods"
+      },
+      "id": "204033",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業競爭商業智能策略",
+        "en": "Business Intelligence for Improving and Sustaining Business Competitive Advantage"
+      },
+      "id": "213495",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫管理(一)",
+        "en": "Database Management (I)"
+      },
+      "id": "192646",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "194103",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端運算之應用與服務",
+        "en": "Applications and Services of Cloud Computing"
+      },
+      "id": "199124",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "198522",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端運算與巨量資料管理",
+        "en": "Cloud Computing and Big Data Management"
+      },
+      "id": "198523",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "194103",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "198522",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端運算與巨量資料管理",
+        "en": "Cloud Computing and Big Data Management"
+      },
+      "id": "198523",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端運算之應用與服務",
+        "en": "Applications and Services of Cloud Computing"
+      },
+      "id": "199124",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "184477",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊系統：策略與分析",
+        "en": "Information Systems: Strategy and Analytics"
+      },
+      "id": "190893",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "184477",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊系統：策略與分析",
+        "en": "Information Systems: Strategy and Analytics"
+      },
+      "id": "190893",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端運算之應用與服務",
+        "en": "Applications and Services of Cloud Computing"
+      },
+      "id": "184091",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "187450",
+      "courseType": "▲",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "187023",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端運算與巨量資料管理",
+        "en": "Cloud Computing and Big Data Management"
+      },
+      "id": "187024",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端運算之應用與服務",
+        "en": "Applications and Services of Cloud Computing"
+      },
+      "id": "184091",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊管理研討",
+        "en": "Information Management Seminar"
+      },
+      "id": "187023",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端運算與巨量資料管理",
+        "en": "Cloud Computing and Big Data Management"
+      },
+      "id": "187024",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "187450",
+      "courseType": "▲",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "174397",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與商業智慧",
+        "en": "Manufacturing Information and Business Intelligence"
+      },
+      "id": "175316",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "174397",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與商業智慧",
+        "en": "Manufacturing Information and Business Intelligence"
+      },
+      "id": "175316",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "169603",
+      "courseType": "▲",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端運算之應用與服務",
+        "en": "Applications and Services of Cloud Computing"
+      },
+      "id": "171107",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業競爭優勢的資訊系統與策略",
+        "en": "Information Systems and Strategies for Business Competitive Advantage"
+      },
+      "id": "177977",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "169603",
+      "courseType": "▲",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端運算之應用與服務",
+        "en": "Applications and Services of Cloud Computing"
+      },
+      "id": "171107",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業競爭優勢的資訊系統與策略",
+        "en": "Information Systems and Strategies for Business Competitive Advantage"
+      },
+      "id": "177977",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "165629",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與商業智慧",
+        "en": "Manufacturing Information and Business Intelligence"
+      },
+      "id": "157466",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與商業智慧",
+        "en": "Manufacturing Information and Business Intelligence"
+      },
+      "id": "157466",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "165629",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等資料庫管理",
+        "en": "Advanced Database Management"
+      },
+      "id": "150570",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "150600",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等資料庫管理",
+        "en": "Advanced Database Management"
+      },
+      "id": "150570",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "150600",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "145320",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "146906",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與商業智慧",
+        "en": "Manufacturing Information and Business Intelligence"
+      },
+      "id": "146449",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "145320",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "製造資訊與商業智慧",
+        "en": "Manufacturing Information and Business Intelligence"
+      },
+      "id": "146449",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與知識發現",
+        "en": "Data Mining and Knowledge Discovery"
+      },
+      "id": "146906",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "139698",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management Information System"
+      },
+      "id": "139699",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "139698",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management Information System"
+      },
+      "id": "139699",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "134760",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "134793",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "134760",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "PhD Seminar"
+      },
+      "id": "134793",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "128066",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "128066",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

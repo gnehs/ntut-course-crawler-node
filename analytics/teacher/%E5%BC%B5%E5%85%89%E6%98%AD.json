@@ -1,0 +1,51 @@
+{
+  "name": "張光昭",
+  "withdraw": 28,
+  "people": 100,
+  "rates": {
+    "all": "28.00",
+    "recent5Years": "36.84",
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "管理數學",
+        "en": "Management Mathematics"
+      },
+      "id": "313282",
+      "courseType": "▲",
+      "people": "76",
+      "peopleWithdraw": "28",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "265277",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "265277",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

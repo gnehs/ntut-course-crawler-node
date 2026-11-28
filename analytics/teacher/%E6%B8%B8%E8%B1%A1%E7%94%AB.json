@@ -1,0 +1,38 @@
+{
+  "name": "游象甫",
+  "withdraw": 1,
+  "people": 127,
+  "rates": {
+    "all": "0.79",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "線性代數",
+        "en": "Linear Algebra"
+      },
+      "id": "116555",
+      "courseType": "▲",
+      "people": "68",
+      "peopleWithdraw": "1",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "JAVA技術與應用",
+        "en": "Java Techniques & Applications"
+      },
+      "id": "113831",
+      "courseType": "★",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

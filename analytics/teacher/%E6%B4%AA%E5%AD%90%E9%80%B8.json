@@ -1,0 +1,896 @@
+{
+  "name": "洪子逸",
+  "withdraw": 18,
+  "people": 889,
+  "rates": {
+    "all": "2.02",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "個體經濟學",
+        "en": "Microeconomics"
+      },
+      "id": "195209",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "3",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫系統與應用",
+        "en": "Database System and Database System and Applications"
+      },
+      "id": "195678",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務科學研討",
+        "en": "Service Science Seminar"
+      },
+      "id": "203053",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "202574",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "202574",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務科學研討",
+        "en": "Service Science Seminar"
+      },
+      "id": "203053",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "191535",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "勞作教育",
+        "en": "Campus Custodial Services"
+      },
+      "id": "192796",
+      "courseType": "△",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "193040",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專案管理",
+        "en": "Project Management"
+      },
+      "id": "183060",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "183647",
+      "courseType": "▲",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "183652",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "產業組織與策略分析",
+        "en": "Industrial Organization and Strategy Analysis"
+      },
+      "id": "183660",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "190541",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "183647",
+      "courseType": "▲",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "183652",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "產業組織與策略分析",
+        "en": "Industrial Organization and Strategy Analysis"
+      },
+      "id": "183660",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "190541",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務與科技管理導論",
+        "en": "Introduction to Services and Technology Management"
+      },
+      "id": "180894",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理科學",
+        "en": "Management Science"
+      },
+      "id": "180897",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "產業策略與分析",
+        "en": "Industrial Strategy and Analysis"
+      },
+      "id": "180898",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際產業實務研習",
+        "en": "Topics on Global Industry Practice"
+      },
+      "id": "180904",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務與科技管理導論",
+        "en": "Introduction to Services and Technology Management"
+      },
+      "id": "180894",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理科學",
+        "en": "Management Science"
+      },
+      "id": "180897",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "產業策略與分析",
+        "en": "Industrial Strategy and Analysis"
+      },
+      "id": "180898",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際產業實務研習",
+        "en": "Topics on Global Industry Practice"
+      },
+      "id": "180904",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "174427",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務設計",
+        "en": "Service Design"
+      },
+      "id": "174431",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "174432",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Journal Study and Discussion"
+      },
+      "id": "174427",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務設計",
+        "en": "Service Design"
+      },
+      "id": "174431",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "174432",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "技術評估與預測",
+        "en": "Technology Forecasting and Assessment"
+      },
+      "id": "169578",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務工程",
+        "en": "Service Engineering"
+      },
+      "id": "169673",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務與科技管理導論",
+        "en": "Introduction to Services and Technology Management"
+      },
+      "id": "171472",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "永續設計創新管理",
+        "en": "Sustainable Design Centered Innovation"
+      },
+      "id": "176513",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "技術評估與預測",
+        "en": "Technology Forecasting and Assessment"
+      },
+      "id": "169578",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務工程",
+        "en": "Service Engineering"
+      },
+      "id": "169673",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務與科技管理導論",
+        "en": "Introduction to Services and Technology Management"
+      },
+      "id": "171472",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "永續設計創新管理",
+        "en": "Sustainable Design Centered Innovation"
+      },
+      "id": "176513",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "153414",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務與創新管理專題研究",
+        "en": "Special Topics in Service and Innovation Management"
+      },
+      "id": "166700",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "153414",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務與創新管理專題研究",
+        "en": "Special Topics in Service and Innovation Management"
+      },
+      "id": "166700",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "產業組織與策略分析",
+        "en": "Industrial Organization and Strategy Analysis"
+      },
+      "id": "155343",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "產業組織與策略分析",
+        "en": "Industrial Organization and Strategy Analysis"
+      },
+      "id": "155343",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "145338",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "3",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路服務技術",
+        "en": "Web Service Technologies"
+      },
+      "id": "145347",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變量分析",
+        "en": "Multivariate analysis"
+      },
+      "id": "145338",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "3",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "網路服務技術",
+        "en": "Web Service Technologies"
+      },
+      "id": "145347",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "科技管理",
+        "en": "Technology Management"
+      },
+      "id": "138636",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "技術評估與預測",
+        "en": "Technology Forecasting and Assessment"
+      },
+      "id": "142305",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "產業策略與分析",
+        "en": "Industrial Strategy and Analysis"
+      },
+      "id": "142306",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務導向系統研討",
+        "en": "Service Design"
+      },
+      "id": "142307",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "技術評估與預測",
+        "en": "Technology Forecasting and Assessment"
+      },
+      "id": "142305",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "產業策略與分析",
+        "en": "Industrial Strategy and Analysis"
+      },
+      "id": "142306",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務導向系統研討",
+        "en": "Service Design"
+      },
+      "id": "142307",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "科技與智慧資本",
+        "en": "Science and Intellectual Capital"
+      },
+      "id": "134306",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織管理",
+        "en": "Organizational Management"
+      },
+      "id": "134770",
+      "courseType": "▲",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "科技與智慧資本",
+        "en": "Science and Intellectual Capital"
+      },
+      "id": "134306",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "組織管理",
+        "en": "Organizational Management"
+      },
+      "id": "134770",
+      "courseType": "▲",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "供應鏈管理導論",
+        "en": "The Introduction of Supply Chain Management"
+      },
+      "id": "126881",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子商務",
+        "en": "Electronic Commerce"
+      },
+      "id": "126884",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務導向與系統設計",
+        "en": "Service Oriented Systems Design"
+      },
+      "id": "127582",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電子商務",
+        "en": "Electronic Commerce"
+      },
+      "id": "128368",
+      "courseType": "★",
+      "people": "53",
+      "peopleWithdraw": "1",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "服務導向與系統設計",
+        "en": "Service Oriented Systems Design"
+      },
+      "id": "127582",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理數學",
+        "en": "Management Mathematics"
+      },
+      "id": "122158",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "6",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "113765",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "1",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "陳錫釗",
+  "withdraw": 2,
+  "people": 158,
+  "rates": {
+    "all": "1.27",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "普通物理",
+        "en": "General Physics"
+      },
+      "id": "113575",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "2",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "光電工程概論",
+        "en": "Introduction to Optoelectronic Engineering"
+      },
+      "id": "106696",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物理",
+        "en": "Physics"
+      },
+      "id": "102864",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

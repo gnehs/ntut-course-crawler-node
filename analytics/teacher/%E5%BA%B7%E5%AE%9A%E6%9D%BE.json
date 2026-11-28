@@ -1,0 +1,51 @@
+{
+  "name": "康定松",
+  "withdraw": 16,
+  "people": 133,
+  "rates": {
+    "all": "12.03",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "科技日文",
+        "en": "Technical Japanese"
+      },
+      "id": "179348",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "7",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "科技日文",
+        "en": "Technical Japanese"
+      },
+      "id": "167739",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "4",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "科技日文",
+        "en": "Technical Japanese"
+      },
+      "id": "148871",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "5",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

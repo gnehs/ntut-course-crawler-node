@@ -1,0 +1,961 @@
+{
+  "name": "林敬皇",
+  "withdraw": 51,
+  "people": 2306,
+  "rates": {
+    "all": "2.21",
+    "recent5Years": "2.21",
+    "recent3Years": "1.90"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "361421",
+      "courseType": "▲",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業網路",
+        "en": "Enterprise Networking"
+      },
+      "id": "362645",
+      "courseType": "▲",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路與系統安全",
+        "en": "Network and System Security"
+      },
+      "id": "364540",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "364549",
+      "courseType": "★",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路與系統安全",
+        "en": "Network and System Security"
+      },
+      "id": "366196",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "364942",
+      "courseType": "▲",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "366658",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路與系統安全",
+        "en": "Network and System Security"
+      },
+      "id": "364540",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "364549",
+      "courseType": "★",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "366658",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "354704",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧跨域資安之應用",
+        "en": "Artificial Intelligence Cross-domain Applications in Information Security"
+      },
+      "id": "354736",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "359572",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "358276",
+      "courseType": "▲",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "359144",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "359144",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "359572",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "347399",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業網路",
+        "en": "Enterprise Networking"
+      },
+      "id": "348582",
+      "courseType": "▲",
+      "people": "68",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "350452",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "350452",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "340731",
+      "courseType": "▲",
+      "people": "67",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧跨域資安之應用",
+        "en": "Artificial Intelligence Cross-domain Applications in Information Security"
+      },
+      "id": "345558",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "345637",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "344228",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "345020",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "345020",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "345637",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "333643",
+      "courseType": "▲",
+      "people": "73",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業網路",
+        "en": "Enterprise Networking"
+      },
+      "id": "334787",
+      "courseType": "▲",
+      "people": "69",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "336579",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "338199",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業網路",
+        "en": "Enterprise Networking"
+      },
+      "id": "336911",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "338208",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "336579",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "326932",
+      "courseType": "▲",
+      "people": "74",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業資料通訊",
+        "en": "Enterprise data communication"
+      },
+      "id": "327518",
+      "courseType": "▲",
+      "people": "70",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "331626",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧跨域資安之應用",
+        "en": "Artificial Intelligence Cross-domain Applications in Information Security"
+      },
+      "id": "331986",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "332042",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "3",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧跨域資安之應用",
+        "en": "Artificial Intelligence Cross-domain Applications in Information Security"
+      },
+      "id": "332364",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業資料通訊",
+        "en": "Enterprise data communication"
+      },
+      "id": "330016",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "330732",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "330881",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "331529",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與跨境研習",
+        "en": "Overseas Management Practice and Cross-border Studies"
+      },
+      "id": "330732",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "330881",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "332042",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "3",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧跨域資安之應用",
+        "en": "Artificial Intelligence Cross-domain Applications in Information Security"
+      },
+      "id": "332364",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "321911",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫安全實務",
+        "en": "Database Systems Security Practices"
+      },
+      "id": "324561",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料庫安全實務",
+        "en": "Database Systems Security Practices"
+      },
+      "id": "324578",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "324603",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "322192",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "323753",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "網路與系統安全",
+        "en": "Network and System Security"
+      },
+      "id": "323757",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "4",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料庫安全實務",
+        "en": "Database Systems Security Practices"
+      },
+      "id": "324565",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "321911",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫安全實務",
+        "en": "Database Systems Security Practices"
+      },
+      "id": "324578",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業資料通訊",
+        "en": "Enterprise data communication"
+      },
+      "id": "312899",
+      "courseType": "▲",
+      "people": "69",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "317115",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "317125",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與財金專題",
+        "en": "Special Projects on Information and Financial Management"
+      },
+      "id": "315218",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業資料通訊",
+        "en": "Enterprise data communication"
+      },
+      "id": "315300",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "316088",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "317122",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+      },
+      "id": "316088",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "數位鑑識與調查",
+        "en": "Digital Forensics and Investigations"
+      },
+      "id": "317125",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "310187",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "310191",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路與系統安全",
+        "en": "Network and System Security"
+      },
+      "id": "307770",
+      "courseType": "★",
+      "people": "45",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "310037",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "雲端與物聯網安全",
+        "en": "Cloud and IoT Security"
+      },
+      "id": "310191",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

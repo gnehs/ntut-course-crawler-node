@@ -1,0 +1,77 @@
+{
+  "name": "趙士賓",
+  "withdraw": 1,
+  "people": 222,
+  "rates": {
+    "all": "0.45",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "雲端應用程式開發與應用",
+        "en": "Cloud-based Computing and Application"
+      },
+      "id": "230961",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "232233",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "234702",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料庫應用實務",
+        "en": "Database System Application"
+      },
+      "id": "229429",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "219289",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

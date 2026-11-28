@@ -1,0 +1,38 @@
+{
+  "name": "郭謦維",
+  "withdraw": 2,
+  "people": 42,
+  "rates": {
+    "all": "4.76",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "213964",
+      "courseType": "△",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "212770",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "2",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

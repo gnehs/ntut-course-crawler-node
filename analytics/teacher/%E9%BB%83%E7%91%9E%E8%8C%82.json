@@ -1,0 +1,38 @@
+{
+  "name": "黃瑞茂",
+  "withdraw": 1,
+  "people": 64,
+  "rates": {
+    "all": "1.56",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "建築理論(二)",
+        "en": "Architecture Theory (II)"
+      },
+      "id": "52939",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "建築理論(一)",
+        "en": "Architecture Theory(I)"
+      },
+      "id": "50857",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

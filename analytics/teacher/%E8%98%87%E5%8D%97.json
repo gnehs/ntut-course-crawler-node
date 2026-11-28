@@ -1,0 +1,51 @@
+{
+  "name": "蘇南",
+  "withdraw": 4,
+  "people": 116,
+  "rates": {
+    "all": "3.45",
+    "recent5Years": "3.45",
+    "recent3Years": "2.47"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "契約與規範",
+        "en": "Contract and Specification"
+      },
+      "id": "345448",
+      "courseType": "★",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "契約與規範",
+        "en": "Contract and Specification"
+      },
+      "id": "325763",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "契約與規範",
+        "en": "Contract and Specification"
+      },
+      "id": "294498",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "2",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

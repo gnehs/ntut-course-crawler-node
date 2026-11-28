@@ -1,0 +1,64 @@
+{
+  "name": "徐 灝",
+  "withdraw": 15,
+  "people": 123,
+  "rates": {
+    "all": "12.20",
+    "recent5Years": "12.20",
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "數位構築",
+        "en": "Digital Fabrication"
+      },
+      "id": "312172",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "9",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "程式設計入門",
+        "en": "Fundamental Programming Design"
+      },
+      "id": "304928",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位構築",
+        "en": "Digital Fabrication"
+      },
+      "id": "296383",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "4",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "程式設計入門",
+        "en": "Fundamental Programming Design"
+      },
+      "id": "291626",
+      "courseType": "▲",
+      "people": "35",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

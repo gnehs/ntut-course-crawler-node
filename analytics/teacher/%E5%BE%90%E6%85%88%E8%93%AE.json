@@ -1,0 +1,38 @@
+{
+  "name": "徐慈蓮",
+  "withdraw": 1,
+  "people": 80,
+  "rates": {
+    "all": "1.25",
+    "recent5Years": "1.25",
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "審計學",
+        "en": "Auditing"
+      },
+      "id": "317802",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "317803",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

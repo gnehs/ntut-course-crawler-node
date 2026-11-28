@@ -1,0 +1,883 @@
+{
+  "name": "林郁修",
+  "withdraw": 20,
+  "people": 1620,
+  "rates": {
+    "all": "1.23",
+    "recent5Years": "1.25",
+    "recent3Years": "0.85"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+      },
+      "id": "364239",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "365606",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "365638",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+      },
+      "id": "364239",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "365606",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "365638",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "科技英文寫作",
+        "en": "Technical English Writing"
+      },
+      "id": "359993",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "358944",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "358944",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "科技英文寫作",
+        "en": "Technical English Writing"
+      },
+      "id": "359993",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+      },
+      "id": "352538",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "351567",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "351599",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "351567",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "351599",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+      },
+      "id": "352538",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "深度學習",
+        "en": "Deep Learning"
+      },
+      "id": "342874",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "344833",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "深度學習",
+        "en": "Deep Learning"
+      },
+      "id": "342874",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "344833",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+      },
+      "id": "338250",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "337484",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "338304",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "337484",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+      },
+      "id": "338250",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "338304",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "329051",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "331386",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "329051",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "331386",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+      },
+      "id": "321596",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "322953",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "323430",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+      },
+      "id": "321596",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "322953",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "323430",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "314337",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "314361",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "類神經網路",
+        "en": "Neural Network"
+      },
+      "id": "314337",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "314361",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+      },
+      "id": "306996",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "307005",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "308401",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+      },
+      "id": "306996",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程軟體應用與設計",
+        "en": "Application and design of engineering software"
+      },
+      "id": "307005",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "308401",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "適應性模糊類神經控制",
+        "en": "Adaptive Fuzzy Neural Control"
+      },
+      "id": "298622",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "298627",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "301225",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "適應性模糊類神經控制",
+        "en": "Adaptive Fuzzy Neural Control"
+      },
+      "id": "298622",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "298627",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "301225",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "293716",
+      "courseType": "▲",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+      },
+      "id": "293748",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "2",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計與應用",
+        "en": "Object-oriented Programming and its applications"
+      },
+      "id": "294434",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "家具工業4.0概論",
+        "en": "Introduction to Furniture Industry 4.0"
+      },
+      "id": "289232",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計與應用",
+        "en": "Object-oriented Programming and its applications"
+      },
+      "id": "289899",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計與應用",
+        "en": "Object-oriented Programming and its applications"
+      },
+      "id": "289899",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "293716",
+      "courseType": "▲",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+      },
+      "id": "293748",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "2",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計與應用",
+        "en": "Object-oriented Programming and its applications"
+      },
+      "id": "294434",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "288379",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "適應性模糊類神經控制",
+        "en": "Adaptive Fuzzy Neural Control"
+      },
+      "id": "288380",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "286668",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "專題討論",
+        "en": "Seminar"
+      },
+      "id": "286668",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物聯網應用技術",
+        "en": "Applied Technology of the Internet of Things"
+      },
+      "id": "288379",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "適應性模糊類神經控制",
+        "en": "Adaptive Fuzzy Neural Control"
+      },
+      "id": "288380",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

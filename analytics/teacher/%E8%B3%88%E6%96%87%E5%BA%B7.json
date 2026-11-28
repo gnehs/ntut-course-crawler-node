@@ -1,0 +1,38 @@
+{
+  "name": "賈文康",
+  "withdraw": 7,
+  "people": 86,
+  "rates": {
+    "all": "8.14",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "網路與多媒體",
+        "en": "Network and Multimedia"
+      },
+      "id": "180978",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "網路與多媒體",
+        "en": "Network and Multimedia"
+      },
+      "id": "177081",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "7",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

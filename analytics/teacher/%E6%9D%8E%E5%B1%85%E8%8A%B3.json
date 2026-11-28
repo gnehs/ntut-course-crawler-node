@@ -1,0 +1,51 @@
+{
+  "name": "李居芳",
+  "withdraw": 1,
+  "people": 85,
+  "rates": {
+    "all": "1.18",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "超低溫應用",
+        "en": "Cryogenic Application"
+      },
+      "id": "152122",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "新能源概論",
+        "en": "Introduction to new energy systems"
+      },
+      "id": "155622",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "超低溫應用",
+        "en": "Cryogenic Application"
+      },
+      "id": "147504",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

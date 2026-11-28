@@ -1,0 +1,805 @@
+{
+  "name": "盧宗成",
+  "withdraw": 14,
+  "people": 1255,
+  "rates": {
+    "all": "1.12",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "王者之道",
+        "en": "Doctrines of the Leader"
+      },
+      "id": "222865",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "王者之道",
+        "en": "Doctrines of the Leader"
+      },
+      "id": "222865",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與物流管理",
+        "en": "Supply Chain and Logistic Management"
+      },
+      "id": "209870",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物流管理",
+        "en": "Logistics Management"
+      },
+      "id": "215155",
+      "courseType": "★",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與物流管理",
+        "en": "Supply Chain and Logistic Management"
+      },
+      "id": "209870",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料分析與圖示",
+        "en": "Data Analysis and Graphics"
+      },
+      "id": "213026",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "作業研究(一)",
+        "en": "Operations Research I"
+      },
+      "id": "211139",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "王者之道",
+        "en": "Doctrines of the Leader"
+      },
+      "id": "212482",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "王者之道",
+        "en": "Doctrines of the Leader"
+      },
+      "id": "212482",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料分析與圖示",
+        "en": "Data Analysis and Graphics"
+      },
+      "id": "213026",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與物流管理",
+        "en": "Supply Chain and Logistic Management"
+      },
+      "id": "196408",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物流管理",
+        "en": "Logistics Management"
+      },
+      "id": "203007",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "2",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球運籌管理",
+        "en": "Global Logistics Management"
+      },
+      "id": "202104",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "王者之道",
+        "en": "Doctrines of the Leader"
+      },
+      "id": "202577",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與物流管理",
+        "en": "Supply Chain and Logistic Management"
+      },
+      "id": "196408",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球運籌管理",
+        "en": "Global Logistics Management"
+      },
+      "id": "202104",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "王者之道",
+        "en": "Doctrines of the Leader"
+      },
+      "id": "202577",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "192934",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "192947",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "183614",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析與績效評估",
+        "en": "Logistics Systems Decision Analysis and Performance Evaluation"
+      },
+      "id": "189460",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "183614",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "決策分析與績效評估",
+        "en": "Logistics Systems Decision Analysis and Performance Evaluation"
+      },
+      "id": "189460",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "大學入門",
+        "en": "First step to achieving the goals of universities"
+      },
+      "id": "180987",
+      "courseType": "△",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "184084",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業資源規劃與供應鏈管理",
+        "en": "Enterprise Resource Planning and Supply Chain Management"
+      },
+      "id": "187022",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "184084",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業資源規劃與供應鏈管理",
+        "en": "Enterprise Resource Planning and Supply Chain Management"
+      },
+      "id": "187022",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "174411",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析與績效評估",
+        "en": "Logistics Systems Decision Analysis and Performance Evaluation"
+      },
+      "id": "176948",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "174411",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "決策分析與績效評估",
+        "en": "Logistics Systems Decision Analysis and Performance Evaluation"
+      },
+      "id": "176948",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "167984",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "167997",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "169558",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "169558",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "165628",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "3",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物流系統決策分析與績效評估",
+        "en": "Logistics Systems Decision Analysis and Performance Evaluation"
+      },
+      "id": "166753",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "165628",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "3",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物流系統決策分析與績效評估",
+        "en": "Logistics Systems Decision Analysis and Performance Evaluation"
+      },
+      "id": "166753",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "149098",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "149111",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "150564",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "150564",
+      "courseType": "▲",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "線性規劃",
+        "en": "Linear Programming"
+      },
+      "id": "144579",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "146907",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "線性規劃",
+        "en": "Linear Programming"
+      },
+      "id": "144579",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "運籌系統分析",
+        "en": "Logistics System Analysis"
+      },
+      "id": "146907",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+      },
+      "id": "138298",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "139700",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "139700",
+      "courseType": "▲",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高等作業研究",
+        "en": "Advanced Operations Research"
+      },
+      "id": "134017",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "作業研究方法在運籌管理之應用",
+        "en": "Operation Research Models in Logistics Management"
+      },
+      "id": "134767",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高等作業研究",
+        "en": "Advanced Operations Research"
+      },
+      "id": "134017",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "作業研究方法在運籌管理之應用",
+        "en": "Operation Research Models in Logistics Management"
+      },
+      "id": "134767",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "128068",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "運輸系統分析",
+        "en": "Transportation System Analysis"
+      },
+      "id": "128070",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "供應鏈與運籌管理",
+        "en": "Supply Chain and Logistics Management"
+      },
+      "id": "128068",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "運輸系統分析",
+        "en": "Transportation System Analysis"
+      },
+      "id": "128070",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物流與供應鏈管理",
+        "en": "Logistics and Supply Chain Management"
+      },
+      "id": "115047",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物流管理",
+        "en": "Logistics Management"
+      },
+      "id": "116095",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "2",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

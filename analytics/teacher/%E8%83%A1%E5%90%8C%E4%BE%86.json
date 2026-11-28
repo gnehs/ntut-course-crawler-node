@@ -1,0 +1,4393 @@
+{
+  "name": "胡同來",
+  "withdraw": 23,
+  "people": 8056,
+  "rates": {
+    "all": "0.29",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "284918",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理研討",
+        "en": "Seminar in Marketing Management"
+      },
+      "id": "285623",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "286815",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "286872",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷與組織策略",
+        "en": "Brand Marketing and Organization Strategy"
+      },
+      "id": "288326",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "288457",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "284918",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理研討",
+        "en": "Seminar in Marketing Management"
+      },
+      "id": "285623",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "286815",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "286872",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷與組織策略",
+        "en": "Brand Marketing and Organization Strategy"
+      },
+      "id": "288326",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "288457",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "276436",
+      "courseType": "▲",
+      "people": "80",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "280724",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法特論",
+        "en": "Special Topics in Research Methodology"
+      },
+      "id": "281244",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷策略與企業併購",
+        "en": "Marketing Strategy and Business M&A"
+      },
+      "id": "280735",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "280749",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "280754",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "280974",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "280724",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷策略與企業併購",
+        "en": "Marketing Strategy and Business M&A"
+      },
+      "id": "280735",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "280749",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "280754",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "280974",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "研究方法特論",
+        "en": "Special Topics in Research Methodology"
+      },
+      "id": "281244",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "270757",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methods"
+      },
+      "id": "273267",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "273605",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "272801",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "組織理論與市場創新策略",
+        "en": "Organization Theory and Market Creative Strategy"
+      },
+      "id": "273883",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "270757",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "272801",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methods"
+      },
+      "id": "273267",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "273605",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "組織理論與市場創新策略",
+        "en": "Organization Theory and Market Creative Strategy"
+      },
+      "id": "273883",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "263772",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "266681",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "265545",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "265566",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "266524",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "服務策略與創新模式",
+        "en": "Service Strategy and Innovation Model"
+      },
+      "id": "267061",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "263772",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "265545",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "265566",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "266524",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "266681",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務策略與創新模式",
+        "en": "Service Strategy and Innovation Model"
+      },
+      "id": "267061",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "258238",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "258251",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "255055",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "259755",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "組織設計與資源策略",
+        "en": "Organization Design and Resource Strategy"
+      },
+      "id": "259826",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "255055",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "258238",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "258251",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "259755",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "組織設計與資源策略",
+        "en": "Organization Design and Resource Strategy"
+      },
+      "id": "259826",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "246307",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法專題研討",
+        "en": "Ph.D. Seminar in Research Methods"
+      },
+      "id": "249733",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "248142",
+      "courseType": "☆",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "248160",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "248194",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "246307",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "248142",
+      "courseType": "☆",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "248160",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "248194",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "研究方法專題研討",
+        "en": "Ph.D. Seminar in Research Methods"
+      },
+      "id": "249733",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "239522",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "239535",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "241322",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "241329",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "241344",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷與併購策略",
+        "en": "Brand Marketing and M&A Strategy"
+      },
+      "id": "242197",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "242801",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "239522",
+      "courseType": "▲",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "239535",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "241322",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "241329",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "241344",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷與併購策略",
+        "en": "Brand Marketing and M&A Strategy"
+      },
+      "id": "242197",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "242801",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "226086",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "226098",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理研討",
+        "en": "Seminar in Marketing Management"
+      },
+      "id": "229354",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "227768",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "227773",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "227786",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "229211",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "持續性企業策略管理",
+        "en": "Sustainable Corporate Strategic Management"
+      },
+      "id": "229319",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "226086",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "226098",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "227768",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "227773",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "227786",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "229211",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "持續性企業策略管理",
+        "en": "Sustainable Corporate Strategic Management"
+      },
+      "id": "229319",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理研討",
+        "en": "Seminar in Marketing Management"
+      },
+      "id": "229354",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "219858",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "221993",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "222652",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "222698",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "222880",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "222962",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "219858",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "221993",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "222652",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "222698",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "222880",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "222962",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "210259",
+      "courseType": "▲",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "210274",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略理論研討",
+        "en": "Seminar of Strategic Theory"
+      },
+      "id": "210795",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "216453",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "214732",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "215006",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "持續性企業策略管理",
+        "en": "Sustainable Corporate Strategic Management"
+      },
+      "id": "216264",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "216468",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "210259",
+      "courseType": "▲",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "210274",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略理論研討",
+        "en": "Seminar of Strategic Theory"
+      },
+      "id": "210795",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "214732",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "215006",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "持續性企業策略管理",
+        "en": "Sustainable Corporate Strategic Management"
+      },
+      "id": "216264",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "216453",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際市場行銷策略",
+        "en": "International Marketing Strategy"
+      },
+      "id": "216468",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "205745",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "206941",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理決策模式",
+        "en": "Model of Managerial Decision Making"
+      },
+      "id": "213455",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "社會科學研究方法",
+        "en": "Research Methods in the Social Science"
+      },
+      "id": "213456",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "211899",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "213014",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "213015",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "213150",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "206941",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "1",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "211899",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "213014",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "213015",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "213150",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理決策模式",
+        "en": "Model of Managerial Decision Making"
+      },
+      "id": "213455",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "社會科學研究方法",
+        "en": "Research Methods in the Social Science"
+      },
+      "id": "213456",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "196800",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "196820",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "整合行銷溝通",
+        "en": "Integrated Marketing Communication"
+      },
+      "id": "196826",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷專題研討",
+        "en": "Seminar on Marketing"
+      },
+      "id": "203354",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "202110",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "202116",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "202121",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "持續性企業策略管理",
+        "en": "Sustainable Corporate Strategic Management"
+      },
+      "id": "202564",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "196800",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "196820",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "整合行銷溝通",
+        "en": "Integrated Marketing Communication"
+      },
+      "id": "196826",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "202110",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "202116",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "202121",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "持續性企業策略管理",
+        "en": "Sustainable Corporate Strategic Management"
+      },
+      "id": "202564",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷專題研討",
+        "en": "Seminar on Marketing"
+      },
+      "id": "203354",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "192536",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "199546",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "199794",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "198265",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "198517",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "200585",
+      "courseType": "▲",
+      "people": "77",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "198265",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "198517",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "199546",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "199794",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "200585",
+      "courseType": "▲",
+      "people": "77",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "183083",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "183099",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "188785",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "183083",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "183099",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷策略",
+        "en": "Brand Marketing Strategy"
+      },
+      "id": "188785",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Independent Study"
+      },
+      "id": "173145",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略理論研討",
+        "en": "Seminar of Strategic Theory"
+      },
+      "id": "178058",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "175311",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "175319",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "175321",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "國際企業協商談判",
+        "en": "Negotiation in International Business"
+      },
+      "id": "176971",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "175311",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "175319",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "175321",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "國際企業協商談判",
+        "en": "Negotiation in International Business"
+      },
+      "id": "176971",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略理論研討",
+        "en": "Seminar of Strategic Theory"
+      },
+      "id": "178058",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "169191",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究成果商品化",
+        "en": "The Commercialization of Research Results"
+      },
+      "id": "175485",
+      "courseType": "★",
+      "people": "63",
+      "peopleWithdraw": "2",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "176091",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "商業法規與經營實務",
+        "en": "Business Law and Practice"
+      },
+      "id": "176233",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research"
+      },
+      "id": "170672",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "170677",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "175528",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "169191",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research"
+      },
+      "id": "170672",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "170677",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "研究成果商品化",
+        "en": "The Commercialization of Research Results"
+      },
+      "id": "175485",
+      "courseType": "★",
+      "people": "63",
+      "peopleWithdraw": "2",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球組織經營策略暨領導決策",
+        "en": "Global Organization's Management Strategies and Leadership Decision"
+      },
+      "id": "175528",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "176091",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "153061",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球行銷通路策略與管理",
+        "en": "Global Marketing Channel Strategy and Management"
+      },
+      "id": "166485",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "157462",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "157469",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "157471",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球企業協商談判與管理",
+        "en": "Negotiation and Management in Global Business"
+      },
+      "id": "166403",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "153061",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "157462",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "157469",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "海外管理實務觀摩與研習",
+        "en": "Overseas Management Studies"
+      },
+      "id": "157471",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球企業協商談判與管理",
+        "en": "Negotiation and Management in Global Business"
+      },
+      "id": "166403",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球行銷通路策略與管理",
+        "en": "Global Marketing Channel Strategy and Management"
+      },
+      "id": "166485",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "150222",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理專題與模式研討",
+        "en": "Doctoral Seminar in Management and Models"
+      },
+      "id": "156375",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research"
+      },
+      "id": "154866",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "156654",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "150222",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research"
+      },
+      "id": "154866",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理專題與模式研討",
+        "en": "Doctoral Seminar in Management and Models"
+      },
+      "id": "156375",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "經營管理研討",
+        "en": "Business Management Seminar"
+      },
+      "id": "156654",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "147460",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理專題",
+        "en": "Seminar on Channel Strategy and Management"
+      },
+      "id": "147461",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "146444",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "147638",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "146444",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "147460",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理專題",
+        "en": "Seminar on Channel Strategy and Management"
+      },
+      "id": "147461",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+      },
+      "id": "147638",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "138657",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "141912",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research"
+      },
+      "id": "141489",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research"
+      },
+      "id": "141489",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "141912",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Independent Study"
+      },
+      "id": "133589",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "136930",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "136931",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大中華圈管理哲學（EMBA）",
+        "en": "Philosophy of Management"
+      },
+      "id": "135703",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理（EMBA)",
+        "en": "Strategic Management（EMBA）"
+      },
+      "id": "135713",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大中華圈管理哲學（EMBA）",
+        "en": "Philosophy of Management"
+      },
+      "id": "135703",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理（EMBA)",
+        "en": "Strategic Management（EMBA）"
+      },
+      "id": "135713",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "136930",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "136931",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Independent Study"
+      },
+      "id": "126890",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "126907",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "129935",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷（EMBA）",
+        "en": "Brand Marketing（EMBA）"
+      },
+      "id": "129034",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷（EMBA）",
+        "en": "Brand Marketing（EMBA）"
+      },
+      "id": "129034",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球品牌管理",
+        "en": "Global Brand Management"
+      },
+      "id": "129935",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "獨立研究",
+        "en": "Independent Study"
+      },
+      "id": "122135",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "122136",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理（EMBA)",
+        "en": "Strategic Management（EMBA）"
+      },
+      "id": "120958",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "策略管理（EMBA)",
+        "en": "Strategic Management（EMBA）"
+      },
+      "id": "120958",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "獨立研究",
+        "en": "Independent Study"
+      },
+      "id": "122135",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路管理",
+        "en": "Marketing Channel Management"
+      },
+      "id": "122136",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+      },
+      "id": "113790",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "114465",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷（EMBA）",
+        "en": "Brand Marketing（EMBA）"
+      },
+      "id": "119829",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "114465",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌行銷（EMBA）",
+        "en": "Brand Marketing（EMBA）"
+      },
+      "id": "119829",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷專題研討",
+        "en": "Seminar on Marketing"
+      },
+      "id": "111824",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務與溝通行銷研討",
+        "en": "Services and Communication Marketing"
+      },
+      "id": "111825",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業策略管理（EMBA）",
+        "en": "Business Strategic Management（EMBA）"
+      },
+      "id": "110950",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業策略管理（EMBA）",
+        "en": "Business Strategic Management（EMBA）"
+      },
+      "id": "110950",
+      "courseType": "▲",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷專題研討",
+        "en": "Seminar on Marketing"
+      },
+      "id": "111824",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務與溝通行銷研討",
+        "en": "Services and Communication Marketing"
+      },
+      "id": "111825",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Independent Study"
+      },
+      "id": "103887",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "109511",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌與通路策略研討",
+        "en": "Seminar in Brand and Channel Strategy"
+      },
+      "id": "109514",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "全球行銷管理（EMBA）",
+        "en": "Global Marketing Management（EMBA）"
+      },
+      "id": "109682",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "方法論",
+        "en": "Methodology"
+      },
+      "id": "109511",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌與通路策略研討",
+        "en": "Seminar in Brand and Channel Strategy"
+      },
+      "id": "109514",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "全球行銷管理（EMBA）",
+        "en": "Global Marketing Management（EMBA）"
+      },
+      "id": "109682",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "93131",
+      "courseType": "★",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "94093",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "94598",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "94598",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務行銷",
+        "en": "Service Marketing"
+      },
+      "id": "84126",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路與品牌策略",
+        "en": "Marketing Channel and Brand Strategy"
+      },
+      "id": "84222",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "92443",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理研討",
+        "en": "Seminar on Marketing Management"
+      },
+      "id": "92448",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷通路與品牌策略",
+        "en": "Marketing Channel and Brand Strategy"
+      },
+      "id": "84222",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理研討",
+        "en": "Seminar on Marketing Management"
+      },
+      "id": "92448",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "83960",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "84016",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "84070",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品牌與設計行銷",
+        "en": "Brand and Design Marketing"
+      },
+      "id": "90708",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "84070",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "品牌與設計行銷",
+        "en": "Brand and Design Marketing"
+      },
+      "id": "90708",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路與品牌策略",
+        "en": "Marketing Channel and Brand Strategy"
+      },
+      "id": "83710",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務行銷",
+        "en": "Service Marketing"
+      },
+      "id": "83734",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "領導與公司治理",
+        "en": "Leadership and Corporate Governance"
+      },
+      "id": "83700",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "領導與公司治理",
+        "en": "Leadership and Corporate Governance"
+      },
+      "id": "83700",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷通路與品牌策略",
+        "en": "Marketing Channel and Brand Strategy"
+      },
+      "id": "83710",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "75742",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "1",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "76710",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "77180",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務行銷",
+        "en": "Service Marketing"
+      },
+      "id": "81709",
+      "courseType": "★",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "高科技行銷",
+        "en": "Ｈigh-Tech Marketing"
+      },
+      "id": "81878",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "77180",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "高科技行銷",
+        "en": "Ｈigh-Tech Marketing"
+      },
+      "id": "81878",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "物流管理",
+        "en": "Logistics Management"
+      },
+      "id": "69705",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "69733",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "70671",
+      "courseType": "★",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "71559",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "74619",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "71559",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "74619",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "67446",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "67453",
+      "courseType": "★",
+      "people": "69",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務業管理",
+        "en": "Service Management"
+      },
+      "id": "68422",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "71537",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "72490",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "71537",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "72490",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "商務談判",
+        "en": "Commercial Negotiation"
+      },
+      "id": "61870",
+      "courseType": "★",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷學",
+        "en": "Marketing"
+      },
+      "id": "62753",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "63228",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "66862",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "63228",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通路策略與管理",
+        "en": "Channel Management"
+      },
+      "id": "66862",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "59624",
+      "courseType": "★",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "59630",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務業管理",
+        "en": "Service Management"
+      },
+      "id": "60654",
+      "courseType": "★",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "61152",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "研究方法",
+        "en": "Research Methodology"
+      },
+      "id": "61152",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務業管理",
+        "en": "Service Management"
+      },
+      "id": "51584",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織行為",
+        "en": "Organization Behavior"
+      },
+      "id": "52031",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷學",
+        "en": "Marketing"
+      },
+      "id": "52830",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務系統設計",
+        "en": "Service system design"
+      },
+      "id": "53244",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "服務系統設計",
+        "en": "Service system design"
+      },
+      "id": "58021",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "服務系統設計",
+        "en": "Service system design"
+      },
+      "id": "53244",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "服務系統設計",
+        "en": "Service system design"
+      },
+      "id": "58021",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理資訊系統",
+        "en": "Management Information System"
+      },
+      "id": "49511",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "49914",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "策略管理",
+        "en": "Strategy Management"
+      },
+      "id": "49929",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織行為",
+        "en": "Organization Behavior"
+      },
+      "id": "50728",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "型態管理",
+        "en": "Configuration Management"
+      },
+      "id": "51148",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "型態管理",
+        "en": "Configuration Management"
+      },
+      "id": "55012",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "型態管理",
+        "en": "Configuration Management"
+      },
+      "id": "51148",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "型態管理",
+        "en": "Configuration Management"
+      },
+      "id": "55012",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

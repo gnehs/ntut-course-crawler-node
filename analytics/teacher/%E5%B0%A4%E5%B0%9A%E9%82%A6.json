@@ -1,0 +1,974 @@
+{
+  "name": "尤尚邦",
+  "withdraw": 46,
+  "people": 1501,
+  "rates": {
+    "all": "3.06",
+    "recent5Years": "3.06",
+    "recent3Years": "4.28"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "362701",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "10",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接技術",
+        "en": "Welding Technology"
+      },
+      "id": "362704",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接冶金",
+        "en": "Welding Metallurgy"
+      },
+      "id": "365143",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "銲接冶金",
+        "en": "Welding Metallurgy"
+      },
+      "id": "365143",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題二",
+        "en": "Special Practical Projects II"
+      },
+      "id": "354780",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料力學",
+        "en": "Mechanics of Materials"
+      },
+      "id": "355379",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "4",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦輔助製圖",
+        "en": "Computer aided drawing"
+      },
+      "id": "355924",
+      "courseType": "▲",
+      "people": "27",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際技能競賽實作二",
+        "en": "Implementation of World-Skills Competition (2)"
+      },
+      "id": "355930",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數控工具機及實驗",
+        "en": "NC Machine and Lab"
+      },
+      "id": "360413",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自主學習二",
+        "en": "Autonomous Learning II"
+      },
+      "id": "364778",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "360006",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "360006",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題一",
+        "en": "Special Practical Projects I"
+      },
+      "id": "348115",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "348638",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接技術",
+        "en": "Welding Technology"
+      },
+      "id": "348641",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大學入門與工程倫理",
+        "en": "First step to achieving the goals of universities and Engineering Ethics"
+      },
+      "id": "349186",
+      "courseType": "△",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自主學習一",
+        "en": "Autonomous Learning I"
+      },
+      "id": "358131",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接冶金",
+        "en": "Welding Metallurgy"
+      },
+      "id": "351112",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "銲接冶金",
+        "en": "Welding Metallurgy"
+      },
+      "id": "351112",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題二",
+        "en": "Special Practical Projects II"
+      },
+      "id": "340798",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料力學",
+        "en": "Mechanics of Materials"
+      },
+      "id": "341371",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "3",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦輔助製圖",
+        "en": "Computer aided drawing"
+      },
+      "id": "341915",
+      "courseType": "▲",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自主學習二",
+        "en": "Autonomous Learning II"
+      },
+      "id": "350694",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "344360",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "344360",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題一",
+        "en": "Special Practical Projects I"
+      },
+      "id": "334332",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專業精進實作一",
+        "en": "Professional progress internship I"
+      },
+      "id": "334836",
+      "courseType": "★",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "334837",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "4",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接技術",
+        "en": "Welding Technology"
+      },
+      "id": "334840",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "學期制企業實習一",
+        "en": "Semester enterprise internship I"
+      },
+      "id": "337872",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自主學習一",
+        "en": "Autonomous Learning I"
+      },
+      "id": "343975",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接冶金",
+        "en": "Welding Metallurgy"
+      },
+      "id": "338658",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "銲接冶金",
+        "en": "Welding Metallurgy"
+      },
+      "id": "338658",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專業精進實作二",
+        "en": "Professional progress internship II"
+      },
+      "id": "327560",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料力學",
+        "en": "Mechanics of Materials"
+      },
+      "id": "327561",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "7",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦輔助製圖",
+        "en": "Computer aided drawing"
+      },
+      "id": "328096",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專業深根實習一",
+        "en": "Professional Deep Internship (1)"
+      },
+      "id": "328097",
+      "courseType": "★",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "331494",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "自主學習二",
+        "en": "Autonomous Learning II"
+      },
+      "id": "332863",
+      "courseType": "★",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "330150",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "330150",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "331494",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "320186",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大學入門與工程倫理",
+        "en": "First step to achieving the goals of universities and Engineering Ethics"
+      },
+      "id": "320732",
+      "courseType": "△",
+      "people": "28",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國際技能競賽實作一",
+        "en": "Implementation of World-Skills Competition (1)"
+      },
+      "id": "320738",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智能工廠專題實作(一)",
+        "en": "Special subjects for intelligent factory"
+      },
+      "id": "323577",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接技術",
+        "en": "Welding Technology"
+      },
+      "id": "323771",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "離岸風電結構與材料基礎及分析",
+        "en": "Foundation and Analysis of structure and material on Offshore Wind Power"
+      },
+      "id": "323778",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "離岸風電結構與材料基礎及分析",
+        "en": "Foundation and Analysis of structure and material on Offshore Wind Power"
+      },
+      "id": "323573",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "離岸風電結構與材料基礎及分析",
+        "en": "Foundation and Analysis of structure and material on Offshore Wind Power"
+      },
+      "id": "323573",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "離岸風電結構與材料基礎及分析",
+        "en": "Foundation and Analysis of structure and material on Offshore Wind Power"
+      },
+      "id": "323778",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "專業精進實作二",
+        "en": "Professional progress internship II"
+      },
+      "id": "312932",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料力學",
+        "en": "Mechanics of Materials"
+      },
+      "id": "312933",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦輔助製圖",
+        "en": "Computer aided drawing"
+      },
+      "id": "313438",
+      "courseType": "▲",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "316636",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "316929",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "316636",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "材料與結構非破壞檢測",
+        "en": "Non-Destructive Testing of Materials and Structures"
+      },
+      "id": "316929",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "靜力學",
+        "en": "Statics"
+      },
+      "id": "305609",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機械製圖",
+        "en": "Mechanical Drawing"
+      },
+      "id": "309158",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接技術",
+        "en": "Welding Technology"
+      },
+      "id": "309159",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "銲接技術",
+        "en": "Welding Technology"
+      },
+      "id": "309846",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (2)"
+      },
+      "id": "307535",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "離岸風電結構與材料基礎及分析",
+        "en": "Foundation and Analysis of structure and material on Offshore Wind Power"
+      },
+      "id": "309005",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "離岸風電結構與材料基礎及分析",
+        "en": "Foundation and Analysis of structure and material on Offshore Wind Power"
+      },
+      "id": "309005",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "材料力學",
+        "en": "Mechanics of Materials"
+      },
+      "id": "297149",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "2",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專業基礎實習(二)",
+        "en": "Machine Shop (II)"
+      },
+      "id": "297547",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦輔助製圖",
+        "en": "Computer aided drawing"
+      },
+      "id": "297701",
+      "courseType": "▲",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機械工程實驗(一)",
+        "en": "Mechanical Engineering Lab. (I)"
+      },
+      "id": "300436",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題(一)",
+        "en": "Special Project (I)"
+      },
+      "id": "300437",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "機械工程實驗(二)",
+        "en": "Mechanical Engineering Lab. (II)"
+      },
+      "id": "291198",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專業基礎實習(一)",
+        "en": "Machine Shop (I)"
+      },
+      "id": "292729",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "機械工程實驗(二)",
+        "en": "Mechanical Engineering Lab. (II)"
+      },
+      "id": "289069",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "熱力學",
+        "en": "Thermodynamics"
+      },
+      "id": "289155",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "楊昭義",
+  "withdraw": 1,
+  "people": 90,
+  "rates": {
+    "all": "1.11",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "核工原理",
+        "en": "Principles of Nuclear Engineering"
+      },
+      "id": "156054",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎核工原理",
+        "en": "Introduction to Nuclear Engineering"
+      },
+      "id": "141468",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎核工原理",
+        "en": "Introduction to Nuclear Engineering"
+      },
+      "id": "129563",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

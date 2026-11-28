@@ -1,0 +1,831 @@
+{
+  "name": "陳正中",
+  "withdraw": 37,
+  "people": 2501,
+  "rates": {
+    "all": "1.48",
+    "recent5Years": "1.48",
+    "recent3Years": "1.22"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "361223",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "366869",
+      "courseType": "△",
+      "people": "85",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創新與創業",
+        "en": "Innovation and Entrepreneurship"
+      },
+      "id": "366877",
+      "courseType": "△",
+      "people": "81",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "364909",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "359537",
+      "courseType": "△",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "360286",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品質管理實習",
+        "en": "Quality Control Lab."
+      },
+      "id": "358241",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "347198",
+      "courseType": "★",
+      "people": "57",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "353011",
+      "courseType": "△",
+      "people": "74",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "350859",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "346146",
+      "courseType": "△",
+      "people": "94",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創新與創業",
+        "en": "Innovation and Entrepreneurship"
+      },
+      "id": "346277",
+      "courseType": "△",
+      "people": "95",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創新與創業",
+        "en": "Innovation and Entrepreneurship"
+      },
+      "id": "346369",
+      "courseType": "△",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "333450",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理與商業智慧",
+        "en": "Customer Relationship Management and Business Intelligence"
+      },
+      "id": "333451",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧營運管理",
+        "en": "Intelligent Operations Management"
+      },
+      "id": "334078",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電商經營實務",
+        "en": "E-commerce management"
+      },
+      "id": "334083",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物流運籌管理",
+        "en": "Logistics Management"
+      },
+      "id": "338079",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "339033",
+      "courseType": "△",
+      "people": "75",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "336749",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "5",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理與商業智慧",
+        "en": "Customer Relationship Management and Business Intelligence"
+      },
+      "id": "336750",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+      },
+      "id": "336799",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電商經營實務",
+        "en": "E-commerce management"
+      },
+      "id": "336803",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "物流運籌管理",
+        "en": "Logistics Management"
+      },
+      "id": "338081",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "智慧營運管理",
+        "en": "Intelligent Operations Management"
+      },
+      "id": "338456",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "327815",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "327816",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "327828",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "327829",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "332198",
+      "courseType": "△",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "330906",
+      "courseType": "▲",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "330907",
+      "courseType": "▲",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "程式語言(二)",
+        "en": "Programming Language"
+      },
+      "id": "330908",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "318787",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧導論與程式語言 (一)",
+        "en": "Introduction to Artificial Intelligence and Programming Languages (1)"
+      },
+      "id": "324221",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人工智慧導論與程式語言 (一)",
+        "en": "Introduction to Artificial Intelligence and Programming Languages (1)"
+      },
+      "id": "324222",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧營運管理",
+        "en": "Intelligent Operations Management"
+      },
+      "id": "325074",
+      "courseType": "★",
+      "people": "1",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "322164",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+      },
+      "id": "322221",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "程式語言(一)",
+        "en": "Programming Language"
+      },
+      "id": "323276",
+      "courseType": "▲",
+      "people": "17",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料分析與圖示",
+        "en": "Data Analysis and Graphics"
+      },
+      "id": "323979",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "智慧營運管理",
+        "en": "Intelligent Operations Management"
+      },
+      "id": "325079",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "313178",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "313179",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "313190",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "313191",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "317570",
+      "courseType": "△",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "316112",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "316113",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "設施規劃",
+        "en": "Facilities Planning"
+      },
+      "id": "304144",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "4",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "產業分析",
+        "en": "Business Analysis"
+      },
+      "id": "304871",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+      },
+      "id": "304879",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "309927",
+      "courseType": "△",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurial"
+      },
+      "id": "310033",
+      "courseType": "△",
+      "people": "58",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業倫理",
+        "en": "Business Ethics"
+      },
+      "id": "307723",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+      },
+      "id": "307724",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "產業分析",
+        "en": "Business Analysis"
+      },
+      "id": "307727",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "作業研究(一)",
+        "en": "Operations Research I"
+      },
+      "id": "307792",
+      "courseType": "▲",
+      "people": "76",
+      "peopleWithdraw": "4",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工作研究",
+        "en": "Work Study"
+      },
+      "id": "297413",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工作研究實習",
+        "en": "Work Study Practice"
+      },
+      "id": "297414",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物流運籌管理",
+        "en": "Logistics Management"
+      },
+      "id": "302768",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程經濟",
+        "en": "Engineering Economics"
+      },
+      "id": "300505",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "物流運籌管理",
+        "en": "Logistics Management"
+      },
+      "id": "302923",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    }
+  ]
+}

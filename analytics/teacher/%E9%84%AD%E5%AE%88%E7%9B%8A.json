@@ -1,0 +1,38 @@
+{
+  "name": "鄭守益",
+  "withdraw": 1,
+  "people": 20,
+  "rates": {
+    "all": "5.00",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "數位表現技法(一)",
+        "en": "Digital Rendering（Ⅰ）"
+      },
+      "id": "204023",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位表現技法(二)",
+        "en": "Digital Rendering（Ⅱ）"
+      },
+      "id": "184172",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

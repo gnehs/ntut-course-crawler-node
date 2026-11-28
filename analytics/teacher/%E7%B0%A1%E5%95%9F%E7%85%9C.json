@@ -1,0 +1,857 @@
+{
+  "name": "簡啟煜",
+  "withdraw": 50,
+  "people": 4523,
+  "rates": {
+    "all": "1.11",
+    "recent5Years": "1.27",
+    "recent3Years": "1.55"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "法學概論",
+        "en": "Introduction to Law"
+      },
+      "id": "366773",
+      "courseType": "△",
+      "people": "91",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "366809",
+      "courseType": "△",
+      "people": "91",
+      "peopleWithdraw": "4",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "366817",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "4",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "366770",
+      "courseType": "△",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "360171",
+      "courseType": "△",
+      "people": "74",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "360181",
+      "courseType": "△",
+      "people": "76",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "359644",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "352933",
+      "courseType": "△",
+      "people": "83",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "352941",
+      "courseType": "△",
+      "people": "89",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "法學概論",
+        "en": "Introduction to Law"
+      },
+      "id": "352958",
+      "courseType": "△",
+      "people": "86",
+      "peopleWithdraw": "4",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧財產權",
+        "en": "Intellectual Property"
+      },
+      "id": "352248",
+      "courseType": "△",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "346117",
+      "courseType": "△",
+      "people": "88",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "346126",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "346149",
+      "courseType": "△",
+      "people": "89",
+      "peopleWithdraw": "5",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "345861",
+      "courseType": "△",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "339019",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "339026",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "智慧財產權",
+        "en": "Intellectual Property"
+      },
+      "id": "338503",
+      "courseType": "△",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "332195",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "332205",
+      "courseType": "△",
+      "people": "91",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "332233",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "331994",
+      "courseType": "△",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "324634",
+      "courseType": "△",
+      "people": "150",
+      "peopleWithdraw": "3",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "324644",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "324655",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "324014",
+      "courseType": "△",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "317565",
+      "courseType": "△",
+      "people": "88",
+      "peopleWithdraw": "5",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "317576",
+      "courseType": "△",
+      "people": "89",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "317384",
+      "courseType": "△",
+      "people": "77",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "310028",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "310084",
+      "courseType": "△",
+      "people": "89",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "310116",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "1",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "309825",
+      "courseType": "△",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "302922",
+      "courseType": "△",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "303029",
+      "courseType": "△",
+      "people": "90",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "303071",
+      "courseType": "△",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "303135",
+      "courseType": "△",
+      "people": "93",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "302366",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "299557",
+      "courseType": "△",
+      "people": "73",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "299616",
+      "courseType": "△",
+      "people": "88",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "299624",
+      "courseType": "△",
+      "people": "88",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "294707",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "288185",
+      "courseType": "△",
+      "people": "80",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "288280",
+      "courseType": "△",
+      "people": "93",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "288291",
+      "courseType": "△",
+      "people": "93",
+      "peopleWithdraw": "4",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "287695",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "280892",
+      "courseType": "△",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "281023",
+      "courseType": "△",
+      "people": "67",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "281034",
+      "courseType": "△",
+      "people": "71",
+      "peopleWithdraw": "3",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "憲法與人權",
+        "en": "Constitution and Human Rights"
+      },
+      "id": "281094",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "280284",
+      "courseType": "△",
+      "people": "62",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "法學概論",
+        "en": "Introduction to Law"
+      },
+      "id": "273946",
+      "courseType": "△",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "法學概論",
+        "en": "Introduction to Law"
+      },
+      "id": "273962",
+      "courseType": "△",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "法學概論",
+        "en": "Introduction to Law"
+      },
+      "id": "273467",
+      "courseType": "△",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "273485",
+      "courseType": "△",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "266656",
+      "courseType": "△",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "259680",
+      "courseType": "△",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "249405",
+      "courseType": "△",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "242222",
+      "courseType": "△",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "235593",
+      "courseType": "△",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "228437",
+      "courseType": "△",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "智慧財產權",
+        "en": "Intellectual Property"
+      },
+      "id": "222133",
+      "courseType": "△",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "222219",
+      "courseType": "△",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "民法概要",
+        "en": "Introduction to Civil Law"
+      },
+      "id": "215785",
+      "courseType": "△",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "智慧財產權",
+        "en": "Intellectual Property"
+      },
+      "id": "213159",
+      "courseType": "△",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

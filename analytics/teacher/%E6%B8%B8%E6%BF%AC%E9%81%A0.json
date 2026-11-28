@@ -1,0 +1,545 @@
+{
+  "name": "游濬遠",
+  "withdraw": 10,
+  "people": 1595,
+  "rates": {
+    "all": "0.63",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "245571",
+      "courseType": "▲",
+      "people": "71",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大數據分析",
+        "en": "Big Data Analysis"
+      },
+      "id": "249415",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析",
+        "en": "Big Data Analysis"
+      },
+      "id": "249415",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "程式設計",
+        "en": "Programming Design"
+      },
+      "id": "238780",
+      "courseType": "★",
+      "people": "65",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "投資實務",
+        "en": "Investment Practice"
+      },
+      "id": "242196",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "投資實務",
+        "en": "Investment Practice"
+      },
+      "id": "242196",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "232088",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與商業智慧",
+        "en": "Data Mining and Business Intelligence"
+      },
+      "id": "234287",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與商業智慧",
+        "en": "Data Mining and Business Intelligence"
+      },
+      "id": "234287",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "程式設計",
+        "en": "Programming Design"
+      },
+      "id": "225453",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "229061",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "229061",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "219145",
+      "courseType": "▲",
+      "people": "73",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與資料探勘",
+        "en": "Big Data Analysis and Data Mining"
+      },
+      "id": "222651",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "大數據分析與資料探勘",
+        "en": "Big Data Analysis and Data Mining"
+      },
+      "id": "222651",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "資料庫系統與應用",
+        "en": "Database System and Database System and Applications"
+      },
+      "id": "209052",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "3",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "214163",
+      "courseType": "★",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+      },
+      "id": "206243",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與商業智慧",
+        "en": "Data Mining and Business Intelligence"
+      },
+      "id": "211655",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "資料探勘與商業智慧",
+        "en": "Data Mining and Business Intelligence"
+      },
+      "id": "211655",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "程式設計",
+        "en": "Programming Design"
+      },
+      "id": "201030",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "191538",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理科學",
+        "en": "Management Science"
+      },
+      "id": "183125",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "180291",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生產作業與管理專題",
+        "en": "Seminar on Production & Operations Management"
+      },
+      "id": "174714",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "170062",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理數學",
+        "en": "Management Mathematics"
+      },
+      "id": "152275",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生產作業與管理專題",
+        "en": "Seminar on Production & Operations Management"
+      },
+      "id": "154104",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "153926",
+      "courseType": "★",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "作業管理",
+        "en": "Operation Management"
+      },
+      "id": "144176",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生產作業與管理專題",
+        "en": "Seminar on Production & Operations Management"
+      },
+      "id": "145883",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "138633",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "142167",
+      "courseType": "★",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "應用迴歸分析",
+        "en": "Applied Regression Analysis"
+      },
+      "id": "133595",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生產作業與管理專題",
+        "en": "Seminar on Production & Operations Management"
+      },
+      "id": "135153",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "126886",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "決策分析",
+        "en": "Decision Analysis"
+      },
+      "id": "128354",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "應用迴歸分析",
+        "en": "Applied Regression Analysis"
+      },
+      "id": "116473",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "2",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "生產作業與管理",
+        "en": "Production & Operations Management"
+      },
+      "id": "120412",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "電子商務",
+        "en": "Electronic Commerce"
+      },
+      "id": "119889",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "生產作業與管理",
+        "en": "Production & Operations Management"
+      },
+      "id": "110417",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "進修部"
+    }
+  ]
+}

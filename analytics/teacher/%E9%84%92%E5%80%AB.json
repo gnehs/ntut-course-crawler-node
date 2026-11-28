@@ -1,0 +1,38 @@
+{
+  "name": "鄒倫",
+  "withdraw": 1,
+  "people": 101,
+  "rates": {
+    "all": "0.99",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "環境工程",
+        "en": "Environmental Engineering"
+      },
+      "id": "51443",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "環境科學與工程",
+        "en": "Environmental Science and Engineering"
+      },
+      "id": "54080",
+      "courseType": "★",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

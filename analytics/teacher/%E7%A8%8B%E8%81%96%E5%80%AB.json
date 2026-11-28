@@ -1,0 +1,896 @@
+{
+  "name": "程聖倫",
+  "withdraw": 4,
+  "people": 906,
+  "rates": {
+    "all": "0.44",
+    "recent5Years": "0.44",
+    "recent3Years": "0.48"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "363791",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "366679",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "366699",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "365299",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "363791",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "365299",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "366679",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "366699",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育統計學",
+        "en": "Statistics in Education"
+      },
+      "id": "356410",
+      "courseType": "▲",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "356424",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織學習與知識管理",
+        "en": "Organizational Learning & Knowledge Management"
+      },
+      "id": "356430",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "校務研究：教育場域數據分析實作",
+        "en": "Institutional research: the application of data science in education"
+      },
+      "id": "360358",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "應用人工智慧於教育專題製作",
+        "en": "Application of Artificial Intelligence in Educational Data Analysis Projects"
+      },
+      "id": "360359",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "360009",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "教育統計學",
+        "en": "Statistics in Education"
+      },
+      "id": "356410",
+      "courseType": "▲",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "356424",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "組織學習與知識管理",
+        "en": "Organizational Learning & Knowledge Management"
+      },
+      "id": "356430",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "360009",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "349659",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "352366",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "352470",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "學習分析於PBL實務專題製作",
+        "en": "PBL Based Projects in Learning Analysis"
+      },
+      "id": "357734",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "351267",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "349659",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "351267",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "352366",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "352470",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育統計學",
+        "en": "Statistics in Education"
+      },
+      "id": "342383",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "342397",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "員工生涯規劃與經營",
+        "en": "Career Planning and Management for Employees"
+      },
+      "id": "345968",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "應用人工智慧於教育專題製作",
+        "en": "Application of Artificial Intelligence in Educational Data Analysis Projects"
+      },
+      "id": "346397",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "345971",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "教育統計學",
+        "en": "Statistics in Education"
+      },
+      "id": "342383",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "342397",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "員工生涯規劃與經營",
+        "en": "Career Planning and Management for Employees"
+      },
+      "id": "345968",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "345971",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "338745",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "338746",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "338748",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "337186",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "337186",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "338745",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "338746",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "338748",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "328582",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "員工生涯規劃與經營",
+        "en": "Career Planning and Management for Employees"
+      },
+      "id": "328587",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織學習與知識管理",
+        "en": "Organizational Learning & Knowledge Management"
+      },
+      "id": "328588",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "332337",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "328582",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "員工生涯規劃與經營",
+        "en": "Career Planning and Management for Employees"
+      },
+      "id": "328587",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "組織學習與知識管理",
+        "en": "Organizational Learning & Knowledge Management"
+      },
+      "id": "328588",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "332337",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "321187",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "323974",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "324579",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "322662",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "管理心理學",
+        "en": "Psychology of management"
+      },
+      "id": "321187",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "322662",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "教育訓練實施與績效評鑑",
+        "en": "Training implementation and evalucation"
+      },
+      "id": "323974",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "多變項統計分析",
+        "en": "Statistics Analysis of Multi-Variance"
+      },
+      "id": "324579",
+      "courseType": "★",
+      "people": "8",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "313912",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "員工生涯規劃與經營",
+        "en": "Career Planning and Management for Employees"
+      },
+      "id": "313917",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織學習與知識管理",
+        "en": "Organizational Learning & Knowledge Management"
+      },
+      "id": "317185",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "317194",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "313912",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "員工生涯規劃與經營",
+        "en": "Career Planning and Management for Employees"
+      },
+      "id": "313917",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "組織學習與知識管理",
+        "en": "Organizational Learning & Knowledge Management"
+      },
+      "id": "317185",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "人力資源發展",
+        "en": "Human Resource Development"
+      },
+      "id": "317194",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

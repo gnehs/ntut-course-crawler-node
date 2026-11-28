@@ -1,0 +1,584 @@
+{
+  "name": "司潔妮",
+  "withdraw": 24,
+  "people": 1784,
+  "rates": {
+    "all": "1.35",
+    "recent5Years": "1.58",
+    "recent3Years": "0.81"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "商業英文會議與簡報(一)",
+        "en": "English for Business Meetings and Presentations I"
+      },
+      "id": "366298",
+      "courseType": "△",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎專業英文-工程(一)",
+        "en": "Basic ESP(Engineering) I"
+      },
+      "id": "366339",
+      "courseType": "△",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "364992",
+      "courseType": "△",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "創新創業英文(二)",
+        "en": "English for Innovation and Entrepreneurship II"
+      },
+      "id": "357580",
+      "courseType": "△",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創新創業英文(一)",
+        "en": "English for Innovation and Entrepreneurship I"
+      },
+      "id": "352581",
+      "courseType": "△",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文溝通與應用(二)",
+        "en": "English Communication and Application II (ECA Courses)"
+      },
+      "id": "341453",
+      "courseType": "△",
+      "people": "45",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創新創業英文(二)",
+        "en": "English for Innovation and Entrepreneurship II"
+      },
+      "id": "345262",
+      "courseType": "△",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "344186",
+      "courseType": "△",
+      "people": "20",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文溝通與應用(一)",
+        "en": "English Communication and Application I (ECA Courses)"
+      },
+      "id": "334915",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "創新創業英文(一)",
+        "en": "English for Innovation and Entrepreneurship I"
+      },
+      "id": "338629",
+      "courseType": "△",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "336859",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文溝通與應用(二)",
+        "en": "English Communication and Application II (ECA Courses)"
+      },
+      "id": "327688",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎職場英文溝通(二)",
+        "en": "Basic Workplace English II"
+      },
+      "id": "331351",
+      "courseType": "△",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "330955",
+      "courseType": "△",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文溝通與應用(一)",
+        "en": "English Communication and Application I (ECA Courses)"
+      },
+      "id": "320308",
+      "courseType": "△",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎職場英文溝通(一)",
+        "en": "Basic Workplace English I"
+      },
+      "id": "324096",
+      "courseType": "△",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "323280",
+      "courseType": "△",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文溝通與應用(二)",
+        "en": "English Communication and Application II (ECA Courses)"
+      },
+      "id": "313060",
+      "courseType": "△",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎英文閱讀與字彙(二)",
+        "en": "Basic English Reading and Vocabulary II"
+      },
+      "id": "317098",
+      "courseType": "△",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "316157",
+      "courseType": "△",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文溝通與應用(一)",
+        "en": "English Communication and Application I (ECA Courses)"
+      },
+      "id": "307489",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎英文閱讀與字彙(一)",
+        "en": "Basic English Reading and Vocabulary I"
+      },
+      "id": "310164",
+      "courseType": "△",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "308752",
+      "courseType": "△",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "297463",
+      "courseType": "△",
+      "people": "51",
+      "peopleWithdraw": "1",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗(一)",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "302380",
+      "courseType": "☆",
+      "people": "41",
+      "peopleWithdraw": "10",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "301629",
+      "courseType": "△",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "292631",
+      "courseType": "△",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "294871",
+      "courseType": "△",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "284037",
+      "courseType": "△",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "286931",
+      "courseType": "△",
+      "people": "41",
+      "peopleWithdraw": "3",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "276929",
+      "courseType": "△",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "279545",
+      "courseType": "△",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "269632",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "272874",
+      "courseType": "△",
+      "people": "38",
+      "peopleWithdraw": "2",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "262619",
+      "courseType": "△",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "265644",
+      "courseType": "△",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "257273",
+      "courseType": "△",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "255148",
+      "courseType": "△",
+      "people": "51",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "245346",
+      "courseType": "△",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "248238",
+      "courseType": "△",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "238538",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "241417",
+      "courseType": "△",
+      "people": "49",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "231834",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英文閱讀與聽講練習",
+        "en": "English in Practice"
+      },
+      "id": "234648",
+      "courseType": "△",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

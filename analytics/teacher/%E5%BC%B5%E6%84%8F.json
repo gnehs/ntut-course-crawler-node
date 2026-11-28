@@ -1,0 +1,38 @@
+{
+  "name": "張意",
+  "withdraw": 6,
+  "people": 84,
+  "rates": {
+    "all": "7.14",
+    "recent5Years": "7.14",
+    "recent3Years": "7.14"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "設計思考實務",
+        "en": "Design Thinking In Practice"
+      },
+      "id": "367121",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "4",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "設計思考實務",
+        "en": "Design Thinking In Practice"
+      },
+      "id": "352254",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

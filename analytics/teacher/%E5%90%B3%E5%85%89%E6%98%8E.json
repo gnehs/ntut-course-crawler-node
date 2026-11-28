@@ -1,0 +1,51 @@
+{
+  "name": "吳光明",
+  "withdraw": 3,
+  "people": 80,
+  "rates": {
+    "all": "3.75",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "商事法",
+        "en": "Business Law"
+      },
+      "id": "280722",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "3",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "商事法",
+        "en": "Business Law"
+      },
+      "id": "280723",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "證券交易法",
+        "en": "Securities and Exchange Act"
+      },
+      "id": "274054",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

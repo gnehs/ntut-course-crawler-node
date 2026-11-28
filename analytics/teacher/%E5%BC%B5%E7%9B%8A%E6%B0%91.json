@@ -1,0 +1,51 @@
+{
+  "name": "張益民",
+  "withdraw": 2,
+  "people": 157,
+  "rates": {
+    "all": "1.27",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "核工導論",
+        "en": "Introduction of Nuclear Engineering"
+      },
+      "id": "199589",
+      "courseType": "★",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "近代物理",
+        "en": "Modern Physics"
+      },
+      "id": "171333",
+      "courseType": "★",
+      "people": "60",
+      "peopleWithdraw": "2",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "近代物理",
+        "en": "Modern Physics"
+      },
+      "id": "141457",
+      "courseType": "★",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

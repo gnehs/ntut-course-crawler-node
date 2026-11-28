@@ -1,0 +1,51 @@
+{
+  "name": "鄧勇誌",
+  "withdraw": 2,
+  "people": 132,
+  "rates": {
+    "all": "1.52",
+    "recent5Years": "3.28",
+    "recent3Years": "3.28"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+      },
+      "id": "335103",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "2",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理學",
+        "en": "Management"
+      },
+      "id": "209679",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理會計",
+        "en": "Management Accounting"
+      },
+      "id": "205295",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

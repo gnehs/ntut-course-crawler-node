@@ -1,0 +1,51 @@
+{
+  "name": "李前民",
+  "withdraw": 8,
+  "people": 41,
+  "rates": {
+    "all": "19.51",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "電腦整合設計與製造(一)",
+        "en": "Computer-Integrated-Design & -Manufacturing(I)"
+      },
+      "id": "60727",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦整合設計與製造(二)",
+        "en": "Computer-Integrated-Design &-Manufacturing(II)"
+      },
+      "id": "52863",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "8",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基本設計",
+        "en": "Basic Design"
+      },
+      "id": "50819",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

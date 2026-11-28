@@ -1,0 +1,64 @@
+{
+  "name": "林士欽",
+  "withdraw": 4,
+  "people": 118,
+  "rates": {
+    "all": "3.39",
+    "recent5Years": "3.39",
+    "recent3Years": "5.06"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "刑法",
+        "en": "Criminal Law"
+      },
+      "id": "366913",
+      "courseType": "▲",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "刑法總則",
+        "en": "Criminal Code-General Principles"
+      },
+      "id": "360313",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "刑法分則",
+        "en": "Criminal Code: Specific Provisions"
+      },
+      "id": "352556",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "2",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "刑法分則",
+        "en": "Criminal Code: Specific Provisions"
+      },
+      "id": "303182",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

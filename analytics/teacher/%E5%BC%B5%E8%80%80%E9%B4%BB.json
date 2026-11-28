@@ -1,0 +1,51 @@
+{
+  "name": "張耀鴻",
+  "withdraw": 10,
+  "people": 115,
+  "rates": {
+    "all": "8.70",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object-oriented programming"
+      },
+      "id": "141481",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "5",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object-oriented programming"
+      },
+      "id": "129322",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "4",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "數位系統",
+        "en": "Digital System"
+      },
+      "id": "112643",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "1",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

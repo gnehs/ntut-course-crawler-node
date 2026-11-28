@@ -1,0 +1,38 @@
+{
+  "name": "蘇聖雄",
+  "withdraw": 1,
+  "people": 100,
+  "rates": {
+    "all": "1.00",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "歷史與人生",
+        "en": "History and Life"
+      },
+      "id": "249407",
+      "courseType": "△",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "歷史與人生",
+        "en": "History and Life"
+      },
+      "id": "229292",
+      "courseType": "△",
+      "people": "57",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    }
+  ]
+}

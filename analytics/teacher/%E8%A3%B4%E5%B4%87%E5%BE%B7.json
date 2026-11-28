@@ -1,0 +1,38 @@
+{
+  "name": "裴崇德",
+  "withdraw": 2,
+  "people": 31,
+  "rates": {
+    "all": "6.45",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "第二外國語（二）-德文",
+        "en": "2nd Foreign Language II-German"
+      },
+      "id": "144501",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "第二外國語（一）-德文",
+        "en": "2nd Foreign Language I-German"
+      },
+      "id": "142139",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "1",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

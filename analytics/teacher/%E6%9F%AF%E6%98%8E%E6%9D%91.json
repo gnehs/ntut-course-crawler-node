@@ -1,0 +1,4562 @@
+{
+  "name": "柯明村",
+  "withdraw": 91,
+  "people": 12139,
+  "rates": {
+    "all": "0.75",
+    "recent5Years": "1.05",
+    "recent3Years": "0.46"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "361306",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源績效量測驗證與碳管理",
+        "en": "Energy Performance Measurement and Verification and Carbon Management"
+      },
+      "id": "363761",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "364932",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "365019",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "365021",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "366022",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "能源績效量測驗證與碳管理",
+        "en": "Energy Performance Measurement and Verification and Carbon Management"
+      },
+      "id": "363761",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "366022",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "354601",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題二",
+        "en": "Special Practical Projects II"
+      },
+      "id": "354780",
+      "courseType": "▲",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "356394",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "358266",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "358326",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "358574",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "356394",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "358574",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "347283",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題一",
+        "en": "Special Practical Projects I"
+      },
+      "id": "348115",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源績效量測驗證與碳管理",
+        "en": "Energy Performance Measurement and Verification and Carbon Management"
+      },
+      "id": "349629",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "350877",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "350989",
+      "courseType": "▲",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "350991",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "351236",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "能源績效量測驗證與碳管理",
+        "en": "Energy Performance Measurement and Verification and Carbon Management"
+      },
+      "id": "349629",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "351236",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "340626",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "342367",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "344134",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "344214",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "344470",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "342367",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "344470",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "333528",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "333534",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源績效量測驗證與碳管理",
+        "en": "Energy Performance Measurement and Verification and Carbon Management"
+      },
+      "id": "338783",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "336767",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "336896",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "336898",
+      "courseType": "▲",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "337155",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "337155",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源績效量測驗證與碳管理",
+        "en": "Energy Performance Measurement and Verification and Carbon Management"
+      },
+      "id": "338783",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "327374",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "1",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "328550",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "329927",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "330001",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "330258",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "328550",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "330258",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "318862",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "320010",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "322182",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "322318",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "322320",
+      "courseType": "▲",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "322631",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "322631",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題二",
+        "en": "Special Practical Projects II"
+      },
+      "id": "312387",
+      "courseType": "▲",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "312756",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "4",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "313880",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "315208",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "315285",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "2",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "315537",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "313880",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "3",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "315537",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "304220",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "304225",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題一",
+        "en": "Special Practical Projects I"
+      },
+      "id": "305120",
+      "courseType": "▲",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "305442",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "307637",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "307826",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "307828",
+      "courseType": "▲",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "308084",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "308084",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "297148",
+      "courseType": "★",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "298129",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "300534",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "300650",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "300897",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "298129",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "300897",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "290921",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "8",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "292126",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "289355",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "289357",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "289554",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "289554",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "282943",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "283539",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "284701",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "285981",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "286093",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "286338",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "284701",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "286338",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "275308",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "275313",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "276409",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "278759",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "278955",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "278957",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "279202",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "279202",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "268933",
+      "courseType": "▲",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "269439",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "270553",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "271976",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "272112",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "273627",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "270553",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "273627",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "261206",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "261211",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "2",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "262279",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "264704",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "264915",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "264917",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "265108",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "265108",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "256417",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "256945",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "258043",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "254091",
+      "courseType": "▲",
+      "people": "61",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "254285",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "254566",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "254566",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "258043",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "243936",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "243941",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "1",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "244980",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "4",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "247186",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "247415",
+      "courseType": "▲",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "247417",
+      "courseType": "▲",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "247690",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "247690",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "237780",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "238264",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "3",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "239331",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "240302",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "240518",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "240852",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "239331",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "240852",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "230462",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "230466",
+      "courseType": "★",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "231571",
+      "courseType": "▲",
+      "people": "68",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "233461",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "233774",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "233776",
+      "courseType": "▲",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "235623",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "235623",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "224452",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "224941",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "228877",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "226787",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "226788",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "226987",
+      "courseType": "▲",
+      "people": "68",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "226989",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "227318",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "227318",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "228877",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "105",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "217540",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "217544",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "218570",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "220729",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "220732",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "220734",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "222678",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "222678",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "208525",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "209020",
+      "courseType": "▲",
+      "people": "68",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "210064",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "214236",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "214238",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "214556",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "210064",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "214556",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "204672",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "204675",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "205784",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "211153",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "211155",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "211480",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "211480",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "195643",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "3",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "196599",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "2",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "203761",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "201348",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "201350",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "201694",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "196599",
+      "courseType": "★",
+      "people": "37",
+      "peopleWithdraw": "2",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "201694",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "191509",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "191512",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "192505",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調熱力學",
+        "en": "Thermodynamics for Refrigeration and Air-condition"
+      },
+      "id": "197758",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "企業實習",
+        "en": "Enterprise Intern Practice"
+      },
+      "id": "197760",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "199426",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "199426",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "103",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "182731",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "182750",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "182808",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "188399",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "182731",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "188399",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "180021",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "180024",
+      "courseType": "★",
+      "people": "52",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "180034",
+      "courseType": "▲",
+      "people": "73",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "185579",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "185579",
+      "courseType": "★",
+      "people": "35",
+      "peopleWithdraw": "0",
+      "year": "102",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源工程實習",
+        "en": "Practice of Energy Engineering"
+      },
+      "id": "173024",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "173034",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "173051",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "173839",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "174947",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "173839",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "174947",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "168218",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "168221",
+      "courseType": "★",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "168514",
+      "courseType": "▲",
+      "people": "59",
+      "peopleWithdraw": "1",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "170049",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "175683",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "175683",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "能源工程實習",
+        "en": "Practice of Energy Engineering"
+      },
+      "id": "152118",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "152128",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "152145",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "152863",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "157137",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "152863",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "157137",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "149323",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "149327",
+      "courseType": "★",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "149608",
+      "courseType": "▲",
+      "people": "65",
+      "peopleWithdraw": "2",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "153906",
+      "courseType": "▲",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "154437",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "154437",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "144064",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "144326",
+      "courseType": "▲",
+      "people": "64",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "144816",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "1",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "147246",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "144816",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "1",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "147246",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（二）",
+        "en": "Special Projects"
+      },
+      "id": "138521",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "138548",
+      "courseType": "▲",
+      "people": "85",
+      "peopleWithdraw": "11",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "能源與環境",
+        "en": "Energy and Environment"
+      },
+      "id": "141315",
+      "courseType": "★",
+      "people": "58",
+      "peopleWithdraw": "1",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "140096",
+      "courseType": "▲",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "140363",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "140363",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "99",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題（一）",
+        "en": "Special Projects"
+      },
+      "id": "133476",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "136165",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "137033",
+      "courseType": "▲",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "135383",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "135383",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "136165",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "126768",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "126799",
+      "courseType": "▲",
+      "people": "77",
+      "peopleWithdraw": "2",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "128019",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "128335",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "128725",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "書報討論",
+        "en": "Engineering Seminar"
+      },
+      "id": "128019",
+      "courseType": "▲",
+      "people": "66",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "128725",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "98",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "116360",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "116401",
+      "courseType": "▲",
+      "people": "67",
+      "peopleWithdraw": "1",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "117179",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "120642",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "117179",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "120642",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "113654",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "113659",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "113684",
+      "courseType": "▲",
+      "people": "62",
+      "peopleWithdraw": "3",
+      "year": "97",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "118410",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "118410",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "97",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "106477",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "106518",
+      "courseType": "▲",
+      "people": "56",
+      "peopleWithdraw": "1",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "107205",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "110644",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "107205",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "110644",
+      "courseType": "★",
+      "people": "26",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "103776",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "103781",
+      "courseType": "★",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程與設計",
+        "en": "Air-conditioning engineering and design"
+      },
+      "id": "103805",
+      "courseType": "▲",
+      "people": "58",
+      "peopleWithdraw": "2",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "108332",
+      "courseType": "▲",
+      "people": "37",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "108584",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "108584",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "96960",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "1",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "97418",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "99238",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "97418",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "1",
+      "year": "95",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "99238",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "94333",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍系統設計",
+        "en": "Design of Refrigeration Systems"
+      },
+      "id": "94334",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "空調工程",
+        "en": "Air-Conditioning Engineering"
+      },
+      "id": "94361",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "98434",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "98434",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "87930",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "87971",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "88375",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "91659",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "計算流體力學",
+        "en": "Computing Fluid Dynamics"
+      },
+      "id": "88375",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "91659",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "空調工程",
+        "en": "Air-Conditioning Engineering"
+      },
+      "id": "85736",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "1",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "氣流模擬分析",
+        "en": "Analysis and modeling of air distribution"
+      },
+      "id": "86085",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "90078",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "氣流模擬分析",
+        "en": "Analysis and modeling of air distribution"
+      },
+      "id": "86085",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "90078",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "79238",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調原理",
+        "en": "Principles of Refrigeration and Air-Conditioning"
+      },
+      "id": "79274",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "79657",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "82649",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "79657",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "82649",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "76950",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "冷凍空調節能技術",
+        "en": "Enegry Conservation in HVAC & R"
+      },
+      "id": "76955",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "氣流模擬分析",
+        "en": "Analysis and modeling of air distribution"
+      },
+      "id": "77351",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "80623",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "80890",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "氣流模擬分析",
+        "en": "Analysis and modeling of air distribution"
+      },
+      "id": "77351",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "80890",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "70900",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "70918",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "1",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "71185",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "74779",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "71185",
+      "courseType": "★",
+      "people": "7",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "74779",
+      "courseType": "★",
+      "people": "6",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "68642",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "68674",
+      "courseType": "▲",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "68922",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "72645",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "68922",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "72645",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "62977",
+      "courseType": "▲",
+      "people": "57",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "63263",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "65940",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "63263",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "65940",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "60885",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "60914",
+      "courseType": "▲",
+      "people": "60",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "61193",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "64044",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "61193",
+      "courseType": "★",
+      "people": "4",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "64044",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "53027",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "53045",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "53273",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "實務專題",
+        "en": "Special Projects"
+      },
+      "id": "57903",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "58047",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "53273",
+      "courseType": "★",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "儲能技術",
+        "en": "Energy Storage Technology"
+      },
+      "id": "58047",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "50968",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "51189",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+      },
+      "id": "54919",
+      "courseType": "▲",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "通風節能技術",
+        "en": "Ventilation Engergy Conservation Technology"
+      },
+      "id": "51189",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

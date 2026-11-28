@@ -1,0 +1,532 @@
+{
+  "name": "楊神珠",
+  "withdraw": 15,
+  "people": 577,
+  "rates": {
+    "all": "2.60",
+    "recent5Years": "2.45",
+    "recent3Years": "3.25"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "357147",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "357147",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "114",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理與商業智慧",
+        "en": "Customer Relationship Management and Business Intelligence"
+      },
+      "id": "347200",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財金時事選讀",
+        "en": "Selective News and Events in Finance"
+      },
+      "id": "348588",
+      "courseType": "★",
+      "people": "29",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理與商業智慧",
+        "en": "Customer Relationship Management and Business Intelligence"
+      },
+      "id": "350860",
+      "courseType": "★",
+      "people": "2",
+      "peopleWithdraw": "1",
+      "year": "114",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "343092",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "經貿英文個案研討",
+        "en": "Business Case Studies in English"
+      },
+      "id": "345502",
+      "courseType": "★",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "經貿英文個案研討",
+        "en": "Business Case Studies in English"
+      },
+      "id": "346269",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "345014",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "343092",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "345014",
+      "courseType": "★",
+      "people": "34",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "經貿英文個案研討",
+        "en": "Business Case Studies in English"
+      },
+      "id": "346269",
+      "courseType": "★",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "329266",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "330876",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "329266",
+      "courseType": "★",
+      "people": "23",
+      "peopleWithdraw": "2",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "330876",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "112",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "316897",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "316083",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "316083",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "316897",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "309124",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "309125",
+      "courseType": "▲",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "309124",
+      "courseType": "▲",
+      "people": "53",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "309125",
+      "courseType": "▲",
+      "people": "2",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "298828",
+      "courseType": "▲",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "299009",
+      "courseType": "▲",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "301521",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "298828",
+      "courseType": "▲",
+      "people": "9",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+      },
+      "id": "299009",
+      "courseType": "▲",
+      "people": "3",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "301521",
+      "courseType": "★",
+      "people": "11",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "293968",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "2",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "294113",
+      "courseType": "▲",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "293968",
+      "courseType": "▲",
+      "people": "31",
+      "peopleWithdraw": "2",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+      },
+      "id": "294113",
+      "courseType": "▲",
+      "people": "5",
+      "peopleWithdraw": "0",
+      "year": "110",
+      "sem": 1,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "產業發展與文化資產專題",
+        "en": "Industry development and Cultural Heritage"
+      },
+      "id": "285484",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "286811",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "產業發展與文化資產專題",
+        "en": "Industry development and Cultural Heritage"
+      },
+      "id": "285484",
+      "courseType": "★",
+      "people": "0",
+      "peopleWithdraw": "0",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "286811",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "1",
+      "year": "109",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "272783",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+      },
+      "id": "272783",
+      "courseType": "★",
+      "people": "10",
+      "peopleWithdraw": "0",
+      "year": "108",
+      "sem": 2,
+      "department": "研究所(日間部、進修部、週末碩士班)"
+    }
+  ]
+}

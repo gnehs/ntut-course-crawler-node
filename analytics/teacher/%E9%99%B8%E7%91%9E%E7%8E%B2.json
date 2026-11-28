@@ -1,0 +1,38 @@
+{
+  "name": "陸瑞玲",
+  "withdraw": 3,
+  "people": 129,
+  "rates": {
+    "all": "2.33",
+    "recent5Years": "2.33",
+    "recent3Years": "2.33"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "健康與人生",
+        "en": "Health and Life"
+      },
+      "id": "366885",
+      "courseType": "△",
+      "people": "67",
+      "peopleWithdraw": "1",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "健康與人生",
+        "en": "Health and Life"
+      },
+      "id": "366895",
+      "courseType": "△",
+      "people": "62",
+      "peopleWithdraw": "2",
+      "year": "115",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

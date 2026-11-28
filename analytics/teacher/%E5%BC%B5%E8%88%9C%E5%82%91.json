@@ -1,0 +1,38 @@
+{
+  "name": "張舜傑",
+  "withdraw": 4,
+  "people": 77,
+  "rates": {
+    "all": "5.19",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "電腦網路",
+        "en": "Computer Network"
+      },
+      "id": "192255",
+      "courseType": "★",
+      "people": "32",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "電腦網路",
+        "en": "Computer Network"
+      },
+      "id": "186181",
+      "courseType": "★",
+      "people": "45",
+      "peopleWithdraw": "4",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

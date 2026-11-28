@@ -1,0 +1,38 @@
+{
+  "name": "陳文祥",
+  "withdraw": 0,
+  "people": 68,
+  "rates": {
+    "all": "0.00",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "哲學入門",
+        "en": "Philosophy introduction"
+      },
+      "id": "166027",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "倫理學概論",
+        "en": "Introduction to Ethics"
+      },
+      "id": "154192",
+      "courseType": "△",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

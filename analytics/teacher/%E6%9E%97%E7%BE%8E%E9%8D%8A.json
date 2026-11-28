@@ -1,0 +1,922 @@
+{
+  "name": "林美鍊",
+  "withdraw": 3,
+  "people": 2345,
+  "rates": {
+    "all": "0.13",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "105209",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "106229",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "106246",
+      "courseType": "▲",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "106250",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "112042",
+      "courseType": "★",
+      "people": "63",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "102512",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "102533",
+      "courseType": "★",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "102536",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "102551",
+      "courseType": "★",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理學",
+        "en": "Management"
+      },
+      "id": "103554",
+      "courseType": "▲",
+      "people": "55",
+      "peopleWithdraw": "0",
+      "year": "96",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "95682",
+      "courseType": "★",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "95694",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "96671",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "96688",
+      "courseType": "▲",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "96692",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "93160",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "93163",
+      "courseType": "★",
+      "people": "28",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "93178",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "94093",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理學",
+        "en": "Management"
+      },
+      "id": "94121",
+      "courseType": "▲",
+      "people": "43",
+      "peopleWithdraw": "0",
+      "year": "95",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "84125",
+      "courseType": "★",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "84158",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "84161",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "84165",
+      "courseType": "★",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "84177",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "83989",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "83992",
+      "courseType": "★",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "84007",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "84016",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "管理學",
+        "en": "Management"
+      },
+      "id": "84044",
+      "courseType": "▲",
+      "people": "45",
+      "peopleWithdraw": "0",
+      "year": "94",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "78062",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "79004",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "79007",
+      "courseType": "▲",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "79028",
+      "courseType": "★",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "83059",
+      "courseType": "★",
+      "people": "54",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "75770",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "75773",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "75792",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "76710",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resources and Personnel Management"
+      },
+      "id": "76726",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "93",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "69724",
+      "courseType": "★",
+      "people": "24",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "69733",
+      "courseType": "▲",
+      "people": "39",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "69744",
+      "courseType": "★",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "70661",
+      "courseType": "▲",
+      "people": "44",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "70686",
+      "courseType": "★",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "67459",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "67478",
+      "courseType": "★",
+      "people": "46",
+      "peopleWithdraw": "1",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "67492",
+      "courseType": "★",
+      "people": "31",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+      },
+      "id": "68435",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "品質管理實習",
+        "en": "Quality Control Lab."
+      },
+      "id": "68436",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "92",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "61867",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "61886",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "成本會計",
+        "en": "Cost Accounting"
+      },
+      "id": "62705",
+      "courseType": "▲",
+      "people": "47",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "62708",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "62733",
+      "courseType": "★",
+      "people": "27",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "59614",
+      "courseType": "★",
+      "people": "14",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "59635",
+      "courseType": "★",
+      "people": "22",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "59655",
+      "courseType": "★",
+      "people": "12",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "60634",
+      "courseType": "▲",
+      "people": "41",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "60635",
+      "courseType": "▲",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "91",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務報表分析",
+        "en": "Financial statement Analysis"
+      },
+      "id": "52000",
+      "courseType": "★",
+      "people": "21",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "財務報表分析",
+        "en": "Financial statement Analysis"
+      },
+      "id": "52014",
+      "courseType": "★",
+      "people": "33",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題研究",
+        "en": "Independent Study"
+      },
+      "id": "52784",
+      "courseType": "▲",
+      "people": "18",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "52810",
+      "courseType": "★",
+      "people": "13",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "組織與管理",
+        "en": "Organization and Management"
+      },
+      "id": "52823",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "49898",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "49919",
+      "courseType": "★",
+      "people": "16",
+      "peopleWithdraw": "1",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工業心理學",
+        "en": "Industrial Psychology"
+      },
+      "id": "49944",
+      "courseType": "★",
+      "people": "15",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+      },
+      "id": "50694",
+      "courseType": "▲",
+      "people": "42",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "專題製作",
+        "en": "Independent Study"
+      },
+      "id": "50695",
+      "courseType": "▲",
+      "people": "19",
+      "peopleWithdraw": "0",
+      "year": "90",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

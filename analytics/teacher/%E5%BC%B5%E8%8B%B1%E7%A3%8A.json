@@ -1,0 +1,38 @@
+{
+  "name": "張英磊",
+  "withdraw": 4,
+  "people": 42,
+  "rates": {
+    "all": "9.52",
+    "recent5Years": "9.52",
+    "recent3Years": "9.52"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "行政法",
+        "en": "Administrative Law"
+      },
+      "id": "345975",
+      "courseType": "▲",
+      "people": "25",
+      "peopleWithdraw": "3",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "英美契約法",
+        "en": "Anglo-American Contact Law"
+      },
+      "id": "338820",
+      "courseType": "▲",
+      "people": "17",
+      "peopleWithdraw": "1",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

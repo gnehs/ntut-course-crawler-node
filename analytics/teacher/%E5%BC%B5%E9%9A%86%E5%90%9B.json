@@ -1,0 +1,51 @@
+{
+  "name": "張隆君",
+  "withdraw": 5,
+  "people": 138,
+  "rates": {
+    "all": "3.62",
+    "recent5Years": "3.62",
+    "recent3Years": "8.06"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "資料結構",
+        "en": "Data structure"
+      },
+      "id": "345551",
+      "courseType": "★",
+      "people": "62",
+      "peopleWithdraw": "5",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "程式設計(二)",
+        "en": "Computer programming (II)"
+      },
+      "id": "316162",
+      "courseType": "▲",
+      "people": "46",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "程式設計(ㄧ)",
+        "en": "Computer programming (I)"
+      },
+      "id": "308759",
+      "courseType": "▲",
+      "people": "30",
+      "peopleWithdraw": "0",
+      "year": "111",
+      "sem": 1,
+      "department": "進修部"
+    }
+  ]
+}

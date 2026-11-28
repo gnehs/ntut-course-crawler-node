@@ -1,0 +1,38 @@
+{
+  "name": "蔡宜學",
+  "withdraw": 0,
+  "people": 75,
+  "rates": {
+    "all": "0.00",
+    "recent5Years": "0.00",
+    "recent3Years": "0.00"
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "通訊與生活",
+        "en": "Communication Technology and Human Life"
+      },
+      "id": "346220",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "資訊與生活",
+        "en": "Computer and Human Life"
+      },
+      "id": "339073",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "113",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

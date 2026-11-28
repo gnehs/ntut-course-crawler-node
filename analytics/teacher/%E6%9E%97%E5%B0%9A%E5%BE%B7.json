@@ -1,0 +1,415 @@
+{
+  "name": "林尚德",
+  "withdraw": 45,
+  "people": 1314,
+  "rates": {
+    "all": "3.42",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "中級英文閱讀與字彙(一)",
+        "en": "Intermediate English Reading and Vocabulary I"
+      },
+      "id": "266625",
+      "courseType": "△",
+      "people": "47",
+      "peopleWithdraw": "1",
+      "year": "108",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "中級英文閱讀與字彙(二)",
+        "en": "Intermediate English Reading and Vocabulary II"
+      },
+      "id": "259586",
+      "courseType": "△",
+      "people": "36",
+      "peopleWithdraw": "0",
+      "year": "107",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "中級英文閱讀與字彙(一)",
+        "en": "Intermediate English Reading and Vocabulary I"
+      },
+      "id": "249332",
+      "courseType": "△",
+      "people": "42",
+      "peopleWithdraw": "2",
+      "year": "107",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎文法及流行文化寫作",
+        "en": "Basic Grammar and Writing about Popular Culture"
+      },
+      "id": "242099",
+      "courseType": "△",
+      "people": "25",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "240452",
+      "courseType": "△",
+      "people": "49",
+      "peopleWithdraw": "0",
+      "year": "106",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "基礎文法及寫作技巧",
+        "en": "Basic Grammar and Writing Skills"
+      },
+      "id": "235815",
+      "courseType": "△",
+      "people": "24",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "233708",
+      "courseType": "△",
+      "people": "55",
+      "peopleWithdraw": "1",
+      "year": "106",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "語文測驗(一)",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "228572",
+      "courseType": "☆",
+      "people": "52",
+      "peopleWithdraw": "6",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎職場英文入門",
+        "en": "Basic Workplace English"
+      },
+      "id": "229137",
+      "courseType": "△",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "基礎新聞英語",
+        "en": "Basic News English"
+      },
+      "id": "221694",
+      "courseType": "△",
+      "people": "34",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗(一)",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "222827",
+      "courseType": "☆",
+      "people": "65",
+      "peopleWithdraw": "4",
+      "year": "105",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程英文實務與演練",
+        "en": "English practice and training for engineers"
+      },
+      "id": "220563",
+      "courseType": "▲",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "105",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "209060",
+      "courseType": "△",
+      "people": "48",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "205750",
+      "courseType": "△",
+      "people": "50",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "工程英文實務與演練",
+        "en": "English practice and training for engineers"
+      },
+      "id": "212323",
+      "courseType": "▲",
+      "people": "38",
+      "peopleWithdraw": "0",
+      "year": "104",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "195687",
+      "courseType": "△",
+      "people": "51",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "201346",
+      "courseType": "△",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "201362",
+      "courseType": "△",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 2,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "工程英文實務與演練",
+        "en": "English practice and training for engineers"
+      },
+      "id": "200057",
+      "courseType": "★",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "197755",
+      "courseType": "△",
+      "people": "40",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "進階英文閱讀與聽講練習",
+        "en": "Advanced English in Practice"
+      },
+      "id": "197769",
+      "courseType": "△",
+      "people": "20",
+      "peopleWithdraw": "0",
+      "year": "103",
+      "sem": 1,
+      "department": "進修部"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "189841",
+      "courseType": "☆",
+      "people": "54",
+      "peopleWithdraw": "5",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "189842",
+      "courseType": "☆",
+      "people": "49",
+      "peopleWithdraw": "3",
+      "year": "102",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "186376",
+      "courseType": "☆",
+      "people": "31",
+      "peopleWithdraw": "1",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "186377",
+      "courseType": "☆",
+      "people": "24",
+      "peopleWithdraw": "2",
+      "year": "102",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "176541",
+      "courseType": "☆",
+      "people": "67",
+      "peopleWithdraw": "5",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "176542",
+      "courseType": "☆",
+      "people": "58",
+      "peopleWithdraw": "3",
+      "year": "101",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "169735",
+      "courseType": "☆",
+      "people": "53",
+      "peopleWithdraw": "5",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "169739",
+      "courseType": "☆",
+      "people": "17",
+      "peopleWithdraw": "0",
+      "year": "101",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "157495",
+      "courseType": "☆",
+      "people": "42",
+      "peopleWithdraw": "5",
+      "year": "100",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "語文測驗",
+        "en": "Course in English language Proficiency Tests"
+      },
+      "id": "155855",
+      "courseType": "☆",
+      "people": "57",
+      "peopleWithdraw": "1",
+      "year": "100",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}

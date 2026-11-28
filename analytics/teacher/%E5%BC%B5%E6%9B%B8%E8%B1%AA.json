@@ -1,0 +1,64 @@
+{
+  "name": "張書豪",
+  "withdraw": 9,
+  "people": 322,
+  "rates": {
+    "all": "2.80",
+    "recent5Years": null,
+    "recent3Years": null
+  },
+  "course": [
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "143524",
+      "courseType": "△",
+      "people": "89",
+      "peopleWithdraw": "4",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "143926",
+      "courseType": "△",
+      "people": "80",
+      "peopleWithdraw": "1",
+      "year": "99",
+      "sem": 2,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "137869",
+      "courseType": "△",
+      "people": "75",
+      "peopleWithdraw": "2",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    },
+    {
+      "name": {
+        "zh": "國文",
+        "en": "Chinese"
+      },
+      "id": "138307",
+      "courseType": "△",
+      "people": "78",
+      "peopleWithdraw": "2",
+      "year": "99",
+      "sem": 1,
+      "department": "main"
+    }
+  ]
+}
