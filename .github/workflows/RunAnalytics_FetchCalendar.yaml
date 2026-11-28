@@ -56,7 +56,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: analytics-data
-          path: dist/analytics/*.json
+          path: dist/analytics/
           if-no-files-found: error
           retention-days: 2
 
